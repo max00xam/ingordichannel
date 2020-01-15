@@ -1,0 +1,54 @@
+ {
+  "fanart":"",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Ingordi.jpg",
+  "menu": [
+    {
+       "plot": "Decalogo (Dekalog) è una serie di 10 mediometraggi diretti dal regista polacco Krzysztof Kieślowski. Ogni episodio dura circa 55 minuti e racconta una storia di vita quotidiana indipendente da quelle degli altri episodi e ispirata, talora vagamente, talora in modo più esplicito, a uno dei dieci comandamenti biblici. La sceneggiatura è curata dallo stesso Kieślowski insieme a Krzysztof Piesiewicz.",
+       "title": "Krzysztof Kieślowski 'DECALOGO'",
+       "link": "/FILM/Decalogo.json",
+       "fanart": "",
+       "thumbnail": ""
+    },
+    {
+      "plot": "John Ronald Reuel Tolkien (Bloemfontein, 3 gennaio 1892 – Bournemouth, 2 settembre 1973) è stato uno scrittore, filologo, glottoteta, accademico e linguista britannico. Importante studioso della lingua anglosassone, è l'autore de Il Signore degli Anelli e di altre celebri opere riconosciute come pietre miliari del genere high fantasy, quali Lo Hobbit e Il Silmarillion. Fu Rawlinson and Bosworth Professor di antico inglese dal 1925 al 1945 e Merton Professor di lingua e letteratura inglese dal 1945 al 1959 presso l'Università di Oxford,[2] dove contribuì alla creazione del New Oxford English Dictionary. Fu amico intimo di C. S. Lewis, insieme al quale fu membro di un informale gruppo letterario conosciuto come Inklings. Fu anche membro della Royal Society of Literature.",
+      "title": "J. R. R. Tolkien",
+      "link": "/FILM/Tolkien.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkienfanart.png", 
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkien.jpg"
+    },
+    {
+      "title": "Fast & Furious",
+      "link": "/FILM/Fast%26Furius.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/FastFurious.png"
+    },
+     {
+      "title": "La trilogia del cornetto",
+      "link": "/FILM/Cornetto.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/TrilogiaDelCornetto.jpg"
+    },
+     {
+      "title": "Taxxi",
+      "link": "/FILM/Taxxi.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Taxxi.jpg"
+    },
+     {
+      "title": "Fantozzi Rag. Ugo - W.I.P.",
+      "link": "/FILM/fantozzi.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/fantozzi.jpg"
+    },
+     {
+      "plot": "Pirati dei Caraibi (Pirates of the Caribbean) è una saga cinematografica della Disney, prodotta da Jerry Bruckheimer e basata sull'attrazione Pirates of the Caribbean dei parchi Walt Disney. La saga è composta da cinque film e si è espansa in fumetti, romanzi e altri media. La saga ha come protagonista il pirata Jack Sparrow, interpretato da Johnny Depp, e ha incassato complessivamente quattro miliardi e mezzo di dollari al botteghino.",
+      "title": "Pirati dei Caraibi",
+      "link": "/FILM/PiratiDeiCaraibi_list.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Pirati_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Pirati.jpg"
+    },
+     {
+      "plot": "",
+      "title": "",
+      "link": "",
+      "fanart": "",
+      "thumbnail": ""
+    }
+  ]
+}

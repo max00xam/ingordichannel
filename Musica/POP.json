@@ -1,0 +1,28 @@
+{
+  "movies_list": [
+    {
+      "title": "Torrent - Michael Jackson Dangerous Tour live in Bucharest, Romania 1992",
+      "year": "1992",
+      "plot": "Registrato il 1º ottobre 1992 di fronte a 90.000 spettatori, Live in Bucharest: The Dangerous Tour è il primo live di Michael Jackson entrato in commercio",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Mj-lib-tdt.jpg/220px-Mj-lib-tdt.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:8AD2F114D982BAB6CB598E54638B066759090757&dn=Michael+Jackson+Dangerous+Tour+live+in+Bucharest%2C+Romania+1992+%281080p+x265+HappyLee%29&tr=UDP%3A%2F%2FTRACKER.LEECHERS-PARADISE.ORG%3A6969%2FANNOUNCE&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce",
+          "quality":"HD"
+              }
+      ]
+    },
+    {
+      "title": "Torrent - Adele - Live alla Royal Albert Hall 2011",
+      "year": "2011",
+      "plot": "Live at the Royal Albert Hall è il primo album dal vivo della cantante britannica Adele, pubblicato il 29 novembre 2011 dalla XL Recordings. ... nella tappa londinese del tour Adele Live, svoltasi il 22 settembre 2011 al Royal Albert Hall.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE3NzY5NjQxMV5BMl5BanBnXkFtZTcwMzk5MTE5OA@@._V1_UY268_CR8,0,182,268_AL_.jpg",
+      "links": [
+        {
+          "url": "magnet:?xt=urn:btih:FA3562E8D6AC195F60453A80183397F4D81AF777&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet",
+          "quality":"HD"
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,16 @@
+{
+"menu": [
+    {
+      "title": "Motori",
+      "link": "/DOCUMENTARI/motori/motori.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/motori.jpg",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/motori.jpg"
+    },
+    {
+      "title": "Socio Politici",
+      "link": "/DOCUMENTARI/politici/socio.json",
+      "fanart": "",
+      "thumbnail": ""
+    }
+  ]
+}

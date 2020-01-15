@@ -1,0 +1,32 @@
+{
+    "movies_list": [
+        {
+            "tmdb_id": 318917,
+            "title": "Lui è tornato",
+            "year": "2015",
+            "plot": "Adolf Hitler si risveglia improvvisamente a sessantasei anni dalla sua supposta morte. Nella moderna Berlino, si ritrova senza guerra, senza un partito e senza Eva, e per di più circondato da un clima di pace, migliaia di stranieri e Angela Merkel. Contro ogni probabilità, deve ricominciare da capo e trova lavoro in televisione, dove tutti credono sia un comico.",
+            "language": "it",
+            "type": "movie",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!DrAzBChA!8VYOy7dBdZfYcnu_FtKFQBxO2zpqS68zVX8P3GbshKk",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 495766,
+            "title": "Sono tornato",
+            "year": "2018",
+            "plot": "Roma. Giorni nostri. Dopo 80 anni dalla sua scomparsa Benito Mussolini è di nuovo tra noi. La guerra è finita, la sua Claretta non c’è più e tutto sembra cambiato. All’apparenza. Il suo ritorno viene casualmente filmato da Andrea Canaletti, un giovane documentarista con grandi aspirazioni ma pochi, pochissimi successi. Credendolo un comico, Canaletti decide di renderlo protagonista di un documentario che finalmente lo consacrerà al mondo del cinema. I due iniziano così una surreale convivenza, che tra viaggi per l’Italia, ospitate tv e curiosi momenti di confronto con gli italiani di oggi, porta il Duce a farsi conoscere e riconoscere sempre di più, al punto tale da diventare il protagonista di un show in TV e di mettersi in testa di poter riconquistare il paese.",
+            "language": "it",
+            "type": "movie",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!DzohwAKA!Oq72kY6XkUqbp96STayi5qlYCFZEyzHppaR-5gOOdc4",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}

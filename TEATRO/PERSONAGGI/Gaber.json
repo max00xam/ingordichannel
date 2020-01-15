@@ -1,0 +1,13 @@
+{
+    "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/TEATRO/IMMAGINI/funartGaber.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/TEATRO/IMMAGINI/thumbnailGaber.jpg",
+      "menu": [
+        {
+          "plot": "",
+          "title": "Storie del Signor G.",
+          "link": "https://raw.githbusercontent.com/MikeKOD/ingordichannel/master/TEATRO/PERSONAGGI/Gaber_list.json",
+          "thumbnail": "/TEATRO/IMMAGINI/thumbnailGaber.jpg"
+        }
+      ]
+    }
+  

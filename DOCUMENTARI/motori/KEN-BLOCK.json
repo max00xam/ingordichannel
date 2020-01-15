@@ -1,0 +1,12 @@
+{
+  "plot": "Ken Block è un capo assoluto: fondatore di DC Shoes, skater, snowboarder, pilota di motocross e di rally, una figura leggendaria e con una storia sfavillante alle spalle. Ma è anche uno che non si ferma mai, e così, fra una cosa e l’altra, ha anche realizzato una serie di video che hanno conquistato il Web e raccolto milioni e milioni di visualizzazioni.",
+  "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/kenb-fanart.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/kenb-thumbnail.jpg",
+  "menu": [
+   {
+      "title": "GYMKHANA",
+      "link": "/DOCUMENTARI/motori/Gymkhana.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/gymkhana-thumbnail.jpg"
+    }
+  ]
+} 

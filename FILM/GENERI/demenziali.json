@@ -1,0 +1,18 @@
+{
+    "movies_list": [
+        {
+            "tmdb_id": 14771,
+            "title": "News movie",
+            "year": "2008",
+            "plot": "Norm Archer è un gionalista televisivo presentatore del telegiornale. L'emittente per cui lavora gli chiede di compromettere la sua integrità professionale. Norm decide di vendicarsi mandando in onda notizie completamente demenziali, finti spot con ragazze disinibite e falsi servizi senza nessuna censura.",
+            "language": "it",
+            "type": "movie",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!AlpwHITI!y8uhU-J95jKXCxhYADLCJgCEKDLyzu3d9NaUxJP5nWw",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}

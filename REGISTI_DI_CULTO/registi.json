@@ -1,0 +1,25 @@
+{
+    "menu": [
+      {
+      "plot": "Timothy Walter \"Tim\" Burton (Burbank, 25 agosto 1958) è un regista, sceneggiatore, produttore cinematografico, scrittore, animatore e disegnatore statunitense, noto per il suo cinema dalle ambientazioni spesso fiabesche e gotiche, talvolta incentrato su temi quali l'emarginazione e la solitudine, incarnati di frequente da personaggi eccentrici e stravaganti. Burton ha spesso lavorato con Johnny Depp e Danny Elfman, che ha composto colonne sonore per tutti tranne tre dei film che Burton ha diretto e con l'attrice britannica Helena Bonham Carter, sua compagna di vita fino al 2014. Nel 2007, alla Mostra del Cinema di Venezia, Tim Burton ha ricevuto un Leone d'Oro alla carriera, diventando il più giovane regista della storia ad aver conseguito tale riconoscimento. Ha vinto inoltre un Golden Globe nel 2008 per il miglior film commedia con Sweeney Todd - Il diabolico barbiere di Fleet Street. Il regista è stato inoltre candidato all'Oscar al miglior film d'animazione per La sposa cadavere del 2005 e per Frankenweenie del 2012.", 
+        "title": "Tim Burton",
+        "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/registi/TimBurton.json",
+        "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/funartTIM.jpg",
+        "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/thumbnailTIM.png"
+      },
+      {
+        "plot": "Quentin Jerome Tarantino (Knoxville, 27 marzo 1963) è un regista, sceneggiatore, attore e produttore cinematografico statunitense.Iniziò la sua carriera come regista all'inizio degli anni novanta, raggiungendo il successo di critica con il film di debutto Le iene. Con il successivo Pulp Fiction arrivò la consacrazione, vincendo la Palma d'oro al Festival di Cannes e conquistando, oltre a sette nomination, il premio per la miglior sceneggiatura originale, condiviso con Roger Avary, ai Premi Oscar 1995. Nel 2004 fu presidente della giuria alla 57ª edizione del Festival di Cannes e nel 2010 alla 67ª Mostra internazionale d'arte cinematografica di Venezia. Il 24 febbraio 2013 si aggiudicò la sua seconda statuetta per la migliore sceneggiatura originale per il film Django Unchained ai Premi Oscar 2013. A partire dal 21 dicembre 2015 il suo nome è presente tra le celebrità della Hollywood Walk of Fame.Tarantino è stato definito un «regista DJ» per la sua capacità di riuscire a combinare stili diversi fondendoli insieme in una nuova opera. Il regista e storico del cinema Peter Bogdanovich lo ha definito «il regista più influente della sua generazione». Ha dichiarato in più interviste la sua volontà di fermarsi a dieci film, per poi limitarsi a libri e documentari.", 
+        "title": "Quentin Tarantino",
+        "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/registi/Tarantino.json",
+        "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/tarantinofanart.jpg", 
+        "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/Tarantino.png"
+      },
+      {
+        "plot": "",
+        "title": "",
+        "link": "",
+        "fanart": "",
+        "thumbnail": ""
+      }
+    ]
+  }

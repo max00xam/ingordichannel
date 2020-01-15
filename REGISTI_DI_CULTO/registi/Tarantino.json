@@ -1,0 +1,12 @@
+{
+  "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/tarantinofanart.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/Tarantino.png",
+  "menu": [
+    {
+      "plot": "\"...Se non riesco a far parlare i personaggi, allora rinuncio. Se sono io a far parlare tra loro i personaggi allora sono fandonie e fasullaggini. Diventa eccitante quando un personaggio dice qualcosa e io penso: Wow, ha detto proprio così? Non sapevo che avesse una moglie o che si sentisse così!...\"",
+      "title": "Film{italic}",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/registi/Tarantino_list.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/Tarantino_film.png"
+    }
+  ]
+}

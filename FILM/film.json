@@ -1,0 +1,14 @@
+{
+   "menu": [
+    {
+      "title": "Saghe",
+      "link": "/FILM/saghe.json",
+      "thumbnail": ""
+    },
+    {
+      "title": "Generi",
+      "link": "/FILM/GENERI/Generi.json",
+      "thumbnail": ""
+    }
+  ]
+}

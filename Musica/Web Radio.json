@@ -1,0 +1,59 @@
+{
+  "movies_list": [
+    {
+      "title": "Virgin Radio",
+      "year": "2019",
+      "poster": "https://www.virginradio.it/upload/1464617857011.png",
+      "links": [
+        {
+          "url": "http://icecast.unitedradio.it/Virgin.mp3",
+          "quality":"mp3"
+        }
+      ]
+    },
+    {
+      "title": "RTL Radiofreccia",
+      "year": "2019",
+      "poster": "https://i.ytimg.com/vi/4JPTcD4D_E4/maxresdefault.jpg",
+      "links": [      
+        {
+          "url": "http://shoutcast.rtl.it:3060/",
+          "quality":"mp3"
+              }
+      ]
+    },
+    {
+      "title": "City FM Classic Rock - Amsterdam",
+      "year": "2019",
+      "poster": "https://static.radio.it/images/broadcasts/a7/3d/17495/c300.png",
+      "links": [      
+        {
+          "url": "http://live.cityfm.nl:8045/;",
+          "quality":"mp3" 
+                 }
+      ]
+    },
+    {
+      "title": "Rock 92-3 - New Orleans' Rock Station",
+      "year": "2019",
+      "poster": "http://images.tritondigitalcms.com/6616/sites/641/2015/09/20041104/WRKN-FM-Alt923-PurpleBlack.png",
+      "links": [      
+        {
+          "url": "https://18223.live.streamtheworld.com/WEZBFMAAC.aac",
+          "quality":"mp3"        
+                       }
+      ]
+    },
+    {
+      "title": "Grooveyard Radio (Rochester, NY)  ",
+      "year": "2019",
+      "poster": "https://img.ymlp.com/grooveyard_GYRADIOGIRLZ_3.jpg",
+      "links": [      
+        {
+          "url": "http://144.217.233.87:9008/;",
+          "quality":"mp3"        
+        }  
+      ]
+    }
+  ]
+}      

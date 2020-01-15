@@ -1,0 +1,112 @@
+{
+  "channel_name": "INGORDI CHANNEL",
+  "plot": "Per visualizzare alcuni video Torrent e' necessario l'addon Elementum scricabile da qui: https://elementum.surge.sh",
+  "fanart":"https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Ingordi.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Ingordi.jpg",
+  "menu": [
+    {
+     "title": "Film",
+     "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/film.json",
+     "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Film.jpg",
+     "level":{
+       "year": "Anni",
+       "director": "Regista",
+       "actors": "Attori",
+       "search":""
+     }
+    },
+    {
+      "title": "Serie TV",
+      "link": "",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/SerieTV.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Animazione / Anime",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/animazione.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/anime.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Documentari",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/documentari.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/documentari.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Teatro",
+      "link": "",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Teatro.png",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Musica",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Musica/Musica.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Musica.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Registi di culto",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/registi.json", 
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/RegistidiCulto.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "Il Baule dell'Ingordo",
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/baule/Il_Baule_dell_ingordo.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Baule.jpg",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    },
+    {
+      "title": "",    
+      "link": "",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Vuto.png"
+    },
+    {
+      "title": "PROVE Script",    
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/PROVE/Prova_Geryam.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Immagini/Prove.png",
+      "level":{
+        "year": "Anni",
+        "director": "Regista",
+        "actors": "Attori",
+        "search":""
+      }
+    }
+  ]
+}

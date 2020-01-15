@@ -1,0 +1,25 @@
+{
+    "menu": [
+      {
+        "title": "Film",
+        "link": "/ANIMAZIONE/FILM/filmsaghe.json",
+        "thumbnail": ""
+      },
+      {
+        "title": "Serie TV",
+        "link": "/ANIMAZIONE/SERIE-TV/serietv.json",
+        "thumbnail": ""
+      },
+      {
+        "title": "Categorie",
+        "link": "",
+        "thumbnail": ""
+      },
+      {
+        "title": "Film tratti da anime",
+        "link": "/ANIMAZIONE/FILM/filmmanga.json",
+        "fanart":"https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/IMMAGINI/Live-action-anime-manga-2017.jpg",
+        "thumbnail": ""
+      }
+    ]
+  }

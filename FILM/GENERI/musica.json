@@ -1,0 +1,32 @@
+{
+    "movies_list": [
+        {
+            "tmdb_id": 18947,
+            "title": "I love Radio Rock - parte 1",
+            "year": "2009",
+            "plot": "La pellicola, interpretata da un cast corale che vede, tra gli altri, Philip Seymour Hoffman, Bill Nighy, Rhys Ifans, Nick Frost e Kenneth Branagh, è dedicata al fenomeno delle radio pirata inglesi degli anni 60 del XX secolo, ispirandosi in particolare alla vicenda di Radio Caroline.[2] Anche alcuni personaggi del film, come il Conte, 'Simple' Simon Swafford, e Sir Alistair Dormandy sono basati su persone realmente esistite, rispettivamente: il DJ di Radio Caroline Emperor Rosko, i presentatori mattutini Tony Blackburn e Larry Gogan, e il politico laburista Tony Benn.",
+            "language": "it",
+            "type": "movie",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!AlxEEA6R!mcI5PQS9c1XCgg3fx5HIPET3lUUecGwuZREghfhCqnU",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 18947,
+            "title": "I love Radio Rock - parte 2",
+            "year": "2009",
+            "plot": "La pellicola, interpretata da un cast corale che vede, tra gli altri, Philip Seymour Hoffman, Bill Nighy, Rhys Ifans, Nick Frost e Kenneth Branagh, è dedicata al fenomeno delle radio pirata inglesi degli anni 60 del XX secolo, ispirandosi in particolare alla vicenda di Radio Caroline.[2] Anche alcuni personaggi del film, come il Conte, 'Simple' Simon Swafford, e Sir Alistair Dormandy sono basati su persone realmente esistite, rispettivamente: il DJ di Radio Caroline Emperor Rosko, i presentatori mattutini Tony Blackburn e Larry Gogan, e il politico laburista Tony Benn.",
+            "language": "it",
+            "type": "movie",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!V9pmTIpI!BcQUxMPjWsKuMMh5XjObGYayJlR3vcffVy-pl0qyaMg",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}

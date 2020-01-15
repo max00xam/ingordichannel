@@ -1,0 +1,16 @@
+{
+    "fanart":"",
+    "thumbnail": "",
+    "menu": [
+      {
+        "title": "Makoto Shinkai",
+        "link": "/ANIMAZIONE/FILM/Film_Saghe/MakotoShinkai.json",
+        "thumbnail": ""
+      },
+      {
+       "title": "Studio Ghibli",
+       "link": "/ANIMAZIONE/FILM/Film_Saghe/Studio%20Ghibli.json",
+       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/Immagini/StudioGhibli.jpg"
+     }
+    ]
+  }

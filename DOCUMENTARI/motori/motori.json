@@ -1,0 +1,11 @@
+{
+    "fanart":"https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/motori.jpg",
+    "thumbnail": "",
+    "menu": [
+      {
+        "title": "Ken Blok",
+        "link": "/DOCUMENTARI/motori/KEN-BLOCK.json",
+        "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/ken-block.jpg"
+      }
+    ]
+  }

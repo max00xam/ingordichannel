@@ -1,0 +1,26 @@
+ {
+  "fanart":"",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Ingordi.jpg",
+  "menu": [
+    {
+       "title": "Commedia{italic}",
+       "link": "/FILM/GENERI/commedia.json"
+    },
+    {
+      "title": "Demenziali{italic}",
+      "link": "/FILM/GENERI/demenziali.json"
+    },
+    {
+      "title": "Musicali{italic}",
+      "link": "/FILM/GENERI/musica.json"
+    },
+    {
+      "title": "Western{italic}",
+      "link": "/FILM/GENERI/western.json"
+    },
+    {
+      "title": "Altri{italic}",
+      "link": ""
+    }
+  ]
+}

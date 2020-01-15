@@ -1,0 +1,61 @@
+{
+  "channel_name": "INGORDI CHANNEL",
+  "plot": "Per visualizzare alcuni video Torrent e' necessario l'addon Elementum scricabile da qui: https://elementum.surge.sh",
+  "fanart":"/Immagini/Ingordi.jpg",
+  "thumbnail": "/Immagini/Ingordi.jpg",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "/FILM/film.json",
+      "thumbnail": "/Immagini/Film.jpg"
+    },
+    {
+      "title": "Serie TV",
+      "link": "/SERIE-TV/SerieTV.json",
+      "thumbnail": "/Immagini/SerieTV.jpg"
+    },
+    {
+      "title": "Animazione / Anime",
+      "link": "/ANIMAZIONE/animazione.json",
+      "thumbnail": "/Immagini/animazione.jpg"
+    },
+    {
+      "title": "Documentari",
+      "link": "/DOCUMENTARI/documentari.json",
+      "fanart": "/DOCUMENTARI/IMMAGINI/documentari.jpg",
+      "thumbnail": "/Immagini/DOCUMENTARI.jpg"
+    },
+    {
+      "title": "Teatro",
+      "link": "/TEATRO/Teatro.json",
+      "thumbnail": "/Immagini/Teatro.png"
+    },
+    {
+      "title": "Musica",
+      "link": "/Musica/Musica.json",
+      "fanart": "/Musica/Immagini/funart.jpg",
+      "thumbnail": "/Musica/Immagini/musicathumbnail.jpg"
+    },
+    {
+      "title": "Registi di culto",
+      "link": "/REGISTI_DI_CULTO/registi.json",
+      "fanart": "/REGISTI_DI_CULTO/IMMAGINI/registi_fanart.jpg",
+      "thumbnail": "/Immagini/registi.jpg"
+    },
+    {
+      "title": "Il Baule dell'Ingordo",
+      "link": "/baule/Il_Baule_dell_ingordo.json",
+      "thumbnail": "/Immagini/Baule.jpg"
+    },
+    {
+      "title": "",    
+      "link": "",
+      "thumbnail": "/Immagini/Vuto.png"
+    },
+    {
+      "title": "PROVE Script",    
+      "link": "/PROVE/Prova.json",
+      "thumbnail": "/Immagini/Prove.png"
+    }
+  ]
+}

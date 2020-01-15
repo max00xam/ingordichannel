@@ -1,0 +1,35 @@
+{
+  "menu": [
+    {
+      "title": "Animusic",
+      "plot": "Animusic è una ditta americana specializzata nella visualizzazione 3D guidata da musica basata su MIDI. Fondata da Wayne Lytle, ha uffici a New York e anche in Texas e California. Il nome originario della compagnia era Visual Music, poi cambiato in Animusic nel 1995",
+      "link": "/Musica/Animusic.json",
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/51ZJW370SNL._SY445_.jpg"
+    },
+    {
+      "title": "Rock",
+      "link": "/Musica/Rock.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Musica/Immagini/rock.jpg"
+    },
+    {
+      "title": "Blues",
+      "link": "/Musica/Blues.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/Musica/Immagini/Blues.png"
+    },
+    {
+      "title": "Pop",
+      "link": "/Musica/POP.json",
+      "thumbnail": "https://i.ytimg.com/vi/K55Ow7mCoho/maxresdefault.jpg" 
+    },
+    {
+      "title": "Jazz",
+      "link": "/Musica/Jazz.json",
+      "thumbnail": "https://d1nz104zbf64va.cloudfront.net/dt/a/o/top-5-jazz-musicians-you-need-to-listen.png"
+    },  
+    {
+      "title": "Web Radio",
+      "link": "/Musica/Web%20Radio.json",
+      "thumbnail": "https://www.labsus.org/wp-content/uploads/2013/06/Logo_radio.gif" 
+    }
+  ]
+} 

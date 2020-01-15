@@ -1,0 +1,13 @@
+{
+  "plot" : "", 
+  "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/Immagini/funartTIM.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/Immagini/thumbnailTIM.png",
+  "menu": [
+    {
+      "title": "Film{italic}", 
+      "plot": "\"«… A un certo punto ero perfino nauseato dagli scheletri che mettevo dappertutto. Adoro gli scheletri…»\"",  
+      "link": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/egisti/Tim_burton_list.json",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/thumbnail-film-TIM.png"
+    }
+  ]
+}

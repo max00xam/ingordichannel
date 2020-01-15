@@ -1,0 +1,17 @@
+{
+    "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/tolkienfanart.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/REGISTI_DI_CULTO/IMMAGINI/tolkien.jpg",
+    "menu": [
+      {
+        "title": "Film{italic}", 
+        "plot": "Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si trovano ancora delle cose belle, e nonostante che l'amore sia ovunque mescolato al dolore, esso cresce forse più forte.",
+        "link": "/FILM/Tolkien_list.json",
+        "thumbnail": "/FILM/IMMAGINI/tolkien.jpg"
+      },
+      {
+        "title": "Animazione{italic}",
+        "link": "/FILM/Tolkien_listanime.json",
+        "thumbnail": "/FILM/IMMAGINI/tolkien.jpg"
+      }
+    ]
+  }
