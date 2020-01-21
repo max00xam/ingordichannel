@@ -1,0 +1,752 @@
+{
+    "movies_list": [
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png", 
+            "links": [
+                {
+                    "url": "http://bit.ly/rai1qdr", 
+                    "quality": "HD"
+                }
+            ], 
+            "title": "Rai 1 HD"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2016/09/1473149101555logo-rai2-2016.png", 
+            "links": [
+                {
+                    "url": "http://bit.ly/rai2qdr", 
+                    "quality": "HD"
+                }
+            ], 
+            "title": "Rai 2 HD"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2016/09/1473429907779logo-rai3-2016.png", 
+            "links": [
+                {
+                    "url": "http://bit.ly/rai3qdr", 
+                    "quality": "HD"
+                }
+            ], 
+            "title": "Rai 3 HD"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rete 4"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://i.imgur.com/dd2qJlg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Canale 5"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/200px-Logo_Italia_1.svg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Italia 1"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.la7.it/sites/default/files/la7_logo_0102_def.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "La7"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/e/ea/LA7d_LOGO_.png", 
+            "links": [
+                {
+                    "url": "plugin://plugin.video.kodilivetv/?url=https://ok.ru/live/1966921817785&mode=3&name=LA 7&iconimage=https://upload.wikimedia.org/wikipedia/it/e/ea/LA7d_LOGO_.png&description=", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "La 7d"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://nst.sky.it/content/dam/static/contentimages/original/sezioni/tv8/loghi/tv8_logo2019.jpg", 
+            "links": [
+                {
+                    "url": "plugin://plugin.video.kodilivetv/?url=https://video.sky.it/be/getLivestream?id=7&mode=3&name=[COLOR+FF76ce11]TV8[/COLOR]&iconimage=https://kodilive.eu/logo/mtv8.png&description=", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "TV8"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/NOVE_TV_logo_2017.png/200px-NOVE_TV_logo_2017.png", 
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8?", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Nove"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.tivu.tv/_common/images/cover-canali/food-network-hd.jpg", 
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Food Network"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/8/86/Motor_Trend_Logo.png", 
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Motor Trend "
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.alpha59.it/img/site/logo.png", 
+            "links": [
+                {
+                    "url": "https://live.deatv.it/alpha/01.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Alpha"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SkyTg24.png/240px-SkyTg24.png", 
+            "links": [
+                {
+                    "url": "https://skyanywhere3-i.akamaihd.net/hls/live/510696/tg24/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Sky Tg24"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/b/bf/Real_time_new_logo.png", 
+            "links": [
+                {
+                    "url": "https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8?", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Real Time"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://discovery-italia.s3.amazonaws.com/media/channels/logos/giallo.png", 
+            "links": [
+                {
+                    "url": "https://1.ip2stream.icu/live/giallo_hd/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Giallo "
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8933_home.png", 
+            "links": [
+                {
+                    "url": "https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Dmax"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1920px-Focus_Logo.svg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Focus"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2016/09/1473430014865logo-rai4-2016.png", 
+            "links": [
+                {
+                    "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai 4"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/396.$plit/C_2_channel_14_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Iris"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2017/04/04/1491313066406_logo_rai5.png", 
+            "links": [
+                {
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai 5"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/772.$plit/C_2_channel_47_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "20 Mediaset "
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2017/04/05/1491407722487_logo-raimovie2x.png", 
+            "links": [
+                {
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Movie"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.rai.it/dl/img/2017/04/05/1491399851219_logo-raipremium2x.png", 
+            "links": [
+                {
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Premium"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://nst.sky.it/etc/designs/skycielo/images/logo.png", 
+            "links": [
+                {
+                    "url": "plugin://plugin.video.kodilivetv/?url=https://video.sky.it/be/getLivestream?id=2&mode=3&name=Cielo&iconimage=http://nst.sky.it/etc/designs/skycielo/images/logo.png&description=", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Cielo"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://it.wikipedia.org/wiki/File:K2_2013.png", 
+            "links": [
+                {
+                    "url": "plugin://plugin.video.f4mTester/?url=https://it.dplay.com/ajax/playbackjson/channel/7&amp;streamtype=TSDOWNLOADER&amp;name=---- K2 ----</link>", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "k2"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png", 
+            "links": [
+                {
+                    "url": "https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "VH1"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/160px-Paramount_Channel_logo.svg.png", 
+            "links": [
+                {
+                    "url": "http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Paramount Channel"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://akns-images.eonline.com/eol_images/Entire_Site/2018017/rs_1024x681-180117104712-1024.Spike-Logo.ms.011718.jpg?fit=inside|900:auto&output-quality=90", 
+            "links": [
+                {
+                    "url": "https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8?sd=10&rebase=on", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Spike"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/220px-Logo_tv2000_2015.svg.png", 
+            "links": [
+                {
+                    "url": "http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "TV2000"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/615.$plit/C_2_channel_17_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "La 5"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.qvc.it/etc/designs/qvc-commerce/clientlib/qvc-ui/images/logo.png", 
+            "links": [
+                {
+                    "url": "http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "QVC"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/744.$plit/C_2_channel_18_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Mediaset Extra"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/963.$plit/C_2_channel_15_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Italia 2"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/w1@3.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "M4C"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/250px-Euronews_2016_logo.svg.png", 
+            "links": [
+                {
+                    "url": "https://euronews-it-p12-cdn.hexaglobe.net/80c4a771d2d917d5ed149046af2dbbe3/5e134407/euronews/euronews-euronews-website-web-responsive-2/ewnsabritpri_ita.smil/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Euronews"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.alice.tv/images/alice.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Alice"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://img.rtl.it/www.rtl.it/img/header/logo_rtl.gif", 
+            "links": [
+                {
+                    "url": "https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "RTL 102.5 TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HSE24.svg/260px-HSE24.svg.png", 
+            "links": [
+                {
+                    "url": "rtmp://xapp1023574018c1000286.f.l.f.lb.core-cdn.net/1000286copo playpath=live/app1023574018/w1020002321/live_it_500 swfUrl=http://www.hse24.it/hse24/js/player.swf pageUrl=http://www.hse24.it/diretta-tv/ live=1 timeout=120", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "HSE 24"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/25.$plit/C_2_channel_28_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Top Crime"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f8/Boing_logo-1-.svg/539px-Boing_logo-1-.svg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Boing"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://d2lv662meabn0u.cloudfront.net/cartoonito/static/base/gallery/images/placeholder_transparent.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "CARTOONITO"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "c257d3deb.png", 
+            "links": [
+                {
+                    "url": "https://sbshdlu1-lh.akamaihd.net/i/sbshdl_21@443313/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Frisbee"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.supersixtv.net/img/logo1.png", 
+            "links": [
+                {
+                    "url": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Supersix"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.rai.it/dl/img/2018/07/11/1531297261852_logo-raigulp.png", 
+            "links": [
+                {
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Gulp"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png", 
+            "links": [
+                {
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Yoyo"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/200px-Logo_Rainews_it.svg.png", 
+            "links": [
+                {
+                    "url": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai News 24"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://imgr.video.mediaset.it/bin/834.$plit/C_2_channel_34_upImg.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "TGCOM24      "
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/839px-DeeJay_TV.svg.png", 
+            "links": [
+                {
+                    "url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Deejay TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_Storia_logo_2017.svg/260px-Rai_Storia_logo_2017.svg.png", 
+            "links": [
+                {
+                    "url": "http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0024269", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Storia"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/5/51/Radio_Italia_TV_Logo.png", 
+            "links": [
+                {
+                    "url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Radio Italia Tv"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/0/01/105.png/180px-105.png", 
+            "links": [
+                {
+                    "url": "http://fms.105.net:1935/live/105Test1/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Radio 105 TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png", 
+            "links": [
+                {
+                    "url": "https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Padre Pio TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rai_Scuola_logo_2017.svg/260px-Rai_Scuola_logo_2017.svg.png", 
+            "links": [
+                {
+                    "url": "http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-p.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Rai Scuola"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png", 
+            "links": [
+                {
+                    "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "M2o Tv"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/27/Monoscopio_Radio_Capital_TV.png/260px-Monoscopio_Radio_Capital_TV.png", 
+            "links": [
+                {
+                    "url": "http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Radio capital Tiv\u00f9"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/260px-Tg_norba24.png", 
+            "links": [
+                {
+                    "url": "rtmp://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "TG Norba24"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.marcopolo.tv/assets/images/marcopolo_white.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Marcopolo"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_R101_Wiki.jpg/250px-Logo_R101_Wiki.jpg", 
+            "links": [
+                {
+                    "url": "http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "R101 TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://hl.museostorico.it/sites/default/files/logo.png", 
+            "links": [
+                {
+                    "url": "https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w1013309544.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "HistoryLab"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://i.imgur.com/3I0ZFoj.png", 
+            "links": [
+                {
+                    "url": "rtsp://live.cdn2.streamago.tv/streamago/1919/812/?idcanale=812", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Camera Dei Deputati"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/7/73/Senato_TV.svg/100px-Senato_TV.svg.png", 
+            "links": [
+                {
+                    "url": "http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Senato TV"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "1000.png", 
+            "links": [
+                {
+                    "url": "plugin://plugin.video.youtube/", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "[COLOR green][B]CANALI REGIONALI[/B][/COLOR]"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.antennasud.com/wp-content/uploads/2018/04/antennasud_trasp.png", 
+            "links": [
+                {
+                    "url": "https://59d8c0cee6f3d.streamlock.net/antennasud/antennasud/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "ANTENNA SUD"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "https://www.ondatv.it/images/logo.png", 
+            "links": [
+                {
+                    "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "Onda tv"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.televomero.it/wp-content/layout-manager/0.0/net_stl_6b9f0487_net_stl_6b9f0487/files/logo.png", 
+            "links": [
+                {
+                    "url": "http://1se1.troydesign.eu/televomero/_definst_/channel1_televomero/playlist.m3u8?ext=.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "TELEVOMERO"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.telerent.net/wp-content/uploads/2018/02/logo_nw-sito.png", 
+            "links": [
+                {
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "7 GOLD"
+        }, 
+        {
+            "year": "", 
+            "thumbnail": "http://www.teleacras.com/wp1/wp-content/uploads/2016/12/LOGO-TELEACRAS.png", 
+            "links": [
+                {
+                    "url": "http://live.sloode.com:1935/teleacras/live/playlist.m3u8", 
+                    "quality": "SD"
+                }
+            ], 
+            "title": "teleacras"
+        }
+    ]
+}
