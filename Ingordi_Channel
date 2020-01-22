@@ -5,6 +5,11 @@
   "thumbnail": "/Immagini/Ingordi.jpg",
   "menu": [
     {
+      "title": "Live TV",
+      "link": "/canali.json",
+      "thumbnail": "/Immagini/canali.jpg"
+    },
+    {
       "title": "Film",
       "link": "/FILM/film.json",
       "thumbnail": "/Immagini/Film.jpg"
