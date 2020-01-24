@@ -44,6 +44,18 @@
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Pirati.jpg"
     },
      {
+      "title": "Ghostbusters",
+      "link": "/FILM/Ghostbusters.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Ghostbusters_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Ghostbusters.jpg"
+    },
+     {
+      "title": "Final Destination",
+      "link": "/FILM/FinalDestination.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final.jpg"
+    },
+     {
       "plot": "",
       "title": "",
       "link": "",
