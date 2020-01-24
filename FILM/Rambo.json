@@ -45,7 +45,7 @@
 			]
 		},
 		{
-			"title": "Rambo Last Blood",
+			"title": "Rambo Last Blood - Parte 1",
 			"year": "2019",
 			"tmdb_id": "522938",
 			"links": [  
@@ -53,7 +53,15 @@
 			    "title": "Parte 1",
 					"url": "https://mega.nz/#!b8dnlCpZ!McrkkktO0ay6p9zK9neXHqGTFnN8UZat5Up-nidx660",
 					"quality": "HD",
-			    "title": "Parte 2 ",
+				}
+			]
+		},
+		{
+			"title": "Rambo Last Blood - Parte 2",
+			"year": "2019",
+			"tmdb_id": "522938",
+			"links": [  
+				{
 					"url": "https://mega.nz/#!HsVhgawT!mO4CQQbNp4DrjS6xxdeiwSM3EAYmUnP6ocMvgIdj3ec",
 					"quality": "HD"
 				}
