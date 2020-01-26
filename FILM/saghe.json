@@ -58,20 +58,20 @@
      {
       "title": "Final Destination",
       "link": "/FILM/FinalDestination.json",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg"
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final.jpg"
     },
      {
       "title": "Harry Potter",
       "link": "/FILM/harry.json",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry_fanart.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry.jpg"
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry_fanart.jpg"
     },
      {
       "title": "Rambo",
       "link": "/FILM/Rambo.json",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/rambo.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/rambo_fanart.jpg"
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/rambo_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/rambo.jpg"
     },
      {
       "plot": "",
