@@ -56,6 +56,12 @@
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg"
     },
      {
+      "title": "Harry Potter",
+      "link": "/FILM/harry.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry_fanart.jpg"
+    },
+     {
       "title": "Rambo",
       "link": "/FILM/Rambo.json",
       "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/rambo.jpg",
