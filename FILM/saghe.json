@@ -16,7 +16,13 @@
       "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkienfanart.png", 
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkien.jpg"
     },
-    {
+    {,
+     {
+      "title": "Final Destination",
+      "link": "/FILM/FinalDestination.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg"
+    },
       "title": "Fast & Furious",
       "link": "/FILM/Fast%26Furius.json",
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/FastFurious.png"
@@ -58,8 +64,8 @@
      {
       "title": "Harry Potter",
       "link": "/FILM/harry.json",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry_fanart.jpg"
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry_fanart.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/harry.jpg"
     },
      {
       "title": "Rambo",
