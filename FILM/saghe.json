@@ -16,30 +16,28 @@
       "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkienfanart.png", 
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/tolkien.jpg"
     },
-    {
-      "title": "Final Destination",
-      "link": "/FILM/FinalDestination.json",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/final_fanart.jpg"
-    },
      {
       "title": "Fast & Furious",
       "link": "/FILM/Fast%26Furius.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/FastFurious_fanart.jpg",
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/FastFurious.png"
     },
      {
       "title": "La trilogia del cornetto",
       "link": "/FILM/Cornetto.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/TrilogiaDelCornetto_fanart.png",
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/TrilogiaDelCornetto.jpg"
     },
      {
       "title": "Taxxi",
       "link": "/FILM/Taxxi.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/taxi_fanart.jpg",
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/Taxxi.jpg"
     },
      {
       "title": "Fantozzi Rag. Ugo - W.I.P.",
       "link": "/FILM/fantozzi.json",
+      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/fantozzi_fanart.jpg",
       "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/FILM/Immagini/fantozzi.jpg"
     },
      {
