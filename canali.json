@@ -38,7 +38,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -49,7 +49,7 @@
             "thumbnail": "https://i.imgur.com/dd2qJlg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -71,7 +71,7 @@
             "thumbnail": "http://www.la7.it/sites/default/files/la7_logo_0102_def.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -192,7 +192,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1920px-Focus_Logo.svg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -214,7 +214,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/396.$plit/C_2_channel_14_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -236,7 +236,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/772.$plit/C_2_channel_47_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -357,7 +357,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/744.$plit/C_2_channel_18_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -368,7 +368,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/963.$plit/C_2_channel_15_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
@@ -379,7 +379,7 @@
             "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/w1@3.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(w1)/manifest.mpd", 
                     "quality": "SD"
                 }
             ], 
