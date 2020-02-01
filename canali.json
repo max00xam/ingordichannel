@@ -38,7 +38,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -49,7 +49,7 @@
             "thumbnail": "https://i.imgur.com/dd2qJlg.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -60,7 +60,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/200px-Logo_Italia_1.svg.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -71,7 +71,7 @@
             "thumbnail": "http://www.la7.it/sites/default/files/la7_logo_0102_def.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8", 
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
                     "quality": "SD"
                 }
             ], 
@@ -192,7 +192,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/1/11/Focus_Logo.svg/1920px-Focus_Logo.svg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd", 
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
                     "quality": "SD"
                 }
             ], 
@@ -214,7 +214,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/396.$plit/C_2_channel_14_upImg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd", 
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
                     "quality": "SD"
                 }
             ], 
@@ -236,7 +236,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/772.$plit/C_2_channel_47_upImg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(lb)/manifest.mpd", 
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_VH1_IT.png", 
                     "quality": "SD"
                 }
             ], 
@@ -247,7 +247,7 @@
             "thumbnail": "http://www.rai.it/dl/img/2017/04/05/1491407722487_logo-raimovie2x.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8", 
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -277,7 +277,7 @@
         }, 
         {
             "year": "", 
-            "thumbnail": "https://it.wikipedia.org/wiki/File:K2_2013.png", 
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/2/25/K2_2013.png/520px-K2_2013.png", 
             "links": [
                 {
                     "url": "plugin://plugin.video.f4mTester/?url=https://it.dplay.com/ajax/playbackjson/channel/7&amp;streamtype=TSDOWNLOADER&amp;name=---- K2 ----</link>", 
@@ -357,7 +357,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/744.$plit/C_2_channel_18_upImg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -368,7 +368,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/963.$plit/C_2_channel_15_upImg.png", 
             "links": [
                 {
-                    "url": "https://live2-mediaset-it.akamaized.net/Content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -379,7 +379,7 @@
             "thumbnail": "https://static2.mediasetplay.mediaset.it/Mediaset_Italia_Production_-_Main/w1@3.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8", 
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
                     "quality": "SD"
                 }
             ], 
@@ -434,7 +434,7 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/25.$plit/C_2_channel_28_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -445,7 +445,7 @@
             "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/f/f8/Boing_logo-1-.svg/539px-Boing_logo-1-.svg.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lt)/index.m3u8", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
@@ -456,7 +456,7 @@
             "thumbnail": "https://d2lv662meabn0u.cloudfront.net/cartoonito/static/base/gallery/images/placeholder_transparent.png", 
             "links": [
                 {
-                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8", 
+                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
                     "quality": "SD"
                 }
             ], 
@@ -522,11 +522,11 @@
             "thumbnail": "http://imgr.video.mediaset.it/bin/834.$plit/C_2_channel_34_upImg.png", 
             "links": [
                 {
-                    "url": "#KODIPROP:inputstreamaddon=inputstream.adaptive", 
+                    "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kf)/index.m3u8", 
                     "quality": "SD"
                 }
             ], 
-            "title": "TGCOM24      "
+            "title": "TGCOM24"
         }, 
         {
             "year": "", 
