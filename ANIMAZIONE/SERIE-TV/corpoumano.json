@@ -1,0 +1,13 @@
+  
+{
+    "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/SERIE-TV/IMMAGINI/corpoumano-fan.jpg",
+    "thumbnail": "ANIMAZIONE/SERIE-TV/IMMAGINI/corpoumano-thumb.png",
+    "menu": [
+      {
+        "plot": "\"Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai globuli bianchi alle vitamine, passando per i componenti del DNA. Fra i personaggi che hanno un ruolo centrale vi è un gruppo di globuli rossi formato da alcuni individui, tra i quali, i giovani Globina ed Emo, ed un globulo rosso anziano, Globus, che fa da Cicerone al gruppo, spiegando di volta in volta, durante ogni episodio, i principali aspetti della biologia umana.”\"",
+        "title": "Serie{italic}",
+        "link": "/ANIMAZIONE/SERIE-TV/corpoumano_list.json",
+        "thumbnail": "ANIMAZIONE/SERIE-TV/IMMAGINI/corpoumano-thumb.png"
+      }
+    ]
+  }
