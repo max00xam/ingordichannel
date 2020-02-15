@@ -6,6 +6,11 @@
       "thumbnail": ""
     },
     {
+      "title": "Oscar",
+      "link": "/FILM/GENERI/oscar.json",
+      "thumbnail": ""
+    },
+    {
       "title": "Generi",
       "link": "/FILM/GENERI/Generi.json",
       "thumbnail": ""
