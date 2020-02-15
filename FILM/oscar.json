@@ -1,0 +1,15 @@
+{
+  "movies_list": [
+    {
+      "title": "Parasite",
+      "year": "2019",
+      "tmdb_id": "496243",
+      "links": [
+        {
+          "url": "ews",
+          "quality":"hd"
+        }
+      ]
+    }
+  ]
+}
