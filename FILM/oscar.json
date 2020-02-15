@@ -1,15 +1,15 @@
 {
-  "movies_list": [
-    {
-      "title": "Parasite",
-      "year": "2019",
-      "tmdb_id": "496243",
-      "links": [
+    "movies_list": [
         {
-          "url": "https://mega.nz/#!CWBTXazT!3TaqreBy2RIxnMKrrz4pynuQJ1x-bk5DL0rUDWP-eK8",
-          "quality":"hd"
+            "tmdb_id": "496243",
+            "year": "2019",
+            "title": "Parasite",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!CWBTXazT!3TaqreBy2RIxnMKrrz4pynuQJ1x-bk5DL0rUDWP-eK8",
+                    "quality": "HD"
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
