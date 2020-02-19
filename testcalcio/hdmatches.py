@@ -4,7 +4,7 @@
 # ------------------------------------------------------------
 import re
 
-from channels import filtertools
+from specials import filtertools
 from core import scrapertools, servertools, httptools
 from core.item import Item
 from platformcode import config
@@ -21,7 +21,7 @@ def mainlist(item):
                        ),
       ]
       return itemlist
-from channels.support import log
+from core.support import log
 def peliculas(item):
       log()
       itemlist = []
