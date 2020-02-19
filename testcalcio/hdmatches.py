@@ -10,31 +10,32 @@ from core.item import Item
 from platformcode import config
 host = 'https://hdmatches.com/'
 headers = [['Referer', host]]
-3 def mainlist(item):
-itemlist = [Item(channel = item.channel,
-contentType = 'movie',
-title = 'Film',
-url = host + '/category/serie-a/',
-action = 'peliculas',
-thumbnail = '',
-fanart = ''
-021),
-]
-return itemlist
+def mainlist(item):
+      itemlist = [Item(channel = item.channel,
+                       contentType = 'movie',
+                       title = 'Film',
+                       url = host + '/category/serie-a/',
+                       action = 'peliculas',
+                       thumbnail = '',
+                       fanart = ''
+                       ),
+      ]
+      return itemlist
 from channels.support import log
 def mainlist(item):
 log()
-itemlist = [Item(channel = item.channel,
-contentType = 'movie',
-title = 'Film',
-url = host + '/category/serie-a/',
-action = 'peliculas',
-thumbnail = '',
-fanart = ''
-),
-]
+      itemlist = [Item(channel = item.channel,
+                       contentType = 'movie',
+                       title = 'Film',
+                       url = host + '/category/serie-a/',
+                       action = 'peliculas',
+                       thumbnail = '',
+                       fanart = ''
+      ),
+      ]
 return itemlist
 def peliculas(item):
-log()
-itemlist = []
-data = httptools.downloadpage(item.url, headers=headers).data
+    log()
+    itemlist = []
+    data = httptools.downloadpage(item.url, headers=headers).data
+    block = scrapertools.find_single_match(data, r'<main>(.*?)<\/main>')
