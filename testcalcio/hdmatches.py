@@ -26,4 +26,4 @@ def peliculas(item):
       log()
       itemlist = []
       data = httptools.downloadpage(item.url, headers=headers).data
-      block = scrapertools.find_single_match(data, r'<main>(.*?)<\/main>')
+log(data)
