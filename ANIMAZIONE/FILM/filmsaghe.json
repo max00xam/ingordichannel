@@ -11,6 +11,10 @@
        "title": "Studio Ghibli",
        "link": "/ANIMAZIONE/FILM/Film_Saghe/Studio%20Ghibli.json",
        "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/Immagini/StudioGhibli.jpg"
+     },
+      {
+       "title": "Ken Il Guerriero Trilogia",
+       "link": "/ANIMAZIONE/FILM/Film_Saghe/KenShiro.json"
      }
     ]
   }
