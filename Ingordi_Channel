@@ -27,7 +27,6 @@
     {
       "title": "Documentari - in sistemazione",
       "link": "/DOCUMENTARI/documentari.json",
-      "fanart": "/DOCUMENTARI/IMMAGINI/documentari.jpg",
       "thumbnail": "/Immagini/DOCUMENTARI.jpg"
     },
     {
@@ -38,13 +37,11 @@
     {
       "title": "Musica",
       "link": "/Musica/Musica.json",
-      "fanart": "/Musica/Immagini/funart.jpg",
       "thumbnail": "/Musica/Immagini/musicathumbnail.jpg"
     },
     {
       "title": "Registi di culto",
       "link": "/REGISTI_DI_CULTO/registi.json",
-      "fanart": "/REGISTI_DI_CULTO/IMMAGINI/registi_fanart.jpg",
       "thumbnail": "/Immagini/registi.jpg"
     },
     {
