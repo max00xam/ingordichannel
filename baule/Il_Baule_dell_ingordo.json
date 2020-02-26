@@ -3,6 +3,12 @@
     {
       "title": "Musica",
       "link": "/baule/musicabaule.json",
-      "thumbnail": ""   }
+      "thumbnail": ""
+    },
+    {
+      "title": "Varie",
+      "link": "/baule/Varie.json",
+      "thumbnail": ""
+    }
   ]
 }
