@@ -32,6 +32,50 @@
                     "quality": "DVDMUX"
                 }
             ]
+        },
+      {
+            "title": "Ken Il Guerriero - La Leggenda Di Hokuto (2006)",
+            "year": "2006",
+            "tmdb_id": "109080",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!WJdwjYzD!nRlSNdp8wKkQ9EPjB-p9Ktn7Xm2nM_AN1P-Od80Njtk",
+                    "quality": "HD"
+                }
+            ]
+        },
+      {
+            "title": "Ken Il Guerriero - La Leggenda Di Julia (2007)",
+            "year": "2007",
+            "tmdb_id": "114370",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!Wdd0HCZZ!y-GUtHSPQWGC8nT4Bc0NcjivUBiMh0ueBWaZX3rpKy8",
+                    "quality": "HD"
+                }
+            ]
+        },
+      {
+            "title": "Ken Il Guerriero - La Leggenda Di Toki (2008)",
+            "year": "2006",
+            "tmdb_id": "114371",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!zQMkDKBb!FNXqRytSrsi4YQFirUf2KebmIDc_it3jmsGSxCWOzEQ",
+                    "quality": "HD"
+                }
+            ]
+        },
+      {
+            "title": "Ken Il Guerriero - La Leggenda del Vero Salvatore (2008)",
+            "year": "2008",
+            "tmdb_id": "105231",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!SZNAmILQ!UfdBmSmxH2nstCTq7des6nTxCQPiEEm5_BfiRoutj2w",
+                    "quality": "HD"
+                }
+            ]
         }
           ]
         }        
