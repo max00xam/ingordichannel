@@ -34,12 +34,23 @@
             ]
         },
         {
-            "title": "Alita - 1993",
+            "title": "OAV Battle Angel Alita S01E01 - Rusty Angel - 1993",
             "year": "1993",
-            "tmdb_id": "17189",
+            "tmdb_id": "71999",
             "links": [
                 {
-                    "url": "https://mega.nz/#!3hMHUIrC!ihdrnVQpAX2tQox8cBGefNH0OZR1v33WV7nNW4yFH1I",
+                    "url": "https://mega.nz/#!Py4hEDKS!gTk8RCBEkWnyIkAVUNQzCPz-VFhvsGoHrqsl_s8JkgQ",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "OAV Battle Angel Alita s01E02 - Tears Sign - 1993",
+            "year": "1993",
+            "tmdb_id": "71999",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!nzgS1QKb!Ndo_O2rZNCDNGT7ZcCJL3jHZVZUuRwmZJu47Lpi3S3I",
                     "quality": "SD"
                 }
             ]
