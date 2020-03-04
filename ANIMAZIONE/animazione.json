@@ -1,18 +1,13 @@
 {
     "menu": [
       {
-        "title": "Film",
+        "title": "Saghe",
         "link": "/ANIMAZIONE/FILM/filmsaghe.json",
         "thumbnail": ""
       },
       {
         "title": "Serie TV",
         "link": "/ANIMAZIONE/SERIE-TV/serietv.json",
-        "thumbnail": ""
-      },
-      {
-        "title": "Categorie",
-        "link": "",
         "thumbnail": ""
       },
       {
