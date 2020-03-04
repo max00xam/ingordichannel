@@ -1,12 +1,23 @@
 {
     "movies_list": [
         {
-            "title": "Tokyo Ghoul  Il Film",
-            "year": "",
-            "tmdb_id": "433945",
+            "title": "Tokyo Ghoul - Jack",
+            "year": "2015",
+            "tmdb_id": "483685",
             "links": [
                 {
                     "url": "https://mega.nz/#!S1dDGaxZ!IIrA31dppeJQegbYOiGVbWG0XSU5_vgfMT6hTpkOdN8",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Tokyo Ghoul - il film ",
+            "year": "2017",
+            "tmdb_id": "433945",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!yVc0ySLa!92ui1BRU45brDjPbP_e-Bpc2d2_mMWjcihoGY0tYZ0g",
                     "quality": "HD"
                 }
             ]
