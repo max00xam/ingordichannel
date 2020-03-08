@@ -4911,8 +4911,149 @@
                     "quality": "SD"
                 }
             ]
+        },
+        {
+            "title": "Radio 105",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icecast.unitedradio.it/Radio105.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Trap",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105Trap.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Hits",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/105Hits.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Zoo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/105Zoo.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Dance 90",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105Dance90.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Miami",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105Miami.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Classics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105Classics.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Story",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105Story.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Hip Hop R&B",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105HipHopRnB.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Rap Italia",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105RapItalia.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 2k and More!",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/1052kandMore.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 INDAKLUBB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/105InDaKlubb.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 Radio Bau",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://http://icy.unitedradio.it/RadioBAU.mp3",
+                    "quality": "SD"
+                }
+            ]
         }
     ]
 }
-
-
