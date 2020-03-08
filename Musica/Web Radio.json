@@ -7,9 +7,9 @@
       "links": [
         {
           "url": "http://icecast.unitedradio.it/Virgin.mp3",
-          "quality":"mp3"
-        }
-      ]
+          "quality":"mp3" 
+          }
+          ]
     },
     {
       "title": "RTL Radiofreccia",
@@ -51,9 +51,4868 @@
       "links": [      
         {
           "url": "http://144.217.233.87:9008/;",
-          "quality":"mp3"        
-        }  
+          "quality":"mp3" 
+          }
       ]
-    }
-  ]
-}      
+    },
+    {
+      "title": "100hitz - Rock",
+      "year": "2019",
+      "poster": "https://static.radio.it/images/broadcasts/56/78/120612/1/c300.png",
+      "links": [      
+        {
+          "url": "http://173.244.215.162:8240/;stream",
+          "quality":"mp3"  
+           }
+      ]
+    },
+    {
+      "title": "Rai Radio Kids",
+      "year": "2019",
+      "poster": "https://www.radiospeaker.it/images/blog/rai-radio-kids_landscape_300x1000.jpg",
+      "links": [      
+        {
+          "url": "http://icestreaming.rai.it/11.mp3",
+          "quality":"mp3" 
+             }
+      ]
+    },
+    {
+            "title": "# Radio 80s Zoom - 128k .mp3 Stereo [Southampton]",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=mp3,any&br=128000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "#1980 HiFi Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=heaacv2,any&br=64000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "#1980s Live Stream Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://14833.live.streamtheworld.com/SAM03AAC226_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "#1980s Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=194939&f=heaacv2,any&br=64000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "#80s Radio - Icecast 2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=194935&f=mp3,any&br=320000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "#80s Radio Zoom AAC Stereo 64k",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://samcloud.spacial.com/api/listen?sid=111415&rid=191984&f=heaacv2,any&br=64000,any&m=pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 0 N - 70s on Radio ON 70s",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://0n-70s.radionetz.de/0n-70s.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-70s.radionetz.de/0n-70s.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 0 N - Classic Rock on Radio ON Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-classicrock.radionetz.de/0n-classicrock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 0 N - Jukebox on Radio ON Jukebox",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://0n-jukebox.radionetz.de/0n-jukebox.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-jukebox.radionetz.de/0n-jukebox.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 0 N - Rock on Radio ON Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://0n-rock.radionetz.de/0n-rock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-rock.radionetz.de/0n-rock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 1A 70er -",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://1a-70er.radionetz.de/1a-70er.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://1a-70er.radionetz.de/1a-70er.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 1A Classic Rock -",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://1a-classicrock.radionetz.de/1a-classicrock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "- 1A Rock -",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://1a-rock.radionetz.de/1a-rock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://1a-rock.radionetz.de/1a-rock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "..87,5!. Nantes",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://listen.radioking.com/radio/15130/stream/28217",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "0N 80s",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://0n-80s.radionetz.de/0n-80s.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://0n-80s.radionetz.de/0n-80s.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1.FM - Classic Rock Replay Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/crock_mobile_mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://strm112.1.fm/crock_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1.FM - Rock Classics Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://strm112.1.fm/rockclassics_mobile_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1000 HITS 60s",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c4.auracast.net:8020/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "100Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/100rock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "106,7 Rockklassiker",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "123 All Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://str4uice.streamakaci.com/4uclassicrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "181.FM - The Eagle (Classic)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.181.fm/stream/pls/181-eagle.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "1980s.FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://hi5.1980s.fm/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "24-7 Legends",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.24-7nicheradio.com:8012/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "24-7 Legends Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.24-7nicheradio.com:8016/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "2ROCK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/2ROCK",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "2UUS 101.7 WSFM Sydney",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icecast.arn.com.au/1017.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "4U Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://str4uice.streamakaci.com/4uclassicrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "6NOW \"96FM\" 96.1 FM Perth, WA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://player.arn.com.au/iheart/FRN7_96FM.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "91.9 KSOI FM Southern Iowa Community Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ca3.radioboss.fm:8042/stream?type=mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "94.5 WTMB FM CLASSIC ROCK (TOMAH, WI)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.wostreaming.net/direct/magnumbroadcasting-wtmbfmaac-ibc1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "97.5 WONE Akron's Home of Rock & Roll",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WONEFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "99 Plus KFMH.com - Iowa City, IA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/KFMH_99_PLUSAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "99.5 Radio Dos",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streamer.radio.co/s06e110935/listen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Absolute Radio Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icecast.timlradio.co.uk/ac128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "AFN 360 Global Legacy",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/AFN_LGY.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/alive",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "All Dixie Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://edge2-b.exa.live365.net/a88164",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://edge2-a.exa.live365.net/a88164",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Allzic Radio Hard Heavy",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://allzic18.ice.infomaniak.ch/allzic18.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "America's Greatest 70's Hits",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streaming.live365.com/a73516",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "American Road Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s4.radioboss.fm:8101/stream?type=.mp3/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Antena Zagreb Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.antenazagreb.hr:8019/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Antenne Bayern - Classic Rock Live (MP3)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.antenne.de/classic-rock-live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Antenne Bayern Classic Rock Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://antenne.de/webradio/channels/classic-rock-live.aac.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ANTENNE BAYERN Classic Rock Live",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.antenne.de/classic-rock-live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ANTENNE VORARLBERG-Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://webradio.antennevorarlberg.at:80/classicrock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ANTENNEBAYERN Classic Rock Live (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.antenne.de/classic-rock-live.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Arrow Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.gal.io/arrow",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "AZ Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cassini.shoutca.st:9300/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Baars classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://server-66.stream-server.nl:8840/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bad Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s7.viastreaming.net:8100/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bayern 1 Mainfranken 128kbps",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://br-br1-mainfranken.cast.addradio.de/br/br1/mainfranken/mp3/128/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Best FM 103.5",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radios-cr.cdn.nedmedia.io/radios/bestfm.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Best Net Radio - Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://bigrradio.cdnstream1.com/5155_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=177794.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Best Net Radio - Rock Rewind",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://113fm-edge2.cdnstream.com:80/5166_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Best Radio 947",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://bestradio.net:9470/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "BIG 80 AOR",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://listen.radionomy.com/big80aor.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Big Cactus Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ns304246.ovh.net:8005/bccrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Bikers Inner Circle",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.radio.co/s60f7d4c8f/listen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Blown",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crucialvelocity.ca/blown128.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "BOLLOCKS Rock & Metal Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "C\u00e1mara FM (HJUC 95.9 MHz FM, Medell\u00edn) C\u00e1mara de Comercio de Medell\u00edn",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://959camarafm.serverroom.net",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Catorweb Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://bb36.sonixcast.com:20018/stream.3mu",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cayrock 96.5 George Town",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/CAYROCKAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CFDV \"The Drive 106.7\" Red Deer, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cfdv.streamon.fm/stream/CFDV-48k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CFGQ 107.3 \"Q107\" Calgary, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CFGQFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CFMIFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CFMK \"Big 96.3\" Kingston, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CFMKFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CFNR 92.1 Terrace, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://nnb.leanstream.co/CFNRFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CHER 98.3 \"MAX FM\" Sydney, NS",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mbsradio.leanstream.co/CHERFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CHFT \"100.5 CRUZ FM\" Fort McMurray, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://chft.streamon.fm/stream/CHFT-64k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CHLQ 93.1 \"Q93\" Charlottetown, PE",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mbsradio.leanstream.co/CHLQFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Choice Classic Rock Radio - Winnipeg, MB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.sonixcast.com:8849/stream;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Christian Classic Rock net",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.christianhardrock.net/stream/9/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CHUC \"Classic Rock 107.9\" Cobourg, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice64.securenetsystems.net/CHUC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Church of Rock and Roll",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH21",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIBU \"Classic Rock 94.5\" Wingham, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CIBUFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CILQ 107.1 \"Q107\" Toronto",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CILQFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIMG \"The Eagle 94.1\" Swift Current, SK (MP3)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://daemondef.ic.llnwd.net/stream/daemondef_ddmp3_29",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIMG 94.1 \"The Eagle\" Swift Current, SK (AAC+)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://daemondef.ic.llnwd.net/stream/daemondef_ddmp3_30",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIQB \"Big 101.1\" Barrie, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CIQBFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIRK 97.3 \"K-97\" Edmonton, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CIRKFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CITI 92.1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rogers-hls.leanstream.co/rogers/win921.stream/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "City FM Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.cityfm.nl:8043/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CIZZ \"Z 98.9\" Red Deer, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CIZZFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CJNE 94.7 Nipawin, SK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cjne.streamguys1.com/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CJSD 94.3 \"Rock 94\" Thunder Bay, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cjsd.streamon.fm/stream/CJSD-32k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CJTN 107.1 \"Rock 107\" Trenton, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CJTNFM-MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CJXK 95.3 \"K-Rock\" Cold Lake, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CJXKFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKDV 99.3 \"The Drive\" Prince George, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ckdv.streamon.fm:8000/CKDV-48k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKEZ \"Z97.9\"  New Glasgow, NS",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://newcap.leanstream.co/CKEZFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKJX \"Rock 104.5\" Olds, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ckjx.streamon.fm/stream/CKJX-48k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKKO 96.3 \"K 96.3\" Kelowna, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CKKOFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKKQ  100.3 \"The Q\"  Victoria, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ckkq.streamon.fm/stream/CKKQ-48k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKLO \"Free 98.1\" London, ON",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.leanstream.co/CKLOFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKQR \"99.3 The Goat\" Castlegar, BC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s1.hotdogradio.com/CKQR",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKXD 98.7 \"K Rock\"  Gander, NL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CKXDFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKXG 102.3  \"K-Rock\" Grand Falls-Windsor, NL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CKXGFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKXX 103.9 \"K Rock\" Corner Brook, NL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/CKXXFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CKYX \"97.9 Rock\" Fort McMurray, AB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rogers-hls.leanstream.co:8000/rogers/for979.stream/48k/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock 109",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://108.61.20.171:10042/stream/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock Florida",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://airspectrum.cdnstream1.com:8136/1139_128.m3u&t=.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://internetradio.salue.de:8000/classicrock.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://internetradio.salue.de:8000/classicrock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock Records",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/classic-rock-records.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock the Vault",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice6.securenetsystems.net/THEVAULT",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Classic Rock \u2013 R\u00e1dio Cidade",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CIDADECLASSICROCKAAC.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "CNR-3 \u97f3\u4e50\u4e4b\u58f0",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Constant Camfield",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://18193.live.streamtheworld.com/SAM04AAC320_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Convoy en vivo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live.convoynetwork.com/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "COOLFM (Classic) Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://mediagw.e-tiger.net/stream/zc10",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cristal Classic 101.3 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://63.247.76.50:8030/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Cruisin Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s11.myradiostream.com:7622/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "David Bowie on Dash",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH68",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "DIE NEUE 107.7 Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://dieneue1077.cast.addradio.de/dieneue1077/rock/high/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Doble Nueve Classic",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://198.100.158.66:7032/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Easy Rock Paradise",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.easyrockparadise.com:8300/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "EKR - European Klassik Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ekrrockradio1.scs.ms:8100/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "EKR - Retro Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ekrrockradio4.scs.ms:8400/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Esoteric World (Top 1000)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.esotericworld.tk:8000/Top1000.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "\u00c9xtasis digital 105.9 FM Guadalajara Jalisco",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://192.99.16.17:3414/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Feeling 91.9 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://turadioenvivo.com:8430/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fisherton",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://23.111.184.195:8140/radio.mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FM Oeste 106.9 Mhz",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://200.110.156.14:8006",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "FMX Klassik 103.9 Reykjavik",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://vcache1.365net.is/hls-radio/fmx/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Delhi",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://pollux.shoutca.st:8968",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM K\u014dbe",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://pollux.shoutca.st:8968",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Montreal",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://pollux.shoutca.st:8968",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Paris",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://pollux.shoutca.st:8968",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Barcelona",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Bombay",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Caracas",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Chicago",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free Fm Rock K\u014dbe (\u795e\u6238\u5e02",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock London",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Madrid",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free Fm Rock Mexico",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free Fm Rock New York",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free Fm Rock Tokyo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Free FM Rock Yokohama",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://tachyon.shoutca.st:8298",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Fuzzy & Groovy Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/fuzzy-and-groovy.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "G18 STREAM THEWORLDS Music",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WITHFM.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Gizmo Classic Hits (Gizmo Channel 7)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://206.190.135.28:8326/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "GoFM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s5.purestream.net:8030",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "gofm.ro",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.gofm.ro:9128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "GoodMix Radio Pop Rock Soul Funk Reggae Urban Latin Jazz Oldies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/goodmixradiopoprocksoulfunkreggaeurbanlatinjazzoldies.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Groovetube",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/Groovetube",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Gull Bylgjan 90.9 Reykjavik",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Handcrafted Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://okemosbrewing.com/listenlink/SLobc128.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "HardRockRadioLiveClassicRock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com:80/HardRockRadioLiveClassicRock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ice Radio The Alternative",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streamnl.atinet.nl:8004/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "IMAGINE ROCK RADIO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://broad1.imagineradio.ru:8000/full_stream128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "IMAGINE ROCK RADIO AAC:128",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://broad1.imagineradio.ru:8000/full_stream128.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "IMAGINE ROCK RADIO MP3:320",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://broad1.imagineradio.ru:8000/full_stream256.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Insane Realm Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://usa13.fastcast4u.com:5216/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Itapema 102.3",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_f67b569e-6c38-4dee-9982-46782ad96ca4.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "JB Radio-2",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://199.189.87.9:10999/flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Joint Radio Blues",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://jointil.com/broadcast/jointil_blues_quicktime_player.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "JP Classic Rock - Jovem Pan",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://6d9a.webradio.upx.net.br:9900/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kan.org.il-88FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://kanlivep2event-i.akamaihd.net/hls/live/749623/749623/kan88_mp3/chunklist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KAOS Sound - Pink Floyd Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://87.117.193.5:8030/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KBBN \"The Thunderbird 95.3\" Broken Bow, NE",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/KBBN_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KBFX 100.5 \"The Fox\" Anchorage, AK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c7icyelb.prod.playlists.ihrhls.com/2938_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KBQB",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://ice24.securenetsystems.net/KBQB",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KDFO 98.5 \"The Fox\" Delano, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c8icyelb.prod.playlists.ihrhls.com/3240_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KEJL \"Eagle 100.5 & 1110\" Humble City, NM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/KEJL-AM_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KFXJ \"104.5 The Fox\" Augusta, KS",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KFXJFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KFZX \"Classic Rock 102\" 102.1 FM Odessa, TX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice5.securenetsystems.net/KFZX",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KGB 101.5 San Diego, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c13icyelb.prod.playlists.ihrhls.com/237_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KHHK 104.1 \"The Hawk\" Modesto, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KHKKFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KHIP 104.3 \"The Hippo\" Gonzales, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KHIPFMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KHXS 102.7 \"102 The Bear\" Abilene, TX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://provisioning.streamtheworld.com/pls/KHXSFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KIGL 93.3 \"The Eagle\" Seligman, MO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c7icyelb.prod.playlists.ihrhls.com/3450_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kiss FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stmv1.sateg.com.br/kissradio/kissradio/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Kiss FM 92,5",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cloud2.cdnseguro.com:23538/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KIYE 88.7 FM Kamiah, ID",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://ais-sa1.streamon.fm/7012_24k.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KJRB 790 & 94.1 \"The Bear\" Spokane, WA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KJRBAMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKBD \"Big Dog 95.9\" Sallisaw, OK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c10icyelb.prod.playlists.ihrhls.com/113_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKCD \"CD 105.9\" Omaha, NE",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KKCDFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKSD-FM 104.3",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://shoutcast.movemedia.eu/zoe80s64",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKVM 104.7 \"The Mile\" Vail, CO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://173.193.205.96:7022/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KKZU \"The Zoo\" 101.7 FM Sayre, OK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice5.securenetsystems.net/KKZU",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Klassik Radio - Rock meets Klassik",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.klassikradio.de/rockclassic/mp3-128/www.klassikradio.de/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KLKK-FM 103.7 North Iowa's Classic Rock, Clear Lake, Iowa",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice6.securenetsystems.net/KLKK",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KLTH 106.7 \"The Eagle\" Portland, OR",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c13icyelb.prod.playlists.ihrhls.com/4315_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KMKX \"Max 93.5\" Willits, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/KMKX-FM_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KOMA 92.5 \"Oklahoma's Greatest Hits\" Okahoma City, OK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KOMAFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KPAW 92.9 \"The Bear\" Warren AFB, WY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c2icyelb.prod.playlists.ihrhls.com/409_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KQRS 92.1 Golden Valley, MN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/KQRSFM.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KRFX 103.5 \"The Fox\" Parker, CO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c9icyelb.prod.playlists.ihrhls.com/393_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KRLT 93.9 Lake Tahoe, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://75.140.35.218:88/broadwave.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Krushnation",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s2.yesstreaming.net:7183/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KRXO 104.5-HD2 Oklahoma City, OK",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KRXOHD2AAC.pls",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "KSNM \"Classic Rock 98.7\" Las Cruces, NM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KSNMFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KTHO - 590 AM - South Lake Tahoe, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://edge1.peta.live365.net/b26873_128mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KTHU",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://ice24.securenetsystems.net/KTHU",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KULTRADIO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice.kultradio.fm/kult128.ogg",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://ice.kultradio.fm/kult128.aac",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://ice.kultradio.fm/kult96.opus",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KWBY 98.5 Ranger, TX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mm.txol.net:8004/radio4",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KWSI-LP 100.3 FM Grand Junction, CO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream.kwsi.org:8001/stream.ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KXPT 97.1 \"The Point\" Las Vegas, NV",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KXPTFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KYKK \"Kool 95.7\" Hobbs, NM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/KYKK-FM_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KYRV 93.7 \"The River\" Roseville, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c7icyelb.prod.playlists.ihrhls.com/4314_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KYYI 104.7 \"The Bear\" Burkburnett, TX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KYYIFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZ95 Jackson Hole\u2019s Real Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://ice24.securenetsystems.net/KZJH",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZAP - 96.7 FM - Chico, CA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://ice24.securenetsystems.net/KZAP",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZFX Z 93.7 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://hestia.cdnstream.com/1572_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZFX Z-93.7 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://hestia.cdnstream.com/1572_128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZLE 93.1 Batesville, AR",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/KZLEFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "KZPS \"Lone Star 92.5\" Dallas, TX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c4icyelb.prod.playlists.ihrhls.com/3379_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LA ROCKS RADIO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.larocksradio.com/larocksradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LandesWelle RockWelle",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.landeswelle.de/lwro/mp3-192/rin/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "LaRockaforte",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.radiomusic.net:8120/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.FM Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm:80/classicrock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "laut.fm Soundmania",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/soundmania",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Laut.fm Southern-Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://laut.fm/southern-rock_radio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "L\u00fcbeck FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio.oksh.de:8000/luebeckfm.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MariskalRock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radioserver9.profesionalhosting.com:8042/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Melodic Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://melodicradio.eu/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mercy R\u00e1di\u00f3 - '60/'70 Beat R\u00e1di\u00f3",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.mercyradio.eu/beat.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Meridiano 107.1 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://23.111.184.195:8050/fmmeridiano.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Milano XR",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mixr.100xr.com:8000/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Miled Music Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://192.99.34.205:8127/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Milenium 94.1 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://23.111.184.195:8020/mileniumrosario.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mindalia Radio Miami",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.165.131.13:8002/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MiNT",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://audiostream.rtl.be/mint192",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Mitch FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://s31.myradiostream.com/64442/;?type=http&nocache=1582152978?0.5403905376667177",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Monsters of Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH14",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Morceg\u00e3o FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://69.64.34.198:8000/morcegao",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MOTORADIO",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.motoradio.online:8000/high-aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "MUSIC STAR Roger Waters - Pink Floyd",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Musik.Goldies",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://goldies-high.rautemusik.fm/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "New Clear Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.ncradio.fm/320",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Nights with Alice Cooper",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/nightswithalicecooper.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Nostalgie Rock Classics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streamingp.shoutcast.com/NostalgieRockClassics",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "NoTypicalRadio - Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rock.notypicalradio.com/;?icy=http",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "NRJ Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cdn.nrjaudio.fm/adwz1/fr/31097/mp3_128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Ocean Beach Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ophanim.net:7130/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Offshore Music Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://bitsmitter.com:8000/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "O\u00dcI FM Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://classicrock.stream.ouifm.fr/ouifm3.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Paradise City from Guns N Roses",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH20",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Perihelion Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.live365.com/a20832",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Pinguin Classics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://pc192.pinguinradio.com/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Pirate Rock  V\u00e4stkustens b\u00e4sta rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.piraterock.se:8101/webradio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Planet Pootwaddle",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://peridot.streamguys.com:7520/sgplayer-mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Planet Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream-mz.planetradio.co.uk/planetrock.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Pure Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio.streemlion.com:2780/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Quasar - The Album Station",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://5.63.151.52:7224/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R.SA Rockzirkus",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-192/streams.rsa-sachsen.de/play.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 21",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.94.97.91/radio21.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 88,6",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio886.at/streams/radio_88.6/mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 88,6 Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio886.at/streams/88.6_Classic_Rock/mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Ant\u00e9na HardRock (online)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.radioservices.sk/hardrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Ant\u00e9na Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.antenarock.sk/antena-hi.mp3",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.antenarock.sk/antena-lo.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Arabella Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rs32.stream24.net/arabella-rock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Argovia - Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icecastgreen.argovia.ch/acr-mp3-srp",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Backstage - Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://50.7.99.154:6934/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Beat",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icecast2.play.cz/radiobeat128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Bob Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://bob.hoerradar.de/radiobob-classicrock-mp3-mq?sABC=5n437pp3%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23zrqvncynlre&amsparams=playerid:mediaplayer;skey:1514372291",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO BOB! BOBs Queen",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-queen/mp3-192/homepage/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Capital Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://capital-webradio-02-hds.akamai.media.kataweb.it/i/WebRadio2_1@117624/master.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Caprice - Classic Rock / Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://79.120.77.11:8002/rock",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://79.120.77.11:8002/rock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Citta' Sottile",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.zenolive.com/s1n3nwyfqyduv",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Clasic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://37.251.146.169:7100/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Company Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice03.fluidstream.net/companyrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Futura 91.1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radios-mp3-uy.cdn.nedmedia.io/uy-futura.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Galaxy Rock Malta",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/radiogalaxyrockmalta.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Guerrilla",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio JR 88.7 FM - Arequipa",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://99.198.110.162:8038/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio KAOS - Pink Floyd",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://87.117.193.5:8030/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "R\u00e1dio Kiss Fm S\u00e3o Paulo",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://cloud2.cdnseguro.com:23538/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio M1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/m1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RADIO MAXIMA online",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.zeno.fm/yxwg54nyg3quv.pls",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.zeno.fm/yxwg54nyg3quv.pls",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://stream.zeno.fm/yxwg54nyg3quv.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio NABA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://nabamp0.latvijasradio.lv:8016/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Paestum",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radiopaestum.no-ip.biz:8150/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Paradise Rock Mix (Flac)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy-4.radioparadise.com/rock-flac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Perfecto",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radioperfecto.net-radio.fr/perfecto.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Quergedacht Quer Gerockt",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://stream.laut.fm/quer-gerockt",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Regenbogen Classic Rock (128-mp3)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://scast.regenbogen.de/rr-classicrock-128-mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Regenbogen Classic Rock (AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://scast.regenbogen.de/rr-classicrock-128-aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Rock and Pop - Lima",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/radiorockandpop.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Rock On",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streaming.radiostreamlive.com/radiorockon_devices",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Shadow Deep Tracks",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://162.244.80.131:8020",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Shadow Deep Tracks 32",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://162.244.80.140:8011",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio SWH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://80.232.162.149:8000/swh96mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio SWH Kurzeme",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://87.110.219.34:8000/swhmp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio SWH Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://80.232.162.149:8000/rock96mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio SWH+",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://80.232.162.149:8000/plus96mp3.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio World Tour",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://login.streamplus.de/app.php/shoutcast/public/playlist/download/28347.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio Zica",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.1chi.si/zica",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio21 \u2013 Classic-Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.94.97.91/radio21.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radioacktiva Bogot\u00e1, El Planeta Rock (HJJK 97.9 MHz FM) Radio Activa / Caracol Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/RADIO_ACTIVAaac.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioActiva 97.9FM. El planeta Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/RADIO_ACTIVAAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioBOB AC/DC Collection (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-acdc/aac-64/mediaplayer",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RadioBOB Classic Rock (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.radiobob.de/bob-classicrock/aac-64/mediaplayer",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radyo Kilim",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://sunucu.radyodinle.com:2727",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Raleigh\u2019s Classic Rock Station - Classic Rock 100.7 WRDU",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://c9icy.prod.playlists.ihrhls.com/1645_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rebel State Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://eco.onestreaming.com:8142/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Redneck Radio 101",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s21.myradiostream.com:10806/;stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Replicants Factory DJ",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mail.efraim.cat:8000/listen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Replicants On The Air",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mail.efraim.cat:8000/ontheair",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Retro FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://retrosydvast.streamon.fm:8000/retrosydvast-128k-m.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rewound Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rewoundradio.com:8000/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Riff Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.165.131.13:7015/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Riff Radio Online",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.165.131.13:7015/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RMC Sensual Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://edge.radiomontecarlo.net/rmcweb016",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RMF Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://31.192.216.10/CLASSICROCKVT",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock & Folk (rock n folk)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://rockfolk.ice.infomaniak.ch/rockfolk.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock and Recovery.com - Akron, OH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streamer2.legatocommunications.com/wapsHD4aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Antenne \u00d6sterreich",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.de/rockantenne-oesterreich",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Classic Bits",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stm18.xcast.com.br:12216/",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ROCK FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://nashe1.hostingradio.ru/rock-128.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock FM - Athens",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.thegreekradio.com/sfera4132.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock FM Costa Rica",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://108.170.61.114:7279/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock FM Rio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://9.fm5.com.br:8484/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock On",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://zastream.kagiso.io/rockon_high",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Radio (256 kbps)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mainstream.radioagora.pl/rockradio.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Radio Online Mexico",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/SAM07AAC286.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rock Velvet Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://88.198.10.229:8060/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "ROCKANTENNE Classic Perlen (64 kbps AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mp3channels.webradio.rockantenne.de/classic-perlen.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RockFM 88,8",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://skyplus.babahhcdn.com/rck",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockkanalen",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.kanalplus.fm/rockkanalen/kp96.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockland Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://188.94.97.90/rockland.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RockRadio1",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.rockradio1.com/winamplink.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rockserwis.fm",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://radio.rockserwis.fm/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RosFM 94.6",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rosfm.ddns.net:8000/stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Route 66 - Classic Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://servidor32.brlogic.com:8056/live",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RPR1. 80er Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streams.rpr1.de/rpr-80errock-128-mp3?usid=0-0-H-M-D-60",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RPR1. 90er Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streams.rpr1.de/rpr-90errock-128-mp3?usid=0-0-H-M-D-60",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "RPR1. Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.rpr1.de/rpr-rock-128-aac?usid=0-0-H-A-D-30",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streams.rpr1.de/rpr-rock-128-mp3?usid=0-0-H-A-D-30",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Rundfunk.fm",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rundfunk.ice.infomaniak.ch/rundfunk-192",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Saudi Aramco Studio 1 FM 94.1 Dharan",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice31.securenetsystems.net/STUDIO1",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Soft Classic Rock Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://64.71.133.122:8000/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Solid Gold",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.radionomy.com/SolidGold?lang=fr%2cen-US%3bq%3d0.9%2cen%3bq%3d0.8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Solid Gold Gem AM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://4483.cloudrad.io:8130/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Solid Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://live.solidradio.co.uk/solid",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sonora Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s18.myradiostream.com:6664/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "SoR \"Spirit of Resistance Radio\" Online - Mount Pleasant, MI",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://sorradio.org:5005/live.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Spoon Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://spoonradio.ice.infomaniak.ch:80/spoonradio-hd",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "St Louis Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://74.208.89.18:8000/SLCR_highdef.mp3;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Star 98 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://sc9.shoutcaststreaming.us:9052/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Star FM Classics",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://berlin.starfm.de/player/pls/classic_rock_pls_mp3.php",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Stone Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://eu4.fastcast4u.com:5248/;stream.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "S\u00fcdstadt Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://listen.radioking.com/radio/253861/stream/298342",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Sunradio - Best international Music",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.sunradio.ch/livestream.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Super FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://95.217.75.38:9962/;&13202692901&duration=99999&id=scplayer&autostart=true",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Surcos del Pop (Manolo Bellon)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.exeamedia.com:5086/surcosdelpopmp3relay",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "T-Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://server24425.streamplus.de/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Blastozoic Era (from TheBlast.fm)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://blastozoic.theblast.fm.fast-serv.com/128",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Flash",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://s3.viastreaming.net:8565/;",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Lynx Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.shoutcast.com/CRIKFM-TheLynxClassicRock",
+                    "quality": "SD"
+                },
+                {
+                    "url": "http://streamingv2.shoutcast.com/CRIKFM-TheLynxClassicRock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Sound",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://livestream.mediaworks.nz/radio_origin/sound_128kbps/playlist.m3u8",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The Strip on Dash",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice55.securenetsystems.net/DASH24",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The World Won't Listen",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://stream.laut.fm/the-world-wont-listen",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "The X 100.1 FM - KTHX",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://17813.live.streamtheworld.com:80/KTHXFMAAC_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Theme City Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming.live365.com/a03438",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Toms Club 70s",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://151.80.43.143:8000/.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Top Tonic",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.radionomy.com/toptonic.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Traxx FM - Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://traxx019.ice.infomaniak.ch/traxx019-low.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Trip 100.3 FM",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streaming2.locucionar.com:8000/stream",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "TuneIn - Classic Rock Hits",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://rfcmedia.streamguys1.com/classicrock.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Twisted Grape Radio (Live365)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://streaming.live365.com/a36180",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "UCS FM - Caxias do Sul",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://mihost.com.br:8088/UCS/FMCaxias/icecast.audio",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Universal 88.1 Mexico City, DF",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/XHRED_FMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Universe Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://www.universeradio.nl/playlist/radio.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "up_the_irons",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://laut.fm/up_the_irons",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Uturn Radio - Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://listen.uturnradio.com/classic_rock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Veronica Rockradio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://19993.live.streamtheworld.com:80/SRGSTR11_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Veronica TOP1000 AllerTijden",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR10AAC.aac",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio Classic Rock",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/VirginRockClassics.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio Rock '70",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/VirginRock70.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio Rock '80",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/VirginRock80.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Virgin Radio Rock '90",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://icy.unitedradio.it/Virgin_03.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "VOCM-FM 97.5 \"K-Rock\" St. John's, NL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://newcap.leanstream.co/VOCMFM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WABX 107.5 Evansville, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WABXFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WAIO \"Radio 95.1\" Honeoye Falls, NY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c13icyelb.prod.playlists.ihrhls.com/1501_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WAQY \"Rock 102\" 102.1 FM Springfield, MA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WAQYFM.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WAXQ \"Q 104.3\"  New York, NY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c5icyelb.prod.playlists.ihrhls.com/1465_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBBB \"96.1 BBB\" Raleigh, NC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WBBBFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBFX 101.3 \"The Brew\" Grand Rapids, MI",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c3icyelb.prod.playlists.ihrhls.com/1161_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBGG \"Big 105.9\" Fort Lauderdale, FL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c6icyelb.prod.playlists.ihrhls.com/557_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBIG-FM 100.3 \"Big 100\" Washington, DC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c8icyelb.prod.playlists.ihrhls.com/2505_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WBTN 1370 Bennington, VT",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice64.securenetsystems.net/WBTN",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WDVE 102.5 Pittsburgh, PA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c9icyelb.prod.playlists.ihrhls.com/2017_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WEGE 104.9 \"The Eagle\" Lima, OH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/WEGE-FM_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WEGR 102.7 FM Memphis, TN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c5icy.prod.playlists.ihrhls.com/2133_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WFBQ 94.7 \"Q95\" Indianapolis, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c13icyelb.prod.playlists.ihrhls.com/901_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WGAO 88.1 \"Power 88\" Dean College - Franklin, MA (AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://dean.backbonebroadcast.com:8081/dean",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WGAO 88.1 \"Power 88\" Dean College, Franklin, MA (MP3)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://backbonenetworks.streamguys.com/dean.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WGBG \"Big 98.5\" Seaford, DE",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WGBGFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WHOG 95.7 \"The Hog\" Ormond-By-The-Sea, FL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WHOGFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WIMZ 103.5 Knoxville, TN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WIMZFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WIXV-FM 95.5 MHz I-95 \"The Rock of Savannah\"",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WIXVFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKGR 98.7 \"The Gater\" Wellington, FL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c11icyelb.prod.playlists.ihrhls.com/709_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKLH \"Hometown Rock 96.5\" Milwaukee, WI (AAC)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WKLHFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKLH 96.5 FM Milwaukee, WI (MP3)",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WKLHFM.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKPW 90.7 \"Classic Hits\" Knightstown, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://165.139.147.234:8081/wkpw",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKRR \"Rock 92\" 92.3 FM Asheboro, NC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/m3u/WKRRFMAAC.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WKXS 94.5 \"The Hawk\" Leland, NC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WKXSFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WLUP 97.9 \"The Loop\" Chicago, IL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://provisioning.streamtheworld.com/pls/WLUPFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WLVQ \"QFM 96\" 96.3 FM Columbus, OH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WLVQFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WMLL \"96.5 The Mill\" Bedford, NH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WMLLFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WMOS \"102.3 The Wolf\" Stonington, CT",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "https://provisioning.streamtheworld.com/pls/WMOSFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WNRQ \"105.9 The Rock\" Nashville, TN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c6icy.prod.playlists.ihrhls.com/2780_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WNSX \"Star 97.7\" Winter Harbor, ME",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice7.securenetsystems.net/WNSX",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WPKE \"The Rock 103.1\" Coal Run, KY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WPKEFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WQEL \"Q 92.7\" Bucyrus, OH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WQELFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WQTL 106.1 \"The Sound\" Tallahassee, FL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WQTLFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WQUT 101.5 Johnson City, TN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WQUTFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WRKH 96.1 \"The Rocket\" Mobile, AL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c7icyelb.prod.playlists.ihrhls.com/3278_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WRSR \"The Fox\" 103.9 FM Owosso, MI",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/WRSR-FM_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WSBU 88.3 \"The Buzz\" St. Bonaventure University, NY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WSBUFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WSHE \"She Radio.com\" Miami-Ft. Lauderdale",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://sheradio1055.com/ListenLive.m3u",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WSIP \"Classic Rock\" 1490 AM Paintsville, KY",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice10.securenetsystems.net/WSIPAM",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WTAK \"Classic Rock 106.1\" Hartselle, AL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://c6icyelb.prod.playlists.ihrhls.com/17_icy",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WTMT \"The Mountain\" 105.9 FM Weaverville, NC",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://playerservices.streamtheworld.com/pls/WTMTFM.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WTTS 92.3 \"World Class Rock\" Bloomington, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://ice23.securenetsystems.net/WTTS2",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WWVR \"98.5 The River\" Paris, IL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WWVRFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WWWV \"3WV 97.5\" Charlottesville, VA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WWWVFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WXKE \"96.3 XKE\" Churubusco, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WXKEFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WXKR \"94.5 XKR\" Port Clinton, OH",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WXKRFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WXRD \"X Rock 103.9\" Crown Point, IN",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WXRDFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WYFM 102.9 \"Y103\" Sharon, PA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WYFMFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WYMG 100.5 Chatham, IL",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WYMGFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WYVN \"VAN 92.7\" Saugatuck, MI",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://provisioning.streamtheworld.com/pls/WYVNFMAAC.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "WZRV \"The River 95.3\" Front Royal, VA",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://crystalout.surfernetwork.com:8001/WZRV_MP3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "XFM 105.5",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=2&kbps=256",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Zenith Classic Rock [AAC+]",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://148.163.81.10:8002/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Zenith Classic Rock [MP3]",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://148.163.81.10:8006/listen.pls",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Zonkers Radio",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://128.199.35.208:8000/radio.mp3?",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Zoom 80's",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://14833.live.streamtheworld.com/SAM03AAC226_SC",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0438\u043e",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://live.humorfm.by:8000/rock",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "\u0420\u0430\u0434\u0438\u043e \u041c\u0438\u043d\u0441\u043a",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://93.84.113.142:8000/ogg",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "\u0420\u043e\u043a \u0410\u0420\u0421\u0415\u041d\u0410\u041b - Rock Arsenal",
+            "year": "",
+            "thumbnail": "",
+            "links": [
+                {
+                    "url": "http://online.rockarsenal.ru:8000/rockarsenal",
+                    "quality": "SD"
+                }
+            ]
+        }
+    ]
+}
+
+
