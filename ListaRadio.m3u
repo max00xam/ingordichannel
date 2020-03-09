@@ -1,41 +1,41 @@
 #EXTM3U
 #EXTINF:1, Radio 105 - DIRETTA
 https://icecast.unitedradio.it/Radio105.mp3
-#EXTINF:1, Radio 105 - 105 Trap
+#EXTINF:2, Radio 105 - 105 Trap
 https://icy.unitedradio.it/105Trap.mp3
-#EXTINF:1, Radio 105 - 105 Hits
+#EXTINF:3, Radio 105 - 105 Hits
 http://icy.unitedradio.it/105Hits.mp3
-#EXTINF:1, Radio 105 - Zoo di 105
+#EXTINF:4, Radio 105 - Zoo di 105
 http://icy.unitedradio.it/105Zoo.mp3
-#EXTINF:1, Radio 105 - 105 Dance 90
+#EXTINF:5, Radio 105 - 105 Dance 90
 https://icy.unitedradio.it/105Dance90.mp3
-#EXTINF:1, Radio 105 - 105 Miami",
+#EXTINF:6, Radio 105 - 105 Miami",
 https://icy.unitedradio.it/105Miami.mp3
-#EXTINF:1, Radio 105 - 105 Classics",
+#EXTINF:7, Radio 105 - 105 Classics",
 https://icy.unitedradio.it/105Classics.mp3
-#EXTINF:1, Radio 105 - 105 Story
+#EXTINF:8, Radio 105 - 105 Story
 https://icy.unitedradio.it/105Story.mp3
-#EXTINF:1, Radio 105 - 105 Hip Hop R&B
+#EXTINF:9, Radio 105 - 105 Hip Hop R&B
 https://icy.unitedradio.it/105HipHopRnB.mp3
-#EXTINF:1, Radio 105 - 105 Rap Italia
+#EXTINF:10, Radio 105 - 105 Rap Italia
 https://icy.unitedradio.it/105RapItalia.mp3
-#EXTINF:1, Radio 105 - 105 2K & More
+#EXTINF:11, Radio 105 - 105 2K & More
 https://icy.unitedradio.it/1052kandMore.mp3
-#EXTINF:1, Radio 105 - 105 In Da Club
+#EXTINF:12, Radio 105 - 105 In Da Club
 https://icy.unitedradio.it/105InDaKlubb.mp3
-#EXTINF:1, Radio 105 - 105 Michael Jackson
+#EXTINF:13, Radio 105 - 105 Michael Jackson
 https://icy.unitedradio.it/um2908.mp3
-#EXTINF:1, Radio 105 - 105 Elisa
+#EXTINF:14, Radio 105 - 105 Elisa
 https://icy.unitedradio.it/Elisa.mp3
-#EXTINF:1, Radio 105 - 105 Jovanotti
+#EXTINF:15, Radio 105 - 105 Jovanotti
 https://icy.unitedradio.it/Jovanotti.mp3
-#EXTINF:1, Radio 105 - 105 Ligabue
+#EXTINF:16, Radio 105 - 105 Ligabue
 https://icy.unitedradio.it/Ligabue.mp3
-#EXTINF:1, Radio 105 - 105 Vasco Rossi
+#EXTINF:17, Radio 105 - 105 Vasco Rossi
 https://icy.unitedradio.it/Vasco.mp3
-#EXTINF:1, Radio 105 - 105 Radio Bau
+#EXTINF:18, Radio 105 - 105 Radio Bau
 https://http://icy.unitedradio.it/RadioBAU.mp3
-#EXTINF:1, Radio  KissKiss
+#EXTINF:19, Radio  KissKiss
 https://ice06.fluidstream.net/KissKiss.aac
-#EXTINF:1, Radio M2O
+#EXTINF:20, Radio M2O
 https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u
