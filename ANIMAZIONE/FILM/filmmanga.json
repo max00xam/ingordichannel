@@ -342,8 +342,23 @@
             "tmdb_id": "241868",
             "links": [
                 {
+                    "url": "",
+                    "quality": "SD"
+                },
+                {
                     "url": "https://mixdrop.co/e/r4ixn4zgp",
                     "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Panda! Go, Panda! (1972)",
+            "year": "",
+            "tmdb_id": "21036",
+            "links": [
+                {
+                    "url": "https://mega.nz/#!7d8TSIgR!xxOT4lNYrr2UFp-TIQNKSQJNLFeWczvti-GnUGgRceo",
+                    "quality": "BDrip - Ita-Jap Subs Chapters"
                 }
             ]
         },
