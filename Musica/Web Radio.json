@@ -4902,7 +4902,7 @@
             ]
         },
         {
-            "title": "\u0420\u043e\u043a \u0410\u0420\u0421\u0415\u041d\u0410\u041b - Rock Arsenal",
+            "title": "Rock Arsenal",
             "year": "",
             "thumbnail": "",
             "links": [
@@ -4915,7 +4915,7 @@
         {
             "title": "Radio 105",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889383596.png",
             "links": [
                 {
                     "url": "https://icecast.unitedradio.it/Radio105.mp3",
@@ -4926,7 +4926,7 @@
         {
             "title": "Radio 105 Trap",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1536831069014.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105Trap.mp3",
@@ -4937,7 +4937,7 @@
         {
             "title": "Radio 105 Hits",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1453218313033.png",
             "links": [
                 {
                     "url": "http://icy.unitedradio.it/105Hits.mp3",
@@ -4948,7 +4948,7 @@
         {
             "title": "Radio 105 Zoo",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889628209.png",
             "links": [
                 {
                     "url": "http://icy.unitedradio.it/105Zoo.mp3",
@@ -4959,7 +4959,7 @@
         {
             "title": "Radio 105 Dance 90",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1433428776666.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105Dance90.mp3",
@@ -4970,7 +4970,7 @@
         {
             "title": "Radio 105 Miami",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889330099.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105Miami.mp3",
@@ -4981,7 +4981,7 @@
         {
             "title": "Radio 105 Classics",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889663508.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105Classics.mp3",
@@ -4992,7 +4992,7 @@
         {
             "title": "Radio 105 Story",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889594707.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105Story.mp3",
@@ -5003,7 +5003,7 @@
         {
             "title": "Radio 105 Hip Hop R&B",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889345723.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105HipHopRnB.mp3",
@@ -5025,7 +5025,7 @@
         {
             "title": "Radio 105 2k and More!",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1435323909951.jpg",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/1052kandMore.mp3",
@@ -5036,7 +5036,7 @@
         {
             "title": "Radio 105 INDAKLUBB",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889617903.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/105InDaKlubb.mp3",
@@ -5047,7 +5047,7 @@
         {
             "title": "Radio 105 MUSIC STAR MICHAEL JACKSON",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1561373288302.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/um2908.mp3",
@@ -5058,7 +5058,18 @@
         {
             "title": "Radio 105 MUSIC COLD PLAY",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889253459.png",
+            "links": [
+                {
+                    "url": "https://icy.unitedradio.it/ColdPlay.mp3",
+                    "quality": "SD"
+                }
+            ]
+        },
+        {
+            "title": "Radio 105 MUSIC ELISA",
+            "year": "",
+            "thumbnail": "https://www.105.net/upload/1496130706062.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/Elisa.mp3",
@@ -5069,7 +5080,7 @@
         {
             "title": "Radio 105 MUSIC JOVANOTTI",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889218237.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/Jovanotti.mp3",
@@ -5080,7 +5091,7 @@
         {
             "title": "Radio 105 MUSIC LIGABUE",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889298561.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/Ligabue.mp3",
@@ -5091,7 +5102,7 @@
         {
             "title": "Radio 105 MUSIC VASCO ROSSI",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889284444.png",
             "links": [
                 {
                     "url": "https://icy.unitedradio.it/Vasco.mp3",
@@ -5102,7 +5113,7 @@
         {
             "title": "Radio 105 Radio Bau",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.105.net/upload/1432889644179.png",
             "links": [
                 {
                     "url": "https://http://icy.unitedradio.it/RadioBAU.mp3",
@@ -5113,7 +5124,7 @@
         {
             "title": "Radio KISSKISS",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://videoinformazioni.com/wp-content/uploads/2020/01/logo_kisskiss-pdf.jpg",
             "links": [
                 {
                     "url": "https://ice06.fluidstream.net/KissKiss.aac",
@@ -5124,7 +5135,7 @@
         {
             "title": "Radio M2O",
             "year": "",
-            "thumbnail": "",
+            "thumbnail": "https://www.m2o.it/wp-content/themes/network-m2o/img/logo_m2o_1024x1024.png",
             "links": [
                 {
                     "url": "https://radiom2o-lh.akamaihd.net/i/RadioM2o_Live_1@42518/master.m3u8",
