@@ -327,12 +327,23 @@
         },
         {
             "title": "Lupin - Il castello di Cagliostro",
-            "year": "",
+            "year": "1979",
             "tmdb_id": "15371",
             "links": [
                 {
                     "url": "https://mega.nz/#!yZkXCKYR!2h0xbH0XR7DRGGBT04M8xEp-x1HLRTeDZF__fg_gpss",
                     "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "Lupin",
+            "year": "2014",
+            "tmdb_id": "241868",
+            "links": [
+                {
+                    "url": "https://mixdrop.co/e/r4ixn4zgp",
+                    "quality": "SD"
                 }
             ]
         },
