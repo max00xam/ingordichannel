@@ -35,11 +35,6 @@
       "thumbnail": "/Immagini/Teatro.png"
     },
     {
-      "title": "Musica",
-      "link": "/Musica/Musica.json",
-      "thumbnail": "/Musica/Immagini/musicathumbnail.jpg"
-    },
-    {
       "title": "Registi di culto",
       "link": "/REGISTI_DI_CULTO/registi.json",
       "thumbnail": "/Immagini/registi.jpg"
