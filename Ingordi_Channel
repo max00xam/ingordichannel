@@ -11,8 +11,9 @@
     },
     {
       "title": "Film",
-      "link": "/FILM/film.json",
+      "link": "/FILM/movie.json",
       "thumbnail": "/Immagini/Film.jpg"
+      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
       "title": "Serie TV",
@@ -23,21 +24,25 @@
       "title": "Animazione / Anime",
       "link": "/ANIMAZIONE/animazione.json",
       "thumbnail": "/Immagini/animazione.jpg"
+      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
       "title": "Documentari - in sistemazione",
       "link": "/DOCUMENTARI/documentari.json",
       "thumbnail": "/Immagini/DOCUMENTARI.jpg"
+      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
       "title": "Teatro - in sistemazione",
       "link": "/TEATRO/Teatro.json",
       "thumbnail": "/Immagini/Teatro.png"
+      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
       "title": "Registi di culto",
       "link": "/REGISTI_DI_CULTO/registi.json",
       "thumbnail": "/Immagini/registi.jpg"
+      "level2": {"search":"", "genre":"Genere", "director":"Regista", "year":"Anno"}
     },
     {
       "title": "Il Baule dell'Ingordo",
