@@ -5,7 +5,7 @@
             "thumbnail": "http://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png", 
             "links": [
                 {
-                    "url": "http://tiny.cc/rai1", 
+                    "url": "https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist.m3u8", 
                     "quality": "HD"
                 }
             ], 
