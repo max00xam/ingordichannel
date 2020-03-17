@@ -11,7 +11,7 @@
     },
     {
       "title": "Film",
-      "link": "/FILM/movie.json",
+      "link": "/FILM/film.json",
       "thumbnail": "/Immagini/Film.jpg",
       "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
