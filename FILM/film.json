@@ -4,6 +4,8 @@
       "title": "L'alba dei morti dementi",
       "year": "2004",
       "tmdb_id": "747",
+      "saga": "La Trilogia del Cornetto",
+      "director": "Edgar Wright",
       "genre": ["Azione", "Horror"],
       "actors": ["Simon Pegg" ,"Nick Frost", "Kate Ashfield", "Lucy Davis", "Dylan Moran"],
       "links": [
@@ -17,6 +19,8 @@
       "title": "Hot Fuzz",
       "year": "2007",
       "tmdb_id": "4638",
+      "saga": "La Trilogia del Cornetto",
+      "director": "Edgar Wright",
       "genre": ["Azione", "Commedia", "Crime"],
       "actors": ["Simon Pegg" ,"Nick Frost", "Jim Broadbent", "Paddy Considine", "Rafe Spall"],
       "links": [
@@ -30,6 +34,8 @@
       "title": "La fine del mondo",
       "year": "2013",
       "tmdb_id": "107985",
+      "saga": "La Trilogia del Cornetto",
+      "director": "Edgar Wright",
       "genre": ["Fantascienza", "Azione", "Commedia"],
       "actors": ["Simon Pegg" ,"Nick Frost", "Paddy Considine", "Martin Freeman", "Eddie Marsan"],
       "links": [
@@ -44,6 +50,10 @@
       "title": "Fast & Furious",
       "year": "2001",
       "tmdb_id": "9799",
+      "saga": "Fast & Furious",
+      "director": "Rob Cohen",
+      "genre": ["Thriller", "Azione", "Crime"],
+      "actors": ["Paul Walker" ,"Vin Diesel", "Michelle Rodriguez", "Jordana Brewster", "Rick Yune", "Chad Lindberg", "Johnny Strong", "Ted Levine", "Matt Schulze", "Thom Barry", "Ja Rule", "Vyto Ruginis"],
       "links": [
         {
           "url": "https://mega.nz/#!b1kVBaBI!we8RMg2Mo8vJDzMO3msVatt3iBh9F9-PMVRyS5lEpJU",
@@ -55,7 +65,11 @@
       "plot":"L’ex poliziotto Brian O’Conner accetta di aiutare il suo vecchio partner Roman Pierce a trasportare una partita di denaro sporco per conto del boss malavitoso Carter Verone, che come attività di copertura gestisce una ditta di import-export in Florida. In realtà, in questo modo, Brian prosegue il proprio lavoro di copertura accanto all’agente Monica Fuentes, che si è infiltrata nell’organizzazione per tentare di smantellarla.",
       "title": "2 Fast 2 Furious",
       "year": "2003",
-      "tmdb_id": "584",
+      "tmdb_id": "584"
+      "saga": "Fast & Furious",
+      "director": "John Singleton",
+      "genre": ["Thriller", "Azione", "Crime"],
+      "actors": ["Paul Walker" ,"Tyrese Gibson", "Eva Mendes", "Ludacris", "Cole Hauser", "James Remar", "Devon Aoki", "Amaury Nolasco", "Michael Ealy", "Thom Barry"],
       "links": [
         {
           "url": "https://mega.nz/#!CskhVayK!2bdO1mITgDRhVCVYpVcNcEnucnG_3209CLI1ryHsuaw",
@@ -68,6 +82,10 @@
       "title": "Fast & The Furious: Tokyo Drift",
       "year": "2006",
       "tmdb_id": "9615",
+      "saga": "Fast & Furious",
+      "director": "Justin Lin",
+      "genre": ["Thriller", "Azione", "Crime", "Dramma"],
+      "actors": ["Lucas Black" ,"Nathalie Kelley", "Sung Kang", "Shad Moss", "Brian Tee", "Leonardo Nam", "Brian Goodman", "Zachery Ty Bryan", "Jason Tobin", "Keiko Kitagawa", "Lynda Boyd", "Vin Diesel"],
       "links": [
         {
           "url": "https://mega.nz/#!ml9lxIDA!P6Wotv61IsUcoFKGVp1ZzUz6tM1bBtj3ySEp59o2NMg",
@@ -80,6 +98,10 @@
       "title": "Fast & Furious - Solo parti originali ",
       "year": "2009",
       "tmdb_id": "13804",
+      "saga": "Fast & Furious",
+      "director": "Justin Lin",
+      "genre": ["Thriller", "Azione", "Crime", "Dramma"],
+      "actors": ["Paul Walker" ,"Vin Diesel", "Michelle Rodriguez", "Jordana Brewster", "John Ortiz", "Laz Alonso", "Gal Gadot", "Jack Conley", "Sung Kang", "Don Omar", "Tego Calderón", "Shea Whigham"],
       "links": [
         {
           "url": "https://mega.nz/#!ykk1FKrb!yu0AKNOQ_cQH9VvqhfFpa0VlqDF0AZnjR_PPC_znHDQ",
@@ -92,6 +114,10 @@
       "title": "Fast & Furious 5",
       "year": "2011",
       "tmdb_id": "51497",
+      "saga": "Fast & Furious",
+      "director": "Justin Lin",
+      "genre": ["Thriller", "Azione", "Crime"],
+      "actors": ["Paul Walker" ,"Vin Diesel", "Tyrese Gibson", "Jordana Brewster", "Ludacris", "Matt Schulze", "Gal Gadot", "Dwayne Johnson", "Sung Kang", "Don Omar", "Tego Calderón", "Joaquim de Almeida", "Elsa Pataky"],
       "links": [
         {
           "url": "https://mega.nz/#!rotVyaAZ!MYVHMtOmcN5021elqMl2E8eejALKSlKZ-8XSA69pfmI",
@@ -104,6 +130,10 @@
       "title": "Fast & Furious 6",
       "year": "2013",
       "tmdb_id": "82992",
+      "saga": "Fast & Furious",
+      "director": "Justin Lin",
+      "genre": ["Thriller", "Azione", "Crime"],
+      "actors": ["Paul Walker" ,"Vin Diesel", "Tyrese Gibson", "Jordana Brewster", "Michelle Rodriguez", "Ludacris", "Luke Evans", "Gal Gadot", "Sung Kang", "Gina Carano", "Clara Paget", "Kim Kold", "Elsa Pataky"],
       "links": [
         {
           "url": "https://mega.nz/#!H5kxAIAA!_-EWiTykxYQBKUE5U28cEJApxzDuOZKft-G9GTj_DY0",
@@ -116,6 +146,10 @@
       "title": "Fast & Furious 7 EXTENDED",
       "year": "2015",
       "tmdb_id": "168259",
+      "saga": "Fast & Furious",
+      "director": "James Wan",
+      "genre": ["Thriller", "Azione"],
+      "actors": ["Paul Walker" ,"Vin Diesel", "Tyrese Gibson", "Jordana Brewster", "Michelle Rodriguez", "Ludacris", "Djimon Hounsou", "Tony Jaa", "Ronda Rousey", "Nathalie Emmanuel", "Kurt Russell", "Jason Statham", "Lucas Black", "Gal Gadot", "Noel Gugliemi", "Luke Evans", "Elsa Pataky"],
       "links": [
         {
           "url": "https://mega.nz/#!q40FSILA!KBifdy6347FAD3GIfaRD1yq5MHp4lYDoVpj11OMpdy0",
@@ -128,6 +162,10 @@
       "title": "Fast & Furious 8",
       "year": "2017",
       "tmdb_id": "337339",
+      "saga": "Fast & Furious",
+      "director": "F. Gary Gray",
+      "genre": ["Thriller", "Azione", "Crime"],
+      "actors": ["Vin Diesel", "Tyrese Gibson", "Jordana Brewster", "Dwayne Johnson", "Michelle Rodriguez", "Ludacris", "Charlize Theron", "Kristofer Hivju", "Scott Eastwood", "Nathalie Emmanuel", "Kurt Russell", "Jason Statham", "Corey Maher", "Tego Calderón", "Don Omar", "Luke Evans", "Celestino Cornielle", "Elsa Pataky"],
       "links": [
         {
           "url": "https://mega.nz/#!WllBhIRS!eoDm_o30JHnhOtrNaltHf8HllKruetQjxa6Y8d0Nt90",
@@ -140,6 +178,10 @@
       "title": "Fast e Furious: Hobbs e Shaw",
       "year": "2019",
       "tmdb_id": "384018",
+      "saga": "Fast & Furious",
+      "director": "David Leitch",
+      "genre": ["Avventura", "Azione", "Commedia"],
+      "actors": ["Jason Statham", "Dwayne Johnson", "Idris Elba", "Vanessa Kirby", "Helen Mirren", "Eiza González", "Eddie Marsan", "Eliana Su'a", "Cliff Curtis", "Lori Pelenise", "Leati Joseph Anoa'i", "Tuisano John Tui", "Joshua Mauga", "Rob Delaney"],
       "links": [
         {
           "url": "https://mega.nz/#!vhlD0SpR!Ut9FivYTd_-ieiBvOy6LsdOeG0h-sQWy_BrCUv9HG74",
