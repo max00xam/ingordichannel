@@ -7,9 +7,4 @@
             <playcountminimumtime>120</playcountminimumtime>
         </player>
     </players>
-    <rules action="prepend">
-        <rule video="true" player="dvdplayer">
-            <rule filename=".*265.*|.*HEVC.*|.*hevc.*" player="VLCPlayer"/>
-        </rule>
-    </rules>
 </playercorefactory>
