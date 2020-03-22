@@ -1,5 +1,95 @@
 {
   "movies_list": [
+     {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Io sono il Signore tuo Dio. Non avrai altro Dio all'infuori di me",
+      "links": [
+        {
+          "url": "https://mega.nz/#!hp40HSqB!db60q69u3_sOc0rl1cWZuYNNuEy8g1OL9k80HkRmkxc"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non nominare il nome di Dio invano",
+      "links": [
+        {
+          "url": "https://mega.nz/#!I14wHKjD!mEVPV8MWNSc6iXGUNT8X_vwAqy1SOOPr-6fOwenTVpE"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Ricordati di santificare le feste",
+      "links": [
+        {
+          "url": "https://mega.nz/#!V5giVICD!rxmOflCtUh3ELfYvzZypr0K1mDPnQQkTlMd5EQLTobA"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Onora il padre e la madre",
+      "links": [
+        {
+          "url": "https://mega.nz/#!Bg5SCS5R!_pawvca7iZXVrZCAKXoLqR5RKQDoeUhCEFnCqSjeLHQ"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non uccidere",
+      "links": [
+        {
+          "url": "https://mega.nz/#!89hQhSqQ!KjIOZ023lXas6W9ts9T_aTz5wFaOyt-GoDZWTBtQY3M"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non commettere atti impuri",
+      "links": [
+        {
+          "url": "https://mega.nz/#!VxxwgCab!_Vn_Gh-UqmOg0n82D1b2AmRC2K_iyo1exEZFEpFYjeo"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non rubare",
+      "links": [
+        {
+          "url": "https://mega.nz/#!UggCzCRa!Vh1nWMnQPqKGJF4bbJlep15rFUg22t57lWaWns8MnRo"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non dire falsa testimonianza",
+      "links": [
+        {
+          "url": "https://mega.nz/#!9goAAIQb!j4CSzQ86CgBqIZ3x28ZxwNLRVLPHYTcF_HqMrQXRme0"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non desiderare la donna d'altri",
+      "links": [
+        {
+          "url": "https://mega.nz/#!dshg1QhB!T74QNoGOoPIR9Q__L1klTYvi0ORgSx4ruHX8TNIhzeQ"
+        }
+      ]
+    },
+    {
+      "saga": "Krzysztof Kieślowski 'DECALOGO'",
+      "title": "Non desiderare la roba d'altri",
+      "links": [
+        {
+          "url": "https://mega.nz/#!AtxUUQoA!uzOoVvK4T1BaGM3cSg7e7UsBjganJfV6GsM5h_hYETo"
+        }
+      ]
+    },
     {
       "title": "L'alba dei morti dementi",
       "year": "2004",
@@ -265,6 +355,7 @@
                     "url": "https://mega.nz/#!kDwylabY!PzTOwOPWOvxtrw0R1ieBwK6dzZLMPiZ8x4jGXY98HCA"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e la pietra filosofale",
             "tmdb_id": 671,
             "year": "2001"
@@ -347,6 +438,7 @@
                     "url": "https://mega.nz/#!0WR3SC6L!yoPcEPZjvJn_JYi6ycj5nuEKw5RNSMB7JYO6qw-910o"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e la camera dei segreti",
             "tmdb_id": 672,
             "year": "2002"
@@ -418,6 +510,7 @@
                     "url": "https://mega.nz/#!ISJFWIYA!D8Hl8yGuYAh__dV0gqk1nusAOpmiUDi80jaQZKZIN44"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e il prigioniero di Azkaban",
             "tmdb_id": 673,
             "year": "2004"
@@ -506,6 +599,7 @@
                     "url": "https://mega.nz/#!FCBhgYRD!rcpiW2ATX3BCZLuWXNH-U93Dm0cuhffcUDs9TnXgi1w"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e il calice di fuoco",
             "tmdb_id": 674,
             "year": "2005"
@@ -608,6 +702,7 @@
                     "url": "https://mega.nz/#!0bok1KbY!b55IY9j6brJJHpmzFvxoSQT1Olr90_R3OzCB13fHfCA"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e l'ordine della fenice",
             "tmdb_id": 675,
             "year": "2007"
@@ -679,6 +774,7 @@
                     "url": "https://mega.nz/#!xPQHgYDI!_hGoxaPonIsaeykdM_zeBxT6xlvw0GtaZk4Z7UdZrPQ"
                 }
             ],
+      "saga": "Harry Potter",
             "title": "Harry Potter e il principe mezzosangue",
             "tmdb_id": 767,
             "year": "2009"
@@ -784,132 +880,10 @@
                     "url": "https://mega.nz/#!Zf4HBaLR!sgqG6bLXszuFKkFEU36spldkoxLbf6PLuTiN-gLn5vU"
                 }
             ],
-            "title": "Harry Potter e i Doni della Morte - Parte 1",
+      "saga": "Harry Potter",
+            "title": "Harry Potter e i Doni della Morte",
             "tmdb_id": 12444,
             "year": "2010"
-        },
-        {
-            "actors": [
-                "Daniel Radcliffe",
-                "Rupert Grint",
-                "Emma Watson",
-                "Alan Rickman",
-                "Ralph Fiennes",
-                "Maggie Smith",
-                "Helena Bonham Carter",
-                "Bonnie Wright",
-                "Evanna Lynch",
-                "Matthew Lewis",
-                "Tom Felton",
-                "Devon Murray",
-                "David Thewlis",
-                "Oliver Phelps",
-                "James Phelps",
-                "Jason Isaacs",
-                "Robbie Coltrane",
-                "Warwick Davis",
-                "Ciarán Hinds",
-                "Helen McCrory",
-                "Natalia Tena",
-                "George Harris",
-                "Jim Broadbent",
-                "Domhnall Gleeson",
-                "Clémence Poésy",
-                "Emma Thompson",
-                "Gemma Jones",
-                "Julie Walters",
-                "Mark Williams",
-                "Michael Gambon",
-                "David Bradley",
-                "Miriam Margolyes",
-                "Peter Mullan",
-                "Timothy Spall",
-                "Arben Bajraktaraj",
-                "Pauline Stone",
-                "David Ryall",
-                "Ralph Ineson",
-                "Suzie Toase",
-                "Chris Rankin",
-                "Rod Hunt",
-                "Dave Legeno",
-                "Nick Moran",
-                "Guy Henry",
-                "Anna Shaffer",
-                "Alfred Enoch",
-                "Jessie Cave",
-                "Shefali Chowdhury",
-                "Afshan Azad",
-                "Louis Cordice",
-                "Josh Herdman",
-                "Scarlett Byrne",
-                "Isabella Laughland",
-                "Jamie Marks",
-                "Katie Leung",
-                "Georgina Leonidas",
-                "Freddie Stroma",
-                "John Hurt",
-                "Kelly Macdonald",
-                "Gary Oldman",
-                "Adrian Rawlins",
-                "Geraldine Somerville",
-                "Anthony Allgood",
-                "Rusty Goffe",
-                "Benn Northover",
-                "Ian Peck",
-                "Hebe Beardsall",
-                "William Melling",
-                "Sian Grace Phillips",
-                "Amber Evans",
-                "Ruby Evans",
-                "Jon Key",
-                "Philip Wright",
-                "Gary Sayer",
-                "Tony Adkins",
-                "Penelope McGhie",
-                "Ellie Darcey-Alden",
-                "Ariella Paradise",
-                "Benedict Clarke",
-                "Alfie McIlwain",
-                "Rohan Gotobed",
-                "Toby Papworth",
-                "Peter G. Reed",
-                "Judith Sharp",
-                "Emil Hoștină",
-                "Bob Yves Van Hellenberg Hubar",
-                "Granville Saxton",
-                "Tony Kirwood",
-                "Ashley McGuire",
-                "Arthur Bowen",
-                "Daphne de Beistegui",
-                "Will Dunn",
-                "Jade Gordon",
-                "Bertie Gilbert",
-                "Helena Barlow",
-                "Ryan Turner",
-                "Jamie Campbell Bower",
-                "Luke Newberry",
-                "Sean Biggerstaff",
-                "Leslie Phillips",
-                "Graham Duff",
-                "Keijo J. Salmela",
-                "Paul Bailey"
-            ],
-            "director": [
-                "David Yates"
-            ],
-            "genres": [
-                "Fantasy",
-                "Avventura"
-            ],
-            "links": [
-                {
-                    "quality": "HD",
-                    "url": "https://mega.nz/#!Zf4HBaLR!sgqG6bLXszuFKkFEU36spldkoxLbf6PLuTiN-gLn5vU"
-                }
-            ],
-            "title": "Harry Potter e i Doni della Morte - Parte 2",
-            "tmdb_id": 12445,
-            "year": "2011"
         },
         {
             "actors": [
@@ -951,6 +925,7 @@
                     "url": "https://mega.nz/#!kdEBlCTK!WwJmngWwLCTUo2XM12wgaqPfUtrZSC4U3tRPHBvcCh0"
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Il Signore degli Anelli",
             "tmdb_id": 123,
             "year": "1978"
@@ -984,6 +959,7 @@
                     "url": "https://mega.nz/#!MFMjUQIL!bR2q88q3hzuAURbB0HXHjfefENpATGkrYKqfrv9VvFI"
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Il ritorno del re",
             "tmdb_id": 1361,
             "year": "1980"
@@ -1046,6 +1022,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Lo Hobbit: Un viaggio inaspettato",
             "tmdb_id": 49051,
             "year": "2012"
@@ -1113,6 +1090,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Lo Hobbit: La battaglia delle cinque armate",
             "tmdb_id": 122917,
             "year": "2014"
@@ -1195,6 +1173,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Lo Hobbit: La desolazione di Smaug",
             "tmdb_id": 57158,
             "year": "2013"
@@ -1296,6 +1275,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Il Signore degli Anelli - La Compagnia dell'Anello",
             "tmdb_id": 120,
             "year": "2001"
@@ -1396,6 +1376,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Il Signore degli Anelli - Le due torri",
             "tmdb_id": 121,
             "year": "2002"
@@ -1496,6 +1477,7 @@
                     "url": ""
                 }
             ],
+      "saga": "J. R. R. Tolkien",
             "title": "Il Signore degli Anelli - Il ritorno del re",
             "tmdb_id": 122,
             "year": "2003"
@@ -1503,7 +1485,7 @@
         {
             "actors": [
                 "Samy Naceri",
-                " Frédéric Diefenthal",
+                "Frédéric Diefenthal",
                 "Marion Cotillard",
                 "Emma Wiklund",
                 "Manuela Gourary",
@@ -1559,6 +1541,7 @@
                     "url": "https://mega.nz/#!OpNUxaAB!UP74cPjNUT4rWbw0sQ6u5LiThHCcQZwM12JDG4QCews"
                 }
             ],
+      "saga": "Taxxi",
             "title": "Taxxi",
             "tmdb_id": 2330,
             "year": "1998"
@@ -1635,6 +1618,7 @@
                     "url": "https://mega.nz/#!3ocAAIZC!pvRbaEelELHazgJ1XPTTptyl2B5hlujF-BSLy6X2ZWY"
                 }
             ],
+      "saga": "Taxxi",
             "title": "Taxxi 2",
             "tmdb_id": 2332,
             "year": "2000"
@@ -1688,6 +1672,7 @@
                     "url": "https://mega.nz/#!ihFmWIjA!YeomOtAA3lxmtRIjGHKmWeZfF3xp6uHmji_1o1iwzck"
                 }
             ],
+      "saga": "Taxxi",
             "title": "Taxxi 3",
             "tmdb_id": 2334,
             "year": "2003"
@@ -1756,6 +1741,7 @@
                     "url": "https://mega.nz/#!CoM2zALY!xSEcp7JJmIvoqE9bTZpf2NFIVuiiv9btOYWmLTzhL2A"
                 }
             ],
+      "saga": "Taxxi",
             "title": "Taxxi 4",
             "tmdb_id": 2335,
             "year": "2007"
@@ -1776,6 +1762,7 @@
                     "url": "https://mega.nz/#!bxMH1IQD!qAzgLgArEkNcE18sLDZyQJIGHfO0anMyoTGrgGWJSC4"
                 }
             ],
+      "saga": "Rambo",
             "title": "Rambo",
             "tmdb_id": 458578,
             "year": "2020"
@@ -1823,6 +1810,7 @@
                     "url": "https://mega.nz/#!rwEnECIC!GDuNcWgPXgJqpoQGtKAKPheNP7PTLPDBPQUJGcbU6P8"
                 }
             ],
+      "saga": "Rambo",
             "title": "Rambo 2 - La vendetta",
             "tmdb_id": 1369,
             "year": "1985"
@@ -1873,6 +1861,7 @@
                     "url": "https://mega.nz/#!PgVVAQyK!rNUFPSLIToNC8ZOHvVijt-84BSQmgyLNSV0AEv5J4aA"
                 }
             ],
+      "saga": "Rambo",
             "title": "Rambo III",
             "tmdb_id": 1370,
             "year": "1988"
@@ -1936,6 +1925,7 @@
                     "url": "https://mega.nz/#!Tp8ASIwL!Cx3t6I2Z78CjTaGjaLK8z3EACLsxB-3mKWbmrPdeCc4"
                 }
             ],
+      "saga": "Rambo",
             "title": "John Rambo",
             "tmdb_id": 7555,
             "year": "2008"
@@ -2009,6 +1999,7 @@
                     "url": "https://mega.nz/#!mldzQQrY!yWpd2AoIVzdMiRilhKBPA65pA0Depgg_U5W03xt9R8I"
                 }
             ],
+      "saga": "Rambo",
             "title": "Rambo: Last Blood",
             "tmdb_id": 522938,
             "year": "2019"
@@ -2101,6 +2092,7 @@
                     "url": "https://mega.nz/#!7hFSnARZ!R3aijqhNHmeSPzZQ4ipC9i1NnyYFpgFnPfP6NEe--Wc"
                 }
             ],
+      "saga": "Pirati dei Caraibi",
             "title": "La maledizione della prima luna",
             "tmdb_id": 22,
             "year": "2003"
@@ -2157,6 +2149,7 @@
                     "url": "https://mega.nz/#!mkUUgYQS!TwXyVwYxnCCwEvPQQFzgsxntFntL7gKTtqFp1cFVYHI"
                 }
             ],
+      "saga": "Pirati dei Caraibi",
             "title": "Pirati dei Caraibi - La maledizione del forziere fantasma",
             "tmdb_id": 58,
             "year": "2006"
@@ -2213,6 +2206,7 @@
                     "url": "https://mega.nz/#!WxVGxCCJ!xZDu8yN8qWVTevAZSqJkfW2Ho60dQWvM14WJvade2GY"
                 }
             ],
+      "saga": "Pirati dei Caraibi",
             "title": "Pirati dei Caraibi - Ai confini del mondo",
             "tmdb_id": 285,
             "year": "2007"
@@ -2272,6 +2266,7 @@
                     "url": "https://mega.nz/#!OtEwBALI!vuhPY1-2XAuVHWR9BYjRCgc5GlPInBvystzrORfXndE"
                 }
             ],
+      "saga": "Pirati dei Caraibi",
             "title": "Pirati dei Caraibi - Oltre i confini del mare",
             "tmdb_id": 1865,
             "year": "2011"
@@ -2362,6 +2357,7 @@
                     "url": "https://mega.nz/#!StUE1Q6R!pjqjgdVSu1cCufomHHo0d_bfjlLt5JbMV5dUMySszuQ"
                 }
             ],
+      "saga": "Pirati dei Caraibi",
             "title": "Pirati dei Caraibi - La vendetta di Salazar",
             "tmdb_id": 166426,
             "year": "2017"
@@ -2457,6 +2453,7 @@
                     "url": "https://mega.nz/#!u5NmGSBK!Fw-OYeKPbBOYFvxIxnFyY0RaNuFLv75_veaC4S57SiI"
                 }
             ],
+      "saga": "Ghostbusters",
             "title": "Ghostbusters",
             "tmdb_id": 43074,
             "year": "2016"
@@ -2500,6 +2497,7 @@
                     "url": "https://mega.nz/#!fod2EAqR!TQcETFGExfBUIBMODKyE3gDLpxKvF5NqPNz8LJdCgfA"
                 }
             ],
+      "saga": "Ghostbusters",
             "title": "Ghostbusters II",
             "tmdb_id": 2978,
             "year": "1989"
@@ -2595,6 +2593,7 @@
                     "url": "https://mega.nz/#!6hMmxQpZ!G-FMbIYjgBjSoDQzN5OfMrZ3hgfZZK6vH42fGOGlW-Q"
                 }
             ],
+      "saga": "Ghostbusters",
             "title": "Ghostbusters",
             "tmdb_id": 43074,
             "year": "2016"
@@ -2643,6 +2642,7 @@
                     "url": "https://mega.nz/#!fg0CQAJQ!2FKLpv6KHPqWyCqJHnH5sUtHw3SckHfX1EU6zfuCHMc"
                 }
             ],
+      "saga": "Final Destination",
             "title": "Final Destination",
             "tmdb_id": 9532,
             "year": "2000"
@@ -2697,6 +2697,7 @@
                     "url": ""
                 }
             ],
+      "saga": "Final Destination",
             "title": "Final Destination 2",
             "tmdb_id": 9358,
             "year": "2003"
@@ -2755,6 +2756,7 @@
                     "url": ""
                 }
             ],
+      "saga": "Final Destination",
             "title": "Final Destination 3",
             "tmdb_id": 9286,
             "year": "2006"
@@ -2799,6 +2801,7 @@
                     "url": ""
                 }
             ],
+      "saga": "Final Destination",
             "title": "The Final Destination 3D",
             "tmdb_id": 19912,
             "year": "2009"
@@ -2848,6 +2851,7 @@
                     "url": ""
                 }
             ],
+      "saga": "Final Destination",
             "title": "Final Destination 5",
             "tmdb_id": 55779,
             "year": "2011"
