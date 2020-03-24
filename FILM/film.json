@@ -3,6 +3,7 @@
      {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Io sono il Signore tuo Dio. Non avrai altro Dio all'infuori di me",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!hp40HSqB!db60q69u3_sOc0rl1cWZuYNNuEy8g1OL9k80HkRmkxc"
@@ -12,6 +13,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non nominare il nome di Dio invano",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!I14wHKjD!mEVPV8MWNSc6iXGUNT8X_vwAqy1SOOPr-6fOwenTVpE"
@@ -21,6 +23,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Ricordati di santificare le feste",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!V5giVICD!rxmOflCtUh3ELfYvzZypr0K1mDPnQQkTlMd5EQLTobA"
@@ -30,6 +33,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Onora il padre e la madre",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!Bg5SCS5R!_pawvca7iZXVrZCAKXoLqR5RKQDoeUhCEFnCqSjeLHQ"
@@ -39,6 +43,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non uccidere",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!89hQhSqQ!KjIOZ023lXas6W9ts9T_aTz5wFaOyt-GoDZWTBtQY3M"
@@ -48,6 +53,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non commettere atti impuri",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!VxxwgCab!_Vn_Gh-UqmOg0n82D1b2AmRC2K_iyo1exEZFEpFYjeo"
@@ -57,6 +63,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non rubare",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!UggCzCRa!Vh1nWMnQPqKGJF4bbJlep15rFUg22t57lWaWns8MnRo"
@@ -66,6 +73,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non dire falsa testimonianza",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!9goAAIQb!j4CSzQ86CgBqIZ3x28ZxwNLRVLPHYTcF_HqMrQXRme0"
@@ -75,6 +83,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non desiderare la donna d'altri",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!dshg1QhB!T74QNoGOoPIR9Q__L1klTYvi0ORgSx4ruHX8TNIhzeQ"
@@ -84,6 +93,7 @@
     {
       "saga": "Krzysztof Kieślowski 'DECALOGO'",
       "title": "Non desiderare la roba d'altri",
+      "genre": ["dramma"],
       "links": [
         {
           "url": "https://mega.nz/#!AtxUUQoA!uzOoVvK4T1BaGM3cSg7e7UsBjganJfV6GsM5h_hYETo"
@@ -344,7 +354,7 @@
             "director": [
                 "Chris Columbus"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Famiglia"
@@ -428,7 +438,7 @@
             "director": [
                 "Chris Columbus"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy"
             ],
@@ -500,7 +510,7 @@
             "director": [
                 "Alfonso Cuarón"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy"
             ],
@@ -588,7 +598,7 @@
             "director": [
                 "Mike Newell"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Famiglia"
@@ -691,7 +701,7 @@
             "director": [
                 "David Yates"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Mistero"
@@ -764,7 +774,7 @@
             "director": [
                 "David Yates"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy"
             ],
@@ -870,7 +880,7 @@
             "director": [
                 "David Yates"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy"
             ],
@@ -912,7 +922,7 @@
             "director": [
                 "Ralph Bakshi"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Animazione",
                 "Dramma",
@@ -947,7 +957,7 @@
                 "Jules Bass",
                 "Arthur Rankin, Jr."
             ],
-            "genres": [
+            "genre": [
                 "Animazione",
                 "Famiglia",
                 "Fantasy",
@@ -1011,7 +1021,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -1079,7 +1089,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Avventura",
                 "Fantasy"
@@ -1162,7 +1172,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -1264,7 +1274,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -1365,7 +1375,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -1466,7 +1476,7 @@
             "director": [
                 "Peter Jackson"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -1531,7 +1541,7 @@
             "director": [
                 "G\u00e9rard Pir\u00e8s"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Commedia"
             ],
@@ -1608,7 +1618,7 @@
             "director": [
                 "Gérard Krawczyk"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Commedia"
             ],
@@ -1662,7 +1672,7 @@
             "director": [
                 "Gérard Krawczyk"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Commedia"
             ],
@@ -1731,7 +1741,7 @@
             "director": [
                 "Gérard Krawczyk"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Commedia"
             ],
@@ -1753,7 +1763,7 @@
             "director": [
                 "Siddharth Anand"
             ],
-            "genres": [
+            "genre": [
                 "Azione"
             ],
             "links": [
@@ -1798,7 +1808,7 @@
             "director": [
                 "George P. Cosmatos"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Avventura",
                 "Thriller",
@@ -1849,7 +1859,7 @@
             "director": [
                 "Peter MacDonald"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Avventura",
                 "Thriller",
@@ -1915,7 +1925,7 @@
             "director": [
                 "Sylvester Stallone"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Thriller"
             ],
@@ -1988,7 +1998,7 @@
             "director": [
                 "Adrian Grunberg"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Thriller",
                 "Dramma"
@@ -2081,7 +2091,7 @@
             "director": [
                 "Gore Verbinski"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -2138,7 +2148,7 @@
             "director": [
                 "Gore Verbinski"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -2195,7 +2205,7 @@
             "director": [
                 "Gore Verbinski"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Fantasy",
                 "Azione"
@@ -2255,7 +2265,7 @@
             "director": [
                 "Rob Marshall"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Azione",
                 "Fantasy"
@@ -2345,7 +2355,7 @@
                 "Joachim R\u00f8nning",
                 "Espen Sandberg"
             ],
-            "genres": [
+            "genre": [
                 "Avventura",
                 "Azione",
                 "Fantasy",
@@ -2442,7 +2452,7 @@
             "director": [
                 "Paul Feig"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Fantasy",
                 "Commedia"
@@ -2487,7 +2497,7 @@
             "director": [
                 "Ivan Reitman"
             ],
-            "genres": [
+            "genre": [
                 "Commedia",
                 "Fantasy"
             ],
@@ -2582,7 +2592,7 @@
             "director": [
                 "Paul Feig"
             ],
-            "genres": [
+            "genre": [
                 "Azione",
                 "Fantasy",
                 "Commedia"
@@ -2633,7 +2643,7 @@
             "director": [
                 "James Wong"
             ],
-            "genres": [
+            "genre": [
                 "Horror"
             ],
             "links": [
@@ -2687,7 +2697,7 @@
             "director": [
                 "David R. Ellis"
             ],
-            "genres": [
+            "genre": [
                 "Horror",
                 "Mistero"
             ],
@@ -2746,7 +2756,7 @@
             "director": [
                 "James Wong"
             ],
-            "genres": [
+            "genre": [
                 "Horror",
                 "Mistero"
             ],
@@ -2791,7 +2801,7 @@
             "director": [
                 "David R. Ellis"
             ],
-            "genres": [
+            "genre": [
                 "Horror",
                 "Mistero"
             ],
@@ -2841,7 +2851,7 @@
             "director": [
                 "Steven Quale"
             ],
-            "genres": [
+            "genre": [
                 "Horror",
                 "Mistero"
             ],
