@@ -1,6 +1,7 @@
 {
   "movies_list": [
      {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Takehito Koyasu",
         "Yurika Hino",
@@ -38,6 +39,7 @@
     "year": "2003"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": ["Takehito Koyasu", "Yurika Hino", "Akimitsu Takase", "Romi Park"],
     "director": ["Takashi Watanabe"],
     "genre": ["Animazione", "Azione"],
@@ -52,6 +54,7 @@
     "year": "2003"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Takehito Koyasu",
         "Yurika Hino",
@@ -76,6 +79,7 @@
     "year": "2004"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Hiroshi Abe",
         "Takashi Ukaji",
@@ -102,6 +106,7 @@
     "year": "2006"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Hiroshi Abe",
         "Takashi Ukaji",
@@ -126,6 +131,7 @@
     "year": "2007"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Hiroshi Abe",
         "Takashi Ukaji",
@@ -133,7 +139,7 @@
         "Ken'yuu Horiuchi"
     ],
     "director": [
-        "K\u014dbun Shizuno"
+        "Kōbun Shizuno"
     ],
     "genre": [
         "Animazione",
@@ -150,6 +156,7 @@
     "year": "2008"
 },
 {
+      "saga": "Ken Il Guerriero",
     "actors": [
         "Hiroshi Abe",
         "Yuriko Ishida",
@@ -174,6 +181,7 @@
     "year": "2008"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Satomi Hanamura",
         "Shinji Ogawa"
@@ -197,6 +205,7 @@
     "year": "2013"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Hidetaka Yoshioka",
         "Masato Hagiwara",
@@ -233,6 +242,7 @@
     "year": "2004"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Kenji Mizuhashi",
         "Yoshimi Kondou",
@@ -265,6 +275,7 @@
     "year": "2007"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Hisako Kanemoto",
         "Kazuhiko Inoue",
@@ -294,6 +305,7 @@
     "year": "2011"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Miyu Irino",
         "Kana Hanazawa",
@@ -324,6 +336,7 @@
     "year": "2013"
 },
 {
+      "saga": "Makoto Shinkai",
     "genre": [
         "Dramma",
         "Romance",
@@ -342,6 +355,7 @@
     "actors": ["Ryunosuke Kamiki", "Mone Kamishiraishi", "Masami Nagasawa", "Etsuko Ichihara", "Ryô Narita", "Masaki Terasoma", "Shimazaki Nobunaga", "Kaito Ishikawa", "Tani Kanon", "Sayaka Ohara", "Kana Hanazawa", "Kazuhiko Inoue"]
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Kotaro Daigo",
         "Nana Mori",
@@ -384,6 +398,7 @@
     "year": "2019"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Makoto Shinkai",
         "Mika Shinohara"
@@ -406,6 +421,7 @@
     "year": "1999"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Sumi Shimamoto",
         "Ichirō Nagai",
@@ -453,6 +469,7 @@
     "year": "1984"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Keiko Yokozawa",
         "Mayumi Tanaka",
@@ -496,6 +513,7 @@
     "year": "1986"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Noriko Hidaka",
         "Hitoshi Takagi",
@@ -527,6 +545,7 @@
     "year": "1988"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Tsutomu Tatsumi",
         "Ayano Shiraishi",
@@ -552,6 +571,7 @@
     "year": "1988"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Minami Takayama",
         "Rei Sakuma",
@@ -599,6 +619,7 @@
     "year": "1989"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Miki Imai",
         "Toshir\u014d Yanagiba",
@@ -633,6 +654,7 @@
     "year": "1991"
 },
 {
+      "saga": "Makoto Shinkai",
     "actors": [
         "Shûichirô Moriyama",
         "Tokiko Katô",
@@ -664,6 +686,7 @@
     "year": "1992"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Nobuo Tobita",
         "Toshihiko Seki",
@@ -699,6 +722,7 @@
     "year": "1993"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Shinchou Kokontei",
         "Makoto Nonomura",
@@ -737,7 +761,8 @@
     "year": "1994"
 },
 {
-    "actors": [],
+      "saga": "Studio Ghibli",
+    "actors": ["Chage", "Aska"],
     "director": [
         "Hayao Miyazaki"
     ],
@@ -752,11 +777,12 @@
             "url": "https://mega.nz/#!hKpyGKyR!PWWd9lgDyw5G9g1D4t0g9W2oS4Iy7EjTxaX776Gkuek"
         }
     ],
-    "title": "On Your Mark \u30b8\u30d6\u30ea\u5b9f\u9a13\u5267\u573a",
+    "title": "On Your Mark ジブリ実験剧场",
     "tmdb_id": 10840,
     "year": "1995"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Yoko Honna",
         "Issey Takahashi",
@@ -800,6 +826,7 @@
     "year": "1995"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Yōji Matsuda",
         "Yuriko Ishida",
@@ -835,6 +862,7 @@
     "year": "1997"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Hayato Isohata",
         "Masako Araki",
@@ -864,6 +892,7 @@
     "year": "1999"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Rumi Hiiragi",
         "Miyu Irino",
@@ -900,6 +929,7 @@
     "year": "2001"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Chizuru Ikewaki",
         "Yoshihiko Hakamada",
@@ -937,6 +967,7 @@
     "year": "2002"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Chieko Baisho",
         "Takuya Kimura",
@@ -970,20 +1001,21 @@
     "year": "2004"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Junichi Okada",
         "Aoi Teshima",
         "Bunta Sugawara",
-        "Y\u016bko Tanaka",
+        "Yūko Tanaka",
         "Teruyuki Kagawa",
         "Jun Fubuki",
-        "Takashi Nait\u014d",
+        "Takashi Naitō",
         "Mitsuko Baisho",
         "Yui Natsukawa",
         "Kaoru Kobayashi"
     ],
     "director": [
-        "Gor\u00f4 Miyazaki"
+        "Gorô Miyazaki"
     ],
     "genre": [
         "Avventura",
@@ -1002,6 +1034,7 @@
     "year": "2006"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Yuria Nara",
         "Hiroki Doi",
@@ -1036,6 +1069,7 @@
     "year": "2008"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Mirai Shida",
         "Ryunosuke Kamiki",
@@ -1064,6 +1098,7 @@
     "year": "2010"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Masami Nagasawa",
         "Junichi Okada",
@@ -1098,6 +1133,7 @@
     "year": "2011"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Hideaki Anno",
         "Miori Takimoto",
@@ -1131,6 +1167,7 @@
     "year": "2013"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Aki Asakura",
         "Kengo Kora",
@@ -1169,6 +1206,7 @@
     "year": "2013"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Sara Takatsuki",
         "Kasumi Arimura",
@@ -1204,6 +1242,7 @@
     "year": "2014"
 },
 {
+      "saga": "Studio Ghibli",
     "actors": [
         "Emmanuel Garijo",
         "Tom Hudson",
@@ -1231,8 +1270,9 @@
     "year": "2016"
 },
 {
-    "actors": [],
-    "director": [],
+      "saga": "Film tratti da anime",
+    "actors": ["Saori Hayami", "Ryohei Kimura", "Daisuke Namikawa", "Rumi Okubo", "Tatsuhisa Suzuki"],
+    "director": ["Soichi Shimada"],
     "genre": [
         "Horror",
         "Azione",
@@ -1250,6 +1290,7 @@
     "year": "2015"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Masataka Kubota",
         "Fumika Shimizu",
@@ -1290,19 +1331,21 @@
     "year": "2017"
 },
 {
-    "actors": [],
-    "genre": [],
+      "saga": "Film tratti da anime",
+    "actors": ["Masakazu Morita", "Romi Park", "Akira Ishida", "Fumiko Orikasa", "Kentaro Ito", "Kaya Matsutani", "Masaaki Tsukada", "Aya Hisakawa", "Yukana", "Noriaki Sugiyama", "Hiroki Yasumoto", "Yuki Matsuoka", "Hideo Ishikawa", "Ryotaro Okiayu", "Nobuyuki Hiyama", "Jun Fukuyama"],
+    "genre": ["Noriyuki Abe"],
     "links": [
         {
             "quality": "SD",
             "url": "https://mega.nz/#!24cBUKob!CElOkdxfSHAzVClmKApp_XLI3w6WRkEjqxTj8kOM9uo"
         }
     ],
-    "title": "Bleach the Deamon Dust",
+    "title": "Bleach: The DiamondDust Rebellion",
     "tmdb_id": "17101",
     "year": "2007"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Sota Fukushi",
         "Hana Sugisaki",
@@ -1334,6 +1377,7 @@
     "year": "2018"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Miki Itou",
         "Shunsuke Kariya",
@@ -1369,6 +1413,7 @@
     "year": "1993"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Miki Itou",
         "Shunsuke Kariya",
@@ -1404,6 +1449,7 @@
     "year": "1993"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Rosa Salazar",
         "Christoph Waltz",
@@ -1470,6 +1516,7 @@
     "year": "2019"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Emile Hirsch",
         "Christina Ricci",
@@ -1574,6 +1621,7 @@
     "year": "2008"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Sho Sakurai",
         "Saki Fukuda",
@@ -1606,6 +1654,7 @@
     "year": "2009"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Kang Dong-won",
         "Han Hyo-joo",
@@ -1647,6 +1696,7 @@
     "year": "2018"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Atsuko Tanaka",
         "Akio Otsuka",
@@ -1691,6 +1741,7 @@
     "year": "1995"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Atsuko Tanaka",
         "Akio Otsuka",
@@ -1739,6 +1790,7 @@
     "year": "2004"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Scarlett Johansson",
         "Takeshi Kitano",
@@ -1806,6 +1858,7 @@
     "year": "2017"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Romi Park",
         "Rie Kugimiya",
@@ -1856,6 +1909,7 @@
     "year": "2005"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Allison Miller",
         "Jun Ji-hyun",
@@ -1897,6 +1951,7 @@
     "year": "2009"
 },
 {
+      "saga": "Film tratti da anime",
     "actors": [
         "Nat Wolff",
         "Lakeith Stanfield",
@@ -1963,6 +2018,22 @@
     "title": "Death Note",
     "tmdb_id": 351460,
     "year": "2017"
+        },
+        {
+            "plot": "Tsurikichi Sanpei è un film giapponese del 2009 diretto dal regista premio oscar Yōjirō Takita. Il film è un live action liberamente adattato dal manga omonimo in cui vengono narrate le vicende di un giovane pescatore ambizioso",
+            "title": "Sampei Il Ragazzo Pescatore",
+            "year": "2009",
+            "tmdb_id": "151462",
+            "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/IMMAGINI/Tsurikichi_Sanpei-cover.jpg",
+            "saga": "Film tratti da anime",
+    "director": ["Yojiro Takita"],
+            "actors": ["Kenta Suga", "Takashi Tsukamoto", "Yuu Kashii", "Tao Tsuchiya", "Tougo Shimura", "Kenichirou Yasui", "Tsunehiko Watase"],
+            "links": [
+                {
+                    "url": "https://mega.nz/#!bV1nSBiB!6P6cjQW0gmTU80OxRUZ5BEiLQ-ofH7cPAlhBn9G0nQI",
+                    "quality": "HD"
+                }
+            ]
         }
     ]
 }
