@@ -34,7 +34,7 @@
     },
     {
       "title": "Teatro - in sistemazione",
-      "link": "/TEATRO/Teatro.json",
+      "link": "/TEATRO/PERSONAGGI/Paolini.json",
       "thumbnail": "/Immagini/Teatro.png",
       "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
