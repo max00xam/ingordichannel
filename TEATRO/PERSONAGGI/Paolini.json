@@ -39,16 +39,6 @@
 			],
 			"title":"ITIS Galileo",
 			"year":"2012"
-		},
-		{
-			"links":[
-				{
-					"quality":"480",
-					"url":"https://hddn01.skylinewebcams.com/live.m3u8?a=ue5c98u0t2hr5etjau97je8bm2"
-				}
-			],
-			"title":"Colosseo",
-			"year":"2012"
 		}
 	]
 }
