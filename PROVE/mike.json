@@ -10,7 +10,7 @@
       "actors": ["Simon Pegg" ,"Nick Frost", "Kate Ashfield", "Lucy Davis", "Dylan Moran"],
       "links": [
         {
-          "url": "https://hddn01.skylinewebcams.com/live.m3u8?a=elc8cslj198mae2da6ph8r8jj4",
+          "url": "https://hddn01.skylinewebcams.com/live.m3u8",
           "quality":"hd"
         }
       ]
