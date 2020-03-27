@@ -1,0 +1,184 @@
+{
+   "movies_list":[
+	   {
+      	"saga": "Paolini",
+	"plot": "Un brillantissimo Marco Paolini racconta tutta la storia del Vajont. Il documento andò in onda su Rai2 la sera del 9 ottobre del 1997 in diretta dalla diga. Due ore e venti minuti di sana cultura per comprendere quanto accaduto nei decenni precedenti il disastro sin dal momento in cui si decise di iniziare il progetto dell'invaso.",
+   	"title":"Il disastro del Vajont",
+	"year":"1997",
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=hjx0iQYoSRI"
+		}
+	]
+},
+{
+	"saga": "Paolini",
+      	"plot": "(Trasmesso su LA7 il 30-10-2007) (ispirato da Il sergente nella neve di Mario Rigoni Stern). Lo spettacolo è stato seguito da 1.200.000 telespettatori per uno share del 5,7%, un record per LA7.",
+   	"title":"Il Sergente",
+	"year":"2007",
+	"links":[
+		{
+		"quality":"360",
+		"url":"https://www.youtube.com/watch?v=eTV4Y4OvTDQ"
+		}
+	]
+},
+{
+      	"saga": "Paolini",		
+      	"plot": "(Trasmesso su LA7 il 01-01-2009). Lo spettacolo è stato seguito da 1.065.000 telespettatori per uno share del 4.76%.",
+   	"title":"La macchina del capo (Racconto di Capodanno)",
+	"year":"2009",
+	"links":[
+		{
+	"quality":"360",
+	"url":"https://www.youtube.com/watch?v=MQ6UbXcU5BA&list=PLVfKqYUjAOvxscoCPH5lFyYGorhNB8vjl&index=2"
+		}
+	]
+},
+{
+	"saga": "Paolini",		
+      	"plot": "Lo spettacolo teatrale di Marco Paolini trasmesso in diretta su La7 il 25 aprile 2012.",
+   	"title":"ITIS Galileo",
+	"year":"2012",
+	"links":[
+		{
+	"quality":"480",
+	"url":"https://www.youtube.com/watch?v=8alJ9eFl634"
+		}
+     ]
+},
+{
+	"saga": "Rossi",		
+      	"plot": "Un giovane Paolo Rossi intrattiene con uno spettacolo gli spettatori intervenuti al Festival Internazionale del Teatro Comico di Sant'Omero alla Vibrata (Provincia di Teramo).",
+   	"title":"Spettacolo Itinerante",
+	"year":"1989"
+	"links":[
+		{
+	"quality":"360",
+	"url":"https://www.youtube.com/watch?v=8FWL5k4XAA0"
+		}
+	]
+},
+{
+	"saga": "Rossi",		
+      	"plot": "È lo spettacolo portato in scena nella stagione 2000 / 2001",
+   	"title":"Storie Di Un Delirio Organizzato",
+	"year":"2001"
+	"links":[
+		{
+		"quality":"240",
+		"url":"https://www.youtube.com/watch?v=3CRs11YI85s"
+		}
+	]
+},
+{
+	"saga": "Dario Fo",		
+      	"plot": "Il capolavoro ideato, scritto e recitato dal grandissimo Dario Fo. Collage divertente e satirico di misteri e giullarate medioevali e rinascimentali, volto ad insegnare a grandi e piccoli che il potere può facilmente essere annientato con grosse risate.",
+	"title":"Mistero buffo",
+	"year":"1977"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=9EdIFECzTVE&list=PLfnwlU3xMdwnaAU4SwihZLP41qSnwuCIW&index=44"
+		}
+	]
+},
+{
+	"saga": "Dario Fo",		
+      	"plot": "Lezioni di Teatro 1 e 2 sono due dvd 1983\4 allegati a un manuale libro.",
+	"title":"Lezioni di Teatro 1",
+	"year":"1983"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=ADUGqA8dKqk"
+		}
+	]
+},
+{
+	"saga": "Dario Fo",		
+      	"plot": "Lezioni di Teatro 1 e 2 sono due dvd 1983\4 allegati a un manuale libro.",
+	"title":"Lezioni di Teatro 2 - La storia della tigre",
+	"year":"1984"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=ln3hexEo5RA"
+		}
+	]
+}
+{
+	"saga": "Antonio Albanese",			
+      	"plot": "non è il film uomo d'acqua dolce.",
+	"title":"Uomo",
+	"year":"1996"
+	"links":[
+		{
+		"quality":"240",
+		"url":"https://www.youtube.com/watch?v=OvsxIv-GORw"
+		}
+	]
+},
+{
+	"saga": "Antonio Albanese",			
+      	"plot": "Tutti i personaggi storici di Albanese, da Alex Drastico a Epifanio, Efrem ed altri. Versione colpeta",
+	"title":"Personaggi",
+	"year":"2006"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=7YiyJReHYHc"
+		}
+	]
+},
+{
+	"saga": "Giorgio Gaber",			
+      	"plot": "Un'idea - Le caselle - Pressione bassa",
+	"title":"Il signor G - Parte 1",
+	"year":"1970"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=fK1vgQZ72nc"
+		}
+	]
+},
+{
+	"saga": "Giorgio Gaber",			
+      	"plot": "I reduci - L'odore - L'impotenza",
+	"title":"Il signor G - Parte 2",
+	"year":"1970"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=7cN1bH5Gzfg"
+		}
+	]
+},
+{
+	"saga": "Giorgio Gaber",			
+      	"plot": "Far Finta Di Essere Sani - Luciano - Cosa Mi Sono Perso",
+	"title":"Il signor G - Parte 3",
+	"year":"1970"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=mqGPbJ9gKLw"
+		}
+	]
+},
+{
+	"saga": "Giorgio Gaber",			
+      	"plot": "Una Donna - Madonnina dei Dolori - Io e Le Cose",
+	"title":"Il signor G - Parte 4",
+	"year":"1970"
+	"links":[
+		{
+		"quality":"480",
+		"url":"https://www.youtube.com/watch?v=s1PFSnumbA8"
+		}
+	]
+     }
+  ]
+}
