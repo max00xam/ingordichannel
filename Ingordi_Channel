@@ -36,6 +36,7 @@
       "title": "Teatro",
       "link": "/TEATRO/teatro.json",
       "thumbnail": "/Immagini/Teatro.png",
+      "level2": {"search":"", "actors":"Attori", "year":"Anno"}
     },
     {
       "title": "Registi di culto",
