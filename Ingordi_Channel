@@ -27,16 +27,16 @@
       "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
-      "title": "Documentari - in sistemazione",
+      "title": "Documentari",
       "link": "/DOCUMENTARI/documentari.json",
       "thumbnail": "/Immagini/DOCUMENTARI.jpg",
       "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
     },
     {
-      "title": "Teatro - in sistemazione",
-      "link": "/TEATRO/PERSONAGGI/Paolini.json",
+      "title": "Teatro",
+      "link": "/TEATRO/teatro.json",
       "thumbnail": "/Immagini/Teatro.png",
-      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "level2": {"search":"", "actors":"Attori", "director":"Regista", "year":"Anno"}
     },
     {
       "title": "Registi di culto",
