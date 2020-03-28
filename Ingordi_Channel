@@ -13,7 +13,6 @@
       "title": "Film",
       "link": "/FILM/film.json",
       "thumbnail": "/Immagini/Film.jpg",
-      "thumbnail": "/Immagini/Film.jpg"
       "submenu": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"},
       "saga":
         {"title":"Saghe", "description":"/FILM/description.json"}
