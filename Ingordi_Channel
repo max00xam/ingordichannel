@@ -41,9 +41,12 @@
       "link": "/DOCUMENTARI/documentari.json",
       "thumbnail": "/Immagini/DOCUMENTARI.jpg",
       "level2": {
-      "search":"",
-      "year":"Anno",
-      "saga":"Saghe"}
+    "search":"",
+    "year":"Anno",,
+    "saga":{
+        "title":"Saghe",
+        "description":"/DOCUMENTARI/description.json"
+    }
     },
     {
       "title": "Teatro",
