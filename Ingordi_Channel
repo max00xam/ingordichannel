@@ -1,8 +1,8 @@
 {
-  "channel_name": "INGORDI CHANNEL 2.0",
+  "channel_name": "INGORDI CHANNEL",
   "plot": "",
   "fanart":"/Immagini/Ingordi.jpg",
-  "thumbnail": "",
+  "thumbnail": "/Immagini/Ingordi.jpg",
   "menu": [
     {
       "title": "Live TV",
@@ -12,18 +12,7 @@
     {
       "title": "Film",
       "link": "/FILM/film.json",
-      "thumbnail": "/Immagini/Film.jpg",
-      "level2": {
-    "search":"",
-    "genre":"Genere",
-    "actors":"Attori",
-    "director":"Regista",
-    "year":"Anno",
-    "saga":{
-        "title":"Saghe",
-        "description":"/FILM/description.json"
-    }
-}
+      "thumbnail": "/Immagini/Film.jpg"
     },
     {
       "title": "Serie TV",
@@ -33,32 +22,22 @@
     {
       "title": "Animazione / Anime",
       "link": "/ANIMAZIONE/animazione.json",
-      "thumbnail": "/Immagini/animazione.jpg",
-      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "thumbnail": "/Immagini/animazione.jpg"
     },
     {
-      "title": "Documentari",
+      "title": "Documentari - in sistemazione",
       "link": "/DOCUMENTARI/documentari.json",
-      "thumbnail": "/Immagini/DOCUMENTARI.jpg",
-      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "thumbnail": "/Immagini/DOCUMENTARI.jpg"
     },
     {
-      "title": "Teatro",
-      "link": "/TEATRO/teatro.json",
-      "thumbnail": "/Immagini/Teatro.png",
-       "level2": {
-    "search":"",
-    "year":"Anno",
-    "actors":{
-        "title":"Attori",
-        "description":"/TEATRO/description.json"
-    }
+      "title": "Teatro - in sistemazione",
+      "link": "/TEATRO/Teatro.json",
+      "thumbnail": "/Immagini/Teatro.png"
     },
     {
       "title": "Registi di culto",
       "link": "/REGISTI_DI_CULTO/registi.json",
-      "thumbnail": "/Immagini/registi.jpg",
-      "level2": {"search":"", "genre":"Genere", "director":"Regista", "year":"Anno"}
+      "thumbnail": "/Immagini/registi.jpg"
     },
     {
       "title": "Il Baule dell'Ingordo",
@@ -72,7 +51,7 @@
     },
     {
       "title": "PROVE Script",    
-      "link": "/PROVE/Prova.json",
+      "link": "/PROVE/mike.json",
       "thumbnail": "/Immagini/Prove.png"
     }
   ]
