@@ -40,7 +40,10 @@
       "title": "Documentari",
       "link": "/DOCUMENTARI/documentari.json",
       "thumbnail": "/Immagini/DOCUMENTARI.jpg",
-      "level2": {"search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno", "saga":"Saghe"}
+      "level2": {
+      "search":"",
+      "year":"Anno",
+      "saga":"Saghe"}
     },
     {
       "title": "Teatro",
