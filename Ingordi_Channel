@@ -46,7 +46,14 @@
       "title": "Teatro",
       "link": "/TEATRO/teatro.json",
       "thumbnail": "/Immagini/Teatro.png",
-      "level2": {"search":"", "actors":"Attori", "year":"Anno"}
+       "level2": {
+    "search":"",
+    "actors":"Attori",
+    "year":"Anno",
+    "saga":{
+        "title":"Attori",
+        "description":"/TEATRO/description.json"
+    }
     },
     {
       "title": "Registi di culto",
