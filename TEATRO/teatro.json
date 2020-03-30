@@ -1,7 +1,7 @@
 {
    "movies_list":[
 	   {
-      	"actors": "Paolini",
+      	"actors": "Marco Paolini",
 	"plot": "Un brillantissimo Marco Paolini racconta tutta la storia del Vajont. Il documento andò in onda su Rai2 la sera del 9 ottobre del 1997 in diretta dalla diga. Due ore e venti minuti di sana cultura per comprendere quanto accaduto nei decenni precedenti il disastro sin dal momento in cui si decise di iniziare il progetto dell'invaso.",
    	"title":"Il disastro del Vajont",
 	"year":"1997",
@@ -13,7 +13,7 @@
 	]
 },
 {
-      	"actors": "Paolini",
+      	"actors": "Marco Paolini",
       	"plot": "(Trasmesso su LA7 il 30-10-2007) (ispirato da Il sergente nella neve di Mario Rigoni Stern). Lo spettacolo è stato seguito da 1.200.000 telespettatori per uno share del 5,7%, un record per LA7.",
    	"title":"Il Sergente",
 	"year":"2007",
@@ -25,7 +25,7 @@
 	]
 },
 {
-      	"actors": "Paolini",		
+      	"actors": "Marco Paolini",		
       	"plot": "(Trasmesso su LA7 il 01-01-2009). Lo spettacolo è stato seguito da 1.065.000 telespettatori per uno share del 4.76%.",
    	"title":"La macchina del capo (Racconto di Capodanno)",
 	"year":"2009",
@@ -37,7 +37,7 @@
 	]
 },
 {
-      	"actors": "Paolini",		
+      	"actors": "Marco Paolini",		
       	"plot": "Lo spettacolo teatrale di Marco Paolini trasmesso in diretta su La7 il 25 aprile 2012.",
    	"title":"ITIS Galileo",
 	"year":"2012",
@@ -49,7 +49,7 @@
      ]
 },
 {
-	"actors": "Rossi",		
+	"actors": "Paolo Rossi",		
       	"plot": "Un giovane Paolo Rossi intrattiene con uno spettacolo gli spettatori intervenuti al Festival Internazionale del Teatro Comico di Sant'Omero alla Vibrata (Provincia di Teramo).",
    	"title":"Spettacolo Itinerante",
 	"year":"1989",
@@ -61,7 +61,7 @@
 	]
 },
 {
-	"actors": "Rossi",		
+	"actors": "Paolo Rossi",		
       	"plot": "È lo spettacolo portato in scena nella stagione 2000 - 2001",
    	"title":"Storie Di Un Delirio Organizzato",
 	"year":"2001",
