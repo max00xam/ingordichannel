@@ -42,10 +42,14 @@
       "thumbnail": "/Immagini/DOCUMENTARI.jpg",
       "level2": {
     "search":"",
-    "year":"Anno",,
+    "year":"Anno",
     "saga":{
-        "title":"Saghe",
-        "description":"/DOCUMENTARI/description.json"
+        "saga":"saghe",
+        "description":"/DOCUMENTARI/description_saga.json"
+    },
+    "personaggi":{
+        "title":"Personaggi",
+        "description":"/DOCUMENTARI/description_pers.json"
     }
     },
     {
