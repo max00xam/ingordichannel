@@ -48,9 +48,8 @@
       "thumbnail": "/Immagini/Teatro.png",
        "level2": {
     "search":"",
-    "actors":"Attori",
     "year":"Anno",
-    "saga":{
+    "actors":{
         "title":"Attori",
         "description":"/TEATRO/description.json"
     }
