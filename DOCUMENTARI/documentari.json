@@ -1,16 +1,352 @@
 {
-"menu": [
+  "movies_list": [
     {
-      "title": "Motori",
-      "link": "/DOCUMENTARI/motori/motori.json",
-      "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/motori.jpg",
-      "fanart": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/DOCUMENTARI/IMMAGINI/motori.jpg"
+      "plot": "Da dove tutto ebbe inizio. Il video che non solo ha ridefinito la cultura automobilistica, ma ha trasformato i media automobilistici stessi. Nessun CGI o filmati accelerati da trovare - solo la vera guida nata dalle abilità di guida di Ken Block. Questo è il video che ha lanciato un impero e ha generato innumerevoli imitatori. Questa è Gymkhana.",
+      "title": "DC SHOES: KEN BLOCK GYMKHANA 1 PRACTICE",
+      "year": "2008",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-1.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=rs-jAImScms",
+          "quality":"HD"
+        }
+      ]
     },
     {
-      "title": "Socio Politici",
-      "link": "/DOCUMENTARI/politici/socio.json",
-      "fanart": "",
-      "thumbnail": ""
+      "plot":"Sulla scia del successo del primo video di Gymkhana Practice che ha attirato l'attenzione di oltre 20 milioni di spettatori in tutto il mondo, il video TWO di Gymkhana porta le informazioni al livello successivo. A differenza di altri infomercials, questo vende i prodotti con grande azione, cinematografia e una drammatica performance di guida - e, nessuno stereotipato lancinatore informale di formaggio! Prodotto appositamente per commercializzare la prima collezione Rally TeamWorks di Blocks, il nuovo video è pieno di fantastiche acrobazie di guida, sorprese, esplosioni e un'apparizione ospite da parte del pilota del team DC, Rob Dyrdek. Girato al porto di Los Angeles, aspettatevi un piacere per gli sport motoristici non-stop mentre Block inizia il nuovissimo percorso in una Subaru Impreza WRX STI personalizzata e ad alte prestazioni. Visita dcshoes.com/gymkhanatwo per ulteriori foto e informazioni sul video ad alte prestazioni e Blocks Collection Teamworks completa",
+      "title": "DC SHOES: KEN BLOCK GYMKHANA 2 THE INFOMERCIAL",
+      "year": "2009",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-2.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=HQ7R_buZPSo",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Scattata a sud di Parigi, in Francia, a Linas all'Autodromo di Linas - Montléry, questa pista ovale di 1,58 miglia, costruita nel 1924, presenta sponde ripide di 51 gradi, che sono più del doppio dell'inclinazione standard della maggior parte degli ovali NASCAR. Scelto da Ken per questo motivo specifico, il sistema bancario a rampa si è rivelato una sfida unica ed eccitante. La fisica di guida per le acrobazie eseguite era totalmente sconosciuta fino a quando Ken non ha tentato le manovre durante le riprese.",
+      "title": "KEN BLOCK'S GYMKHANA 3, PART 2; ULTIMATE PLAYGROUND; L'AUTODROME, FRANCE",
+      "year": "2010",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-3.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?time_continue=6&v=4TshFWSsrn8",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":" Gymkhana 4 supera lo stile di alta produzione di Gymkhana 2 con effetti ancora più spettacolari girati nel backstage di Universal Studios, California. Girato per cinque giorni, il regista Ben Conrad (Zombieland e 30 Seconds or Less) e il suo team Logan offre una produzione di calibro di Hollywood completa di articoli pirotecnici, acrobazie enormi e una miriade di trucchi incredibili. Con gli squali robotici, gli zombi squilibrati e una cammeo esilarante dei ragazzi di Epic Meal Time, Ken Block e il suo Hybrid FunctionHoon Vehicle (H.F.H.V.) riuniscono la magia di Hollywood e gymkhana.",
+      "title": "KEN BLOCK'S GYMKHANA 4; THE HOLLYWOOD MEGAMERCIAL",
+      "year": "2011",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-4.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=btViXvIDsi0",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Girato per le strade di San Francisco, in California, Gymkhana 5 si concentra su un'azione di guida veloce, grezza e precisa. Girato per quattro giorni, il regista Ben Conrad e il suo team sono tornati a lavorare alla loro seconda produzione Gymkhana e hanno consegnato l'intera città di San Francisco come parco giochi personale di Ken Block. DC Shoes ha anche fornito il collega atleta DC e l'amico di lunga data Ken Block, Travis Pastrana, per fare un'apparizione cameo sulla sua dirtbike, e S.F. residente Jake Phelps della fama di Thrasher Magazine fa anche un cameo mentre Block hoons S.F. nella sua più incredibile Gymkhana di sempre.",
+      "title": "KEN BLOCK'S GYMKHANA 5: ULTIMATE URBAN PLAYGROUND; SAN FRANCISCO",
+      "year": "2012",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-5.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?time_continue=4&v=LuDN2bCIyus",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Per i gioco Need For Speed Ken Block, come consulente di gare, ha realizzato il corso GRID Gymkhana per eccellenza, un parco giochi per mostrare la velocità, il divertimento e l'azione esaltante della guida. Ciò significa ostacoli completamente nuovi che aiutano ad aumentare la difficoltà per Block di padroneggiare nella sua auto da corsa Ford Fiesta ST RX43 2013, tra cui le manovre intorno a una palla da demolizione in movimento e lo scorrimento attraverso l'apertura stretta nei lati dei container. Block ha anche aggiunto elementi di videogiochi da Need for Speed Rivals. Guarda mentre esegue più salti, va alla deriva intorno a Lamborghini Aventadors ed elude i poliziotti della contea di Redview a tema videogioco su Segway nel suo stile unico. Puoi quasi sentire l'odore della bruciatura della gomma mentre strappa questo incredibile percorso. Quindi sedetevi e godetevi il viaggio.",
+      "title": "NEED FOR SPEED: KEN BLOCK'S GYMKHANA 6 - ULTIMATE GYMKHANA GRID COURSE",
+      "year": "2013",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-6.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?time_continue=8&v=WUO-lPubXeI",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Hoonigan, Ford e Need For Speed presentano con orgoglio Gymkhana SEVEN di Ken Block; Wild in the Streets: Los Angeles.",
+      "title": "KEN BLOCK'S GYMKHANA 7: WILD IN THE STREETS OF LOS ANGELES",
+      "year": "2014",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-7.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=5qanlirrRWs",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Ken Block si supera in questo ottavo appuntamento ambientato a tra le strade di Dubai, dove esegue spettacolari esibizioni e bloca un'intera città!",
+      "title": "KEN BLOCK'S ULTIMATE EXOTIC PLAYGROUND IN DUBAI | GYMKHANA 8 | FORD PERFORMANCE",
+      "year": "2016",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-8.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?time_continue=4&v=_hf6ke1-i3E",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Gymkhana NINE: Raw Industrial Playground. Questo video ritorna alle radici del franchise virale di oltre 550 milioni di visualizzazioni di HHIC Ken Block con un'azione di guida pura e pura al centro della scena. Protagonista è la sua Ford Focus RS RX da oltre 600 cavalli con cui compete nel campionato mondiale Rallycross FIA.",
+      "title": "KEN BLOCK'S GYMKHANA 9: RAW INDUSTRIAL PLAYGROUND",
+      "year": "2016",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-9.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=_bkX5VkZg8U",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "plot":"Ken Block e Hoonigan sono lieti di presentare l'ultimo e più grande progetto video di Block della sua carriera, Gymkhana TEN: Ultimate Tire Slaying Tour. Ora disponibile su YouTube in tutto il mondo dopo una finestra di esclusività di 10 giorni su Amazon Prime Video, nell'ambito del documentario di Block: The Gymkhana Files",
+      "title": "KEN BLOCK'S GYMKHANA 10: THE ULTIMATE TIRE SLAYING TOUR",
+      "year": "2018",
+      "personaggi":"Ken Block",
+      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-10.jpg",
+      "saga": "GYMKHANA",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=m_KBvP0_8Tc",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "The Red Discovery - AVM Episode corto 1",
+      "year": "18-11-2017",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-1.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=sVhWjSKywAQ",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "La sfida delle costruzioni- AVM episodio corto 2",
+      "year": "18-12-2017",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-2.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=J_PRXuovweE",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "La Montagna Russa - AVM Cortometraggio Episodio 3",
+      "year": "18-01-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-3.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=cPWPAjYb5eI",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Potions - Animation vs. Minecraft Shorts Ep. 4",
+      "year": "18-02-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-4.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=KXgaSaME-Ms",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Note Blocks - Animation vs. Minecraft Shorts Ep. 5 (music by AaronGrooves)",
+      "year": "18-03-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-5.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=c9DrryMw248",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Command Blocks - AVM Shorts Episode 6",
+      "year": "18-04-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-6.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=y5zW1c30MGQ",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "PvP - Animation vs. Minecraft Shorts Ep. 7",
+      "year": "18-05-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-7.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=z2sRTaa9lZU",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "The Nether - Animation vs. Minecraft Shorts Episode 8",
+      "year": "18-06-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-8.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=E7x2pH6yiL4",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Villagers - Animation vs. Minecraft Shorts Ep. 9",
+      "year": "18-07-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-9.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=_fPhQLM4Iac",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "The End - Animation vs. Minecraft Shorts Ep. 10",
+      "year": "19-09-2018",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-10.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=wkedWWxRABM",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "SkyBlock - Animation vs. Minecraft Shorts Il Regno dei Delfini - AVM Shorts Episodio 13",
+      "year": "29-01-2019",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-11.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=WTPt07NO61A",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "TNT Land - Animation vs. Minecraft Shorts Ep. 12",
+      "year": "04-04-2019",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-12.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=O3JPzQYJTZk",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Il Regno dei Delfini - AVM Shorts Episodio 13",
+      "year": "11-05-2019",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-13.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=zRD4-cl9_OU",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Cave Spider Roller Coaster - Animation vs. Minecraft Shorts Ep. 14",
+      "year": "21-09-2019",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-14.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=pCBP4M08ndE",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Animation vs. Minecraft Shorts Season 1 - All Episodes (1-14)",
+      "year": "23-11-2019",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-15.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=sHFeuBlBUos",
+          "quality":"HD"
+        }
+      ]
+    },
+    {
+      "title": "Note Block Battle - Animation vs. Minecraft Shorts Ep 16 (Music by AaronGrooves)",
+      "year": "14-03-2020",
+      "personaggi":"Alan Becker",
+      "poster": "/DOCUMENTARI/IMMAGINI/avm-16.jpg",
+      "saga": "Animation vs Minecraft",
+      "links": [
+        {
+          "url": "https://www.youtube.com/watch?v=c0egcErkap0",
+          "quality":"HD"
+        }
+      ]
     }
-  ]
-}
+    ]
+  }
