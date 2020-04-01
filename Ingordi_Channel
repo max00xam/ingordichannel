@@ -46,11 +46,6 @@
     "saga":{
         "title":"Saghe",
         "description":"/DOCUMENTARI/description_saga.json"
-    },
-    "personaggi":{
-        "title":"Personaggi",
-        "description":"/DOCUMENTARI/description_pers.json"
-    }
     }
     },
     {
