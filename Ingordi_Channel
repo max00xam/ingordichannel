@@ -45,11 +45,11 @@
     "year":"Anno",
     "persone":{
         "title":"Personaggi",
-        "description":"/DOCUMENTARI/description_pippo.json"
+        "description":"/DOCUMENTARI/description_pers.json"
     },
     "saga":{
         "title":"Saghe",
-        "description":"/DOCUMENTARI/description_pers.json"
+        "description":"/DOCUMENTARI/description_pippo.json"
     }
     }
     },
