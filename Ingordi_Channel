@@ -47,7 +47,7 @@
         "title":"Personaggi",
         "description":"/DOCUMENTARI/description_pers.json"
     },
-    "saga":{
+    "casa":{
         "title":"Saghe",
         "description":"/DOCUMENTARI/description_pippo.json"
     }
