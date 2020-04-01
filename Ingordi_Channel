@@ -44,7 +44,7 @@
     "search":"",
     "year":"Anno",
     "saga":{
-        "saga":"Saghe",
+        "title":"Saghe",
         "description":"/DOCUMENTARI/description_saga.json"
     },
     "personaggi":{
