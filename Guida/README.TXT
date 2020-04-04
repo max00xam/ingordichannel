@@ -21,9 +21,7 @@ Bitrate 2000
 Audio  Aac
 192
 
-ACCOUNT OPENLOAD
+ACCOUNT MEGA
 
 User : ingordichannel@hi2.in
-Password : Carichiamotutto19
-
-loginkey : chiedere a @ilpadrino
+Password : mieifile86!

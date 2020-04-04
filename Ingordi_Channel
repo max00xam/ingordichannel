@@ -22,13 +22,24 @@
     "saga":{
         "title":"Saghe",
         "description":"/FILM/description.json"
-    }
-}
+        }
+        }
     },
     {
       "title": "Serie TV",
-      "link": "/SERIE-TV/SerieTV.json",
-      "thumbnail": "/Immagini/SerieTV.jpg"
+      "link": "/SERIE-TV/serietv.json",
+      "thumbnail": "/Immagini/SerieTV.jpg",
+      "level2": {
+        "search":"",
+        "genre":"Genere",
+        "actors":"Attori",
+        "director":"Regista",
+        "year":"Anno",
+        "saga":{
+          "title":"Saghe",
+          "description":"/SERIE-TV/description.json"
+          }
+          }
     },
     {
       "title": "Animazione / Anime",
