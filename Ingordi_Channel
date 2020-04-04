@@ -28,7 +28,7 @@
     {
       "title": "Serie TV",
       "link": "/SERIE-TV/serietv.json",
-      "thumbnail": "/Immagini/SerieTV.jpg",
+      "thumbnail": "/Immagini/serieTV.jpg",
       "level2": {
         "search":"",
         "genre":"Genere",
