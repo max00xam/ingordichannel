@@ -25,7 +25,7 @@
         },
     "prize":{
             "title":"Oscar",
-            "description":"/DOCUMENTARI/description_oscar.json"
+            "description":"/FILM/description_oscar.json"
         }
         }
     },
