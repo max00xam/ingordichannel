@@ -1,6 +1,36 @@
 {
   "movies_list": [
     {
+        "title": "Parasite",
+        "year": "2019",
+        "tmdb_id": "496243",
+        "director": "Bong Joon-ho",
+        "genre": ["Commedia", "Thriller", "Dramma"],
+        "actors": ["Song Kang-ho", "Lee Sun-kyun", "Cho Yeo-jeong", "Yeon-kyo Choi", "Woo-shik", "Park So-dam", "Lee Jung-eun", "Chang Hyae-jin", "Park Myung-hoon"],
+        "prize":["Miglior film", "Miglior film internazionale", "Miglior regista", "Migliore sceneggiatura originale"],
+        "links": [
+          {
+            "url": "https://mega.nz/#!CWBTXazT!3TaqreBy2RIxnMKrrz4pynuQJ1x-bk5DL0rUDWP-eK8",
+            "quality":"hd"
+          }
+        ]
+      },
+      {
+        "title": "Ready Player One",
+        "year": "2018",
+        "tmdb_id": "333339",
+        "director": "Steven Spielberg",
+        "genre": ["Avventura", "Fantascienza"],
+        "actors": ["Tye Sheridan", "Olivia Cooke", "Ben Mendelsohn", "Lena Waithe", "T. J. Miller", "Simon Pegg", "Mark Rylance", "Philip Zhao", "Win Morisaki", "Hannah John-Kamen"],
+        "prize":["Migliori effetti speciali"],
+        "links": [
+          {
+            "url": "https://mega.nz/#!X0UTAIxT!-shfcV0yPAo2mifn_P7rlCKMpRJHC_qdMd8DqPMrVcw",
+            "quality":"hd"
+          }
+        ]
+      },
+    {
       "title": "L'alba dei morti dementi",
       "year": "2004",
       "tmdb_id": "747",

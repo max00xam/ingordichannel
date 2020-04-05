@@ -1,0 +1,27 @@
+{
+  "Migliori effetti speciali":{
+      "plot": "L'Oscar ai migliori effetti speciali (Academy Award for Best Visual Effects) viene assegnato ai tecnici degli effetti speciali votati come migliori dal comitato Visual Effects Branch Executive all'interno dell'Academy of Motion Picture Arts and Sciences, cioè l'ente che assegna gli Academy Awards, i celebri premi conosciuti in Italia come premi Oscar. Il premio viene assegnato tenendo conto del contributo che gli effetti visivi hanno all'interno della produzione del film e tenendo conto dell'abilità e la fedeltà con cui vengono ottenuti. Il premio viene assegnato al massimo a quattro tecnici che hanno contribuito direttamente alla produzione degli effetti visivi.  Dal 1940 al 1963 il premio veniva assegnato a due persone, 1 per gli effetti visivi e uno per gli effetti audio, anche se non sempre venivano assegnati tutti e due. Fino al 1964 la categoria premiata veniva chiamata in inglese Best Special Effects, l'anno dopo fu cambiata in Best Special Visual Effects. Ci sono state 9 edizioni in cui l'Oscar per gli effetti speciali non è stato assegnato, ma si è assegnato l'Oscar Special Achievement Award per gli effetti visivi.",
+      "fanart": "/FILM/Immagini/oscar.jpg",
+      "thumbnail": "/FILM/Immagini/migliorieffetti_spec.jpg"
+  },
+  "Miglior film":{
+      "plot": "L'Oscar al miglior film (Academy Award for Best Picture) viene assegnato annualmente al film votato come migliore dall'Academy of Motion Picture Arts and Sciences (AMPAS), cioè l'ente che dal 1929 assegna gli Academy Awards, i celebri premi conosciuti in Italia come premi Oscar. Fino al 1950, il premio al Miglior Film è stato dato alla società di produzione mentre dal 1951 in poi è andato al produttore. La categoria Miglior film e produzione artistica ('Best Picture, Unique and Artistic Production') conosciuto anche come 'Miglior qualità artistica di produzione' ('Best Artistic Quality of Production') venne presentata solo nella prima edizione. Tale premio è l'ultimo per ordine di annuncio della notte degli Oscar, ed è considerato il più prestigioso. Al 2019, ci sono stati 554 film che hanno ottenuto la nomination al Miglior Film, e 91 vincitori. Di questi 91, 65 hanno vinto anche l'Oscar al miglior regista, e i due premi sono sempre stati strettamente correlati. Solo 5 film nella storia degli Oscar hanno vinto il premio al Miglior Film senza ricevere la nomination al Miglior regista, ovvero Ali, Grand Hotel, A spasso con Daisy, Argo e Green Book. Di conseguenza, solo 2 registi hanno vinto l'Oscar senza che il loro film ottenesse la nomination come Miglior Film: Notte d'Arabia e Trafalgar.",
+      "thumbnail": "/FILM/Immagini/migliorfilm.jpg",
+      "fanart": "/FILM/Immagini/oscar.jpg"
+  },
+  "Miglior film internazionale":{
+      "plot": "Il Premio Oscar al miglior film in lingua straniera (Academy Award for Best International Feature Film) viene assegnato al film in lingua diversa dall'inglese votato come migliore dall'Academy of Motion Picture Arts and Sciences, cioè l'ente che assegna gli Academy Awards, i celebri premi conosciuti in Italia come premi Oscar. Il premio è stato introdotto dall'edizione del 1957, mentre prima di allora è stato assegnato otto volte l'Oscar onorario a film stranieri. Il premio viene consegnato al regista. A partire dall'edizione 2020, il premio è stato rinominato Premio Oscar al miglior film internazionale.",
+      "thumbnail": "/FILM/Immagini/migliorfilm_inter.jpg",
+      "fanart": "/FILM/Immagini/oscar.jpg"
+  },
+  "Miglior regista":{
+      "plot": "L'Oscar al miglior regista (Academy Award for Best Director) viene assegnato al regista votato come migliore dall'Academy of Motion Picture Arts and Sciences, cioè l'ente che assegna gli Academy Awards, i celebri premi conosciuti in Italia come premi Oscar.",
+      "thumbnail": "/FILM/Immagini/migliorregista.jpg",
+      "fanart": "/FILM/Immagini/oscar.jpg"
+  },
+  "Migliore sceneggiatura originale":{
+      "plot": "Il Premio Oscar alla migliore sceneggiatura originale (Academy Award for Writing Original Screenplay) viene assegnato agli sceneggiatori, che hanno scritto un copione non basato su materiale già pubblicato, votati come migliori dall'Academy of Motion Picture Arts and Sciences, cioè l'ente che assegna gli Academy Awards, i celebri premi conosciuti in Italia come premi Oscar. Fino al 1940 esisteva solamente un premio Oscar al miglior soggetto. Dal 1941 a quest'ultimo fu affiancato dall'Oscar alla migliore sceneggiatura originale. Dal 1958 le due categorie vennero combinate per onorare solo la sceneggiatura.",
+      "thumbnail": "/FILM/Immagini/migliorisceneggiatura_orig.jpg",
+      "fanart": "/FILM/Immagini/oscar.jpg"
+  }
+}

@@ -21,7 +21,11 @@
     "year":"Anno",
     "saga":{
         "title":"Saghe",
-        "description":"/FILM/description.json"
+        "description":"/FILM/description_film.json"
+        },
+    "prize":{
+            "title":"Oscar",
+            "description":"/DOCUMENTARI/description_oscar.json"
         }
         }
     },
