@@ -4,6 +4,16 @@
       "fanart": "/FILM/Immagini/TrilogiaDelCornetto_fanart.png",
       "thumbnail": "/FILM/Immagini/TrilogiaDelCornetto.jpg"
   },
+  "Jason Bourne":{
+      "plot": "Jason Charles Bourne, il cui vero nome è David Webb, è un personaggio di fantasia, sicario di professione, protagonista dei romanzi di Robert Ludlum e dei suoi successivi adattamenti cinematografici. La sua prima apparizione è stata nel romanzo Un nome senza volto nel 1980. Da questo romanzo nel 1988 è uscito un adattamento televisivo (Identità bruciata) diretto da Roger Young e interpretato da Richard Chamberlain. Nel 2002 il regista Doug Liman ha tratto la pellicola The Bourne Identity, da cui è nata l'omonima saga cinematografica, in cui Jason Bourne è interpretato dall'attore Matt Damon.",
+      "fanart": "/FILM/Immagini/Bourne_fanart.png",
+      "thumbnail": "/FILM/Immagini/Bourne.jpg"
+  },
+  "Terminator":{
+      "plot": "Terminator è un ciclo di film di fantascienza composto da sei pellicole, prodotte tra il 1984 e il 2019. Nella saga i Terminator sono cyborg, androidi o semplici robot, ideati dall'intelligenza artificiale Skynet, un supercomputer che, acquisita autocoscienza, si pone come obiettivo la distruzione del genere umano usando le stesse armi create dall'uomo per la propria difesa. La serie di film è indissolubilmente legata ad Arnold Schwarzenegger, che è stato il primo e più famoso interprete di un Terminator. Il regista di Terminator e Terminator 2 - Il giorno del giudizio è James Cameron, Terminator 3 - Le macchine ribelli è diretto da Jonathan Mostow, Terminator Salvation vede la regia di McG, Terminator Genisys è diretto da Alan Taylor mentre Terminator - Destino oscuro è diretto da Tim Miller.",
+      "fanart": "/FILM/Immagini/Terminator_fanart.png",
+      "thumbnail": "/FILM/Immagini/Terminator.jpg"
+  },
   "Fast & Furious":{
       "plot": "Fast and Furious, nota anche come Fast & Furious o The Fast Saga è una serie cinematografica d'azione statunitense basata sulle corse e sulle battaglie d'auto. Inizialmente la serie verte sulle vicende di due personaggi, Dominic Toretto, interpretato da Vin Diesel, e Brian O'Conner, interpretato da Paul Walker; tuttavia, a seguito della prematura scomparsa di Walker, il personaggio di O'Conner è stato fatto uscire di scena dalla serie e pertanto essa proseguirà venendo incentrata esclusivamente sul personaggio di Toretto.",
       "fanart": "/FILM/Immagini/FastFurious_fanart.jpg",

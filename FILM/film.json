@@ -1,6 +1,7 @@
 {
   "movies_list": [
     {
+        "plot": "",
         "title": "Parasite",
         "year": "2019",
         "tmdb_id": "496243",
@@ -16,6 +17,7 @@
         ]
       },
       {
+        "plot": "",
         "title": "Ready Player One",
         "year": "2018",
         "tmdb_id": "333339",
@@ -31,6 +33,7 @@
         ]
       },
     {
+      "plot": "La vita di Shaun sta andando a rotoli. Non fa altro che perdere tempo al pub del quartiere, Il Winchester, con il suo migliore amico Ed, ha dei problemi con sua madre e trascura la fidanzata Liz. Quando Liz lo lascia, finalmente Shaun decide di mettere a posto la sua vita. Deve riconquistare il cuore della sua ragazza, recuperare il rapporto con la madre ed affrontare la responsabilità della vita adulta. Sfortunatamente, i morti sono ritornati in vita e minacciano di divorare i vivi. Per il nuovo Shaun, questo è solo un altro ostacolo. Di fronte ad una epidemia di zombi in grande stile, armato di mazza da cricket e vanga, Shaun trascina Ed nell' impresa di salvare la madre, l' odioso patrigno, la fidanzata con i suoi amici ancora più odiosi David e Dianne.",
       "title": "L'alba dei morti dementi",
       "year": "2004",
       "tmdb_id": "747",
@@ -40,12 +43,13 @@
       "actors": ["Simon Pegg" ,"Nick Frost", "Kate Ashfield", "Lucy Davis", "Dylan Moran"],
       "links": [
         {
-          "url": "https://gounlimited.to/ryynr8xsn0hf/L",
+          "url": "http://51.77.159.233:30299/__ba2cfcedf216c1d4c282db3e57117c0d",
           "quality":"HD ITA ENG"
         }
       ]
     },
     {
+      "plot": "Vittima dell'invidia dei colleghi e dei superiori, l'agente Nicholas Angel, pluridecorato, viene considerato un esaltato. Con la scusa di una promozione, così, i suoi superiori cercano di allontanarlo il più possibile da Londra, spedendolo in un paesino a 250 km di distanza, dove non accade nulla di emozionante, almeno apparentemente... Seguendo la pista di alcune morti che sembrano casuali, Angel s'imbatte finalmente in un caso 'succulento'...",
       "title": "Hot Fuzz",
       "year": "2007",
       "tmdb_id": "4638",
@@ -55,12 +59,13 @@
       "actors": ["Simon Pegg" ,"Nick Frost", "Jim Broadbent", "Paddy Considine", "Rafe Spall"],
       "links": [
         {
-          "url": "https://gounlimited.to/tghkbesc6d8n/Hot_Fuzz_[m1080p]_(2007)_[ID11341].mp4",
+          "url": "http://51.77.159.233:30299/__2ad4e1404bd70228f6183bce289cdafb",
           "quality":"HD"
         }
       ]
     },
     {
+     "plot": "Venti anni dopo un'epica gara ad un pub, cinque amici si riuniscono quando uno di loro si mette in testa di partecipare di nuovo ad una maratona di bevute. Convinti da Gary King (Simon Pegg), un quarantenne dallo spirito ancora di un adolescente, a ritornare al loro paese natale e a metter piede al mitico pub 'La fine del mondo', si ritroveranno a dover lottare per salvare il loro futuro e qello di tutta l'umanità da una imminente apocalisse.",
       "title": "La fine del mondo",
       "year": "2013",
       "tmdb_id": "107985",
@@ -70,11 +75,187 @@
       "actors": ["Simon Pegg" ,"Nick Frost", "Paddy Considine", "Martin Freeman", "Eddie Marsan"],
       "links": [
         {
-          "url": "http://51.77.159.233:30299/__6e6f6d8a3dad9a1a171c055a662137f5",
+          "url": "http://51.77.159.233:30299/__3fcadba3a1051be1420355fdb5d1b0af",
           "quality":"HD"
         }
       ]
     },
+      {
+        "plot":"Un uomo gravemente ferito viene raccolto in mare. Una volta ristabilitosi scopre di aver perso totalmente la memoria ma non le proprie abilità, dal parlare varie lingue all'usare con disinvoltura armi e arti marziali. Il recupero di una cassetta di sicurezza presso una banca di Zurigo non fa che aggiungere confusione, visto che contiene sei passaporti diversi. Tra tutte l'identità più probabile sembrerebbe quella di Jason Bourne, americano residente a Parigi. Giocoforza recarvisi, convincendo una ragazza a dargli un passaggio in cambio di 10.000 dollari. Ma qualcuno della Cia sa benissimo chi è lo smemorato, e preferirebbe decisamente vederlo morto...",
+          "title": "The Bourne Identity",
+          "year": "2002",
+          "tmdb_id": "2501",
+          "saga": "Jason Bourne",
+          "director": "Doug Liman",
+          "genre": ["Action","Drama","Thriller"],
+          "actors": ["Matt Damon","Walton Goggins","Chris Cooper","Clive Owen","Adewale Akinnuoye-Agbaje","Brian Cox","Julia Stiles"],
+          "links": [
+            {
+              "url": "http://51.77.159.233:30299/__db85f0dcbe07a1171976bba76c11339a",
+              "quality":"HD"
+            }
+          ]
+        },
+    {
+        "plot":"Due anni fa sperava di essersi lasciato alle spalle quel passato che non poteva ricordare, ma che lo perseguitava con misteriose immagini di morte e violenza. Il destino però torna a bussare alla porta di Jason Bourne, killer professionista senza più memoria, quando viene accusato (ingiustamente?) di aver ucciso il premier cinese.",
+        "title": "The Bourne Supremacy",
+        "year": "2004",
+        "tmdb_id": "2502",
+        "saga": "Jason Bourne",
+        "director": ["Paul Greengrass"],
+        "genre": ["Action","Drama","Thriller"],
+        "actors": ["Matt Damon","Karl Urban","Chris Cooper","Joan Allen","Michelle Monaghan","Brian Cox","Julia Stiles"],
+        "links": [
+          {
+            "url": "|http://51.77.159.233:30299/__2a80663804d031ecf1e95bcdda0c3a3e",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Jason Bourne è tornato. La sua angoscia è sempre alimentata dal bisogno di sapere chi e perché lo ha trasformato in una macchina per uccidere cancellandone l'identità. A questo si aggiunge il desiderio di vendicare la morte della sua compagna. Il teatro dell'azione è estremamente vario: da Mosca a Londra, da Torino fino a Tangeri passando per la Spagna fino a un epilogo che dovrebbe essere programmaticamente destinato a chiudere la trilogia.",
+          "title": "The Bourne Ultimatum - Il ritorno dello sciacallo",
+          "year": "2007",
+          "tmdb_id": "2503",
+          "saga": "Jason Bourne",
+          "director": ["Paul Greengrass"],
+          "genre": ["Action","Drama","Thriller"],
+          "actors": ["Matt Damon","David Strathairn","Albert Finney","Joan Allen","Daniel Brühl","Scott Adkins","Scott Glenn","Julia Stiles"],
+          "links": [
+            {
+              "url": "http://51.77.159.233:30299/__2807f685d696e25b092b1e698726a03f",
+              "quality":"HD"
+            }
+          ]
+      },
+      {
+          "plot":"A Yukon, in un paesaggio immerso nella neve, un uomo riemerge dalle gelide acque di un fiume, afferra un oggetto nascosto sul fondo e va a scaldarsi vicino a un falò, prima di lanciarsi in un'altra missione. L'uomo è Cross, un agente che lavora per il programma segreto Outcome. Giunto in una casupola di legno, trova un altro agente, il cui nome in codice è #3; ma improvvisamente un drone fuori programma prende di mira i due. Mentre, dall'altra parte del mondo, un uomo di nome Jason Bourne ha deciso di rivelare il programma segreto, i vertici hanno deciso che ogni singolo agente dovrà essere eliminato.",
+          "title": "The Bourne Legacy",
+          "year": "2012",
+          "tmdb_id": "49040",
+          "saga": "Jason Bourne",
+          "director": ["Robert Ludlum"],
+          "genre": ["Action","Drama","Thriller"],
+          "actors": ["Jeremy Renner","Scott GlennCorey Stoll","Oscar Isaac","Catherine Curtin","Joan Allen","Zeljko Ivanek","Albert Finney","Stacy Keach","Edward Norton","Rachel Weisz","David Strathairn"],
+          "links": [
+            {
+              "url": "http://51.77.159.233:30299/__72701b4d6a6e502842a8ee440e168cde",
+              "quality":"HD"
+            }
+          ]
+      },
+      {
+        "plot":"Nicky Parsons, ex-agente della CIA, si infiltra in un ritrovo di hacker a Reykjavik per penetrare nei segreti dell'intelligence statunitense. Così facendo recupera quello che forse è il tassello mancante nella ricostruzione delle origini di Jason Bourne, uomo trasformato in una sorta di macchina omicida in seguito a un esperimento della CIA. Nicky riesce a contattare Bourne, datosi alla macchia, e l'incontro tra i due attira subito le attenzioni dei vertici di Langley, determinati a eliminare entrambi.",
+        "title": "Jason Bourne",
+        "year": "2016",
+        "tmdb_id": "324668",
+        "saga": "Jason Bourne",
+        "director": ["Paul Greengrass"],
+        "genre": ["Action","Drama","Thriller"],
+        "actors": ["Matt Damon","Riz Ahmed","Tommy Lee Jones","Vincent Cassel","Alicia Vikander","Julia Stiles"],
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/__e8cab51a56b71c65b94ec04457e972b1",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanità nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah.",
+        "title": "Terminator",
+        "year": "1984",
+        "tmdb_id": "218",
+        "saga": "Terminator",
+        "director": "James Cameron",
+        "genre": ["Action","Fantascienza","Thriller"],
+        "actors": ["Arnold Schwarzenegger","Michael Biehn","Linda Hamilton","Paul Winfield","Lance Henriksen","Rick Rossovich","Bess Motta","Earl Boen","Dick Miller","Shawn Schepps","Bruce M. Kerner"],
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/__77c7357e7fc662d32dacd1a0a8ab9353",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Dieci anni dopo i fatti del primo episodio, un altro, più evoluto Terminator viene inviato sulle tracce di Sarah Connor: stavolta l'obbiettivo è il figlio John, il futuro leader della ribellione alle macchine che stanno per conquistare il mondo. Ma anche i ribelli, dal futuro, cercheranno di provvedere alla protezione del ragazzo.",
+        "title": "Terminator 3 - Le macchine ribelli",
+        "year": "2003",
+        "tmdb_id": "296",
+        "saga": "Terminator",
+        "director": "James Cameron",
+        "genre": ["Action","Fantascienza","Thriller"],
+        "actors": ["Arnold Schwarzenegger","Nick Stahl","Claire Danes","Kristanna Loken","David Andrews","Mark Famiglietti","Earl Boen"," Moira Harris"," Chopper Bernet","Christopher Lawford","Carolyn Hennesy"],
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/__d9415f10baf500e879f61d8e2058934c",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Sono passati dieci anni John Connor, ormai ventiduenne, è nuovamente in pericolo. La terminator femmina T-X, il più potente killer cyborg della Skynet, è stata programmata per ucciderlo. E non è l'unico bersaglio: l'ignara veterinaria Kate Brewster vedrà il suo passato scontrarsi con il presente. Per proteggerli viene incaricato e mandato nel passato il T-800...",
+        "title": "Terminator 2 - Il giorno del giudizio",
+        "year": "1991",
+        "tmdb_id": "280",
+        "saga": "Terminator",
+        "director": "James Cameron",
+        "genre": ["Action","Fantascienza","Thriller"],
+        "actors": ["Arnold Schwarzenegger","Edward Furlong","Linda Hamilton","Robert Patrick","Earl Boen","Joe Morton","S. Epatha Merkerson","Castulo Guerra","Danny Cooksey","Jenette Goldstein","Xander Berkeley"],
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/__1af33f06839c7e8b5a126f37eaa5a7cd",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Anno 2003. Marcus Wright è detenuto nel Braccio della Morte in attesa di ricevere l'iniezione letale. Ha ucciso suo fratello e due poliziotti e vuole soltanto farla finita ma la dottoressa Serena Kogan ha deciso per lui un altro destino. Firmato un documento legale che consegna il suo corpo alla scienza e gli promette una seconda opportunità, Marcus viene ‘terminato'. Anno 2018. John Connor, leader ideale e carismatico del genere umano, partecipa alla Resistenza contro Skynet, il network di intelligenze artificiali, e il suo esercito di Terminator indistruttibili. Efficace e intraprendente, è deciso a sferrare un attacco mortale al nemico, a trovare suo padre Kyle Reese e a garantire un futuro all'umanità dopo l'apocalisse nucleare scatenata dalle macchine. Lo aiuterà Marcus, galeotto venuto dal passato e portatore di un segreto. Diffidenti ma determinati a vincere la loro battaglia, collaboreranno e troveranno la verità nel cuore.",
+        "title": "Terminator Salvation",
+        "year": "2009",
+        "tmdb_id": "534",
+        "saga": "Terminator",
+        "director": "McG",
+        "genre": ["Action","Fantascienza","Thriller"],
+        "actors": ["Christian Bale", "Sam Worthington", "Moon Bloodgood", "Helena Bonham Carter", "Anton Yelchin", "Jadagrace", "Bryce Dallas Howard", "Common", "Jane Alexander", " Michael Ironside", "Ivan G'Vera"],
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/__bbab4219a0f7f60908e0dad25437797f",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Nel 2029, John Connor, capo della resistenza umana, conduce la guerra contro le macchine. All'offensiva di Los Angeles, i timori di John sul futuro sconosciuto cominciano a emergere quando l'uomo viene informato dalla sua unità, la Tech-Com, che Skynet attaccherà da due fronti, passato e futuro, cambiando la guerra per sempre. Per poter vincere la guerra contro Skynet, Connor manda il suo fido luogotenente Kyle Reese indietro nel tempo per salvare la vita di sua madre e garantire la propria esistenza. Tuttavia, Kyle scopre che il passato originale è cambiato. In questa linea temporale, un Terminator era stato inviato indietro nel tempo per uccidere Sarah Connor da bambina, e così la resistenza aveva inviato un proprio cyborg indietro nel tempo per proteggerla. Dopo che l'assassino aveva ucciso i suoi genitori, il T-850 riprogrammato l'aveva cresciuta e addestrata ad affrontare il suo destino, che lei cerca di rifiutare categoricamente.",
+        "title": "Terminator Genisys",
+        "year": "2015",
+        "tmdb_id": "87101",
+        "saga": "Terminator",
+        "director": "Alan Taylor",
+        "genre": ["Action","Fantascienza","Thriller","Avventura"],
+        "actors": ["Arnold Schwarzenegger", "Jason Clarke", "Emilia Clarke", "Jai Courtney", "J.K. Simmons", "Dayo Okeniyi", " Matt Smith", "Courtney B. Vance", "Lee Byung-hun", "Michael Gladis", "Sandrine Holt"],
+        "links": [
+          {
+            "url": "",
+            "quality":"HD"
+          }
+       ]
+      },
+      {
+        "plot":"Sarah Connor, ormai esperta cacciatrice di macchine, si ritrova a dover salvare una ragazza di nome Dani Ramos. A dare la caccia alla giovane è un nuovo modello di cyborg, inviato dal futuro da Skynet. La resistenza ha incaricato un'ibrida metà umana e metà cyborg di nome Grace, di proteggere Dani. Nonostante i geni potenziati di Grace e le svariate armi di Sarah, le due non riescono ad abbattere il temibile cyborg e l'unica via di salvezza sembra essere la fuga. Ma non si può scappare per sempre: le donne si vedono allora costrette a rivolgersi al "vecchio" modello di Terminator, il T-800, l'unico che può provare ad aiutarle a salvare non solo la giovane ma anche il futuro.",
+        "title": "Terminator Destino Oscuro",
+        "year": "2019",
+        "tmdb_id": "290859",
+        "saga": "Terminator",
+        "director": "Tim Miller",
+        "genre": ["Action","Fantascienza","Avventura"],
+        "actors": ["Linda Hamilton", "Arnold Schwarzenegger", "Mackenzie Davis", "Natalia Reyes", "Gabriel Luna", "Diego Boneta", "Ferran Fernández", "Tristán Ulloa", "Tomás Álvarez", "Tom Hopper", "Alicia Borrachero"],
+        "links": [
+          {
+            "url": "",
+            "quality":"HD"
+          }
+       ]
+      },
     {
       "plot": "Gli amanti di motori e velocità competono in gare clandestine, sfrecciando su automobili dalle carene fiammanti e dai carburanti pompati a protossido di azoto. Incaricato di indagare su un clan di rapinatori che trafugano camion in corsa, il giovane agente Brian O’Conner si addentra sotto copertura nel mondo delle corse illegali entrando in contatto con il nerboruto Dominic Toretto, un esperto meccanico ed eccezionale pilota. Dopo aver perso una corsa contro di lui, Brian riesce a metterlo in salvo dalla polizia e da quel momento si aprono per lui le porte del garage e della famiglia di Toretto, dove non proprio tutti sono bendisposti ad accoglierlo.",
       "title": "Fast & Furious",
