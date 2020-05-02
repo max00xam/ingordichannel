@@ -46,15 +46,16 @@
           }
     },
     {
-      "title": "Animazione / Anime",
+      "title": "Animazione/Anime",
       "link": "/ANIMAZIONE/animazione.json",
       "thumbnail": "/Immagini/animazione.jpg",
       "level2": {
-        "search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno",,
+        "search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno",
         "saga":{
                 "title":"Saghe",
                 "description":"/ANIMAZIONE/FILM/Film_Saghe/description_anime.json"
-        },
+        }
+        }
     },
     {
       "title": "Documentari",
