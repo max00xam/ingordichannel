@@ -1,0 +1,770 @@
+{
+    "movies_list": [
+{
+    "saga": "Film tratti da anime",
+    "actors": ["Saori Hayami", "Ryohei Kimura", "Daisuke Namikawa", "Rumi Okubo", "Tatsuhisa Suzuki"],
+    "director": ["Soichi Shimada"],
+    "genre": [
+        "Horror",
+        "Azione",
+        "Animazione",
+        "Dramma"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!S1dDGaxZ!IIrA31dppeJQegbYOiGVbWG0XSU5_vgfMT6hTpkOdN8"
+        }
+    ],
+    "title": "Tokyo Ghoul: JACK",
+    "tmdb_id": 483685,
+    "year": "2015"
+},
+{
+    "saga": "Live Action",
+    "actors": [
+        "Masataka Kubota",
+        "Fumika Shimizu",
+        "Nobuyuki Suzuki",
+        "Yo Oizumi",
+        "Y\u016b Aoi",
+        "Hiyori Sakurada",
+        "Kunio Murai",
+        "Kai Ogasawara",
+        "Shunya Shiraishi",
+        "Shôko Aida",
+        "Shuntarô Yanagi",
+        "Minosuke Bando",
+        "Nozomi Sasaki",
+        "Kenta Hamano",
+        "Seika Furuhata",
+        "Tomoya Maeno",
+        "Dankan",
+        "Ryo Iwamatsu"
+    ],
+    "director": [
+        "Kentaro Hagiwara"
+    ],
+    "genre": [
+        "Azione",
+        "Dramma",
+        "Horror",
+        "Thriller"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!yVc0ySLa!92ui1BRU45brDjPbP_e-Bpc2d2_mMWjcihoGY0tYZ0g"
+        }
+    ],
+    "title": "Tokyo ghoul - Il film",
+    "tmdb_id": 433945,
+    "year": "2017"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": ["Masakazu Morita", "Romi Park", "Akira Ishida", "Fumiko Orikasa", "Kentaro Ito", "Kaya Matsutani", "Masaaki Tsukada", "Aya Hisakawa", "Yukana", "Noriaki Sugiyama", "Hiroki Yasumoto", "Yuki Matsuoka", "Hideo Ishikawa", "Ryotaro Okiayu", "Nobuyuki Hiyama", "Jun Fukuyama"],
+    "genre": ["Noriyuki Abe"],
+    "links": [
+        {
+            "quality": "SD",
+            "url": "https://mega.nz/#!24cBUKob!CElOkdxfSHAzVClmKApp_XLI3w6WRkEjqxTj8kOM9uo"
+        }
+    ],
+    "title": "Bleach: The DiamondDust Rebellion",
+    "tmdb_id": "17101",
+    "year": "2007"
+},
+{
+      "saga": "Live Action",
+    "actors": [
+        "Sota Fukushi",
+        "Hana Sugisaki",
+        "Ryo Yoshizawa",
+        "Erina Mano",
+        "Yu Koyanagi",
+        "Taichi Saotome",
+        "Miyavi",
+        "Seiichi Tanabe",
+        "Masami Nagasawa",
+        "Yosuke Eguchi"
+    ],
+    "director": [
+        "Shinsuke Sato"
+    ],
+    "genre": [
+        "Azione",
+        "Fantasy",
+        "Avventura"
+    ],
+    "links": [
+        {
+            "quality": "",
+            "url": ""
+        }
+    ],
+    "title": "Bleach",
+    "tmdb_id": 420426,
+    "year": "2018"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Miki Itou",
+        "Shunsuke Kariya",
+        "Kappei Yamaguchi",
+        "Mami Koyama",
+        "Shigeru Chiba",
+        "Ryuuzaburou Ootomo",
+        "Kazuhiko Kishino",
+        "Kôji Totani",
+        "Takumi Yamazaki",
+        "Kazuyuki Sogabe",
+        "Michitaka Kobayashi",
+        "Naoki Makishima",
+        "Tomoko Maruo",
+        "Shinobu Satouchi"
+    ],
+    "director": [
+        "Hiroshi Fukutomi"
+    ],
+    "genre": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+    ],
+    "links": [
+        {
+            "quality": "SD",
+            "url": "https://mega.nz/#!Py4hEDKS!gTk8RCBEkWnyIkAVUNQzCPz-VFhvsGoHrqsl_s8JkgQ"
+        }
+    ],
+    "title": "Battle Angel Alita",
+    "tmdb_id": 17189,
+    "year": "1993"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Miki Itou",
+        "Shunsuke Kariya",
+        "Kappei Yamaguchi",
+        "Mami Koyama",
+        "Shigeru Chiba",
+        "Ryuuzaburou Ootomo",
+        "Kazuhiko Kishino",
+        "Kôji Totani",
+        "Takumi Yamazaki",
+        "Kazuyuki Sogabe",
+        "Michitaka Kobayashi",
+        "Naoki Makishima",
+        "Tomoko Maruo",
+        "Shinobu Satouchi"
+    ],
+    "director": [
+        "Hiroshi Fukutomi"
+    ],
+    "genre": [
+        "Animazione",
+        "Azione",
+        "Fantascienza"
+    ],
+    "links": [
+        {
+            "quality": "SD",
+            "url": "https://mega.nz/#!nzgS1QKb!Ndo_O2rZNCDNGT7ZcCJL3jHZVZUuRwmZJu47Lpi3S3I"
+        }
+    ],
+    "title": "Battle Angel Alita",
+    "tmdb_id": 17189,
+    "year": "1993"
+},
+{
+      "saga": "Live Action",
+    "actors": [
+        "Rosa Salazar",
+        "Christoph Waltz",
+        "Jennifer Connelly",
+        "Mahershala Ali",
+        "Ed Skrein",
+        "Jackie Earle Haley",
+        "Keean Johnson",
+        "Lana Condor",
+        "Jorge Lendeborg Jr.",
+        "Eiza González",
+        "Jeff Fahey",
+        "Idara Victor",
+        "Rick Yune",
+        "Derek Mears",
+        "Leonard Wu",
+        "Racer Rodriguez",
+        "Marko Zaror",
+        "Hugo Perez",
+        "Casper Van Dien",
+        "Billy Blair",
+        "Jamie Landau",
+        "Dimitrius Pulido",
+        "Patrick Gathron",
+        "Elle LaMont",
+        "Alex Livinalli",
+        "Neal Kodinsky",
+        "Anthony Bandmann",
+        "Alan Nguyen",
+        "Sam Medina",
+        "Tod Junker",
+        "John Wirt",
+        "Darcel Danielle",
+        "Emma Lindsey",
+        "Garrett Warren",
+        "Tony LaThanh",
+        "Jorge A. Jimenez",
+        "Vincent Fuentes",
+        "Ibrahima Thiam",
+        "Paul de Sousa",
+        "Gregg Berger",
+        "David Sobolov",
+        "Jeff Bottoms",
+        "Michelle Rodriguez",
+        "Jai Courtney",
+        "Edward Norton"
+    ],
+    "director": [
+        "Robert Rodriguez"
+    ],
+    "genre": [
+        "Azione",
+        "Fantascienza",
+        "Avventura"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!j1EwiCJA!5871lUNILwtrtEbRUL4_zqBzif-DQsJzTGDBIP-kEN8"
+        }
+    ],
+    "title": "Alita - Angelo della battaglia",
+    "tmdb_id": 399579,
+    "year": "2019"
+},
+{
+      "saga": "Live Action",
+    "actors": [
+        "Emile Hirsch",
+        "Christina Ricci",
+        "John Goodman",
+        "Susan Sarandon",
+        "Matthew Fox",
+        "Roger Allam",
+        "Paulie Litt",
+        "Benno F\u00fcrmann",
+        "Hiroyuki Sanada",
+        "Rain",
+        "Richard Roundtree",
+        "Kick Gurry",
+        "John Benfield",
+        "Christian Oliver",
+        "Ralph Herforth",
+        "Scott Porter",
+        "Nan Yu",
+        "Nayo Wallace",
+        "Melvil Poupaud",
+        "Ramon Tikaram",
+        "Ben Miles",
+        "Peter Fernandez",
+        "Cosma Shiva Hagen",
+        "Moritz Bleibtreu",
+        "Karl Yune",
+        "Joon Park",
+        "Nicholas Elia",
+        "Melissa Holroyd",
+        "Ariel Winter",
+        "Gian Ganziano",
+        "Harvey Friedman",
+        "Sadao Ueda",
+        "Valery Tscheplanowa",
+        "Sami Loris",
+        "Olivier Marlo",
+        "Sean McDonagh",
+        "Vinzenz Kiefer",
+        "Mark Zak",
+        "Willy",
+        "Kenzie",
+        "Julia Joyce",
+        "Clayton Nemrow",
+        "Ricky Watson",
+        "Brandon Robinson",
+        "L. Trey Wilson",
+        "Lauren Blake",
+        "Waldemar Kobus",
+        "Max Hopp",
+        "Julie T. Wallace",
+        "Matthias Redlhammer",
+        "Ecki Hoffmann",
+        "Art LaFleur",
+        "Peter Navy Tuiasosopo",
+        "Paul Sirr",
+        "Kadý Taylor",
+        "Junior Sone Enang",
+        "Jana Pallaske",
+        "Dari Maximova",
+        "Werner Daehn",
+        "Komi Togbonou",
+        "Leila Rozario",
+        "Steven Wilson",
+        "Togo Igawa",
+        "Jonathan Kinsler",
+        "Anatole Taubman",
+        "Frank Witter",
+        "Megan Gay",
+        "Corinne Orr",
+        "Joe Mazza",
+        "Ludmilla Ismailow",
+        "Milka Duno",
+        "Amira Osman",
+        "Ashley Walters",
+        "Jens Neuhaus",
+        "Sesede Terziyan",
+        "Ill-Young Kim",
+        "Yuriri Naka",
+        "Oscar Ortega Sánchez",
+        "Fang Yu",
+        "Narges Rashidi",
+        "Andrés Cantor"
+    ],
+    "director": [
+        "Lilly Wachowski",
+        "Lana Wachowski"
+    ],
+    "genre": [
+        "Famiglia",
+        "Azione",
+        "Avventura",
+        "Commedia"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!6sVSnaCY!EIccxh-i5t-1lT2JhqHC0CDa6VU7oG01dya_gWMuSJc"
+        }
+    ],
+    "title": "Speed Racer",
+    "tmdb_id": 7459,
+    "year": "2008"
+},
+{
+      "saga": "Live Action",
+    "actors": [
+        "Sho Sakurai",
+        "Saki Fukuda",
+        "Kyoko Fukada",
+        "Kendô Kobayashi",
+        "Katsuhisa Namase",
+        "Kouichi Yamadera",
+        "Sadao Abe",
+        "Shinichi Hatori",
+        "Shingo Ippongi",
+        "Anri Okamoto",
+        "Ayumu Saitô",
+        "Miyu Uehara"
+    ],
+    "director": [
+        "Takashi Miike"
+    ],
+    "genre": [
+        "Azione",
+        "Commedia"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!eE13GY7A!RWOWhBN_DWyLclXK6_9HeCQNMJWqpuQCpyNDbQk2KzU"
+        }
+    ],
+    "title": "Yattaman - Il film",
+    "tmdb_id": 24561,
+    "year": "2009"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Kang Dong-won",
+        "Han Hyo-joo",
+        "Jung Woo-sung",
+        "Han Ye-ri",
+        "Kim Mu-yeol",
+        "Choi Min-ho",
+        "Jung Won-joong",
+        "Lee Dong-ha",
+        "Park Byung-eun",
+        "Choi Jin-ho",
+        "Kim Pub-lae",
+        "Lee Je-yeon",
+        "Shin Eun-soo",
+        "Huh Joon-ho",
+        "Lee Seol‑gu",
+        "Jang Won-hyeong",
+        "Johnny Yong Bosch",
+        "Erika Ishii",
+        "Jennifer Yun"
+    ],
+    "director": [
+        "Kim Jee-woon"
+    ],
+    "genre": [
+        "Fantascienza",
+        "Azione",
+        "Thriller",
+        "Dramma"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!WxUUUapS!CyHjQfdhhc0yz6oBkgHwzvC_o1LXMMSZEIFG7FXHIx8"
+        }
+    ],
+    "title": "Illang - Uomini e lupi",
+    "tmdb_id": 467824,
+    "year": "2018"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Atsuko Tanaka",
+        "Akio Otsuka",
+        "Iemasa Kayumi",
+        "Kouichi Yamadera",
+        "Yutaka Nakano",
+        "Tesshou Genda",
+        "Naruki Masahisa",
+        "Masato Yamanouchi",
+        "Mitsuru Miyamoto",
+        "Kazuhiro Yamaji",
+        "Shigeru Chiba",
+        "Hiroshi Yanaka",
+        "Ginzô Matsuo",
+        "Takashi Matsuyama",
+        "Sanryô Odaka",
+        "Atsuko Hayashida",
+        "Toshiki Kameyama",
+        "Atsushi Goto",
+        "Maaya Sakamoto",
+        "Masamichi Sato",
+        "Tamio Ohki",
+        "Shinji Ogawa",
+        "Yuji Ueda"
+    ],
+    "director": [
+        "Mamoru Oshii"
+    ],
+    "genre": [
+        "Azione",
+        "Animazione",
+        "Fantascienza"
+    ],
+    "links": [
+        {
+            "quality": "640",
+            "url": "https://mega.nz/#!StdEhYxb!dHCQaqVbd-gkR-lgxrsFwUbMdz75OI2qaOd3yJuaDJI"
+        }
+    ],
+    "title": "Ghost in the Shell - Lo Spirito nel Guscio",
+    "tmdb_id": 9323,
+    "year": "1995"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Atsuko Tanaka",
+        "Akio Otsuka",
+        "Kouichi Yamadera",
+        "Tamio Ohki",
+        "Yutaka Nakano",
+        "Naoto Takenaka",
+        "Gou Aoba",
+        "Eisuke Asakura",
+        "Yuzuru Fujimoto",
+        "Emiko Fuku",
+        "Masao Harada",
+        "Minoru Hirano",
+        "Hiroaki Hirata",
+        "Katsunosuke Hori",
+        "Sukekiyo Kameyama",
+        "Eriko Kigawa",
+        "Hiroyuki Kinosha",
+        "Shuji Kishida",
+        "Kenichi Mochizuki",
+        "Sumi Mutou",
+        "Ryûji Nakagi",
+        "Yasushi Niko",
+        "Yuu Sugimoto",
+        "Fumihiko Tachiki",
+        "Masaki Terasoma",
+        "Akino Watanabe",
+        "Makoto Yasumura"
+    ],
+    "director": [
+        "Mamoru Oshii"
+    ],
+    "genre": [
+        "Animazione",
+        "Dramma",
+        "Fantascienza"
+    ],
+    "links": [
+        {
+            "quality": "720",
+            "url": "https://mega.nz/#!SlFygKyS!wWwUd9RoOd22rwiiDFTlJq2g2NbAb3FMkZJxILneYe0"
+        }
+    ],
+    "title": "Ghost in the Shell - L'attacco dei cyborg",
+    "tmdb_id": 12140,
+    "year": "2004"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Scarlett Johansson",
+        "Takeshi Kitano",
+        "Michael Pitt",
+        "Pilou Asbæk",
+        "Chin Han",
+        "Juliette Binoche",
+        "Peter Ferdinando",
+        "Rila Fukushima",
+        "Daniel Henshall",
+        "Yutaka Izumihara",
+        "Anamaria Marinca",
+        "Kaori Momoi",
+        "Lasarus Ratuere",
+        "Danusia Samal",
+        "Tawanda Manyimo",
+        "Mana Hira Davis",
+        "Erroll Anderson",
+        "Kai Fung Rieck",
+        "Andrew Stehlin",
+        "Matthias Luafutu",
+        "John Luafutu",
+        "Kaori Yamamoto",
+        "Andrew Morris",
+        "Adwoa Aboah",
+        "Christopher Obi",
+        "Makoto Murata",
+        "Natarsha Orsman",
+        "Joseph Naufahu",
+        "Vinnie Bennett",
+        "Pete Teo",
+        "Xavier Horan",
+        "Allan Henry",
+        "Bowie Chan Wing Wai",
+        "Kirt Kishita",
+        "David Johnson Wood",
+        "Kate Venables",
+        "Emma Coppersmith",
+        "Tanya Drewery",
+        "Hannah Tasker-Poland",
+        "Jacqueline Lee Geurts",
+        "Shinji Ikefuji",
+        "Michael Wincott",
+        "Yuta Kazama",
+        "Tricky",
+        "Philippe Joly"
+    ],
+    "director": [
+        "Rupert Sanders"
+    ],
+    "genre": [
+        "Azione",
+        "Fantascienza",
+        "Thriller",
+        "Dramma"
+    ],
+    "links": [
+        {
+            "quality": "",
+            "url": ""
+        }
+    ],
+    "title": "Ghost in the Shell",
+    "tmdb_id": 315837,
+    "year": "2017"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Romi Park",
+        "Rie Kugimiya",
+        "Toru Okawa",
+        "Megumi Toyoguchi",
+        "Miyu Sawai",
+        "Michiko Neya",
+        "Kazuko Katô",
+        "Hidekatsu Shibata",
+        "Masane Tsukayama",
+        "Rikiya Koyama",
+        "Mayumi Yamaguchi",
+        "Nana Mizuki",
+        "Masashi Ebara",
+        "Yasunori Matsumoto",
+        "Takehiro Murozono",
+        "Tomoyuki Shimura",
+        "Tetsu Shiratori",
+        "Naomi Wakabayashi",
+        "Houko Kuwashima",
+        "Keiji Fujiwara",
+        "Kotono Mitsuishi",
+        "Shun Oguri",
+        "Miyoko Asô",
+        "Mitsuki Saiga",
+        "Masao Harada",
+        "Seiji Sasaki",
+        "Toshio Furukawa",
+        "Yasuhiro Takato"
+    ],
+    "director": [
+        "Seiji Mizushima"
+    ],
+    "genre": [
+        "Azione",
+        "Avventura",
+        "Animazione",
+        "Dramma"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!ulN0zKgZ!a3mwpvr-kDEY6lkbOvZivAx4PAUfv_Bfr9snWvMZvX8"
+        }
+    ],
+    "title": "Fullmetal Alchemist - The Movie: Il conquistatore di Shamballa",
+    "tmdb_id": 14003,
+    "year": "2005"
+},
+{
+      "saga": "Film tratti da anime",
+    "actors": [
+        "Allison Miller",
+        "Jun Ji-hyun",
+        "Koyuki",
+        "Liam Cunningham",
+        "J.J. Feild",
+        "Yasuaki Kurata",
+        "Larry Lamb",
+        "Andrew Pleavin",
+        "Michael Byrne",
+        "Colin Salmon",
+        "Constantine Gregory",
+        "Joey Anaya",
+        "Khary Payton",
+        "Masiela Lusha",
+        "Ailish O'Connor",
+        "Luis Sabatini",
+        "Jamal Duff",
+        "Ariana Guido"
+    ],
+    "director": [
+        "Chris Nahon"
+    ],
+    "genre": [
+        "Azione",
+        "Avventura",
+        "Horror",
+        "Fantascienza",
+        "Thriller"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!WxESmY4D!1Rzp4dBO-vobi_EARWM6snbLo5cioSWu6fZWffFnPRc"
+        }
+    ],
+    "title": "The Last Vampire - Creature nel buio",
+    "tmdb_id": 1450,
+    "year": "2009"
+},
+{
+      "saga": "Live Action",
+    "actors": [
+        "Nat Wolff",
+        "Lakeith Stanfield",
+        "Willem Dafoe",
+        "Margaret Qualley",
+        "Shea Whigham",
+        "Paul Nakauchi",
+        "Jason Liles",
+        "Michael Shamus Wiles",
+        "Artin John",
+        "David S. Jung",
+        "Tony Ali",
+        "Christopher Britton",
+        "Masi Oka",
+        "Matthew Kevin Anderson",
+        "Barbara Beall",
+        "Lia Lam",
+        "Christian Sloan",
+        "Jessica McLeod",
+        "Cole Vigue",
+        "Olena Medwid",
+        "Paul McGillion",
+        "Eileen Pedde",
+        "Fraser Corbett",
+        "Natalie Moon",
+        "Ash Lee",
+        "Albert Nicholas",
+        "Al Miro",
+        "Arlina Rodr\u00edguez",
+        "Chris Webb",
+        "Michelle Kim",
+        "Colin Corrigan",
+        "Sarah Ziolkowski",
+        "Jack Ettlinger",
+        "Michelle Choi-Lee",
+        "Scott Seol",
+        "Beau Han Bridge",
+        "Jesse Irving",
+        "Anousha Alamian",
+        "Jesse Stretch",
+        "Artur Stofel",
+        "Shayan Moallef",
+        "DaeYoung Danny Kim",
+        "Anup Sehdev",
+        "Juanpaolo Mercado",
+        "Kyle Donaldson",
+        "Addison Gosselin"
+    ],
+    "director": [
+        "Adam Wingard"
+    ],
+    "genre": [
+        "Fantasy",
+        "Horror",
+        "Mistero",
+        "Thriller"
+    ],
+    "links": [
+        {
+            "quality": "HD",
+            "url": "https://mega.nz/#!CocAiARA!tDVEZLlVpQ7u06aH5kbxJHOUccCal1X1VIRsUum70Lw"
+        }
+    ],
+    "title": "Death Note",
+    "tmdb_id": 351460,
+    "year": "2017"
+        },
+        {
+            "plot": "Tsurikichi Sanpei è un film giapponese del 2009 diretto dal regista premio oscar Yōjirō Takita. Il film è un live action liberamente adattato dal manga omonimo in cui vengono narrate le vicende di un giovane pescatore ambizioso",
+            "title": "Sampei Il Ragazzo Pescatore",
+            "year": "2009",
+            "tmdb_id": "151462",
+            "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/IMMAGINI/Tsurikichi_Sanpei-cover.jpg",
+            "saga": "Live Action",
+    "director": ["Yojiro Takita"],
+            "actors": ["Kenta Suga", "Takashi Tsukamoto", "Yuu Kashii", "Tao Tsuchiya", "Tougo Shimura", "Kenichirou Yasui", "Tsunehiko Watase"],
+            "links": [
+                {
+                    "url": "https://mega.nz/#!bV1nSBiB!6P6cjQW0gmTU80OxRUZ5BEiLQ-ofH7cPAlhBn9G0nQI",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}  

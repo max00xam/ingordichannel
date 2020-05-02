@@ -17,12 +17,12 @@
   "Fast & Furious":{
       "plot": "Fast and Furious, nota anche come Fast & Furious o The Fast Saga è una serie cinematografica d'azione statunitense basata sulle corse e sulle battaglie d'auto. Inizialmente la serie verte sulle vicende di due personaggi, Dominic Toretto, interpretato da Vin Diesel, e Brian O'Conner, interpretato da Paul Walker; tuttavia, a seguito della prematura scomparsa di Walker, il personaggio di O'Conner è stato fatto uscire di scena dalla serie e pertanto essa proseguirà venendo incentrata esclusivamente sul personaggio di Toretto.",
       "fanart": "/FILM/Immagini/FastFurious_fanart.jpg",
-      "thumbnail": "/FILM/Immagini/FastFurious.png"
+      "thumbnail": "/FILM/Immagini/FastFurious.jpg"
   },
   "Harry Potter":{
       "plot": "Harry Potter è una serie cinematografica colossal fantasy basata sull'omonima saga letteraria di J. K. Rowling. È stata distribuita dalla Warner Bros. in otto lungometraggi che hanno accompagnato tutto il primo decennio del XXI secolo. È la saga cinematografica col maggior incasso di tutti i tempi, con 7.7 miliardi di dollari.",
-      "fanart": "/FILM/Immagini/harry.jpg",
-      "thumbnail": "/FILM/Immagini/harry_fanart.jpg"
+      "fanart": "/FILM/Immagini/harry_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/harry.jpg"
   },
   "J. R. R. Tolkien":{
       "plot": "John Ronald Reuel Tolkien (Bloemfontein, 3 gennaio 1892 – Bournemouth, 2 settembre 1973) è stato uno scrittore, filologo, glottoteta, accademico e linguista britannico. Importante studioso della lingua anglosassone, è l'autore de Il Signore degli Anelli e di altre celebri opere riconosciute come pietre miliari del genere high fantasy, quali Lo Hobbit e Il Silmarillion. Fu Rawlinson and Bosworth Professor di antico inglese dal 1925 al 1945 e Merton Professor di lingua e letteratura inglese dal 1945 al 1959 presso l'Università di Oxford,[2] dove contribuì alla creazione del New Oxford English Dictionary. Fu amico intimo di C. S. Lewis, insieme al quale fu membro di un informale gruppo letterario conosciuto come Inklings. Fu anche membro della Royal Society of Literature.",
@@ -46,8 +46,8 @@
   },
   "Ghostbusters":{
       "plot": "Ghostbusters (in italiano Acchiappafantasmi) è una serie cinematografica statunitense, nella quale quattro scienziati newyorkesi diventano popolari cacciatori di fantasmi. Inoltre nel 2020 è previsto un nuovo film, intitolato Ghostbusters - Legacy, un vero sequel dei due film originali.",
-      "fanart": "/FILM/Immagini/Ghostbusters.jpg",
-      "thumbnail": "/FILM/Immagini/Ghostbusters_fanart.jpg"
+      "fanart": "/FILM/Immagini/Ghostbusters_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/Ghostbusters.jpg"
   },
   "Final Destination":{
       "plot": "Il franchise di Final Destination è iniziato nel 2000 con uno script scritto, originariamente, per un episodio della serie televisiva X-Files. L'idea di base era semplice: un gruppo di adolescenti riusciva a sfuggire alla Morte per via di un incidente aereo perché uno di loro riusciva ad avere una premonizione dell'accaduto. Da lì, però, la Morte li avrebbe 'rincorsi' per reclamare le anime ed uno ad uno morivano nei modi più disparati (e originali) possibili. C'è un modo per fregare nuovamente la Morte e il proprio destino?",
