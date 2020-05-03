@@ -53,7 +53,7 @@
         "search":"", "genre":"Genere", "actors":"Attori", "director":"Regista", "year":"Anno",
         "saga":{
                 "title":"Saghe",
-                "description":"/ANIMAZIONE/FILM/Film_Saghe/description_anime.json"
+                "description":"/ANIMAZIONE/description_anime.json"
         }
         }
     },
