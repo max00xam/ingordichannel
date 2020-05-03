@@ -17,7 +17,7 @@
       ]
 },
 {
-      "saga": "Ken Il Guerriero",
+    "saga": "Ken Il Guerriero",
     "actors": ["Takehito Koyasu", "Yurika Hino", "Akimitsu Takase", "Romi Park"],
     "director": ["Takashi Watanabe"],
     "genre": ["Animazione", "Azione"],
@@ -32,29 +32,20 @@
     "year": "2003"
 },
 {
-      "saga": "Ken Il Guerriero",
-    "actors": [
-        "Takehito Koyasu",
-        "Yurika Hino",
-        "Akimitsu Takase",
-        "Romi Park"
+    "title": "Ken il guerriero - La Trilogia - Quando un uomo si fa carico della tristezza",
+    "tmdb_id": 247543,
+    "year": "2004",
+    "saga": "Ken Il Guerriero",
+    "actors": ["Takehito Koyasu","Yurika Hino","Akimitsu Takase","Romi Park"
     ],
-    "director": [
-        "Takashi Watanabe"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione"
-    ],
+    "director": ["Takashi Watanabe"],
+    "genre": ["Animazione","Azione"],
     "links": [
         {
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!Ki5EBYLT!Wyu4DnKnpYz4iNw7z4ndklMLEx6Wlto4CHZu4Ah9XLA"
         }
-    ],
-    "title": "Ken il guerriero - La Trilogia - Quando un uomo si fa carico della tristezza",
-    "tmdb_id": 247543,
-    "year": "2004"
+    ]
 },
 {
     "title": "Ken il guerriero - La leggenda di Hokuto",
@@ -89,54 +80,34 @@
     ]
 },
 {
-      "saga": "Ken Il Guerriero",
-    "actors": [
-        "Hiroshi Abe",
-        "Takashi Ukaji",
-        "Yuriko Ishida",
-        "Ken'yuu Horiuchi"
-    ],
-    "director": [
-        "Hidehito Ueda"
-    ],
-    "genre": [
-        "Azione",
-        "Animazione"
-    ],
+    "title": "Ken il guerriero - La leggenda di Julia",
+    "tmdb_id": 114370,
+    "year": "2007",
+    "saga": "Ken Il Guerriero",
+    "actors": ["Hiroshi Abe","Takashi Ukaji","Yuriko Ishida","Ken'yuu Horiuchi"],
+    "director": ["Hidehito Ueda"],
+    "genre": ["Azione","Animazione"],
     "links": [
         {
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!Wdd0HCZZ!y-GUtHSPQWGC8nT4Bc0NcjivUBiMh0ueBWaZX3rpKy8"
         }
-    ],
-    "title": "Ken il guerriero - La leggenda di Julia",
-    "tmdb_id": 114370,
-    "year": "2007"
+    ]
 },
 {
-      "saga": "Ken Il Guerriero",
-    "actors": [
-        "Hiroshi Abe",
-        "Takashi Ukaji",
-        "Yuriko Ishida",
-        "Ken'yuu Horiuchi"
-    ],
-    "director": [
-        "Kōbun Shizuno"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione"
-    ],
+    "title": "Ken il guerriero - La leggenda di Toki",
+    "tmdb_id": 114371,
+    "year": "2008",
+    "saga": "Ken Il Guerriero",
+    "actors": ["Hiroshi Abe","Takashi Ukaji","Yuriko Ishida","Ken'yuu Horiuchi"],
+    "director": ["Kōbun Shizuno"],
+    "genre": ["Animazione","Azione"],
     "links": [
         {
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!zQMkDKBb!FNXqRytSrsi4YQFirUf2KebmIDc_it3jmsGSxCWOzEQ"
         }
-    ],
-    "title": "Ken il guerriero - La leggenda di Toki",
-    "tmdb_id": 114371,
-    "year": "2008"
+    ]
 },
 {
       "saga": "Ken Il Guerriero",
