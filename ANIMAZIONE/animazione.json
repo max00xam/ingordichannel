@@ -1973,21 +1973,19 @@
     "tmdb_id": 351460,
     "year": "2017"
 },
-        {
-            "plot": "Tsurikichi Sanpei è un film giapponese del 2009 diretto dal regista premio oscar Yōjirō Takita. Il film è un live action liberamente adattato dal manga omonimo in cui vengono narrate le vicende di un giovane pescatore ambizioso",
-            "title": "Sampei Il Ragazzo Pescatore",
-            "year": "2009",
-            "tmdb_id": "151462",
-            "thumbnail": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/master/ANIMAZIONE/FILM/IMMAGINI/Tsurikichi_Sanpei-cover.jpg",
-            "saga": "Live Action",
+{
+    "plot": "Tsurikichi Sanpei è un film giapponese del 2009 diretto dal regista premio oscar Yōjirō Takita. Il film è un live action liberamente adattato dal manga omonimo in cui vengono narrate le vicende di un giovane pescatore ambizioso",
+    "title": "Sampei Il Ragazzo Pescatore",
+    "year": "2009",
+    "tmdb_id": "151462","saga": "Live Action",
     "director": ["Yojiro Takita"],
-            "actors": ["Kenta Suga", "Takashi Tsukamoto", "Yuu Kashii", "Tao Tsuchiya", "Tougo Shimura", "Kenichirou Yasui", "Tsunehiko Watase"],
-            "links": [
-                {
-                    "url": "https://mega.nz/#!bV1nSBiB!6P6cjQW0gmTU80OxRUZ5BEiLQ-ofH7cPAlhBn9G0nQI",
-                    "quality": "HD"
-                }
-            ]
+    "actors": ["Kenta Suga", "Takashi Tsukamoto", "Yuu Kashii", "Tao Tsuchiya", "Tougo Shimura", "Kenichirou Yasui", "Tsunehiko Watase"],
+    "links": [
+        {
+            "url": "https://mega.nz/#!bV1nSBiB!6P6cjQW0gmTU80OxRUZ5BEiLQ-ofH7cPAlhBn9G0nQI",
+            "quality": "HD"
         }
+    ]
+}
 ]
 }
