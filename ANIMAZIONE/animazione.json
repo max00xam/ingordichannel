@@ -1,6 +1,6 @@
 {
   "movies_list": [
-    {
+{
     "title": "Ken il guerriero - La Trilogia - La città stregata",
     "tmdb_id": 120985,
     "year": "2003",
@@ -57,31 +57,20 @@
     "year": "2004"
 },
 {
-      "saga": "Ken Il Guerriero",
-    "actors": [
-        "Hiroshi Abe",
-        "Takashi Ukaji",
-        "Kou Shibasaki",
-        "Unsho Ishizuka",
-        "Akio Otsuka",
-        "Hôchû Ôtsuka"
+    "title": "Ken il guerriero - La leggenda di Hokuto",
+    "tmdb_id": 109080,
+    "year": "2006",
+    "saga": "Ken Il Guerriero",
+    "actors": ["Hiroshi Abe","Takashi Ukaji","Kou Shibasaki","Unsho Ishizuka","Akio Otsuka","Hôchû Ôtsuka"
     ],
-    "director": [
-        "Takahiro Imamura"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione"
-    ],
+    "director": ["Takahiro Imamura"],
+    "genre": ["Animazione","Azione"],
     "links": [
         {
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!WJdwjYzD!nRlSNdp8wKkQ9EPjB-p9Ktn7Xm2nM_AN1P-Od80Njtk"
         }
-    ],
-    "title": "Ken il guerriero - La leggenda di Hokuto",
-      "tmdb_id": 109080,
-    "year": "2006"
+    ]
 },
 {
     "title": "Ken Il guerriero - La leggenda di Raoul",
