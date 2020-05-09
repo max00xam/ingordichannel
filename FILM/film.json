@@ -1,7 +1,7 @@
 {
   "movies_list": [
     {
-        "plot": "",
+        "plot": "Tutta la famiglia di Ki-taek è senza lavoro. Ki-taek è particolarmente interessata allo stile di vita della ricchissima famiglia Park. Un giorno, suo figlio riesce a farsi assumere dai Park e le due famiglie si ritrovano così intrecciate da una serie di eventi incontrollabili.",
         "title": "Parasite",
         "year": "2019",
         "tmdb_id": "496243",
@@ -11,7 +11,7 @@
         "prize":["Miglior film", "Miglior film internazionale", "Miglior regista", "Migliore sceneggiatura originale"],
         "links": [
           {
-            "url": "http://51.77.159.233:30299/__d1edc0b58cdced9f8f477c868a55614f",
+            "url": "http://51.77.159.233:30299/__cafa26d2a4bf36f4ff01f34b51ef9949",
             "quality":"HD"
           }
         ]
