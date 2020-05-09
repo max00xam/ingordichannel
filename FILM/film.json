@@ -17,7 +17,7 @@
         ]
     },
     {
-        "plot": "",
+        "plot": "Nel 2045, anno in cui il mondo sta per collassare sull’orlo del caos, le persone hanno trovato la salvezza nell’OASIS, un enorme universo di realtà virtuale creato dal brillante ed eccentrico James Halliday. A seguito della morte di Halliday, la sua immensa fortuna andrà in dote a colui che per primo troverà un Easter egg nascosto da qualche parte all’interno dell’OASIS, dando il via ad una gara che coinvolgerà il mondo intero. Quando un improbabile giovane eroe di nome Wade Watts deciderà di prendere parte alla gara, verrà coinvolto in una vertiginosa caccia al tesoro in questo fantastico universo fatto di misteri, scoperte sensazionali e pericoli.",
         "title": "Ready Player One",
         "year": "2018",
         "tmdb_id": "333339",
@@ -494,50 +494,68 @@
             "title": "Harry Potter e i Doni della Morte",
             "tmdb_id": 12444,
             "year": "2010"
-        },
-        {
-            "actors": ["Christopher Guard","William Squire","Michael Scholes","John Hurt","Simon Chandler","Dominic Guard","Norman Bird","Michael Graham Cox","Anthony Daniels","David Buck","Peter Woodthorpe","Fraser Kerr","Philip Stone","Andrè Morell","Alan Tilvern","Annette Crosbie","Michael Deacon","John Westbrook","Billy Barty","Jerry Maren","Chuck Hayward"],
-            "director": ["Ralph Bakshi"],
-            "genre": ["Avventura","Animazione","Dramma","Fantasy","Famiglia"],
-            "links": [
-                {
-                    "quality": "Dvd rip audio ITA ENG",
-                    "url": "https://mega.nz/#!kdEBlCTK!WwJmngWwLCTUo2XM12wgaqPfUtrZSC4U3tRPHBvcCh0"    }
-            ],
-      "saga": "J. R. R. Tolkien",
-            "title": "Il Signore degli Anelli",
-            "tmdb_id": 123,
-            "year": "1978"
-        },
-        {
-            "actors": ["Orson Bean","Theodore Bikel","William Conrad","John Huston","Roddy McDowall","Brother Theodore","Paul Frees","Casey Kasem","Sonny Melendrez","Nellie Bellflower"],
-            "director": ["Jules Bass","Arthur Rankin, Jr."],
-            "genre": ["Animazione","Famiglia","Fantasy","televisione film"],
-            "links": [
-                {
-                    "quality": "Web download SD",
-                    "url": "https://mega.nz/#!MFMjUQIL!bR2q88q3hzuAURbB0HXHjfefENpATGkrYKqfrv9VvFI"    }
-            ],
-      "saga": "J. R. R. Tolkien",
-            "title": "Il ritorno del re",
-            "tmdb_id": 1361,
-            "year": "1980"
-        },
-        {
-            "actors": ["Ian McKellen","Martin Freeman","Richard Armitage","James Nesbitt","Ken Stott","Sylvester McCoy","Barry Humphries","Cate Blanchett","Ian Holm","Christopher Lee","Hugo Weaving","Elijah Wood","Andy Serkis","Aidan Turner","Dean O'Gorman","Graham McTavish","Adam Brown","Peter Hambleton","John Callen","Mark Hadlow","Jed Brophy","William Kircher","Stephen Hunter","Lee Pace","Benedict Cumberbatch","Manu Bennett","Conan Stevens","Jeffrey Thomas","Michael Mizrahi","John Rawls","Stephen Ure","Timothy Bartlett","Bret McKenzie","Kiran Shah","Glenn Boswell","Thomas Robins","John Bell","Billy Connolly","Tim McLachlan","Terry Notary","Katie Jackson"],
-            "director": ["Peter Jackson"],
-            "genre": ["Avventura","Fantasy","Azione"],
-            "links": [
-                {
-                    "quality": "HD",
-                    "url": "http://51.77.159.233:30299/__3867877a0ad1c7baa9b8d8dfbd7a539b"    }
-            ],
-      "saga": "J. R. R. Tolkien",
-            "title": "Lo Hobbit: Un viaggio inaspettato",
-            "tmdb_id": 49051,
-            "year": "2012"
-        },
-        {
+},
+{
+  "title": "Lo Hobbit",
+  "tmdb_id": 1362,
+  "year": "1977",
+  "saga": "J. R. R. Tolkien",
+  "actors": ["Orson Bean","Richard Boone","Hans Conried","John Huston","Otto Preminger"," Brother Theodore","Paul Frees"],
+  "director": ["Jules Bass"],
+  "genre": ["Famiglia","Fantasy","Animazione","Avventura","televisione film"],
+  "links": [
+    {
+      "quality": "Dvd rip audio ITA ENG",
+      "url": "https://mega.nz/file/znIhnYTY#Z8Cm7TmTpTEnEv4G-I8a3unYTQobAgB3cn_37SCsMZc"
+    }
+  ]
+},
+{
+  "title": "Il Signore degli Anelli",
+  "tmdb_id": 123,
+  "year": "1978",
+  "saga": "J. R. R. Tolkien",
+  "actors": ["Christopher Guard","William Squire","Michael Scholes","John Hurt","Simon Chandler","Dominic Guard","Norman Bird","Michael Graham Cox","Anthony Daniels","David Buck","Peter Woodthorpe","Fraser Kerr","Philip Stone","Andrè Morell","Alan Tilvern","Annette Crosbie","Michael Deacon","John Westbrook","Billy Barty","Jerry Maren","Chuck Hayward"],
+  "director": ["Ralph Bakshi"],
+  "genre": ["Avventura","Animazione","Dramma","Fantasy","Famiglia"],
+  "links": [
+    {
+      "quality": "Dvd rip audio ITA ENG",
+      "url": "https://mega.nz/file/XnZHAQAb#YxUvIL27MLrSvLmajdi-Ci7aEgCnZw5mIk00l7_kc24"
+    }
+  ]
+},
+{
+  "saga": "J. R. R. Tolkien",
+  "title": "Il ritorno del re",
+  "tmdb_id": 1361,
+  "year": "1980",
+  "actors": ["Orson Bean","Theodore Bikel","William Conrad","John Huston","Roddy McDowall","Brother Theodore","Paul Frees","Casey Kasem","Sonny Melendrez","Nellie Bellflower"],
+  "director": ["Jules Bass","Arthur Rankin, Jr."],
+  "genre": ["Animazione","Famiglia","Fantasy","televisione film"],
+  "links": [
+      {
+        "quality": "dvdrip ita ac3 eng aac",
+          "url": ""
+            }
+  ]
+},
+{
+  "saga": "J. R. R. Tolkien",
+  "title": "Lo Hobbit: Un viaggio inaspettato",
+  "tmdb_id": 49051,
+  "year": "2012",
+  "actors": ["Ian McKellen","Martin Freeman","Richard Armitage","James Nesbitt","Ken Stott","Sylvester McCoy","Barry Humphries","Cate Blanchett","Ian Holm","Christopher Lee","Hugo Weaving","Elijah Wood","Andy Serkis","Aidan Turner","Dean O'Gorman","Graham McTavish","Adam Brown","Peter Hambleton","John Callen","Mark Hadlow","Jed Brophy","William Kircher","Stephen Hunter","Lee Pace","Benedict Cumberbatch","Manu Bennett","Conan Stevens","Jeffrey Thomas","Michael Mizrahi","John Rawls","Stephen Ure","Timothy Bartlett","Bret McKenzie","Kiran Shah","Glenn Boswell","Thomas Robins","John Bell","Billy Connolly","Tim McLachlan","Terry Notary","Katie Jackson"],
+  "director": ["Peter Jackson"],
+  "genre": ["Avventura","Fantasy","Azione"],
+  "links": [
+      {
+        "quality": "HD",
+        "url": "http://51.77.159.233:30299/__3867877a0ad1c7baa9b8d8dfbd7a539b"
+      }
+    ]
+},
+{
             "actors": ["Martin Freeman","Ian McKellen","Richard Armitage","Evangeline Lilly","Luke Evans","Lee Pace","Benedict Cumberbatch","Ken Stott","Aidan Turner","Dean O'Gorman","Billy Connolly","Graham McTavish","James Nesbitt","Stephen Fry","Ryan Gage","Cate Blanchett","Ian Holm","Christopher Lee","Hugo Weaving","Orlando Bloom","Mikael Persbrandt","Sylvester McCoy","Peter Hambleton","John Callen","Mark Hadlow","Jed Brophy","William Kircher","Stephen Hunter","Adam Brown","John Bell","Manu Bennett","John Tui","Peggy Nesbitt","Mary Nesbitt","Kelly Kilgour","Sarah Peirse","Nick Blake","Simon London","Conan Stevens","Allan Smith","Miranda Harcourt","Thomasin McKenzie","Katie Jackson","Billy Jackson","Jack Binding","Terry Binding"],
             "director": ["Peter Jackson"],
             "genre": ["Azione","Avventura","Fantasy"],
@@ -550,22 +568,23 @@
             "title": "Lo Hobbit: La battaglia delle cinque armate",
             "tmdb_id": 122917,
             "year": "2014"
-        },
-        {
-            "actors": ["Ian McKellen","Martin Freeman","Richard Armitage","Benedict Cumberbatch","Evangeline Lilly","Lee Pace","Luke Evans","Stephen Fry","Ken Stott","James Nesbitt","Orlando Bloom","Mikael Persbrandt","Sylvester McCoy","Aidan Turner","Dean O'Gorman","Graham McTavish","Adam Brown","Peter Hambleton","John Callen","Mark Hadlow","Jed Brophy","William Kircher","Stephen Hunter","Ryan Gage","John Bell","Manu Bennett","Lawrence Makoare","Cate Blanchett","Peggy Nesbitt","Mary Nesbitt","Ben Mitchell","Stephen Ure","Craig Hall","Robin Kerr","Eli Kent","Simon London","Brian Sergent","Peter Vere-Jones","Mark Mitchinson","Kelly Kilgour","Sarah Peirse","Nick Blake","Dallas Barnett","Matt Smith","Katie Jackson","Richard Whiteside","Greg Ellis","Ray Henwood","Tim Gordon","Jabez Olssen","Stephen Colbert","Evelyn McGee-Colbert","Peter Colbert","John Colbert","Norman Kali","Carter Nixon","Zane Weiner","Allan Smith","Terry Notary","Jack Binding","Terry Binding"],
-            "director": ["Peter Jackson"],
-            "genre": ["Avventura","Fantasy","Azione"],
-            "links": [
-                {
-                    "quality": "HD",
-                    "url": "http://51.77.159.233:30299/__01697d5b08b1087e17d8c854b2e9f1b3"    }
-            ],
-      "saga": "J. R. R. Tolkien",
-            "title": "Lo Hobbit: La desolazione di Smaug",
-            "tmdb_id": 57158,
-            "year": "2013"
-        },
-        {
+},
+{
+  "saga": "J. R. R. Tolkien",
+  "title": "Lo Hobbit: La desolazione di Smaug",
+  "tmdb_id": 57158,
+  "year": "2013",
+  "actors": ["Ian McKellen","Martin Freeman","Richard Armitage","Benedict Cumberbatch","Evangeline Lilly","Lee Pace","Luke Evans","Stephen Fry","Ken Stott","James Nesbitt","Orlando Bloom","Mikael Persbrandt","Sylvester McCoy","Aidan Turner","Dean O'Gorman","Graham McTavish","Adam Brown","Peter Hambleton","John Callen","Mark Hadlow","Jed Brophy","William Kircher","Stephen Hunter","Ryan Gage","John Bell","Manu Bennett","Lawrence Makoare","Cate Blanchett","Peggy Nesbitt","Mary Nesbitt","Ben Mitchell","Stephen Ure","Craig Hall","Robin Kerr","Eli Kent","Simon London","Brian Sergent","Peter Vere-Jones","Mark Mitchinson","Kelly Kilgour","Sarah Peirse","Nick Blake","Dallas Barnett","Matt Smith","Katie Jackson","Richard Whiteside","Greg Ellis","Ray Henwood","Tim Gordon","Jabez Olssen","Stephen Colbert","Evelyn McGee-Colbert","Peter Colbert","John Colbert","Norman Kali","Carter Nixon","Zane Weiner","Allan Smith","Terry Notary","Jack Binding","Terry Binding"],
+  "director": ["Peter Jackson"],
+  "genre": ["Avventura","Fantasy","Azione"],
+  "links": [
+    {
+      "quality": "HD",
+      "url": "http://51.77.159.233:30299/__01697d5b08b1087e17d8c854b2e9f1b3"
+    }
+  ]
+},
+{
             "actors": ["Elijah Wood","Ian McKellen","Viggo Mortensen","Sean Astin","Liv Tyler","Orlando Bloom","John Rhys-Davies","Dominic Monaghan","Billy Boyd","Sean Bean","Andy Serkis","Cate Blanchett","Christopher Lee","Hugo Weaving","Ian Holm","Marton Csokas","Craig Parker","Lawrence Makoare","Sala Baker","Sarah McLeod","Alan Howard","Noel Appleby","Megan Edwards","Mark Ferguson","Brent McIntyre","David Weatherley","Cameron Rhodes","Harry Sinclair","Peter McKenzie","Michael Elsworth","Katie Jackson","Billy Jackson","Martyn Sanderson","Ian Mune","Victoria Beynon-Cole","Lee Hartley","Sam La Hood","Chris Streeter","Jonathan Jordan","Semi Kuresa","Clinton Ulyatt","Paul Bryson","Lance Fabian Kemp","Jono Manks","Ben Price","Phil Grieve","Norman Forsey","Lori Dungey","Brian Sergent","William Johnson","Peter Corrigan","Elizabeth Moody","Timothy Bartlett","J\u00f8rn Benzon","Micha Kemp","Ben Britton","Jonathan Harding","Jason Secto","Bret McKenzie","Matt Appleton","Sam Kelly","Gino Acevedo","Xander Forterie","Rich Mayberry","Tom Walsh","Peter Jackson","Sabine Crossen","Jarl Benzon","John Howe","Alan Lee","Zo Hartley","Liz Merton","Riley Brophy","Taea Hartwell","Shane Rangi","Grant Roa","Chris Reid","Samuel E. Shore","Rachel Clentworth","Thomas Robins"],
             "director": ["Peter Jackson"],
             "genre": ["Avventura","Fantasy","Azione"],

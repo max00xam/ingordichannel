@@ -1,15 +1,16 @@
 {
   "movies_list": [
 {
+    "plot":"Dopo la catastrofe nucleare il mondo precipita nel caos. Sterminati deserti sono teatro di vite disperate fatte di sopraffazione e violenza. In questo drammatico scenario si muove Kenshiro, ultimo discendente della Divina Scuola di Hokuto. Scomparsi ormai i rivali appartenenti alle altre scuole di arti marziali, perduti gli amici più cari, kenshiro giunge nel piccolo villaggio di Libertà, uno dei pochi luoghi che ancora resiste alla città-fortezza di Lastland e al suo dittatore Sanga. Costui esercita il suo dominio facendosi forte dell' Eccelso Doha, una sorta di Dio in grado di offrire il bene più prezioso: acqua pura. Ma Sanga è conscio che il suo regno si fonda sull'inganno ed è ben deciso a prendere il controllo di una divinità davvero in grado di fare miracoli: una dea di nome Sara..",
     "title": "Ken il guerriero - La Trilogia - La città stregata",
     "tmdb_id": 120985,
     "year": "2003",
     "saga": "Ken Il Guerriero",
     "actors": ["Takehito Koyasu", "Yurika Hino", "Akimitsu Takase", "Gackt Camui", "Unsho Ishizuka", "Tomoe Hanba",  "Hideyuki Tanaka", "Seiji Sasaki", "Kiyonobu Suzuki", "Fumihiko Tachiki", "Takaya Hashi", "Daisuke Kishio", "Sanae Kobayashi", "Reiko Suzuki", "Romi Park", "Kouji Ishii", "Masahiko Tanaka"
       ],
-      "director": [ "Takashi Watanabe" ],
-      "genre": [ "Animazione", "Azione" ],
-      "links": [
+    "director": [ "Takashi Watanabe" ],
+    "genre": [ "Animazione", "Azione" ],
+    "links": [
           {
               "quality": "DVDMUX",
               "url": "https://mega.nz/#!Xm5GBKJB!WzHvL1fAW0fnpzihmbIzy42Ce281BcXnWWJx4SEBxw8"
@@ -17,6 +18,10 @@
       ]
 },
 {
+    "plot":"Nonostante la morte di Sanga, l'ombra della pazzia sembra non essersi allontanata da Lastland e dai suoi ignari abitanti: adesso devono infatti accogliere il giovane figlio del dittatore, Seiji, come nuovo tiranno. Quest'ultimo, profondamente adirato per essere stato in passato abbandonato dal genitore, ha deciso di impossessarsi dei suoi demoni, cosa che gli riesce facile data la momentanea assenza di Kenshiro, allontanatosi per cercare un siero immunizzante contro il tetano che sta uccidendo Bista. Durante la sua corsa contro il tempo, Kenshiro incontra Clifflander, misteriosi bonzi ritiratisi dal mondo per custodire uno spaventoso segreto. Proprio da costoro viene a conoscenza dell'esisitenza di un Clifflander fuggito e in possesso di una spaventosa tecnica di Kenpo, ovvero l'ambizioso e freddo Seiji. Sarà dunque l'Hokuto a ergersi a giudice del traditore?",
+    "title": "Ken il guerriero - La Trilogia - La tecnica proibita",
+    "tmdb_id": 247541,
+    "year": "2003",
     "saga": "Ken Il Guerriero",
     "actors": ["Takehito Koyasu", "Yurika Hino", "Akimitsu Takase", "Romi Park"],
     "director": ["Takashi Watanabe"],
@@ -26,18 +31,15 @@
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!X24yXajJ!nVMh8FrR9YravBq_oDq5XTSkzoQGV8Hr_dzrjjQIpl8"
         }
-    ],
-    "title": "Ken il guerriero - La Trilogia - La tecnica proibita",
-    "tmdb_id": 247541,
-    "year": "2003"
+    ]
 },
 {
+    "plot":"Tornato dalla terra dei Clifflander, Kenshiro trova ad accoglierlo due messaggeri che lo conducono nel luogo in cui giace Bista. Qui, Tobi lo informa di come Seiji si sia impossessato della fortezza creata dal padre, e di come siano cambiate le cose: adesso, infatti, il popolo si è schierato dalla parte dei fratelli, e li adora come se fossero due divinità. Tutto ciò ha notevolmente mutato l'animo del semplice informatore che, accecato dalla prospettiva di poter diventare il dominatore assoluto, imprigiona lo stesso Kenshiro, e organizza un attacco in massa contro la fortezza. Tuttavia, prima che ciò accada, Seiji si infiltra tra le fila di quest'ultimo, e riporta Bista sul suo originario trono. La situazione sembrerebbe disperata, tuttavia, l'apparizione di un misterioso personaggio permetterà la liberazione del maestro di Hokuto, e, in seguito, dello stesso Seiji dal suo frainteso quanto triste passato.",
     "title": "Ken il guerriero - La Trilogia - Quando un uomo si fa carico della tristezza",
     "tmdb_id": 247543,
     "year": "2004",
     "saga": "Ken Il Guerriero",
-    "actors": ["Takehito Koyasu","Yurika Hino","Akimitsu Takase","Romi Park"
-    ],
+    "actors": ["Takehito Koyasu","Yurika Hino","Akimitsu Takase","Romi Park"],
     "director": ["Takashi Watanabe"],
     "genre": ["Animazione","Azione"],
     "links": [
@@ -48,12 +50,12 @@
     ]
 },
 {
+    "plot":"In un mondo devastato e inaridito dalle guerre nucleari, le stelle hanno eletto l'unico salvatore. La leggenda di Kenshiro prende vita sul grande schermo. Primo capitolo della saga Ken il guerriero - La leggenda di Hokuto – si svolge sullo sfondo di una società sconvolta dagli attacchi nucleari e costretta a sopravvivere nella speranza dell’arrivo di un nuovo salvatore che possa riportare la pace e la prosperità. Kenshiro combatte per difendere chi si trova in difficoltà, grazie alle tecniche di combattimento imparte nella scuola di arti marziali 'Divina scuola di Hokuto', di cui ne è l’erede.",
     "title": "Ken il guerriero - La leggenda di Hokuto",
     "tmdb_id": 109080,
     "year": "2006",
     "saga": "Ken Il Guerriero",
-    "actors": ["Hiroshi Abe","Takashi Ukaji","Kou Shibasaki","Unsho Ishizuka","Akio Otsuka","Hôchû Ôtsuka"
-    ],
+    "actors": ["Hiroshi Abe","Takashi Ukaji","Kou Shibasaki","Unsho Ishizuka","Akio Otsuka","Hôchû Ôtsuka"],
     "director": ["Takahiro Imamura"],
     "genre": ["Animazione","Azione"],
     "links": [
@@ -80,6 +82,7 @@
     ]
 },
 {
+    "plot":"La storia inizia ai giorni nostri con Julia ancora bambina che sta per salire in un aereo assieme al fratellino Ryuga e Dahma, discepolo di Nanto. Julia però percepisce un pericolo e non permette ai tre di salire in aereo. Viene poi narrato l'incontro di Julia con il maestro Ryuken e con i suoi 4 figli adottivi Ken, Raoh, Jagi e Toki. Arriva ben presto al momento in cui Ryuken dovrà scegliere il suo successore e Julia dovrà scegliere invece con quale dei 4 fratelli trascorrere la sua vita; per entrambi la scelta cade su Kenshiro. La scelta di Ryuken non viene accettata di buon grado ne da Raoh ne da Jagi..",
     "title": "Ken il guerriero - La leggenda di Julia",
     "tmdb_id": 114370,
     "year": "2007",
@@ -95,6 +98,7 @@
     ]
 },
 {
+    "plot":"La vita di Toki, fratello maggiore di Kenshiro e minore di Raoul: l'uomo che sarebbe dovuto essere l'unico erede designato alla Sacra Scuola di Hokuto, ma che fu costretto a rinunciarvi per colpa di una malattia incurabile spianando così la strada a Ken. Una vita scandita dal dolore e dalla tristezza dovuti ad una morte sempre più vicina, ma che nella serenità e nell'amore trova ulteriori spunti per andare avanti: curare i bisognosi e sopratutto fermare l'ambizione di Raoul...",
     "title": "Ken il guerriero - La leggenda di Toki",
     "tmdb_id": 114371,
     "year": "2008",
@@ -110,195 +114,113 @@
     ]
 },
 {
-      "saga": "Ken Il Guerriero",
-    "actors": [
-        "Hiroshi Abe",
-        "Yuriko Ishida",
-        "Takuya Kirimoto",
-        "Chikao Ohtsuka"
-    ],
-    "director": [
-        "Toshiki Hirano"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione"
-    ],
+    "plot":"Gli eventi si svolgono nel periodo che va dal rapimento di Julia da parte di Shin alla prima apparizione di Kenshiro al villaggio di Lynn. Kenshiro viene trovato da una famiglia che vaga nel mondo post-atomico: poco dopo arrivano degli schiavisti che catturano i quattro sfortunati; il loro capo Guruma vorrebbe uccidere Kenshiro, che giudica inutile, ma il giovane Dan (che in realtà è una ragazzina) riesce a convincerli a risparmiarlo; Guruma li fa portare tutti in una città governata dal tiranno Shisuka, un uomo che ha trovato una sorgente d'acqua incontaminata e se ne serve per asservire tutti al suo volere; nella cella che ospita la famiglia e Kenshiro c'è anche un vecchio a cui sono stati tagliati i tendini delle caviglie; ridotto ad una vita apatica, l'uomo comincia a reagire solo quando Kenshiro rivela il proprio nome ai suoi salvatori.",
+    "title": "Ken il guerriero - La leggenda del vero salvatore",
+    "tmdb_id": 105231,
+    "year": "2008",
+    "saga": "Ken Il Guerriero",
+    "actors": ["Hiroshi Abe","Yuriko Ishida","Takuya Kirimoto","Chikao Ohtsuka"],
+    "director": ["Toshiki Hirano"],
+    "genre": ["Animazione","Azione"],
     "links": [
         {
             "quality": "DVDMUX",
             "url": "https://mega.nz/#!SZNAmILQ!UfdBmSmxH2nstCTq7des6nTxCQPiEEm5_BfiRoutj2w"
         }
-    ],
-    "title": "Ken il guerriero - La leggenda del vero salvatore",
-    "tmdb_id": 105231,
-    "year": "2008"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Satomi Hanamura",
-        "Shinji Ogawa"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Fantascienza"
-    ],
+    "plot":"Una voce narrante ci accompagnerà durante quasi tutta la breve visione, un inizio triste, la routine quotidiana, la menzogna, i sogni perduti, la solitudine del presente, per poi spostarsi sul passato, un inizio felice, la spensieratezza di una bambina, ma la vita è crudele, le cose cambiano, ci si allontana da tutto ciò a cui una volta si teneva, si diventa adulti. A quel punto ci si rende conto che la voce narrante non è fine a se stessa, sono gli ultimi pensieri di qualcuno, del gatto che ha sempre accompagnato quelle persone a lui tanto care. A quel punto la voce narrante si ferma, ancora momenti tristi, nulla sembra essere cambiato, ma la voce riprende la sua narrazione, ci parla di cosa ci fosse dietro quei momenti tristi, ci mostra che quella distanza è solo un'illusione, mostra la speranza e che la morte è parte della vita, che è anche un nuovo inizio.",
+    "title": "Someone's Gaze",
+    "tmdb_id": 222715,
+    "year": "2013",
+    "saga": "Makoto Shinkai",
+    "actors": ["Satomi Hanamura","Shinji Ogawa"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Dramma","Fantascienza"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!XINWDYYL!49gUCJ4rfcipUhdRIL8eLH4YUoQEgzyaPPnpuY-owFI"
         }
-    ],
-    "title": "Someone's Gaze",
-    "tmdb_id": 222715,
-    "year": "2013"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Hidetaka Yoshioka",
-        "Masato Hagiwara",
-        "Yuuka Nanri",
-        "Unsho Ishizuka",
-        "Kazuhiko Inoue",
-        "Risa Mizuno",
-        "Hidenobu Kiuchi",
-        "Masami Iwasaki",
-        "Eiji Takemoto",
-        "Takahiro Hirano",
-        "Takeshi Maeda",
-        "Yûki Nakao",
-        "Rie Nakagawa"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Avventura",
-        "Dramma",
-        "Romance",
-        "Fantascienza"
-    ],
+    "plot":"Il Giappone dopo la seconda guerra mondiale si è diviso in due parti, una sotto il controllo degli Stati Uniti e una legata all'Unione Sovietica. Negli anni novanta il paese si riunisce e soltanto Hokkaidō rimane occupata dai sovietici, i quali costruiscono una torre smisurata che è in realtà un'arma in grado di trasformare il mondo in un universo completamente differente. Hiroki Fujisawa e Takuya Shirakawa, due amici all'ultimo anno di scuola media, stanno costruendo un aereo per realizzare il loro sogno di volare vicino alla Torre di Hokkaido, imponente costruzione visibile anche a molti chilometri di distanza. Sayuri Sawatari, compagna di classe dei due, inizia a frequentarli e si fa promettere che la porteranno con loro quando il velivolo sarà finalmente in grado di decollare.",
+    "title": "Oltre le nuvole, il luogo promessoci",
+    "tmdb_id": 12924,
+    "year": "2004",
+    "saga": "Makoto Shinkai",
+    "actors": ["Hidetaka Yoshioka","Masato Hagiwara","Yuuka Nanri","Unsho Ishizuka","Kazuhiko Inoue","Risa Mizuno","Hidenobu Kiuchi","Masami Iwasaki","Eiji Takemoto","Takahiro Hirano","Takeshi Maeda","Yûki Nakao","Rie Nakagawa"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Avventura","Dramma","Romance","Fantascienza"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!9X4EDQbY!Zll57Iki_sH_2wBoZ79wfJwlsEkBiJcTveZkdGTGrs0"
         }
-    ],
-    "title": "Oltre le nuvole, il luogo promessoci",
-    "tmdb_id": 12924,
-    "year": "2004"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Kenji Mizuhashi",
-        "Yoshimi Kondou",
-        "Satomi Hanamura",
-        "Risa Mizuno",
-        "Ayaka Onoue",
-        "Hiroshi Shimozaki",
-        "Masami Iwasaki",
-        "Rei Kondo",
-        "Takahiro Hirano",
-        "Yuka Terazaki",
-        "Yuko Nakamura"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Romance"
-    ],
+    "plot":"Takaki e Akari sono due bambini che frequentano la stessa classe alle scuole elementari e che hanno stretto una grande amicizia. La loro relazione viene però messa alla prova quando la famiglia di Akari deve trasferirsi in un'altra città. Entrambi cercano di mantenere i contatti, ma la distanza e il tempo giocano lentamente e inevitabilmente la loro partita. Quando, alcuni anni dopo, Takaki scopre che anche la sua famiglia dovrà trasferirsi, decide di far visita a Akari per un'ultima volta.",
+    "title": "5 cm al secondo",
+    "tmdb_id": 38142,
+    "year": "2007",
+    "saga": "Makoto Shinkai",
+    "actors": ["Kenji Mizuhashi","Yoshimi Kondou","Satomi Hanamura","Risa Mizuno","Ayaka Onoue","Hiroshi Shimozaki","Masami Iwasaki","Rei Kondo","Takahiro Hirano","Yuka Terazaki","Yuko Nakamura"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Dramma","Romance"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!PQUBBK6Q!RwqLgNcgd9sEZxtT1-13HqMzxTjANhDzwtdZY7NgzhU"
         }
-    ],
-    "title": "5 cm al secondo",
-    "tmdb_id": 38142,
-    "year": "2007"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Hisako Kanemoto",
-        "Kazuhiko Inoue",
-        "Miyu Irino",
-        "Rina Hidaka",
-        "Fumiko Orikasa",
-        "Sumi Shimamoto",
-        "Junko Takeuchi"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Avventura",
-        "Dramma",
-        "Fantasy"
-    ],
+    "plot":"La narrazione si incentrerà su Asuna, una misteriosa fanciulla che vive le sue giornate in solitudine, accompagnata unicamente dalla musica trasmessa da una speciale radio di cristallo. L'oggetto, a lei molto caro, le fu regalato dal padre in modo che lo potesse ricordare nel tempo. Un giorno, deciderà di intraprendere un viaggio per rincontrarsi con un ragazzo, da lì avrà inizio un'emozionante avventura. Asuna proverà nuovamente cosa voglia dire la separazione tuttavia durante il suo percorso scoprirà non solo la crudeltà ma anche le bellezza del mondo.",
+    "title": "Viaggio verso Agartha",
+    "tmdb_id": 79707,
+    "year": "2011",
+    "saga": "Makoto Shinkai",
+    "actors": ["Hisako Kanemoto","Kazuhiko Inoue","Miyu Irino","Rina Hidaka","Fumiko Orikasa","Sumi Shimamoto","Junko Takeuchi"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Avventura","Dramma","Fantasy"],
     "links": [
         {
             "quality": "1080",
             "url": "https://mega.nz/#!PvpEnQ6I!KhDOwpajvRg-zI6AQADo8n4aKJaCfmZ2aWYCXEdzcew"
         }
-    ],
-    "title": "Viaggio verso Agartha",
-    "tmdb_id": 79707,
-    "year": "2011"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Miyu Irino",
-        "Kana Hanazawa",
-        "Fumi Hirano",
-        "Yuka Terasaki",
-        "Megumi Han",
-        "Mikako Komatsu",
-        "Takanori Hoshino",
-        "Suguru Inoue",
-        "Takeshi Maeda"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Romance"
-    ],
+    "plot":"Takao, che si sta preparando per diventare un calzolaio, ha saltato la scuola e disegna scarpe in un giardino alla giapponese. Qui, Takao incontra Yukino, una donna misteriosa e più grande di lui. Senza mai mettersi d'accordo, i due continuano a vedersi più volte ma sempre e solo nei giorni di pioggia.",
+    "title": "Il giardino delle parole",
+    "tmdb_id": 198375,
+    "year": "2013",
+    "saga": "Makoto Shinkai",
+    "actors": ["Miyu Irino","Kana Hanazawa","Fumi Hirano","Yuka Terasaki","Megumi Han","Mikako Komatsu","Takanori Hoshino","Suguru Inoue","Takeshi Maeda"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Dramma","Romance"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!D4dSXQZJ!BvzknGQPOhwa1khPJWCtjHfSsh-xyrz36-1wM07CfOY"
         }
-    ],
-    "title": "Il giardino delle parole",
-    "tmdb_id": 198375,
-    "year": "2013"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "genre": [
-        "Dramma",
-        "Romance",
-        "Fantasy"
-    ],
+    "plot":"Mitsuha è una studentessa che vive in una piccola città rurale e desidera trasferirsi a Tokyo, nella grande metropoli dove ogni sogno si può realizzare. Taki è uno studente di liceo che vive proprio a Tokyo, ha un lavoro part-time in un ristorante italiano, ma vorrebbe lavorare nel campo dell’arte o dell’architettura. Una notte, Mitsuha sogna di essere un giovane uomo, si ritrova in una stanza che non conosce, ha nuovi amici e lo skyline di Tokyo si apre dinnanzi al suo sguardo. Nello stesso momento Taki sogna di essere una ragazzina che vive in una piccola città di montagna che non ha mai visitato. Ma quale sarà il segreto che si cela dietro questi strani sogni incrociati?",
+    "title": "Your Name.",
+    "tmdb_id": 372058,
+    "director": ["Makoto Shinkai"],
+    "year": "2016",
+    "actors": ["Ryunosuke Kamiki", "Mone Kamishiraishi", "Masami Nagasawa", "Etsuko Ichihara", "Ryô Narita", "Masaki Terasoma", "Shimazaki Nobunaga", "Kaito Ishikawa", "Tani Kanon", "Sayaka Ohara", "Kana Hanazawa", "Kazuhiko Inoue"],
+    "saga": "Makoto Shinkai",
+    "genre": ["Dramma","Romance","Fantasy"],
     "links": [
         {
-            "quality": "1080",
+            "quality": "BDrip 1080p DTS AAC Ita Jap SUB Ita",
             "url": "https://mega.nz/#!GM1BkDJB!sER0ncsMCOd_M9L-cLg5HYWhgIfVQ8iDTd7CxzLad_w"
         }
     ],
@@ -309,983 +231,459 @@
     "actors": ["Ryunosuke Kamiki", "Mone Kamishiraishi", "Masami Nagasawa", "Etsuko Ichihara", "Ryô Narita", "Masaki Terasoma", "Shimazaki Nobunaga", "Kaito Ishikawa", "Tani Kanon", "Sayaka Ohara", "Kana Hanazawa", "Kazuhiko Inoue"]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Kotaro Daigo",
-        "Nana Mori",
-        "Tsubasa Honda",
-        "Sakura Kiryu",
-        "Sei Hiraizumi",
-        "Yuki Kaji",
-        "Chieko Baisho",
-        "Shun Oguri",
-        "Sumi Shimamoto",
-        "Ryohei Kimura",
-        "Kana Hanazawa",
-        "Ayane Sakura",
-        "Kana Ichinose",
-        "Masako Nozawa",
-        "Hidekatsu Shibata",
-        "Ryunosuke Kamiki",
-        "Mone Kamishiraishi",
-        "Ryô Narita",
-        "Aoi Yuki",
-        "Tani Kanon"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Romance",
-        "Fantasy",
-        "Dramma"
-    ],
+    "plot":"Hodaka è uno studente delle superiori che decide di scappare di casa e da una remota isola si trasferisce a Tokyo. In città inizialmente fa fatica a mantenersi perché non è in grado di lavorare legalmente a causa del suo status di minorenne in fuga, ma finalmente trova un lavoro come scrittore per una piccola rivista sull'occulto. Dopo aver iniziato il suo lavoro, il tempo diventa sempre più piovoso giorno dopo giorno. In un angolo della città affollata e frenetica, Hodaka incontra una ragazza di nome Hina. Costretti dalle circostanze, Hina e il fratello minore vivono insieme, anche se accettano la situazione allegramente. Hina ha anche un potere: è in grado di fermare la pioggia e schiarire il cielo.",
+    "title": "Weathering With You",
+    "tmdb_id": 568160,
+    "year": "2019",
+    "saga": "Makoto Shinkai",
+    "actors": ["Kotaro Daigo","Nana Mori","Tsubasa Honda","Sakura Kiryu","Sei Hiraizumi","Yuki Kaji","Chieko Baisho","Shun Oguri","Sumi Shimamoto","Ryohei Kimura","Kana Hanazawa","Ayane Sakura","Kana Ichinose","Masako Nozawa","Hidekatsu Shibata","Ryunosuke Kamiki","Mone Kamishiraishi","Ryô Narita","Aoi Yuki","Tani Kanon"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Romance","Fantasy","Dramma"],
     "links": [
         {
             "quality": "SD",
             "url": "https://mega.nz/#!FThSjS6I!FTzKW-hKFf7Krk037ZxrTtQ_xkLSJG84yFho5SqilF0"
         }
-    ],
-    "title": "Weathering With You",
-    "tmdb_id": 568160,
-    "year": "2019"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Makoto Shinkai",
-        "Mika Shinohara"
-    ],
-    "director": [
-        "Makoto Shinkai"
-    ],
-    "genre": [
-        "Animazione",
-        "Romance"
-    ],
+    "plot":"Kanojo to Kanojo no Neko, narra un atipica storia d’amore tra un gatto e la sua padrona, raccontandone la storia attraverso i rispettivi punti di vista...",
+    "title": "Lei e il suo gatto",
+    "tmdb_id": 18143,
+    "year": "1999",
+    "saga": "Makoto Shinkai",
+    "actors": ["Makoto Shinkai","Mika Shinohara"],
+    "director": ["Makoto Shinkai"],
+    "genre": ["Animazione","Romance"],
     "links": [
         {
             "quality": "640",
             "url": "https://mega.nz/#!KFNm3YTK!7JgAFD3hvZV_v47Syp0xdfhBe4H98PfmD97Jwr1-4d0"
         }
-    ],
-    "title": "Lei e il suo gatto",
-    "tmdb_id": 18143,
-    "year": "1999"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Sumi Shimamoto",
-        "Ichirō Nagai",
-        "Gorō Naya",
-        "Yōji Matsuda",
-        "Yoshiko Sakakibara",
-        "Iemasa Kayumi",
-        "Hisako Kyouda",
-        "Mahito Tsujimura",
-        "Mina Tominaga",
-        "Kōhei Miyauchi",
-        "Jōji Yanami",
-        "Minoru Yada",
-        "Rihoko Yoshida",
-        "Tetsuo Mizutori",
-        "Masako Sugaya",
-        "Takako Sasuga",
-        "Chika Sakamoto",
-        "Tarako",
-        "Mugihito",
-        "Akiko Tsuboi",
-        "Takeki Nakamura",
-        "Takako Ôta",
-        "Bin Shimada",
-        "Shinji Nomura",
-        "Hisako Ayuhara",
-        "Hôchû Ôtsuka"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-    ],
+    "plot":"È trascorso un millennio da quando una serie di guerre, culminata nelle esplosioni termonucleari dei Sette Giorni del Fuoco, ha alterato l'ecosistema mondiale. Il Mare della Rovina si è espanso drammaticamente, occupando i regni degli uomini e invadendo la Terra con i suoi insetti giganti e le sue spore velenose. Solo pochi territori sono rimasti indenni, ma i loro abitanti continuano incessantemente a combattere tra loro. In un regno neutrale e pacifico, la Valle del Vento, vive la principessa Nausicaa, dotata di un potere extrasensoriale che le permette di comunicare con gli animali e con i temibili insetti Ohm. Nausicaa è convinta che la soluzione non sia attaccare gli insetti, bensì comprendere il segreto alla base del Mare della Rovina.",
+    "title": "Nausicaä della Valle del vento",
+    "tmdb_id": 81,
+    "year": "1984",
+    "saga": "Makoto Shinkai",
+    "actors": ["Sumi Shimamoto","Ichirō Nagai","Gorō Naya","Yōji Matsuda","Yoshiko Sakakibara","Iemasa Kayumi","Hisako Kyouda","Mahito Tsujimura","Mina Tominaga","Kōhei Miyauchi","Jōji Yanami","Minoru Yada","Rihoko Yoshida","Tetsuo Mizutori","Masako Sugaya","Takako Sasuga","Chika Sakamoto","Tarako","Mugihito","Akiko Tsuboi","Takeki Nakamura","Takako Ôta","Bin Shimada","Shinji Nomura","Hisako Ayuhara","Hôchû Ôtsuka"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Avventura","Animazione","Fantasy"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!5bAGmC5T!hNcT1lPOkNP1belyxd1CDp57Jfw-E-G5WoLMBfh2pXs"
         }
-    ],
-    "title": "Nausicaä della Valle del vento",
-    "tmdb_id": 81,
-    "year": "1984"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Keiko Yokozawa",
-        "Mayumi Tanaka",
-        "Minori Terada",
-        "Kotoe Hatsui",
-        "Fujio Tokita",
-        "Ichir\u014d Nagai",
-        "Hiroshi Ito",
-        "Machiko Washio",
-        "Takumi Kamiyama",
-        "Yoshito Yasuhara",
-        "Sukekiyo Kameyama",
-        "Eken Mine",
-        "Tarako",
-        "Masashi Sugawara",
-        "Reiko Suzuki",
-        "Toshihiko Seki",
-        "Hôchû Ôtsuka",
-        "Megumi Hayashibara",
-        "Tomomichi Nishimura"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Avventura",
-        "Fantasy",
-        "Animazione",
-        "Azione",
-        "Famiglia",
-        "Romance"
-    ],
+    "plot":"Per sfuggire ai pirati dell'aria la giovane Sheeta cade da un aereo, ma si salva levitando nell'aria e atterrando dolcemente tra le braccia di Pazu, un giovane minatore che decide di prendersi cura di lei. Mentre si susseguono i tentativi di catturare Sheeta e la misteriosa pietra che la ragazza porta al collo, cresce la consapevolezza che Sheeta nasconda dei segreti che vanno ben oltre quel che l'apparenza sembri indicare, legati a una misteriosa città nel cielo, Laputa, di cui si favoleggia l'esistenza",
+    "title": "Il castello nel cielo",
+    "tmdb_id": 10515,
+    "year": "1986",
+    "saga": "Makoto Shinkai",
+    "actors": ["Keiko Yokozawa","Mayumi Tanaka","Minori Terada","Kotoe Hatsui","Fujio Tokita","Ichir\u014d Nagai","Hiroshi Ito","Machiko Washio","Takumi Kamiyama","Yoshito Yasuhara","Sukekiyo Kameyama","Eken Mine","Tarako","Masashi Sugawara","Reiko Suzuki","Toshihiko Seki","Hôchû Ôtsuka","Megumi Hayashibara","Tomomichi Nishimura"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Avventura","Fantasy","Animazione","Azione","Famiglia","Romance"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!JDB22QTC!eLP8ZPWGDpMi5HCwcetdXFunElB-j0eNpwv7VyHlkCI"
         }
-    ],
-    "title": "Il castello nel cielo",
-    "tmdb_id": 10515,
-    "year": "1986"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Noriko Hidaka",
-        "Hitoshi Takagi",
-        "Chika Sakamoto",
-        "Shigesato Itoi",
-        "Sumi Shimamoto",
-        "Tanie Kitabayashi",
-        "Masashi Hirose",
-        "Yûko Maruyama",
-        "Shigeru Chiba",
-        "Toshiyuki Amagasa"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Fantasy",
-        "Animazione",
-        "Famiglia"
-    ],
+    "plot":"Le sorelline Satsuki e Mei si trasferiscono insieme al padre in una nuova casa in campagna. Per le due bambine inizia un viaggio alla scoperta di un nuovo mondo, abitato da creature fantastiche: dai nerini del buio, spiritelli della fuliggine, a buffi esseri di pelo di varie dimensioni, tra cui Totoro, lo spirito buono della foresta! Insieme a lui, Satsuki e la piccola Mei vivranno una magica e straordinaria avventura all’insegna dell’amicizia!",
+    "title": "Il mio vicino Totoro",
+    "tmdb_id": 8392,
+    "year": "1988",
+    "saga": "Makoto Shinkai",
+    "actors": ["Noriko Hidaka","Hitoshi Takagi","Chika Sakamoto","Shigesato Itoi","Sumi Shimamoto","Tanie Kitabayashi","Masashi Hirose","Yûko Maruyama","Shigeru Chiba","Toshiyuki Amagasa"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Fantasy","Animazione","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!UGQEnSoQ!YULATAPMgakLQFyLo31pksjAglsWt92iSTW97w-X0Xk"
         }
-    ],
-    "title": "Il mio vicino Totoro",
-    "tmdb_id": 8392,
-    "year": "1988"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Tsutomu Tatsumi",
-        "Ayano Shiraishi",
-        "Yoshiko Shinohara",
-        "Akemi Yamaguchi"
-    ],
-    "director": [
-        "Isao Takahata"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Guerra"
-    ],
+    "plot":"Giappone, 21 settembre 1945. Alla stazione di Kobe, il quattordicenne Seita muore di inedia. Il suo spirito ripercorre i tragici eventi degli ultimi quattro mesi: i bombardamenti americani, il cadavere della madre sfigurato dalle ustioni, il padre a difendere la gloria dell'impero nella sua bianca uniforme da ufficiale di marina. E poi l'orgoglio, la fuga, i furti, la fame. Questa notte spaventosa è rischiarata dai flebili bagliori delle lucciole. Ma all'alba non ne rimarrà più nessuna.",
+    "title": "Una tomba per le lucciole",
+    "tmdb_id": 12477,
+    "year": "1988",
+    "saga": "Makoto Shinkai",
+    "actors": ["Tsutomu Tatsumi","Ayano Shiraishi","Yoshiko Shinohara","Akemi Yamaguchi"],
+    "director": ["Isao Takahata"],
+    "genre": ["Animazione","Dramma","Guerra"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!cDIyhIIL!wVJUZ7oCqobJBdpVHAy2XbcGDfz4I7wmP7Heje7S9Vs"
         }
-    ],
-    "title": "Una tomba per le lucciole",
-    "tmdb_id": 12477,
-    "year": "1988"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Minami Takayama",
-        "Rei Sakuma",
-        "Kappei Yamaguchi",
-        "Keiko Toda",
-        "Mieko Nobusawa",
-        "Kôichi Miura",
-        "Haruko Kato",
-        "Hiroko Seki",
-        "Yuriko Fuchizaki",
-        "Kouichi Yamadera",
-        "Kikuko Inoue",
-        "Yuuko Kobayashi",
-        "Mika Doi",
-        "Takaya Hashi",
-        "Chika Sakamoto",
-        "Toshiko Asai",
-        "Hiroko Maruyama",
-        "Shinpachi Tsuji",
-        "Yûko Maruyama",
-        "Masa Saitō",
-        "Yûko Tsuga",
-        "Tomomichi Nishimura",
-        "Akio Otsuka",
-        "Yoshiko Kamei"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Animazione",
-        "Avventura",
-        "Dramma",
-        "Fantasy",
-        "Famiglia"
-    ],
+    "plot":"Nella parabola della streghetta dagli umili abiti rivive il consueto viaggio iniziatico di Miyazaki, spesso condotto tra i cieli (in precedenza ne Il castello nel cielo, mentre Porco rosso innalzerà ai massimi livelli il feeling eroico con l'aria) e spesso con una ragazzina come protagonista. Kiki raggiunge la fatidica età di passaggio, quella dei quattordici anni, per abbandonare la dimora natia e scoprire la vecchia Europa, ancora una volta coacervo ideale di stilemi miyazakiani. Modellata su Stoccolma e Lisbona, la città in cui Kiki approda a cavallo della sua scopa volante è il luogo dello smarrimento e dell'emancipazione, in cui l'eroina è da un lato costretta ben presto a una necessaria e dura introspezione, ma può anche sentirsi accettata nonostante la sua diversità; il luogo in cui, attraverso il duro lavoro, conquistare la propria matura autonomia.",
+    "title": "Kiki - Consegne a domicilio",
+    "tmdb_id": 16859,
+    "year": "1989",
+    "saga": "Makoto Shinkai",
+    "actors": ["Minami Takayama","Rei Sakuma","Kappei Yamaguchi","Keiko Toda","Mieko Nobusawa","Kôichi Miura","Haruko Kato","Hiroko Seki","Yuriko Fuchizaki","Kouichi Yamadera","Kikuko Inoue","Yuuko Kobayashi","Mika Doi","Takaya Hashi","Chika Sakamoto","Toshiko Asai","Hiroko Maruyama","Shinpachi Tsuji","Yûko Maruyama","Masa Saitō","Yûko Tsuga","Tomomichi Nishimura","Akio Otsuka","Yoshiko Kamei"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Animazione","Avventura","Dramma","Fantasy","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!RGRChYgS!k-MUHfwlivvULWnkE4f-6kDlhaHkSCVyPYw80-ehxzc"
         }
-    ],
-    "title": "Kiki - Consegne a domicilio",
-    "tmdb_id": 16859,
-    "year": "1989"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Miki Imai",
-        "Toshir\u014d Yanagiba",
-        "Yoko Honna",
-        "Mayumi Iizuka",
-        "Masahiro Itou",
-        "Chie Kitagawa",
-        "Yoshimasa Kond\u00f4",
-        "Yuuki Masuda",
-        "Yuki Minowa",
-        "Michie Terada",
-        "Yorie Yamashita",
-        "Ichirō Nagai",
-        "Issey Takahashi"
-    ],
-    "director": [
-        "Isao Takahata"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Romance"
-    ],
+    "plot":"Taeko Okajima è una giovane donna di 27 anni, impiegata presso una grande azienda di Tokyo. Non è sposata né ha fidanzati, con molto rammarico della madre, che tenta senza successo di combinare un matrimonio per lei. Decide di prendersi una breve vacanza e seguire l'istinto di tornare nei luoghi che avrebbe voluto visitare nella sua infanzia per lavorare, durante le ferie, nell'azienda agricola dei genitori del cognato che produce la cartamina, un colorante per cibi che ricorda lo zafferano, attraverso la raccolta dei fiori di cartamo. Durante il viaggio e il soggiorno il suo pensiero andrà a vecchi amori, ad emozioni antiche, o semplicemente a ricordi della sua infanzia che cadranno lentamente, ma inesorabilmente, su di lei, scavandola, colpendola e cambiandola",
+    "title": "Pioggia di ricordi",
+    "tmdb_id": 15080,
+    "year": "1991",
+    "saga": "Makoto Shinkai",
+    "actors": ["Miki Imai","Toshir\u014d Yanagiba","Yoko Honna","Mayumi Iizuka","Masahiro Itou","Chie Kitagawa","Yoshimasa Kond\u00f4","Yuuki Masuda","Yuki Minowa","Michie Terada","Yorie Yamashita","Ichirō Nagai","Issey Takahashi"],
+    "director": ["Isao Takahata"],
+    "genre": ["Animazione","Dramma","Romance"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!QDwyTILJ!voj7nZLXVZUYy16ESWmrTMQQfJwBI-TIOTfxU_rrpdg"
         }
-    ],
-    "title": "Pioggia di ricordi",
-    "tmdb_id": 15080,
-    "year": "1991"
+    ]
 },
 {
-      "saga": "Makoto Shinkai",
-    "actors": [
-        "Shûichirô Moriyama",
-        "Tokiko Katô",
-        "Sanshi Katsura",
-        "Tsunehiko Kamijô",
-        "Akemi Okamura",
-        "Hiroko Seki",
-        "Mahito Tsujimura",
-        "Minoru Yada",
-        "Osamu Saka",
-        "Akio Otsuka"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Commedia",
-        "Animazione",
-        "Avventura"
-    ],
+    "plot":"Italia, periodo tra le due guerre mondiali. Un misterioso pilota di aerei dalle sembianze di maiale, detto Porco Rosso, è il terrore dei pirati del Mare Adriatico, almeno finché questi non si affidano all'americano Curtis, avventuriero spavaldo che sfida Porco Rosso a duello.",
+    "title": "Porco Rosso",
+    "tmdb_id": 11621,
+    "year": "1992",
+    "saga": "Makoto Shinkai",
+    "actors": ["Shûichirô Moriyama","Tokiko Katô","Sanshi Katsura","Tsunehiko Kamijô","Akemi Okamura","Hiroko Seki","Mahito Tsujimura","Minoru Yada","Osamu Saka","Akio Otsuka"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Commedia","Animazione","Avventura"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!Ze4SDQYK!kEmVSUulir-dByQtGMT-7_W2uoCzUmi4ymZ8UZft4xA"
         }
-    ],
-    "title": "Porco Rosso",
-    "tmdb_id": 11621,
-    "year": "1992"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Nobuo Tobita",
-        "Toshihiko Seki",
-        "Youko Sakamoto",
-        "Yuri Amano",
-        "Kae Araki",
-        "Jun'ichi Kanemaru",
-        "Ai Satou",
-        "Aya Hisakawa",
-        "Tomokazu Seki",
-        "Hikaru Midorikawa",
-        "Ako Mayama",
-        "Sumi Shimamoto",
-        "Reiko Suzuki"
-    ],
-    "director": [
-        "Tomomi Mochizuki"
-    ],
-    "genre": [
-        "Romance",
-        "Animazione",
-        "Dramma",
-        "televisione film"
-    ],
+    "plot":"'Si sente il mare' inizia con l'arrivo di Rikako Muto una giovane ragazza di Tokyo nella cittadina di Kochi (situata nell'isola Shikoku), trasferitasi insieme alla madre dopo la sua separazione con il marito. Sebbene taciturna e introversa la ragazza si dimostra molto intelligente, eccellente nello studio e nello sport e diventa il sogno di molti ragazzi tra cui il migliore amico del protagonista, Yutaka Matsuno. Taku Morisaku che si è trasferito a Tokyo per frequentare l'università, conoscendo i sentimenti dell'amico Yutaka, cerca di comprendere il motivo per il quale quella ragazza gli abbia stregato il cuore, in quanto a prima vista sembra tutto fuorché interessante. E così, tra una situazione e l'altra Rikako si avvicina a entrambi. Da qui ne scaturiranno varie vicissitudini che porteranno Rikako a provare a tornare a vivere con il padre, col risultato di ottenere la consapevolezza che la sua vecchia vita le è ormai estranea.",
+    "title": "Si sente il mare",
+    "tmdb_id": 21057,
+    "year": "1993",
+    "saga": "Studio Ghibli",
+    "actors": ["Nobuo Tobita","Toshihiko Seki","Youko Sakamoto","Yuri Amano","Kae Araki","Jun'ichi Kanemaru","Ai Satou","Aya Hisakawa","Tomokazu Seki","Hikaru Midorikawa","Ako Mayama","Sumi Shimamoto","Reiko Suzuki"],
+    "director": ["Tomomi Mochizuki"],
+    "genre": ["Romance","Animazione","Dramma","televisione film"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!sT4WFYIK!cdsBhM2-7KEG1xM2EnkX9BbwVK5BvZBDp6sjgp5EBmM"
         }
-    ],
-    "title": "Si sente il mare",
-    "tmdb_id": 21057,
-    "year": "1993"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Shinchou Kokontei",
-        "Makoto Nonomura",
-        "Nijiko Kiyokawa",
-        "Shigeru Izumiya",
-        "Kosan Yanagiya",
-        "Norihei Miki",
-        "Yuriko Ishida",
-        "Akira Kamiya",
-        "Takehiro Murata",
-        "Bunshi Katsura",
-        "Gannosuke Ashiya",
-        "Beichou Katsura",
-        "Yumi Ichihara",
-        "Akira Fukuzawa",
-        "Kobuhei Hayashiya",
-        "Shiho Nagai",
-        "Osamu Kato"
-    ],
-    "director": [
-        "Isao Takahata"
-    ],
-    "genre": [
-        "Avventura",
-        "Animazione",
-        "Fantasy"
-    ],
+    "plot":"Pom poko è la favola dello scontro tra la moderna urbanizzazione e la natura. Un gruppo di Tanuki abitanti delle colline Tama è costretto ad abbandonare le case a causa del rapido sviluppo e della costruzione di nuovi edifici e centri commerciali. Visto che diventa sempre più difficile trovare cibo e rifugio, decidono di lottare tutti insieme per preservare il loro habitat. I Tanuki hanno perfezionato l'antica arte della trasformazione fino a potersi muovere come gli esseri umani su due gambe. Usano così questi poteri per limitare l'avanzamento dell'urbanizzazione. Ma sarà sufficiente?",
+    "title": "Pom Poko",
+    "tmdb_id": 15283,
+    "year": "1994",
+    "saga": "Studio Ghibli",
+    "actors": ["Shinchou Kokontei","Makoto Nonomura","Nijiko Kiyokawa","Shigeru Izumiya","Kosan Yanagiya","Norihei Miki","Yuriko Ishida","Akira Kamiya","Takehiro Murata","Bunshi Katsura","Gannosuke Ashiya","Beichou Katsura","Yumi Ichihara","Akira Fukuzawa","Kobuhei Hayashiya","Shiho Nagai","Osamu Kato"],
+    "director": ["Isao Takahata"],
+    "genre": ["Avventura","Animazione","Fantasy"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!8OoyFIoC!tdMxzSYh8MRjR0BIe-LU5ZZ2Smo-ZL89OTAotLbDlHU"
         }
-    ],
-    "title": "Pom Poko",
-    "tmdb_id": 15283,
-    "year": "1994"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
+    "plot":"On your mark è la canzone del duo Chage e Aska per cui Miyazaki Hayao ha creato un videoclip animato. Il cortometraggio racconta del ritrovamento e della liberazione di un angelo.",
+    "title": "On Your Mark ジブリ実験剧场",
+    "tmdb_id": 10840,
+    "year": "1995",
+    "saga": "Studio Ghibli",
     "actors": ["Chage", "Aska"],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Musica",
-        "Animazione",
-        "Fantascienza"
-    ],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Musica","Animazione","Fantascienza"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!hKpyGKyR!PWWd9lgDyw5G9g1D4t0g9W2oS4Iy7EjTxaX776Gkuek"
         }
-    ],
-    "title": "On Your Mark ジブリ実験剧场",
-    "tmdb_id": 10840,
-    "year": "1995"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Yoko Honna",
-        "Issey Takahashi",
-        "Takashi Tachibana",
-        "Shigeru Muroi",
-        "Shigeru Tsuyuguchi",
-        "Keiju Kobayashi",
-        "Yorie Yamashita",
-        "Maiko Kayama",
-        "Yoshimi Nakajima",
-        "Minami Takayama",
-        "Mayumi Iizuka",
-        "Mai Chiba",
-        "Satoru Takahashi",
-        "Akiko Sakaguchi",
-        "Hiromi Yasuda",
-        "Tatsuya Okada",
-        "Yoshihiro Imai",
-        "Naohisa Inoue",
-        "Suguru Egawa",
-        "Shiro Kishibe",
-        "Mitsuaki Ogawa",
-        "Toshio Suzuki"
-    ],
-    "director": [
-        "Yoshifumi Kondou"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Famiglia"
-    ],
+    "plot":"La storia inizia durante le vacanze estive del 1994 a Tokyo e narra di Shizuku, comune studentessa delle medie con una normale famiglia: padre, madre e sorella universitaria. Shizuku è appassionata di romanzi e spesso si reca alla biblioteca di quartiere per prendere in prestito numerosi volumi. Un giorno, nel noleggiarne alcuni, si accorge che nella tessera dei noleggi stranamente ricorre sempre un cognome prima del suo: Amasawa, e con la fantasia di un'aspirante scrittrice comincia a fantasticare su chi sia questo ragazzo che pare abbia i suoi stessi gusti.",
+    "title": "I sospiri del mio cuore",
+    "tmdb_id": 37797,
+    "year": "1995",
+    "saga": "Studio Ghibli",
+    "actors": ["Yoko Honna","Issey Takahashi","Takashi Tachibana","Shigeru Muroi","Shigeru Tsuyuguchi","Keiju Kobayashi","Yorie Yamashita","Maiko Kayama","Yoshimi Nakajima","Minami Takayama","Mayumi Iizuka","Mai Chiba","Satoru Takahashi","Akiko Sakaguchi","Hiromi Yasuda","Tatsuya Okada","Yoshihiro Imai","Naohisa Inoue","Suguru Egawa","Shiro Kishibe","Mitsuaki Ogawa","Toshio Suzuki"],
+    "director": ["Yoshifumi Kondou"],
+    "genre": ["Animazione","Dramma","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!IK4ylIJT!Y6YnWlMka1A-yqcCfF19l5hxyHXtNgoVS1ua3QYha5E"
         }
-    ],
-    "title": "I sospiri del mio cuore",
-    "tmdb_id": 37797,
-    "year": "1995"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Yōji Matsuda",
-        "Yuriko Ishida",
-        "Yūko Tanaka",
-        "Kaoru Kobayashi",
-        "Masahiko Nishimura",
-        "Tsunehiko Kamijô",
-        "Sumi Shimamoto",
-        "Tetsu Watanabe",
-        "Mitsuru Satô",
-        "Akira Nagoya",
-        "Akihiro Miwa",
-        "Mitsuko Mori",
-        "Hisaya Morishige",
-        "Takako Fuji"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Avventura",
-        "Fantasy",
-        "Animazione"
-    ],
+    "plot":"In seguito allo scontro con un animale posseduto da un demone il principe Ashitaka viene contaminato da una maledizione mortale. Si mette dunque in viaggio per scoprirne l'origine e chiedere una cura al grande Dio Bestia, l'unico in grado di guarirlo. Arrivato nelle regioni da cui proveniva la bestia scopre una guerra tra uomini e una forma primitiva di animali della foresta, giganti, senzienti e aiutati da quella che chiamano la Principessa Spettro, una ragazza cresciuta dai lupi che ha rinnegato gli uomini. Dall'altra parte gli uomini, capitanati da Lady Eboshi che gestisce con amore, giustizia e pietà il suo villaggio di fabbri, vogliono lavorare la montagna e abbattere gli alberi per poter estrarre il ferro (fonte di ricchezza). In mezzo un gruppo di monaci cerca di fomentare gli uomini ad uccidere il Dio Bestia e rubarne la testa perchè, si dice, fornisca l'eterna giovinezza.",
+    "title": "Principessa Mononoke",
+    "tmdb_id": 128,
+    "year": "1997",
+    "saga": "Studio Ghibli",
+    "actors": ["Yōji Matsuda","Yuriko Ishida","Yūko Tanaka","Kaoru Kobayashi","Masahiko Nishimura","Tsunehiko Kamijô","Sumi Shimamoto","Tetsu Watanabe","Mitsuru Satô","Akira Nagoya","Akihiro Miwa","Mitsuko Mori","Hisaya Morishige","Takako Fuji"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Avventura","Fantasy","Animazione"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!oWhQQQyJ!Qb8Iek26MVZcecO7fCP3eP6NxwJgfpt141Gpc8JQIoU"
         }
-    ],
-    "title": "Principessa Mononoke",
-    "tmdb_id": 128,
-    "year": "1997"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Hayato Isohata",
-        "Masako Araki",
-        "Naomi Uno",
-        "Tôru Masuoka",
-        "Yukiji Asaoka",
-        "Akiko Yano",
-        "Kosanji Yanagiya",
-        "Tamao Nakamura",
-        "Chôchô Miyako"
-    ],
-    "director": [
-        "Isao Takahata"
-    ],
-    "genre": [
-        "Animazione",
-        "Famiglia"
-    ],
+    "plot":"Gli Yamada sono la tipica famiglia giapponese che vive a Tokyo. Il capofamiglia Takashi lavora in fabbrica, la moglie Matsuko è casalinga, il figlio maggiore Noboru è uno studente; poi ci sono la piccola Nonoko e la nonna Shige, che vive con loro e li aiuta nei lavori domestici. Tra piccoli drammi e momenti comici, tra realismo e fantasia, la vita della famiglia procede, verso un futuro da accogliere sempre con ironia.",
+    "title": "I miei vicini Yamada",
+    "tmdb_id": 16198,
+    "year": "1999",
+    "saga": "Studio Ghibli",
+    "actors": ["Hayato Isohata","Masako Araki","Naomi Uno","Tôru Masuoka","Yukiji Asaoka","Akiko Yano","Kosanji Yanagiya","Tamao Nakamura","Chôchô Miyako"],
+    "director": ["Isao Takahata"],
+    "genre": ["Animazione","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!lPhmTQRB!GVAEqTiKYEHluLWIvdLhBFCSnoACMqrjNkHEU2WzHhQ"
         }
-    ],
-    "title": "I miei vicini Yamada",
-    "tmdb_id": 16198,
-    "year": "1999"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Rumi Hiiragi",
-        "Miyu Irino",
-        "Mari Natsuki",
-        "Bunta Sugawara",
-        "Yumi Tamai",
-        "Ryunosuke Kamiki",
-        "Takashi Nait\u014d",
-        "Yasuko Sawaguchi",
-        "Tatsuya Gashûin",
-        "Yo Oizumi",
-        "Koba Hayashi",
-        "Tsunehiko Kamijô",
-        "Takehiko Ono",
-        "Akio Nakamura",
-        "Ken Yasuda"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Animazione",
-        "Famiglia",
-        "Fantasy"
-    ],
+    "plot":"La piccola Chihiro non sopporta l'idea di traslocare e di perdere i propri amici, ma non può far niente per impedirlo. Proprio quando la famiglia è in viaggio verso la nuova casa, il padre imbocca una strada sterrata che termina davanti a un tunnel misterioso. I genitori sceglieranno di attraversarlo nonostante le rimostranze di Chihiro, per giungere a un parco dei divertimenti abbandonato, almeno apparentemente.",
+    "title": "La città incantata",
+    "tmdb_id": 129,
+    "year": "2001",
+    "saga": "Studio Ghibli",
+    "actors": ["Rumi Hiiragi","Miyu Irino","Mari Natsuki","Bunta Sugawara","Yumi Tamai","Ryunosuke Kamiki","Takashi Nait\u014d","Yasuko Sawaguchi","Tatsuya Gashûin","Yo Oizumi","Koba Hayashi","Tsunehiko Kamijô","Takehiko Ono","Akio Nakamura","Ken Yasuda"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Animazione","Famiglia","Fantasy"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!xP5STIiI!-xbM0WWIfFjyaEPFi6v6_l-v7v6w2wCEpEGPrhnKUsk"
         }
-    ],
-    "title": "La città incantata",
-    "tmdb_id": 129,
-    "year": "2001"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Chizuru Ikewaki",
-        "Yoshihiko Hakamada",
-        "Aki Maeda",
-        "Takayuki Yamada",
-        "Hitomi Satô",
-        "Kenta Satoi",
-        "Mari Hamada",
-        "Tetsu Watanabe",
-        "Yosuke Saito",
-        "Kumiko Okae",
-        "Tetsurô Tamba",
-        "Yo Oizumi",
-        "Yoko Honna",
-        "Ken Yasuda"
-    ],
-    "director": [
-        "Hiroyuki Morita"
-    ],
-    "genre": [
-        "Avventura",
-        "Fantasy",
-        "Animazione",
-        "Dramma",
-        "Famiglia"
-    ],
+    "plot":"Haru è una ragazza molto sbadata, lenta, la cui vita scolastica scorre senza alcun scotimento e che quindi la lascia sempre relativamente insoddisfatta. Non ha un ragazzo, ha pochi amici, a casa fa poco e nulla, ma è dotata di un altruismo fuori del comune. La sua vita cambia quando salva un gatto da una morte certa (acciaccato da un TIR) e questo lo ringrazia garbatamente proferendogli parole di elogio. inutile dire che la ragazza rimanga basita, ma ancor più basita rimane la sera quando riceve una ambasciata dal re dei gatti in persona che la invita al suo regno a vsisitarlo per ringraziarla di aver salvato il suo unico figlio nonchè erede al trono. Il giorno seguente dopo aver subito delle situazioni a dir poco particolari, viene eletta dai lacché del re come promessa sposa e trascinata nel regno.",
+    "title": "La ricompensa del gatto",
+    "tmdb_id": 15370,
+    "year": "2002",
+    "saga": "Studio Ghibli",
+    "actors": ["Chizuru Ikewaki","Yoshihiko Hakamada","Aki Maeda","Takayuki Yamada","Hitomi Satô","Kenta Satoi","Mari Hamada","Tetsu Watanabe","Yosuke Saito","Kumiko Okae","Tetsurô Tamba","Yo Oizumi","Yoko Honna","Ken Yasuda"],
+    "director": ["Hiroyuki Morita"],
+    "genre": ["Avventura","Fantasy","Animazione","Dramma","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!0TwAEaaK!2PH2EO6JUjlSjiIQ5yX8DJi6uyab7QdKmDHHxlY23VU"
         }
-    ],
-    "title": "La ricompensa del gatto",
-    "tmdb_id": 15370,
-    "year": "2002"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Chieko Baisho",
-        "Takuya Kimura",
-        "Akihiro Miwa",
-        "Tatsuya Gashûin",
-        "Ryunosuke Kamiki",
-        "Haruko Kato",
-        "Yayoi Kazuki",
-        "Mayuno Yasokawa",
-        "Yo Oizumi",
-        "Rio Kanno",
-        "Akio Otsuka",
-        "Daijiro Harada"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Fantasy",
-        "Animazione",
-        "Avventura"
-    ],
+    "plot":"Sophie ha diciotto anni e ogni giorno lavora instancabilmente nel negozio di cappelli del suo defunto padre. Un giorno, durante una rara escursione in città, per caso incontra il Mago Howl. Howl è ardito e bello, ma come tutti i maghi un po' smidollato. La Strega della Spazzatura, equivocando la natura del loro rapporto, getta una maledizione su Sophie, trasformandola in una novantenne rugosa. Sophie va via di casa e girovaga in una distesa desolata dove per caso entra nel castello mobile di Howl. Nascondendo la sua identita', diventa la donna delle pulizie. La vecchia petulante Sophie rimette a posto la casa, con molto piů brio di quanto ne avesse in origine. Cosa farà Sophie e cosa capiterà tra lei e Howl?",
+    "title": "Il castello errante di Howl",
+    "tmdb_id": 4935,
+    "year": "2004",
+    "saga": "Studio Ghibli",
+    "actors": ["Chieko Baisho","Takuya Kimura","Akihiro Miwa","Tatsuya Gashûin","Ryunosuke Kamiki","Haruko Kato","Yayoi Kazuki","Mayuno Yasokawa","Yo Oizumi","Rio Kanno","Akio Otsuka","Daijiro Harada"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Fantasy","Animazione","Avventura"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!wHwC3aJQ!gF3lEerfU8FuFhI6tKVajJ50Tqj5ltV1G0stNAWsF3Q"
         }
-    ],
-    "title": "Il castello errante di Howl",
-    "tmdb_id": 4935,
-    "year": "2004"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Junichi Okada",
-        "Aoi Teshima",
-        "Bunta Sugawara",
-        "Yūko Tanaka",
-        "Teruyuki Kagawa",
-        "Jun Fubuki",
-        "Takashi Naitō",
-        "Mitsuko Baisho",
-        "Yui Natsukawa",
-        "Kaoru Kobayashi"
-    ],
-    "director": [
-        "Gorô Miyazaki"
-    ],
-    "genre": [
-        "Avventura",
-        "Fantasy",
-        "Animazione",
-        "Fantascienza"
-    ],
+    "plot":"Quando i draghi che controllano il confine estremo di Terramare si spingono minacciosamente fino alle terre abitate, fino ad allora, solo da uomini, è segno che l’equilibrio del mondo sta crollando. Per Ged, un giovane mago, comincia così il lungo viaggio alla ricerca della misteriosa e terribile forza che sta minacciando la terra…",
+    "title": "I racconti di Terramare",
+    "tmdb_id": 37933,
+    "year": "2006",
+    "saga": "Studio Ghibli",
+    "actors": ["Junichi Okada","Aoi Teshima","Bunta Sugawara","Yūko Tanaka","Teruyuki Kagawa","Jun Fubuki","Takashi Naitō","Mitsuko Baisho","Yui Natsukawa","Kaoru Kobayashi"],
+    "director": ["Gorô Miyazaki"],
+    "genre": ["Avventura","Fantasy","Animazione","Fantascienza"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!cOwExKSB!7XNddND-UBZSQosh9JNtxvpMvLDHB9L1kAVZYjsivic"
         }
-    ],
-    "title": "I racconti di Terramare",
-    "tmdb_id": 37933,
-    "year": "2006"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Yuria Nara",
-        "Hiroki Doi",
-        "George Tokoro",
-        "Tomoko Yamaguchi",
-        "Yuki Amami",
-        "Kazushige Nagashima",
-        "Akiko Yano",
-        "Shinichi Hatori",
-        "Tokie Hidari",
-        "Eimi Hiraoka",
-        "Rumi Hiiragi",
-        "Tomoko Naraoka",
-        "Nozomi Ôhashi",
-        "Kazuko Yoshiyuki"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Animazione",
-        "Famiglia"
-    ],
+    "plot":"Dal mare emerge una pesciolina rossa a bordo di una medusa. Rimasta intrappolata in un barattolo di vetro, viene soccorsa e liberata da Sosuke, un bimbo di cinque anni che vive in cima alla scogliera. La gratitudine della pesciolina, che Sosuke battezzerà col nome di Ponyo, si trasforma in tenera amicizia. L'idillio viene però interrotto da Fujimoto, padre di Ponyo e padrone-stregone dei fondali marini. Un tempo umano, Fujimoto ha lasciato la terra per l'acqua prendendo in moglie la Madre del Mare. Decisa a tentare la fuga e a scegliere per sé un destino umano, Ponyo rovescia accidentalmente l'elisir magico del padre, trasformandosi in una bambina e alterando la quiete del mare. Le onde furiose e i pesci giganti la condurranno fino alla casa di Sosuke, dove sarà accolta e amata. Perché il mare si ritiri e restituisca a Ponyo la sua libertà e a Sosuke la sua mamma e il suo villaggio, il bambino dovrà affrontare una prova e riportare l'equilibrio tra il genere umano e la natura.",
+    "title": "Ponyo sulla scogliera",
+    "tmdb_id": 12429,
+    "year": "2008",
+    "saga": "Studio Ghibli",
+    "actors": ["Yuria Nara","Hiroki Doi","George Tokoro","Tomoko Yamaguchi","Yuki Amami","Kazushige Nagashima","Akiko Yano","Shinichi Hatori","Tokie Hidari","Eimi Hiraoka","Rumi Hiiragi","Tomoko Naraoka","Nozomi Ôhashi","Kazuko Yoshiyuki"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Animazione","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!NPhyGIiQ!0BcDLataYuE1HjiD0WXCeu6LdPM-m_a9EJtel-gOklE"
         }
-    ],
-    "title": "Ponyo sulla scogliera",
-    "tmdb_id": 12429,
-    "year": "2008"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Mirai Shida",
-        "Ryunosuke Kamiki",
-        "Tomokazu Miura",
-        "Keiko Takeshita",
-        "Kirin Kiki",
-        "Shinobu Ōtake",
-        "Tatsuya Fujiwara"
-    ],
-    "director": [
-        "Hiromasa Yonebayashi"
-    ],
-    "genre": [
-        "Fantasy",
-        "Animazione",
-        "Famiglia"
-    ],
+    "plot":"Sotto il pavimento di una grande casa nella campagna di Tokyo, vive la quattordicenne Arrietty con la madre e il padre. Sono una famiglia di “rubacchiotti”, alti dieci centimetri, che prendono in prestito dagli umani tutto ciò che serve loro per sopravvivere ma in piccolissime quantità, in modo che nessuno se ne accorga e possa scoprire la loro esistenza. Arrietty, però, in una delle sue incursioni nel giardino della casa viene vista da Sho, un ragazzino umano di 12 anni che soggiorna lì, presso la zia, in attesa di una rischiosa operazione al cuore. Nonostante la cosa scateni il terrore nei genitori, che si preparano immediatamente a traslocare, Arrietty capisce di potersi fidare di Sho e tra i due nasce una breve ma importante amicizia.",
+    "title": "Arrietty - Il mondo segreto sotto il pavimento",
+    "tmdb_id": 51739,
+    "year": "2010",
+    "saga": "Studio Ghibli",
+    "actors": ["Mirai Shida","Ryunosuke Kamiki","Tomokazu Miura","Keiko Takeshita","Kirin Kiki","Shinobu Ōtake","Tatsuya Fujiwara"],
+    "director": ["Hiromasa Yonebayashi"],
+    "genre": ["Fantasy","Animazione","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!9XwiAIAb!vOZWS9gg9ZA4aphbgGrCiRES8ixyrQqXGnXkfuq6CMo"
         }
-    ],
-    "title": "Arrietty - Il mondo segreto sotto il pavimento",
-    "tmdb_id": 51739,
-    "year": "2010"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Masami Nagasawa",
-        "Junichi Okada",
-        "Keiko Takeshita",
-        "Yuriko Ishida",
-        "Rumi Hiiragi",
-        "Jun Fubuki",
-        "Takashi Nait\u014d",
-        "Shunsuke Kazama",
-        "Nao Omori",
-        "Teruyuki Kagawa",
-        "Haruka Shiraishi",
-        "Tsubasa Kobayashi",
-        "Aoi Teshima",
-        "Gorô Miyazaki"
-    ],
-    "director": [
-        "Gorô Miyazaki"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma"
-    ],
+    "plot":"Ambientato a Yokohama nel 1963, La collina dei papaveri è una storia d’amore i cui personaggi sono studenti delle scuole superiori chiamati ad essere la “prima generazione” di un “Nuovo Giappone”. Dal momento che il Paese comincia ad uscire dalla devastazione causata dalla Seconda Guerra Mondiale, la nuova generazione lotta per costruire un futuro migliore, cercando però di non perdere i legami col passato che li ha resi ciò che sono oggi.",
+    "title": "La collina dei papaveri",
+    "tmdb_id": 83389,
+    "year": "2011",
+    "saga": "Studio Ghibli",
+    "actors": ["Masami Nagasawa","Junichi Okada","Keiko Takeshita","Yuriko Ishida","Rumi Hiiragi","Jun Fubuki","Takashi Nait\u014d","Shunsuke Kazama","Nao Omori","Teruyuki Kagawa","Haruka Shiraishi","Tsubasa Kobayashi","Aoi Teshima","Gorô Miyazaki"],
+    "director": ["Gorô Miyazaki"],
+    "genre": ["Animazione","Dramma"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!UShQxSZJ!kLQv9iCdiwEZhYOi1FvSD2zofb5jgsYaYeoUqiowBFU"
         }
-    ],
-    "title": "La collina dei papaveri",
-    "tmdb_id": 83389,
-    "year": "2011"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Hideaki Anno",
-        "Miori Takimoto",
-        "Hidetoshi Nishijima",
-        "Masahiko Nishimura",
-        "Stephen Alpert",
-        "Morio Kazama",
-        "Keiko Takeshita",
-        "Mirai Shida",
-        "Jun Kunimura",
-        "Shinobu Ôtake",
-        "Mansai Nomura",
-        "Kaichi Kaburagi",
-        "Maki Shinta",
-        "Mayu Iino"
-    ],
-    "director": [
-        "Hayao Miyazaki"
-    ],
-    "genre": [
-        "Animazione"
-    ],
+    "plot":"Jiro sogna di volare e progettare aeroplani ispirandosi al famoso ingegnere aeronautico italiano Gianni Caproni. Miope fin dalla giovane età e pertanto impossibilitato a diventare pilota, nel 1927 entra a lavorare in una delle principali società giapponesi di ingegneria aeronautica, e progetta il famoso aereo da combattimento Mitsubishi A6M Zero usato dal suo paese durante l'attacco a Pearl Harbor nella Seconda guerra mondiale. Sono anni importanti quelli per Jiro, perché ha modo di mostrare l’innato talento che lo farà diventare uno dei progettatori aeronautici più affermati al mondo ma soprattutto perché inizia a frequentare la dolce Nahoko, il suo più grande amore, oltre al cielo…",
+    "title": "Si alza il vento",
+    "tmdb_id": 149870,
+    "year": "2013",
+    "saga": "Studio Ghibli",
+    "actors": ["Hideaki Anno","Miori Takimoto","Hidetoshi Nishijima","Masahiko Nishimura","Stephen Alpert","Morio Kazama","Keiko Takeshita","Mirai Shida","Jun Kunimura","Shinobu Ôtake","Mansai Nomura","Kaichi Kaburagi","Maki Shinta","Mayu Iino"],
+    "director": ["Hayao Miyazaki"],
+    "genre": ["Animazione"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!4DpkCAKB!ugt6xlVsW8xhtbktarlydcbU-i0gISjJTJK0Gn52Ad4"
         }
-    ],
-    "title": "Si alza il vento",
-    "tmdb_id": 149870,
-    "year": "2013"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Aki Asakura",
-        "Kengo Kora",
-        "Nobuko Miyamoto",
-        "Atsuko Takahata",
-        "Tomoko Tabata",
-        "Hidetoshi Nishijima",
-        "Takaya Kamikawa",
-        "Tatsuya Nakadai",
-        "Shichinosuke Nakamura",
-        "Takeo Chii",
-        "Yukiji Asaoka",
-        "Isao Hashizume",
-        "Hikaru Ijûin",
-        "Ryûdô Uzaki",
-        "Tamaki Kojo",
-        "Yuji Miyaji",
-        "Mirai Uchida"
-    ],
-    "director": [
-        "Isao Takahata"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Fantasy"
-    ],
+    "plot":"Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
+    "title": "La storia della principessa splendente",
+    "tmdb_id": 149871,
+    "year": "2013",
+    "saga": "Studio Ghibli",
+    "actors": ["Aki Asakura","Kengo Kora","Nobuko Miyamoto","Atsuko Takahata","Tomoko Tabata","Hidetoshi Nishijima","Takaya Kamikawa","Tatsuya Nakadai","Shichinosuke Nakamura","Takeo Chii","Yukiji Asaoka","Isao Hashizume","Hikaru Ijûin","Ryûdô Uzaki","Tamaki Kojo","Yuji Miyaji","Mirai Uchida"],
+    "director": ["Isao Takahata"],
+    "genre": ["Animazione","Dramma","Fantasy"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!1fxR1TLb!GTrw1HdVSdU3M1J8eeF1BLx9dJKHARgQe9j6vqz-oSM"
         }
-    ],
-    "title": "La storia della principessa splendente",
-    "tmdb_id": 149871,
-    "year": "2013"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Sara Takatsuki",
-        "Kasumi Arimura",
-        "Nanako Matsushima",
-        "Susumu Terajima",
-        "Toshie Negishi",
-        "Ryôko Moriyama",
-        "Kazuko Yoshiyuki",
-        "Hitomi Kuroki",
-        "Hiroyuki Morisaki",
-        "Takuma Otoo",
-        "Hana Sugisaki",
-        "Bari Suzuki",
-        "Shigeyuki Totsugi",
-        "Ken Yasuda",
-        "Yo Oizumi"
-    ],
-    "director": [
-        "Hiromasa Yonebayashi"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma"
-    ],
+    "plot":"Anna, una ragazzina timida e solitaria di 12 anni, vive in città con i genitori adottivi. Un’estate viene mandata dalla sua famiglia in una tranquilla cittadina vicina al mare ad Hokkaido. Lì Anna trascorre le giornate fantasticando tra le dune di sabbia fino a quando, in una vecchia casa disabitata, incontra Marnie, una bambina misteriosa con cui stringe subito una forte amicizia…",
+    "title": "Quando c'era Marnie",
+    "tmdb_id": 242828,
+    "year": "2014",
+    "saga": "Studio Ghibli",
+    "actors": ["Sara Takatsuki","Kasumi Arimura","Nanako Matsushima","Susumu Terajima","Toshie Negishi","Ryôko Moriyama","Kazuko Yoshiyuki","Hitomi Kuroki","Hiroyuki Morisaki","Takuma Otoo","Hana Sugisaki","Bari Suzuki","Shigeyuki Totsugi","Ken Yasuda","Yo Oizumi"],
+    "director": ["Hiromasa Yonebayashi"],
+    "genre": ["Animazione","Dramma"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!lDwBAITb!-LZJx-MjillsS3_bTCkqOxIvyM5W5_Zwe1oMmLCf5qw"
         }
-    ],
-    "title": "Quando c'era Marnie",
-    "tmdb_id": 242828,
-    "year": "2014"
+    ]
 },
 {
-      "saga": "Studio Ghibli",
-    "actors": [
-        "Emmanuel Garijo",
-        "Tom Hudson",
-        "Baptiste Goy",
-        "Axel Devillers",
-        "Barbara Beretta"
-    ],
-    "director": [
-        "Michael Dudok de Wit"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Fantasy",
-        "Famiglia"
-    ],
+    "plot":"Un uomo abbandonato su un'isola deserta cerca disperatamente di fuggire. Un giorno, però, incontra una strana tartaruga che cambierà per sempre il resto della sua vita.",
+    "title": "La tartaruga rossa",
+    "tmdb_id": 337703,
+    "year": "2016",
+    "saga": "Studio Ghibli",
+    "actors": ["Emmanuel Garijo","Tom Hudson","Baptiste Goy","Axel Devillers","Barbara Beretta"],
+    "director": ["Michael Dudok de Wit"],
+    "genre": ["Animazione","Dramma","Fantasy","Famiglia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!YSYWjIZb!wb3toF_jm0fKSQtCwnD5hUMnfbeiCB7g1v28pVraN7E"
         }
-    ],
-    "title": "La tartaruga rossa",
-    "tmdb_id": 337703,
-    "year": "2016"
+    ]
 },
 {
+    "plot":"Nella XIII circoscrizione di Tokyo, Taishi Fura viene coinvolto in un incidente insieme ad un Ghoul divora-umani. Per scoprire la verità su ciò che è successo ad un suo caro amico, Taishi si allea con il giovane ma già promettente investigatore della CCG Kisho Arima. Insieme si mettono sulle tracce di un pericoloso Ghoul chiamato Lanterna...",
+    "title": "Tokyo Ghoul: JACK",
+    "tmdb_id": 483685,
+    "year": "2015",
     "saga": "Film tratti da anime",
     "actors": ["Saori Hayami", "Ryohei Kimura", "Daisuke Namikawa", "Rumi Okubo", "Tatsuhisa Suzuki"],
     "director": ["Soichi Shimada"],
-    "genre": [
-        "Horror",
-        "Azione",
-        "Animazione",
-        "Dramma"
-    ],
+    "genre": ["Horror","Azione","Animazione","Dramma"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!S1dDGaxZ!IIrA31dppeJQegbYOiGVbWG0XSU5_vgfMT6hTpkOdN8"
         }
-    ],
-    "title": "Tokyo Ghoul: JACK",
-    "tmdb_id": 483685,
-    "year": "2015"
+    ]
 },
 {
+    "plot":"Ken Kaneki, studente di Tokyo dalla vita tranquilla, viene quasi ucciso dall'attacco di un ghoul, una delle creature soprannaturali che si nutrono di carne umana e che da tempo vivono sulla Terra. Salvato grazie a un trapianto che lo trasforma in un ibrido tra uomo e ghoul, trova allora rifugio all'Anteiku, un locale gestito da gente che un tempo reputava mostri e unico posto in cui può sentirsi al sicuro. Quando i desideri di vendetta degli uomini si fanno sempre più minacciosi, Kaneki rischierà la sua vita per proteggere il mondo che lo ha cambiato per sempre.",
+    "title": "Tokyo ghoul - Il film",
+    "tmdb_id": 433945,
+    "year": "2017",
     "saga": "Live Action",
-    "actors": [
-        "Masataka Kubota",
-        "Fumika Shimizu",
-        "Nobuyuki Suzuki",
-        "Yo Oizumi",
-        "Y\u016b Aoi",
-        "Hiyori Sakurada",
-        "Kunio Murai",
-        "Kai Ogasawara",
-        "Shunya Shiraishi",
-        "Shôko Aida",
-        "Shuntarô Yanagi",
-        "Minosuke Bando",
-        "Nozomi Sasaki",
-        "Kenta Hamano",
-        "Seika Furuhata",
-        "Tomoya Maeno",
-        "Dankan",
-        "Ryo Iwamatsu"
-    ],
-    "director": [
-        "Kentaro Hagiwara"
-    ],
-    "genre": [
-        "Azione",
-        "Dramma",
-        "Horror",
-        "Thriller"
-    ],
+    "actors": ["Masataka Kubota","Fumika Shimizu","Nobuyuki Suzuki","Yo Oizumi","Y\u016b Aoi","Hiyori Sakurada","Kunio Murai","Kai Ogasawara","Shunya Shiraishi","Shôko Aida","Shuntarô Yanagi","Minosuke Bando","Nozomi Sasaki","Kenta Hamano","Seika Furuhata","Tomoya Maeno","Dankan","Ryo Iwamatsu"],
+    "director": ["Kentaro Hagiwara"],
+    "genre": ["Azione","Dramma","Horror","Thriller"],
     "links": [
         {
             "quality": "HD",
-            "url": "https://mega.nz/#!yVc0ySLa!92ui1BRU45brDjPbP_e-Bpc2d2_mMWjcihoGY0tYZ0g"
+            "url": "https://mega.nz/#!fBN2jAoD!OwRZ2ngiRs3ISXz7v17iQDjwfvx9NjbYFzUkq0UvdxA"
         }
-    ],
-    "title": "Tokyo ghoul - Il film",
-    "tmdb_id": 433945,
-    "year": "2017"
+    ]
 },
 {
-      "saga": "Film tratti da anime",
+    "plot":"Dopo il furto di un oggetto dall'immenso potere, il 'sigillo del re', da parte di misteriosi individui, Toshiro Hitsugaya, a cui era stata affidata la protezione dell'oggetto assieme alla sua brigata, scomparso misteriosamente, viene reputato complice del ladro e traditore da parte di Shigekuni Genryusai Yamamoto.",
+    "title": "Bleach: The DiamondDust Rebellion",
+    "tmdb_id": "17101",
+    "year": "2007",
+    "saga": "Film tratti da anime",
     "actors": ["Masakazu Morita", "Romi Park", "Akira Ishida", "Fumiko Orikasa", "Kentaro Ito", "Kaya Matsutani", "Masaaki Tsukada", "Aya Hisakawa", "Yukana", "Noriaki Sugiyama", "Hiroki Yasumoto", "Yuki Matsuoka", "Hideo Ishikawa", "Ryotaro Okiayu", "Nobuyuki Hiyama", "Jun Fukuyama"],
     "genre": ["Noriyuki Abe"],
     "links": [
@@ -1293,691 +691,222 @@
             "quality": "SD",
             "url": "https://mega.nz/#!24cBUKob!CElOkdxfSHAzVClmKApp_XLI3w6WRkEjqxTj8kOM9uo"
         }
-    ],
-    "title": "Bleach: The DiamondDust Rebellion",
-    "tmdb_id": "17101",
-    "year": "2007"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Sota Fukushi",
-        "Hana Sugisaki",
-        "Ryo Yoshizawa",
-        "Erina Mano",
-        "Yu Koyanagi",
-        "Taichi Saotome",
-        "Miyavi",
-        "Seiichi Tanabe",
-        "Masami Nagasawa",
-        "Yosuke Eguchi"
-    ],
-    "director": [
-        "Shinsuke Sato"
-    ],
-    "genre": [
-        "Azione",
-        "Fantasy",
-        "Avventura"
-    ],
-    "links": [
-        {
-            "quality": "",
-            "url": ""
-        }
-    ],
+    "plot":"La trasposizione in live-action basato sul famoso manga giapponese. La storia è incentrata su Ichigo Kurosaki, un quindicenne in grado di vedere i fantasmi. Un giorno, mentre è attaccato da uno spirito maligno, hollow, viene salvato da Rukia, uno shinigami (dio della morte ndr.) che ha il compito di proteggere gli esseri umani dagli attacchi degli hollow.",
     "title": "Bleach",
     "tmdb_id": 420426,
-    "year": "2018"
-},
-{
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Miki Itou",
-        "Shunsuke Kariya",
-        "Kappei Yamaguchi",
-        "Mami Koyama",
-        "Shigeru Chiba",
-        "Ryuuzaburou Ootomo",
-        "Kazuhiko Kishino",
-        "Kôji Totani",
-        "Takumi Yamazaki",
-        "Kazuyuki Sogabe",
-        "Michitaka Kobayashi",
-        "Naoki Makishima",
-        "Tomoko Maruo",
-        "Shinobu Satouchi"
-    ],
-    "director": [
-        "Hiroshi Fukutomi"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-    ],
+    "year": "2018",
+    "saga": "Live Action",
+    "actors": ["Sota Fukushi","Hana Sugisaki","Ryo Yoshizawa","Erina Mano","Yu Koyanagi","Taichi Saotome","Miyavi","Seiichi Tanabe","Masami Nagasawa","Yosuke Eguchi"],
+    "director": ["Shinsuke Sato"],
+    "genre": ["Azione","Fantasy","Avventura"],
     "links": [
         {
-            "quality": "SD",
+            "quality": "WEBDL 720p AC3 iTA-JAP x264",
+            "url": "http://51.77.159.233:30299/__5177ffd182e5b7e42df367293d89cf85"
+        }
+    ]
+},
+{
+    "plot":"La cyberphysician Daisuke Ido incontra i resti di una donna cyborg, che è ancora viva. Ido la porta a casa e la ripristina, trasferendola in un nuovo corpo di cyborg.",
+    "title": "Battle Angel Alita - Rusty Angel",
+    "tmdb_id": 17189,
+    "year": "1993",
+    "saga": "Film tratti da anime",
+    "actors": ["Miki Itou","Shunsuke Kariya","Kappei Yamaguchi","Mami Koyama","Shigeru Chiba","Ryuuzaburou Ootomo","Kazuhiko Kishino","Kôji Totani","Takumi Yamazaki","Kazuyuki Sogabe","Michitaka Kobayashi","Naoki Makishima","Tomoko Maruo","Shinobu Satouchi"],
+    "director": ["Hiroshi Fukutomi"],
+    "genre": ["Animazione","Azione","Fantascienza"],
+    "links": [
+        {
+            "quality": "ac3 ITA ENG JAP sub ENG ESP",
             "url": "https://mega.nz/#!Py4hEDKS!gTk8RCBEkWnyIkAVUNQzCPz-VFhvsGoHrqsl_s8JkgQ"
         }
-    ],
-    "title": "Battle Angel Alita",
-    "tmdb_id": 17189,
-    "year": "1993"
+    ]
 },
 {
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Miki Itou",
-        "Shunsuke Kariya",
-        "Kappei Yamaguchi",
-        "Mami Koyama",
-        "Shigeru Chiba",
-        "Ryuuzaburou Ootomo",
-        "Kazuhiko Kishino",
-        "Kôji Totani",
-        "Takumi Yamazaki",
-        "Kazuyuki Sogabe",
-        "Michitaka Kobayashi",
-        "Naoki Makishima",
-        "Tomoko Maruo",
-        "Shinobu Satouchi"
-    ],
-    "director": [
-        "Hiroshi Fukutomi"
-    ],
-    "genre": [
-        "Animazione",
-        "Azione",
-        "Fantascienza"
-    ],
+    "plot":"Mentre Yugo e Tanji si preparano a lasciare un vicolo con la colonna vertebrale della loro vittima di cyborg, Vector appare e uccide il cyborg per eliminarlo come testimone, quindi ammonisce Yugo per la sua disattenzione.",
+    "title": "Battle Angel Alita - Tear Sign",
+    "tmdb_id": 17189,
+    "year": "1993",
+    "saga": "Film tratti da anime",
+    "actors": ["Miki Itou","Shunsuke Kariya","Kappei Yamaguchi","Mami Koyama","Shigeru Chiba","Ryuuzaburou Ootomo","Kazuhiko Kishino","Kôji Totani","Takumi Yamazaki","Kazuyuki Sogabe","Michitaka Kobayashi","Naoki Makishima","Tomoko Maruo","Shinobu Satouchi"],
+    "director": ["Hiroshi Fukutomi"],
+    "genre": ["Animazione","Azione","Fantascienza"],
     "links": [
         {
-            "quality": "SD",
-            "url": "https://mega.nz/#!nzgS1QKb!Ndo_O2rZNCDNGT7ZcCJL3jHZVZUuRwmZJu47Lpi3S3I"
+            "quality": "ac3 ITA ENG JAP sub ENG ESP",
+            "url": "https://mega.nz/file/r7gmxQ7a#Ndo_O2rZNCDNGT7ZcCJL3jHZVZUuRwmZJu47Lpi3S3I"
         }
-    ],
-    "title": "Battle Angel Alita",
-    "tmdb_id": 17189,
-    "year": "1993"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Rosa Salazar",
-        "Christoph Waltz",
-        "Jennifer Connelly",
-        "Mahershala Ali",
-        "Ed Skrein",
-        "Jackie Earle Haley",
-        "Keean Johnson",
-        "Lana Condor",
-        "Jorge Lendeborg Jr.",
-        "Eiza González",
-        "Jeff Fahey",
-        "Idara Victor",
-        "Rick Yune",
-        "Derek Mears",
-        "Leonard Wu",
-        "Racer Rodriguez",
-        "Marko Zaror",
-        "Hugo Perez",
-        "Casper Van Dien",
-        "Billy Blair",
-        "Jamie Landau",
-        "Dimitrius Pulido",
-        "Patrick Gathron",
-        "Elle LaMont",
-        "Alex Livinalli",
-        "Neal Kodinsky",
-        "Anthony Bandmann",
-        "Alan Nguyen",
-        "Sam Medina",
-        "Tod Junker",
-        "John Wirt",
-        "Darcel Danielle",
-        "Emma Lindsey",
-        "Garrett Warren",
-        "Tony LaThanh",
-        "Jorge A. Jimenez",
-        "Vincent Fuentes",
-        "Ibrahima Thiam",
-        "Paul de Sousa",
-        "Gregg Berger",
-        "David Sobolov",
-        "Jeff Bottoms",
-        "Michelle Rodriguez",
-        "Jai Courtney",
-        "Edward Norton"
-    ],
-    "director": [
-        "Robert Rodriguez"
-    ],
-    "genre": [
-        "Azione",
-        "Fantascienza",
-        "Avventura"
-    ],
+    "plot":"XXVI secolo. Alita è un cyborg che viene scoperto in un deposito di rottami dal dottor Daisuke Ido. Senza alcun ricordo della sua vita precedente, fatta eccezione per l'incredibile addestramento nelle arti marziali memorizzato dal suo corpo, Alita diventa una spietata cacciatrice di taglie, sulle tracce dei peggiori criminali del mondo.",
+    "title": "Alita - Angelo della battaglia",
+    "tmdb_id": 399579,
+    "year": "2019",
+    "saga": "Live Action",
+    "actors": ["Rosa Salazar","Christoph Waltz","Jennifer Connelly","Mahershala Ali","Ed Skrein","Jackie Earle Haley","Keean Johnson","Lana Condor","Jorge Lendeborg Jr.","Eiza González","Jeff Fahey","Idara Victor","Rick Yune","Derek Mears","Leonard Wu","Racer Rodriguez","Marko Zaror","Hugo Perez","Casper Van Dien","Billy Blair","Jamie Landau","Dimitrius Pulido","Patrick Gathron","Elle LaMont","Alex Livinalli","Neal Kodinsky","Anthony Bandmann","Alan Nguyen","Sam Medina","Tod Junker","John Wirt","Darcel Danielle","Emma Lindsey","Garrett Warren","Tony LaThanh","Jorge A. Jimenez","Vincent Fuentes","Ibrahima Thiam","Paul de Sousa","Gregg Berger","David Sobolov","Jeff Bottoms","Michelle Rodriguez","Jai Courtney","Edward Norton"],
+    "director": ["Robert Rodriguez"],
+    "genre": ["Azione","Fantascienza","Avventura"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!j1EwiCJA!5871lUNILwtrtEbRUL4_zqBzif-DQsJzTGDBIP-kEN8"
         }
-    ],
-    "title": "Alita - Angelo della battaglia",
-    "tmdb_id": 399579,
-    "year": "2019"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Emile Hirsch",
-        "Christina Ricci",
-        "John Goodman",
-        "Susan Sarandon",
-        "Matthew Fox",
-        "Roger Allam",
-        "Paulie Litt",
-        "Benno F\u00fcrmann",
-        "Hiroyuki Sanada",
-        "Rain",
-        "Richard Roundtree",
-        "Kick Gurry",
-        "John Benfield",
-        "Christian Oliver",
-        "Ralph Herforth",
-        "Scott Porter",
-        "Nan Yu",
-        "Nayo Wallace",
-        "Melvil Poupaud",
-        "Ramon Tikaram",
-        "Ben Miles",
-        "Peter Fernandez",
-        "Cosma Shiva Hagen",
-        "Moritz Bleibtreu",
-        "Karl Yune",
-        "Joon Park",
-        "Nicholas Elia",
-        "Melissa Holroyd",
-        "Ariel Winter",
-        "Gian Ganziano",
-        "Harvey Friedman",
-        "Sadao Ueda",
-        "Valery Tscheplanowa",
-        "Sami Loris",
-        "Olivier Marlo",
-        "Sean McDonagh",
-        "Vinzenz Kiefer",
-        "Mark Zak",
-        "Willy",
-        "Kenzie",
-        "Julia Joyce",
-        "Clayton Nemrow",
-        "Ricky Watson",
-        "Brandon Robinson",
-        "L. Trey Wilson",
-        "Lauren Blake",
-        "Waldemar Kobus",
-        "Max Hopp",
-        "Julie T. Wallace",
-        "Matthias Redlhammer",
-        "Ecki Hoffmann",
-        "Art LaFleur",
-        "Peter Navy Tuiasosopo",
-        "Paul Sirr",
-        "Kadý Taylor",
-        "Junior Sone Enang",
-        "Jana Pallaske",
-        "Dari Maximova",
-        "Werner Daehn",
-        "Komi Togbonou",
-        "Leila Rozario",
-        "Steven Wilson",
-        "Togo Igawa",
-        "Jonathan Kinsler",
-        "Anatole Taubman",
-        "Frank Witter",
-        "Megan Gay",
-        "Corinne Orr",
-        "Joe Mazza",
-        "Ludmilla Ismailow",
-        "Milka Duno",
-        "Amira Osman",
-        "Ashley Walters",
-        "Jens Neuhaus",
-        "Sesede Terziyan",
-        "Ill-Young Kim",
-        "Yuriri Naka",
-        "Oscar Ortega Sánchez",
-        "Fang Yu",
-        "Narges Rashidi",
-        "Andrés Cantor"
-    ],
-    "director": [
-        "Lilly Wachowski",
-        "Lana Wachowski"
-    ],
-    "genre": [
-        "Famiglia",
-        "Azione",
-        "Avventura",
-        "Commedia"
-    ],
+    "plot":"Speed Racer è un talento naturale dell'automobilismo; figlio di un costruttore di vetture da corsa, di una madre che al centro del salotto sfoggia il prototipo dell'auto della casa, fratello minore di Rex, morto in corsa, e maggiore di Spritle che, con l'inseparabile scimpanzè Chim-Chim, forma il tifo più entusiasta e imprevedibile che un atleta possa desiderare. Eppure il sogno di Speed è costretto ad infrangersi contro la realtà di un mondo corrotto, dove le grandi competizioni sono decise in partenza dagli sponsor multimiliardari e dove chi non si lascia comprare da un imprenditore senza scrupoli rischia di non superare mai la linea di partenza. Fedele all'azienda di famiglia e soprattutto al suo spirito appassionato e indipendente, Speed si allea con il misterioso Racer X per mettere fine agli illeciti dello sport e dimostrare quel che sa fare: vincere.",
+    "title": "Speed Racer",
+    "tmdb_id": 7459,
+    "year": "2008",
+    "saga": "Live Action",
+    "actors": ["Emile Hirsch","Christina Ricci","John Goodman","Susan Sarandon","Matthew Fox","Roger Allam","Paulie Litt","Benno F\u00fcrmann","Hiroyuki Sanada","Rain","Richard Roundtree","Kick Gurry","John Benfield","Christian Oliver","Ralph Herforth","Scott Porter","Nan Yu","Nayo Wallace","Melvil Poupaud","Ramon Tikaram","Ben Miles","Peter Fernandez","Cosma Shiva Hagen","Moritz Bleibtreu","Karl Yune","Joon Park","Nicholas Elia","Melissa Holroyd","Ariel Winter","Gian Ganziano","Harvey Friedman","Sadao Ueda","Valery Tscheplanowa","Sami Loris","Olivier Marlo","Sean McDonagh","Vinzenz Kiefer","Mark Zak","Willy","Kenzie","Julia Joyce","Clayton Nemrow","Ricky Watson","Brandon Robinson","L. Trey Wilson","Lauren Blake","Waldemar Kobus","Max Hopp","Julie T. Wallace","Matthias Redlhammer","Ecki Hoffmann","Art LaFleur","Peter Navy Tuiasosopo","Paul Sirr","Kadý Taylor","Junior Sone Enang","Jana Pallaske","Dari Maximova","Werner Daehn","Komi Togbonou","Leila Rozario","Steven Wilson","Togo Igawa","Jonathan Kinsler","Anatole Taubman","Frank Witter","Megan Gay","Corinne Orr","Joe Mazza","Ludmilla Ismailow","Milka Duno","Amira Osman","Ashley Walters","Jens Neuhaus","Sesede Terziyan","Ill-Young Kim","Yuriri Naka","Oscar Ortega Sánchez","Fang Yu","Narges Rashidi","Andrés Cantor"],
+    "director": ["Lilly Wachowski","Lana Wachowski"],
+    "genre": ["Famiglia","Azione","Avventura","Commedia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!6sVSnaCY!EIccxh-i5t-1lT2JhqHC0CDa6VU7oG01dya_gWMuSJc"
         }
-    ],
-    "title": "Speed Racer",
-    "tmdb_id": 7459,
-    "year": "2008"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Sho Sakurai",
-        "Saki Fukuda",
-        "Kyoko Fukada",
-        "Kendô Kobayashi",
-        "Katsuhisa Namase",
-        "Kouichi Yamadera",
-        "Sadao Abe",
-        "Shinichi Hatori",
-        "Shingo Ippongi",
-        "Anri Okamoto",
-        "Ayumu Saitô",
-        "Miyu Uehara"
-    ],
-    "director": [
-        "Takashi Miike"
-    ],
-    "genre": [
-        "Azione",
-        "Commedia"
-    ],
+    "plot":"Ganchan e la sua ragazza Janet costruiscono straordinari robot e quando il mondo è in pericolo si trasformano nei supereroi Yattaman. L'occasione per una nuova impresa si presenta quando la giovane Shoko chiede il loro aiuto per ritrovare il padre, scomparso in Egitto mentre era sulle tracce di uno dei quattro frammenti della potente Pietra Dokrostone. Qualcun altro è infatti alla ricerca della mitica Pietra. Si tratta degli acerrimi nemici degli Yattaman: il trio Drombo, composto dalla bellissima e perfida Miss Dronjo, e dai suoi tirapiedi Boyakki e Tonzula. I Drombo, con l'aiuto del misterioso Dottor Dokrobei ingaggiano con gli Yattaman una dura battaglia per il possesso della Dokrostone... e per il destino del mondo.",
+    "title": "Yattaman - Il film",
+    "tmdb_id": 24561,
+    "year": "2009",
+    "saga": "Live Action",
+    "actors": ["Sho Sakurai","Saki Fukuda","Kyoko Fukada","Kendô Kobayashi","Katsuhisa Namase","Kouichi Yamadera","Sadao Abe","Shinichi Hatori","Shingo Ippongi","Anri Okamoto","Ayumu Saitô","Miyu Uehara"],
+    "director": ["Takashi Miike"],
+    "genre": ["Azione","Commedia"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!eE13GY7A!RWOWhBN_DWyLclXK6_9HeCQNMJWqpuQCpyNDbQk2KzU"
         }
-    ],
-    "title": "Yattaman - Il film",
-    "tmdb_id": 24561,
-    "year": "2009"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Kang Dong-won",
-        "Han Hyo-joo",
-        "Jung Woo-sung",
-        "Han Ye-ri",
-        "Kim Mu-yeol",
-        "Choi Min-ho",
-        "Jung Won-joong",
-        "Lee Dong-ha",
-        "Park Byung-eun",
-        "Choi Jin-ho",
-        "Kim Pub-lae",
-        "Lee Je-yeon",
-        "Shin Eun-soo",
-        "Huh Joon-ho",
-        "Lee Seol‑gu",
-        "Jang Won-hyeong",
-        "Johnny Yong Bosch",
-        "Erika Ishii",
-        "Jennifer Yun"
-    ],
-    "director": [
-        "Kim Jee-woon"
-    ],
-    "genre": [
-        "Fantascienza",
-        "Azione",
-        "Thriller",
-        "Dramma"
-    ],
+    "plot":"Nel 2029 Illang, squadra scelta della polizia, affronta un gruppo terroristico contrario alla riunificazione tra le due Coree. Ma forse questo non è l'unico avversario.",
+    "title": "Illang - Uomini e lupi",
+    "tmdb_id": 467824,
+    "year": "2018",
+    "saga": "Live Action",
+    "actors": ["Kang Dong-won","Han Hyo-joo","Jung Woo-sung","Han Ye-ri","Kim Mu-yeol","Choi Min-ho","Jung Won-joong","Lee Dong-ha","Park Byung-eun","Choi Jin-ho","Kim Pub-lae","Lee Je-yeon","Shin Eun-soo","Huh Joon-ho","Lee Seol‑gu","Jang Won-hyeong","Johnny Yong Bosch","Erika Ishii","Jennifer Yun"],
+    "director": ["Kim Jee-woon"],
+    "genre": ["Fantascienza","Azione","Thriller","Dramma"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!WxUUUapS!CyHjQfdhhc0yz6oBkgHwzvC_o1LXMMSZEIFG7FXHIx8"
         }
-    ],
-    "title": "Illang - Uomini e lupi",
-    "tmdb_id": 467824,
-    "year": "2018"
+    ]
 },
 {
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Atsuko Tanaka",
-        "Akio Otsuka",
-        "Iemasa Kayumi",
-        "Kouichi Yamadera",
-        "Yutaka Nakano",
-        "Tesshou Genda",
-        "Naruki Masahisa",
-        "Masato Yamanouchi",
-        "Mitsuru Miyamoto",
-        "Kazuhiro Yamaji",
-        "Shigeru Chiba",
-        "Hiroshi Yanaka",
-        "Ginzô Matsuo",
-        "Takashi Matsuyama",
-        "Sanryô Odaka",
-        "Atsuko Hayashida",
-        "Toshiki Kameyama",
-        "Atsushi Goto",
-        "Maaya Sakamoto",
-        "Masamichi Sato",
-        "Tamio Ohki",
-        "Shinji Ogawa",
-        "Yuji Ueda"
-    ],
-    "director": [
-        "Mamoru Oshii"
-    ],
-    "genre": [
-        "Azione",
-        "Animazione",
-        "Fantascienza"
-    ],
+    "plot":"Tokyo, 2029. Le reti telematiche controllano tutti i meccanismi economici e di produzione, i creatori di software sono una delle risorse indispensabili delle grandi potenze mondiali, e gli Hackers informatici rappresentano una risorsa fondamentale per le grandi organizzazioni criminali, adattatesi alla rivoluzione digitale che ha invaso il mondo. In questo mondo, i cyborgs sono stati in grado di infrangere i limiti degli esseri umani e si sono imposti, grazie ai loro impianti bionici, in ogni settore della vita quotidiana, superiori a semplici androidi, perchè mantengono ancora l'essenza (lo spirito) della razza umana.",
+    "title": "Ghost in the Shell - Lo Spirito nel Guscio",
+    "tmdb_id": 9323,
+    "year": "1995",
+    "saga": "Film tratti da anime",
+    "actors": ["Atsuko Tanaka","Akio Otsuka","Iemasa Kayumi","Kouichi Yamadera","Yutaka Nakano","Tesshou Genda","Naruki Masahisa","Masato Yamanouchi","Mitsuru Miyamoto","Kazuhiro Yamaji","Shigeru Chiba","Hiroshi Yanaka","Ginzô Matsuo","Takashi Matsuyama","Sanryô Odaka","Atsuko Hayashida","Toshiki Kameyama","Atsushi Goto","Maaya Sakamoto","Masamichi Sato","Tamio Ohki","Shinji Ogawa","Yuji Ueda"],
+    "director": ["Mamoru Oshii"],
+    "genre": ["Azione","Animazione","Fantascienza"],
     "links": [
         {
             "quality": "640",
             "url": "https://mega.nz/#!StdEhYxb!dHCQaqVbd-gkR-lgxrsFwUbMdz75OI2qaOd3yJuaDJI"
         }
-    ],
-    "title": "Ghost in the Shell - Lo Spirito nel Guscio",
-    "tmdb_id": 9323,
-    "year": "1995"
+    ]
 },
 {
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Atsuko Tanaka",
-        "Akio Otsuka",
-        "Kouichi Yamadera",
-        "Tamio Ohki",
-        "Yutaka Nakano",
-        "Naoto Takenaka",
-        "Gou Aoba",
-        "Eisuke Asakura",
-        "Yuzuru Fujimoto",
-        "Emiko Fuku",
-        "Masao Harada",
-        "Minoru Hirano",
-        "Hiroaki Hirata",
-        "Katsunosuke Hori",
-        "Sukekiyo Kameyama",
-        "Eriko Kigawa",
-        "Hiroyuki Kinosha",
-        "Shuji Kishida",
-        "Kenichi Mochizuki",
-        "Sumi Mutou",
-        "Ryûji Nakagi",
-        "Yasushi Niko",
-        "Yuu Sugimoto",
-        "Fumihiko Tachiki",
-        "Masaki Terasoma",
-        "Akino Watanabe",
-        "Makoto Yasumura"
-    ],
-    "director": [
-        "Mamoru Oshii"
-    ],
-    "genre": [
-        "Animazione",
-        "Dramma",
-        "Fantascienza"
-    ],
+    "plot":"Anno 2032. Le differenze tra gli esseri umani e le macchine sono quasi scomparse. Gli umani hanno dimenticato le loro origini e quelli che restano convivono con i cyborg (umani che esistono in corpi interamente meccanici) e dolls (robot privi di qualsiasi elemento di umanità). Batou è un cyborg. Le uniche tracce di umanità risiedono nel suo cervello e nel ricordo di una donna chiamata Mayor. Batou sta indagando su una nuova specie di creature i gynoid. Esseri dall'aspetto femminile creati per la soddisfazione del desiderio sessuale che uccidono i loro padroni. La detection lo indurrà a porsi domande sul suo essere più profondo.",
+    "title": "Ghost in the Shell - L'attacco dei cyborg",
+    "tmdb_id": 12140,
+    "year": "2004",
+    "saga": "Film tratti da anime",
+    "actors": ["Atsuko Tanaka","Akio Otsuka","Kouichi Yamadera","Tamio Ohki","Yutaka Nakano","Naoto Takenaka","Gou Aoba","Eisuke Asakura","Yuzuru Fujimoto","Emiko Fuku","Masao Harada","Minoru Hirano","Hiroaki Hirata","Katsunosuke Hori","Sukekiyo Kameyama","Eriko Kigawa","Hiroyuki Kinosha","Shuji Kishida","Kenichi Mochizuki","Sumi Mutou","Ryûji Nakagi","Yasushi Niko","Yuu Sugimoto","Fumihiko Tachiki","Masaki Terasoma","Akino Watanabe","Makoto Yasumura"],
+    "director": ["Mamoru Oshii"],
+    "genre": ["Animazione","Dramma","Fantascienza"],
     "links": [
         {
             "quality": "720",
             "url": "https://mega.nz/#!SlFygKyS!wWwUd9RoOd22rwiiDFTlJq2g2NbAb3FMkZJxILneYe0"
         }
-    ],
-    "title": "Ghost in the Shell - L'attacco dei cyborg",
-    "tmdb_id": 12140,
-    "year": "2004"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Scarlett Johansson",
-        "Takeshi Kitano",
-        "Michael Pitt",
-        "Pilou Asbæk",
-        "Chin Han",
-        "Juliette Binoche",
-        "Peter Ferdinando",
-        "Rila Fukushima",
-        "Daniel Henshall",
-        "Yutaka Izumihara",
-        "Anamaria Marinca",
-        "Kaori Momoi",
-        "Lasarus Ratuere",
-        "Danusia Samal",
-        "Tawanda Manyimo",
-        "Mana Hira Davis",
-        "Erroll Anderson",
-        "Kai Fung Rieck",
-        "Andrew Stehlin",
-        "Matthias Luafutu",
-        "John Luafutu",
-        "Kaori Yamamoto",
-        "Andrew Morris",
-        "Adwoa Aboah",
-        "Christopher Obi",
-        "Makoto Murata",
-        "Natarsha Orsman",
-        "Joseph Naufahu",
-        "Vinnie Bennett",
-        "Pete Teo",
-        "Xavier Horan",
-        "Allan Henry",
-        "Bowie Chan Wing Wai",
-        "Kirt Kishita",
-        "David Johnson Wood",
-        "Kate Venables",
-        "Emma Coppersmith",
-        "Tanya Drewery",
-        "Hannah Tasker-Poland",
-        "Jacqueline Lee Geurts",
-        "Shinji Ikefuji",
-        "Michael Wincott",
-        "Yuta Kazama",
-        "Tricky",
-        "Philippe Joly"
-    ],
-    "director": [
-        "Rupert Sanders"
-    ],
-    "genre": [
-        "Azione",
-        "Fantascienza",
-        "Thriller",
-        "Dramma"
-    ],
-    "links": [
-        {
-            "quality": "",
-            "url": ""
-        }
-    ],
+    "plot":"Major, un singolare ibrido umano-cyborg delle operazioni speciali, è a capo della task force d’elite Section 9. Dedicato a contrastare i più pericolosi criminali ed estremisti, Section 9 affronta un nemico il cui unico obiettivo è eliminare gli sviluppi di cyber tecnologia della Hanka Robotic.",
     "title": "Ghost in the Shell",
     "tmdb_id": 315837,
-    "year": "2017"
+    "year": "2017",
+    "saga": "Live Action",
+    "actors": ["Scarlett Johansson","Takeshi Kitano","Michael Pitt","Pilou Asbæk","Chin Han","Juliette Binoche","Peter Ferdinando","Rila Fukushima","Daniel Henshall","Yutaka Izumihara","Anamaria Marinca","Kaori Momoi","Lasarus Ratuere","Danusia Samal","Tawanda Manyimo","Mana Hira Davis","Erroll Anderson","Kai Fung Rieck","Andrew Stehlin","Matthias Luafutu","John Luafutu","Kaori Yamamoto","Andrew Morris","Adwoa Aboah","Christopher Obi","Makoto Murata","Natarsha Orsman","Joseph Naufahu","Vinnie Bennett","Pete Teo","Xavier Horan","Allan Henry","Bowie Chan Wing Wai","Kirt Kishita","David Johnson Wood","Kate Venables","Emma Coppersmith","Tanya Drewery","Hannah Tasker-Poland","Jacqueline Lee Geurts","Shinji Ikefuji","Michael Wincott","Yuta Kazama","Tricky","Philippe Joly"],
+    "director": ["Rupert Sanders"],
+    "genre": ["Azione","Fantascienza","Thriller","Dramma"],
+    "links": [
+        {
+            "quality": "BDRip 1080p - AC3 iTA ENG",
+            "url": "http://51.77.159.233:30299/__cef5d61d3d6a7441579ad7bd23a512b3"
+        }
+    ]
 },
 {
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Romi Park",
-        "Rie Kugimiya",
-        "Toru Okawa",
-        "Megumi Toyoguchi",
-        "Miyu Sawai",
-        "Michiko Neya",
-        "Kazuko Katô",
-        "Hidekatsu Shibata",
-        "Masane Tsukayama",
-        "Rikiya Koyama",
-        "Mayumi Yamaguchi",
-        "Nana Mizuki",
-        "Masashi Ebara",
-        "Yasunori Matsumoto",
-        "Takehiro Murozono",
-        "Tomoyuki Shimura",
-        "Tetsu Shiratori",
-        "Naomi Wakabayashi",
-        "Houko Kuwashima",
-        "Keiji Fujiwara",
-        "Kotono Mitsuishi",
-        "Shun Oguri",
-        "Miyoko Asô",
-        "Mitsuki Saiga",
-        "Masao Harada",
-        "Seiji Sasaki",
-        "Toshio Furukawa",
-        "Yasuhiro Takato"
-    ],
-    "director": [
-        "Seiji Mizushima"
-    ],
-    "genre": [
-        "Azione",
-        "Avventura",
-        "Animazione",
-        "Dramma"
-    ],
+    "plot":"Un Alchimista di Stato chiamato Roy Mustang arrivo' dopo la trasmutazione umana fallita di Ed e Al. Avendo intuito la bravura di Edward, Mustang suggeri' che il modo migliore per i due ragazzi di raggiungere il loro scopo era di diventare Alchimisti di Stato e lavorare per lui. Spronato dalla proposta dell'uomo, Edward si propose di diventare un Alchimista di Stato, cosi' da poter sfruttare le risorse disponibili agli Alchimisti di Stato e trovare un modo di recuperare quello che lui e Alphonse avevano perso. Alla fine i due fratelli vengono a conoscenza della Pietra filosofale, e incominciano a cercarla sicuri che quella avrebbe potuto fargli recuperare i loro corpi. Continuando le loro ricerche vengono a sapere segreti sulla Pietra Filosofale che non avrebbero mai voluto scoprire, disperati cercano inutilmente di trovare altri metodi per creare la pietra.",
+    "title": "Fullmetal Alchemist - The Movie: Il conquistatore di Shamballa",
+    "tmdb_id": 14003,
+    "year": "2005",
+    "saga": "Film tratti da anime",
+    "actors": ["Romi Park","Rie Kugimiya","Toru Okawa","Megumi Toyoguchi","Miyu Sawai","Michiko Neya","Kazuko Katô","Hidekatsu Shibata","Masane Tsukayama","Rikiya Koyama","Mayumi Yamaguchi","Nana Mizuki","Masashi Ebara","Yasunori Matsumoto","Takehiro Murozono","Tomoyuki Shimura","Tetsu Shiratori","Naomi Wakabayashi","Houko Kuwashima","Keiji Fujiwara","Kotono Mitsuishi","Shun Oguri","Miyoko Asô","Mitsuki Saiga","Masao Harada","Seiji Sasaki","Toshio Furukawa","Yasuhiro Takato"],
+    "director": ["Seiji Mizushima"],
+    "genre": ["Azione","Avventura","Animazione","Dramma"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!ulN0zKgZ!a3mwpvr-kDEY6lkbOvZivAx4PAUfv_Bfr9snWvMZvX8"
         }
-    ],
-    "title": "Fullmetal Alchemist - The Movie: Il conquistatore di Shamballa",
-    "tmdb_id": 14003,
-    "year": "2005"
+    ]
 },
 {
-      "saga": "Film tratti da anime",
-    "actors": [
-        "Allison Miller",
-        "Jun Ji-hyun",
-        "Koyuki",
-        "Liam Cunningham",
-        "J.J. Feild",
-        "Yasuaki Kurata",
-        "Larry Lamb",
-        "Andrew Pleavin",
-        "Michael Byrne",
-        "Colin Salmon",
-        "Constantine Gregory",
-        "Joey Anaya",
-        "Khary Payton",
-        "Masiela Lusha",
-        "Ailish O'Connor",
-        "Luis Sabatini",
-        "Jamal Duff",
-        "Ariana Guido"
-    ],
-    "director": [
-        "Chris Nahon"
-    ],
-    "genre": [
-        "Azione",
-        "Avventura",
-        "Horror",
-        "Fantascienza",
-        "Thriller"
-    ],
+    "plot":"Un vampiro di nome Saya che fa parte di un corpo di agenti sotto copertura che dà la caccia ai demoni nel Giappone post Seconda Guerra Mondiale, viene infiltrato in una scuola militare per scoprire quale dei suoi compagni di scuola sia un demone.",
+    "title": "The Last Vampire - Creature nel buio",
+    "tmdb_id": 1450,
+    "year": "2009",
+    "saga": "Film tratti da anime",
+    "actors": ["Allison Miller","Jun Ji-hyun","Koyuki","Liam Cunningham","J.J. Feild","Yasuaki Kurata","Larry Lamb","Andrew Pleavin","Michael Byrne","Colin Salmon","Constantine Gregory","Joey Anaya","Khary Payton","Masiela Lusha","Ailish O'Connor","Luis Sabatini","Jamal Duff","Ariana Guido"],
+    "director": ["Chris Nahon"],
+    "genre": ["Azione","Avventura","Horror","Fantascienza","Thriller"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!WxESmY4D!1Rzp4dBO-vobi_EARWM6snbLo5cioSWu6fZWffFnPRc"
         }
-    ],
-    "title": "The Last Vampire - Creature nel buio",
-    "tmdb_id": 1450,
-    "year": "2009"
+    ]
 },
 {
-      "saga": "Live Action",
-    "actors": [
-        "Nat Wolff",
-        "Lakeith Stanfield",
-        "Willem Dafoe",
-        "Margaret Qualley",
-        "Shea Whigham",
-        "Paul Nakauchi",
-        "Jason Liles",
-        "Michael Shamus Wiles",
-        "Artin John",
-        "David S. Jung",
-        "Tony Ali",
-        "Christopher Britton",
-        "Masi Oka",
-        "Matthew Kevin Anderson",
-        "Barbara Beall",
-        "Lia Lam",
-        "Christian Sloan",
-        "Jessica McLeod",
-        "Cole Vigue",
-        "Olena Medwid",
-        "Paul McGillion",
-        "Eileen Pedde",
-        "Fraser Corbett",
-        "Natalie Moon",
-        "Ash Lee",
-        "Albert Nicholas",
-        "Al Miro",
-        "Arlina Rodr\u00edguez",
-        "Chris Webb",
-        "Michelle Kim",
-        "Colin Corrigan",
-        "Sarah Ziolkowski",
-        "Jack Ettlinger",
-        "Michelle Choi-Lee",
-        "Scott Seol",
-        "Beau Han Bridge",
-        "Jesse Irving",
-        "Anousha Alamian",
-        "Jesse Stretch",
-        "Artur Stofel",
-        "Shayan Moallef",
-        "DaeYoung Danny Kim",
-        "Anup Sehdev",
-        "Juanpaolo Mercado",
-        "Kyle Donaldson",
-        "Addison Gosselin"
-    ],
-    "director": [
-        "Adam Wingard"
-    ],
-    "genre": [
-        "Fantasy",
-        "Horror",
-        "Mistero",
-        "Thriller"
-    ],
+    "plot":"Grazie al ritrovamento di un quaderno soprannaturale che dona a chi lo possiede il potere di uccidere chiunque, uno studente inizia una strenua lotta contro il Male con l'intento di governare il mondo come se fosse un Dio benevolo. Ma il suo tentativo viene osteggiato dalle indagini di un detective solitario che farà di tutto per fermarlo.",
+    "title": "Death Note",
+    "tmdb_id": 351460,
+    "year": "2017",
+    "saga": "Live Action",
+    "actors": ["Nat Wolff","Lakeith Stanfield","Willem Dafoe","Margaret Qualley","Shea Whigham","Paul Nakauchi","Jason Liles","Michael Shamus Wiles","Artin John","David S. Jung","Tony Ali","Christopher Britton","Masi Oka","Matthew Kevin Anderson","Barbara Beall","Lia Lam","Christian Sloan","Jessica McLeod","Cole Vigue","Olena Medwid","Paul McGillion","Eileen Pedde","Fraser Corbett","Natalie Moon","Ash Lee","Albert Nicholas","Al Miro","Arlina Rodr\u00edguez","Chris Webb","Michelle Kim","Colin Corrigan","Sarah Ziolkowski","Jack Ettlinger","Michelle Choi-Lee","Scott Seol","Beau Han Bridge","Jesse Irving","Anousha Alamian","Jesse Stretch","Artur Stofel","Shayan Moallef","DaeYoung Danny Kim","Anup Sehdev","Juanpaolo Mercado","Kyle Donaldson","Addison Gosselin"],
+    "director": ["Adam Wingard"],
+    "genre": ["Fantasy","Horror","Mistero","Thriller"],
     "links": [
         {
             "quality": "HD",
             "url": "https://mega.nz/#!CocAiARA!tDVEZLlVpQ7u06aH5kbxJHOUccCal1X1VIRsUum70Lw"
         }
-    ],
-    "title": "Death Note",
-    "tmdb_id": 351460,
-    "year": "2017"
+    ]
 },
 {
     "plot": "Tsurikichi Sanpei è un film giapponese del 2009 diretto dal regista premio oscar Yōjirō Takita. Il film è un live action liberamente adattato dal manga omonimo in cui vengono narrate le vicende di un giovane pescatore ambizioso",
     "title": "Sampei Il Ragazzo Pescatore",
     "year": "2009",
-    "tmdb_id": "151462","saga": "Live Action",
+    "tmdb_id": "151462",
+    "saga": "Live Action",
     "director": ["Yojiro Takita"],
     "actors": ["Kenta Suga", "Takashi Tsukamoto", "Yuu Kashii", "Tao Tsuchiya", "Tougo Shimura", "Kenichirou Yasui", "Tsunehiko Watase"],
     "links": [
