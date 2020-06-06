@@ -1,0 +1,25 @@
+{
+    "menu": [
+      {
+      "plot": "In questa sezione trovate tutte le puntate dei cartoni più belli della storia.", 
+        "title": "Serie TV",
+        "link": "/ANIMAZIONE/animazione_serie.json",
+        "fanart": "",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailserie.png"
+      },
+      {
+        "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon dell precendete sezione.", 
+        "title": "Film",
+        "link": "/ANIMAZIONE/animazione_film.json",
+        "fanart": "/ANIMAZIONE/fanart_film.jpg",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailfilm.png"
+      },
+      {
+        "plot": "Qui trovate le trasposizioni con attori reali di tanti anime.",
+        "title": "Live-Action",
+        "link": "/ANIMAZIONE/animazione_film.json",
+        "fanart": "/ANIMAZIONE/fanart_live.jpg",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnaillive.png"
+      }
+    ]
+  }
