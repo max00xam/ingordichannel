@@ -3,23 +3,46 @@
       {
       "plot": "In questa sezione trovate tutte le puntate dei cartoni più belli della storia.", 
         "title": "Serie TV",
-        "link": "/ANIMAZIONE/animazione_serie.json",
+        "link": "/ANIMAZIONE/SERIE-TV/anime_cartoni.json",
         "fanart": "",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailserie.png"
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailserie.png",
+      "level2": {
+        "search":"",
+        "genre":"Genere",
+        "year":"Anno",
+        "saga":{
+          "title":"Saghe",
+          "description":"/ANIMAZIONE/SERIE-TV/description_serie.json"
+          }
       },
       {
         "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon dell precendete sezione.", 
         "title": "Film",
         "link": "/ANIMAZIONE/animazione_film.json",
         "fanart": "/ANIMAZIONE/fanart_film.jpg",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailfilm.png"
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailfilm.png",
+      "level2": {
+        "search":"",
+        "genre":"Genere",
+        "year":"Anno",
+        "saga":{
+          "title":"Saghe",
+          "description":"/ANIMAZIONE/film/description_film.json"
+          }
       },
       {
         "plot": "Qui trovate le trasposizioni con attori reali di tanti anime.",
         "title": "Live-Action",
         "link": "/ANIMAZIONE/animazione_film.json",
         "fanart": "/ANIMAZIONE/fanart_live.jpg",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnaillive.png"
+        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnaillive.png",
+      "level2": {
+        "search":"",
+        "genre":"Genere",
+        "year":"Anno",
+        "saga":{
+          "title":"Saghe",
+          "description":"/ANIMAZIONE/film/description_live.json"
       }
     ]
   }
