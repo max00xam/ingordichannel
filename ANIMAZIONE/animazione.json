@@ -14,6 +14,7 @@
           "title":"Saghe",
           "description":"/ANIMAZIONE/SERIE-TV/description_serie.json"
           }
+        }
       },
       {
         "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon dell precendete sezione.", 
@@ -29,6 +30,7 @@
           "title":"Saghe",
           "description":"/ANIMAZIONE/film/description_film.json"
           }
+        }
       },
       {
         "plot": "Qui trovate le trasposizioni con attori reali di tanti anime.",
@@ -44,5 +46,6 @@
           "title":"Saghe",
           "description":"/ANIMAZIONE/film/description_live.json"
       }
+        }
     ]
   }
