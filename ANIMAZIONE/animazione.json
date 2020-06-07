@@ -20,7 +20,7 @@
         "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon della precendete sezione.", 
         "title": "Film",
         "link": "/ANIMAZIONE/animazione_film.json",
-        "fanart": "/ANIMAZIONE/fanart_film.jpg",
+        "fanart": "/ANIMAZIONE/IMMAGINI/fanart_film.jpg",
         "thumbnail": "ANIMAZIONE/IMMAGINI/thumbnail_film.jpg",
       "level2": {
         "search":"",
@@ -36,7 +36,7 @@
         "plot": "Qui trovate le trasposizioni con attori reali di tanti anime.",
         "title": "Live-Action",
         "link": "/ANIMAZIONE/animazione_live.json",
-        "fanart": "/ANIMAZIONE/live_fanart.jpg",
+        "fanart": "/ANIMAZIONE/IMMAGINI/live_fanart.jpg",
         "thumbnail": "/ANIMAZIONE/IMMAGINI/live.jpg",
       "level2": {
         "search":"",
