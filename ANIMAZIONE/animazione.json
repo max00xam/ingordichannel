@@ -21,7 +21,7 @@
         "title": "Film",
         "link": "/ANIMAZIONE/animazione_film.json",
         "fanart": "/ANIMAZIONE/fanart_film.jpg",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI/thumbnail_film.jpg",
+        "thumbnail": "ANIMAZIONE/IMMAGINI/thumbnail_film.jpg",
       "level2": {
         "search":"",
         "genre":"Genere",
