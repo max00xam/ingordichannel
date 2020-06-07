@@ -4,8 +4,8 @@
       "plot": "In questa sezione trovate tutte le puntate dei cartoni più belli della storia.", 
         "title": "Serie TV",
         "link": "/ANIMAZIONE/SERIE-TV/anime_cartoni.json",
-        "fanart": "",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailserie.png",
+        "fanart": "/ANIMAZIONE/IMMAGINI/anime_fanart.jpg",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI/anime.jpg",
       "level2": {
         "search":"",
         "genre":"Genere",
@@ -17,11 +17,11 @@
         }
       },
       {
-        "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon dell precendete sezione.", 
+        "plot": "Questa sezione è dedicata a tutti i film basati sui cartoon della precendete sezione.", 
         "title": "Film",
         "link": "/ANIMAZIONE/animazione_film.json",
         "fanart": "/ANIMAZIONE/fanart_film.jpg",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnailfilm.png",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI/thumbnail_film.jpg",
       "level2": {
         "search":"",
         "genre":"Genere",
@@ -36,8 +36,8 @@
         "plot": "Qui trovate le trasposizioni con attori reali di tanti anime.",
         "title": "Live-Action",
         "link": "/ANIMAZIONE/animazione_live.json",
-        "fanart": "/ANIMAZIONE/fanart_live.jpg",
-        "thumbnail": "/ANIMAZIONE/IMMAGINI//thumbnaillive.png",
+        "fanart": "/ANIMAZIONE/live_fanart.jpg",
+        "thumbnail": "/ANIMAZIONE/IMMAGINI/live.jpg",
       "level2": {
         "search":"",
         "genre":"Genere",
@@ -47,5 +47,6 @@
           "description":"/ANIMAZIONE/film/description_live.json"
       }
         }
+      }
     ]
   }
