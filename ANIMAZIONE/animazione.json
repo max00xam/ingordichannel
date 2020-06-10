@@ -10,10 +10,7 @@
         "search":"",
         "genre":"Genere",
         "year":"Anno",
-        "saga":{
-          "title":"Saghe",
-          "description":"/ANIMAZIONE/SERIE-TV/description_serie.json"
-          }
+        "saga": "Saghe"
         }
       },
       {
