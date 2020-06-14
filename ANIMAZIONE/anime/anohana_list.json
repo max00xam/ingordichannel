@@ -1,0 +1,156 @@
+{
+    "episodes_list": [
+        {
+            "number":"1x1",
+            "saga":"Ano Hana",
+            "title":"I superbuster della pace",
+            "plot":"L'apparizione del fantasma della compagna di giochi Menma lascia scosso il giovane Jinta, il protagonista della serie.",
+            "genre":["Animation", "Anime", "Drama", "Fantasy"],
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/2c73a64fd527e11135bb6c61bef67d2f"
+                }
+            ]
+        },
+        {
+            "number": "1x2",
+            "saga":"Ano Hana",
+            "title":"La valorosa Menma",
+            "plot":"Jinta informa Poppo che Menma gli è apparsa chiedendogli di realizzare il suo desiderio e da buon amico lo consiglia.",
+            "genre":["Animation", "Anime", "Drama", "Fantasy" ],
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/80cd36213ad1632255e00a04956ee44a"
+                }
+            ]
+        },
+        {
+            "number":"1x3",
+            "saga":"Ano Hana",
+            "title":"Il circolo cerchiamo Menma",
+            "plot":"Jinta decide di tornare a scuola, convinto che quello sia il desiderio di Menma, mantenendo cos\u00ec la promessa fatta ad Anaru.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083699.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/24354c3f6b309a11795d18308df67b40"
+                }
+            ]
+        },
+        {
+            "number":"1x4",
+            "saga":"Ano Hana",
+            "title":"Il vestito bianco con un fiocchetto",
+            "plot":"Yukiatsu informa Jinta e gli amici di aver visto Menma. Jinta nutre dei sospetti, ma segue gli altri alla scoperta della verit\u00e0.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083700.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/26e431e071ac81f7b738fe6b3196d779"
+                }
+            ]
+        },
+        {
+            "number":"1x5",
+            "saga":"Ano Hana",
+            "title":"Il tunnel",
+            "plot":"Quando Yukiatsu si traveste fingendosi lo spirito di Menma e sconcertando gli amici, Jinta cerca di parlare al ragazzo.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083701.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/db405346f62f3e82a0f69acf362fa444"
+                }
+            ]
+        },
+        {
+            "number":"1x6",
+            "saga":"Ano Hana",
+            "title":"Dimenticami ma non dimenticarmi",
+            "plot":"Jinta decide di andare a scuola per aiutare Menma a raggiungere il Nirvana, ma la compagna teme che il suo atteggiamento spaventi gli studenti.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083702.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/764fd06dad054f9558f5e2d799de8af9"
+                }
+            ]
+        },
+        {
+            "number":"1x7",
+            "saga":"Ano Hana",
+            "title":"Il vero desiderio",
+            "plot":"Anaru fugge di casa e si nasconde, ma Jinta le fa presente che non pu\u00f2 marinare la scuola n\u00e9 scappare per sempre, costringendola a una decisione.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083703.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/dc4dc09777c138153321739ccea7254e"
+                }
+            ]
+        },
+        {
+            "number":"1x8",
+            "saga":"Ano Hana",
+            "title":"I wonder",
+            "plot":"Il padre di Menma si oppone al lancio dei fuochi d'artificio, ma Jinta cerca di convincere la madre per realizzare il desiderio della figlia.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083704.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/1a5409da0e177868c6aedaef34a5c686"
+                }
+            ]
+        },
+        {
+            "number":"1x9",
+            "saga":"Ano Hana",
+            "title":"Tutti e Menma",
+            "plot":"Anaru e gli altri si convincono dell'esistenza di Menma quando si vedono servire il pane che preparava. Yukiatsu, intanto, prova sentimenti contrastanti.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083705.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/f783240519ef78f75a44342480cee6f7"
+                }
+            ]
+        },
+        {
+            "number":"1x10",
+            "saga":"Ano Hana",
+            "title":"Fuochi d'artificio",
+            "plot":"Il desiderio di Menma sta per avverarsi, ma mentre si raccoglie in preghiera davanti a un altare buddista nota che le sue mani sono trasparenti...",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083706.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/25ee06dfaf0783a36357e9a8da225be1"
+                }
+            ]
+        },
+        {
+            "number":"1x11",
+            "saga":"Ano Hana",
+            "title":"Il fiore sbocciato quell'estate",
+            "plot":"Jinta è sbalordito dopo l'esplosione dei fuochi d'artificio. L'imbarazzo regna tra i Super Busters della Pace. Satoshi, che non sa nulla, \u00e8 soddisfatto della giornata.",
+            "genre":["Animation","Anime","Drama","Fantasy"],
+            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083707.jpg",
+            "dirctor":"Nagai Tatsuyuki",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/86fe8d555038655258ccb5ff3d724a02"
+                }
+            ]
+        }
+]
+}

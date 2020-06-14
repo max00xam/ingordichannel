@@ -1,0 +1,634 @@
+{
+    "episodes_list": [
+        {
+            "number":"1x1",
+            "saga":"Barbapapa",
+            "title":"La nascita di Barbapapa",
+            "plot":"Dal giardino di Carlotta e Francesco, Barbapap\u00e0 nasce sotto terra ed esce gigantesco appena pronto per la vita all'aperto. Ma appena i padroni di casa si accorgono dell'evento, portano l'enorme creatura allo zoo.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/410967.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/cc708319e9492ac50ab3db818607dcfc"
+                }
+            ]
+        },
+        {
+            "number":"1x2",
+            "saga":"Barbapapa",
+            "title":"Il fuoco",
+            "plot":"Potendo cambiare forma a piacimento, Barbapap\u00e0 esce dallo zoo e si impegna per salvare gli abitanti di un palazzo in citt\u00e0. Tutti allora comprendono che il grosso ospite \u00e8 generoso.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/410968.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/95ee05d29d7d8d490f4254c6fc5457ef"
+                }
+            ]
+        },
+        {
+            "number":"1x3",
+            "saga":"Barbapapa",
+            "title":"La spiaggia",
+            "plot":"Oltre a divertirsi con gli amici, Barbapap\u00e0 ostacola i marinai di una petroliera che scaricano petrolio in mare.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/410969.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/17ea280c9713c4f81c2b03febfdd7a0c"
+                }
+            ]
+        },
+        {
+            "number":"1x4",
+            "saga":"Barbapapa",
+            "title":"In viaggio",
+            "plot":"Triste e sconsolato, Barbapap\u00e0 non ride pi\u00f9. Gli manca una compagna come lui. Lo scopre il medico, che gli prescrive un viaggio per cercare un suo simile.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/410970.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/236f0552e3ee9259d7d3ade6ae5f1787"
+                }
+            ]
+        },
+        {
+            "number":"1x5",
+            "saga":"Barbapapa",
+            "title":"Il mare",
+            "plot":"Con i suoi amici, Barbapap\u00e0 approda a Londra, ma qui viene a sapere che non ci sono suoi simili. Gli consigliano per\u00f2 di andare in India, dove invece sono pi\u00f9 frequenti.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/410971.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/ae6477a26903e3df2e4cd5c1036c9c30"
+                }
+            ]
+        },
+        {
+            "number":"1x6",
+            "saga":"Barbapapa",
+            "title":"L'India",
+            "plot":"In India in treno, i ragazzi vengono a sapere che l'unico a sapere dove siano i Barbapap\u00e0 \u00e8 un uomo che vive in America. Allora Francesco e Carlotta si imbarcano.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290281.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/fb788608fbd21384271c310ae5bd3356"
+                }
+            ]
+        },
+        {
+            "number":"1x7",
+            "saga":"Barbapapa",
+            "title":"L'America",
+            "plot":"Dopo una vogata transaltantica, Barbapap\u00e0 arriva in America e il direttore di una banca di New York afferma che i Barbapap\u00e0 vivono in campagna. Arrivano cos\u00ec in elicottero nelle vicine campagne, ma qui vengono a sapere che non ce ne sono sulla Terra, ma sulla Luna.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290291.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/7b44572a4bda227a9ac8afa6ed1cfff4"
+                }
+            ]
+        },
+        {
+            "number":"1x8",
+            "saga":"Barbapapa",
+            "title":"Barbamamma",
+            "plot":"Tornati inutilmente dalla Luna, Barbapap\u00e0 scopre che la sua compagna \u00e8 proprio nel giardino di casa. Cos\u00ec, una volta conosciuta, i due si sposano e allevano anche i piccoli Barbapap\u00e0, ben sette.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290301.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/48e13691c7bcd0289009ccc71efaf737"
+                }
+            ]
+        },
+        {
+            "number":"1x9",
+            "saga":"Barbapapa",
+            "title":"Il porto DVD",
+            "plot":"Una gita in barca per tutta la famiglia. Ma il tempo promette male e cos\u00ec i barbabeb\u00e9 devono improvvisare una barbanave per evitare di naufragare.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290311.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/b89414fc9106812bf524b3907840b617"
+                }
+            ]
+        },
+        {
+            "number":"1x10",
+            "saga":"Barbapapa",
+            "title":"Il castello DVD",
+            "plot":"Per la numerosa famiglia di Barbapap\u00e0 la casetta che ha avuto per s\u00e9 \u00e8 troppo piccola. Adesso ci vuole un castello. Francesco li porta ad un vecchio edificio diasabitato",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290321.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/68d1c4519816577802105ba421823a06"
+                }
+            ]
+        },
+        {
+            "number":"1x11",
+            "saga":"Barbapapa",
+            "title":"Il problema della casa DVD",
+            "plot":"Il castello appena ristrutturato va demolito per far posto ad un condominio. Ma la famiglia \u00e8 troppo numerosa per vivere in un palazzo cos\u00ec piccolo e cos\u00ec costruisce da s\u00e9 l'edificio.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290331.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/fff8cb982eeeba4b42938226d2aa8988"
+                }
+            ]
+        },
+        {
+            "number":"1x12",
+            "saga":"Barbapapa",
+            "title":"La casa di Barbapapa' DVD",
+            "plot":"La nuova casa costruita dalla famiglia \u00e8 adatta ad ogni esigenza dei barbabeb\u00e9. Ma di nuovo appaiono le macchine distruttrici che stavolta vengono allontanate dalle armi ideate dalla famiglia.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290341.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/7a7dfa45fa7b4b483115ebea5474666b"
+                }
+            ]
+        },
+        {
+            "number":"1x13",
+            "saga":"Barbapapa",
+            "title":"Il piccolo treno",
+            "plot":"Mentre Barbamamma esce per compere, i piccoli barbabeb\u00e8 inventano un treno che li diverte, fino al rientro della madre.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290351.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/a1e36467bd8be13dbe96855e5475345a"
+                }
+            ]
+        },
+        {
+            "number":"1x14",
+            "saga":"Barbapapa",
+            "title":"Il deserto",
+            "plot":"Una visita nel deserto per Barbapap\u00e0 si rivela un'occasione per salvare gli animali dell'oasi che disseta i cammelli.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290361.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/6eb50786731c55c2efae076de7b9cc57"
+                }
+            ]
+        },
+        {
+            "number":"1x15",
+            "saga":"Barbapapa",
+            "title":"Le Belle Arti",
+            "plot":"Barbazoo ha trovato delle uova incustodite vicino al mare e adesso cerca la madre che le ha deposte. Non trovandola decide di covarle lui, ma quando si schiudono ne escono tartarughe.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290371.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/ef2554250e35504cefe4683eadeb48e4"
+                }
+            ]
+        },
+        {
+            "number":"1x16",
+            "saga":"Barbapapa",
+            "title":"Lo sport",
+            "plot":"La passione di Barbabarba \u00e8 la pittura. Purtroppo per\u00f2 i suoi dipinti non sono apprezzati, almeno fin quando trova il modo per dipingere originale.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290381.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/095a64db506066aaddc2830ba337cb35"
+                }
+            ]
+        },
+        {
+            "number":"1x17",
+            "saga":"Barbapapa",
+            "title":"Baby-sitter",
+            "plot":"I fratelli Barbaforte e Barbabravo fanno la gara in alcune discipline sportive per verificare chi \u00e8 il pi\u00f9 bravo.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290391.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/df0857f3e6706ab55f0c5bf614f47afc"
+                }
+            ]
+        },
+        {
+            "number":"1x18",
+            "saga":"Barbapapa",
+            "title":"Il microscopio",
+            "plot":"La famiglia Barbapap\u00e0 \u00e8 chiamata a fare da baby sitter alla piccola Alice. Ognuno dei fratelli si prende cura di lei.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290401.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/43dbd04a4ff08046395f8b8790b1c538"
+                }
+            ]
+        },
+        {
+            "number":"1x19",
+            "saga":"Barbapapa",
+            "title":"Il capostazione",
+            "plot":"Il giovane Barbabravo ha ideato un bel microscopio con il quale pu\u00f2 osservare l'invisibile, sognando persino una bella Barbabrava.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290411.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/7fe8ae9488ae2ba6b6851a5c1fa7a754"
+                }
+            ]
+        },
+        {
+            "number":"1x20",
+            "saga":"Barbapapa",
+            "title":"La ceramica",
+            "plot":"Il capostazione ufficiale \u00e8 in vacanza, cos\u00ec Barbapap\u00e0 viene chiamato a sostituirlo per un breve periodo. Tuttavia, dovr\u00e0 impegnarsi pi\u00f9 del previsto per fermare un treno in corsa.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290421.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/a3965eaec05d2384dd4c3a5fa495b0f8"
+                }
+            ]
+        },
+        {
+            "number":"1x21",
+            "saga":"Barbapapa",
+            "title":"Il baule",
+            "plot":"Barbabarba ha preso a costruire vasi di terracotta, ma la sua vena artistica raggiunge il massimo quando costruisce una statua di barbapap\u00e0.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290431.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/b50c8c99954f284d6e4e7f5c9d1808b8"
+                }
+            ]
+        },
+        {
+            "number":"1x22",
+            "saga":"Barbapapa",
+            "title":"L'Africa",
+            "plot":"Durante un viaggio in treno, Barbapap\u00e0 scopre gli animali imprigionati nei vagoni merci. Decide di liberarli trasformandosi in baule e portarli in Africa.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290441.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/2bbcf2cb8d2f2b985c8218c1588c8940"
+                }
+            ]
+        },
+        {
+            "number":"1x23",
+            "saga":"Barbapapa",
+            "title":"La tosatura delle pecore",
+            "plot":"Il viaggio in Africa \u00e8 lungo, ma alla fine gli animali si riuniscono alle loro famiglie e il loro amico Barbapap\u00e0 pu\u00f2 tornare a casa.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290451.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/86c192f1b114975836f075d3be45a883"
+                }
+            ]
+        },
+        {
+            "number":"1x24",
+            "saga":"Barbapapa",
+            "title":"La tessitura",
+            "plot":"E' tempo di tosare le pecore. Ci pensa Barbazoo che con Barbottina \u00e8 amante degli animali e conosce le loro esigenze.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290461.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/17d21a5a7484afe9bb6279a290093026"
+                }
+            ]
+        },
+        {
+            "number":"1x25",
+            "saga":"Barbapapa",
+            "title":"Il toro",
+            "plot":"La tessitura \u00e8 l'operazione pi\u00f9 gradita a Barbamamma: la lana viene lavorata fino a farne tessuto per i barbabeb\u00e8. Barbapap\u00e0, per errore, tosa anche Barbabarba: occorre trovare un rimedio.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290471.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/e642eb4e1e543723414cf36fede62fe5"
+                }
+            ]
+        },
+        {
+            "number":"1x26",
+            "saga":"Barbapapa",
+            "title":"Il biberon",
+            "plot":"Durante la mungitura, il toro \u00e8 arrivato aggressivo alla stalla e adesso Barbapap\u00e0 deve fargli compagnia per non lasciarlo solo nel recinto.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290481.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/84c29b40d2bfe63a483f32d4ccec0f5b"
+                }
+            ]
+        },
+        {
+            "number":"1x27",
+            "saga":"Barbapapa",
+            "title":"La metamorfosi",
+            "plot":"Mentre Barbamamma offre il latte ai vitelli, i suoi barbabeb\u00e8 si tramutano in vitellini per assaggiare lo stesso latte, ma lo scherzo dura molto poco.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290491.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/ddd24b513fbe282e65a32eeafd13f8d2"
+                }
+            ]
+        },
+        {
+            "number":"1x28",
+            "saga":"Barbapapa",
+            "title":"L'acconciatura",
+            "plot":"Le piccole barbabeb\u00e8 hanno deciso di seguire la moda e cos\u00ec rinnovano il loro abbigliamento. Purtroppo per\u00f2 devono cambiare idea quando comincia a far caldo e gli abiti sono troppo ingombranti.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290501.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/8d6daf9ca0802144f021388621296e5a"
+                }
+            ]
+        },
+        {
+            "number":"1x29",
+            "saga":"Barbapapa",
+            "title":"Gli sci",
+            "plot":"Un'invenzione di Barbaforte non funziona. Voleva pettinare il fratello Barbabarba ma la cosa non \u00e8 stata semplice. Nemmeno Barbabella riesce nell'impresa, sembra proprio dover rimanere com'\u00e8.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290511.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/9a2ffdeac83a5fd7772ab6301d104a21"
+                }
+            ]
+        },
+        {
+            "number":"1x30",
+            "saga":"Barbapapa",
+            "title":"Il pic-nic",
+            "plot":"In montagna con Barbaforte, Franscesco e Carlotta si divertono a sciare, ma la ragazza si infortuna e deve tornare a casa con la barbaslitta.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290521.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/9f04d2783e11c83d26e5411cb6fbfa1f"
+                }
+            ]
+        },
+        {
+            "number":"1x31",
+            "saga":"Barbapapa",
+            "title":"Le uova",
+            "plot":"Contro l'avanzata implacabile delle citt\u00e0, Barbapap\u00e0 ha pensato di costruire un muro per evitare che gli animali possano soccombere. Ma, purtroppo, non ha pensato all'inquinamento dell'aria. Per questo bisogna costruire una grande arca spaziale dove far partire tutti gli animali.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290531.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/88ebd6a16e6d775ca291b487599fefa3"
+                }
+            ]
+        },
+        {
+            "number":"1x32",
+            "saga":"Barbapapa",
+            "title":"La regata fix",
+            "plot":"Alcuni animali del bosco soffrono a causa dell'inquinamento urbano: un pesce un uccello e una rana devono essere curati con urgenza. Cos\u00ec i Barbapap\u00e0 allestiscono un ospedale per dargli tutto il necessario.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290541.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/70493f117cf7c02f8adc1ef42d7dda16"
+                }
+            ]
+        },
+        {
+            "number":"1x33",
+            "saga":"Barbapapa",
+            "title":"Le pulci",
+            "plot":"Barbabravo vorrebbe fare il capitano di nave, cos\u00ec ne progetta e ne costruisce una, ma il fratello Barbaforte lo vince in regata e lo convince di non aver bisogno di alcuna nave.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290551.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/1b8869395507c3ec3e2389b445952919"
+                }
+            ]
+        },
+        {
+            "number":"1x34",
+            "saga":"Barbapapa",
+            "title":"La vendemmia",
+            "plot":"Mentre sta dipingendo casa, Barbabarba conosce un riccio che ha delle pulci addosso: dovranno toglierle per evitare disagi.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290561.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/7a9e8b89a84cb4fe962411a8218e70d1"
+                }
+            ]
+        },
+        {
+            "number":"1x35",
+            "saga":"Barbapapa",
+            "title":"Gli insetti",
+            "plot":"La famiglia Barbapap\u00e0 \u00e8 impegnata nella raccolta dell'uva e Barbabravo ha ideato un sistema per spremerle con minor sforzo. Si rende conto, per\u00f2, che il sistema tradizionale funziona meglio.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290571.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/35b10623d248b61bfb36d053144f31c9"
+                }
+            ]
+        },
+        {
+            "number":"1x36",
+            "saga":"Barbapapa",
+            "title":"La macchina",
+            "plot":"Barbapap\u00e0 deve insegnare a Barbazoo di lavare la frutta prima di mangiarla, per evitare che si nascondano degli insetti all'interno.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290581.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/722a80edf9af4df1b7594f40642ea340"
+                }
+            ]
+        },
+        {
+            "number":"1x37",
+            "saga":"Barbapapa",
+            "title":"Fotografie di moda",
+            "plot":null,
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290591.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/130444031349939c8beddd1cc272a87b"
+                }
+            ]
+        },
+        {
+            "number":"1x38",
+            "saga":"Barbapapa",
+            "title":"Il concerto",
+            "plot":"Dopo aver visto le foto scattate da Barbabravo, anche Barbalalla vuole essere ripresa e apparire sulle riviste di moda, ma dopo aver provato non ottiene il successo sperato.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290601.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/ea1c07d9f11807f0dc4d58ce59269173"
+                }
+            ]
+        },
+        {
+            "number":"1x39",
+            "saga":"Barbapapa",
+            "title":"L'anniversario",
+            "plot":"Al suono dell'arpa di Barbalalla inizia un concerto dove ogni membro della famiglia suona uno strumento. Anche Barbapap\u00e0 si improvvisa pianoforte.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290611.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/95e56dfc0c01716a2fcb793880f58cee"
+                }
+            ]
+        },
+        {
+            "number":"1x40",
+            "saga":"Barbapapa",
+            "title":"L'alpinista",
+            "plot":"E' il compleanno di Barbapap\u00e0. Barbamamma ha pensato di organizzare una festa in suo onore con una torta con la panna che i figli l'aiutano a preparare.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290621.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/42aa707c74cf0831222e9fc827765cc7"
+                }
+            ]
+        },
+        {
+            "number":"1x41",
+            "saga":"Barbapapa",
+            "title":"Il bosco",
+            "plot":"Una gita in montagna durante una bellissima giornata. Ma il cagnolino Angelo si \u00e8 perso e Barbaforte deve scalare la montagna per riprenderlo.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290631.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/f7dc0a9383807573fa8d1873be855d05"
+                }
+            ]
+        },
+        {
+            "number":"1x42",
+            "saga":"Barbapapa",
+            "title":"La caccia",
+            "plot":"Il bosco dei Barbapap\u00e0 \u00e8 pieno di animali, ma la caccia \u00e8 vietata. Nonostante questo, un gruppo di cacciatori a cavallo cercano lo stesso di trovare prede. Barbapap\u00e0 deve impedirlo.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290641.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/97e4b201bcc99ab709c5e0a45a183507"
+                }
+            ]
+        },
+        {
+            "number":"1x43",
+            "saga":"Barbapapa",
+            "title":"Il salvataggio",
+            "plot":"Una scampagnata nei boschi della zona per Barbazoo si rivela la fine del suo sogno: gli uomini stanno costruendo dove prima c'erano solo alberi e vegetazione.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290651.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/cc1b836f8f1104fdf86f43c7f91e6017"
+                }
+            ]
+        },
+        {
+            "number":"1x44",
+            "saga":"Barbapapa",
+            "title":"Inquinamento",
+            "plot":null,
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290661.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/32ee83bc8803562f17f9f8ab6b24ad45"
+                }
+            ]
+        },
+        {
+            "number":"1x45",
+            "saga":"Barbapapa",
+            "title":"Ritorno sulla Terra",
+            "plot":"Mentre atterrano sul nuovo pianeta, Barbapap\u00e0 osserva cosa avviene sulla Terra e quando \u00e8 certo che il pianeta \u00e8 stato ripulito dall'inquinamento, pu\u00f2 tornare con tutti gli animali in una festa collettiva organizzata per salutare il loro rientro.",
+            "genre":["Animation","Children"],
+            "tumbnail":"https://api.thetvdb.com/episodes/80397/1290671.jpg",
+            "dirctor":"",
+            "links":[
+                {
+                    "url":"http://51.77.159.233:30299/8d11389abc610aae10e19d84db7a4a96"
+                }
+            ]
+        }
+    ]
+}
