@@ -7,7 +7,7 @@
         "year": "2011",
         "tmdb_id": "39434",
         "genre":["Animazione", "Dramma", "Fantasia"],
-        "links": "/ANIMAZIONE/anime/anohana_list.json"
+        "url": "/ANIMAZIONE/anime/anohana_list.json"
       },
       {
         "plot": "Barbapapà (Barbapapa) è una serie a fumetti creata da Annette Tison e Talus Taylor, pubblicata in Francia nel 1970; Barbapapà è il nome del protagonista della serie, e per estensione di tutta la sua famiglia (Les barbapapas): il nome del protagonista deriva dall'espressione francese Barbe à papa, che significa \"barba di papà\", così come viene chiamato lo zucchero filato. Dal fumetto è stata successivamente ricavata Barbapapà, una serie televisiva animazione, realizzata nel 1974 e uscita in Italia",
@@ -16,7 +16,7 @@
         "year": "1974",
         "tmdb_id": "65136",
         "genre":["Animazione", "Bambini"],
-        "links": "/ANIMAZIONE/anime/barbapapa_list.json"
+        "url": "/ANIMAZIONE/anime/barbapapa_list.json"
       },
       {
         "plot": "Capitan Harlock è un manga di fantascienza scritto e illustrato da Leiji Matsumoto, serializzato dalla Akita Shoten dal 1977 al 1979. Il manga, che in Italia fu pubblicato interamente solo nel 2001 dalla Panini Comics, fu adattato in una serie televisiva animazione diretta da Rintarō e prodotta dalla Toei Animazione. La serie fu trasmessa in Giappone su TV Asahi dal 1978 al 1979, mentre in Italia fu trasmessa su Rai 2 nel 1979. Dalla serie originale sono derivate molte opere di svariata natura, a cui nella maggior parte dei casi ha collaborato lo stesso Matsumoto. L'ultima di queste è il film d'animazione al computer Capitan Harlock (2013). La serie segue l'omonimo protagonista, un emarginato diventato pirata spaziale dopo essersi ribellato contro il governo della Terra e l'apatia generale dell'umanità.",
@@ -25,7 +25,7 @@
         "year": "1978",
         "tmdb_id": "31714",
         "genre":["Azione & Avventura", "Animazione", "Fantascienza & Fantasia"],
-        "links": "/ANIMAZIONE/anime/harlock_list.json"
+        "url": "/ANIMAZIONE/anime/harlock_list.json"
       },
       {
         "plot": "Lo studente Yusaku Godai tenta invano di studiare per l'esame d'ammissione all'università, ma è esasperato dai dispetti e dalla confusione provocati dagli strambi inquilini della pensione in cui soggiorna. E' quasi deciso ad andarsene, ma ecco che arriva un validissimo motivo per restare in quell'assurdo luogo: la nuova amministratrice della pensione, Kyoko Otonashi, giovane e bella vedova di cui Godai si innamora immediatamente.",
@@ -34,7 +34,7 @@
         "year": "1986",
         "tmdb_id": "43018",
         "genre":["Animazione","Commedia","Dramma","Romance"],
-        "links": "/ANIMAZIONE/anime/kyoko_list.json"
+        "url": "/ANIMAZIONE/anime/kyoko_list.json"
       },
       {
         "plot": "Molto tempo fa in montagna, un maestro di arti marziali conosciuto come Gohan ha scoperto uno strano bambino il quale diede il nome di Goku. Gohan lo ha cresciuto e addestrato nelle arti marziali fino alla morte. Il ragazzo molto giovane e molto forte è cresciuto per conto suo. Poi un giorno, Goku ha incontrato una ragazza di nome Bulma, la cui ricerca delle sfere del drago ha portata a casa di Goku. Insieme, sono partiti per trovare tutte le sette sfere del drago in un'avventura che avrebbe cambiato la vita di Goku per sempre.",
@@ -43,7 +43,7 @@
         "year": "1986",
         "tmdb_id": "12609",
         "genre":["Azione","Avventura","Animazione","Animazione","Bambini","Fantasia"],
-        "links": "/ANIMAZIONE/anime/ball_list.json"
+        "url": "/ANIMAZIONE/anime/ball_list.json"
       },
       {
         "plot": "Dragon Ball Z narra le avventure di Goku, ormai divenuto adulto, il quale si è sposato con Chichi e da cui ha avuto due figli, Gohan e, successivamente, Goten. Con il proseguire della serie e delle avventure, aumentano sia gli avversari sia la loro potenza, e le battaglie che ne derivano causano un allontanamento sempre maggiore da quella che era la base della storia in Dragon Ball, ovvero la ricerca delle sfere del drago. Si privilegiano così la crescita dei personaggi e il susseguirsi degli scontri, affidandosi a una trama rivelatasi di enorme successo. La serie copre un arco narrativo di 22 anni, partendo dall'attacco di Radish e concludendosi con la partenza di Goku allo scopo di allenare Ub in occasione del 28º Torneo Tenkaichi.",
@@ -52,7 +52,7 @@
         "year": "1989",
         "tmdb_id": "12971",
         "genre":["Azione", "Avventura", "Animazione", "Fantasia"],
-        "links": "/ANIMAZIONE/anime/ballz_list.json"
+        "url": "/ANIMAZIONE/anime/ballz_list.json"
       },
       {
         "plot": "La storia si svolge cinque anni dopo gli avvenimenti di Dragon Ball Z, e si conclude a 40 anni dal primo incontro tra Goku e Bulma, con Goku ormai cinquantaduenne. La storia inizia con il ritorno di Goku dall'allenamento con Ub, reincarnazione del Majin Bu originale, con cui il sayan era partito alla fine della serie Z. Tornato bambino a causa di un desiderio mal formulato da parte di Pilaf a Red Shenron, Goku vive nuove avventure in compagnia della nipote Pan e di Trunks e affronta nuovi nemici per garantire la pace sulla Terra.",
@@ -61,7 +61,7 @@
         "year": "1996",
         "tmdb_id": "12697",
         "genre":["Azione", "Avventura", "Animazione", "Animazione"],
-        "links": "/ANIMAZIONE/anime/ballgt_list.json"
+        "url": "/ANIMAZIONE/anime/ballgt_list.json"
       },
       {
         "plot": "Creata da Albert Barillé, è composta da 26 episodi di 25 minuti ed è stata trasmessa per la prima volta nel 1987 da France 3 in Francia e nello stesso anno in Svizzera dalla Radiotelevisione svizzera di lingua italiana. In Italia è stato messo in onda su Italia 1, su Boing e su Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai globuli bianchi alle vitamine, ai componenti del DNA.",
@@ -70,7 +70,7 @@
         "year": "1987",
         "tmdb_id": "2632",
         "genre":["Animazione","Bambini"],
-        "links": "/ANIMAZIONE/anime/corpoumano_list.json"
+        "url": "/ANIMAZIONE/anime/corpoumano_list.json"
       },
       {
         "plot": "Flone Robinson (Flo) è una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello più piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che è molto affezionata a Flo ed è per lei quasi una seconda madre.  Ernst è un abile medico, ma soprattutto è un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare là la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessità della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non può partire per motivi personali e questo distacco peserà molto a Flo, che continuerà a pensare a lei con nostalgia e a sognarla spesso.",
@@ -79,7 +79,7 @@
         "year": "1981",
         "tmdb_id": "37799",
         "genre":["Animazione", "Bambini"],
-        "links": "/ANIMAZIONE/anime/robison_list.json"
+        "url": "/ANIMAZIONE/anime/robison_list.json"
       },
       {
         "plot": "Georgie è un animazione del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
@@ -88,7 +88,7 @@
         "year": "1983",
         "tmdb_id": "36664",
         "genre":["Animazione", "Dramma"],
-        "links": "/ANIMAZIONE/anime/georgie_list.json"
+        "url": "/ANIMAZIONE/anime/georgie_list.json"
       },
       {
         "plot": "Il professor Shiba, noto scienziato giapponese, durante una ricerca archeologica, scopre una antica campana di bronzo appartenuta all'antico popolo Yamatai, soggetto alla perfida regina Himika. Una popolazione che ha sempre fatto come regola di vita la sopraffazione dell'uomo sull'uomo. Il popolo Yamatai non si è estinto, si è ibernato nella roccia in attesa di ritornare in vita: solo la magica campana di bronzo gli permetterebbe di conquistare il mondo: per questo il professore decide di nascondere la campana e approfittando di un grave incidente di laboratorio in cui viene disgraziatamente coinvolto suo figlio Hiroshi, gli miniaturizza nel petto la campana, rendendolo invulnerabile.",
@@ -97,7 +97,7 @@
         "year": "1975",
         "tmdb_id": "9152",
         "genre":["Animazione"],
-        "links": "/ANIMAZIONE/anime/jeeg_list.json"
+        "url": "/ANIMAZIONE/anime/jeeg_list.json"
       },
       {
         "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade però immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'è da questa ragazza più grande, la quale è oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volontà i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei più prestigiosi, e così realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento.  Quando la squadra giungerà ad avere un nuovo allenatore, questi s'accorgerà immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
@@ -106,7 +106,7 @@
         "year": "1973",
         "tmdb_id": "46419",
         "genre":["Dramma", "Animazione"],
-        "links": "/ANIMAZIONE/anime/jenny_list.json"
+        "url": "/ANIMAZIONE/anime/jenny_list.json"
       },
       {
         "plot": "La storia è ambientata nel XVII secolo. Jolanda è l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, città del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metterà però alla ricerca del tesoro, e Jolanda per contrastarlo entrerà a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
@@ -115,7 +115,7 @@
         "year": "1999",
         "tmdb_id": "96080",
         "genre":["Animazione", "Azione & Avventura"],
-        "links": "/ANIMAZIONE/anime/jolanda_list.json"
+        "url": "/ANIMAZIONE/anime/jolanda_list.json"
       },
       {
         "plot": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civiltà e la più totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ciò che incontrano. In questo scenario si muove Kenshiro, 64° successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verrà rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
@@ -124,7 +124,7 @@
         "year": "1984",
         "tmdb_id": "56387",
         "genre":["Animazione", "Azione & Avventura"],
-        "links": "/ANIMAZIONE/anime/ken_list.json"
+        "url": "/ANIMAZIONE/anime/ken_list.json"
       },
       {
         "plot": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara. La serie è ambientata in Francia, negli ultimi anni dell'Ancien Régime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
@@ -133,7 +133,7 @@
         "year": "1979",
         "tmdb_id": "32676",
         "genre":["Dramma", "Animazione"],
-        "links": "/ANIMAZIONE/anime/oscar_list.json"
+        "url": "/ANIMAZIONE/anime/oscar_list.json"
       },
       {
         "plot": "L'incantevole Creamy è una serie televisiva animazione di genere mahō shōjo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove è considerata uno dei cartoni animati di maggior successo. L'animazione gode anche di una trasposizione manga, distribuita dalla Kōdansha parallelamente alla trasmissione. Tokyo - 1º luglio 1983, quartiere di Kurimigaoka. Yū Morisawa, bambina vivace, fantasiosa e piena di sogni, grazie a queste sue qualità riesce a scorgere nel cielo un'arca di cristallo, che pochissime altre persone al mondo sembrano riuscire a vedere. Il folletto Pinopino, proveniente dal pianeta Stella Piumata, per ringraziare Yū di aver liberato l'arca da una tempesta di sogni, le dona un medaglione magico (a forma di portacipria) che le consentirà di avere poteri fantastici. Questo regalo, l'avverte Pinopino, dovrà essere restituito dopo un anno. Lo strano esserino lascia sulla Terra anche due creature della Stella Piumata, Posi e Nega, dalle sembianze di due gattini, che veglieranno su Yū e l'aiuteranno a usare i suoi nuovi poteri...",
@@ -142,7 +142,7 @@
         "year": "1983",
         "tmdb_id": "35529",
         "genre":["Animazione"],
-        "links": "/ANIMAZIONE/anime/creamy_list.json"
+        "url": "/ANIMAZIONE/anime/creamy_list.json"
       },
       {
         "plot": "Sullo sfondo dell'America del 1700 s'intrecciano le storie di tre guerrieri, due Mohicani e un bianco cresciuto tra gli indiani, e di due giovani inglesi, Cora ed Alice, figlie del colonnello Munro, uniti dal destino nell'arduo viaggio verso Fort Henry.",
@@ -152,7 +152,7 @@
         "genre":["Avventura", "Animazione"],
         "fanart": "/ANIMAZIONE/IMMAGINI/mohicani_fanart.jpg",
         "thumbnail": "/ANIMAZIONE/IMMAGINI/mohicani.jpg",
-        "links": "/ANIMAZIONE/anime/mohicani_list.json"
+        "url": "/ANIMAZIONE/anime/mohicani_list.json"
       },
       {
         "plot": "Naoto Date, un giovane orfano dopo la Seconda guerra mondiale, scappa dall'orfanotrofio per diventare forte \"come una tigre\" ed avere la forza, da grande, di combattere le ingiustizie causate dalla sua condizione sociale. Entra quindi nelle spire dell’organizzazione criminale \"Tana delle Tigri\" dove, assieme ad altri orfanelli, viene allenato in modo disumano perché diventi un abile quanto spietato wrestler da mandare sui ring di tutto il mondo; per ogni incontro disputato, la Tana dovrà ricevere la metà del compenso del wrestler. Ma Naoto Date/Tiger Mask, tornato dopo dieci anni al suo orfanotrofio in Giappone, si ribellerà a tale obbligo: dopo aver deciso di aiutare tutti gli orfani come lui con il denaro da destinare ai suoi ex-capi, inizia la carriera da lottatore onesto. Comincia così un’interminabile serie di incontri mortali contro i sicari di Tana delle Tigri che cercheranno in tutti i modi di punire il suo tradimento.",
@@ -161,7 +161,7 @@
         "year": "1969",
         "tmdb_id": "25114",
         "genre":["Animazione", "Dramma"],
-        "links": "/ANIMAZIONE/anime/tigre_list.json"
+        "url": "/ANIMAZIONE/anime/tigre_list.json"
       },
       {
         "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Québec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Così formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
@@ -170,7 +170,7 @@
         "year": "2003",
         "tmdb_id": "140",
         "genre":["Azione & Avventura","Fantascienza & Fantasia", "Animazione"],
-        "links": "/ANIMAZIONE/anime/martin_list.json"
+        "url": "/ANIMAZIONE/anime/martin_list.json"
       },
       {
         "plot": "Kozue Ayuhara (Mimì Ayuhara nell'adattamento italiano) è una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilità iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mimì scoprirà presto che la strada verso il successo è irta di ostacoli (stress, incompatibilità personali ed altri dilemmi). Mimì dovrà percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscirà comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
@@ -178,7 +178,7 @@
         "year": "1969",
         "tmdb_id": "46348",
         "genre":["Animazione", "Dramma"],
-        "links": "/ANIMAZIONE/anime/mimi_list.json"
+        "url": "/ANIMAZIONE/anime/mimi_list.json"
       },
       {
         "plot": "La protagonista, Miki Koishikawa, è una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragonerà alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominerà marmalade boy; Yuu \"ricambierà il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
@@ -187,7 +187,7 @@
         "year": "1995",
         "tmdb_id": "35507",
         "genre":["Animazione", "Dramma"],
-        "links": "/ANIMAZIONE/anime/cuore_list.json"
+        "url": "/ANIMAZIONE/anime/cuore_list.json"
       },
       {
         "plot": "Ranma Saotome e il padre Genma sono due esperti di arti marziali che tornano in Giappone dopo un lungo periodo trascorso in Cina per allenarsi. Per continuare la tradizione di famiglia, Genma ha combinato per il figlio un matrimonio con una delle figlie di Tendo, suo grande amico e anch'egli maestro di arti marziali. La scelta ricade sulla più piccola, Akane, che di sposarsi non vuole saperne affatto. Le cose si complicano quando si scopre che Ranma e suo padre sono vittime di una maledizione: ogni volta che si bagnano con l'acqua fredda si trasformano, rispettivamente, in una ragazza dai capelli rossi e in un panda!",
@@ -196,7 +196,7 @@
         "year": "1989",
         "tmdb_id": "57706",
         "genre":["Commedia", "Azione & Avventura", "Animazione"],
-        "links": "/ANIMAZIONE/anime/ranma_list.json"
+        "url": "/ANIMAZIONE/anime/ranma_list.json"
       },
       {
         "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan è pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
@@ -205,7 +205,7 @@
         "year": "2001",
         "tmdb_id": "96435",
         "genre":["Animazione","Famiglia", "Azione", "Avventura", "Bambini"],
-        "links": "/ANIMAZIONE/anime/sandokan_list.json"
+        "url": "/ANIMAZIONE/anime/sandokan_list.json"
       },
       {
         "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, è la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sarà però molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andrássy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
@@ -214,7 +214,7 @@
         "year": "1997",
         "tmdb_id": "35073",
         "genre":["Animazione"],
-        "links": "/ANIMAZIONE/anime/sissi_list.json"
+        "url": "/ANIMAZIONE/anime/sissi_list.json"
       },
       {
         "plot": "Steins;Gate è ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintarō Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintarō trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintarō sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Più tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintarō capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici è, in realtà, una macchina del tempo capace di inviare SMS al passato...",
@@ -223,7 +223,7 @@
         "year": "2011",
         "tmdb_id": "42509",
         "genre":["Animazione", "Azione & Avventura", "Commedia", "Dramma", "Fantascienza & Fantasia","Mistero"],
-        "links": "/ANIMAZIONE/anime/stein_list.json"
+        "url": "/ANIMAZIONE/anime/stein_list.json"
       },
       {
         "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall’uomo, solo tre anni di vita. L’umanità è quindi prossima all’estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ciò non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l’intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all’aiuto del robot Pegas, che lo trasformerà in Tekkaman, dovrà fronteggiare la terribile minaccia aliena…",
@@ -232,7 +232,7 @@
         "year": "1975",
         "tmdb_id": "35409",
         "genre":["Animazione", "Azione & Avventura"],
-        "links": "/ANIMAZIONE/anime/tekkaman_list.json"
+        "url": "/ANIMAZIONE/anime/tekkaman_list.json"
       },
       {
         "plot": "Yota Moteuchi è uno studente liceale di 16 anni che a causa di una enorme timidezza e di una gran dose di sfortuna, ha difficoltà a rapportarsi con l’altro sesso, venendo così soprannominato da tutti “Motenai Yoda”, ossia “senza donne” (un gioco di parole ottenuto leggendo diversamente gli ideogrammi del suo nome). Il nostro impacciato protagonista è follemente innamorato della sua bella compagna di classe Moemi Hayakawa, ma non riesce mai a cogliere il momento opportuno per confidarle il suo amore. Dopo essere riuscito a diventare suo amico, Yota decide di confidare i suoi sentimenti alla ragazza, ma prima di riuscirvi, scopre che Moemi in realtà prova una grande attrazione per Takashi Niimai, il suo migliore amico. Allora Yota, dimostrando un incredibile altruismo, decide di non dichiararsi e, addirittura, di aiutare Moemi a conquistare Takashi. Quest’ultimo però è a conoscenza dei sentimenti che prova Yota per Moemi e per questo sceglie di respingere la ragazza, pensando di fare così un favore al suo amico.",
@@ -241,7 +241,7 @@
         "year": "1992",
         "tmdb_id": "22432",
         "genre":["Animazione", "Dramma", "Commedia"],
-        "links": "/ANIMAZIONE/anime/girl_list.json"
+        "url": "/ANIMAZIONE/anime/girl_list.json"
       },
       {
         "plot": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo è un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode. Il loro compito, da quel momento, sarà trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potrà ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia così a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porterà nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si rivelerà sbagliata. Ma i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",
@@ -250,7 +250,7 @@
         "year": "1997",
         "tmdb_id": "53298",
         "genre":["Animazione", "Azione & Avventura", "Commedia"],
-        "links": "/ANIMAZIONE/anime/yattaman_list.json"
+        "url": "/ANIMAZIONE/anime/yattaman_list.json"
       },
       {
         "plot": "Team Galaxy vede protagonisti tre adolescenti Josh, Yoko e Brett alle prese con la normale vita studentesca al liceo \"Galaxy High\" e i loro allenamenti per diventare \"Space Marshals\", per difendere la galassia dai crimini intergalattici",
@@ -259,7 +259,7 @@
         "year": "2006",
         "tmdb_id": "3661",
         "genre":["Animazione" , "Azione & Avventura"],
-        "links": "/ANIMAZIONE/anime/galaxy_list.json"
+        "url": "/ANIMAZIONE/anime/galaxy_list.json"
       },
       {
         "plot": "",
@@ -268,7 +268,7 @@
         "year": "",
         "tmdb_id": "",
         "genre":[""],
-        "links": "/ANIMAZIONE/anime/_list.json"
+        "url": "/ANIMAZIONE/anime/_list.json"
       }
     ]
   }
