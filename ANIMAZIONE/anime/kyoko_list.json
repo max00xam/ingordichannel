@@ -1348,10 +1348,7 @@
             "number":"OAV 1",
             "saga":"Cara dolce Kyoko",
             "title":"Cara dolce Kyoko - Capitolo Finale (1988)",
-            "plot":"",
-            "genre":"",
-            "tumbnail":"",
-            "dirctor":"",
+            "plot":"Cronologicamente si svolge durante gli eventi dell'episodio TV 96.",
             "links":[
                 {
                     "url":"http://51.77.159.233:30299/c753bc65d611aae900e2a8290e0ffc5f"
@@ -1362,10 +1359,7 @@
             "number":"OAV 2",
             "saga":"Cara dolce Kyoko",
             "title":"Attraverso il trascorrere delle stagioni",
-            "plot":"",
-            "genre":"",
-            "tumbnail":"",
-            "dirctor":"",
+            "plot":"Questo OVA è una ricapitolazione di tutta la serie, realizzata con scene tratte dalla serie, focalizzata principalmente sulle relazioni Godai e Kyoko.",
             "links":[
                 {
                     "url":"http://51.77.159.233:30299/c168a78226b1cada9e024bc9cbc84b78"
@@ -1375,11 +1369,8 @@
         {
             "number":"OAv 3",
             "saga":"Cara dolce Kyoko",
-            "title":"Kyoto sull'isola Ikkoku.avi",
-            "plot":"",
-            "genre":"",
-            "tumbnail":"",
-            "dirctor":"",
+            "title":"Kyoto sull'isola Ikkoku",
+            "plot":"Rilasciato nel 1990, questo speciale di 30 minuti è l'unico OAV \"vero\" della serie. Questo è un pezzo di animazione completamente originale. La storia si basa sul capitolo aggiuntivo della Maison Ikkoku, in cui gli inquilini e Mitaka sono tutti naufragati su un'isola deserta a causa delle solite feste folli di Ichinose, Akemi e Yotsuya. Una volta che sono sull'isola, Kyoko inizia a spazzare la sabbia per tenersi occupata mentre Godai e Mitaka si sfidano per catturare pesci per Kyoko e assicurarsi che non muoia di fame. Nel frattempo Yotsuya si allontana da solo e trova un resort vicino, dove si ritrova a casa, ovviamente senza dirlo agli altri naufraghi.",
             "links":[
                 {
                     "url":"http://51.77.159.233:30299/3fbe8785ce8b2ea7d531088fcf42c1db"
@@ -1388,29 +1379,12 @@
         },
         {
             "number":"OAV 4",
-            "saga":"Maison Ikkoku-Attraverso il trascorrere delle stagioni",
-            "title":"Attraverso il trascorrere delle stagioni",
-            "plot":"",
-            "genre":"",
-            "tumbnail":"",
-            "dirctor":"",
+            "saga":"Cara dolce Kyoko",
+            "title":"Prelude, When the Cherry Blossoms in the Springtime Return",
+            "plot":"Uno speciale che incolla tutti i flashback di Soichiro di Kyoko, con alcuni dialoghi lungo le scene. Come un fiore di ciliegio in primavera parla di Soichiro, il primo amore e marito di Kyoko, usando una serie di flashback, già visti negli episodi televisivi, costituendo una sorta di \"viaggio nei ricordi\".",
             "links":[
                 {
-                    "url":"http://51.77.159.233:30299/91281e5d2d1e6ea67ef2b11f895a91b5"
-                }
-            ]
-        },
-        {
-            "number":"",
-            "saga":"Naufragio sull'Isola ikkoku",
-            "title":"Anime & Cartoni/Cara dolce Kyoko [b71776]/Naufragio sull'Isola ikkoku [Xvid - ITA JAP AC3 - multisub]/Naufragio sull'isola Ikkoku.avi",
-            "plot":"",
-            "genre":"",
-            "tumbnail":"",
-            "dirctor":"",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/2936180396a2af3f4d28f8a0a1b90c31"
+                    "url": "http://51.77.159.233:30299/e9d5a477d110183b1e4f612fd48a593f"
                 }
             ]
         }

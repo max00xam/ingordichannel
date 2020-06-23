@@ -1,0 +1,392 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 46348,
+            "number": "1x1",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Pallavolo che passione",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f84e2feee292705ed7c610c390c42dc8"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x2",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Una ragazza in gamba",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f161fe7c3b78f97ebf68a78ae459356"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x3",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "La ragazza misteriosa",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f38188352bb41844e901b8b87928e38c"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x4",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Lotta fra due dive",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80a9ecfa6838fcb7d19729c29e8f3aa9"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x5",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Il nuovo allenatore",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d860024da6a16d093e0983fb00d865d4"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x6",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Pronte all'attacco",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f3a699a9bef6f45e41cf7d4d93cb9e99"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x7",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Allenarsi in vacanza",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3fce1008345f004ace40b5c665bf6acc"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 46348,
+            "number": "1x8",
+            "saga": "Mimì e la nazionale di pallavolo",
+            "title": "Il segreto della foglia cadente",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23b6dc2dd99e80d1217a3bf6265995bf"
+                }
+            ]
+        },
+        {
+            "number": "0x0",
+            "saga": "Mobile Gundam Wing",
+            "title": "Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00a.Mobile.Suit.Gundam.Wing.@CartoonAnimeITA.mkv",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/871c3474d02147c2edf5c633fb17e812"
+                }
+            ]
+        },
+        {
+            "number": "0x0",
+            "saga": "Mobile Gundam Wing",
+            "title": "Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00b.Mobile.Suit.Gundam.Wing.@CartoonAnimeITA.mkv",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f456c682dc1942016fee2bf0df13ca20"
+                }
+            ]
+        },
+        {
+            "number": "1x1",
+            "saga": "Mobile Gundam Wing",
+            "title": "Testimone della caduta di una stella",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c96125b3fd8c135763f29d50c32a8b7c"
+                }
+            ]
+        },
+        {
+            "number": "1x2",
+            "saga": "Mobile Gundam Wing",
+            "title": "Incertezze",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eaffe4fe1b182f7d04c453fcdb092bb3"
+                }
+            ]
+        },
+        {
+            "number": "1x3",
+            "saga": "Mobile Gundam Wing",
+            "title": "Le lacrime di Catherine",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/089156fc55bb971414f19612c93a71c4"
+                }
+            ]
+        },
+        {
+            "number": "1x4",
+            "saga": "Mobile Gundam Wing",
+            "title": "Incubo alla base Vittoria",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/562d294c35f1eab98941a1cd6a4c5467"
+                }
+            ]
+        },
+        {
+            "number": "1x5",
+            "saga": "Mobile Gundam Wing",
+            "title": "Il segreto di Relena",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/33afbe6544e89cf23ade2ba2e6019c6f"
+                }
+            ]
+        },
+        {
+            "number": "1x6",
+            "saga": "Mobile Gundam Wing",
+            "title": "La sera della festa",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad0183341881c0155d3b2c2072ca0d42"
+                }
+            ]
+        },
+        {
+            "number": "1x7",
+            "saga": "Mobile Gundam Wing",
+            "title": "Duplice inganno",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d9852149ebe03be01598a9aae2623fe"
+                }
+            ]
+        },
+        {
+            "number": "1x8",
+            "saga": "Mobile Gundam Wing",
+            "title": "Faccia a faccia",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f9057279d0cfe1fb2e1b305affe7113"
+                }
+            ]
+        },
+        {
+            "number": "1x9",
+            "saga": "Mobile Gundam Wing",
+            "title": "Ritratto di un paese in rovina",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/003ab85b8cfba4a5786cb426d40096e3"
+                }
+            ]
+        },
+        {
+            "number": "1x10",
+            "saga": "Mobile Gundam Wing",
+            "title": "La resa",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5e1ceb364f28a002e59c120d498e6f60"
+                }
+            ]
+        },
+        {
+            "number": "1x11",
+            "saga": "Mobile Gundam Wing",
+            "title": "L`imboscata",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34219e8a1cd48ba63ef33ed166e1bc4b"
+                }
+            ]
+        },
+        {
+            "number": "1x12",
+            "saga": "Mobile Gundam Wing",
+            "title": "Incertezze",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ce16d32c7a04e4bc876432b3af5bcda9"
+                }
+            ]
+        },
+        {
+            "number": "1x13",
+            "saga": "Mobile Gundam Wing",
+            "title": "Le lacrime di Catherine",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cfe9ad4766e6980c12c40a0f7e0b9aa"
+                }
+            ]
+        },
+        {
+            "number": "1x14",
+            "saga": "Mobile Gundam Wing",
+            "title": "La distruzione del Gundam",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9bdafb99b75035fc8c16662dac8d3387"
+                }
+            ]
+        },
+        {
+            "number": "1x15",
+            "saga": "Mobile Gundam Wing",
+            "title": "Battaglia in Antartide",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ef830a0410a4a0c8c576577cec845d8"
+                }
+            ]
+        },
+        {
+            "number": "1x16",
+            "saga": "Mobile Gundam Wing",
+            "title": "Scontro di ideali",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2aa91c0ed32d4130d5064efddb41eb0a"
+                }
+            ]
+        },
+        {
+            "number": "1x17",
+            "saga": "Mobile Gundam Wing",
+            "title": "Nemici in patria",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9e69beb28d9b499f8c353ad9c51dd37"
+                }
+            ]
+        },
+        {
+            "number": "1x18",
+            "saga": "Mobile Gundam Wing",
+            "title": "Nemici",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fc48ba1b5dccf36d83e11fef6692d51e"
+                }
+            ]
+        },
+        {
+            "number": "1x19",
+            "saga": "Mobile Gundam Wing",
+            "title": "Attacco alla piattaforma spaziale",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34b83581909776a143b54aaa8cff182e"
+                }
+            ]
+        },
+        {
+            "number": "1x20",
+            "saga": "Mobile Gundam Wing",
+            "title": "Attacco alla Base Lunare",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cb89035af6ebc5287f9a37d79b873717"
+                }
+            ]
+        },
+        {
+            "number": "1x21",
+            "saga": "Mobile Gundam Wing",
+            "title": "Lacrime tra le stelle",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f82c255d724da0107d76b286f125258b"
+                }
+            ]
+        },
+        {
+            "number": "1x22",
+            "saga": "Mobile Gundam Wing",
+            "title": "Battaglia per l`indipendenza",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f79d3618588585e204505478468d9473"
+                }
+            ]
+        },
+        {
+            "number": "1x23",
+            "saga": "Mobile Gundam Wing",
+            "title": "La cattura",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a51fa15726ea37e592762d6cfc88a329"
+                }
+            ]
+        },
+        {
+            "number": "1x24",
+            "saga": "Mobile Gundam Wing",
+            "title": "Un inaspettato nemico",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7ee712af9cb440a5ed8f0c0e20361ae2"
+                }
+            ]
+        },
+        {
+            "number": "1x25",
+            "saga": "Mobile Gundam Wing",
+            "title": "Un grido di rivolta",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2608d55e8fe1c308426d992729e89b01"
+                }
+            ]
+        },
+        {
+            "number": "1x26",
+            "saga": "Mobile Gundam Wing",
+            "title": "L`eterna fiamma della ribellione",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4bc800e3466f382906cfa975d0608ff"
+                }
+            ]
+        },
+        {
+            "number": "1x27",
+            "saga": "Mobile Gundam Wing",
+            "title": "Il valzer dei ricordi",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/408c6ce33921e1b00100acb3e0fd05d9"
+                }
+            ]
+        },
+        {
+            "number": "1x29",
+            "saga": "Mobile Gundam Wing",
+            "title": "L`altra meta` del cielo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/643d7cfa127ca61b3132c89ba024a291"
+                }
+            ]
+        }
+    ]
+}

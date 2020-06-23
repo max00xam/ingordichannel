@@ -1,0 +1,213 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 42509,
+            "number": "1x1",
+            "saga": "Steins;Gate",
+            "title": "Prologo dell`inizio e della fine",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14f5d921df607cec431d42aabcd3bbfd"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x2",
+            "saga": "Steins;Gate",
+            "title": "Paranoia da spostamenti temporali",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ef515b65476e2b9086d17cf2efdac61"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x3",
+            "saga": "Steins;Gate",
+            "title": "Paranoia da realtà parallele",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1c49e8321fe84ad7aae8ab689fccd7d0"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x4",
+            "saga": "Steins;Gate",
+            "title": "Rendez-vous di collisioni di impossibili teorie erranti",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53abf6326997690ea5f00d4793577052"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x9",
+            "saga": "Steins;Gate",
+            "title": "Omeostasi di un`illusione",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/400eacbe1432277507cb603a5abb0613"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x10",
+            "saga": "Steins;Gate",
+            "title": "Omeostasi di una vita insieme",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b1d2d65ce4cf67eb7d0224019bc8de31"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x11",
+            "saga": "Steins;Gate",
+            "title": "Dogma della frontiera spazio-tempo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/314391ec02f964b0c75cb734246fd137"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x12",
+            "saga": "Steins;Gate",
+            "title": "Dogma del limite statico",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9e175af574dc93aef614f68f5b515c35"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x13",
+            "saga": "Steins;Gate",
+            "title": "Necrosi metafisica",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70dc5fa678704fd1fcc14f25980f496c"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x14",
+            "saga": "Steins;Gate",
+            "title": "Necrosi fisica",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6bdf6377292202c753857e5bb1a0637f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x15",
+            "saga": "Steins;Gate",
+            "title": "Necrosi di un anello morente",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f3f09e6f3dc6b1f1679b07a531be05a4"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x16",
+            "saga": "Steins;Gate",
+            "title": "Necrosi dell`irreversibilità",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b2765629d7abd14f5db865a3840442ed"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x17",
+            "saga": "Steins;Gate",
+            "title": "Complesso di un`immagine virtuale distorta",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a97d84a0f135967624bb40792a39f5b"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x19",
+            "saga": "Steins;Gate",
+            "title": "Apoptosi di una catena infinita",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ce77d3cc71d13ef6b68f881902b69d6"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x20",
+            "saga": "Steins;Gate",
+            "title": "Apoptosi del grido di rancore",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/39c58dd91d2fa125ad299ccc56be9678"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x21",
+            "saga": "Steins;Gate",
+            "title": "Meltdown del principio di casualità",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa6be7a054790d72a3e13de014b57c9a"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x23",
+            "saga": "Steins;Gate",
+            "title": "Lo Steins Gate di frontiera",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8b47e884a36a6d088b24ba806e3b63cc"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "1x24",
+            "saga": "Steins;Gate",
+            "title": "Prologo della fine e dell`inizio",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/66c745cafb7558adc398a54bf52611ce"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 42509,
+            "number": "0x0",
+            "saga": "Steins;Gate",
+            "title": "Anime & Cartoni/Steins;Gate [a42509]/steins_gate_25_OAV.mp4",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/49b485e762169cf41d73a60d0bd07e3b"
+                }
+            ]
+        }
+    ]
+}

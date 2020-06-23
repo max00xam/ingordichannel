@@ -1,0 +1,598 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 35529,
+            "number": "1x1",
+            "saga": "L'incantevole Creamy",
+            "title": "L'arca della stella piumata",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8729baf3cd155d373a3eb0824d38ab69"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x2",
+            "saga": "L'incantevole Creamy",
+            "title": "È nata una stella",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dd9d79c243b0e4e0b4cf0457d64ec434"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x3",
+            "saga": "L'incantevole Creamy",
+            "title": "Il debutto",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e0eab08b0fdd4441ea8988d5c87b2c54"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x4",
+            "saga": "L'incantevole Creamy",
+            "title": "Scalata alle top ten",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87d109f43d67ca96c11ae6e591027385"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x5",
+            "saga": "L'incantevole Creamy",
+            "title": "Il segreto di Creamy è in pericolo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6755c7bae129531a89edfec6829b3ba1"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x6",
+            "saga": "L'incantevole Creamy",
+            "title": "Il cervo leggendario",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d99c166697c6822cecbe6d0da32640cf"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x7",
+            "saga": "L'incantevole Creamy",
+            "title": "Creamy e il nonnino",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8947521b762afd32951301f0a830cd3c"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x8",
+            "saga": "L'incantevole Creamy",
+            "title": "Il duetto miracoloso",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34f1c9d2270c8563591ca89aa6a18800"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x9",
+            "saga": "L'incantevole Creamy",
+            "title": "Una fata di mezza estate",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/83de51adf1210afa14eb241125ba3ddb"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x10",
+            "saga": "L'incantevole Creamy",
+            "title": "Ciao Catherine",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/019dc4126703ba69b3dcfd615c9d2b4f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x11",
+            "saga": "L'incantevole Creamy",
+            "title": "Papà è un motociclista di mezza età",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/817a97e2b55e32fd7e94d5443f2c2bfd"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x12",
+            "saga": "L'incantevole Creamy",
+            "title": "Il fantasma dello studio",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9e115adc28e06edcdaedb7a3dab014ff"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x13",
+            "saga": "L'incantevole Creamy",
+            "title": "La dolcissima Creamy nello specchio",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/733a638e4c74bfcb30d2b76b59aa4716"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x14",
+            "saga": "L'incantevole Creamy",
+            "title": "Il signore dei miei sogni",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/273559bfc9edd493be391d536d1b880e"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x15",
+            "saga": "L'incantevole Creamy",
+            "title": "L'angelo dai colori dell'arcobaleno",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8e0f98c60f3dfa86b3297bd01a4fd09a"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x16",
+            "saga": "L'incantevole Creamy",
+            "title": "Il ricordo che svanì in mare",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f055ada21579560be6d8e8873f87988"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x17",
+            "saga": "L'incantevole Creamy",
+            "title": "La foresta senza tempo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/168d8e1eff52976396d47248ee58aa5f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x18",
+            "saga": "L'incantevole Creamy",
+            "title": "Le avventure di Warashi",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bfb3c5a4eadcf1d63655c668a334f7da"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x19",
+            "saga": "L'incantevole Creamy",
+            "title": "Un giorno pieno di avventure",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23a721083ea485441420c45e1e91ae55"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x20",
+            "saga": "L'incantevole Creamy",
+            "title": "Un dono pericoloso",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/515e85fc5cfbb692d6e6b0027f7758b2"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x21",
+            "saga": "L'incantevole Creamy",
+            "title": "Un party movimentato",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de3368d601cd0b913a625e13f3c1d319"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x22",
+            "saga": "L'incantevole Creamy",
+            "title": "Midori e il piffero",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f539f4c603d6773ef7a49ff2c7f0b9ad"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x23",
+            "saga": "L'incantevole Creamy",
+            "title": "La stella parasole",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3383b2b8d3fa48c2146ba1a067ee059"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x24",
+            "saga": "L'incantevole Creamy",
+            "title": "Creamy e l'orso",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/28927ba1d37e075335009186a81ae3c5"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x25",
+            "saga": "L'incantevole Creamy",
+            "title": "Guai grossi al festival della canzone",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/18dc86fedca97ac485331a42766c9e92"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x26",
+            "saga": "L'incantevole Creamy",
+            "title": "Addio poteri magici",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/067147b633a65672a1ebe44e0e34c91c"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x27",
+            "saga": "L'incantevole Creamy",
+            "title": "Alla stella piumata",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7929feea117400244005ad8631101c58"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x28",
+            "saga": "L'incantevole Creamy",
+            "title": "Il nuovo arrivato",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50dc467b08e77dbc36b22bc15c24776d"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x29",
+            "saga": "L'incantevole Creamy",
+            "title": "Panico sulla funivia",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/061cc490a0caafed860c797dcd02ab3b"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x30",
+            "saga": "L'incantevole Creamy",
+            "title": "Una lettera alla nonna",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c88001abcdf3269913200877f1fdd24"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x31",
+            "saga": "L'incantevole Creamy",
+            "title": "Il ballo che passione",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ada57e992e1c1ab692efdae631cee5a7"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x32",
+            "saga": "L'incantevole Creamy",
+            "title": "Il dolce di San Valentino",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d587e81320bbd852d085b546f4bb0e97"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x33",
+            "saga": "L'incantevole Creamy",
+            "title": "Lo starnuto di Nega",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50d1151451c7acb3aa8a5c7cc7a83555"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x34",
+            "saga": "L'incantevole Creamy",
+            "title": "Joe Serpe al contrattacco",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43064e5b1dbc4cfc285f0ada57e39228"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x35",
+            "saga": "L'incantevole Creamy",
+            "title": "Pentagramma una donna",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b8af43a3281b4dc4059c13d111c09d1"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x36",
+            "saga": "L'incantevole Creamy",
+            "title": "Il circo della galassia 1985",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f0fadad40dfa1d90954ca0da6846510"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x37",
+            "saga": "L'incantevole Creamy",
+            "title": "Gli occhi di Marion",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c995dfedc238d0603352448128654311"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x38",
+            "saga": "L'incantevole Creamy",
+            "title": "Un club molto esclusivo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/852a44f802d0b9a2493a868fb570226f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x39",
+            "saga": "L'incantevole Creamy",
+            "title": "Ozilla il mostro marino",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/08f216a012f997135cf25d717d779aaa"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x40",
+            "saga": "L'incantevole Creamy",
+            "title": "Crepes contro frittelle assortite",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93881f1912b562cd10cf1e1a386f9923"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x41",
+            "saga": "L'incantevole Creamy",
+            "title": "Non studiare troppo Yu!",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8b53dab2f860c0a81ebdce6d441547f7"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x42",
+            "saga": "L'incantevole Creamy",
+            "title": "Creamy contro Yu",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1609ba376d999ddedad8850cc1605293"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x43",
+            "saga": "L'incantevole Creamy",
+            "title": "Corri Yu, corri",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a60a7dad044601cbfc9f9d36f97274de"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x44",
+            "saga": "L'incantevole Creamy",
+            "title": "S",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/37469bf383636525a0acad64aa8f42b7"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x45",
+            "saga": "L'incantevole Creamy",
+            "title": "Il bambino dai poteri soprannaturali",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e5dedbd6ec4e85408eac6a6cbce73a18"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x46",
+            "saga": "L'incantevole Creamy",
+            "title": "Il pianista preferito di Creamy",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b510306a9b8e05bde7e569d01cdc569f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x47",
+            "saga": "L'incantevole Creamy",
+            "title": "Il primo bacio di Creamy",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec13bb3d02e5fa258ae640f81c7f5981"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x48",
+            "saga": "L'incantevole Creamy",
+            "title": "Il primo appuntamento di Yu e Midori",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bef1cac94d8b16380093aff9e1fa5340"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x49",
+            "saga": "L'incantevole Creamy",
+            "title": "I tesori nascosti di Pentagramma",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f1659251e096c443c569a35e6b60ee58"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x50",
+            "saga": "L'incantevole Creamy",
+            "title": "Creamy scompare",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e98668d60b785820a98635610a1e78f1"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x51",
+            "saga": "L'incantevole Creamy",
+            "title": "È la fine",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d8c5f56ccfa02bcbbb9bbd6f0e2457b0"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "1x52",
+            "saga": "L'incantevole Creamy",
+            "title": "L'ultimo concerto di Creamy",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/013680fe3baeddd5cf80285fe9c52235"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "0x0",
+            "saga": "L'incantevole Creamy",
+            "title": "Anime & Cartoni/L'incantevole Creamy [a35529]/Sigla finale.mp4",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8752141e46c71a42e92631ceaebe8827"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 35529,
+            "number": "0x0",
+            "saga": "L'incantevole Creamy",
+            "title": "Anime & Cartoni/L'incantevole Creamy [a35529]/Sigla iniziale.mp4",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/24ec1617b5f4ee078a7ccc65e5069068"
+                }
+            ]
+        }
+    ]
+}
