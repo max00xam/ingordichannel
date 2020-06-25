@@ -262,13 +262,56 @@
         "url": "/ANIMAZIONE/anime/galaxy_list.json"
       },
       {
-        "plot": "",
-        "title": "",
-        "saga": "",
-        "year": "",
-        "tmdb_id": "",
-        "genre":[""],
+        "plot": "I Simpson (The Simpsons) è una popolare sitcom animata creata dal fumettista statunitense Matt Groening alla fine degli anni ottanta per la Fox Broadcasting Company. È una parodia satirica della società e dello stile di vita statunitensi, personificati dalla famiglia protagonista, di cui fanno parte Homer, Marge e i loro tre figli Bart, Lisa e Maggie. Ambientato in una cittadina statunitense chiamata Springfield, lo show tratta in chiave umoristica molti aspetti della condizione umana, così come la cultura, la società in generale e la stessa televisione.",
+        "title": "I Simpson",
+        "saga": "I Simpson",
+        "year": "1989",
+        "tmdb_id": "456",
+        "genre":["Animazione", "Commedia"],
+        "url": "/ANIMAZIONE/anime/simpson_list.json"
+      },
+      {
+        "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l’Unità della Sfera Terrestre) con l’incarico di mantenere la pace tramite l’imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo – una dopo l’altra – delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono però a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinché rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell’anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l’ordine, la Federazione preparò un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+        "title": "Mibile Gundam Wing",
+        "saga": "Mibile Gundam Wing",
+        "year": "1995",
+        "tmdb_id": "21730",
+        "genre":["Animazione", "Azione & Avventura", "Dramma", "Fantascienza & Fantasia"],
+        "url": "/ANIMAZIONE/anime/gundam_list.json"
+      },
+      {
+        "plot": "Jules Verne è un ragazzo di 20 anni, molto educato che ama scrivere. Va all'università per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrerà tutto il suo coraggio e la sua astuzia e si innamorerà di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatterà nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
+        "title": "Le straordinarie avventure di Jules Verne",
+        "saga": "Le straordinarie avventure di Jules Verne",
+        "year": "2013",
+        "tmdb_id": "86722",
+        "genre":["Animazione","Azione & Avventura"],
+        "url": "/ANIMAZIONE/anime/verne_list.json"
+      },
+      {
+        "plot": "Team Galaxy, Le Collège de l'Espace o Galaxie Académie è una serie animata francese e canadese prodotta da Marathon Production. Unisce l'animazione 2D ispirata agli anime con elementi CG, ed è ambientato a \"Galaxy High\", dove un trio di giovani studenti cerca di bilanciare la loro normale vita da adolescenti e il loro addestramento per diventare Marescialli Spaziali. Il concetto e lo stile di animazione sono simili a quelli di Totally Spies! e Martin Mystery, altre serie create dalla stessa società di produzione.",
+        "title": "Team Galaxy",
+        "saga": "Team Galaxy",
+        "year": "2006",
+        "genre":["Animazione","Azione & Avventura"],
         "url": "/ANIMAZIONE/anime/_list.json"
+      },
+      {
+        "plot": "",
+        "title": "Code Geass - Lelouch of the Rebellion",
+        "saga": "Code Geass - Lelouch of the Rebellion",
+        "year": "2006",
+        "tmdb_id": "31724",
+        "genre":["Azione e Avventura", "Animazione", "Dramma", "Fantascienza & Fantasia"],
+        "url": "/ANIMAZIONE/anime/geass_list.json"
+      },
+      {
+        "plot": "",
+        "title": "Code Geass - Lelouch of the Rebellion R2",
+        "saga": "Code Geass - Lelouch of the Rebellion R2",
+        "year": "2008",
+        "genre":["Azione e Avventura", "Animazione", "Dramma", "Fantascienza & Fantasia"],
+        "url": "/ANIMAZIONE/anime/geasr2_list.json"
       }
     ]
   }

@@ -1,104 +1,7 @@
 {
     "episodes_list": [
-        {
-            "tmdb_id": 46348,
-            "number": "1x1",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Pallavolo che passione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f84e2feee292705ed7c610c390c42dc8"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x2",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Una ragazza in gamba",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9f161fe7c3b78f97ebf68a78ae459356"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x3",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "La ragazza misteriosa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f38188352bb41844e901b8b87928e38c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x4",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Lotta fra due dive",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/80a9ecfa6838fcb7d19729c29e8f3aa9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x5",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Il nuovo allenatore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d860024da6a16d093e0983fb00d865d4"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x6",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Pronte all'attacco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f3a699a9bef6f45e41cf7d4d93cb9e99"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x7",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Allenarsi in vacanza",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3fce1008345f004ace40b5c665bf6acc"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 46348,
-            "number": "1x8",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Il segreto della foglia cadente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/23b6dc2dd99e80d1217a3bf6265995bf"
-                }
-            ]
-        },
-        {
-            "number": "0x0",
-            "saga": "Mobile Gundam Wing",
-            "title": "Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00a.Mobile.Suit.Gundam.Wing.@CartoonAnimeITA.mkv",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/871c3474d02147c2edf5c633fb17e812"
-                }
-            ]
-        },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "0x0",
             "saga": "Mobile Gundam Wing",
             "title": "Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00b.Mobile.Suit.Gundam.Wing.@CartoonAnimeITA.mkv",
@@ -108,7 +11,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x1",
             "saga": "Mobile Gundam Wing",
             "title": "Testimone della caduta di una stella",
@@ -118,7 +22,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x2",
             "saga": "Mobile Gundam Wing",
             "title": "Incertezze",
@@ -128,7 +33,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x3",
             "saga": "Mobile Gundam Wing",
             "title": "Le lacrime di Catherine",
@@ -138,7 +44,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x4",
             "saga": "Mobile Gundam Wing",
             "title": "Incubo alla base Vittoria",
@@ -148,7 +55,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x5",
             "saga": "Mobile Gundam Wing",
             "title": "Il segreto di Relena",
@@ -158,7 +66,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x6",
             "saga": "Mobile Gundam Wing",
             "title": "La sera della festa",
@@ -168,7 +77,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x7",
             "saga": "Mobile Gundam Wing",
             "title": "Duplice inganno",
@@ -178,7 +88,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x8",
             "saga": "Mobile Gundam Wing",
             "title": "Faccia a faccia",
@@ -188,7 +99,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x9",
             "saga": "Mobile Gundam Wing",
             "title": "Ritratto di un paese in rovina",
@@ -198,7 +110,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x10",
             "saga": "Mobile Gundam Wing",
             "title": "La resa",
@@ -208,7 +121,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x11",
             "saga": "Mobile Gundam Wing",
             "title": "L`imboscata",
@@ -218,7 +132,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x12",
             "saga": "Mobile Gundam Wing",
             "title": "Incertezze",
@@ -228,7 +143,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x13",
             "saga": "Mobile Gundam Wing",
             "title": "Le lacrime di Catherine",
@@ -238,7 +154,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x14",
             "saga": "Mobile Gundam Wing",
             "title": "La distruzione del Gundam",
@@ -248,7 +165,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x15",
             "saga": "Mobile Gundam Wing",
             "title": "Battaglia in Antartide",
@@ -258,7 +176,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x16",
             "saga": "Mobile Gundam Wing",
             "title": "Scontro di ideali",
@@ -268,7 +187,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x17",
             "saga": "Mobile Gundam Wing",
             "title": "Nemici in patria",
@@ -278,7 +198,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x18",
             "saga": "Mobile Gundam Wing",
             "title": "Nemici",
@@ -288,7 +209,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x19",
             "saga": "Mobile Gundam Wing",
             "title": "Attacco alla piattaforma spaziale",
@@ -298,7 +220,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x20",
             "saga": "Mobile Gundam Wing",
             "title": "Attacco alla Base Lunare",
@@ -308,7 +231,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x21",
             "saga": "Mobile Gundam Wing",
             "title": "Lacrime tra le stelle",
@@ -318,7 +242,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x22",
             "saga": "Mobile Gundam Wing",
             "title": "Battaglia per l`indipendenza",
@@ -328,7 +253,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x23",
             "saga": "Mobile Gundam Wing",
             "title": "La cattura",
@@ -338,7 +264,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x24",
             "saga": "Mobile Gundam Wing",
             "title": "Un inaspettato nemico",
@@ -348,7 +275,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x25",
             "saga": "Mobile Gundam Wing",
             "title": "Un grido di rivolta",
@@ -358,7 +286,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x26",
             "saga": "Mobile Gundam Wing",
             "title": "L`eterna fiamma della ribellione",
@@ -368,7 +297,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x27",
             "saga": "Mobile Gundam Wing",
             "title": "Il valzer dei ricordi",
@@ -378,7 +308,8 @@
                 }
             ]
         },
-        {
+        { 
+            "tmdb_id": 21730,
             "number": "1x29",
             "saga": "Mobile Gundam Wing",
             "title": "L`altra meta` del cielo",

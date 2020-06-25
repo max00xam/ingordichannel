@@ -1,0 +1,375 @@
+{
+    "episodes_list": [
+        { 
+            "tmdb_id": 31724,
+            "number": "1x1",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il giorno in cui nacque il demonio",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7da43b7bee61d80e8861b6ccea759beb"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x2",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il risveglio del cavaliere bianco",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad2428a817878441f440c24d9e5816e3"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x3",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il falso compagno di classe",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c317f13a7cf6d8dbdca20b34757a1d6"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x4",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il Suo Nome E' Zero",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dc1e3e3efa6dfb2cc3696416baa741fe"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x5",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "La Principessa e la Strega",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23c9d086c8d75b2ef195a16d5aed053a"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x6",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "La maschera rubata",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82bf09821b17203f44626548d1c6c624"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x7",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Attacco a Cornelia",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5603ad30f36dbdafd9685dc9393864de"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x8",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "L'ordine dei cavalieri neri",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/63ce959132fd7c9e771b009b90d2ca1a"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x9",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Refrain",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c047b2caaef8e88d40cfc7cba11b24b5"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x10",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "La Danza Del Loto Cremisi",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c6faa22a967062cc11cbb10ea6f5a947"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x11",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "La Disfida di Narita",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3a292f7929260c8cc727ad54a68698d6"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x12",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il Messo di Kyoto",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/365559b9065350e9583b6cf809eaed0a"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x13",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Nel Mirino di Shirley",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d823884b790f940641c158d34ef50d80"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x14",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Geass Contro Geass",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d94583cecf3b6958be645bc93781fd18"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x15",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "L'Ammirazione di Mao",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d3aedfd3f6ed37c55d10db9f2bec54f"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x16",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il Rapimento di Nunnally",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf6828cf6b4d4c4c75ba90ad6a6f2896"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x17",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Cavaliere",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52f12a824d84f70858f89e8f7485f15d"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x18",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Un ordine per Suzaku Kururugi",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4695d9efef2308c187809f258f1aa933"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x19",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "L'isola degli dei",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4e9c3c9b319c6dbe74acef1f93df0e27"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x20",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Il conflitto di Kyushu",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8006d7e5b0dbe96714b7e64ce440642"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x21",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Annuncio al festival scolastico",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8bcad4b0a9d1de679f0df86c66bbfb61"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x22",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Euphie sporca di sangue",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b84e57e04211c4b9e3408519d5a7538"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x23",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Almeno con tristezza",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c566095174a46e12a33d69187795bef"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x24",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Lo stage della caduta",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1cb3f394d57b66f2e12eeb41e5a7a4ac"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "1x25",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Zero",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4eb68f3809a3ffcdc8999ca61f838e47"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 12",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 22.25.avi",
+            "plot":"La fase 22.25 è l'ottavo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato durante l'episodio 22. È un flashback in cui Nunnally ricorda un incidente che ha coinvolto una delle tavole commemorative di sua madre, quando lei e Lelouch vivevano ancora con la famiglia imperiale britannica.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d81c1db1ee617f1fc9d03af33cf0e170"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 13",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 23.95.avi",
+            "plot":"Stage 23.95 è il nono film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato prima dell'episodio 24, rivelando i pensieri e i sospetti di Suzaku su Lelouch mentre si prepara alla battaglia.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5d72df28813fdd40ad1823293b1080ad"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 6",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 3.25.avi",
+            "plot":"La fase 3.25 è il secondo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato poco dopo l'episodio 3. Presenta una conversazione tra le donne del Consiglio studentesco dell'Accademia di Ashford nel bagno.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e517068e9026d5db16f37b55cf53ff68"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 9",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 4.33.avi",
+            "plot":"La fase 4.33 è il quinto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato prima dell'episodio 4. Presenta una conversazione tra Geremia e Villetta sul passato di Geremia e le sue ambizioni.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/16390bac4e71961128de95fe2375d462"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 7",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 6.75.avi",
+            "plot":"La fase 6.75 è il terzo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 6. Presenta una conversazione tra Suzaku e Rivalz sul passato di Suzaku prima di frequentare la Ashford Academy.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4edd3207ea5d88f04f03642971ca8319"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 10",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 8.75.avi",
+            "plot":"La fase 8.75 è il sesto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 8. Presenta la Principessa Cornelia ed Eufemia nel resort sulla spiaggia del Principe Clodoveo con i membri dell'Accademia di Ashford presenti anche come turisti.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/58383e9355b5be1f22a247f656f60025"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 11",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 9.33.avi",
+            "plot":"La fase 9.33 è il settimo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 9. Questo è il Festival dell'inversione del ruolo di genere dell'Ashford Academy.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4a174871eca253d7ea1a0f88e4a0816"
+                }
+            ]
+        },
+        { 
+            "tmdb_id": 31724,
+            "number": "OAV 8",
+            "saga": "Code Geass - Lelouch of the Rebellion",
+            "title": "Code Geass Picture Drama: Stage 9.75.avi",
+            "plot":"La fase 9.75 è il quarto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 9. Presenta una conversazione all'ora di cena tra Lelouch, Nunnally e Sayoko su C.C ..",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/65a32db463675af8222210e6ca834d35"
+                }
+            ]
+        }
+    ]
+}
