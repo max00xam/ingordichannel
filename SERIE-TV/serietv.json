@@ -7,7 +7,7 @@
             "year": "1989",
             "tmdb_id": 42699,
             "genre":["Dramma"],
-            "url": "/ANIMAZIONE/film/decalogo_list.json"
+            "url": "/SERIE-TV/_list.json"
         },
         {
             "plot": "Come nel celebre romanzo, vi si narrano le disavventure del famoso burattino, anche se, a differenza della versione letteraria, nello sceneggiato Pinocchio è impersonato da un bambino vero, che solo in alcuni punti si ritrasforma in un burattino (in questa serie, Pinocchio diviene burattino o bambino per essere punito, premiato o salvato dalla Fata, fino alla fine, quando è totalmente bambino per la sua buona condotta, e il suo spirito esce dal burattino morto).",
@@ -16,7 +16,7 @@
             "tmdb_id": 86662,
             "year": "1972",
             "genre":["Commedia", "Famiglia", "Bambini"],
-            "url": "/ANIMAZIONE/film/pinocchio_list.json"
+            "url": "/SERIE-TV/_list.json"
             },
             {
             "plot": "Dopo lo sterminio cylone, la specie umana conta solo 49.998 sopravvissuti. Il Comandante William Adamo guida la Flotta Coloniale a bordo del Galactica, unica astronave militare salvatasi dall'attacco alle Dodici Colonie, mentre Laura Roslin assume la difficile carica di presidente presso il Colonial One. Insieme guidano l'umanità verso una nuova casa, la leggendaria tredicesima colonia nota come Terra. La Flotta è sottoposta a continui attacchi da parte dei Cyloni, e fatica a restare unita dopo ogni salto. I piloti di Viper, tra i quali spicca il tenente Kara \"Scorpion\" Thrace, sono sotto il comando di Lee Adamo, figlio del comandante. Lo scienziato Gaius Baltar, il responsabile dell'attacco cylone, è anch'egli a bordo della Flotta e tenta di conquistare la fiducia dei piani alti costruendo un congegno in grado di rilevare la natura di un cylone umanoide. Allo stesso tempo inizia ad avere visioni del cylone che lo sedusse su Caprica, Numero Sei, che sostiene di essere un angelo di Dio. Il Tenente Sharon \"Boomer\" Valerii scopre di essere una copia dormiente del Numero Otto e tenta di uccidere William Adamo. Nel frattempo, Scorpion si reca a Caprica per recuperare la Freccia di Apollo, un antico manufatto che secondo le Scritture aprirebbe le porte della Tomba di Atena, luogo mistico che aiuterebbe l'umanità a trovare la rotta verso la Terra. Sul pianeta si unisce a Karl Agathon, che ha vissuto gli ultimi mesi con una copia del Numero Otto credendo che questa fosse Boomer.",
@@ -25,7 +25,7 @@
             "year": "2004",
             "tmdb_id": "1972",
             "genre":["Dramma"],
-            "url": "/ANIMAZIONE/film/_list.json"
+            "url": "/SERIE-TV/galactica_list.json"
         },
         {
             "plot": "",
@@ -34,7 +34,7 @@
             "year": "",
             "tmdb_id": "",
             "genre":[""],
-            "url": "/ANIMAZIONE/film/_list.json"
+            "url": "/SERIE-TV/_list.json"
         }            
     ]
 }
