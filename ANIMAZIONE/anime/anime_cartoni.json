@@ -1,6 +1,14 @@
 {
     "tvshows_list": [
       {
+        "plot":"Il motto di Kintaro è “imparo, imparo, imparo…”. In questo si riassume la sua filosofia di vita. Lascia infatti l’università visto che questa non aveva niente più da insegnargli e parte con la sua mountain bike con l’intenzione di viaggiare per l’intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacità di apprendimento e nella sua ingenuità si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l’impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul più bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare…",
+        "title": "Golden Boy - W.I.P.",
+        "saga": "Golden Boy",
+        "tmdb_id":"34105",
+        "year":"1995",
+        "link": "/ANIMAZIONE/anime/goldenboy_list.json"
+      },
+      {
         "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono più amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si è dimenticata.",
         "title": "Ano Hana",
         "saga": "Ano Hana",
@@ -294,10 +302,10 @@
         "saga": "Team Galaxy",
         "year": "2006",
         "genre":["Animazione","Azione & Avventura"],
-        "url": "/ANIMAZIONE/anime/_list.json"
+        "url": "/ANIMAZIONE/anime/team_list.json"
       },
       {
-        "plot": "",
+        "plot": "Il Giappone è diventato una colonia dell’impero della Britannia ed è conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d’elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilità strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
         "title": "Code Geass - Lelouch of the Rebellion",
         "saga": "Code Geass - Lelouch of the Rebellion",
         "year": "2006",
@@ -306,11 +314,18 @@
         "url": "/ANIMAZIONE/anime/geass_list.json"
       },
       {
-        "plot": "",
         "title": "Code Geass - Lelouch of the Rebellion R2",
         "saga": "Code Geass - Lelouch of the Rebellion R2",
         "year": "2008",
         "genre":["Azione e Avventura", "Animazione", "Dramma", "Fantascienza & Fantasia"],
+        "url": "/ANIMAZIONE/anime/geasr2_list.json"
+      },
+      {
+        "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+        "title": "Ritorno al Futuro - W.I.P.",
+        "saga": "Ritorno al Futuro",
+        "year": "1991",
+        "genre":["Animazione", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/geasr2_list.json"
       }
     ]
