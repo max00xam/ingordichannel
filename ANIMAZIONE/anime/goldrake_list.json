@@ -1,0 +1,818 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id":  46252,
+			"number": "1x1",
+			"saga": "UFO Robot Goldrake",
+			"title": "Alcor e Actarus",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/22a7ef889e358411e042083054d85077"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x2",
+			"saga": "UFO Robot Goldrake",
+			"title": "La terra è in pericolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/974529423172f479beed833848e52e09"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x3",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'incubo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5529bea670bc35b4847a499389c234e1"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x4",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mostro spaziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/283ae04324e5d4356aa46271a7f07c23"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x5",
+			"saga": "UFO Robot Goldrake",
+			"title": "Una serata di gloria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ea5f82ef5f0110bd710644ce35b4594d"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x6",
+			"saga": "UFO Robot Goldrake",
+			"title": "Attacco a Tokyo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e1371c0e02e5dea13df4ab7e3d0dfee6"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x7",
+			"saga": "UFO Robot Goldrake",
+			"title": "Missione da Vega",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4e55fa894e564eb9a83874ed7e2e42b8"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x8",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un mistero dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4537a707f67908dc66d69598eab02c92"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x9",
+			"saga": "UFO Robot Goldrake",
+			"title": "Catturate gli spaziali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/00da302eb8e3a7b15a9933601803be59"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x10",
+			"saga": "UFO Robot Goldrake",
+			"title": "Operazione spionaggio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/14a4c985f47a0e66b9c33ef46b9a6606"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x11",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'agguato lunare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/069d18842fea78418439f7bdb943a9e4"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x12",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il disco di ghiaccio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/060c5b39ecff900ce832924a806cb8c2"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x13",
+			"saga": "UFO Robot Goldrake",
+			"title": "Fiamme dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1af003f1e504574d589894131b129553"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x14",
+			"saga": "UFO Robot Goldrake",
+			"title": "Festa di Capodanno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dc066191cdc78927d9190616a266b11b"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x15",
+			"saga": "UFO Robot Goldrake",
+			"title": "Una lettera per la madre lontata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/47461d4eaed6ce121582de7d9d962c11"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x16",
+			"saga": "UFO Robot Goldrake",
+			"title": "La Stella Fantasma",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e611824487c2a06249b76e03d94a7038"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x17",
+			"saga": "UFO Robot Goldrake",
+			"title": "La bufera di neve",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca6f3eade702ed3cfccd0e6dd414ac53"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x18",
+			"saga": "UFO Robot Goldrake",
+			"title": "Passaggio Segreto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc571973ddc9d9bbf56f98d907064859"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x19",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'insidia Sotto La Montagna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/42de8c48ef996443d87ec58f5acf822a"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x20",
+			"saga": "UFO Robot Goldrake",
+			"title": "Pioggia di asteroidi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9a8638c21a23f1e5a764993ca340f7c6"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x21",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il giorno dell'aurora",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/35fac4e40bdb30db17930a09528ee114"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x22",
+			"saga": "UFO Robot Goldrake",
+			"title": "La difesa magnetica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/691eda446c049e15e010302488675cab"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x23",
+			"saga": "UFO Robot Goldrake",
+			"title": "Distruggere la diga!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb745b72c03bd725d323c2260e296dce"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x24",
+			"saga": "UFO Robot Goldrake",
+			"title": "Eliminate Goldrake!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/454cec7ba01b7cd74cc31d8501a05036"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x25",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'amore Che Sbocciò Nel Cielo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f85c52bb2311f4073e3717fbf1af85de"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x26",
+			"saga": "UFO Robot Goldrake",
+			"title": "Avanti nello spazio!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f6c23ca2c9b0a744e3f61b815a0b2d24"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x27",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il Contrattacco Di Goldrake",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bf36e9288471cba67f747868ae2cbb25"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x28",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'invasione degli umanoidi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2f60cc08d647c61466782223a11bf797"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x29",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un amico dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d74a1fc492c4370d328456e0728fb388"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x30",
+			"saga": "UFO Robot Goldrake",
+			"title": "La cicatrice rossa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/824e08220441e213be7c8cdb35eeabb2"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x31",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un robot per Alcor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4e3451fb103aaba11fc0871cdfa2e40f"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x32",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un miraggio mortale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92c52956e62db6408ebb448922b5d5b2"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x33",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mostro dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/627e205bdb73a79c9aa9c6b9e0cae430"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x34",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un Lupo Siderale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0fdbb16272ad2a8001ea6f65cc771853"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x35",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il terremoto misterioso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ad7f8019255bac31550de691804ec69b"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x36",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il raggio ciclonico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/06042fbaa79a44b8502551f0b000d2bf"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x37",
+			"saga": "UFO Robot Goldrake",
+			"title": "Esplosione nella galassia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/df16ad62e4db2846fa1a30a9e284fcdd"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x38",
+			"saga": "UFO Robot Goldrake",
+			"title": "La ricerca del superuranio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/435bf4582db6311b21c80ab6a78b3221"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x39",
+			"saga": "UFO Robot Goldrake",
+			"title": "Venusia scende in campo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a24271f37d6f58ed0bff8c9c90f5f02"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x40",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mare è in fiamme!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d8cf6e0b04be34be6ad0b199a1f94a6"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x41",
+			"saga": "UFO Robot Goldrake",
+			"title": "Battaglia negli abissi marini",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/322d194fa5304187f9f6e4a7ef16bee3"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x42",
+			"saga": "UFO Robot Goldrake",
+			"title": "S",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d0410bab1ecc4e6463f43873b97af79"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x43",
+			"saga": "UFO Robot Goldrake",
+			"title": "Una base segreta sulla terra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4ddd01b0866137a419f7cf7be7ee9652"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x44",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un segreto dalla preistoria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ad57aa589490c81ec07f92ebbe1ce1f3"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x45",
+			"saga": "UFO Robot Goldrake",
+			"title": "I mostri del sottosuolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4a4596425c0522739f314ded8eafcee8"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x46",
+			"saga": "UFO Robot Goldrake",
+			"title": "Uno squalo dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7446657b9b39e9df8a12ddfb73204376"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x47",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'insidia sotto il lago",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7501b3de9100448806b1b966c84bd341"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x48",
+			"saga": "UFO Robot Goldrake",
+			"title": "La montagna scomparsa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6377666b0a58464ba97df7331c1f0719"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x49",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mostro ribelle",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2ce0b23a3aaa412b46fa852e3911d396"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x50",
+			"saga": "UFO Robot Goldrake",
+			"title": "Eliminate Alcor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8f8765725a52570247475110ce2481d"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x51",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il pianeta contaminato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9875e3a86b2d2aecb3915b54a7722f46"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x52",
+			"saga": "UFO Robot Goldrake",
+			"title": "La fuga",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03f5d0eed95ebdc651d74092f88d46f0"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x53",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mostro invincibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/56b96d15042e4eaa4cbedfd0c3f49330"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x54",
+			"saga": "UFO Robot Goldrake",
+			"title": "Orrore negli abissi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a0de7d8e4f959e4e527755652c179541"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x55",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il mostro di Lochness",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/80c5c81abcc75cd45633bb275ec93c81"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x56",
+			"saga": "UFO Robot Goldrake",
+			"title": "L'occhio spaziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a3dd2c07f428108b368e7abe17845f91"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x57",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un piccolo mostro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c62753ae3fcee0b02e23fd9d7f4a78ee"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x58",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il falso Goldrake",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d237e3982a64f27c36797734b4ce525d"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x59",
+			"saga": "UFO Robot Goldrake",
+			"title": "Un commando di ragazzini",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ae2daf19e95b25a01e74744cc0a37201"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x60",
+			"saga": "UFO Robot Goldrake",
+			"title": "Ultimatum ore sette",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/952ca8d15c2b56c3fee477f9a4f03161"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x61",
+			"saga": "UFO Robot Goldrake",
+			"title": "Piano Pegaso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/269490b1c2d4cf8e137f211d16e30759"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x62",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il giorno dei cigni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f65d74c70af342ec899c97a7b81f9e42"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x63",
+			"saga": "UFO Robot Goldrake",
+			"title": "Gelo mortale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11bf4490b2779a5e8f244269b4bb1e35"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x64",
+			"saga": "UFO Robot Goldrake",
+			"title": "Gli ultimi cinque minuti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3d9c320d8e6ca1724573790aac95e63c"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x65",
+			"saga": "UFO Robot Goldrake",
+			"title": "Alcor, un vero combattente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8e2b2267a20145f9d986a2ed5e50403"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x66",
+			"saga": "UFO Robot Goldrake",
+			"title": "Sotto il livello del mare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9753b3b19d28d6a5cd4cf0ad55e941c9"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x67",
+			"saga": "UFO Robot Goldrake",
+			"title": "La fuga di Gandal",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ef2d429b0b20d134ded1b15785cde10e"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x68",
+			"saga": "UFO Robot Goldrake",
+			"title": "Maria nella tempesta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/33460785c45a32765f2aa239da44895d"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x69",
+			"saga": "UFO Robot Goldrake",
+			"title": "Il figlio di Zuril",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9cd942ffa4dea18a181a36bd0f9643f1"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x70",
+			"saga": "UFO Robot Goldrake",
+			"title": "Addio, re di Fleed!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7664e4bca9cdcd55f617b8ae4c766bd0"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x71",
+			"saga": "UFO Robot Goldrake",
+			"title": "La tragedia del comandante Marcus",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b9697aee0aaf97cceb7ce920933fc2fa"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x72",
+			"saga": "UFO Robot Goldrake",
+			"title": "Rivoluzione nello spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bf904ffbc80b747041402616c5b35eea"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x73",
+			"saga": "UFO Robot Goldrake",
+			"title": "Due amici inseparabili",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c6deae63ae9d31e7ac56362233d39543"
+				}
+			]
+		},
+		{
+			"tmdb_id":  46252,
+			"number": "1x74",
+			"saga": "UFO Robot Goldrake",
+			"title": "Goldrake o Vega",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4fcc08382eff71e2c8082c0a56ba4995"
+				}
+			]
+		}
+    ]
+}

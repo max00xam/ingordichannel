@@ -1,290 +1,290 @@
 {
     "episodes_list": [
         {
-            "tmdb_id": 96080,
-            "number": "1x1",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "La figlia del Corsaro Nero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4a3b4b38609f579e350bafef52964f25"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x2",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Nel carcere di Maracaibo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3c7ffaaf7af4e9a2fc7eebb0ff453119"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x3",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Matrimonio Improvvisato",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5a51c1c0aa792723631f112a89bf3a03"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x4",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Incendio a bordo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2c945f1f146bec42fa07cdb9b049c1d2"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x5",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il terrore dei mari",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bd694d72a15c00aaa04fc4c40ed62975"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x6",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Paloma Grande",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/26280ed7b3b6fefa104ae95290c1dac9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x7",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Nel cuore del vulcano",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/03f813dccbfcf1628cbe0e71356ab772"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x8",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Attacco all`isola di Tortuga",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2b4cb45e0ec49e2bb68a69837cd9d891"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x9",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "All`arrembaggio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2eebf8f66a2b978ba11799b755143dc6"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x10",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Naufragio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e91e842c18dd43e575368f82977792b3"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x11",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Festa mascherata",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/452f5974b445830336eda64a4f7d7615"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x12",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Fuga nella giungla",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e39c9d65819f3afe51089196a3aa00f5"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x13",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il covo dei pirati",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f0e7c1eee3ddd9d8237c330caa9511ef"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x14",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il castello stregato",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/83724de820a88ddfed8586d374566725"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x15",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il tesoro del marchese",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9bbdfca61f9b61c4efe824adbf5a7ad0"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x16",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il segreto della piramide",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/68714ff96d3150caa90f419ba57b4903"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x17",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il traditore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0d68c717fff52b3024da8b3605b917ba"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x18",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "La cascata degli angeli",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a0a6faaeb02d486005d57fecf3a67520"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x19",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "La maledizione del Corsaro Nero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ab5d9926260864e4de3ad4d76bf7197f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x20",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il tradimento di Natzul",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4519be9d12dae8b4fade4daced3c651c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x21",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "La scorciatoia segreta",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cd865fb6a0893e16397a39328bb45337"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x22",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Nell`occhio del ciclone",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ae92e260291974ec02b2fb9ab401f654"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x23",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "La Rosa nera",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4d0f92ba550dbadd7f66662e82bc64b7"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x24",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Le isole gemelle",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1eca52f3196d325ef0c365611c49909c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x25",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Fantasmi e apparizioni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/708399b5ecedc9027c0466db0716c8bf"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 96080,
-            "number": "1x26",
-            "saga": "Jolanda la figlia del Corsaro Nero",
-            "title": "Il Corsaro Nero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f1364ef14845b1c4e56a61c6b47e2f5d"
-                }
-            ]
-        }
+			"tmdb_id": 96080,
+			"number": "1x1",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "La figlia del Corsaro Nero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4a3b4b38609f579e350bafef52964f25"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x2",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Nel carcere di Maracaibo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3c7ffaaf7af4e9a2fc7eebb0ff453119"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x3",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Matrimonio Improvvisato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5a51c1c0aa792723631f112a89bf3a03"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x4",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Incendio a bordo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c945f1f146bec42fa07cdb9b049c1d2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x5",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il terrore dei mari",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bd694d72a15c00aaa04fc4c40ed62975"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x6",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Paloma Grande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/26280ed7b3b6fefa104ae95290c1dac9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x7",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Nel cuore del vulcano",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03f813dccbfcf1628cbe0e71356ab772"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x8",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Attacco all`isola di Tortuga",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2b4cb45e0ec49e2bb68a69837cd9d891"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x9",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "All`arrembaggio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2eebf8f66a2b978ba11799b755143dc6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x10",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Naufragio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e91e842c18dd43e575368f82977792b3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x11",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Festa mascherata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/452f5974b445830336eda64a4f7d7615"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x12",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Fuga nella giungla",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e39c9d65819f3afe51089196a3aa00f5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x13",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il covo dei pirati",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0e7c1eee3ddd9d8237c330caa9511ef"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x14",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il castello stregato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/83724de820a88ddfed8586d374566725"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x15",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il tesoro del marchese",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9bbdfca61f9b61c4efe824adbf5a7ad0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x16",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il segreto della piramide",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/68714ff96d3150caa90f419ba57b4903"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x17",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il traditore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0d68c717fff52b3024da8b3605b917ba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x18",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "La cascata degli angeli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a0a6faaeb02d486005d57fecf3a67520"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x19",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "La maledizione del Corsaro Nero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ab5d9926260864e4de3ad4d76bf7197f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x20",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il tradimento di Natzul",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4519be9d12dae8b4fade4daced3c651c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x21",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "La scorciatoia segreta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cd865fb6a0893e16397a39328bb45337"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x22",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Nell`occhio del ciclone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ae92e260291974ec02b2fb9ab401f654"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x23",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "La Rosa nera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4d0f92ba550dbadd7f66662e82bc64b7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x24",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Le isole gemelle",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1eca52f3196d325ef0c365611c49909c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x25",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Fantasmi e apparizioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/708399b5ecedc9027c0466db0716c8bf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 96080,
+			"number": "1x26",
+			"saga": "Jolanda la figlia del Corsaro Nero",
+			"title": "Il Corsaro Nero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f1364ef14845b1c4e56a61c6b47e2f5d"
+				}
+			]
+		}
     ]
 }

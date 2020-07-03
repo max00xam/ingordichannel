@@ -1,1203 +1,1203 @@
 {
     "episodes_list": [
         {
-            "tmdb_id": 53298,
-            "number": "1x0",
-            "saga": "Yattaman",
-            "title": "Sigla Iniziale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/55a5551420a704a74b1621a1e0c2410d"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x1",
-            "saga": "Yattaman",
-            "title": "Yattaman entra in azione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8e2289a62f8b9f9bf80f65de5f90a33f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x2",
-            "saga": "Yattaman",
-            "title": "Il naso della sfinge",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b91b7fd34cf989f3ed4fe57b10a9432c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x3",
-            "saga": "Yattaman",
-            "title": "L`ombrello del re",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/fe126e41729a4af8a2efb090d4040c63"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x4",
-            "saga": "Yattaman",
-            "title": "Avventura al Polo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/253888f77279cdf890b611ea49ff2891"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x5",
-            "saga": "Yattaman",
-            "title": "Il falso profeta",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/78c713f51f00e1231dc22ddfe482c8a0"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x6",
-            "saga": "Yattaman",
-            "title": "Il palazzo del sole",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7f98cc9e74409585e9361eae4640d079"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x7",
-            "saga": "Yattaman",
-            "title": "Il carnevale di Rio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d27366f000ecaf22b0347b008fc4d296"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x8",
-            "saga": "Yattaman",
-            "title": "L`uomo dell`Himalaya",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/668af0cc658446802fb5a6d361de6c57"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x9",
-            "saga": "Yattaman",
-            "title": "L`amico Tarzan",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a6d492ddf8b5bbd6e85779ccbcba5f09"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x10",
-            "saga": "Yattaman",
-            "title": "Il mostro del lago",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4b6b6265efd4f4d3c05ee73005dceffd"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x11",
-            "saga": "Yattaman",
-            "title": "Il triangolo misterioso",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/dfbad5d039d8effc0248ae45b64fc0b1"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x12",
-            "saga": "Yattaman",
-            "title": "L`isola di ferragosto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6ea618522168205e94331115e7964f60"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x13",
-            "saga": "Yattaman",
-            "title": "Le favolose amazzoni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1f0e60e64e993c51266a6b62aaa1a905"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x14",
-            "saga": "Yattaman",
-            "title": "Il grande ladro",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/106f0d1e5656886bf227ef6ae21a5f36"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x15",
-            "saga": "Yattaman",
-            "title": "La piccola Pessy",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7a6e8a559b2e2a2219c22444a9ac3ef1"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x16",
-            "saga": "Yattaman",
-            "title": "La regina di Yametai",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/624e1913c29627d74aaae5cff4a9053e"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x17",
-            "saga": "Yattaman",
-            "title": "I favolosi Beatliz",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6dd1345b577d676a7779d650d0ebf103"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x18",
-            "saga": "Yattaman",
-            "title": "Ricerche allo zoo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9a7b4c1efe545522e2847f1fff95ee1d"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x19",
-            "saga": "Yattaman",
-            "title": "Spedizione sulle Alpi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/da6f3d7db3c7e2ac05674ea60cf21584"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x20",
-            "saga": "Yattaman",
-            "title": "I gangster",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4379b669149066aa18cf33b44c838e5b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x21",
-            "saga": "Yattaman",
-            "title": "Il grande Red",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c5ef61cf5cfecea4322c0264ddc93812"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x22",
-            "saga": "Yattaman",
-            "title": "I tesori di Naibabà",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/08634a47e080693fdae939407d0fb4a4"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x23",
-            "saga": "Yattaman",
-            "title": "Il gatto Puffetto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/434d92a1e80460bbcb070a698049ff6b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x24",
-            "saga": "Yattaman",
-            "title": "Vinca il migliore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7e55daf0137002c583c12b8e345f6404"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x25",
-            "saga": "Yattaman",
-            "title": "L`uomo della pianura",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/aa417742bc9c35e270590052e9d77d27"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x26",
-            "saga": "Yattaman",
-            "title": "Il mistero della donna lupo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4d3cf903f04e6c0eca70f914f7a1da7e"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x27",
-            "saga": "Yattaman",
-            "title": "Avventura sotto terra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8746460a4593afcb9692808bde9115f0"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x28",
-            "saga": "Yattaman",
-            "title": "La principessa sulla Luna",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c28b3351c991a02b8c4bf64a122bb3f2"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x29",
-            "saga": "Yattaman",
-            "title": "Viaggio a Tequila City",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ca4e94e958dd9a6af73295d4a58bcd67"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x30",
-            "saga": "Yattaman",
-            "title": "L`isola di King Kong",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2e5d7a8ee4951f613ffc3cf32890e0e6"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x31",
-            "saga": "Yattaman",
-            "title": "L`isola di Robinson Crusoe",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/75ca3ca28edb8ffe6a3b714e4eb9f9c3"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x32",
-            "saga": "Yattaman",
-            "title": "Spedizione al Polo Sud",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c0a21dd05d40a91560f00de289287286"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x33",
-            "saga": "Yattaman",
-            "title": "Il detective",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/19890d22b1042b0962fe8d831254a83f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x34",
-            "saga": "Yattaman",
-            "title": "L`isola del diavolo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/aba0dc81e222b8b2235d57319e457dca"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x35",
-            "saga": "Yattaman",
-            "title": "Avventure sottomarine",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/11f70d03dafaea1b443b31d270775b74"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x36",
-            "saga": "Yattaman",
-            "title": "La crudele Carmen",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/908d071edba7f995107a23a180c5f9be"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x37",
-            "saga": "Yattaman",
-            "title": "Una questione poco pulita",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a1a12aa4461fe683cc43724444426368"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x38",
-            "saga": "Yattaman",
-            "title": "Viaggio nel tempo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6fe24598d251a6e9ada862015a5060a8"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x39",
-            "saga": "Yattaman",
-            "title": "L`esorcista",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b7b1f422540fc7f67d9cbca1f2fa3e41"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x40",
-            "saga": "Yattaman",
-            "title": "La coppa Billy Boop",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/13bd7ac51afcb9051e0ead5e6bdafc5b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x41",
-            "saga": "Yattaman",
-            "title": "La storia di Pannocchio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d9480c2bd26e83246450d5d24bf21fde"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x42",
-            "saga": "Yattaman",
-            "title": "Terrore sulla freccia azzurra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/84952d598ea896be982367492bc26b6c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x43",
-            "saga": "Yattaman",
-            "title": "Il mago",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f1fa75e4fca8d5e1ecb351ea5cc9af67"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x44",
-            "saga": "Yattaman",
-            "title": "I tre moschettieri",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/24b56608e62bf0b734b1f88f3b7ca482"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x45",
-            "saga": "Yattaman",
-            "title": "La donna delle nevi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f9f1618afff8073bec01dcf3e4240926"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x46",
-            "saga": "Yattaman",
-            "title": "Il coraggioso Jam Tell",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e42a53d24d9986d32ef326a2220f5a71"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x47",
-            "saga": "Yattaman",
-            "title": "Una stana avventura",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7a03c01991d0494ef32772d49fca620f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x48",
-            "saga": "Yattaman",
-            "title": "La gara",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/09aaa960312047943b63dbba61b2bc64"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x49",
-            "saga": "Yattaman",
-            "title": "Il bandito buono",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2023ddf01ae54383daffcdd110e45fdc"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x50",
-            "saga": "Yattaman",
-            "title": "L`isola degli orchi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/169593141854fe950220f332ee2459bd"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x51",
-            "saga": "Yattaman",
-            "title": "Il ranocchio parlante",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f976220b4cb523e956836136dbdf0c82"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x52",
-            "saga": "Yattaman",
-            "title": "Gilber il pirata",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/df404cf4b2dd68622e65f260acdad3d3"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x53",
-            "saga": "Yattaman",
-            "title": "Il potente buono",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/397be83f1fde3e2003b77bc720314ed5"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x54",
-            "saga": "Yattaman",
-            "title": "La balena rosa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7bdfc0c20ecea3e634240cd9d92ddb9d"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x55",
-            "saga": "Yattaman",
-            "title": "Il duello",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b3ebd927eb49ac5edcbabcca9f3dd8ed"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x56",
-            "saga": "Yattaman",
-            "title": "Il grande incontro",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2db14ce524306f77d3e472e0e34f1bbf"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x57",
-            "saga": "Yattaman",
-            "title": "I folletti di Kappa-River",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/381e9782d8d7059b3ce6740af8c9f09c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x58",
-            "saga": "Yattaman",
-            "title": "La corsa del Macao",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/13ba35e9a844f4202c869d145e69749f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x59",
-            "saga": "Yattaman",
-            "title": "Il divo del cinema",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c79ac90b849356ce4433a8d33db58ede"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x60",
-            "saga": "Yattaman",
-            "title": "Fratello e sorella",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6ad674ea6e7135d0e9412ae66053790c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x61",
-            "saga": "Yattaman",
-            "title": "I mostri marini",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/607329ef00914cbcd7c1e3c6435c95fc"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x62",
-            "saga": "Yattaman",
-            "title": "La scimmia volante",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7d640a67dc4143f8171ceac24332a0f9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x63",
-            "saga": "Yattaman",
-            "title": "Agenzia di spedizioni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6fc946809558a96e6f05f3bb884e436b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x64",
-            "saga": "Yattaman",
-            "title": "Viaggio nello spazio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a6298f97a2705b690ec9c20b0495a13a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x65",
-            "saga": "Yattaman",
-            "title": "Il diavolo di Rashmon Gate",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/74a544c854392f9be26fcd86add57147"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x66",
-            "saga": "Yattaman",
-            "title": "L`eruzione del vulcano",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f0df6aa164fb718b9b8b7a803ca35cb5"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x67",
-            "saga": "Yattaman",
-            "title": "Come imparare la scherma",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d1e9e3999caf9951c5de93b753acfc2e"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x68",
-            "saga": "Yattaman",
-            "title": "La regina delle nevi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/523dc958c95bd8722e1e85bda64230fb"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x69",
-            "saga": "Yattaman",
-            "title": "La conquista di monte Maborost",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c8e911c61d68489987fbeeea1f1c9a5a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x70",
-            "saga": "Yattaman",
-            "title": "L`elmetto di pietra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/92b9281c85e875a1a4ddc7e5c6b6d7a4"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x71",
-            "saga": "Yattaman",
-            "title": "Il vaso di legno",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d52b993b37889d73ce51ff2f1381a960"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x72",
-            "saga": "Yattaman",
-            "title": "La bella addormentata",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/79261151f32019fb9d8f79ca494ecb25"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x73",
-            "saga": "Yattaman",
-            "title": "Il bagno bollente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bbe02fb4010c0517fc71fa9a1d611c7c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x74",
-            "saga": "Yattaman",
-            "title": "Viaggio nell`impero romano",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cc355b0a56450b7a292ccd3180489ddb"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x75",
-            "saga": "Yattaman",
-            "title": "Un`antica arte marziale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/78967f0b82d41ac4fbb9f35900fcd030"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x76",
-            "saga": "Yattaman",
-            "title": "Duello nella Via Lattea",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/45c92d9fa9c1e44abd584f13ccf2a77a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x77",
-            "saga": "Yattaman",
-            "title": "La venditrice di lampade",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bac919f34dc8df8a238c6b946e4cdbfd"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x78",
-            "saga": "Yattaman",
-            "title": "La maschera di bronzo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c673a953a000c8f710321c67763a2ca9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x79",
-            "saga": "Yattaman",
-            "title": "Il mago di Guz",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/40bc00bd3a50f37d64c4b64a885ac055"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x80",
-            "saga": "Yattaman",
-            "title": "La storia di Satomi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/294f8e23702a75d10908b38d7ce851fc"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x81",
-            "saga": "Yattaman",
-            "title": "L`artista mediocre",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0dc4b82610ab24f04d9c3ed2c8f87e61"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x82",
-            "saga": "Yattaman",
-            "title": "Il samurai",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2fb27e828a014e6bb287cee91b5076f4"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x83",
-            "saga": "Yattaman",
-            "title": "La grande muraglia",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/29393c3f5b6b9aa7d620100ac64dfd08"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x84",
-            "saga": "Yattaman",
-            "title": "Il gladiatore Spartaos",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a1a216ab97b3728016035cf3ef4da9ae"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x85",
-            "saga": "Yattaman",
-            "title": "La principessa Sirena",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/88ff32217394f17d7a2a8838ba4b99e1"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x86",
-            "saga": "Yattaman",
-            "title": "La giovane guerriera",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f6b362070d6eda492dfc07d608655401"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x87",
-            "saga": "Yattaman",
-            "title": "La lampada magica",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d856c272e155a44788e926ce39791ad7"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x88",
-            "saga": "Yattaman",
-            "title": "Rann dai capelli rossi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ebdbdc2df3036f3154435dfd867a7538"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x89",
-            "saga": "Yattaman",
-            "title": "Il cavaliere coraggioso",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a1fb89dfb83ec3d386b1698c0047c8ff"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x90",
-            "saga": "Yattaman",
-            "title": "Il nuovo continente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/717359430f0a28e7a1f2c4dc044d687c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x91",
-            "saga": "Yattaman",
-            "title": "Lo spirito malvagio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/71eb36f79db15b8415d41bd87ae12547"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x92",
-            "saga": "Yattaman",
-            "title": "Sogno di una notte di primavera",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7e07a33f4c0a9ab1fb0efc7b55236387"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x93",
-            "saga": "Yattaman",
-            "title": "Un valoroso guerriero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ba15eb9e98fa77a2afa00c6b1cf46aa9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x94",
-            "saga": "Yattaman",
-            "title": "I fratelli Left",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3c0f84ec4a1d86f528df33e738f4eee3"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x95",
-            "saga": "Yattaman",
-            "title": "La regina del Negitto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3bc42f6de0c730c6384cabee1b0d038c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x96",
-            "saga": "Yattaman",
-            "title": "Un airone bianco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/43a3a17cedf725bb1f92f1d974e12943"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x97",
-            "saga": "Yattaman",
-            "title": "Il tempio di Bunbuku",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cc17ce2447eb0114445ebc0a9a7ff0be"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x98",
-            "saga": "Yattaman",
-            "title": "Il cane Lucky",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/53396711d4fc3408da143fdfac337afe"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x99",
-            "saga": "Yattaman",
-            "title": "La spada del re",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a9a92f7765da0046d945c9a1ff4a10ea"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x100",
-            "saga": "Yattaman",
-            "title": "Angel e Gretel",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/412387b1404ea8e424d5ae4a2a9dc8b3"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x101",
-            "saga": "Yattaman",
-            "title": "Alessandro il grande",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/587ecd24f79b7c74e34e423841e065d2"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x102",
-            "saga": "Yattaman",
-            "title": "Il presidente di Yashington",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9407b0b6ddce0849b58c459c4cccdb06"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x103",
-            "saga": "Yattaman",
-            "title": "Il dottor Schpeizer",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a0d1caca533781e7202e26ce23b7657b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x104",
-            "saga": "Yattaman",
-            "title": "Il regno di Fritten",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c55a1767258e077c8bfd3d181cdf017d"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x105",
-            "saga": "Yattaman",
-            "title": "Il dottor Collector",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/dc35e8608692fd3fabc6702524ff7a56"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x106",
-            "saga": "Yattaman",
-            "title": "Il ragazzo modello",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/328f510c8a9a6e04c96ab14a53b32e27"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x107",
-            "saga": "Yattaman",
-            "title": "La grande invenzione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/77c8b496ec67c725db27a4651632de52"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 53298,
-            "number": "1x108",
-            "saga": "Yattaman",
-            "title": "La battaglia di Awaterloo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ad1fa1bcc2fa8033a46e85965048b4cb"
-                }
-            ]
-        }
+			"tmdb_id": 53298,
+			"number": "1x0",
+			"saga": "Yattaman",
+			"title": "Sigla Iniziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/55a5551420a704a74b1621a1e0c2410d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x1",
+			"saga": "Yattaman",
+			"title": "Yattaman entra in azione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8e2289a62f8b9f9bf80f65de5f90a33f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x2",
+			"saga": "Yattaman",
+			"title": "Il naso della sfinge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b91b7fd34cf989f3ed4fe57b10a9432c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x3",
+			"saga": "Yattaman",
+			"title": "L`ombrello del re",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fe126e41729a4af8a2efb090d4040c63"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x4",
+			"saga": "Yattaman",
+			"title": "Avventura al Polo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/253888f77279cdf890b611ea49ff2891"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x5",
+			"saga": "Yattaman",
+			"title": "Il falso profeta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/78c713f51f00e1231dc22ddfe482c8a0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x6",
+			"saga": "Yattaman",
+			"title": "Il palazzo del sole",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f98cc9e74409585e9361eae4640d079"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x7",
+			"saga": "Yattaman",
+			"title": "Il carnevale di Rio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d27366f000ecaf22b0347b008fc4d296"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x8",
+			"saga": "Yattaman",
+			"title": "L`uomo dell`Himalaya",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/668af0cc658446802fb5a6d361de6c57"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x9",
+			"saga": "Yattaman",
+			"title": "L`amico Tarzan",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a6d492ddf8b5bbd6e85779ccbcba5f09"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x10",
+			"saga": "Yattaman",
+			"title": "Il mostro del lago",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b6b6265efd4f4d3c05ee73005dceffd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x11",
+			"saga": "Yattaman",
+			"title": "Il triangolo misterioso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dfbad5d039d8effc0248ae45b64fc0b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x12",
+			"saga": "Yattaman",
+			"title": "L`isola di ferragosto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ea618522168205e94331115e7964f60"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x13",
+			"saga": "Yattaman",
+			"title": "Le favolose amazzoni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1f0e60e64e993c51266a6b62aaa1a905"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x14",
+			"saga": "Yattaman",
+			"title": "Il grande ladro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/106f0d1e5656886bf227ef6ae21a5f36"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x15",
+			"saga": "Yattaman",
+			"title": "La piccola Pessy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a6e8a559b2e2a2219c22444a9ac3ef1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x16",
+			"saga": "Yattaman",
+			"title": "La regina di Yametai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/624e1913c29627d74aaae5cff4a9053e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x17",
+			"saga": "Yattaman",
+			"title": "I favolosi Beatliz",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6dd1345b577d676a7779d650d0ebf103"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x18",
+			"saga": "Yattaman",
+			"title": "Ricerche allo zoo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9a7b4c1efe545522e2847f1fff95ee1d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x19",
+			"saga": "Yattaman",
+			"title": "Spedizione sulle Alpi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/da6f3d7db3c7e2ac05674ea60cf21584"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x20",
+			"saga": "Yattaman",
+			"title": "I gangster",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4379b669149066aa18cf33b44c838e5b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x21",
+			"saga": "Yattaman",
+			"title": "Il grande Red",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c5ef61cf5cfecea4322c0264ddc93812"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x22",
+			"saga": "Yattaman",
+			"title": "I tesori di Naibabà",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/08634a47e080693fdae939407d0fb4a4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x23",
+			"saga": "Yattaman",
+			"title": "Il gatto Puffetto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/434d92a1e80460bbcb070a698049ff6b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x24",
+			"saga": "Yattaman",
+			"title": "Vinca il migliore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7e55daf0137002c583c12b8e345f6404"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x25",
+			"saga": "Yattaman",
+			"title": "L`uomo della pianura",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/aa417742bc9c35e270590052e9d77d27"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x26",
+			"saga": "Yattaman",
+			"title": "Il mistero della donna lupo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4d3cf903f04e6c0eca70f914f7a1da7e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x27",
+			"saga": "Yattaman",
+			"title": "Avventura sotto terra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8746460a4593afcb9692808bde9115f0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x28",
+			"saga": "Yattaman",
+			"title": "La principessa sulla Luna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c28b3351c991a02b8c4bf64a122bb3f2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x29",
+			"saga": "Yattaman",
+			"title": "Viaggio a Tequila City",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca4e94e958dd9a6af73295d4a58bcd67"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x30",
+			"saga": "Yattaman",
+			"title": "L`isola di King Kong",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2e5d7a8ee4951f613ffc3cf32890e0e6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x31",
+			"saga": "Yattaman",
+			"title": "L`isola di Robinson Crusoe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/75ca3ca28edb8ffe6a3b714e4eb9f9c3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x32",
+			"saga": "Yattaman",
+			"title": "Spedizione al Polo Sud",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c0a21dd05d40a91560f00de289287286"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x33",
+			"saga": "Yattaman",
+			"title": "Il detective",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/19890d22b1042b0962fe8d831254a83f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x34",
+			"saga": "Yattaman",
+			"title": "L`isola del diavolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/aba0dc81e222b8b2235d57319e457dca"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x35",
+			"saga": "Yattaman",
+			"title": "Avventure sottomarine",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11f70d03dafaea1b443b31d270775b74"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x36",
+			"saga": "Yattaman",
+			"title": "La crudele Carmen",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/908d071edba7f995107a23a180c5f9be"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x37",
+			"saga": "Yattaman",
+			"title": "Una questione poco pulita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a1a12aa4461fe683cc43724444426368"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x38",
+			"saga": "Yattaman",
+			"title": "Viaggio nel tempo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6fe24598d251a6e9ada862015a5060a8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x39",
+			"saga": "Yattaman",
+			"title": "L`esorcista",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b7b1f422540fc7f67d9cbca1f2fa3e41"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x40",
+			"saga": "Yattaman",
+			"title": "La coppa Billy Boop",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/13bd7ac51afcb9051e0ead5e6bdafc5b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x41",
+			"saga": "Yattaman",
+			"title": "La storia di Pannocchio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d9480c2bd26e83246450d5d24bf21fde"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x42",
+			"saga": "Yattaman",
+			"title": "Terrore sulla freccia azzurra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/84952d598ea896be982367492bc26b6c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x43",
+			"saga": "Yattaman",
+			"title": "Il mago",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f1fa75e4fca8d5e1ecb351ea5cc9af67"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x44",
+			"saga": "Yattaman",
+			"title": "I tre moschettieri",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/24b56608e62bf0b734b1f88f3b7ca482"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x45",
+			"saga": "Yattaman",
+			"title": "La donna delle nevi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f9f1618afff8073bec01dcf3e4240926"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x46",
+			"saga": "Yattaman",
+			"title": "Il coraggioso Jam Tell",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e42a53d24d9986d32ef326a2220f5a71"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x47",
+			"saga": "Yattaman",
+			"title": "Una stana avventura",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a03c01991d0494ef32772d49fca620f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x48",
+			"saga": "Yattaman",
+			"title": "La gara",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/09aaa960312047943b63dbba61b2bc64"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x49",
+			"saga": "Yattaman",
+			"title": "Il bandito buono",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2023ddf01ae54383daffcdd110e45fdc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x50",
+			"saga": "Yattaman",
+			"title": "L`isola degli orchi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/169593141854fe950220f332ee2459bd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x51",
+			"saga": "Yattaman",
+			"title": "Il ranocchio parlante",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f976220b4cb523e956836136dbdf0c82"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x52",
+			"saga": "Yattaman",
+			"title": "Gilber il pirata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/df404cf4b2dd68622e65f260acdad3d3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x53",
+			"saga": "Yattaman",
+			"title": "Il potente buono",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/397be83f1fde3e2003b77bc720314ed5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x54",
+			"saga": "Yattaman",
+			"title": "La balena rosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7bdfc0c20ecea3e634240cd9d92ddb9d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x55",
+			"saga": "Yattaman",
+			"title": "Il duello",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b3ebd927eb49ac5edcbabcca9f3dd8ed"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x56",
+			"saga": "Yattaman",
+			"title": "Il grande incontro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2db14ce524306f77d3e472e0e34f1bbf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x57",
+			"saga": "Yattaman",
+			"title": "I folletti di Kappa-River",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/381e9782d8d7059b3ce6740af8c9f09c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x58",
+			"saga": "Yattaman",
+			"title": "La corsa del Macao",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/13ba35e9a844f4202c869d145e69749f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x59",
+			"saga": "Yattaman",
+			"title": "Il divo del cinema",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c79ac90b849356ce4433a8d33db58ede"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x60",
+			"saga": "Yattaman",
+			"title": "Fratello e sorella",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ad674ea6e7135d0e9412ae66053790c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x61",
+			"saga": "Yattaman",
+			"title": "I mostri marini",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/607329ef00914cbcd7c1e3c6435c95fc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x62",
+			"saga": "Yattaman",
+			"title": "La scimmia volante",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d640a67dc4143f8171ceac24332a0f9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x63",
+			"saga": "Yattaman",
+			"title": "Agenzia di spedizioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6fc946809558a96e6f05f3bb884e436b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x64",
+			"saga": "Yattaman",
+			"title": "Viaggio nello spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a6298f97a2705b690ec9c20b0495a13a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x65",
+			"saga": "Yattaman",
+			"title": "Il diavolo di Rashmon Gate",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/74a544c854392f9be26fcd86add57147"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x66",
+			"saga": "Yattaman",
+			"title": "L`eruzione del vulcano",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0df6aa164fb718b9b8b7a803ca35cb5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x67",
+			"saga": "Yattaman",
+			"title": "Come imparare la scherma",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d1e9e3999caf9951c5de93b753acfc2e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x68",
+			"saga": "Yattaman",
+			"title": "La regina delle nevi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/523dc958c95bd8722e1e85bda64230fb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x69",
+			"saga": "Yattaman",
+			"title": "La conquista di monte Maborost",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8e911c61d68489987fbeeea1f1c9a5a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x70",
+			"saga": "Yattaman",
+			"title": "L`elmetto di pietra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92b9281c85e875a1a4ddc7e5c6b6d7a4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x71",
+			"saga": "Yattaman",
+			"title": "Il vaso di legno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d52b993b37889d73ce51ff2f1381a960"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x72",
+			"saga": "Yattaman",
+			"title": "La bella addormentata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/79261151f32019fb9d8f79ca494ecb25"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x73",
+			"saga": "Yattaman",
+			"title": "Il bagno bollente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bbe02fb4010c0517fc71fa9a1d611c7c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x74",
+			"saga": "Yattaman",
+			"title": "Viaggio nell`impero romano",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cc355b0a56450b7a292ccd3180489ddb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x75",
+			"saga": "Yattaman",
+			"title": "Un`antica arte marziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/78967f0b82d41ac4fbb9f35900fcd030"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x76",
+			"saga": "Yattaman",
+			"title": "Duello nella Via Lattea",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/45c92d9fa9c1e44abd584f13ccf2a77a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x77",
+			"saga": "Yattaman",
+			"title": "La venditrice di lampade",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bac919f34dc8df8a238c6b946e4cdbfd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x78",
+			"saga": "Yattaman",
+			"title": "La maschera di bronzo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c673a953a000c8f710321c67763a2ca9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x79",
+			"saga": "Yattaman",
+			"title": "Il mago di Guz",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40bc00bd3a50f37d64c4b64a885ac055"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x80",
+			"saga": "Yattaman",
+			"title": "La storia di Satomi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/294f8e23702a75d10908b38d7ce851fc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x81",
+			"saga": "Yattaman",
+			"title": "L`artista mediocre",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0dc4b82610ab24f04d9c3ed2c8f87e61"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x82",
+			"saga": "Yattaman",
+			"title": "Il samurai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2fb27e828a014e6bb287cee91b5076f4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x83",
+			"saga": "Yattaman",
+			"title": "La grande muraglia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/29393c3f5b6b9aa7d620100ac64dfd08"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x84",
+			"saga": "Yattaman",
+			"title": "Il gladiatore Spartaos",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a1a216ab97b3728016035cf3ef4da9ae"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x85",
+			"saga": "Yattaman",
+			"title": "La principessa Sirena",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/88ff32217394f17d7a2a8838ba4b99e1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x86",
+			"saga": "Yattaman",
+			"title": "La giovane guerriera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f6b362070d6eda492dfc07d608655401"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x87",
+			"saga": "Yattaman",
+			"title": "La lampada magica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d856c272e155a44788e926ce39791ad7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x88",
+			"saga": "Yattaman",
+			"title": "Rann dai capelli rossi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ebdbdc2df3036f3154435dfd867a7538"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x89",
+			"saga": "Yattaman",
+			"title": "Il cavaliere coraggioso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a1fb89dfb83ec3d386b1698c0047c8ff"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x90",
+			"saga": "Yattaman",
+			"title": "Il nuovo continente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/717359430f0a28e7a1f2c4dc044d687c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x91",
+			"saga": "Yattaman",
+			"title": "Lo spirito malvagio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/71eb36f79db15b8415d41bd87ae12547"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x92",
+			"saga": "Yattaman",
+			"title": "Sogno di una notte di primavera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7e07a33f4c0a9ab1fb0efc7b55236387"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x93",
+			"saga": "Yattaman",
+			"title": "Un valoroso guerriero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba15eb9e98fa77a2afa00c6b1cf46aa9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x94",
+			"saga": "Yattaman",
+			"title": "I fratelli Left",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3c0f84ec4a1d86f528df33e738f4eee3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x95",
+			"saga": "Yattaman",
+			"title": "La regina del Negitto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3bc42f6de0c730c6384cabee1b0d038c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x96",
+			"saga": "Yattaman",
+			"title": "Un airone bianco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/43a3a17cedf725bb1f92f1d974e12943"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x97",
+			"saga": "Yattaman",
+			"title": "Il tempio di Bunbuku",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cc17ce2447eb0114445ebc0a9a7ff0be"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x98",
+			"saga": "Yattaman",
+			"title": "Il cane Lucky",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/53396711d4fc3408da143fdfac337afe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x99",
+			"saga": "Yattaman",
+			"title": "La spada del re",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a9a92f7765da0046d945c9a1ff4a10ea"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x100",
+			"saga": "Yattaman",
+			"title": "Angel e Gretel",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/412387b1404ea8e424d5ae4a2a9dc8b3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x101",
+			"saga": "Yattaman",
+			"title": "Alessandro il grande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/587ecd24f79b7c74e34e423841e065d2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x102",
+			"saga": "Yattaman",
+			"title": "Il presidente di Yashington",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9407b0b6ddce0849b58c459c4cccdb06"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x103",
+			"saga": "Yattaman",
+			"title": "Il dottor Schpeizer",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a0d1caca533781e7202e26ce23b7657b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x104",
+			"saga": "Yattaman",
+			"title": "Il regno di Fritten",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c55a1767258e077c8bfd3d181cdf017d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x105",
+			"saga": "Yattaman",
+			"title": "Il dottor Collector",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dc35e8608692fd3fabc6702524ff7a56"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x106",
+			"saga": "Yattaman",
+			"title": "Il ragazzo modello",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/328f510c8a9a6e04c96ab14a53b32e27"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x107",
+			"saga": "Yattaman",
+			"title": "La grande invenzione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/77c8b496ec67c725db27a4651632de52"
+				}
+			]
+		},
+		{
+			"tmdb_id": 53298,
+			"number": "1x108",
+			"saga": "Yattaman",
+			"title": "La battaglia di Awaterloo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ad1fa1bcc2fa8033a46e85965048b4cb"
+				}
+			]
+		}
     ]
 }

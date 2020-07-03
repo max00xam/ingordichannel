@@ -1,92 +1,92 @@
 {
     "episodes_list": [
-        { 
-            "tmdb_id": 46348,
-            "number": "1x1",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Pallavolo che passione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f84e2feee292705ed7c610c390c42dc8"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x2",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Una ragazza in gamba",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9f161fe7c3b78f97ebf68a78ae459356"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x3",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "La ragazza misteriosa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f38188352bb41844e901b8b87928e38c"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x4",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Lotta fra due dive",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/80a9ecfa6838fcb7d19729c29e8f3aa9"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x5",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Il nuovo allenatore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d860024da6a16d093e0983fb00d865d4"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x6",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Pronte all'attacco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f3a699a9bef6f45e41cf7d4d93cb9e99"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x7",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Allenarsi in vacanza",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3fce1008345f004ace40b5c665bf6acc"
-                }
-            ]
-        },
-        { 
-            "tmdb_id": 46348,
-            "number": "1x8",
-            "saga": "Mimì e la nazionale di pallavolo",
-            "title": "Il segreto della foglia cadente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/23b6dc2dd99e80d1217a3bf6265995bf"
-                }
-            ]
-        } 
+        {
+			"tmdb_id": 46348,
+			"number": "1x1",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Pallavolo che passione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f84e2feee292705ed7c610c390c42dc8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x2",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Una ragazza in gamba",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9f161fe7c3b78f97ebf68a78ae459356"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x3",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "La ragazza misteriosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f38188352bb41844e901b8b87928e38c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x4",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Lotta fra due dive",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/80a9ecfa6838fcb7d19729c29e8f3aa9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x5",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Il nuovo allenatore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d860024da6a16d093e0983fb00d865d4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x6",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Pronte all'attacco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f3a699a9bef6f45e41cf7d4d93cb9e99"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x7",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Allenarsi in vacanza",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3fce1008345f004ace40b5c665bf6acc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 46348,
+			"number": "1x8",
+			"saga": "Mimì e la nazionale di pallavolo",
+			"title": "Il segreto della foglia cadente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/23b6dc2dd99e80d1217a3bf6265995bf"
+				}
+			]
+		} 
     ]
 }

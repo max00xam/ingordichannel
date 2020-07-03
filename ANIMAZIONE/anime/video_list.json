@@ -1,81 +1,81 @@
 {
     "episodes_list": [
         {
-            "tmdb_id": 22432,
-            "number": "0x1",
-            "saga": "Video Girl Ai",
-            "title": "Video Awards",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9cada5c0601a9c5ec12a541394e6fafb"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x1",
-            "saga": "Video Girl Ai",
-            "title": "Io ti consolerò",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/36d08533a5a2b88785ee6300ed95d177"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x2",
-            "saga": "Video Girl Ai",
-            "title": "Il regalo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c88e734b021095a06b9aec9badfce182"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x3",
-            "saga": "Video Girl Ai",
-            "title": "La celebrazione del primo appuntamento indossando il vestito che mi ha regalato Yota",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/61298191dd4ec5b5560b7e04f68d2678"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x4",
-            "saga": "Video Girl Ai",
-            "title": "La dichiarazione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7d7499befd888173409d86a780410b46"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x5",
-            "saga": "Video Girl Ai",
-            "title": "Ai svanisce",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/278696d58c5ec6eff511a2ccaac536e7"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 22432,
-            "number": "1x6",
-            "saga": "Video Girl Ai",
-            "title": "Dolore Ai amore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/32520a3f013ced5b8b2a6595ebd1d2a2"
-                }
-            ]
-        }
+			"tmdb_id": 22432,
+			"number": "0x1",
+			"saga": "Video Girl Ai",
+			"title": "Video Awards",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9cada5c0601a9c5ec12a541394e6fafb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x1",
+			"saga": "Video Girl Ai",
+			"title": "Io ti consolerò",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/36d08533a5a2b88785ee6300ed95d177"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x2",
+			"saga": "Video Girl Ai",
+			"title": "Il regalo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c88e734b021095a06b9aec9badfce182"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x3",
+			"saga": "Video Girl Ai",
+			"title": "La celebrazione del primo appuntamento indossando il vestito che mi ha regalato Yota",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/61298191dd4ec5b5560b7e04f68d2678"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x4",
+			"saga": "Video Girl Ai",
+			"title": "La dichiarazione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d7499befd888173409d86a780410b46"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x5",
+			"saga": "Video Girl Ai",
+			"title": "Ai svanisce",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/278696d58c5ec6eff511a2ccaac536e7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 22432,
+			"number": "1x6",
+			"saga": "Video Girl Ai",
+			"title": "Dolore Ai amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/32520a3f013ced5b8b2a6595ebd1d2a2"
+				}
+			]
+		}
     ]
 }

@@ -1,124 +1,124 @@
 {
     "episodes_list": [
         {
-            "number": "1x1",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Il giro del mondo in 80 giorni (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f2a70b596d83c41650000a97b9ea6b43"
-                }
-            ]
-        },
-        {
-            "number": "1x2",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Il giro del mondo in 80 giorni (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/dcdd64756a89ffce18c98c9e4eb0f0f9"
-                }
-            ]
-        },
-        {
-            "number": "1x3",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Viaggio al centro della terra (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9fe38861cf1ae18b75edd4ae3b85fd94"
-                }
-            ]
-        },
-        {
-            "number": "1x4",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Viaggio al centro della terra (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6c6080f4d41446a3c35060ce6afd644b"
-                }
-            ]
-        },
-        {
-            "number": "1x5",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Cesar Cascabel (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ccb1e39d5d5a77dded46083bbb1d72c5"
-                }
-            ]
-        },
-        {
-            "number": "1x6",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "Cesar Cascabel (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0968cbaf4bf611d75471203bac80c90d"
-                }
-            ]
-        },
-        {
-            "number": "1x7",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "La Jangada (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5e1e9e9d89b3847e81d62c40bc6979ac"
-                }
-            ]
-        },
-        {
-            "number": "1x8",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "La Jangada (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b37c36c953f6ab95363a75f798861baa"
-                }
-            ]
-        },
-        {
-            "number": "1x9",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "L'isola misteriosa (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8a0c2a5fa8e8966cff4abc26c2ac9726"
-                }
-            ]
-        },
-        {
-            "number": "1x10",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "L'isola misteriosa (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6038e878adefc92206ac1e6f46e6cf20"
-                }
-            ]
-        },
-        {
-            "number": "1x11",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "La stella del sud (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/45e2a22f81b1623d9cbe8c8324dfcc5f"
-                }
-            ]
-        },
-        {
-            "number": "1x12",
-            "saga": "I viaggi di Giulio Verne",
-            "title": "La stella del sud (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3dc859760dc4944c564464062bdba077"
-                }
-            ]
-        }
+			"number": "1x1",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Il giro del mondo in 80 giorni (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f2a70b596d83c41650000a97b9ea6b43"
+				}
+			]
+		},
+		{
+			"number": "1x2",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Il giro del mondo in 80 giorni (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dcdd64756a89ffce18c98c9e4eb0f0f9"
+				}
+			]
+		},
+		{
+			"number": "1x3",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Viaggio al centro della terra (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9fe38861cf1ae18b75edd4ae3b85fd94"
+				}
+			]
+		},
+		{
+			"number": "1x4",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Viaggio al centro della terra (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6c6080f4d41446a3c35060ce6afd644b"
+				}
+			]
+		},
+		{
+			"number": "1x5",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Cesar Cascabel (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ccb1e39d5d5a77dded46083bbb1d72c5"
+				}
+			]
+		},
+		{
+			"number": "1x6",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "Cesar Cascabel (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0968cbaf4bf611d75471203bac80c90d"
+				}
+			]
+		},
+		{
+			"number": "1x7",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "La Jangada (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5e1e9e9d89b3847e81d62c40bc6979ac"
+				}
+			]
+		},
+		{
+			"number": "1x8",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "La Jangada (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b37c36c953f6ab95363a75f798861baa"
+				}
+			]
+		},
+		{
+			"number": "1x9",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "L'isola misteriosa (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8a0c2a5fa8e8966cff4abc26c2ac9726"
+				}
+			]
+		},
+		{
+			"number": "1x10",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "L'isola misteriosa (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6038e878adefc92206ac1e6f46e6cf20"
+				}
+			]
+		},
+		{
+			"number": "1x11",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "La stella del sud (parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/45e2a22f81b1623d9cbe8c8324dfcc5f"
+				}
+			]
+		},
+		{
+			"number": "1x12",
+			"saga": "I viaggi di Giulio Verne",
+			"title": "La stella del sud (parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3dc859760dc4944c564464062bdba077"
+				}
+			]
+		}
     ]
 }

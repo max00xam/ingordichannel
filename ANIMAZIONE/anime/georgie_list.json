@@ -1,499 +1,545 @@
 {
     "episodes_list": [
         {
-            "number":"1x1",
-            "saga":"Georgie",
-            "title":"Il segreto del bracciale",
+			"tmdb_id": 36664,
+			"number": "1x1",
+			"saga": "Georgie",
+			"title": "Il segreto del bracciale",
             "plot":"Georgie vive felice la sua infanzia con i Butman, tuttavia il padre preannuncia la grande importanza del braccialetto che porta al polso, unico ricordo della madre scomparsa.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/632c628709abf1044d6f71d68433429b"
-                }
-            ]
-        },
-        {
-            "number":"1x2",
-            "saga":"Georgie",
-            "title":"Tutti al lavoro!",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/7f52612ce26dbf05c431fca7f4969f4a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x2",
+			"saga": "Georgie",
+			"title": "Tutti al lavoro!",
             "plot":"Il signor Butmann promette ai figli di costruire una casetta dove far convivere i tre insieme. Su spinta della moglie, per\u00f2, abbandona i suoi propositi, temendo gli sviluppi negativi della convivenza tra i fratelli e la bambina",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/741c49e97130a58d0b593e15a8c4de84"
-                }
-            ]
-        },
-        {
-            "number":"1x3",
-            "saga":"Georgie",
-            "title":"Sull'isola Lucertola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2176d6f6a4d117ad60565cce01f142d6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x3",
+			"saga": "Georgie",
+			"title": "Sull'isola Lucertola",
             "plot":"Approfittando di una giornata di sole, il signor Butmann porta i figli ad un picnic sull'isola Lucertola. Qui, sorpresi da un temporale violento, il padre \u00e8 costretto al pericoloso salvataggio di Georgie, finita nella canoa tra le acque impetuose del fiume.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/3e01e3615a4536fefb8116d1e7715378"
-                }
-            ]
-        },
-        {
-            "number":"1x4",
-            "saga":"Georgie",
-            "title":"Pap\u00e0 muore",
-            "plot":"L'infortunio di pap\u00e0 Butman si rivela pi\u00f9 serio di quanto lo stesso Kevin avesse immaginato. L'emorragia interna dovuta al colpo si rivela fatale in assenza di un medico nelle vicinanze.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/838a081a997601ba1f81d09175c9ae3c"
-                }
-            ]
-        },
-        {
-            "number":"1x5",
-            "saga":"Georgie",
-            "title":"La nostra fattoria",
-            "plot":"Con la morte del marito, la signora Butmann \u00e8 decisa a vendere la fattoria per trasferirsi in citt\u00e0. Georgie spinge i fratelli a rimboccarsi le maniche per dimostrarle che in tre sapranno badare agli animali.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/b1dc5322f6aec370c71904f84face92a"
-                }
-            ]
-        },
-        {
-            "number":"1x6",
-            "saga":"Georgie",
-            "title":"Sogni",
-            "plot":"Abel sta prendendo coscienza della seriet\u00e0 del sentimento che nutre verso la ragazza che sente di non riuscire pi\u00f9 a vivere come sorella. Esprime il desiderio di diventare un marinaio. La madre si oppone, timorosa di perderlo per sempre.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/736805dcd484183af0fa8d2c5675136d"
-                }
-            ]
-        },
-        {
-            "number":"1x7",
-            "saga":"Georgie",
-            "title":"L'attore girovago",
-            "plot":"Alla fattoria arriva un personaggio originale che viene ospitato per pochi giorni. Purtroppo la sua permanenza \u00e8 macchiata dal furto del braccialetto di Georgie, necessario per pagarsi il biglietto e imbarcarsi. Dopo lunga ricerca, i fratelli riescono a trovarlo, perdonando l'autore del gesto e consentendogli di imbarcarsi ugualmente.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/22f4a083d5bf2bedc0553869bbd25747"
-                }
-            ]
-        },
-        {
-            "number":"1x8",
-            "saga":"Georgie",
-            "title":"Scuola ke passione",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/df6d2c7dd7c84ed13e671a160a3dae53"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x4",
+			"saga": "Georgie",
+			"title": "Papà muore",
+            "plot":"L'infortunio di papà Butman si rivela più serio di quanto lo stesso Kevin avesse immaginato. L'emorragia interna dovuta al colpo si rivela fatale in assenza di un medico nelle vicinanze.",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/182926bb6f6fe6e4538b183158f85147"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x5",
+			"saga": "Georgie",
+			"title": "La nostra fattoria",
+            "plot":"Con la morte del marito, la signora Butmann è decisa a vendere la fattoria per trasferirsi in città. Georgie spinge i fratelli a rimboccarsi le maniche per dimostrarle che in tre sapranno badare agli animali.",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/4ac54f4cf18b062c19deb7116fa2af93"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x6",
+			"saga": "Georgie",
+			"title": "Sogni",
+            "plot":"Abel sta prendendo coscienza della serietà del sentimento che nutre verso la ragazza che sente di non riuscire più a vivere come sorella. Esprime il desiderio di diventare un marinaio. La madre si oppone, timorosa di perderlo per sempre.",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/bf7f42a3e637c4f6e766d0f6f3f5a87f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x7",
+			"saga": "Georgie",
+			"title": "L'attore girovago",
+            "plot":"Alla fattoria arriva un personaggio originale che viene ospitato per pochi giorni. Purtroppo la sua permanenza è macchiata dal furto del braccialetto di Georgie, necessario per pagarsi il biglietto e imbarcarsi. Dopo lunga ricerca, i fratelli riescono a trovarlo, perdonando l'autore del gesto e consentendogli di imbarcarsi ugualmente.",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/dd988adab1c1e34860a213aa590cb78c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x8",
+			"saga": "Georgie",
+			"title": "Scuola ke passione",
             "plot":"Abel viene coinvolto in una lite nella Chiesa del villaggio e per salvare la sorella dalla prepotenza dei ragazzi sfida il leader del gruppo: tra i due, dopo una movimentata lite, nasce un'inattesa amicizia.",
-            "links":[
-                {
-                    "url":"http://51.77.159.233:30299/946f1beadf73575fb0fc312cca98e052"
-                }
-            ]
-        },
-        {
-            "number": "1x9",
-            "saga": "Georgie",
-            "title": "Il cambiamento di Abel",
+            "links": [
+				{
+					"url": "http://51.77.159.233:30299/3b919178be3b5463479715c5e86cb725"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x9",
+			"saga": "Georgie",
+			"title": "Il cambiamento di Abel",
             "plot": "Nonostante le perplessità della madre, i fratelli cominciano l'avventura scolastica. La signora Butmann si confida con Kevin per sapere cosa sia meglio per Georgie: nel suo bene, le consente di andare a scuola con i fratelli. Intanto, Abel palesa un brusco cambiamento verso la sorella.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f21b3e1b7286a714d721115baf79dba7"
-                }
-            ]
-        },
-        {
-            "number": "1x10",
-            "saga": "Georgie",
-            "title": "Un regalo per la mamma",
+				{
+					"url": "http://51.77.159.233:30299/5c820826a186580c90dd032d080a9343"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x10",
+			"saga": "Georgie",
+			"title": "Un regalo per la mamma",
             "plot": "I tre fratelli, ormai diventati grandi, organizzano una sorpresa per la madre, in occasione del suo compleanno. La madre rimane commossa di fronte alla dedizione che i figli dimostrano nei suoi confronti.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9688e8c169215e52b2ba1d2cf402665f"
-                }
-            ]
-        },
-        {
-            "number": "1x11",
-            "saga": "Georgie",
-            "title": "Un visitatore inaspettato",
+				{
+					"url": "http://51.77.159.233:30299/f37d20618c5351a324f52a554e96f326"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x11",
+			"saga": "Georgie",
+			"title": "Un visitatore inaspettato",
             "plot": "I tre fratelli incrociano un artista che viene ospitato presso la fattoria. All'idea che possa ritrarre Georgie in uno dei suoi dipinti, Abel reagisce violentemente senza riuscire a mascherare la gelosia verso la ragazza.",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/fd751983525024c0ebd82a5a7707ad67"
-                }
-            ]
-        },
-        {
-            "number": "1x12",
-            "saga": "Georgie",
-            "title": "La camera separata",
+            
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/412fbbf3b7c936da7d635db5e9ea4a7a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x12",
+			"saga": "Georgie",
+			"title": "La camera separata",
             "plot": "Georgie è cresciuta, così la madre decide di separare la sua camera da qualla dei fratelli. All'iniziale sorpresa dei figli, segue la rassegnazione: dopo i primi timori della solitudine, anche la ragazza accetta la nuova situazione.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c8156784715a4560ecf7bef4005f3b1d"
-                }
-            ]
-        },
-        {
-            "number": "1x13",
-            "saga": "Georgie",
-            "title": "Abel è geloso",
+				{
+					"url": "http://51.77.159.233:30299/8f2246b7f27dcc540f2d3909354a2d0d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x13",
+			"saga": "Georgie",
+			"title": "Abel è geloso",
             "plot": "La gelosia che Abel prova verso la sorella è evidente agli occhi di chiunque lo circondi. Anche a scuola tutti si rendono conto che il legame che le dimostra ha qualcosa che va ben oltre il rapporto fraterno.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6cb52469bcbd5095aa0ab9550a4c012a"
-                }
-            ]
-        },
-        {
-            "number": "1x14",
-            "saga": "Georgie",
-            "title": "Voglia di crescere",
+				{
+					"url": "http://51.77.159.233:30299/163738089595ed27cad4af1f72570929"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x14",
+			"saga": "Georgie",
+			"title": "Voglia di crescere",
             "plot": "Abel ha abbandonato gli atteggiamenti infantili e si comporta da persona adulta, anche se impulsivo. I fratelli se ne rendono conto e cercano di comprendere il suo desiderio di indipendenza e di libertà. Ma dietro i suoi propositi, in realta, si nasconde il fermo proposito di evitare la sorella, di fronte alla quale è incapace di indifferenza.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b60345cbc8cf89cfb10370cf58b9c05c"
-                }
-            ]
-        },
-        {
-            "number": "1x15",
-            "saga": "Georgie",
-            "title": "Primi turbamenti",
+				{
+					"url": "http://51.77.159.233:30299/ac8b6c06846692fe093b14e2d2875cae"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x15",
+			"saga": "Georgie",
+			"title": "Primi turbamenti",
             "plot": "Il conflitto che Abel vive, è noto al fratello e a Kevin. E' ormai nell'aria un conflitto interiore che vive il primo dei fratelli, combattuto tra l'esprimere liberamente i suoi sentimenti e il non sconvolgere la vita della sorella.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1fd59f93d07649dd5ae3a24bc9c29fba"
-                }
-            ]
-        },
-        {
-            "number": "1x16",
-            "saga": "Georgie",
-            "title": "Il compleanno di Becky",
+				{
+					"url": "http://51.77.159.233:30299/94af73995e9ba152497efc5241704746"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x16",
+			"saga": "Georgie",
+			"title": "Il compleanno di Becky",
             "plot": "Abel conosce la giovane Becky durante una galoppata a cavallo. Viene invitato a casa della facoltosa ragazza, per la quale prova una vaga attrazione. La festa in realtà è solo un'occasione per mettere in imbarazzo Georgie e screditarla pubblicamente. Abel si accorge della manovra e preferisce rinunciare per amore della sorella.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d15679e28d7618e90a0e84f34f27b3a0"
-                }
-            ]
-        },
-        {
-            "saga": "Georgie",
-            "title": "La bugia di Arthur",
+				{
+					"url": "http://51.77.159.233:30299/62a613bd531bf9705022518fb4e70c9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x17",
+			"saga": "Georgie",
+			"title": "La bugia di Arthur",
             "plot": "Dall'Inghilterra approda in Australia il dottor Skiffens, con il compito di cercare notizie della figlia del fratello Fred. Un intreccio di coincidenze lo porta ad incontrare Abel e Arthur, i quali, temendo di perdere la ragazza che amano, mentono sulle origini della giovane sorella.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/12ace4f4fd884677fc51c01c226b3bb5"
-                }
-            ]
-        },
-        {
-            "number": "1x18",
-            "saga": "Georgie",
-            "title": "Una amica per Lupp",
+				{
+					"url": "http://51.77.159.233:30299/abc412c19376b164f03623798541eb69"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x18",
+			"saga": "Georgie",
+			"title": "Una amica per Lupp",
             "plot": "Abel sente di non poter più riuscire a nascondere il proprio sentimento e solo la promessa fatta al fratello lo frena dal confessare la verità alla sorella. Il conflitto tra i fratelli diventa quasi insanabile e la madre, pienamente consapevole, studia la maniera per evitare conflitti.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/592405977aabdb9b937fab15357bb95c"
-                }
-            ]
-        },
-        {
-            "number": "1x19",
-            "saga": "Georgie",
-            "title": "Una difficile decisione",
+				{
+					"url": "http://51.77.159.233:30299/6476cd6dc119a6426cd846418c53be14"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x19",
+			"saga": "Georgie",
+			"title": "Una difficile decisione",
             "plot": "La prima alternativa che la signora Butmann escogita per separare i fratelli è quello di avallare l'adozione della ragazza ad opera di una donna, esperta nel cucito, che si offre di tenerla con sé. Per evitare di mostrare sentimenti nei suoi confronti, i fratelli tacciono sull'eventuale partenza della sorella, la quale rinuncia a distaccarsi dalla sua famiglia.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/61807baf50ffaa8d8e537950ef5ecf7c"
-                }
-            ]
-        },
-        {
-            "number": "1x20",
-            "saga": "Georgie",
-            "title": "Il futuro del capitano",
+				{
+					"url": "http://51.77.159.233:30299/f68d1323b6fd366eeb7fd49eb585266e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x20",
+			"saga": "Georgie",
+			"title": "Il futuro del capitano",
             "plot": "Abel decide di imbarcarsi per trovare una via d'uscita alla delicata situazione che vive. Il suo viaggio è una fuga dalla verità su quanto sente per la donna che ama.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bd9c9b9bdfceb1d1233d41aef7eaeb6a"
-                }
-            ]
-        },
-        {
-            "number": "1x21",
-            "saga": "Georgie",
-            "title": "Un incontro imbarazzante",
+				{
+					"url": "http://51.77.159.233:30299/388a6dbcbe780dea742b1ed5f8c15561"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x21",
+			"saga": "Georgie",
+			"title": "Un incontro imbarazzante",
             "plot": "Georgie si imbatte casualmente in un giovane in visita temporanea in Australia, Lowell J. Gray, mentre cavalca verso il fratello Arthur e nella circostanza si invaghisce del suo fare gentile e delicato. Alcuni fotogrammi dell'episodio vennero ritenuti poco adatti alla visione da parte del pubblico infantile cui era rivolto e furono tagliati: ritraggono Lowell spogliato involontariamente da Georgie.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4c42dc45f01630ba36694cbdbe493403"
-                }
-            ]
-        },
-        {
-            "number": "1x22",
-            "saga": "Georgie",
-            "title": "Bentornato Abel",
+				{
+					"url": "http://51.77.159.233:30299/7f624f2123fdec76753b03bb93c456cb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x22",
+			"saga": "Georgie",
+			"title": "Bentornato Abel",
             "plot": "Abel si rende conto che la lontananza da Georgie ha peggiorato le cose e decide di tornare in patria per dichiararsi e svelare ogni cosa alla sorella. Intanto, ad attenderlo al porto, c'è la donna che lo ha amato prima di lasciarlo partire, Jessica, che malsopporta la presenza della sorella nella vita dell'uomo che ama.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/728941b909f50020047c05321816e44f"
-                }
-            ]
-        },
-        {
-            "number": "1x23",
-            "saga": "Georgie",
-            "title": "La nuova ferrovia",
+				{
+					"url": "http://51.77.159.233:30299/342baeebb0087f1f4268eb24308e959c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x23",
+			"saga": "Georgie",
+			"title": "La nuova ferrovia",
             "plot": "Si apre la ferrovia vicino Sidney e i Butmann non mancano all'inaugurazione. Presente sul posto anche il governatore Duca Dangering con la nipote Elise ed il fidanzato di lei, proprio Lowell che l'accompagna in terra australiana.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/29f1898b8a1188cfb23f947d1d3b8b0b"
-                }
-            ]
-        },
-        {
-            "number": "1x24",
-            "saga": "Georgie",
-            "title": "Il primo bacio",
+				{
+					"url": "http://51.77.159.233:30299/064528f9033cb180086b9f1bbbf5376c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x24",
+			"saga": "Georgie",
+			"title": "Il primo bacio",
             "plot": "Gergie apprende dai giornali che è indetta una gara di boomerang, il cui premio potrebbe servire a Kevin, impossibilitato a curarsi con i suoi mezzi. La ragazza si iscrive spacciandosi per un ragazzo, Joe Butmann, ma il travestimento ha durata breve: il premio aggiuntivo al vincitore è un bacio della giovane Elise. Georgie confessa la sua identità e prende il premio da Lowell.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d9f9d7550a9a6ada8f26f85a614c027c"
-                }
-            ]
-        },
-        {
-            "number": "1x25",
-            "saga": "Georgie",
-            "title": "Una dolorosa scoperta",
+				{
+					"url": "http://51.77.159.233:30299/93c3c1cf1ae1e81e5d7c738ce1dda64a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x25",
+			"saga": "Georgie",
+			"title": "Una dolorosa scoperta",
             "plot": "Georgie porta a Kevin il compenso incassato. In segno di gratitudine, l'anziano amico di famiglia le fà omaggio di un vecchio abito da sera della moglie scomparsa. Nell'indossarlo Georgie incontra il giovane Lowell fuggito dalla festa organizzata nella sua residenza per cercarla e dichiarare il suo amore. Intanto, Abel, alla ricerca della sorella, scopre con rammarico della relazione tra i due.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/386f5a7ad0ae97820c078b776163a499"
-                }
-            ]
-        },
-        {
-            "number": "1x26",
-            "saga": "Georgie",
-            "title": "Notte tempestosa",
+				{
+					"url": "http://51.77.159.233:30299/5464ea6fe068217fe47e84ed5f1d256d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x26",
+			"saga": "Georgie",
+			"title": "Notte tempestosa",
             "plot": "La sera stessa del loro incontro, Lowell comunica alla ragazza che ama il suo prossimo rientro in patria. Un rientro utile a sciogliere il fidanzamento con la sua fidanzata. Promette un ritorno in Australia per restare e sposarla.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bbc72796b7e7eced1982a399dcd0aa56"
-                }
-            ]
-        },
-        {
-            "number": "1x27",
-            "saga": "Georgie",
-            "title": "Il segreto svelato",
+				{
+					"url": "http://51.77.159.233:30299/9ca84337957f55de7299bfd10578d352"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x27",
+			"saga": "Georgie",
+			"title": "Il segreto svelato",
             "plot": "I sogni di Georgie durano poco. Al rientro dalla sua serata in compagnia, la attende la madre, furiosa per il suo atteggiamento verso l'uomo che ama. In preda all'esasperazione per una situazione ormai irreparabile, le confessa la verità sul suo passato, costringendola a lasciare la casa dov'è vissuta. Senza riferimenti e disperata, Georgie cade accidentalmente nel fiume e viene raccolta moribonda da Arthur, testimone parziale degli eventi. L'episodio è stato tagliato di alcuni frammenti che vedono Arthur nudo nello stesso letto della sorella per scaldarla (per ogni approfondimento si rimanda alla sezione Censuriamo la censura).",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d2e27f3d297006dac3da76ad420b49ba"
-                }
-            ]
-        },
-        {
-            "number": "1x28",
-            "saga": "Georgie",
-            "title": "Rivali in amore",
+				{
+					"url": "http://51.77.159.233:30299/ecc086b1ccbb4011372bd3f6722e8f80"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x28",
+			"saga": "Georgie",
+			"title": "Rivali in amore",
             "plot": "Al risveglio dalla brutta esperienza, Georgie chiede a Kevin di raccontarle ciò che sa sulla sua vicenda. Kevin ripercorre l'episodio del ritrovamento di 13 anni prima e svela quanto conosce sulla vera identità della giovane adolescente. Intanto, Abel approfitta della lontananza del fratello per liberare i sentimenti che teneva nascosti.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d7543e0d05fb6ef60211961974b81064"
-                }
-            ]
-        },
-        {
-            "number": "1x29",
-            "saga": "Georgie",
-            "title": "Il lungo viaggio",
+				{
+					"url": "http://51.77.159.233:30299/3cbc46d9ab67124a6beabc6e1d871d6e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x29",
+			"saga": "Georgie",
+			"title": "Il lungo viaggio",
             "plot": "Georgie si rende conto che restare in Australia non avrebbe senso. Abel le ha dichiarato il suo amore, Arthur vorrebbe fare lo stesso: per non creare conflitti e dissapori, decide di partire per Londra, dove spera di conoscere le proprie radici e di unirsi definitivamente al suo amato Lowell.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1ee43d233df30ca696323a6d615f8412"
-                }
-            ]
-        },
-        {
-            "number": "1x30",
-            "saga": "Georgie",
-            "title": "Alla ricerca del passato ",
+				{
+					"url": "http://51.77.159.233:30299/90370945ab46a72e882cd383f98376cc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x30",
+			"saga": "Georgie",
+			"title": "Alla ricerca del passato",
             "plot": "Georgie conosce la difficile vita da mozzo, unico modo per imbarcarsi fingendosi un uomo. In nave, tra le presenze gradite, conosce il dottor Skiffens, che rientra in patria dopo averla invano cercata in Australia. Anche la giovane Catherine, invaghita del coraggioso Joe Butmann, le tiene compagnia ospitandola spesso nel suo alloggio.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d12ffc6280841ec504df045ca1b2abe0"
-                }
-            ]
-        },
-        {
-            "number": "1x31",
-            "saga": "Georgie",
-            "title": "Da mozzo a cameriere",
+				{
+					"url": "http://51.77.159.233:30299/5dd2b27053723e041630adee24c90004"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x31",
+			"saga": "Georgie",
+			"title": "Da mozzo a cameriere",
             "plot": "Joe Butmann dimostra tutto il suo coraggio gettandosi in acqua per salvare Catherine caduta accidentalemente dall'imbarcazione. Ferita da uno squalo, Joe viene curata a bordo e la circostanza la avvicina al dottor Skiffens, che nota il braccialetto indossato dal mozzo. Per ricompensa al nobile gesto, viene trasferita nella sala dei nobili, come cameriere.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9dd40ca02f8afcc66c334a11e1b278eb"
-                }
-            ]
-        },
-        {
-            "number": "1x32",
-            "saga": "Georgie",
-            "title": "Tre navi, tre sogni",
+				{
+					"url": "http://51.77.159.233:30299/b2674b43afd45046e69a17fef4c70f62"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x32",
+			"saga": "Georgie",
+			"title": "Tre navi, tre sogni",
             "plot": "Abel non sa resistere all'idea di sapere lontana e indifesa la sua Georgie. Così si imbarca per cercarla e riportarla in patria. Intanto, a casa Butmann, Arthur deve fare i conti con la salute della madre, colta da infarto dopo la partenza dei due figli.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0314e7cc97118eda1873dd6852543efc"
-                }
-            ]
-        },
-        {
-            "number": "1x33",
-            "saga": "Georgie",
-            "title": "Una terribile trappola",
+				{
+					"url": "http://51.77.159.233:30299/4dccf44c13de673e4a073c19ce2ce68e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x33",
+			"saga": "Georgie",
+			"title": "Una terribile trappola",
             "plot": "Joe Butmann accetta l'amicizia con il dottor Skiffens e decide di confidargli il segreto della sua indentità. Intanto, Ken, avvezzo a piccoli furti sulla nave, decide di liberarsi dello scomodo collega Joe inscenando un furto, di cui accusarlo. Per eliminarlo, decide di avvelenare il thé che gli è destinato, ma il tentativo fallisce: la tazza che lo contiene finisce a Skiffins, che muore prima di rivelare alla ritrovata Georgie il nome del suo vero padre.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c0e193efece537c4da3a8f9881eb9490"
-                }
-            ]
-        },
-        {
-            "episode_id": 423669,
-            "number": "1x34",
-            "saga": "Georgie",
-            "title": "Finalmente a Londra",
+				{
+					"url": "http://51.77.159.233:30299/d7e01b0af007e487bbfce2212ff439af"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x34",
+			"saga": "Georgie",
+			"title": "Finalmente a Londra",
             "plot": "Approdata a Londra, Georgie deve provvedere a cercare un lavoro con cui sostentarsi. Nel mentre viene ospitata dai coniuge Barnes, genitori di Catherine, rimasti entusiasti per la sua genuinità. Intento Abel termina il suo viaggio verso l'Inghilterra, accompagnato dal pappagallo al quale insegna il nome della donna che ama che trovarla più facilmente.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b18ec3917144b4c0b0b0eac116d7cbc0"
-                }
-            ]
-        },
-        {
-            "number": "1x35",
-            "saga": "Georgie",
-            "title": "Il sogno della nonna",
+				{
+					"url": "http://51.77.159.233:30299/d6758f77c3f02d0b6a412c114a527d76"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x35",
+			"saga": "Georgie",
+			"title": "Il sogno della nonna",
             "plot": "Grazie all'aiuto della famiglia Barnes, Georgie può incontrare Lowell e riabbracciarlo dopo mesi di attesa. Ma i suoi sogni sembrano infrangersi contro una relatà più grande di lei: la nonna Gray desidera entrare nella nobiltà inglese e per farlo il nipote deve sposare Elise. Il giovane non trova il coraggio di confessare i suoi veri sentimenti e Georgie se ne rammarica.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a04fc5b4179024138b880347a0ef9d28"
-                }
-            ]
-        },
-        {
-            "number": "1x36",
-            "saga": "Georgie",
-            "title": "Preparativi di nozze",
+				{
+					"url": "http://51.77.159.233:30299/8d59c23ff197fb013bb9357dac3610e0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x36",
+			"saga": "Georgie",
+			"title": "Preparativi di nozze",
             "plot": "Abel, arrivato a Londra, scopre dove si trova la sorella grazie all'aiuto della piccola fiammiferaia, Joy, che ha conosciuto al suo arrivo. Purtroppo, appena trovata la sorella, ha la spiacevole sorpresa di sapere che il suo cuore è occupato dal giovane Lowell. Georgie è entrata senza volerlo in un intrigo sentimentale-politico che vede al suo centro proprio l'uomo che ama, così decide di andare a fondo.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a1ff12d5ae390d43320e1973ac67619f"
-                }
-            ]
-        },
-        {
-            "number": "1x37",
-            "saga": "Georgie",
-            "title": "Delusioni per Elise",
+				{
+					"url": "http://51.77.159.233:30299/813de989dce307ae7b9da6968a11dca7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x37",
+			"saga": "Georgie",
+			"title": "Delusioni per Elise",
             "plot": "Nel loro incontro Abel ha compreso che la sorella è seriamente intenzionata a sposare l'uomo che ama, ma osteggia il matrimonio per le enormi differenze che esistono tra loro. Elise riceve la sconcertante verità sui sentimenti del promesso fidanzato e chiede l'aiuto dello zio per risolvere l'intrigo. Il duca, intanto, ha notato il bracciale al polso di Georgie ed intuisce l'enorme pericolo che corre se il suo sospetto dovesse trovare fondamento.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3f046560f8f2a957474e6cd4d120a88b"
-                }
-            ]
-        },
-        {
-            "number": "1x38",
-            "saga": "Georgie",
-            "title": "Due nuovi amici",
+				{
+					"url": "http://51.77.159.233:30299/4405732a4937dd7414ff22718d44e515"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x38",
+			"saga": "Georgie",
+			"title": "Due nuovi amici",
             "plot": "Georgie e Lowell nella loro prima fuga insieme fanno conoscenza casuale di Emma e Dick due giovani sposi che stanno festeggiando il loro matrimonio. Intanto Abel intuisce che Arthur si trova a Londra, dopo essere stato scambiato per lui ed essere stato aggredito da due loschi individui. Georgie, saputo che la famiglia Barnes è incaricata di organizzare le nozze per il matrimonio di Elise decide di lasciare la loro residenza.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cfb98fab7b6d621ba0cd24b8ac2e16a5"
-                }
-            ]
-        },
-        {
-            "number": "1x39",
-            "saga": "Georgie",
-            "title": "Al ballo reale",
+				{
+					"url": "http://51.77.159.233:30299/1ddb5cd42384d6ac6c1ed97260671c4e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x39",
+			"saga": "Georgie",
+			"title": "Al ballo reale",
             "plot": "Georgie riesce a trovare spazio nell'appartamento dei nuovi amici, ma ci sono pessime sorprese che l'attendono al ballo reale. Portatavi da Lowell, Elise approfitta della circostanza per confessarle che il suo bracciale appartiene al casato del conte Gerald, esiliato per il complotto contro la regina. Georgie al ballo incrocia Kein il figlio adottivo del duca, che mostra una somiglianza impressionante con Arthur. Il duca è riuscito a combinare l'incontro tra la regina e Lowell per aumentare le pressioni su di lui. Sembra tutto precipitare.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/eeef00940979dec378e0aa9ca05a11ea"
-                }
-            ]
-        },
-        {
-            "number": "1x40",
-            "saga": "Georgie",
-            "title": "Di nuovo in viaggio",
+				{
+					"url": "http://51.77.159.233:30299/4703befb3fafeaab2c0a8b263a05131a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x40",
+			"saga": "Georgie",
+			"title": "Di nuovo in viaggio",
             "plot": "Per evitare le pressioni di palazzo, Georgie e Lowell fuggono, braccati dagli uomini di Dangering. Intanto Abel scopre la condizione in cui si trova il fratello e promette a se stesso di liberarlo. Arthur è tenuto prigioniero dal duca per evitare che venga a galla un segreto di cui il ragazzo è venuto incidentalmente a conoscenza, ma non elimina per l'amore che gli nutre la figlia Maria.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c5d783fc005f2735cf0bfe421f27c79e"
-                }
-            ]
-        },
-        {
-            "number": "1x41",
-            "saga": "Georgie",
-            "title": "La forza della speranza",
+				{
+					"url": "http://51.77.159.233:30299/5959983968f422a8e0208dc98dd090e5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x41",
+			"saga": "Georgie",
+			"title": "La forza della speranza",
             "plot": "Georgie sa della malattia di Lowell e profonde ogni sacrificio pur di riuscire a farlo guarire. Purtroppo il suo lavoro non le consente i guadagni necessari all'intervento e decide che l'unico modo per salvarlo è quello di restituirlo alla famiglia di Elise, l'unica in grado di affrontare i costi dell'intervento.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/fddd97e05132d1b2c984e1cbca0a56b4"
-                }
-            ]
-        },
-        {
-            "number": "1x42",
-            "saga": "Georgie",
-            "title": "La prigionia di Arthur",
+				{
+					"url": "http://51.77.159.233:30299/8b62d300adcd2cb22eb933e6416c384b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x42",
+			"saga": "Georgie",
+			"title": "La prigionia di Arthur",
             "plot": "Arthur è a conoscenza del complotto organizzato da Dangering per assassinare la regina, così è tenuto segregato per evitare che sveli il segreto. Abel sceglie di servirsi di ogni mezzo per liberarlo.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9a6953018699f00566f71d234608f6a6"
-                }
-            ]
-        },
-        {
-            "number": "1x43",
-            "saga": "Georgie",
-            "title": "Un amore impossibile",
+				{
+					"url": "http://51.77.159.233:30299/4a1d5b4f8a6a788a8e67b2989dcc4b74"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x43",
+			"saga": "Georgie",
+			"title": "Un amore impossibile",
             "plot": "Georgie decide di rinunciare all'amore per Lowell sommonistrandogli un sonnifero per restituirlo ad Elise. Intanto, Fritz Gerald, padre di Georgie è venuto in possesso del bracciale della figlia grazie alle ricerche del fidato Wilson e del quale lei si era privata per accumulare denaro per sopravvivere.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b301f6340768f4a4e57e935fd828dd72"
-                }
-            ]
-        },
-        {
-            "number": "1x44",
-            "saga": "Georgie",
-            "title": "Arthur in pericolo",
+				{
+					"url": "http://51.77.159.233:30299/d1553b1bdd0fc8dddb91d5735e6a4cba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x44",
+			"saga": "Georgie",
+			"title": "Arthur in pericolo",
             "plot": "Abel decide di chiedere il sostegno della sorella per liberare il fratello e tornare tutti e tre nella terra che li ha visti crescere. Anche Gerald, sulle tracce della figlia, è in ansia per il pericolo che sta correndo. L'incontro tra i due avviene fuggendo dai sicari del duca, in una delle scene più toccanti della serie intera.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6dec4a0ea2c7f68ef942eeebab99eebe"
-                }
-            ]
-        },
-        {
-            "number": "1x45",
-            "saga": "Georgie",
-            "title": "Finalmente insieme",
+				{
+					"url": "http://51.77.159.233:30299/945f636bce86092feca972ce91e962d0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 36664,
+			"number": "1x45",
+			"saga": "Georgie",
+			"title": "Finalmente insieme",
             "plot": "La liberazione di Arthur viene organizzata grazie alla collaborazione di Maria, disposta a tutto pur di salvare l'uomo che ama. Georgie può spiegare i motivi dell'addio a Lowell che nel frattempo è guarito. I fratelli si riuniscono e decidono di fare rientro nella terra che li ha visti crescere in serenità.",
             "links": [
-                {
-                    "url": "http://51.77.159.233:30299/23ae6b81a528109a4d75b5b6510693f7"
-                }
-            ]
-        }
+				{
+					"url": "http://51.77.159.233:30299/c295e6eee2ec61a3647d680e3d1c43ff"
+				}
+			]
+		}
     ]
 }

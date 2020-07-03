@@ -1,290 +1,290 @@
 {
     "episodes_list": [
         {
-            "tmdb_id": 3661,
-            "number": "1x1",
-            "saga": "Team Galaxy",
-            "title": "Brett al comando",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4fb70b905db64d27d40c1b08d0f2f0ff"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x2",
-            "saga": "Team Galaxy",
-            "title": "Un allievo `promettente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/78c10131164aca9a62a32f2f8fcb2d93"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x3",
-            "saga": "Team Galaxy",
-            "title": "Viva Las Venus",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/76f60763fdbb721ed60f5197409daf98"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x4",
-            "saga": "Team Galaxy",
-            "title": "Il cervello di Brett",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6249c8ec8bff65cd8a355570fcc33deb"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x5",
-            "saga": "Team Galaxy",
-            "title": "Miss Cosmos",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/635cb306aff948ebf07b1a1e4fed86ac"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x6",
-            "saga": "Team Galaxy",
-            "title": "Un cucciolo per Yoko",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b7d8443e6f20a3fc4104e885c128307b"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x7",
-            "saga": "Team Galaxy",
-            "title": "Sempre sempre sempre",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b83ffb7087998cd6d4bba23f25d063d9"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x8",
-            "saga": "Team Galaxy",
-            "title": "Occhio all’occhio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e18d94433683ae6e64b5d49eb85d6cca"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x9",
-            "saga": "Team Galaxy",
-            "title": "Sequestro intergalattico",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7aea5fe0693814e1390f5f245080693a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x10",
-            "saga": "Team Galaxy",
-            "title": "Una pozione per Brett",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ab41b05563e297f050ac2cae8d467f9f"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x11",
-            "saga": "Team Galaxy",
-            "title": "Pirati spaziali",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c1758d05aca54d2586513dfc705321db"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x12",
-            "saga": "Team Galaxy",
-            "title": "Missione subacquea",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0feabcfcee76c916ca68faef5057d672"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x13",
-            "saga": "Team Galaxy",
-            "title": "Conferenza intergalattica",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ad6768cfec07865f7664e85a818061fa"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x14",
-            "saga": "Team Galaxy",
-            "title": "Lunatica-mente",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8b1df8a0955c169061fdc8df83c79a4a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x15",
-            "saga": "Team Galaxy",
-            "title": "Surf sulle comete",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bbf30c6b2e871a1d9ec4d7d5bca531d4"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x16",
-            "saga": "Team Galaxy",
-            "title": "Ultra virus",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1f10975f06a8f42e806f3779839eefb8"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x17",
-            "saga": "Team Galaxy",
-            "title": "Game over",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/740089fa1f1ee3ec62dfd233c357c502"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x18",
-            "saga": "Team Galaxy",
-            "title": "Un’amica per Starletta",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/153cffb637da0a359b8cae8fdd4499d7"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x19",
-            "saga": "Team Galaxy",
-            "title": "Api aliene",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e75cb8fbe1f3f7beb71fd849de2bd7ab"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x20",
-            "saga": "Team Galaxy",
-            "title": "Crisi cosmica",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3c77e3c6b996c43f6d375a36437d6288"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x21",
-            "saga": "Team Galaxy",
-            "title": "Pensare in grande",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bb92b88534f1748fc9483482e30fbf54"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x22",
-            "saga": "Team Galaxy",
-            "title": "Fluffy contro Buster",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/820c7f0059a792907d3966e8ed29b85c"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x23",
-            "saga": "Team Galaxy",
-            "title": "Doppio Brett",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3c8206391d4aca8ae56b8f0c4f26565a"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x24",
-            "saga": "Team Galaxy",
-            "title": "Il circo delle stelle (prima parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d0fcb20b2e0ff4f52b8139681817c2df"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x25",
-            "saga": "Team Galaxy",
-            "title": "Il circo delle stelle (seconda parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7e62c8a10b6ddc1871a660a796ac3acf"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 3661,
-            "number": "1x26",
-            "saga": "Team Galaxy",
-            "title": "Il circo delle stelle (terza parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c8419e669655c60496c8e415210c51a4"
-                }
-            ]
-        } 
+			"tmdb_id": 3661,
+			"number": "1x1",
+			"saga": "Team Galaxy",
+			"title": "Brett al comando",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4fb70b905db64d27d40c1b08d0f2f0ff"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x2",
+			"saga": "Team Galaxy",
+			"title": "Un allievo `promettente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/78c10131164aca9a62a32f2f8fcb2d93"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x3",
+			"saga": "Team Galaxy",
+			"title": "Viva Las Venus",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76f60763fdbb721ed60f5197409daf98"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x4",
+			"saga": "Team Galaxy",
+			"title": "Il cervello di Brett",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6249c8ec8bff65cd8a355570fcc33deb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x5",
+			"saga": "Team Galaxy",
+			"title": "Miss Cosmos",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/635cb306aff948ebf07b1a1e4fed86ac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x6",
+			"saga": "Team Galaxy",
+			"title": "Un cucciolo per Yoko",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b7d8443e6f20a3fc4104e885c128307b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x7",
+			"saga": "Team Galaxy",
+			"title": "Sempre sempre sempre",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b83ffb7087998cd6d4bba23f25d063d9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x8",
+			"saga": "Team Galaxy",
+			"title": "Occhio all’occhio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e18d94433683ae6e64b5d49eb85d6cca"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x9",
+			"saga": "Team Galaxy",
+			"title": "Sequestro intergalattico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7aea5fe0693814e1390f5f245080693a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x10",
+			"saga": "Team Galaxy",
+			"title": "Una pozione per Brett",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ab41b05563e297f050ac2cae8d467f9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x11",
+			"saga": "Team Galaxy",
+			"title": "Pirati spaziali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c1758d05aca54d2586513dfc705321db"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x12",
+			"saga": "Team Galaxy",
+			"title": "Missione subacquea",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0feabcfcee76c916ca68faef5057d672"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x13",
+			"saga": "Team Galaxy",
+			"title": "Conferenza intergalattica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ad6768cfec07865f7664e85a818061fa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x14",
+			"saga": "Team Galaxy",
+			"title": "Lunatica-mente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8b1df8a0955c169061fdc8df83c79a4a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x15",
+			"saga": "Team Galaxy",
+			"title": "Surf sulle comete",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bbf30c6b2e871a1d9ec4d7d5bca531d4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x16",
+			"saga": "Team Galaxy",
+			"title": "Ultra virus",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1f10975f06a8f42e806f3779839eefb8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x17",
+			"saga": "Team Galaxy",
+			"title": "Game over",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/740089fa1f1ee3ec62dfd233c357c502"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x18",
+			"saga": "Team Galaxy",
+			"title": "Un’amica per Starletta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/153cffb637da0a359b8cae8fdd4499d7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x19",
+			"saga": "Team Galaxy",
+			"title": "Api aliene",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e75cb8fbe1f3f7beb71fd849de2bd7ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x20",
+			"saga": "Team Galaxy",
+			"title": "Crisi cosmica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3c77e3c6b996c43f6d375a36437d6288"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x21",
+			"saga": "Team Galaxy",
+			"title": "Pensare in grande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bb92b88534f1748fc9483482e30fbf54"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x22",
+			"saga": "Team Galaxy",
+			"title": "Fluffy contro Buster",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/820c7f0059a792907d3966e8ed29b85c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x23",
+			"saga": "Team Galaxy",
+			"title": "Doppio Brett",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3c8206391d4aca8ae56b8f0c4f26565a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x24",
+			"saga": "Team Galaxy",
+			"title": "Il circo delle stelle (prima parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d0fcb20b2e0ff4f52b8139681817c2df"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x25",
+			"saga": "Team Galaxy",
+			"title": "Il circo delle stelle (seconda parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7e62c8a10b6ddc1871a660a796ac3acf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3661,
+			"number": "1x26",
+			"saga": "Team Galaxy",
+			"title": "Il circo delle stelle (terza parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8419e669655c60496c8e415210c51a4"
+				}
+			]
+		} 
     ]
 }
