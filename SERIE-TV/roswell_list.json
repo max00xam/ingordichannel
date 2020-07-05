@@ -1,0 +1,147 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 82001,
+			"number": "1x1",
+			"saga": "Roswell, New Mexico",
+			"title": "La città misteriosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fa38d06db823ef37fbaf5a5741cd6eff"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x2",
+			"saga": "Roswell, New Mexico",
+			"title": "Alla ricerca della verità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/43438b88bfc49ea64b666db9eebe3a79"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x3",
+			"saga": "Roswell, New Mexico",
+			"title": "Note dal passato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d03f1ea062a56eb5d872fcaaedf9689"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x4",
+			"saga": "Roswell, New Mexico",
+			"title": "Dove sono finiti i cowboy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8da1e134e8b62c4f567cfca6514aaa12"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x5",
+			"saga": "Roswell, New Mexico",
+			"title": "Un segreto inviolabile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7cdc5fc9b781a21b278b1c3b0ea1da3a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x6",
+			"saga": "Roswell, New Mexico",
+			"title": "Il senso dell'abbandono",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e7f1fe6fe6518454729b82e8dba18fac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x7",
+			"saga": "Roswell, New Mexico",
+			"title": "Il segno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a2ee8f1ed47d5156c98c802e7e9e835"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x8",
+			"saga": "Roswell, New Mexico",
+			"title": "Effetti collaterali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0912020b496c4bb0d44cf1b9dbcd162"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x9",
+			"saga": "Roswell, New Mexico",
+			"title": "Il disegno misterioso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ef462e2b141ae1d2918ce6698b78655a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x10",
+			"saga": "Roswell, New Mexico",
+			"title": "Memorie lontane",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c6dfda78951b73092c843b93fb97819"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x11",
+			"saga": "Roswell, New Mexico",
+			"title": "Il quarto alieno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fe867b6ea9219da909dd693dd85eec32"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x12",
+			"saga": "Roswell, New Mexico",
+			"title": "Contrasti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e045b08207a63eb54bf04dac133678ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": 82001,
+			"number": "1x13",
+			"saga": "Roswell, New Mexico",
+			"title": "Ofiuco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5fcd7ec2269832f06330d2f186696143"
+				}
+			]
+		}
+    ]
+}

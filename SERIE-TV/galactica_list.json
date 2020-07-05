@@ -1,458 +1,7 @@
 {
     "episodes_list": [
         {
-            "tvdb_id": 71173,
-            "number": "1x3",
-            "saga": "Battlestar Galactica",
-            "title": "Saga of a Star World",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a0f75f82a6e97d288e441ce7792bc57a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x4",
-            "saga": "Battlestar Galactica",
-            "title": "Kobol, il pianeta delle antiche leggende (prima parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0833721cedd2d769e7d56f98985285e4"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x4",
-            "saga": "Battlestar Galactica",
-            "title": "Kobol, il pianeta delle antiche leggende (seconda parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4fa20d4790db4ad1ad6adf4aea2f78d2"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x6",
-            "saga": "Battlestar Galactica",
-            "title": "Occhio Rosso",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/40b0329171c523b5492fe76a2352e0ff"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x7",
-            "saga": "Battlestar Galactica",
-            "title": "La stirpe dei peccatori",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1e76abbd7567c9707f1af9a6ec9b7a5d"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x8",
-            "saga": "Battlestar Galactica",
-            "title": "Zero, il pianeta dei ghiacci eterni (prima parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/729704b967c6199740fbfea71f0c07f3"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x9",
-            "saga": "Battlestar Galactica",
-            "title": "Zero, il pianeta dei ghiacci eterni (seconda parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8a1bcf44357938400595ef66c20f5a59"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x10",
-            "saga": "Battlestar Galactica",
-            "title": "I magnifici guerrieri",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/305570b3e7256451e9fcd0d8e75c2eab"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x11",
-            "saga": "Battlestar Galactica",
-            "title": "I guerrieri del domani",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/91c108ffa9ee72f27a5013087a05180a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x12",
-            "saga": "Battlestar Galactica",
-            "title": "The Living Legend - Part I",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e5231585acfc3fa488ede4c0a44d43c4"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x13",
-            "saga": "Battlestar Galactica",
-            "title": "The Living Legend - Part II",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/18239b316c80e2931b7754b1d826d621"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x14",
-            "saga": "Battlestar Galactica",
-            "title": "Fiamme nello spazio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ca6a60a8fbdc0171551c0382344b9cd6"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x15",
-            "saga": "Battlestar Galactica",
-            "title": "Guerra tra Bene e Male (prima parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/20191ee0bb1932948f8fbd219ac13992"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x16",
-            "saga": "Battlestar Galactica",
-            "title": "Guerra tra Bene e Male (seconda parte)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/705b050402a0cebb29f0aad3bff4848a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x17",
-            "saga": "Battlestar Galactica",
-            "title": "I normanni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/990ceb2ab0f37b618a24e0fbb5f67032"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x18",
-            "saga": "Battlestar Galactica",
-            "title": "Scorpion sotto accusa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/eda8c3053e67b13c1f4dd384e6ac6715"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x20",
-            "saga": "Battlestar Galactica",
-            "title": "I sopravvissuti di Gea",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/932a0bcae2b898d69c842249d50eeb66"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x21",
-            "saga": "Battlestar Galactica",
-            "title": "La fuga di Baltar",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e106ae9bbffe25913d1bfd71f1594350"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x22",
-            "saga": "Battlestar Galactica",
-            "title": "Uno sguardo alla Terra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/11b61b731b8796a95177abadd0b10e07"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x23",
-            "saga": "Battlestar Galactica",
-            "title": "Catturate il Celestra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/91a9caeaa0779a3e7c0214e9a7a5708f"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "1x24",
-            "saga": "Battlestar Galactica",
-            "title": "Messaggio dallo spazio tempo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/365cc1c60ccf1ea8fddbd621e476e5f1"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x1",
-            "saga": "Battlestar Galactica",
-            "title": "Inseguimento nella quarta dimensione (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0429008f28812f2329546bb0f4dfe72a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x2",
-            "saga": "Battlestar Galactica",
-            "title": "Inseguimento nella quarta dimensione (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/930662e9452893757fb18b90af6a6e7b"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x3",
-            "saga": "Battlestar Galactica",
-            "title": "Inseguimento nella quarta dimensione (parte 3)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/38ef0e20f62b0ac00a056505417933ef"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x4",
-            "saga": "Battlestar Galactica",
-            "title": "I Super Scout (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a6b0ec7ad3bb61d6cf5c6c26accf2e3f"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x5",
-            "saga": "Battlestar Galactica",
-            "title": "I Super Scout (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cd99287adee5d0ff1e6aa8d5c2a2b893"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x6",
-            "saga": "Battlestar Galactica",
-            "title": "Baseball spaziale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/59c911efba114afb8ac585696f82ce3d"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x7",
-            "saga": "Battlestar Galactica",
-            "title": "Cyloni a New York (parte 1)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/24c32f5cbfdb218a990b096fca89e079"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x8",
-            "saga": "Battlestar Galactica",
-            "title": "Cyloni a New York (parte 2)",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7b82b6d10ba850566561566ef18dfeb4"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x9",
-            "saga": "Battlestar Galactica",
-            "title": "Braccianti spaziali",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/000a613b80213b325111a053e5147631"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 71173,
-            "number": "2x10",
-            "saga": "Battlestar Galactica",
-            "title": "Bentornato Scorpion",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/73bdb1c2a071705dd93172e64deb05b8"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x1",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 01",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0f1d30a3028b98f58b804ee4c13c1a6c"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x2",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 02",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/682c7603e748accbdc4f7aab8d1f055a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x3",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 03",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/da9884ee8592b5b7f6ae9ab994350202"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x4",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 04",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5ea1f9acc4161e76b8d04590a3e52397"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x5",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 05",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9f0f3cdeb08761d988069e62c6ad2628"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x6",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 06",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9cc4d5d6e87aa8dc1891c54290d743b9"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x7",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 07",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d9eca40e57c67d63934e3f17c7597242"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x8",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 08",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7b72b9d8d94793c11b364fcd98a4f3b7"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x9",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 09",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a878d4c0669303f30f0978c4f3faf0ea"
-                }
-            ]
-        },
-        {
-            "tvdb_id": -1,
-            "number": "1x10",
-            "saga": "Battlestar Galactica - The Resistance",
-            "title": "Webisode 10",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/13d38cf601be0e2a7cbcbc76cfea2b4a"
-                }
-            ]
-        },
-        {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x1",
             "saga": "Battlestar Galactica",
             "title": "33 minuti",
@@ -463,7 +12,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x2",
             "saga": "Battlestar Galactica",
             "title": "Acqua",
@@ -474,7 +23,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x3",
             "saga": "Battlestar Galactica",
             "title": "Sete di libertà",
@@ -485,7 +34,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x4",
             "saga": "Battlestar Galactica",
             "title": "Sacrificio estremo",
@@ -496,7 +45,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x5",
             "saga": "Battlestar Galactica",
             "title": "Ritorno a casa",
@@ -507,7 +56,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x6",
             "saga": "Battlestar Galactica",
             "title": "Sacrificio esemplare",
@@ -518,7 +67,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x7",
             "saga": "Battlestar Galactica",
             "title": "La conversione di Baltar",
@@ -529,7 +78,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x8",
             "saga": "Battlestar Galactica",
             "title": "Minaccia nucleare",
@@ -540,7 +89,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x9",
             "saga": "Battlestar Galactica",
             "title": "Il rivelatore di Cyloni",
@@ -551,7 +100,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x10",
             "saga": "Battlestar Galactica",
             "title": "La profezia di Pitia",
@@ -562,7 +111,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x11",
             "saga": "Battlestar Galactica",
             "title": "L'ago della bilancia",
@@ -573,7 +122,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x12",
             "saga": "Battlestar Galactica",
             "title": "La missione di Kara",
@@ -584,7 +133,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "1x13",
             "saga": "Battlestar Galactica",
             "title": "La freccia di Apollo",
@@ -595,7 +144,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x1",
             "saga": "Battlestar Galactica",
             "title": "Lotta per la vita",
@@ -606,7 +155,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x2",
             "saga": "Battlestar Galactica",
             "title": "Attacco Cylone",
@@ -617,7 +166,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x3",
             "saga": "Battlestar Galactica",
             "title": "Missione di salvataggio",
@@ -628,7 +177,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x4",
             "saga": "Battlestar Galactica",
             "title": "Legge marziale",
@@ -639,7 +188,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x5",
             "saga": "Battlestar Galactica",
             "title": "Il sentiero del destino",
@@ -650,7 +199,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x6",
             "saga": "Battlestar Galactica",
             "title": "Verso casa (1a parte)",
@@ -661,7 +210,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x7",
             "saga": "Battlestar Galactica",
             "title": "Verso casa (2a parte)",
@@ -672,7 +221,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x8",
             "saga": "Battlestar Galactica",
             "title": "Vita di bordo",
@@ -683,7 +232,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x9",
             "saga": "Battlestar Galactica",
             "title": "Il sogno di Tyrol",
@@ -694,7 +243,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x10",
             "saga": "Battlestar Galactica",
             "title": "Scontro mortale",
@@ -705,7 +254,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x11",
             "saga": "Battlestar Galactica",
             "title": "L'enigma Resurrection (1a parte)",
@@ -716,7 +265,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x12",
             "saga": "Battlestar Galactica",
             "title": "L'enigma Resurrection (2a parte)",
@@ -727,7 +276,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x13",
             "saga": "Battlestar Galactica",
             "title": "Pace con i Cyloni",
@@ -738,7 +287,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x14",
             "saga": "Battlestar Galactica",
             "title": "Ostaggi dei mercanti",
@@ -749,7 +298,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x15",
             "saga": "Battlestar Galactica",
             "title": "Un nemico da abbattere",
@@ -760,7 +309,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x16",
             "saga": "Battlestar Galactica",
             "title": "Fuoco amico",
@@ -771,7 +320,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x17",
             "saga": "Battlestar Galactica",
             "title": "Onore al merito",
@@ -782,7 +331,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x18",
             "saga": "Battlestar Galactica",
             "title": "Un nuovo inizio",
@@ -793,7 +342,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x19",
             "saga": "Battlestar Galactica",
             "title": "Missione 2 Alpha (1a parte)",
@@ -804,7 +353,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "2x20",
             "saga": "Battlestar Galactica",
             "title": "Missione 2 Alpha (2a parte)",
@@ -815,7 +364,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x1",
             "saga": "Battlestar Galactica",
             "title": "L'attentato",
@@ -826,7 +375,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x2",
             "saga": "Battlestar Galactica",
             "title": "Esecuzione sommaria",
@@ -837,7 +386,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x3",
             "saga": "Battlestar Galactica",
             "title": "Esodo, Parte I",
@@ -848,7 +397,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x4",
             "saga": "Battlestar Galactica",
             "title": "Esodo, Parte II",
@@ -859,7 +408,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x5",
             "saga": "Battlestar Galactica",
             "title": "Collaboratori",
@@ -870,7 +419,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x6",
             "saga": "Battlestar Galactica",
             "title": "Odio e rancore",
@@ -881,7 +430,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x7",
             "saga": "Battlestar Galactica",
             "title": "Il prezzo della salvezza",
@@ -892,7 +441,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x8",
             "saga": "Battlestar Galactica",
             "title": "Eroe",
@@ -903,7 +452,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x9",
             "saga": "Battlestar Galactica",
             "title": "Conti in sospeso",
@@ -914,7 +463,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x10",
             "saga": "Battlestar Galactica",
             "title": "Il passaggio",
@@ -925,7 +474,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x11",
             "saga": "Battlestar Galactica",
             "title": "L'occhio di Giove",
@@ -936,7 +485,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x12",
             "saga": "Battlestar Galactica",
             "title": "Gli ultimi cinque",
@@ -947,7 +496,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x13",
             "saga": "Battlestar Galactica",
             "title": "Un attimo di pausa",
@@ -958,7 +507,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x14",
             "saga": "Battlestar Galactica",
             "title": "Il medico della morte",
@@ -969,7 +518,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x15",
             "saga": "Battlestar Galactica",
             "title": "Anniversario di matrimonio",
@@ -980,7 +529,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x16",
             "saga": "Battlestar Galactica",
             "title": "Mani sporche",
@@ -991,7 +540,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x17",
             "saga": "Battlestar Galactica",
             "title": "Tragico epilogo",
@@ -1002,7 +551,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x18",
             "saga": "Battlestar Galactica",
             "title": "Anche i figli si ribellano",
@@ -1013,7 +562,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x19",
             "saga": "Battlestar Galactica",
             "title": "Crocevia, Parte I",
@@ -1024,7 +573,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "3x20",
             "saga": "Battlestar Galactica",
             "title": "Crocevia, Parte II",
@@ -1035,7 +584,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x1",
             "saga": "Battlestar Galactica",
             "title": "Il dono della conoscenza",
@@ -1046,7 +595,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x2",
             "saga": "Battlestar Galactica",
             "title": "Gli ultimi cinque",
@@ -1057,7 +606,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x3",
             "saga": "Battlestar Galactica",
             "title": "Tragica verità",
@@ -1068,7 +617,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x4",
             "saga": "Battlestar Galactica",
             "title": "Fuga dalla realtà",
@@ -1079,7 +628,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x5",
             "saga": "Battlestar Galactica",
             "title": "Guerra tra Cyloni",
@@ -1090,7 +639,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x6",
             "saga": "Battlestar Galactica",
             "title": "Fede",
@@ -1101,7 +650,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x7",
             "saga": "Battlestar Galactica",
             "title": "Nuovi alleati",
@@ -1112,7 +661,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x8",
             "saga": "Battlestar Galactica",
             "title": "Il candidato",
@@ -1123,7 +672,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x9",
             "saga": "Battlestar Galactica",
             "title": "L'hub",
@@ -1134,7 +683,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x10",
             "saga": "Battlestar Galactica",
             "title": "Rivelazioni",
@@ -1145,7 +694,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x11",
             "saga": "Battlestar Galactica",
             "title": "Voglia di farla finita",
@@ -1156,7 +705,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x12",
             "saga": "Battlestar Galactica",
             "title": "Alleanza permanente",
@@ -1167,7 +716,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x13",
             "saga": "Battlestar Galactica",
             "title": "Ammutinamento",
@@ -1178,7 +727,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x14",
             "saga": "Battlestar Galactica",
             "title": "Colpo di stato",
@@ -1189,7 +738,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x15",
             "saga": "Battlestar Galactica",
             "title": "Danni strutturali",
@@ -1200,7 +749,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x16",
             "saga": "Battlestar Galactica",
             "title": "Liam",
@@ -1211,7 +760,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x17",
             "saga": "Battlestar Galactica",
             "title": "Il pianista",
@@ -1222,7 +771,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x18",
             "saga": "Battlestar Galactica",
             "title": "Un angelo tra noi",
@@ -1233,7 +782,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x19",
             "saga": "Battlestar Galactica",
             "title": "Missione di salvataggio",
@@ -1244,7 +793,7 @@
             ]
         },
         {
-            "tvdb_id": 73545,
+            "tmdb_id": 1972,
             "number": "4x20",
             "saga": "Battlestar Galactica",
             "title": "L'ultimo salto",
@@ -1255,8 +804,8 @@
             ]
         },
         {
-            "tvdb_id": 73545,
-            "number": "EXTRA",
+            "tmdb_id": 1972,
+            "number": "OAV",
             "saga": "Battlestar Galactica",
             "title": "Miniserie (parte 1).mkv",
             "links": [
@@ -1266,8 +815,8 @@
             ]
         },
         {
-            "tvdb_id": 73545,
-            "number": "EXTRA",
+            "tmdb_id": 1972,
+            "number": "OAV",
             "saga": "Battlestar Galactica",
             "title": "Miniserie (parte 2).mkv",
             "links": [

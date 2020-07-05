@@ -1,0 +1,114 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 85949,
+			"number": "1x1",
+			"saga": "Star Trek Picard",
+			"title": "Ricordi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fc81871059f896172eed1edb0d5afd01"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x2",
+			"saga": "Star Trek Picard",
+			"title": "Mappe e leggende",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a9a5628dafe01ab4d7434b5aa8449d68"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x3",
+			"saga": "Star Trek Picard",
+			"title": "La fine è l'inizio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/39c9d72cfed20c0819c794d13866e174"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x4",
+			"saga": "Star Trek Picard",
+			"title": "L'assoluta verità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7067ff1700690e132483f9f0e958430a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x5",
+			"saga": "Star Trek Picard",
+			"title": "Cronache di Stardust City",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dacd440fd1537cab8a9aa7c245ac2531"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x6",
+			"saga": "Star Trek Picard",
+			"title": "La scatola impossibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bb820362ede67c6feb85bfea406e96ee"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x7",
+			"saga": "Star Trek Picard",
+			"title": "Nepenthe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ebbb85099f6be8edb612c694f0245289"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x8",
+			"saga": "Star Trek Picard",
+			"title": "A pezzi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/07ab9398f56fc00a3fae5b586785c928"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x9",
+			"saga": "Star Trek Picard",
+			"title": "Et in Arcadia Ego, Parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6a414134ed639f0bfd22e68d2943e5ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": 85949,
+			"number": "1x10",
+			"saga": "Star Trek Picard",
+			"title": "Et in Arcadia Ego, Parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a07775fcf6ad8a29edb81731a7591668"
+				}
+			]
+		}
+    ]
+}

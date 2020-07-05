@@ -1,0 +1,114 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 4621,
+            "number": "2x1",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Inseguimento nella quarta dimensione (parte 1)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0429008f28812f2329546bb0f4dfe72a"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x2",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Inseguimento nella quarta dimensione (parte 2)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/930662e9452893757fb18b90af6a6e7b"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x3",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Inseguimento nella quarta dimensione (parte 3)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38ef0e20f62b0ac00a056505417933ef"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x4",
+            "saga": "Battlestar Galactica 1980",
+            "title": "I Super Scout (parte 1)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6b0ec7ad3bb61d6cf5c6c26accf2e3f"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x5",
+            "saga": "Battlestar Galactica 1980",
+            "title": "I Super Scout (parte 2)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd99287adee5d0ff1e6aa8d5c2a2b893"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x6",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Baseball spaziale",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/59c911efba114afb8ac585696f82ce3d"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x7",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Cyloni a New York (parte 1)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/24c32f5cbfdb218a990b096fca89e079"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x8",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Cyloni a New York (parte 2)",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b82b6d10ba850566561566ef18dfeb4"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x9",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Braccianti spaziali",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/000a613b80213b325111a053e5147631"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4621,
+            "number": "2x10",
+            "saga": "Battlestar Galactica 1980",
+            "title": "Bentornato Scorpion",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/73bdb1c2a071705dd93172e64deb05b8"
+                }
+            ]
+        }
+    ]
+}

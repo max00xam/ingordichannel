@@ -1,0 +1,92 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 695402,
+			"number": "1x1",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.01.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/70ddc2b2c3435cd20a72f45319ad64f0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x2",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.02.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5d8e9159374d011ffd72169ae5fa19a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x3",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.03.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8b600b87440949e75f1fee3689255b48"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x4",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.04.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0d84c35a4601c929126875a7c59a402b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x5",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.05.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d955440e5e7fc4fd60ff59a690d36fc3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x6",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.06.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a7da30a4055f6cf429a265a0a00b9176"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x7",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.07.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1b9301ef67f966478d9f198273d3eda6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 695402,
+			"number": "1x8",
+			"saga": "The Mandalorian",
+			"title": "SerieTV/The Mandalorian [b361753]/1.08.avi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c5b0bc259b86ccf4f5b976e265d88804"
+				}
+			]
+		}
+    ]
+}

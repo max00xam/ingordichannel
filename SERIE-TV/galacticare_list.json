@@ -1,0 +1,114 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 4882,
+            "number": "1x1",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 01",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f1d30a3028b98f58b804ee4c13c1a6c"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x2",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 02",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/682c7603e748accbdc4f7aab8d1f055a"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x3",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 03",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da9884ee8592b5b7f6ae9ab994350202"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x4",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 04",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ea1f9acc4161e76b8d04590a3e52397"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x5",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 05",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f0f3cdeb08761d988069e62c6ad2628"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x6",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 06",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9cc4d5d6e87aa8dc1891c54290d743b9"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x7",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 07",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9eca40e57c67d63934e3f17c7597242"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x8",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 08",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b72b9d8d94793c11b364fcd98a4f3b7"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x9",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 09",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a878d4c0669303f30f0978c4f3faf0ea"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 4882,
+            "number": "1x10",
+            "saga": "Battlestar Galactica - The Resistance",
+            "title": "Webisode 10",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/13d38cf601be0e2a7cbcbc76cfea2b4a"
+                }
+            ]
+        }
+    ]
+}

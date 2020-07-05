@@ -2,39 +2,129 @@
     "tvshows_list": [
         {
             "plot": "Decalogo (Dekalog) è una serie di 10 mediometraggi diretti dal regista polacco Krzysztof Kieślowski. Ogni episodio dura circa 55 minuti e racconta una storia di vita quotidiana indipendente da quelle degli altri episodi e ispirata, talora vagamente, talora in modo più esplicito, a uno dei dieci comandamenti biblici. La sceneggiatura è curata dallo stesso Kieślowski insieme a Krzysztof Piesiewicz.",
-            "title": "Krzysztof Kieślowski 'DECALOGO'",
+            "title": "Krzysztof Kieślowski 'DECALOGO' - W.I.P.",
             "saga": "Krzysztof Kieślowski 'DECALOGO'",
             "year": "1989",
             "tmdb_id": 42699,
-            "genre":["Dramma"],
+            "genre":["Drammatico"],
             "url": "/SERIE-TV/_list.json"
         },
         {
             "plot": "Come nel celebre romanzo, vi si narrano le disavventure del famoso burattino, anche se, a differenza della versione letteraria, nello sceneggiato Pinocchio è impersonato da un bambino vero, che solo in alcuni punti si ritrasforma in un burattino (in questa serie, Pinocchio diviene burattino o bambino per essere punito, premiato o salvato dalla Fata, fino alla fine, quando è totalmente bambino per la sua buona condotta, e il suo spirito esce dal burattino morto).",
-            "title": "Pinocchio (1972)",
+            "title": "Pinocchio (1972) - W.I.P.",
             "saga": "Pinocchio (1972)",
             "tmdb_id": 86662,
             "year": "1972",
             "genre":["Commedia", "Famiglia", "Bambini"],
             "url": "/SERIE-TV/_list.json"
-            },
-            {
+        },
+        {
             "plot": "Dopo lo sterminio cylone, la specie umana conta solo 49.998 sopravvissuti. Il Comandante William Adamo guida la Flotta Coloniale a bordo del Galactica, unica astronave militare salvatasi dall'attacco alle Dodici Colonie, mentre Laura Roslin assume la difficile carica di presidente presso il Colonial One. Insieme guidano l'umanità verso una nuova casa, la leggendaria tredicesima colonia nota come Terra. La Flotta è sottoposta a continui attacchi da parte dei Cyloni, e fatica a restare unita dopo ogni salto. I piloti di Viper, tra i quali spicca il tenente Kara \"Scorpion\" Thrace, sono sotto il comando di Lee Adamo, figlio del comandante. Lo scienziato Gaius Baltar, il responsabile dell'attacco cylone, è anch'egli a bordo della Flotta e tenta di conquistare la fiducia dei piani alti costruendo un congegno in grado di rilevare la natura di un cylone umanoide. Allo stesso tempo inizia ad avere visioni del cylone che lo sedusse su Caprica, Numero Sei, che sostiene di essere un angelo di Dio. Il Tenente Sharon \"Boomer\" Valerii scopre di essere una copia dormiente del Numero Otto e tenta di uccidere William Adamo. Nel frattempo, Scorpion si reca a Caprica per recuperare la Freccia di Apollo, un antico manufatto che secondo le Scritture aprirebbe le porte della Tomba di Atena, luogo mistico che aiuterebbe l'umanità a trovare la rotta verso la Terra. Sul pianeta si unisce a Karl Agathon, che ha vissuto gli ultimi mesi con una copia del Numero Otto credendo che questa fosse Boomer.",
             "title": "Battlestar Galactica",
             "saga": "Battlestar Galactica",
             "year": "2004",
             "tmdb_id": "1972",
-            "genre":["Dramma"],
+            "genre":["Drammatico"],
             "url": "/SERIE-TV/galactica_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre":[""],
-            "url": "/SERIE-TV/_list.json"
-        }            
+            "plot": "In una lontana parte della nostra galassia una civiltà umana vive sparsa su un gruppo di pianeti noti come le Dodici Colonie, su cui si è trasferita dopo essere migrata dall'ancestrale mondo nativo di Kobol. Le Dodici Colonie sono in conflitto da decenni con la razza cibernetica dei cyloni, il cui obiettivo è lo sterminio della specie umana. L'Impero cylone offre un trattato di pace agli umani, che si rivela essere un inganno. Con l'aiuto di un traditore umano chiamato Baltar, i cyloni operano un feroce attacco ai pianeti delle Dodici Colonie e alla Flotta Coloniale che le protegge, mettendo in ginocchio la specie umana. I sopravvissuti al genocidio lasciano i pianeti e scappano a bordo delle poche astronavi scampate all'attacco cylone. A bordo del Galactica, il Comandante Adamo conduce la flotta di fuggitivi alla ricerca della leggendaria tredicesima colonia conosciuta come Terra.",
+            "title": "Galactica 1978",
+            "saga": "Galactica 1978",
+            "year": "1978",
+            "tmdb_id": "501",
+            "genre":["Drammatico", "Fantascienza"],
+            "url": "/SERIE-TV/galactica78_list.json"
+        },
+        {
+            "plot": "Nell'anno terrestre 1980, e una generazione dopo le avventure narrate nella prima serie, l'astronave Galactica con al seguito la relativa flotta di 220 navi civili ha scoperto il pianeta Terra, solo per scoprire che il pianeta non può difendersi contro i Cyloni come originalmente sperato, dato che i Terrestri sono ancora troppo primitivi. Di conseguenza, le squadre di guerrieri coloniali sono inviate segretamente al pianeta per lavorare in incognito con i vari membri della comunità scientifica per accelerare lo sviluppo tecnologico della Terra.",
+            "title": "Galactica 1980",
+            "saga": "Galactica 1980",
+            "year": "1980",
+            "tmdb_id": "4621",
+            "genre":["Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/galactica80_list.json"
+        },
+        {
+            "plot": "Battlestar Galactica: The Resistance è una serie di dieci webisodi della durata di 5 minuti l'uno circa. Sono stati realizzati per raccontare alcuni eventi che avvengono su New Caprica tra l'ultimo episodio della seconda stagione e il primo della terza. A causa di problemi legali, i webisodes, inizialmente previsti per il periodo estivo, sono stati distribuiti attraverso il sito ufficiale di Sci Fi Channel soltanto a partire dal 5 settembre 2006, due volte alla settimana (martedì e giovedì), fino al 5 ottobre, la sera prima della première della terza stagione. In Italia sono stati distribuiti come contenuti speciali nel cofanetto DVD della terza stagione della serie.",
+            "title": "Battlestar Galactica - The Resistance",
+            "saga": "Battlestar Galactica - The Resistance",
+            "year": "2006",
+            "tmdb_id": "4882",
+            "genre":["Drammatico", "Fantascienza e Fantasia", "Fantascienza"],
+            "url": "/SERIE-TV/galacticacl_list.json"
+        },
+        {
+            "plot": "In tutto il mondo si stanno verificando eventi apparentemente inspiegabili, fenomeni soprannaturali, che fanno riferimento a quello che la Sicurezza Nazionale americana ha definito \"Lo Schema\". Quando il volo internazionale 627, partito da Amburgo, atterra a Boston con tutti i passeggeri e i componenti dell'equipaggio morti, l'agente dell'FBI Olivia Dunham è chiamata per risolvere il caso. Olivia è decisa a chiedere l’aiuto di uno scienziato, il Dr. Walter Bishop, che conduceva esperimenti per il Governo all'interno di un ramo della scienza chiamata \"Fringe\" (che comprende fenomeni paranormali come il controllo della mente, il teletrasporto, la proiezione astrale, l'invisibilità, la mutazione genetica, la rianimazione) finché, in seguito ad un incidente di laboratorio, fu dichiarato mentalmente instabile e rinchiuso in un istituto psichiatrico. Olivia si dirige quindi in Iraq, dove attualmente vive il figlio dello scienziato, Peter Bishop, che, nonostante abbia un'intelligenza alquanto sopra la norma come il padre, non si è mai laureato e ha vissuto di truffe e inganni, avvantaggiati dal suo spiccato ingegno. Peter è infatti l'unico parente e l'unica persona che può firmare le carte di dimissioni di Walter Bishop. Grazie a lui, tornato apposta negli Stati Uniti, il trio così formatosi inizia ad indagare sui casi dello \"Schema\", che da piccoli incidenti casuali si trasformano man mano in attacchi di bioterrorismo. Comandata dall’agente della Sicurezza Nazionale Phillip Broyles, che già si era occupato di numerosi casi riguardanti lo \"Schema\", nasce così la \"Divisione Fringe\", che usa come quartier generale il vecchio laboratorio di Walter nello scantinato dell’Università di Harvard a Cambridge.",
+            "title": "Fringe",
+            "saga": "Fringe",
+            "year": "2008",
+            "tmdb_id": "1705",
+            "genre":["Drammatico", "Fantascienza e Fantasia", "Mistero"],
+            "url": "/SERIE-TV/fringe_list.json"
+        },
+        {
+            "plot": "La serie narra in chiave ironica della vita di tutti i giorni di un gruppo di prigionieri in un campo di prigionia nazista durante la seconda guerra mondiale. Tali prigionieri si trovano nello Stalag 13, il più efficace campo di concentramento del mondo nazista: da tale campo infatti mai nessun prigioniero è riuscito a scappare. In realtà i carcerieri, in primis il loro capo, il Colonnello Wilhelm Klink, sono una manica di inetti e bonaccioni, costantemente presi in giro dai prigionieri stessi, che riescono a fare praticamente ciò che vogliono, il che significa fare dello Stalag stesso un fondamentale avamposto militare in terra nemica, nonché un centro di spionaggio e sabotaggio. L'intera classe dirigente nazista è a conoscenza dell'incompetenza di Klink, che per tal motivo non viene mai promosso, ma nello stesso tempo non riesce a capacitarsi di come il suo sia il miglior campo di prigionia. Il gruppo di prigionieri è molto assortito, sia per quanto riguarda le nazionalità (francesi, americani e inglesi), i gradi militari e le competenze professionali. Il continuo, sotterraneo, viavai dal campo permette inoltre il \"ricambio\" di questi che, in definitiva, sono veri e propri ospiti della soldataglia nazista.",
+            "title": "Gli Eroi di Hogan",
+            "saga": "Gli Eroi di Hogan",
+            "year": "1965",
+            "tmdb_id": "4068",
+            "genre":["Guerra e Politca", "Commedia"],
+            "url": "/SERIE-TV/eroi_list.json"
+        },
+        {
+            "plot": "La serie narra le vicende di una famiglia borghese degli anni '50 - '60 che vive nella città di Milwaukee, i Cunningham; la famiglia è composta da Howard, proprietario di un negozio di ferramenta, da sua moglie Marion, casalinga, e dai figli Charles (detto Chuck), Richard (detto Richie) e Joanie. Il figlio maggiore Chuck appare sporadicamente solo durante la prima e seconda stagione (interpretato da due diversi attori), per poi scomparire dal cast senza alcuna spiegazione da parte degli sceneggiatori, lasciando solo i due figli minori di età adolescenziale. Il quadro è completato dai migliori amici di Richie, Ralph Malph e Warren \"Potsie\" Weber (in particolar modo il secondo avrà dapprima un ruolo maggiore del primo, in quanto sarà identificato nelle prime puntate come il miglior amico di Richie, infatti inizialmente è l'unico dei due che comparirà nella sigla iniziale), e soprattutto da Arthur Fonzarelli, detto Fonzie (o anche Fonz nella versione originale), meccanico rubacuori con più di un tocco alla James Dean, che all'inizio della terza stagione andrà a vivere in un piccolo appartamento ricavato sopra il garage dei Cunningham. Nato come tipico duro e delinquente giovanile anni '50 di poche parole che avrebbe dovuto avere un ruolo marginale nel telefilm per dare un tocco di realismo maggiore, il personaggio, visto il successo che ottenne, si trasformò in pratica in un membro della famiglia Cunningham che fa da mentore a Richie grazie alla sua maggiore esperienza, cioè quello che avrebbe dovuto essere il ruolo del fratello maggiore Chuck, che per questo probabilmente sparì dalla serie.",
+            "title": "Happy Days",
+            "saga": "Happy Days",
+            "year": "1974",
+            "tmdb_id": "3845",
+            "genre":["Commedia"],
+            "url": "/SERIE-TV/fonzie_list.json"
+        },
+        {
+            "plot": "48 persone sopravvivono ad un tremendo disastro aereo e si ritrovano dispersi su di un'isola dell'Oceano Pacifico che sembra completamente disabitata. Ognuno di loro ha una sua storia, ognuno di loro nasconde dei segreti. Ma tutti quanti, se vogliono continuare a vivere, debbono collaborare, superare le avversità e le divisioni personali e sperare nel soccorso. Che potrebbe non arrivare mai. La banda di amici, familiari, nemici e stranieri lotta contro l'inclemenza del tempo ed il terreno scosceso. E scopre che anche l'isola nasconde dei segreti, una minaccia incombente, l'urlo di creature misteriose che popolano la giungla e che seminano il panico ed il terrore fra i sopravvissuti.",
+            "title": "Lost",
+            "saga": "Lost",
+            "year": "2004",
+            "tmdb_id": "4607",
+            "genre":["Azione e Avventura", "Drammatico", "Mistero", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/lost_list.json"
+        },
+        {
+            "plot": "Dopo essere tornata nella sua città natale di Roswell (Nuovo Messico), la figlia di due persone immigrate e senza documenti scopre che la sua cotta adolescenziale è un alieno che ha tenuto nascoste le sue capacità soprannaturali per tutta la sua vita. Protegge il suo segreto mentre i due si riconnettono, ma quando un attacco violento indica una presenza aliena più grande sulla Terra, la politica della paura e dell'odio minaccia di esporsi.",
+            "title": "Roswell, New Mexico",
+            "saga": "Roswell, New Mexico",
+            "year": "2019",
+            "tmdb_id": "82001",
+            "genre":["Drammatico", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/roswel_list.json"
+        },
+        {
+            "plot": "La fine è solamente l'inizio e dopo aver abbandonato la Flotta della Federazione dei Pianeti Uniti 15 anni prima, l'Ammiraglio Jean-Luc Picard comincia un nuovo capitolo della sua vita.",
+            "title": "Star Trek Picard",
+            "saga": "Star Trek Picard",
+            "year": "2020",
+            "tmdb_id": "85949",
+            "genre":["Azione e Avventura", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/picard_list.json"
+        },
+        {
+            "plot": "Dopo Jango e Boba Fett, un nuovo guerriero arriva nell'universo di Star Wars. The Mandalorian è ambientato dopo la caduta dell'Impero e prima del regno di terrore del Primo Ordine. Segue le avventure travagliate di un pistolero solitario nei meandri più reconditi della galassia, lontano dall'autorità della Nuova Repubblica.",
+            "title": "The Mandalorian",
+            "saga": "The Mandalorian",
+            "year": "2019",
+            "tmdb_id": "695402",
+            "genre":["Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/wars_list.json"
+        },
+        {
+            "plot": "Un'organizzazione militare segreta, la S.H.A.D.O. (Supreme Headquarters Alien Defence Organisation) combatte con mezzi sofisticati (sottomarini dotati di aerei, carri armati di nuova concezione, intercettori attivi nell'orbita lunare, sistemi di tracciamento e identificazione all'avanguardia) l'invasione della Terra da parte di misteriosi alieni, i cui scopi (la cattura di persone per la predazione di organi oppure la sottomissione dell'intera razza umana?) non sono ancora stati capiti in pieno. Oltre alla base segreta nei dintorni di Londra, camuffata da studio di produzione cinematografica, la S.H.A.D.O. può contare anche su una base lunare, punto di riferimento per l'avvistamento delle astronavi aliene.",
+            "title": "Ufo S.H.A.D.O.",
+            "saga": "Ufo S.H.A.D.O.",
+            "year": "1970",
+            "tmdb_id": "2560",
+            "genre":["Fantascienza e Fantasia", "Drammatico","Azione e Avventura"],
+            "url": "/SERIE-TV/ufo_list.json"
+        }
     ]
 }
