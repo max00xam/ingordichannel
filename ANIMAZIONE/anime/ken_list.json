@@ -1,2459 +1,1827 @@
 {
     "episodes_list": [
         {
-            "tmdb_id": 56387,
-            "number": "1x1",
-            "saga": "Ken il guerriero",
-            "title": "Sotto il segno dell`Orsa Maggiore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/01e740b6c81a7deaa2df7f1f0112f17a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/a06534f52a4c4370288510d76a55e269",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x2",
-            "saga": "Ken il guerriero",
-            "title": "Fante di picche",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/60cb0e29b9afaa05fa267e3918d708e8",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8d33f10f2dec814f30eb8b7ad6cc5a9a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x3",
-            "saga": "Ken il guerriero",
-            "title": "L`artiglio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e7727420985708216210998d13c080a8",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f83238455ff91237e03bd46a44f2c46a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x4",
-            "saga": "Ken il guerriero",
-            "title": "Il gigante",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/eb0f9d86876b1a43d00964bfc5d57ce0",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/90f6cc6915326664cacbde22bed6741f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x5",
-            "saga": "Ken il guerriero",
-            "title": "Ritorno dall`inferno",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a548872988146f27e2cdcd09277d3f6f",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ec64de8864f34c08e25e59275b654aef",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x6",
-            "saga": "Ken il guerriero",
-            "title": "Berretti rossi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f38b49674e7bdb68efad7b4637377ba4",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/0851d3208e24fffd3259579617ed5f68",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x7",
-            "saga": "Ken il guerriero",
-            "title": "L`armata di Dio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/20060199a30ce86d17703c22ecff8148",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f4c4f63299764c886e8b56806d684b81",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x8",
-            "saga": "Ken il guerriero",
-            "title": "Il colonnello",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/13ae8cb6a182d55ed67f2736dff9fc41",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4a567310c92d2a096fafa72e863dbbf8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x9",
-            "saga": "Ken il guerriero",
-            "title": "La montagna magica",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/635f721cd15b4cf76d40b1d7079781e6",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8fd1b3c1bb1a3554945e4d4c5d0415f1",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x10",
-            "saga": "Ken il guerriero",
-            "title": "L`uomo di fuoco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f5ba2c499e72c54081c0a7fe7e58fe7a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/db08023174d93217da4091fc088ce6f9",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x11",
-            "saga": "Ken il guerriero",
-            "title": "I guerrieri",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6168582d884af5d6eec6edccbeddfe25",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7b2718da35eea45f56832db0e79b284b",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x12",
-            "saga": "Ken il guerriero",
-            "title": "L`inseguimento",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b40820076b764940e129774e940ae418",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/275f86527962d51b4c8326fdc721a2e9",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x13",
-            "saga": "Ken il guerriero",
-            "title": "Un colpo micidiale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bd34587fd513d14f14bc02b93bf43cec",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/df124ec00904e8217452f6c4fbd24598",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x14",
-            "saga": "Ken il guerriero",
-            "title": "Un uomo giusto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0865124180ea03f980f046d640396fd5",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/6c4de8c545fbebde02ea2c6930eb6bcc",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x15",
-            "saga": "Ken il guerriero",
-            "title": "Il villaggio degli zombi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b11e5d429ce5e8fbbc27d4ffa47c8930",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/a6a0f71129d5314310c6e2ba8543bf9f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x16",
-            "saga": "Ken il guerriero",
-            "title": "Serpenti e scorpioni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a493d6c64bb73cfd29cbee2024686f6a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f9b0d4ebf52a8c78eb0f3966c8a5e46c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x17",
-            "saga": "Ken il guerriero",
-            "title": "L`adunata",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5d89bb19aa4832b68d050ae941a9c91c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/0e66bc34cffb82b21f9b978ea153fc48",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x18",
-            "saga": "Ken il guerriero",
-            "title": "Attacco generale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ce342a0c1be1c62b70150f66d83add17",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/77c1a35d78910b8691ed9f23d9659b15",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x19",
-            "saga": "Ken il guerriero",
-            "title": "Il sacrificio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/25904c82401b7849a24424b26fe02399",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/0e72a4e2246673d974b267edb7f14aa5",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x20",
-            "saga": "Ken il guerriero",
-            "title": "La Croce del Sud",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/478f77bc567eeb0163c9c01dc2281889",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/18e1a5b3c9df65becbf602e2dd09970a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x21",
-            "saga": "Ken il guerriero",
-            "title": "Il complotto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/91367e8aa699b643c09e73e420b19755",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3bde4e4faee844f5c1f41967288ac874",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "1x22",
-            "saga": "Ken il guerriero",
-            "title": "Duello finale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/76cd0ff2b9faf700df144755e61175e0",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/909a410e31388a31b318cf588d57d4e5",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x1",
-            "saga": "Ken il guerriero",
-            "title": "Guerra!",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8b39c8799ddd4cc73f93b4b1ffd3cf3e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3b33e448621bf1c4deeb9e1973d2a491",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x2",
-            "saga": "Ken il guerriero",
-            "title": "L`uccello d`acqua",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/de5c93cffa7dc910df46c8bfb70f0a9c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2d48a82c6adf786d9b27b9b8b3352fc0",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x3",
-            "saga": "Ken il guerriero",
-            "title": "I lamponi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d15ea6dac621a94aaeebb32a955a2eca",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/bcbb20ef9c882be46fdff87c0ae7df07",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x4",
-            "saga": "Ken il guerriero",
-            "title": "La vendetta dei Cobra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ec49cd10d2b6ead24f1437b91a9d3962",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4490392fc680842e9282020a8cc7b691",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x5",
-            "saga": "Ken il guerriero",
-            "title": "All`inseguimento dei Cobra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7324ed54d947be16d3f061125d97c7ac",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/016880c10893151b05350323af32711f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x6",
-            "saga": "Ken il guerriero",
-            "title": "Il combattimento",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/af8a16f05f3587e955cde5986ffcb1a2",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/9d1d8dc4e7d3b2c428bd36e12d673f76",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x7",
-            "saga": "Ken il guerriero",
-            "title": "Vivere o morire",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e051866d6cc15561d8d140d8ddbd195b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/81bad1d00b258840838007c1e7f1878e",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x8",
-            "saga": "Ken il guerriero",
-            "title": "Combattimento fatale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/19c66daa7766ce1c35ceb748808e9ce6",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2ce1f7864cf0bccb7487eb9a85f4a6fd",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x9",
-            "saga": "Ken il guerriero",
-            "title": "Cercando Jagger",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/05ae28d5bd4591b146c6c279e4e307bc",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ab1daf251725d6f0795d0bb9ebca8181",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x10",
-            "saga": "Ken il guerriero",
-            "title": "Aspetta all`inferno Jagger",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/be640bb0b5b199a74abdd72b662e7977",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/a1a6aff323fb08e1d186e3e0d584c225",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x11",
-            "saga": "Ken il guerriero",
-            "title": "Il salvatore diabolico",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7007dd3b516e78a427986d5390af10e5",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/d2688f4f4bf7c0cb1a93ba1ed76b0d24",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x12",
-            "saga": "Ken il guerriero",
-            "title": "Il cacciatore di cavie",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ecfb9bcb42fe142bb7fae20df2ba2736",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/450450fdc8fc35938b13c4b8236f2e67",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x13",
-            "saga": "Ken il guerriero",
-            "title": "Il cambiamento di Toki",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/616e0557bfa7046d776cced58a6612e2",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/17a914961fdfb901c3949a19db2699ba",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x14",
-            "saga": "Ken il guerriero",
-            "title": "Scambio di persona",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7d52f8e74a4faa2e541022c016f6a477",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/01418cb1c2d1ef3f7e00eb79d2d0e220",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x15",
-            "saga": "Ken il guerriero",
-            "title": "Non amarmi Mamia",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3fbd5d30c5fe6c31b779f28baeaf74a8",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/409b4e3467ab80297bd8174e45664884",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x16",
-            "saga": "Ken il guerriero",
-            "title": "La tragedia di Bella",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f6e170027281e915b9bc3b412dd1f435",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/b61d6e47ab9e5cdeaaa9a6050c936cbb",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x17",
-            "saga": "Ken il guerriero",
-            "title": "La porta di Cassandra",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/af158830b48d4979935b6587917a9e46",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/98e21ef3aed60043b0f59dc7bf2edf29",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x18",
-            "saga": "Ken il guerriero",
-            "title": "La vita trionfa sulla morte",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/16d328065eb7345d14881034b926cc13",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/b6bd43a814c14636fea707d3dad99d55",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x19",
-            "saga": "Ken il guerriero",
-            "title": "Uno scontro di 2000 anni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bcd82d40382ffc65deee2d8d0f7da4ec",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/afccac9000e65fa03ab63f75ffc74942",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x20",
-            "saga": "Ken il guerriero",
-            "title": "Un incontro difficile",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/158310a4b6cb84e3972badca81b5a4e6",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c072eb0248abde128d2351737362b578",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x21",
-            "saga": "Ken il guerriero",
-            "title": "La nuova leggenda",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4c78a68acb8017048729c0eaaf0fbbd6",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3c35ec94cd374824d77a6b5a564ffa3d",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x22",
-            "saga": "Ken il guerriero",
-            "title": "La Stella della Morte",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c11ae59bc382282c8c5acb0896c248a1",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/eea7aef7cde3f3cce70ce79e2c10d034",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x23",
-            "saga": "Ken il guerriero",
-            "title": "Il coraggio della piccola Lynn",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/b42055df0b507def3cd6658b1a6e6861",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/fab84877fe126bd8820b6aa47fa2589a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x24",
-            "saga": "Ken il guerriero",
-            "title": "La rivolta",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8f00e808b83eb7b4fd1ce13be66ba53c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/62573372f6ce960248ce26e3daddc89d",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x25",
-            "saga": "Ken il guerriero",
-            "title": "La leggenda della paura",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8be0d3750676c367bde93dcb6790b5ba",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/5f8be68fdbc71c44a674545a468aa036",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x26",
-            "saga": "Ken il guerriero",
-            "title": "Attacco segreto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/56390b7fa8ff5d53322570edc1b3d25d",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3b92821b65d50303d72bb8d3e51d579e",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x27",
-            "saga": "Ken il guerriero",
-            "title": "Lotta all`ultimo sangue",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9238fe09c5055c11c2b091dffa217a4e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/fbe76709189647891bc833eccdd628d7",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x28",
-            "saga": "Ken il guerriero",
-            "title": "Cani sacri",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2ef41672d0910caba88fa77fdb3e4b46",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/056017594b71a7a05e1735e5de9d38b8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x29",
-            "saga": "Ken il guerriero",
-            "title": "Sacrificio d`amore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2ed4f28d08c00891cc4955f2cbf8ccf8",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/168d13a57e54d69ea0caeb6a278e8428",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x30",
-            "saga": "Ken il guerriero",
-            "title": "Bellezza crudele",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1f941d9a382d0eca7be8509ff508fd1f",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/58c1fa822f3294f910985c5e7e6f09d8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x31",
-            "saga": "Ken il guerriero",
-            "title": "Le donne rapite",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/55e63a740039694f8fa7be70a4515dde",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/188486ddc7c9110571c3d8ac28aa80a4",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x32",
-            "saga": "Ken il guerriero",
-            "title": "La grande prova",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e59e5b7163502fb2a111a2fd64f7ff86",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f0fba82ec734d7b3a92024a89dac62a7",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x33",
-            "saga": "Ken il guerriero",
-            "title": "Il volo dell`uccello bianco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/af33f794c656e77b9da70c1f0591569d",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/5bb719ba32b455e446d6ba56896b5eb1",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x34",
-            "saga": "Ken il guerriero",
-            "title": "Un uomo solo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/88b5727634f633ccbb73be847e6ec615",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ffa2891a5ff804657a9623f5b7ff3cf4",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "2x35",
-            "saga": "Ken il guerriero",
-            "title": "La storia dell`uomo immortale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0f244195a3ad4298b6bfa9d559df6a45",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/d81309dfc89b177c10650b141eaeab7f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x1",
-            "saga": "Ken il guerriero",
-            "title": "L`esercito di Sauzer",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/09a02c7d43522e0e03edf4d1ef16cfbe",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4d7f97ab4972842828905f27e5a915f4",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x2",
-            "saga": "Ken il guerriero",
-            "title": "Il tempio del potere",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a1680fec031f0369935a01478720a64b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/13f0c762afc2286be780426fdc4ee6f9",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x3",
-            "saga": "Ken il guerriero",
-            "title": "Sperare nel domani",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2e8ba6dfaf5b75800394d7e97dc8268f",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c5f63928d5aea6fecdd73bee7ee594fe",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x4",
-            "saga": "Ken il guerriero",
-            "title": "La luce della vita",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/eea2cc1a43b7eb5499a6d4d78da994e3",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/bed3779453ae55c0cec2319925168062",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x5",
-            "saga": "Ken il guerriero",
-            "title": "Il re del mondo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1a954486b711a76482c81a55bd46471c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/b75a7304fd72c594ae268760563d9841",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x6",
-            "saga": "Ken il guerriero",
-            "title": "Due destini simili",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/850c4b8107f34154c92d8b09c29df695",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8947bdfe376975689656d138db32a04e",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x7",
-            "saga": "Ken il guerriero",
-            "title": "La stella di Shu",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8918f5e10e70be64234d6080af1a7798",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/b672dfaa48f437b3e5a184349e8bb09f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x8",
-            "saga": "Ken il guerriero",
-            "title": "La piramide della croce",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8c3d526885e66cec648ccca7e483a3fb",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/83faecaf8f15414fd102011474e03d9a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x9",
-            "saga": "Ken il guerriero",
-            "title": "Il futuro ti appartiene",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/694677cbd3b292bb44d290e8ca3fc79e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ac2caecb9a95f6dadd5277b0ec8fafff",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x10",
-            "saga": "Ken il guerriero",
-            "title": "Una vittima dell`amore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4c5ec3c589f5cbf0dfdf000351746c96",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ee344598b491db765605fbaccda5cdde",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x11",
-            "saga": "Ken il guerriero",
-            "title": "L`ultimo volo della fenice",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/22be0850b6f1106f8d7f4dae73bd8521",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/843ceba8434fb6b9390a24ff662e4840",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x12",
-            "saga": "Ken il guerriero",
-            "title": "Sete di dominio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8cc44bfbc3a10b90b943548bf7390bcb",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/9800f5b3596c5e657a2947d4745a07ec",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x13",
-            "saga": "Ken il guerriero",
-            "title": "Un re solitario",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/205706d69ed4759f64e69cc15b312be1",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/d67784f83358d3ba601ff592cea97708",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x14",
-            "saga": "Ken il guerriero",
-            "title": "La morte è di scena",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a611dd489a78f0d4ca48a5b8d3d1fff3",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/9a6e620af5567ca6065e365821c06697",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x15",
-            "saga": "Ken il guerriero",
-            "title": "Le ultime lacrime",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1ac3192b470ce3995187bbac44355fe1",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f1d6003e83218dea8f66bcce9336d366",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x16",
-            "saga": "Ken il guerriero",
-            "title": "L`uomo di Sirio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d4f7585970b7b1eb8b18c00081a1b096",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/1dad8e440663bfbbe0cea64aa162e7b2",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x17",
-            "saga": "Ken il guerriero",
-            "title": "Alla ricerca di un nuovo eroe",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/786b32d0d5b8b1259c91ccdf63468376",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3550e8e37ff3c0fa9a6f479dae311d63",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x18",
-            "saga": "Ken il guerriero",
-            "title": "Occhi di ghiaccio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e0815c6456109b2498d3a87c53b6470b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/14bd749c92382f23eb59f59c2443f8f9",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x19",
-            "saga": "Ken il guerriero",
-            "title": "Chi sarà il re del mondo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ca0c4d0884a8ed21933f3f036871b53a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f0cee99ca47811c67809339ecdf94c22",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x20",
-            "saga": "Ken il guerriero",
-            "title": "Il sacrificio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c866ff74f67fec5758f47c87ae231d62",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c5a44b01d72744ad661be793e7987ae2",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x21",
-            "saga": "Ken il guerriero",
-            "title": "Amore impossibile",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9fb08e496dfaacb01c461bd7c109a217",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/1ca9cd292d9584c320c99502283dbe10",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x22",
-            "saga": "Ken il guerriero",
-            "title": "L`amicizia",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/954f532b941076c98c60c9c059460ecf",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2d899e7b5960e6251959f371a072e112",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x23",
-            "saga": "Ken il guerriero",
-            "title": "Eterna leggenda",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/0e6597cd27a03e5019cfcc1becfb2334",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/b00a653689ae2a2892476616d9599982",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x24",
-            "saga": "Ken il guerriero",
-            "title": "Il grande cieco",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/116705996c0d3e291aa471d56026b16c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/5393a50ca820c4b95094c69e67dbb6e8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "3x25",
-            "saga": "Ken il guerriero",
-            "title": "Il dittatore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cbc004360a0d44c9e1e6bc1d01d4006c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/6579b180d5fc17c65a9631ec02012a76",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x1",
-            "saga": "Ken il guerriero",
-            "title": "Tortura disumana",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9e06ee6ada221ba327cb0efefd93d782",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/62defb27eb92ca011fcb3b55ee652e51",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x2",
-            "saga": "Ken il guerriero",
-            "title": "La brigata del vento",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/27fbf98b89b25980b95ae94dbeb38a53",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/9f4b2dc043114c2b11f4c615c77f929b",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x3",
-            "saga": "Ken il guerriero",
-            "title": "La notte degli echi",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/713726ad12c2c7fe01f3f268524ef032",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7023f293e94437840a6e3f63b8ff8c30",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x4",
-            "saga": "Ken il guerriero",
-            "title": "L`armata delle fiamme rosse",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/cbf4859203fc19fa18fc5185a2611040",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/96255aad0336cb1f31db0771806bcb60",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x5",
-            "saga": "Ken il guerriero",
-            "title": "Il mostro della montagna",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ce4b88c7e521e4eb5527b30719566e85",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/0144780024547e7c8ae3ae77180f0d7a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x6",
-            "saga": "Ken il guerriero",
-            "title": "La giusta condanna",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5694d1914f46107547532b67dbc95a4b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/e71a09a133c624403b0f1128f6970974",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x7",
-            "saga": "Ken il guerriero",
-            "title": "I briganti del re",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/fa19597b7a39c9f3e0612915add3e5be",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2800102d2e98ada73ee83734b9b146f0",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x8",
-            "saga": "Ken il guerriero",
-            "title": "L`ultimo guerriero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/92be4215b3c8b0d04fe8313e46b76f32",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/276809e5ef86351c93680f279ab48130",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x9",
-            "saga": "Ken il guerriero",
-            "title": "La legge è uguale per tutti",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/7a77a8de2fb5baf26f30f7f70dfa6015",
-                    "quality":"HD"
-                },
-                {
-                     "url": "http://51.77.159.233:30299/ae8267f319fdbdc47e4d9e5f64d65880",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x10",
-            "saga": "Ken il guerriero",
-            "title": "Nessuno fermerà Juza",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1672bf98aa000f6645c74bdcdcf88091",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/3509faad4a3cfe522dc3b0959329a7a0",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x11",
-            "saga": "Ken il guerriero",
-            "title": "Due giorni di attesa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ed117cac8c3da80801415fff6337c9a5",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c644462156d557f51129ef39055b5914",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x12",
-            "saga": "Ken il guerriero",
-            "title": "La grande forza dell`amore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/57beebc16d06df31e4d9b8f2ea3e466a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/201bdbed7bb31da34f60fe5e6d48c77c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x13",
-            "saga": "Ken il guerriero",
-            "title": "Due sguardi innocenti",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/627c9c52322f0f0a22e0904773fabd4c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7ba60ac8795556cf7471153bc497055c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x14",
-            "saga": "Ken il guerriero",
-            "title": "La grande vallata",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f047bdcc75e0c4505794dfd0270eb806",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c93bf79c9bf55030f1348c184b09181c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x15",
-            "saga": "Ken il guerriero",
-            "title": "Corsa verso la libertà",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/740d2f81daa5aaa86d96c36ce22c26c6",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/789d1aab2688d119a8aee65a7071c6d8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x16",
-            "saga": "Ken il guerriero",
-            "title": "I due fratelli",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6cc442d8850057f2f80ecc1da3fb073c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/dd95e4dda16ce9dc40b7f4e91f5463aa",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x17",
-            "saga": "Ken il guerriero",
-            "title": "La figlia del mare",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/091dda14d930fdc4e6d38a18108394ce",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/5228afe29ac5b9a2b3d30626b0d84ab4",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x18",
-            "saga": "Ken il guerriero",
-            "title": "L`ultimo segreto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/706353c81d3d87c6593f3b958f778366",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/abbbca99a4b6b4986eb28117c8da1085",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x19",
-            "saga": "Ken il guerriero",
-            "title": "Una lotta interminabile",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/98550219de60310d5c6c0b4df9d28ced",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/a565514f3c75401a1dfe4efc1a0a852d",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x20",
-            "saga": "Ken il guerriero",
-            "title": "Il gigante indeciso",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a253e24540ea64a47eb27cc3faac9905",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/fef60c3ceba4d141b39a0c7a33debff6",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x21",
-            "saga": "Ken il guerriero",
-            "title": "I dolci occhi del diavolo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6f4a871194ac0b59e88261b25f51cb65",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2f5dd4fe7a37d1153cb51253b09439f2",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x22",
-            "saga": "Ken il guerriero",
-            "title": "Bambini del futuro",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4af5b15a532b4fe182c34541f243f8db",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/d8644a4f5d1211263924c74b117e32a8",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x23",
-            "saga": "Ken il guerriero",
-            "title": "Stelle per sempre",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/59a455fa21826dfe91ce6be1849478aa",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/08e7c290c8019dd3c0cb72da4a10c81a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x24",
-            "saga": "Ken il guerriero",
-            "title": "Vivrai per sempre nel mio cuore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ebe75aa6776086141de1f861c0b5284b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2c0f23684c179287b48fd62370f593b3",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x25",
-            "saga": "Ken il guerriero",
-            "title": "Nessuno li fermerà",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/be0d47e834a30e1e5fa7ee2048cd161c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4452991fec402311ac3b6df67f6c1383",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x26",
-            "saga": "Ken il guerriero",
-            "title": "La stella della morte",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/269ea2785b022ef4c2ba5c3adb92ed00",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c22ec709fa7ff2f21c771ebf6ae6ccf3",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "4x27",
-            "saga": "Ken il guerriero",
-            "title": "Promemoria",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/c993befb4b05330e07d6fc779d9c265a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/890e719a3960142ac36a8848ab10c209",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x1",
-            "saga": "Ken il guerriero",
-            "title": ".",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1e63b380b840bd3550e5ec7d1244a4e9",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/faf484d11353524291ab7be1130b3446",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x2",
-            "saga": "Ken il guerriero",
-            "title": "Ritorno di fiamma",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/80805c2f40ad965e4a3f0daa335aeb0b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/d09a9e8b0754225234e56d2009ab3b63",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x3",
-            "saga": "Ken il guerriero",
-            "title": "La salvezza viene dal nord",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1c5756fa51f02bad044676977bf2bf55",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f6251cb091ad7a82670308ecfcbf7b8b",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x4",
-            "saga": "Ken il guerriero",
-            "title": "Cacciatori di taglie",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5b08f6dadb1fd52749f8547e2ba52f05",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7d0916ddcb4d5f9d3647553374f5f208",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x5",
-            "saga": "Ken il guerriero",
-            "title": "La scuola imperiale di Cento",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bbb67ebc3830f572b0476a6fe87c6853",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ad4ab2595d6f21a69e801267e115914b",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x6",
-            "saga": "Ken il guerriero",
-            "title": "L`armata di Hokuto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3944194315815b3c002927bc4b8e770f",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/1f390f8612bbff39f43c73280601918d",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x7",
-            "saga": "Ken il guerriero",
-            "title": "I falchi di Nanto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6b5b3f40cbb38ef2ca4f130119add3b3",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f9e640cf33a1102ddf3f3a2e17f3784b",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x8",
-            "saga": "Ken il guerriero",
-            "title": "Quando si vuole bene",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/bc377875dc844339f0afc287d06bac1c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4142be6454f658f829440adc06299274",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x9",
-            "saga": "Ken il guerriero",
-            "title": "La capitale dell`Impero",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1983a6cf19dd3fc63e6f739857c60807",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/50640fa7bacdc328137a119cb52064de",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x10",
-            "saga": "Ken il guerriero",
-            "title": "L`ultimo ostacolo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/500557c4e6051c99e4ff69680e3d599a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/18e2a24c251c0b7dac09f08f3d1e5fb7",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x11",
-            "saga": "Ken il guerriero",
-            "title": "L`imperatore",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/73f734fc61bd50f833cebfd52b5a7c64",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/89d5fb94b98d7af5a6f231b4f5b42435",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x12",
-            "saga": "Ken il guerriero",
-            "title": "La signora dei cieli",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/8a4771bb292919a1929b413d41bdab33",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/5615474a47ce521c82921449a938b7bb",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "5x13",
-            "saga": "Ken il guerriero",
-            "title": "Rapimento",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ee26b8b1a142326ef3ebda737596e755",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/a911a6c35d45b55ac5e24f5e03fc5d05",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x1",
-            "saga": "Ken il guerriero",
-            "title": "Pirati",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4c71095b2c407cf0c318e0611bbd620d",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8074aae38648e86ac5e9acbc5b77010d",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x2",
-            "saga": "Ken il guerriero",
-            "title": "La terra dei demoni",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/072c0b04ecda2a212dcff8c235d36c72",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f882bbd29031b89a4836796cee754e58",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x3",
-            "saga": "Ken il guerriero",
-            "title": "Killer",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/95aa8dca95332bd90a7c3e0fbb2434ac",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/07ab9d7f7a84302c40bf4b46ec09be82",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x4",
-            "saga": "Ken il guerriero",
-            "title": "Amore rubato",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/eb7e72814bd90c6c3de5b0e8ba5312a4",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8b80812ac621641d7eb0615f18b8f2f1",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x5",
-            "saga": "Ken il guerriero",
-            "title": "Neve rosso sangue",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/27db6f14d29f9e0e30a627cdc772a67b",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7b63ad5d1e7e0ceb15935051739048ea",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x6",
-            "saga": "Ken il guerriero",
-            "title": "Il ritorno di Raoul",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ca9fc8fad7ddfa2f5865bf23f0860fc4",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/8468db5b1526a1804ff520852aeb107c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x7",
-            "saga": "Ken il guerriero",
-            "title": "Casa, dolce casa",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/3eb60e85461e15b6233e770e5d5f025a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/aa4ad505aac1399e883cc292582cb8ce",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "number": "6x8",
-            "saga": "Hokuto No Ken",
-            "title": "Il liberatore",
-            "links": [
-                {
-                    "url": "",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/1d8dcc597774e19445267e37a0ece343",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x9",
-            "saga": "Ken il guerriero",
-            "title": "I sette cavalieri",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/d20bee9434220a1d62aa89a7a2acf463",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f4ec9405b361002f93cae1e766aa3dd5",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x10",
-            "saga": "Ken il guerriero",
-            "title": "La leggenda continua",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ff5f24679b2cd88179519f7acda38c36",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/2ebf6d2813c858c63b45646bef7b375e",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x11",
-            "saga": "Ken il guerriero",
-            "title": "Lotta impari",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/2a02efa8990c30d3adb7d24c7873191e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/11fde644d3ac2435dcdb1a98293ec82a",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x12",
-            "saga": "Ken il guerriero",
-            "title": "Maestro e discepolo",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/5e6c0f08b441b0f0b5eacbb42a6d5e28",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/94140604c2efc99ed2f558b30d382014",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x13",
-            "saga": "Ken il guerriero",
-            "title": "Il colpo segreto",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ba85cf0246aadfc0b551f5adb0bce37c",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/26ae7ebdafeb68912ca1d459c6c321ba",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x14",
-            "saga": "Ken il guerriero",
-            "title": "Pericolo mortale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/54a1b34d37a85233945fdf510ce09213",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/dd6dd7a71b89c91071aee78ab1da7a43",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x15",
-            "saga": "Ken il guerriero",
-            "title": "Il ritorno del pirata rosso",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a12ecea8caca43aea711888ebc0846e9",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/6b5dee212c135b117880accce714c808",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x16",
-            "saga": "Ken il guerriero",
-            "title": "Il sacrificio dei pirati",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1569a439e58680cce394dd6e7b820769",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/7d5cb4e4e48fccf6dcc5fe98a846ac22",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x17",
-            "saga": "Ken il guerriero",
-            "title": "Prova di amicizia",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/a583cc8d85197e50515e169c2d791f65",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/6ec29ae19dc5643ebd5bad9fd731a0b1",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x18",
-            "saga": "Ken il guerriero",
-            "title": "Il risveglio di Ken",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/67ef94e20cf4496e38437c58c4943ee5",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/f689ac4fe0c462997797980ad87e7ad5",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x19",
-            "saga": "Ken il guerriero",
-            "title": "Desiderio di vendetta",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1559cddc0034394076c302542925845a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/fe8eb02b7844113911cafa2b9692880f",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x20",
-            "saga": "Ken il guerriero",
-            "title": "La rivelazione",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/54493bbae3980b568d1f902215538a8e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/e07db78d3bd49abe4af6c8ffef1fb779",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x21",
-            "saga": "Ken il guerriero",
-            "title": "Duello fraterno",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e8cc8ca3299b74fbd665b43f323f7a1a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/ccb55b388e0ce000b2c4d9d16fa7fa69",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x22",
-            "saga": "Ken il guerriero",
-            "title": "Scontro crudele",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/e9222673059b2091fc1234bbef2d0a81",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c2c6252197447be91da16ba8f6608008",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x23",
-            "saga": "Ken il guerriero",
-            "title": "Barlumi di memoria",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6c25efea4d79f0b1fcfd4200eda2171d",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/0e12f1dc44993f5b0943878e263f0d19",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x24",
-            "saga": "Ken il guerriero",
-            "title": "La statua",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/4ba48b0461316778c59e165f161aa119",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/52703d976d5c9f9540b61cba5fb2bb8c",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x25",
-            "saga": "Ken il guerriero",
-            "title": "La morte di Ork",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/89ef9274861d9b07e5a7f88db45a7b94",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/30c486b92b3cdaafc86243a9ee319f91",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x26",
-            "saga": "Ken il guerriero",
-            "title": "Amore contro odio",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/6032d93f3966fd478c80517495573a4e",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/27cd36b3ec805c36d3548a655846daa9",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x27",
-            "saga": "Ken il guerriero",
-            "title": "L`anello della morte",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/624137ed29735f107b23b6e01e5957ee",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/4789fe9ebf7d31175088c4a1ac8ce0bf",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x28",
-            "saga": "Ken il guerriero",
-            "title": "I due cugini",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/1ff7ab56708409d75775a6b5522b045a",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/52d2a74a417e2a9730b298cdee01e376",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x29",
-            "saga": "Ken il guerriero",
-            "title": "Il ritorno di Bart",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/98a1eab1e59b758ac9807dd4720047b9",
-                    "quality":"HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/c9a0db8cb8ec5f66e785c6f9ffaa6e24",
-                    "quality":"SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "6x30",
-            "saga": "Ken il guerriero",
-            "title": "Addio, Ken",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/ca0878338ef91cc38b58e11257d2440f",
+			"tmdb_id": 56387,
+			"number": "1x1",
+			"saga": "Ken il guerriero",
+			"title": "Sotto il segno dell`Orsa Maggiore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/01e740b6c81a7deaa2df7f1f0112f17a",
                     "quality": "HD"
-                },
-                {
-                    "url": "http://51.77.159.233:30299/af02719a2a52edc2cba1bf8f5238f314",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "Sigla",
-            "saga": "Ken il guerriero",
-            "title": "Sigla iniazle",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/aff81724bdfe89566dd538267b4814f8",
-                    "quality": "SD"
-                }
-            ]
-        },
-        {
-            "tmdb_id": 56387,
-            "number": "Sigla",
-            "saga": "Ken il guerriero",
-            "title": "Sigla finale",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/9cffa32f577fabb8c1a5a494a2eb5a2f",
-                    "quality": "SD"
-                }
-            ]
-        }
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x2",
+			"saga": "Ken il guerriero",
+			"title": "Fante di picche",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/60cb0e29b9afaa05fa267e3918d708e8",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x3",
+			"saga": "Ken il guerriero",
+			"title": "L`artiglio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e7727420985708216210998d13c080a8",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x4",
+			"saga": "Ken il guerriero",
+			"title": "Il gigante",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb0f9d86876b1a43d00964bfc5d57ce0",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x5",
+			"saga": "Ken il guerriero",
+			"title": "Ritorno dall`inferno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a548872988146f27e2cdcd09277d3f6f",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x6",
+			"saga": "Ken il guerriero",
+			"title": "Berretti rossi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f38b49674e7bdb68efad7b4637377ba4",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x7",
+			"saga": "Ken il guerriero",
+			"title": "L`armata di Dio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/20060199a30ce86d17703c22ecff8148",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x8",
+			"saga": "Ken il guerriero",
+			"title": "Il colonnello",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/13ae8cb6a182d55ed67f2736dff9fc41",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x9",
+			"saga": "Ken il guerriero",
+			"title": "La montagna magica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/635f721cd15b4cf76d40b1d7079781e6",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x10",
+			"saga": "Ken il guerriero",
+			"title": "L`uomo di fuoco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5ba2c499e72c54081c0a7fe7e58fe7a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x11",
+			"saga": "Ken il guerriero",
+			"title": "I guerrieri",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6168582d884af5d6eec6edccbeddfe25",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x12",
+			"saga": "Ken il guerriero",
+			"title": "L`inseguimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b40820076b764940e129774e940ae418",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x13",
+			"saga": "Ken il guerriero",
+			"title": "Un colpo micidiale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bd34587fd513d14f14bc02b93bf43cec",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x14",
+			"saga": "Ken il guerriero",
+			"title": "Un uomo giusto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0865124180ea03f980f046d640396fd5",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x15",
+			"saga": "Ken il guerriero",
+			"title": "Il villaggio degli zombi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b11e5d429ce5e8fbbc27d4ffa47c8930",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x16",
+			"saga": "Ken il guerriero",
+			"title": "Serpenti e scorpioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a493d6c64bb73cfd29cbee2024686f6a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x17",
+			"saga": "Ken il guerriero",
+			"title": "L`adunata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5d89bb19aa4832b68d050ae941a9c91c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x18",
+			"saga": "Ken il guerriero",
+			"title": "Attacco generale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ce342a0c1be1c62b70150f66d83add17",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x19",
+			"saga": "Ken il guerriero",
+			"title": "Il sacrificio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/25904c82401b7849a24424b26fe02399",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x20",
+			"saga": "Ken il guerriero",
+			"title": "La Croce del Sud",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/478f77bc567eeb0163c9c01dc2281889",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x21",
+			"saga": "Ken il guerriero",
+			"title": "Il complotto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/91367e8aa699b643c09e73e420b19755",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "1x22",
+			"saga": "Ken il guerriero",
+			"title": "Duello finale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76cd0ff2b9faf700df144755e61175e0",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x1",
+			"saga": "Ken il guerriero",
+			"title": "Guerra!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8b39c8799ddd4cc73f93b4b1ffd3cf3e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x2",
+			"saga": "Ken il guerriero",
+			"title": "L`uccello d`acqua",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/de5c93cffa7dc910df46c8bfb70f0a9c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x3",
+			"saga": "Ken il guerriero",
+			"title": "I lamponi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d15ea6dac621a94aaeebb32a955a2eca",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x4",
+			"saga": "Ken il guerriero",
+			"title": "La vendetta dei Cobra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ec49cd10d2b6ead24f1437b91a9d3962",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x5",
+			"saga": "Ken il guerriero",
+			"title": "All`inseguimento dei Cobra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7324ed54d947be16d3f061125d97c7ac",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x6",
+			"saga": "Ken il guerriero",
+			"title": "Il combattimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/af8a16f05f3587e955cde5986ffcb1a2",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x7",
+			"saga": "Ken il guerriero",
+			"title": "Vivere o morire",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e051866d6cc15561d8d140d8ddbd195b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x8",
+			"saga": "Ken il guerriero",
+			"title": "Combattimento fatale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/19c66daa7766ce1c35ceb748808e9ce6",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x9",
+			"saga": "Ken il guerriero",
+			"title": "Cercando Jagger",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/05ae28d5bd4591b146c6c279e4e307bc",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x10",
+			"saga": "Ken il guerriero",
+			"title": "Aspetta all`inferno Jagger",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/be640bb0b5b199a74abdd72b662e7977",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x11",
+			"saga": "Ken il guerriero",
+			"title": "Il salvatore diabolico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7007dd3b516e78a427986d5390af10e5",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x12",
+			"saga": "Ken il guerriero",
+			"title": "Il cacciatore di cavie",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ecfb9bcb42fe142bb7fae20df2ba2736",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x13",
+			"saga": "Ken il guerriero",
+			"title": "Il cambiamento di Toki",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/616e0557bfa7046d776cced58a6612e2",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x14",
+			"saga": "Ken il guerriero",
+			"title": "Scambio di persona",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d52f8e74a4faa2e541022c016f6a477",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x15",
+			"saga": "Ken il guerriero",
+			"title": "Non amarmi Mamia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3fbd5d30c5fe6c31b779f28baeaf74a8",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x16",
+			"saga": "Ken il guerriero",
+			"title": "La tragedia di Bella",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f6e170027281e915b9bc3b412dd1f435",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x17",
+			"saga": "Ken il guerriero",
+			"title": "La porta di Cassandra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/af158830b48d4979935b6587917a9e46",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x18",
+			"saga": "Ken il guerriero",
+			"title": "La vita trionfa sulla morte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/16d328065eb7345d14881034b926cc13",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x19",
+			"saga": "Ken il guerriero",
+			"title": "Uno scontro di 2000 anni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bcd82d40382ffc65deee2d8d0f7da4ec",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x20",
+			"saga": "Ken il guerriero",
+			"title": "Un incontro difficile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/158310a4b6cb84e3972badca81b5a4e6",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x21",
+			"saga": "Ken il guerriero",
+			"title": "La nuova leggenda",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c78a68acb8017048729c0eaaf0fbbd6",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x22",
+			"saga": "Ken il guerriero",
+			"title": "La Stella della Morte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c11ae59bc382282c8c5acb0896c248a1",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x23",
+			"saga": "Ken il guerriero",
+			"title": "Il coraggio della piccola Lynn",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b42055df0b507def3cd6658b1a6e6861",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x24",
+			"saga": "Ken il guerriero",
+			"title": "La rivolta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8f00e808b83eb7b4fd1ce13be66ba53c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x25",
+			"saga": "Ken il guerriero",
+			"title": "La leggenda della paura",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8be0d3750676c367bde93dcb6790b5ba",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x26",
+			"saga": "Ken il guerriero",
+			"title": "Attacco segreto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/56390b7fa8ff5d53322570edc1b3d25d",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x27",
+			"saga": "Ken il guerriero",
+			"title": "Lotta all`ultimo sangue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9238fe09c5055c11c2b091dffa217a4e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x28",
+			"saga": "Ken il guerriero",
+			"title": "Cani sacri",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2ef41672d0910caba88fa77fdb3e4b46",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x29",
+			"saga": "Ken il guerriero",
+			"title": "Sacrificio d`amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2ed4f28d08c00891cc4955f2cbf8ccf8",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x30",
+			"saga": "Ken il guerriero",
+			"title": "Bellezza crudele",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1f941d9a382d0eca7be8509ff508fd1f",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x31",
+			"saga": "Ken il guerriero",
+			"title": "Le donne rapite",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/55e63a740039694f8fa7be70a4515dde",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x32",
+			"saga": "Ken il guerriero",
+			"title": "La grande prova",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e59e5b7163502fb2a111a2fd64f7ff86",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x33",
+			"saga": "Ken il guerriero",
+			"title": "Il volo dell`uccello bianco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/af33f794c656e77b9da70c1f0591569d",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x34",
+			"saga": "Ken il guerriero",
+			"title": "Un uomo solo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/88b5727634f633ccbb73be847e6ec615",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "2x35",
+			"saga": "Ken il guerriero",
+			"title": "La storia dell`uomo immortale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f244195a3ad4298b6bfa9d559df6a45",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x1",
+			"saga": "Ken il guerriero",
+			"title": "L`esercito di Sauzer",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/09a02c7d43522e0e03edf4d1ef16cfbe",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x2",
+			"saga": "Ken il guerriero",
+			"title": "Il tempio del potere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a1680fec031f0369935a01478720a64b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x3",
+			"saga": "Ken il guerriero",
+			"title": "Sperare nel domani",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2e8ba6dfaf5b75800394d7e97dc8268f",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x4",
+			"saga": "Ken il guerriero",
+			"title": "La luce della vita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eea2cc1a43b7eb5499a6d4d78da994e3",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x5",
+			"saga": "Ken il guerriero",
+			"title": "Il re del mondo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1a954486b711a76482c81a55bd46471c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x6",
+			"saga": "Ken il guerriero",
+			"title": "Due destini simili",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/850c4b8107f34154c92d8b09c29df695",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x7",
+			"saga": "Ken il guerriero",
+			"title": "La stella di Shu",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8918f5e10e70be64234d6080af1a7798",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x8",
+			"saga": "Ken il guerriero",
+			"title": "La piramide della croce",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8c3d526885e66cec648ccca7e483a3fb",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x9",
+			"saga": "Ken il guerriero",
+			"title": "Il futuro ti appartiene",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/694677cbd3b292bb44d290e8ca3fc79e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x10",
+			"saga": "Ken il guerriero",
+			"title": "Una vittima dell`amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c5ec3c589f5cbf0dfdf000351746c96",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x11",
+			"saga": "Ken il guerriero",
+			"title": "L`ultimo volo della fenice",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/22be0850b6f1106f8d7f4dae73bd8521",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x12",
+			"saga": "Ken il guerriero",
+			"title": "Sete di dominio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8cc44bfbc3a10b90b943548bf7390bcb",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x13",
+			"saga": "Ken il guerriero",
+			"title": "Un re solitario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/205706d69ed4759f64e69cc15b312be1",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x14",
+			"saga": "Ken il guerriero",
+			"title": "La morte è di scena",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a611dd489a78f0d4ca48a5b8d3d1fff3",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x15",
+			"saga": "Ken il guerriero",
+			"title": "Le ultime lacrime",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ac3192b470ce3995187bbac44355fe1",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x16",
+			"saga": "Ken il guerriero",
+			"title": "L`uomo di Sirio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d4f7585970b7b1eb8b18c00081a1b096",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x17",
+			"saga": "Ken il guerriero",
+			"title": "Alla ricerca di un nuovo eroe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/786b32d0d5b8b1259c91ccdf63468376",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x18",
+			"saga": "Ken il guerriero",
+			"title": "Occhi di ghiaccio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e0815c6456109b2498d3a87c53b6470b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x19",
+			"saga": "Ken il guerriero",
+			"title": "Chi sarà il re del mondo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca0c4d0884a8ed21933f3f036871b53a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x20",
+			"saga": "Ken il guerriero",
+			"title": "Il sacrificio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c866ff74f67fec5758f47c87ae231d62",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x21",
+			"saga": "Ken il guerriero",
+			"title": "Amore impossibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9fb08e496dfaacb01c461bd7c109a217",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x22",
+			"saga": "Ken il guerriero",
+			"title": "L`amicizia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/954f532b941076c98c60c9c059460ecf",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x23",
+			"saga": "Ken il guerriero",
+			"title": "Eterna leggenda",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0e6597cd27a03e5019cfcc1becfb2334",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x24",
+			"saga": "Ken il guerriero",
+			"title": "Il grande cieco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/116705996c0d3e291aa471d56026b16c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "3x25",
+			"saga": "Ken il guerriero",
+			"title": "Il dittatore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cbc004360a0d44c9e1e6bc1d01d4006c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x1",
+			"saga": "Ken il guerriero",
+			"title": "Tortura disumana",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9e06ee6ada221ba327cb0efefd93d782",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x2",
+			"saga": "Ken il guerriero",
+			"title": "La brigata del vento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/27fbf98b89b25980b95ae94dbeb38a53",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x3",
+			"saga": "Ken il guerriero",
+			"title": "La notte degli echi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/713726ad12c2c7fe01f3f268524ef032",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x4",
+			"saga": "Ken il guerriero",
+			"title": "L`armata delle fiamme rosse",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cbf4859203fc19fa18fc5185a2611040",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x5",
+			"saga": "Ken il guerriero",
+			"title": "Il mostro della montagna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ce4b88c7e521e4eb5527b30719566e85",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x6",
+			"saga": "Ken il guerriero",
+			"title": "La giusta condanna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5694d1914f46107547532b67dbc95a4b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x7",
+			"saga": "Ken il guerriero",
+			"title": "I briganti del re",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fa19597b7a39c9f3e0612915add3e5be",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x8",
+			"saga": "Ken il guerriero",
+			"title": "L`ultimo guerriero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92be4215b3c8b0d04fe8313e46b76f32",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x9",
+			"saga": "Ken il guerriero",
+			"title": "La legge è uguale per tutti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a77a8de2fb5baf26f30f7f70dfa6015",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x10",
+			"saga": "Ken il guerriero",
+			"title": "Nessuno fermerà Juza",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1672bf98aa000f6645c74bdcdcf88091",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x11",
+			"saga": "Ken il guerriero",
+			"title": "Due giorni di attesa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ed117cac8c3da80801415fff6337c9a5",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x12",
+			"saga": "Ken il guerriero",
+			"title": "La grande forza dell`amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/57beebc16d06df31e4d9b8f2ea3e466a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x13",
+			"saga": "Ken il guerriero",
+			"title": "Due sguardi innocenti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/627c9c52322f0f0a22e0904773fabd4c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x14",
+			"saga": "Ken il guerriero",
+			"title": "La grande vallata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f047bdcc75e0c4505794dfd0270eb806",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x15",
+			"saga": "Ken il guerriero",
+			"title": "Corsa verso la libertà",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/740d2f81daa5aaa86d96c36ce22c26c6",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x16",
+			"saga": "Ken il guerriero",
+			"title": "I due fratelli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6cc442d8850057f2f80ecc1da3fb073c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x17",
+			"saga": "Ken il guerriero",
+			"title": "La figlia del mare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/091dda14d930fdc4e6d38a18108394ce",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x18",
+			"saga": "Ken il guerriero",
+			"title": "L`ultimo segreto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/706353c81d3d87c6593f3b958f778366",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x19",
+			"saga": "Ken il guerriero",
+			"title": "Una lotta interminabile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/98550219de60310d5c6c0b4df9d28ced",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x20",
+			"saga": "Ken il guerriero",
+			"title": "Il gigante indeciso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a253e24540ea64a47eb27cc3faac9905",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x21",
+			"saga": "Ken il guerriero",
+			"title": "I dolci occhi del diavolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6f4a871194ac0b59e88261b25f51cb65",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x22",
+			"saga": "Ken il guerriero",
+			"title": "Bambini del futuro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4af5b15a532b4fe182c34541f243f8db",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x23",
+			"saga": "Ken il guerriero",
+			"title": "Stelle per sempre",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/59a455fa21826dfe91ce6be1849478aa",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x24",
+			"saga": "Ken il guerriero",
+			"title": "Vivrai per sempre nel mio cuore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ebe75aa6776086141de1f861c0b5284b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x25",
+			"saga": "Ken il guerriero",
+			"title": "Nessuno li fermerà",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/be0d47e834a30e1e5fa7ee2048cd161c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x26",
+			"saga": "Ken il guerriero",
+			"title": "La stella della morte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/269ea2785b022ef4c2ba5c3adb92ed00",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "4x27",
+			"saga": "Ken il guerriero",
+			"title": "Promemoria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c993befb4b05330e07d6fc779d9c265a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x1",
+			"saga": "Ken il guerriero",
+			"title": ".",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e63b380b840bd3550e5ec7d1244a4e9",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x2",
+			"saga": "Ken il guerriero",
+			"title": "Ritorno di fiamma",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/80805c2f40ad965e4a3f0daa335aeb0b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x3",
+			"saga": "Ken il guerriero",
+			"title": "La salvezza viene dal nord",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1c5756fa51f02bad044676977bf2bf55",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x4",
+			"saga": "Ken il guerriero",
+			"title": "Cacciatori di taglie",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5b08f6dadb1fd52749f8547e2ba52f05",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x5",
+			"saga": "Ken il guerriero",
+			"title": "La scuola imperiale di Cento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bbb67ebc3830f572b0476a6fe87c6853",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x6",
+			"saga": "Ken il guerriero",
+			"title": "L`armata di Hokuto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3944194315815b3c002927bc4b8e770f",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x7",
+			"saga": "Ken il guerriero",
+			"title": "I falchi di Nanto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6b5b3f40cbb38ef2ca4f130119add3b3",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x8",
+			"saga": "Ken il guerriero",
+			"title": "Quando si vuole bene",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc377875dc844339f0afc287d06bac1c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x9",
+			"saga": "Ken il guerriero",
+			"title": "La capitale dell`Impero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1983a6cf19dd3fc63e6f739857c60807",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x10",
+			"saga": "Ken il guerriero",
+			"title": "L`ultimo ostacolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/500557c4e6051c99e4ff69680e3d599a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x11",
+			"saga": "Ken il guerriero",
+			"title": "L`imperatore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/73f734fc61bd50f833cebfd52b5a7c64",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x12",
+			"saga": "Ken il guerriero",
+			"title": "La signora dei cieli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8a4771bb292919a1929b413d41bdab33",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "5x13",
+			"saga": "Ken il guerriero",
+			"title": "Rapimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ee26b8b1a142326ef3ebda737596e755",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x1",
+			"saga": "Ken il guerriero",
+			"title": "Pirati",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c71095b2c407cf0c318e0611bbd620d",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x2",
+			"saga": "Ken il guerriero",
+			"title": "La terra dei demoni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/072c0b04ecda2a212dcff8c235d36c72",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x3",
+			"saga": "Ken il guerriero",
+			"title": "Killer",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/95aa8dca95332bd90a7c3e0fbb2434ac",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x4",
+			"saga": "Ken il guerriero",
+			"title": "Amore rubato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb7e72814bd90c6c3de5b0e8ba5312a4",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x5",
+			"saga": "Ken il guerriero",
+			"title": "Neve rosso sangue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/27db6f14d29f9e0e30a627cdc772a67b",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x6",
+			"saga": "Ken il guerriero",
+			"title": "Il ritorno di Raoul",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca9fc8fad7ddfa2f5865bf23f0860fc4",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x7",
+			"saga": "Ken il guerriero",
+			"title": "Casa, dolce casa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3eb60e85461e15b6233e770e5d5f025a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x8",
+			"saga": "Ken il guerriero",
+			"title": "Il liberatore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/024bf5c37caddd8667cded8c5cf84120",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x9",
+			"saga": "Ken il guerriero",
+			"title": "I sette cavalieri",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d20bee9434220a1d62aa89a7a2acf463",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x10",
+			"saga": "Ken il guerriero",
+			"title": "La leggenda continua",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ff5f24679b2cd88179519f7acda38c36",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x11",
+			"saga": "Ken il guerriero",
+			"title": "Lotta impari",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2a02efa8990c30d3adb7d24c7873191e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x12",
+			"saga": "Ken il guerriero",
+			"title": "Maestro e discepolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5e6c0f08b441b0f0b5eacbb42a6d5e28",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x13",
+			"saga": "Ken il guerriero",
+			"title": "Il colpo segreto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba85cf0246aadfc0b551f5adb0bce37c",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x14",
+			"saga": "Ken il guerriero",
+			"title": "Pericolo mortale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/54a1b34d37a85233945fdf510ce09213",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x15",
+			"saga": "Ken il guerriero",
+			"title": "Il ritorno del pirata rosso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a12ecea8caca43aea711888ebc0846e9",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x16",
+			"saga": "Ken il guerriero",
+			"title": "Il sacrificio dei pirati",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1569a439e58680cce394dd6e7b820769",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x17",
+			"saga": "Ken il guerriero",
+			"title": "Prova di amicizia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a583cc8d85197e50515e169c2d791f65",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x18",
+			"saga": "Ken il guerriero",
+			"title": "Il risveglio di Ken",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/67ef94e20cf4496e38437c58c4943ee5",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x19",
+			"saga": "Ken il guerriero",
+			"title": "Desiderio di vendetta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1559cddc0034394076c302542925845a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x20",
+			"saga": "Ken il guerriero",
+			"title": "La rivelazione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/54493bbae3980b568d1f902215538a8e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x21",
+			"saga": "Ken il guerriero",
+			"title": "Duello fraterno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e8cc8ca3299b74fbd665b43f323f7a1a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x22",
+			"saga": "Ken il guerriero",
+			"title": "Scontro crudele",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e9222673059b2091fc1234bbef2d0a81",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x23",
+			"saga": "Ken il guerriero",
+			"title": "Barlumi di memoria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6c25efea4d79f0b1fcfd4200eda2171d",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x24",
+			"saga": "Ken il guerriero",
+			"title": "La statua",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4ba48b0461316778c59e165f161aa119",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x25",
+			"saga": "Ken il guerriero",
+			"title": "La morte di Ork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/89ef9274861d9b07e5a7f88db45a7b94",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x26",
+			"saga": "Ken il guerriero",
+			"title": "Amore contro odio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6032d93f3966fd478c80517495573a4e",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x27",
+			"saga": "Ken il guerriero",
+			"title": "L`anello della morte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/624137ed29735f107b23b6e01e5957ee",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x28",
+			"saga": "Ken il guerriero",
+			"title": "I due cugini",
+			"links": [
+				{
+                    "url": "http://51.77.159.233:30299/1ff7ab56708409d75775a6b5522b045a",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x29",
+			"saga": "Ken il guerriero",
+			"title": "Il ritorno di Bart",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/98a1eab1e59b758ac9807dd4720047b9",
+                    "quality": "HD"
+				}
+			]
+		},
+		{
+			"tmdb_id": 56387,
+			"number": "6x30",
+			"saga": "Ken il guerriero",
+			"title": "Addio, Ken",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca0878338ef91cc38b58e11257d2440f"
+				}
+			]
+		}
     ]
 }
