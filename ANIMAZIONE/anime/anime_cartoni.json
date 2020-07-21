@@ -1,20 +1,12 @@
 {
     "tvshows_list": [
       {
-        "plot":"Il motto di Kintaro è “imparo, imparo, imparo…”. In questo si riassume la sua filosofia di vita. Lascia infatti l’università visto che questa non aveva niente più da insegnargli e parte con la sua mountain bike con l’intenzione di viaggiare per l’intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacità di apprendimento e nella sua ingenuità si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l’impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul più bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare…",
-        "title": "Golden Boy - W.I.P.",
-        "saga": "Golden Boy",
-        "tmdb_id":"34105",
-        "year":"1995",
-        "link": "/ANIMAZIONE/anime/goldenboy_list.json"
-      },
-      {
         "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono più amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si è dimenticata.",
         "title": "Ano Hana",
         "saga": "Ano Hana",
         "year": "2011",
         "tmdb_id": "39434",
-        "genre":["Animazione", "Dramma", "Fantasia"],
+        "genre":["Animazione", "Drammatico", "Fantasia"],
         "url": "/ANIMAZIONE/anime/anohana_list.json"
       },
       {
@@ -41,7 +33,7 @@
         "saga": "Cara dolce Kyoko",
         "year": "1986",
         "tmdb_id": "43018",
-        "genre":["Animazione","Commedia","Dramma","Romance"],
+        "genre":["Animazione","Commedia","Drammatico","Romance"],
         "url": "/ANIMAZIONE/anime/kyoko_list.json"
       },
       {
@@ -95,8 +87,24 @@
         "saga": "Georgie",
         "year": "1983",
         "tmdb_id": "36664",
-        "genre":["Animazione", "Dramma"],
+        "genre":["Animazione", "Drammatico"],
         "url": "/ANIMAZIONE/anime/georgie_list.json"
+      },{
+        "plot":"Il motto di Kintaro è “imparo, imparo, imparo…”. In questo si riassume la sua filosofia di vita. Lascia infatti l’università visto che questa non aveva niente più da insegnargli e parte con la sua mountain bike con l’intenzione di viaggiare per l’intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacità di apprendimento e nella sua ingenuità si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l’impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul più bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare…",
+        "title": "Golden Boy",
+        "saga": "Golden Boy",
+        "tmdb_id":"34105",
+        "genre":["Animazione", "Commedia"],
+        "year":"1995",
+        "link": "/ANIMAZIONE/anime/goldenboy_list.json"
+      },{
+        "plot":"Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l’Unità della Sfera Terrestre) con l’incarico di mantenere la pace tramite l’imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo – una dopo l’altra – delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono però a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinché rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell’anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l’ordine, la Federazione preparò un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+        "title": "Mobile Gundam Wing",
+        "saga": "Mobile Gundam Wing",
+        "tmdb_id":"21730",
+        "genre":["Azione & Avventura", "Drammatico", "Animazione", "Fantascienza & Fantasia"],
+        "year":"1995",
+        "link": "/ANIMAZIONE/anime/gundam_list.json"
       },
       {
         "plot": "Il professor Shiba, noto scienziato giapponese, durante una ricerca archeologica, scopre una antica campana di bronzo appartenuta all'antico popolo Yamatai, soggetto alla perfida regina Himika. Una popolazione che ha sempre fatto come regola di vita la sopraffazione dell'uomo sull'uomo. Il popolo Yamatai non si è estinto, si è ibernato nella roccia in attesa di ritornare in vita: solo la magica campana di bronzo gli permetterebbe di conquistare il mondo: per questo il professore decide di nascondere la campana e approfittando di un grave incidente di laboratorio in cui viene disgraziatamente coinvolto suo figlio Hiroshi, gli miniaturizza nel petto la campana, rendendolo invulnerabile.",
@@ -113,7 +121,7 @@
         "saga": "Jenny la tennista",
         "year": "1973",
         "tmdb_id": "46419",
-        "genre":["Dramma", "Animazione"],
+        "genre":["Drammatico", "Animazione"],
         "url": "/ANIMAZIONE/anime/jenny_list.json"
       },
       {
@@ -140,7 +148,7 @@
         "saga": "Lady Oscar",
         "year": "1979",
         "tmdb_id": "32676",
-        "genre":["Dramma", "Animazione"],
+        "genre":["Drammatico", "Animazione"],
         "url": "/ANIMAZIONE/anime/oscar_list.json"
       },
       {
@@ -168,7 +176,7 @@
         "saga": "L'Uomo Tigre",
         "year": "1969",
         "tmdb_id": "25114",
-        "genre":["Animazione", "Dramma"],
+        "genre":["Animazione", "Drammatico"],
         "url": "/ANIMAZIONE/anime/tigre_list.json"
       },
       {
@@ -185,7 +193,7 @@
         "title": "Mimì e la nazionale di pallavolo",
         "year": "1969",
         "tmdb_id": "46348",
-        "genre":["Animazione", "Dramma"],
+        "genre":["Animazione", "Drammatico"],
         "url": "/ANIMAZIONE/anime/mimi_list.json"
       },
       {
@@ -194,7 +202,7 @@
         "saga": "Piccoli Problemi di Cuore ",
         "year": "1995",
         "tmdb_id": "35507",
-        "genre":["Animazione", "Dramma"],
+        "genre":["Animazione", "Drammatico"],
         "url": "/ANIMAZIONE/anime/cuore_list.json"
       },
       {
@@ -230,7 +238,7 @@
         "saga": "Steins;Gate",
         "year": "2011",
         "tmdb_id": "42509",
-        "genre":["Animazione", "Azione & Avventura", "Commedia", "Dramma", "Fantascienza & Fantasia","Mistero"],
+        "genre":["Animazione", "Azione & Avventura", "Commedia", "Drammatico", "Fantascienza & Fantasia","Mistero"],
         "url": "/ANIMAZIONE/anime/stein_list.json"
       },
       {
@@ -248,7 +256,7 @@
         "saga": "Video Girl Ai",
         "year": "1992",
         "tmdb_id": "22432",
-        "genre":["Animazione", "Dramma", "Commedia"],
+        "genre":["Animazione", "Drammatico", "Commedia"],
         "url": "/ANIMAZIONE/anime/girl_list.json"
       },
       {
@@ -284,7 +292,7 @@
         "saga": "Mibile Gundam Wing",
         "year": "1995",
         "tmdb_id": "21730",
-        "genre":["Animazione", "Azione & Avventura", "Dramma", "Fantascienza & Fantasia"],
+        "genre":["Animazione", "Azione & Avventura", "Drammatico", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/gundam_list.json"
       },
       {
@@ -310,14 +318,14 @@
         "saga": "Code Geass - Lelouch of the Rebellion",
         "year": "2006",
         "tmdb_id": "31724",
-        "genre":["Azione e Avventura", "Animazione", "Dramma", "Fantascienza & Fantasia"],
+        "genre":["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/geass_list.json"
       },
       {
         "title": "Code Geass - Lelouch of the Rebellion R2",
         "saga": "Code Geass - Lelouch of the Rebellion R2",
         "year": "2008",
-        "genre":["Azione e Avventura", "Animazione", "Dramma", "Fantascienza & Fantasia"],
+        "genre":["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/geasr2_list.json"
       },
       {

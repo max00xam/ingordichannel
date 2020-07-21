@@ -1,0 +1,81 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 34105,
+			"number": "1x1",
+            "saga": "Golden Boy",
+			"title": "A scuola di computer",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c0a33962fec36cabc4b8082b05703a8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "1x2",
+			"saga": "Golden Boy",
+			"title": "L'angelo della seduzione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2db8ad5f461b2d8893b32137ff5db753"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "1x3",
+			"saga": "Golden Boy",
+			"title": "Quando sboccia un primo amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/971763ca3d6e89e9b65f296dc9934eb1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "1x4",
+			"saga": "Golden Boy",
+			"title": "Nuotare nelle acque selvagge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/db7aa146da2d2b97f5bc13ba9af593e9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "1x5",
+			"saga": "Golden Boy",
+			"title": "Gioventù senza freni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f2e9468979733f222a2fd111750c48fe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "1x6",
+			"saga": "Golden Boy",
+			"title": "I cartoni animati sono fantastici!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1db2feb15326e6122779ef58e711057c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 34105,
+			"number": "0x0",
+			"saga": "Golden Boy",
+			"title": "Anime & Cartoni/Golden Boy [a34105]/SIGLA Iniziale Golden Boy.mp4",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/79bddec003bff673ab646226be5ed58f"
+				}
+			]
+		}
+    ]
+}
