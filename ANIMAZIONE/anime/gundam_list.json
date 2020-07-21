@@ -1,16 +1,65 @@
 {
     "episodes_list": [
-        { 
-            "tmdb_id": 21730,
-            "number": "0x0",
-            "saga": "Mobile Gundam Wing",
-            "title": "Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00b.Mobile.Suit.Gundam.Wing.@CartoonAnimeITA.mkv",
-            "links": [
-                {
-                    "url": "http://51.77.159.233:30299/f456c682dc1942016fee2bf0df13ca20"
-                }
-            ]
-        },
+        {
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x5",
+			"saga": "Mobile Gundam Wing",
+			"title": "Endless Waltz 1 - Orbita Silenziosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e6053dcade0cea481acc4f259764a611"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x6",
+			"saga": "Mobile Gundam Wing",
+			"title": "Endless Waltz 2 - Operazione Meteora",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c166bfd8254a4f3d9694e4a58256120f"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x7",
+			"saga": "Mobile Gundam Wing",
+			"title": "Endless Waltz 3 - Fino All`Eternità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e625d69cb5336071009af23849cd69c6"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "SIGLA",
+			"saga": "Mobile Gundam Wing",
+			"title": "Sigla iniziale.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/35ee2ebc5e8d454ed873c428a342f979"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "SIGLA",
+			"saga": "Mobile Gundam Wing",
+			"title": "Sigla finale.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b168e6172bcf70947941016c6dff91c"
+				}
+			]
+		},
 		{
 			"tvdb_id": 79327,
 			"tmdb_id": -1,
@@ -59,18 +108,6 @@
 				}
 			]
 		},
-        {
-			"tvdb_id": 79327,
-			"tmdb_id": -1,
-			"number": "1x4",
-			"saga": "Mobile Gundam Wing",
-			"title": "Incubo alla base Vittoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/562d294c35f1eab98941a1cd6a4c5467"
-				}
-			]
-		},
 		{
 			"tvdb_id": 79327,
 			"tmdb_id": -1,
@@ -79,7 +116,7 @@
 			"title": "Il segreto di Relena",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/33afbe6544e89cf23ade2ba2e6019c6f"
+					"url": "http://51.77.159.233:30299/a2151463e35aa92d4e4355d66d52bac4"
 				}
 			]
 		},
@@ -91,7 +128,7 @@
 			"title": "La sera della festa",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/ad0183341881c0155d3b2c2072ca0d42"
+					"url": "http://51.77.159.233:30299/76154627ca161f636997e829b740f4b5"
 				}
 			]
 		},
@@ -103,7 +140,7 @@
 			"title": "Duplice inganno",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/6d9852149ebe03be01598a9aae2623fe"
+					"url": "http://51.77.159.233:30299/d9e9801432c1a19ed15226ebf849f96b"
 				}
 			]
 		},
@@ -115,7 +152,7 @@
 			"title": "Faccia a faccia",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/0f9057279d0cfe1fb2e1b305affe7113"
+					"url": "http://51.77.159.233:30299/d9ee92a2d294ed69cdb97881bde448e7"
 				}
 			]
 		},
@@ -127,7 +164,7 @@
 			"title": "Ritratto di un paese in rovina",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/003ab85b8cfba4a5786cb426d40096e3"
+					"url": "http://51.77.159.233:30299/9a97ce69f31f540dc52e3b15fd8c107a"
 				}
 			]
 		},
@@ -139,7 +176,7 @@
 			"title": "La resa",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/5e1ceb364f28a002e59c120d498e6f60"
+					"url": "http://51.77.159.233:30299/4fd6152999d33fa7cde8ab65bf8da6f2"
 				}
 			]
 		},
@@ -151,7 +188,7 @@
 			"title": "L`imboscata",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/34219e8a1cd48ba63ef33ed166e1bc4b"
+					"url": "http://51.77.159.233:30299/6033223e34a8e58a487f22450221caef"
 				}
 			]
 		},
@@ -163,7 +200,7 @@
 			"title": "Incertezze",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/ce16d32c7a04e4bc876432b3af5bcda9"
+					"url": "http://51.77.159.233:30299/76e1e66565286b364b85e2a2a407b00f"
 				}
 			]
 		},
@@ -175,7 +212,7 @@
 			"title": "Le lacrime di Catherine",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/3cfe9ad4766e6980c12c40a0f7e0b9aa"
+					"url": "http://51.77.159.233:30299/076e79085cb7f25766fb79f5e3553aee"
 				}
 			]
 		},
@@ -187,7 +224,7 @@
 			"title": "La distruzione del Gundam",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/9bdafb99b75035fc8c16662dac8d3387"
+					"url": "http://51.77.159.233:30299/6b2ed7062759a1472b8f6ad9ef145163"
 				}
 			]
 		},
@@ -199,7 +236,7 @@
 			"title": "Battaglia in Antartide",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/6ef830a0410a4a0c8c576577cec845d8"
+					"url": "http://51.77.159.233:30299/b6d70e01a05b1527fb20a61075cc5b04"
 				}
 			]
 		},
@@ -211,7 +248,7 @@
 			"title": "Scontro di ideali",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/2aa91c0ed32d4130d5064efddb41eb0a"
+					"url": "http://51.77.159.233:30299/09fe3813ed2385682a351d437ddad933"
 				}
 			]
 		},
@@ -223,7 +260,7 @@
 			"title": "Nemici in patria",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/d9e69beb28d9b499f8c353ad9c51dd37"
+					"url": "http://51.77.159.233:30299/8d422b86dee7933aabfa05af6bccecc3"
 				}
 			]
 		},
@@ -235,7 +272,7 @@
 			"title": "Nemici",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/fc48ba1b5dccf36d83e11fef6692d51e"
+					"url": "http://51.77.159.233:30299/b5280d7d5d1b9afbb4fce1abedf15212"
 				}
 			]
 		},
@@ -247,7 +284,7 @@
 			"title": "Attacco alla piattaforma spaziale",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/34b83581909776a143b54aaa8cff182e"
+					"url": "http://51.77.159.233:30299/6ca387d56d8edc556e543b53a1c2ebb9"
 				}
 			]
 		},
@@ -259,7 +296,7 @@
 			"title": "Attacco alla Base Lunare",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/cb89035af6ebc5287f9a37d79b873717"
+					"url": "http://51.77.159.233:30299/d3606606e70ee2c74e6a8f0765888bec"
 				}
 			]
 		},
@@ -271,7 +308,7 @@
 			"title": "Lacrime tra le stelle",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/f82c255d724da0107d76b286f125258b"
+					"url": "http://51.77.159.233:30299/f3acfdfb7d68e0b5a81d4c31d6b59ded"
 				}
 			]
 		},
@@ -283,7 +320,7 @@
 			"title": "Battaglia per l`indipendenza",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/f79d3618588585e204505478468d9473"
+					"url": "http://51.77.159.233:30299/0433b0533e8329d02745ba2c7b1a956c"
 				}
 			]
 		},
@@ -295,7 +332,7 @@
 			"title": "La cattura",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/a51fa15726ea37e592762d6cfc88a329"
+					"url": "http://51.77.159.233:30299/df5db57373190cfe67203f57f09e7b38"
 				}
 			]
 		},
@@ -307,7 +344,7 @@
 			"title": "Un inaspettato nemico",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/7ee712af9cb440a5ed8f0c0e20361ae2"
+					"url": "http://51.77.159.233:30299/9578662538693a777684430725167cf2"
 				}
 			]
 		},
@@ -319,7 +356,7 @@
 			"title": "Un grido di rivolta",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/2608d55e8fe1c308426d992729e89b01"
+					"url": "http://51.77.159.233:30299/f12f75f6b6430c7528fd764792c0ce25"
 				}
 			]
 		},
@@ -331,7 +368,7 @@
 			"title": "L`eterna fiamma della ribellione",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/f4bc800e3466f382906cfa975d0608ff"
+					"url": "http://51.77.159.233:30299/1a5b1f6ee779efceaba41d4db03e542f"
 				}
 			]
 		},
@@ -343,7 +380,19 @@
 			"title": "Il valzer dei ricordi",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/408c6ce33921e1b00100acb3e0fd05d9"
+					"url": "http://51.77.159.233:30299/ab48d3cf8ec5ab87feb8dde1587f249e"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x28",
+			"saga": "Mobile Gundam Wing",
+			"title": "Tempo di bilanci",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c01e9d0348d150c4a5de9843502f4849"
 				}
 			]
 		},
@@ -355,7 +404,295 @@
 			"title": "L`altra meta` del cielo",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/643d7cfa127ca61b3132c89ba024a291"
+					"url": "http://51.77.159.233:30299/5c635d016374467b61c11b03916ab2d2"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x30",
+			"saga": "Mobile Gundam Wing",
+			"title": "L`incontro con Relena",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c12830d0470a6a42136d36d2b365146b"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x31",
+			"saga": "Mobile Gundam Wing",
+			"title": "Il regno di cristallo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3ad95ee22afd3ef772e871f879eace94"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x32",
+			"saga": "Mobile Gundam Wing",
+			"title": "Prova ad alto rischio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ecb3dc73dab49e986b6c6d4a242f626a"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x33",
+			"saga": "Mobile Gundam Wing",
+			"title": "Sotto la maschera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e092cdca2a41811eee43385a14082e4b"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x34",
+			"saga": "Mobile Gundam Wing",
+			"title": "Una nuova prova",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d34fee0765e93f926b8b5c89a3cf6344"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x35",
+			"saga": "Mobile Gundam Wing",
+			"title": "Nuove speranze",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/780e82257b85e9086db1605fe86cfc93"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x36",
+			"saga": "Mobile Gundam Wing",
+			"title": "La decisione di Relena",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b20db12b2d51ca641738455bb904161e"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x37",
+			"saga": "Mobile Gundam Wing",
+			"title": "Ideali di pace",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5dd9de9a04eb9ae07a13fcdae207fdda"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x38",
+			"saga": "Mobile Gundam Wing",
+			"title": "L`incoronazione della regina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d8927232661a9054fe00c73d2468e954"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x39",
+			"saga": "Mobile Gundam Wing",
+			"title": "Il ritorno di Trowa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0480066f0e965e22fe8ffa53477f0588"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x40",
+			"saga": "Mobile Gundam Wing",
+			"title": "Un nuovo leader",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/74de78ac24536fcc2525142c8d9d31e5"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x41",
+			"saga": "Mobile Gundam Wing",
+			"title": "Battaglia alla piattaforma spaziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1c1cbcee74c0e13c991319ab1d23deb7"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x42",
+			"saga": "Mobile Gundam Wing",
+			"title": "Preparativi di guerra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b26530b5bbb38a79c8303610742ab3be"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x43",
+			"saga": "Mobile Gundam Wing",
+			"title": "Obiettivo Il pianeta Terra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5eac80cf80338b4a7c57edb68c97a0ea"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x44",
+			"saga": "Mobile Gundam Wing",
+			"title": "Formazione d`attacco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a76078434be0856c98e9dba228a13e0"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x45",
+			"saga": "Mobile Gundam Wing",
+			"title": "Verso lo scontro finale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b81da5a783daa1238b42496b465e9bbd"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x46",
+			"saga": "Mobile Gundam Wing",
+			"title": "Il rifiuto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/841ba83d1b9664fd27789adb22d41ba9"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x47",
+			"saga": "Mobile Gundam Wing",
+			"title": "Collisione nello spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/29ab6cdc345f36bc3df6b62e804524f8"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x48",
+			"saga": "Mobile Gundam Wing",
+			"title": "Conto alla rovescia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e1eca2b3ea3f6396bc697365f6229d3d"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "1x49",
+			"saga": "Mobile Gundam Wing",
+			"title": "La vittoria finale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f56b21c5342267237e253fffec3cb598"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x0",
+			"saga": "Mobile Gundam Wing",
+			"title": "Extra 1.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c4aaec64c34abb1eae6fb7e22291d944"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x0",
+			"saga": "Mobile Gundam Wing",
+			"title": "Extra 2.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d7a5076f4193c5970f21c91e2aec7b78"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x0",
+			"saga": "Mobile Gundam Wing",
+			"title": "Extra 3.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a21498e1d4b7d65ac6759c1c68a188e7"
+				}
+			]
+		},
+		{
+			"tvdb_id": 79327,
+			"tmdb_id": -1,
+			"number": "0x0",
+			"saga": "Mobile Gundam Wing",
+			"title": "Extra 4.mkv",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b2472237e821a70a29223ce92353aa8"
 				}
 			]
 		}
