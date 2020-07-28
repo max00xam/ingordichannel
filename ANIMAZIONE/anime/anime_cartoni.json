@@ -343,6 +343,14 @@
         "year": "1975",
         "genre":["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/goldrake_list.json"
+      },
+      {
+        "plot": "Principe Valiant (1991) è una serie animata canadese/statunitense di due stagioni per 65 episodi, che ha come protagonista l'omonimo personaggio nato dalla penna di Hal Foster. Il cartone animato venne trasmesso in Italia a partire dal 1992 prima su Italia 1 poi su Canale 5, con la sigla cantata da Cristina D'Avena.",
+        "title": "Principe Valiant",
+        "saga": "Principe Valiant",
+        "year": "1991",
+        "genre":["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
+        "url": "/ANIMAZIONE/anime/valiant_list.json"
       }
     ]
   }

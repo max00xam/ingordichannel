@@ -1,0 +1,719 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 529,
+			"number": "1x1",
+			"saga": "Prince Valiant",
+			"title": "The Dream",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9559db45205400885150d838fdd27a48"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x2",
+			"saga": "Prince Valiant",
+			"title": "The Journey",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e47ce321b085788ad63bd663a20a7912"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x3",
+			"saga": "Prince Valiant",
+			"title": "The Blacksmith`s Daughter",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c267d5d28866ecbc0b90a55e411b8026"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x4",
+			"saga": "Prince Valiant",
+			"title": "The Kidnapping",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/43c3cbc893abcdea3ffc8f0d98ebdaf5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x5",
+			"saga": "Prince Valiant",
+			"title": "The Trust",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/234031833b6a809d194c3da1cdfa50a0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x6",
+			"saga": "Prince Valiant",
+			"title": "The Finding of Camelot",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/721e929182255ec6249020a21b600a96"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x7",
+			"saga": "Prince Valiant",
+			"title": "The Gift",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f11ae213058abe6694c301132b800b5e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x8",
+			"saga": "Prince Valiant",
+			"title": "The Singing Sword",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/73a442cc95bf574d0fdf48ea11ea928f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x9",
+			"saga": "Prince Valiant",
+			"title": "The Trust Betrayed",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8814dee894ee241cd47126db8856dee5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x10",
+			"saga": "Prince Valiant",
+			"title": "The Secret of Perilous Garde",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e7659cf5d96bf348feb982cc545a6ebd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x11",
+			"saga": "Prince Valiant",
+			"title": "The Return",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a4b170b6a7bed4ec3e750ac263b493b7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x12",
+			"saga": "Prince Valiant",
+			"title": "The Visitor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/487dbe0499d9fe2a67641a355a65ee96"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x13",
+			"saga": "Prince Valiant",
+			"title": "The Awakening",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7953d3d612d40cbfa85c759603c52fd4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x14",
+			"saga": "Prince Valiant",
+			"title": "The Guardian",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3b3cac3c2c6b90d5a664b314cbdb7924"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x15",
+			"saga": "Prince Valiant",
+			"title": "The Trap",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c647fd578eb0268047c68b86258e74a9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x16",
+			"saga": "Prince Valiant",
+			"title": "The Turn of the Wheel",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a651291aca214450dc7343ddb8b30b36"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x17",
+			"saga": "Prince Valiant",
+			"title": "The Competitor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b13ec9e87ad97b5bdd83a587f5f1f05d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x18",
+			"saga": "Prince Valiant",
+			"title": "The Road Back",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6c6cd1f06faf1c2a138defb3c36d0c05"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x19",
+			"saga": "Prince Valiant",
+			"title": "The Fist of Iron",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/43d27b81513bea560026eb71f5613246"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x20",
+			"saga": "Prince Valiant",
+			"title": "The Waif",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dea618467051283343b99db39b7f3267"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x21",
+			"saga": "Prince Valiant",
+			"title": "The Dawn of Darkness",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/17cc4920fa8bec48937a08389b600881"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x22",
+			"saga": "Prince Valiant",
+			"title": "The Battle of Greystone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/444853027a5686c699a7de30d42cb7d0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x23",
+			"saga": "Prince Valiant",
+			"title": "The Reunion",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e3c08ba9175bc6149e00ab30fb19707a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x24",
+			"saga": "Prince Valiant",
+			"title": "The Choice",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/acd332aaec2a6fc6bd381283fc4a4f39"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x25",
+			"saga": "Prince Valiant",
+			"title": "The Triumph",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c7d40c5e0aead32e8a8b45b8978f061f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "1x26",
+			"saga": "Prince Valiant",
+			"title": "The Dream Come True",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9f805d14b8ed203e53207741d8dda3fe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x1",
+			"saga": "Prince Valiant",
+			"title": "The Lost",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/97feb7b8d76ed850567df26ea5c1440b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x2",
+			"saga": "Prince Valiant",
+			"title": "The Beggar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/21b57f2941e96c098dac16f49b8042f8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x3",
+			"saga": "Prince Valiant",
+			"title": "The Black Rose",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0307e2b4ba7a7c34a756007a962991c1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x4",
+			"saga": "Prince Valiant",
+			"title": "The Deception",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8765a512f27da0c7e458a77266f59061"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x5",
+			"saga": "Prince Valiant",
+			"title": "The Cursed",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/766ab68d21e8b07047e04ca6c81ad379"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x6",
+			"saga": "Prince Valiant",
+			"title": "The Flute",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f242aadd9e971bc439418116bc4ae6bb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x7",
+			"saga": "Prince Valiant",
+			"title": "The Color of Honor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6d5852975f300a1f3933ee30ef43ad32"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x8",
+			"saga": "Prince Valiant",
+			"title": "The Traitor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3922df60294e42f76db60dcf0054a65b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x9",
+			"saga": "Prince Valiant",
+			"title": "The Tree",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5546f77270b185258075cf9fc59922bc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x10",
+			"saga": "Prince Valiant",
+			"title": "The Crossbow",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ce75c2362fff22af58df790eaf3bf7e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x11",
+			"saga": "Prince Valiant",
+			"title": "The Lesson Twice Learned",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0262eeec713eedaae32d79b4f6e7057d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x12",
+			"saga": "Prince Valiant",
+			"title": "The Princess Aleta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ce096f613c870990f612e94e8aa9d3ca"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x13",
+			"saga": "Prince Valiant",
+			"title": "The Voyage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e9210fbbcb8c05057ba93ef53874f7bf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x14",
+			"saga": "Prince Valiant",
+			"title": "Mordred`s Return",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/36244af890a3403632d8e3d64ac43dfe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x15",
+			"saga": "Prince Valiant",
+			"title": "The Rescue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a4db38e992c608bd3466bd7b6c97d134"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x16",
+			"saga": "Prince Valiant",
+			"title": "The Parting",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5981a381086518eede602302829b5ed0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x17",
+			"saga": "Prince Valiant",
+			"title": "Peace on Earth",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/900a49aa8856c59da3b707b0050d1e7b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x18",
+			"saga": "Prince Valiant",
+			"title": "Empty Justice",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3fca956c18210e0a480828fac9d172d3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x19",
+			"saga": "Prince Valiant",
+			"title": "The Rival",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/acfd58b7e7cf0af1151789ac9f79ee7b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x20",
+			"saga": "Prince Valiant",
+			"title": "The Walls of Tyranny",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b52cea513ac8cb2ed271fd65c238bfba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x21",
+			"saga": "Prince Valiant",
+			"title": "The Jubilee",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/04a7b7acdd36680466fb6bf9d83494d0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x22",
+			"saga": "Prince Valiant",
+			"title": "The Treaty",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/81de888941d6c5efaad13cb4b5ea535c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x23",
+			"saga": "Prince Valiant",
+			"title": "The Blackest Poison",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b57c03d2ff3c774c38a137dc6c3ce7f3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x24",
+			"saga": "Prince Valiant",
+			"title": "The Hero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a10742bc875241250e256b113592a959"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x25",
+			"saga": "Prince Valiant",
+			"title": "The Vision",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e17c6328f0a8f377ea4472b38af71f5d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x26",
+			"saga": "Prince Valiant",
+			"title": "The Shadows of Destiny",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11694a38c284f4c671f129bcd9643a85"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x27",
+			"saga": "Prince Valiant",
+			"title": "The Eyes of the Serpent",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d99f1b5353a97cedc65bfe011df5c0de"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x28",
+			"saga": "Prince Valiant",
+			"title": "The Spirit of Valor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d277403f71937db49764e58b953a1d6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x29",
+			"saga": "Prince Valiant",
+			"title": "The Aurora",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11f1a587025c5f79cfb297df31675257"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x30",
+			"saga": "Prince Valiant",
+			"title": "The Burning Bridge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ad692d0aca73c47d606082356bff157c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x31",
+			"saga": "Prince Valiant",
+			"title": "The Sage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6c21dd6de605dfdfa6da0160cc7fa956"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x32",
+			"saga": "Prince Valiant",
+			"title": "The Song of Valor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/de0503a5112b674687fd140c1c6def7e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x33",
+			"saga": "Prince Valiant",
+			"title": "The Ring of Truth",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/00e9508eb81fe53f0fc4c76d0917b322"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x34",
+			"saga": "Prince Valiant",
+			"title": "A Light in the Dark",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/016a33b0c7aea2d5e9e1bbb72f85cf71"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x35",
+			"saga": "Prince Valiant",
+			"title": "The Ghost",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9c32c4e761bdb857b54af76759ab3258"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x36",
+			"saga": "Prince Valiant",
+			"title": "A New Dawn",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8cd5c025600878ca003ac3ff0d993828"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x37",
+			"saga": "Prince Valiant",
+			"title": "The Death of Arthur",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92af139ea190a41037ed1bb1eb8b4d40"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x38",
+			"saga": "Prince Valiant",
+			"title": "The Gathering Storm",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a92017df33333c9c742290e39dcea555"
+				}
+			]
+		},
+		{
+			"tmdb_id": 529,
+			"number": "2x39",
+			"saga": "Prince Valiant",
+			"title": "The Hinge of Fate",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c6a99a4fb87cf94384fed3077bccddf"
+				}
+			]
+		} 
+    ]
+}

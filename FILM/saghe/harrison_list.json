@@ -1,0 +1,424 @@
+{
+    "movies_list": [
+        {
+			"tmdb_id": 109410,
+			"title": "42 - La vera storia di una leggenda americana",
+            "saga": "Harrison Ford",
+			"plot":"La storia della vita di Jackie Robinson e della sua carriera sportiva con i Brooklyn Dodgers, sotto la guida del dirigente del team Branch Rickey.",
+			"year": "2013",
+			"director": "Brian Helgeland",
+			"genre": "Dramma",
+			"actors": "Chadwick Boseman, Harrison Ford, Nicole Beharie, Christopher Meloni, Ryan Merriman, Lucas Black, André Holland, Alan Tudyk, Hamish Linklater, T.R. Knight, John C. McGinley, Toby Huss, Max Gail, Brad Beyer, James Pickens Jr., Gino Anthony Pesi, Brett Cullen, Kelley Jakle, Jud Tylor, Jennifer Cocker, Peter MacKenzie, Henry G. Sanders, Jeremy Ray Taylor, Marc Gowan, Nickolas Wolf",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/57be1a76fb82dc9e15ccddc3348ed953"
+				}
+			]
+		},
+		{
+			"tmdb_id": 11364,
+			"title": "A proposito di Henry",
+            "saga": "Harrison Ford",
+			"plot":"Per una ferita alla testa, avvocato di successo e senza scrupoli perde la memoria e cambia la sua vita dandole un nuovo indirizzo e un altro senso. 17° film per il cinema di Nichols (1931) e 26° di Ford, è una favola sentimentale con messaggio incorporato sul tema della seconda opportunità e del riscatto: simpatica, edificante, didattica, sostenuta dall'alto professionismo luministico di Giuseppe Rotunno.",
+			"year": "1991",
+			"director": "Mike Nichols",
+			"genre": "Romance, Dramma",
+			"actors": "Harrison Ford, Annette Bening, Bill Nunn, Rebecca Miller, Bruce Altman, Elizabeth Wilson, Donald Moffat, James Rebhorn, Robin Bartlett, Michael Haley, Stanley Swerdlow, Kamian Allen, Emily Wachtel, Susan Forristal, John Leguizamo, J.J. Abrams, Aida Linares, John MacKay, Mary Gilbert, Brian Smiar, May Quigley, Marjorie Monaghan, Peter Appel, Kai Soremekun, Kirby Mitchell, Ralph Byers, Hollis Granville, Anne Stone, Julie Follansbee, Harsh Nayyar, Cynthia Martells, Suzanne O'Neill, Glen Trotiner, John Patrick McLaughlin, Louis Cantarini, Benjamin Hendrickson",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/439396b9abd8ff0e1a294af2cb835388"
+				}
+			]
+		},
+		{
+			"tmdb_id": 293863,
+			"title": "Adaline - L'eterna giovinezza",
+            "saga": "Harrison Ford",
+			"plot":"Adeline, una giovane donna nata a cavallo del XX secolo, cessa misteriosamente di invecchiare in seguito a un incidente avvenuto in una gelida notte. Mentre custodisce gelosamente il suo segreto, Adeline intraprende una serie di incredibili avventure lungo tutto il corso del Novecento prima che, dopo anni di vita solitaria, trovi l'amore e il coraggio, necessari a vivere a pieno.",
+			"year": "2015",
+			"director": "Lee Toland Krieger",
+			"genre": "Fantasy, Dramma, Romance",
+			"actors": "Blake Lively, Michiel Huisman, Harrison Ford, Ellen Burstyn, Kathy Baker, Amanda Crew, Lynda Boyd, Richard Harmon, Fulvio Cecere, Anjali Jay, Hiro Kanagawa, Peter J. Gray, Izabel Pearce, Cate Richardson, Jane Craven, Noel Johansen, Aaron Craven, Primo Allon, Darren Dolynski, Chris William Martin, Mark Ghanimé, Shaker Paleja, Daniel Bacon, Barclay Hope, Robert Moloney, Lane Edwards, Hugh Ross, Toby Levins, Anthony Ingruber, Keith McCafferty, Serge Houde, Alison Wandzura, Demord Dann, Grace Chin, Dee Jay Jackson",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a2167bdca77a91ffe63981ffb8609b39"
+				}
+			]
+		},
+		{
+			"tmdb_id": 9772,
+			"title": "Air Force One",
+            "saga": "Harrison Ford",
+			"plot":"Di ritorno da una visita ufficiale a Mosca, l'aereo del presidente USA è preso in ostaggio da terroristi che chiedono la liberazione del loro capo, il gen. Vadek, dittatore del Kazakistan e detentore di valigette nucleari russe. Minacciano di eliminare un passeggero ogni trenta minuti.",
+			"year": "1997",
+			"director": "Wolfgang Petersen",
+			"genre": "Azione, Thriller",
+			"actors": "Harrison Ford, Gary Oldman, Glenn Close, Wendy Crewson, William H. Macy, Jürgen Prochnow, Oleg Taktarov, Liesel Matthews, Paul Guilfoyle, Xander Berkeley, Dean Stockwell, Tom Everett, Donna Bullock, Michael Ray Miller, Carl Weintraub, Elester Latham, Elya Baskin, Levan Uchaneishvili, David Vadim, Andrew Divoff, Ilia Volok, Chris Howell, Spencer Garrett, Bill Smitrovich, Philip Baker Hall, Willard E. Pugh, Michael Monks, Fenton Lawless, Dan Shor, David Gianopoulos, Glenn Morshower, Don McManus, Brian Libby, Diana Bellamy, Thom Barry, E.E. Bell, Boris Lee Krutonog, Alex Veadov, Messiri Freeman, Pasha D. Lychnikoff, Ren Hanami, Timothy Carhart, Titus Welliver",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/98c78143033be9d1d73296923fda325e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 838,
+			"title": "American Graffiti",
+            "saga": "Harrison Ford",
+			"plot":"Candidato a 5 premi Oscar, questo classico del cinema americano, diretto da George Lucas e prodotto da Francis Ford Coppola, è la storia di formazione di quattro adolescenti durante la loro ultima notte d’estate prima di partire per il college. Un viaggio nostalgico alla riscoperta dei duelli in automobile, dei drive in e dei panorami malinconici dell’America dei primi anni ‘60, accompagnato da una colonna sonora indimenticabile composta dai migliori brani rock ’n’ roll di quell’epoca. Interpretato da Harrison Ford, Richard Dreyfuss, Ron Howard e Charlie Martin Smith, American Graffiti racchiude lo spirito e il sentimento degli ultimi sguardi innocenti degli Stati Uniti.",
+			"year": "1973",
+			"director": "George Lucas",
+			"genre": "Commedia, Dramma",
+			"actors": "Richard Dreyfuss, Ron Howard, Paul Le Mat, Charles Martin Smith, Candy Clark, Mackenzie Phillips, Cindy Williams, Wolfman Jack, Bo Hopkins, Harrison Ford, Manuel Padilla Jr., Beau Gentry, Jim Bohan, Jana Bellan, Deby Celiz, Lynne Marie Stewart, Terence McGovern, Kathleen Quinlan, Timothy F. Crowley, Scott Beach, John Brent, Gordon Analla, John Bracci, Jody Carlson, Del Close, Chuck Dorsett, Stephen Knox, Joe Miksak, George Meyer, James Cranna, Johnny Weissmuller Jr., William Niven, Al Nalbandian, Bob Pasaak, Christopher Pray, Susan Richardson, Fred Ross, Jan Dunn, Charlie Murphy, Ed Greenberg, Lisa Herman, Mark Anger, Kay Lenz, Caprice Schmidt, Joe Spano, Debralee Scott, Ron Vincent, Donna Wehr, Cam Whitman, Jan Wilson, Suzanne Somers",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/abd26dc0782b00bb5010a792b45b6d71"
+				}
+			]
+		},
+		{
+			"tmdb_id": 28,
+			"title": "Apocalypse Now",
+            "saga": "Harrison Ford",
+			"plot":"A Saigon, durante la guerra in Vietnam il capitano dei corpi speciali Benjamin Willard riceve dai superiori l'ordine di trovare ed eliminare il colonnello Walter Kurtz che uscito con i suoi soldati dai ranghi dell'esercito americano, sta combattendo una guerra personale ai confini fra il Vietnam e la Cambogia. Scortato da alcuni uomini, Willard risale un fiume a caccia del colonnello. Dopo varie peripezie il capitano individua Kurtz all'interno di una sorta di reggia-tempio protetta dalla vegetazione e da numerosi indigeni armati. Willard non sa che fare, ma è lo stesso Kurtz che lo induce ad eseguire la condanna.",
+			"year": "1979",
+			"director": "Francis Ford Coppola",
+			"genre": "Dramma, Guerra",
+			"actors": "Marlon Brando, Robert Duvall, Martin Sheen, Frederic Forrest, Albert Hall, Sam Bottoms, Laurence Fishburne, Dennis Hopper, G. D. Spradlin, Harrison Ford, Jerry Ziesmer, Scott Glenn, James Keane, Kerry Rossall, Tom Mason, Cynthia Wood, Colleen Camp, Linda Carpenter, Jack Thibeau, Glenn Walken, Damien Leake, Marc Coppola, Bill Graham, Jerry Ross, Charles Robinson, Nick Nicholson, Don Gordon Bell, Evan A. Lottman, R. Lee Ermey, Jim Gaines, Vittorio Storaro, Francis Ford Coppola, Henry Strzalkowski, Lonnie Woodley, Aurore Clément, Herb Rice, Joe Estevez",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/564c0b965e96b19eccd5c4deb9920aba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 335984,
+			"title": "Blade Runner 2049",
+            "saga": "Harrison Ford",
+			"plot":"Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che è rimasto della società. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+			"year": "2017",
+			"director": "Denis Villeneuve",
+			"genre": "Fantascienza, Dramma",
+			"actors": "Harrison Ford, Ana de Armas, Robin Wright, Ryan Gosling, Sylvia Hoeks, Mackenzie Davis, Jared Leto, Carla Juri, Lennie James, Dave Bautista, David Dastmalchian, Barkhad Abdi, Hiam Abbass, Wood Harris, Edward James Olmos, Tómas Lemarquis, Sallie Harmsen, Sean Young, Loren Peta, Mark Arnold, Krista Kosonen, Elarica Johnson, Kingston Taylor, David Benson, Ben Thompson, Suzie Kennedy, Stephen Triffitt, Ellie Wright, Vilma Szécsi, Kincsö Sánta, André Lukács Molnár, István Göz, Pál Nyári, Joshua Tersoo Allagh, Zoltán Béres, Konstantin Pál, Ferenc Györgyi, Samuel Brown",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/95646fc157684f15dc70f1183c15af9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 15577,
+			"title": "Crossing Over",
+            "saga": "Harrison Ford",
+			"plot":"Max Brogan è un agente dell'Immigration and Customs Enforcement e ha il compito di ostacolare con tutti i mezzi legali l'immigrazione clandestina negli Stati Uniti. Opera nell'area del confine con il Messico ed è incapace di trattare le persone come fossero puri e semplici pacchi da accettare o rinviare al mittente. Incontra così la giovane operaia messicana Mireya Sanchez che, prima di essere arrestata dai suoi colleghi, lo supplica di aiutare il suo bambino. Nel frattempo Denise Frankel si occupa di difendere come avvocato i più deboli mentre suo marito Cole, approfittando del potere che ha sulla consegna o meno della Green Card, costringe una ragazza australiana a concedergli prestazioni sessuali. Conosciamo anche le storie di Zahta, giovane musulmana che vuole che si pensi anche alle possibili ragioni degli attentatori dell'11 settembre, l'adolescente coreano Yong Kim che si fa coinvolgere in una banda di giovanbi criminali.",
+			"year": "2009",
+			"director": "Wayne Kramer",
+			"genre": "Crime, Dramma",
+			"actors": "Harrison Ford, Ray Liotta, Ashley Judd, Jim Sturgess, Cliff Curtis, Alice Braga, Alice Eve, Summer Bishil, Jacqueline Obradors, Justin Chon, Melody Zara, Merik Tadros, Sarah Shahi, Lizzy Caplan, Mahershala Ali, Gigi Rice, Elaine Kagan, Jessica Tuck, Molly Weiner, Claudia Salinas, Don Scribner, Kevin Alejandro, Tammin Sursok, Judith Moreland, Kevin Sizemore, Deborah Puette, Christopher Murray, Josh Gad, Jack Conley, Aramis Knight",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0b658ce0b480956e04a069ed2dd9cfad"
+				}
+			]
+		},
+		{
+			"tmdb_id": 12618,
+			"title": "Destini incrociati",
+            "saga": "Harrison Ford",
+			"plot":"Come ogni mattina, Dutch Van Den Broeck, sergente presso il dipartimento Affari Interni della polizia di Washington, e la moglie Peyton si salutano per cominciare le rispettive giornate di lavoro. Qualche ora dopo, Dutch apprende la notizia di un disastro aereo: la linea è quella della moglie, lui cerca informazioni ma sembra che di Peyton non ci siano notizie. Anche Kay Chandler, deputata del New Hampshire impegnata nella campagna per la rielezione, sa che il marito Cullen sta andando a New York e non sospetta niente di più.",
+			"year": "1999",
+			"director": "Sydney Pollack",
+			"genre": "Dramma, Romance",
+			"actors": "Harrison Ford, Kristin Scott Thomas, Charles S. Dutton, Bonnie Hunt, Dennis Haysbert, Sydney Pollack, Richard Jenkins, Paul Guilfoyle, Susanna Thompson, Peter Coyote, Dylan Baker, Lynne Thigpen, Susan Floyd, Bill Cobbs, Kate Mara, Ariana Thomas, Nelson Landrieu, Brooke Smith, Christina Chang, Michelle Hurd, Reiko Aylesworth, Raymond Anthony Thomas, Edie Falco, S. Epatha Merkerson, Robert 'Bobby Z' Zajonc",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/66e2b2bacc0c422d5789d808542fdf9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 80274,
+			"title": "Ender's Game",
+            "saga": "Harrison Ford",
+			"plot":"In un futuro prossimo, una razza aliena ostile attacca la Terra, e solo l'eroismo del Comandante della Flotta Internazionale Mazer Rackham evita la disfatta totale. Nell'attesa di un nuovo attacco, lo stimatissimo Colonnello Graff recluta i migliori ragazzi del pianeta per trovare il prossimo Mazer. Ender Wiggin, un ragazzo timido ma brillantissimo, vieve convinto a lasciare la scuola tradizionale per entrare nella Scuola di Guerra di Graff. Lì Ender apprende facilmente e con grande rapidità le tattiche di guerra, vincendo ogni simulazione, guadagnandosi il rispetto degli altri cadetti, e viene presto promosso da Graff alla Scuola di Comando, dove sarà addestrato dallo stesso Mazer.",
+			"year": "2013",
+			"director": "Gavin Hood",
+			"genre": "Fantascienza, Azione, Avventura",
+			"actors": "Asa Butterfield, Harrison Ford, Hailee Steinfeld, Viola Davis, Abigail Breslin, Ben Kingsley, Aramis Knight, Suraj Partha, Moisés Arias, Khylin Rhambo, Jimmy 'Jax' Pinchak, Conor Carroll, Nonso Anozie, Tony Mirrcandani, Stevie Ray Dallimore, Andrea Powell, Brandon Soo Hoo, Han Soto, Kyle Clements, Kelvin Harrison Jr., Caleb J. Thaggard, Cameron Gaskins, Wendy Miklovic, Jasmine Kaur, Edrick Browne, Christopher Coakley, Chase Walker, Gavin Hood",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0d6e8b27ba3ea95def7f7db002b9c474"
+				}
+			]
+		},
+		{
+			"tmdb_id": 9754,
+			"title": "Firewall - Accesso negato",
+            "saga": "Harrison Ford",
+			"plot":"Lo specialista di sistemi di sicurezza per il computer Jack Stanfield lavora per la Landrock Pacific Bank di Seattle. E' un funzionario di alto livello e ha costruito la sua reputazione e la sua carriera sulla progettazione di sistemi che proteggono i depositi della banca dalla minaccia costante e crescente degli hackers, con la sua complessa rete di codici di accesso, tracciatori e firewalls. Ma c'è un punto debole nel sistema di cui Jack non ha tenuto conto: lui stesso. E' una fragilità che un ladro spietato e ingegnoso è pronto a sfuttare. Bill Cox sta studiando Jack e la sua famiglia osservando la loro vita con un vero e proprio arsenale tecnologico che raccoglie tutte le informazioni. Una volta a conoscenza di ogni aspetto della vita di Jack, Cox  assieme ad un gruppo di complici, si impadronisce di casa Stanfield e Jack si ritrova suo malgrado coinvolto nel tentativo di sottrarre 100 milioni di dollari alla Landrock Pacific Bank.",
+			"year": "2006",
+			"director": "Richard Loncraine",
+			"genre": "Thriller",
+			"actors": "Harrison Ford, Paul Bettany, Virginia Madsen, Carly Schroeder, Jimmy Bennett, Mary Lynn Rajskub, Robert Patrick, Robert Forster, Alan Arkin, Matthew Currie Holmes, Candus Churchill, David Lewis, Zahf Paroo, Pat Jenkinson, Gail Ann Lewis, Finn Michael, Andrew McNee, Nikolaj Coster-Waldau, Vince Vieluf",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e49f292adf9221fe466cdb2ff7755201"
+				}
+			]
+		},
+		{
+			"tmdb_id": 10675,
+			"title": "Frantic",
+            "saga": "Harrison Ford",
+			"plot":"Il dottor Richard Walker e sua moglie Sondra, sono a Parigi per una conferenza, ma decidono di passare nella Ville Lumière i giorni in cui si fidanzarono. Mentre sono in albergo, e lui sta facendo la doccia, Sondra ed una delle valigie scompaiono nel nulla. Richard aveva fatto notare a sua moglie che in aereoporto aveva ritirato una valigia non sua e decide di contattare il direttore dell'albergo, la polizia e l'ambasciata, ma viene trattato con sarcasmo da tutti...",
+			"year": "1988",
+			"director": "Roman Polanski",
+			"genre": "Thriller",
+			"actors": "Harrison Ford, Emmanuelle Seigner, Betty Buckley, Dominique Pinon, Jacques Ciron, John Mahoney, Jimmie Ray Weeks, David Huddleston, Alexandra Stewart, Yorgo Voyagis, Djiby Soumare, Roch Leibovici, Roman Polanski",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/da45e1b8aa6484ce6d1e34bf04648cc7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 11375,
+			"title": "Hollywood Homicide",
+            "saga": "Harrison Ford",
+			"plot":"Joe Galivan è un detective della squadra omicidi di Los Angeles con una vita privata in frantumi e che arrotonda lo stipendio facendo l'agente immobiliare. Per il caso più delicato della sua logorata carriera viene affiancato dal giovane K.C., che nel tempo libero fa yoga e ancora non ha deciso se la sua vocazione sia il distretto di polizia o gli studios di Hollywood. La strampalata coppia deve indagare sulle minacce che un noto gruppo rap ha ricevuto: i sospetti sono tutti sul capo della loro etichetta discografica, Sartain.",
+			"year": "2003",
+			"director": "Ron Shelton",
+			"genre": "Azione, Avventura, Commedia, Thriller",
+			"actors": "Harrison Ford, Josh Hartnett, Lena Olin, Bruce Greenwood, Isaiah Washington, Lolita Davidovich, Keith David, Master P, Dwight Yoakam, Martin Landau, Lou Diamond Phillips, Gladys Knight, James MacDonald, Alan Dale, Regina Russell Banali, Meredith Scott Lynn, Tom Todoroff, Kurupt, André Benjamin, Clyde Kusatsu, Eric Idle, Frank Sinatra Jr., Robert Wagner, Johnny Grant, Smokey Robinson, Shawn Woods, Anthony Mackie, Gregg Daniel, Darrell Foster, Christopher Wiehl, Dennis Burkley, Blake Gibbons, Ernest Harden Jr., Eloy Casados, Brianna Brown, Paul Butcher",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76ec053a26df19dbdb3199de426d3b96"
+				}
+			]
+		},
+		{
+			"tmdb_id": 41599,
+			"title": "Il fuggitivo",
+            "saga": "Harrison Ford",
+			"plot":"",
+			"year": "1948",
+			"director": "Joseph L. Mankiewicz",
+			"genre": "Thriller",
+			"actors": "Rex Harrison, Peggy Cummins, William Hartnell, Norman Wooland, Jill Esmond, Frederick Piper, Marjorie Rhodes, Betty Ann Davies, Cyril Cusack, John Slater, Frank Pettingell, Michael Golden, Frederick Leister",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c1a6eaab71083b3f3c74601153e7ee5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 27906,
+			"title": "Il richiamo della foresta",
+            "saga": "Harrison Ford",
+			"plot":"E' un percorso di formazione quello che compie Ryann, capricciosa bambina che viene affidata al nonno durante le vacanze dei genitori. Bill, nonno affabile e tradizionalista, abita in una baita immersa nei boschi del Montana, ed è proprio la vita del posto ad annoiare l'imbronciata ragazzina, abituata a ben altri passatempi che non fare pupazzi di neve o raccogliere pigne. La vita in città per Ryann trascorreva cercando l'approvazione delle odiose compagne di scuola sempre all'ultima moda e attaccando sul quaderno dei desideri le foto degli oggetti da possedere, tra cui cellulari e vestiti. Dopo lo scetticismo iniziale, che le fa liquidare la natura da favola che la circonda con un \"ci sono solo alberi e neve\", Ryann inizia ad appassionarsi alla vita di montagna; a rendere possibile il cambiamento, il ritrovamento di un cane ferito (incrocio con un lupo selvatico) a cui la bimba si affeziona da subito e di cui si prende cura con un ritrovato entusiasmo.",
+			"year": "2009",
+			"director": "Richard Gabai",
+			"genre": "Avventura",
+			"actors": "Christopher Lloyd, Ariel Gade, Kameron Knox, Timothy Bottoms, Devon Graye, Aimee Teegarden, Veronica Cartwright, Wes Studi, Jaleel White, Devon Iott, Joyce DeWitt, Christopher Dempsey",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cee5c1a196d9f7fdf328acbac254e000"
+				}
+			]
+		},
+		{
+			"tmdb_id": 8665,
+			"title": "K-19",
+            "saga": "Harrison Ford",
+			"plot":"Anni Sessanta. Un sottomarino sovietico di nuova produzione viene inviato a sperimentare il lancio di una testata nucleare. Il natante ha qualche problema di costruzione e l'equipaggio non è dei più preparati. È per questo che il timone viene affidato a un comandante inviato da Mosca (Ford) che fa passare al ruolo di comandante in seconda il precedente responsabile (Neeson). I due hanno diverse concezioni del dovere e il conflitto esplode quando si verifica una perdita nel nucleo radioattivo che fa da propulsore al mezzo.",
+			"year": "2002",
+			"director": "Kathryn Bigelow",
+			"genre": "Dramma, Storia, Guerra, Thriller, Mistero",
+			"actors": "Harrison Ford, Liam Neeson, Peter Sarsgaard, Joss Ackland, John Shrapnel, Donald Sumpter, Tim Woodward, Steve Nicolson, George Anton, James Francis Ginty, Lex Shrapnel, Ingvar Eggert Sigurðsson, Sam Spruell, Sam Redford, Peter Stebbings, Roman Podhora, Shaun Benson, Dmitry Chepovetsky, Christopher Redman, Tygh Runyan, Peter Graham, Shawn Mathieson, Jacob Pitts, Christopher Routh, Lubomir Mykytiuk, Michael Gladis, Christian Camargo, Ravil Isyanov, Kristen Holden-Ried, Natalya Vintilova, Steve Cumyn, Austin Strugnell, Arsenty Sydelnykov, J.J. Feild, Peter Oldring, Joshua Close, Gerrit Vooren, Joey Purpura, Lev Prygunov, Jeremy Akerman, Lee J. Campbell",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2e8004d5e29143ac798b6d6332f4d669"
+				}
+			]
+		},
+		{
+			"tmdb_id": 4477,
+			"title": "L'ombra del diavolo",
+            "saga": "Harrison Ford",
+			"plot":"Frankie MgGuire, terrorista dell'IRA, lascia l'Irlanda per andare a New York sotto il falso nome di Rory Devaney. Viene ospitato da Tom O'Meara, poliziotto anche lui irlandese. I guai cominceranno quando Tom scopre che Rory tiene delle armi nasconte in un borsone.",
+			"year": "1997",
+			"director": "Alan J. Pakula",
+			"genre": "Crime, Thriller, Dramma",
+			"actors": "Brad Pitt, Harrison Ford, Rubén Blades, Treat Williams, Natascha McElhone, Margaret Colin, Kelly Singer, Ashley Carin, Julia Stiles, Simon Jones, George Hearn, Mitchell Ryan, Paul Ronan, David O'Hara, David Wilmot, Rob McElhenney, Chance Kelly, Wilson Cleveland, Anthony Brophy, Shane Dunne, Martin Dunne, Gabrielle Reidy, Samantha Conroy, Baxter Harris, Hassan Johnson, Scott Nicholson, Jonathan Earl Peck, Sixto Ramos, Mya Michaels, Brendan Kelly, Kevin Nagle, Gregory Salata, Joseph P. Dandry, Jack McKillop, Mac Orange, Malachy McCourt, Marian Tomas Griffin, Peggy Shay, Danielle McGovern, Ciarán O'Reilly, Donald J. Meade, Patrick Reynolds, Peter Rufli, Debbon Ayer, Mario Polit, Greg Stebner, William Paulson, Bill Hoag, Victor Slezak, Damien Leake",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1761590be77df900b28ea4d09a826a34"
+				}
+			]
+		},
+		{
+			"tmdb_id": 592,
+			"title": "La conversazione",
+            "saga": "Harrison Ford",
+			"plot":"Specialista in intercettazioni, che ha sempre vissuto immerso nel lavoro, scopre di avere una coscienza, di essere responsabile di quello che fa, di essere prima complice e poi vittima. Palma d'oro a Cannes e designato agli Oscar (film, regia), è un thriller che anticipa i tempi (Watergate) e le mode, rimanda al cinema di Antonioni (fotografia funzionale di Bill Butler), ma anche agli incubi allucinati di un Kafka tecnologicamente aggiornato. Uno dei migliori film USA degli anni '70 con un G. Hackman perfetto come antieroe dell'era elettronica. Apparizione non accreditata di Robert Duvall.",
+			"year": "1974",
+			"director": "Francis Ford Coppola",
+			"genre": "Crime, Dramma, Mistero",
+			"actors": "Gene Hackman, John Cazale, Frederic Forrest, Cindy Williams, Harrison Ford, Teri Garr, Allen Garfield, Elizabeth MacRae, Robert Duvall, Michael Higgins, Mark Wheeler, Billy Dee Williams, Ramon Bieri, Phoebe Alexander, Gian-Carlo Coppola, Robert Shields, Richard Hackman",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/710cadb5555342ada4722239509a495e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2655,
+			"title": "Le verità nascoste",
+            "saga": "Harrison Ford",
+			"plot":"Il dottor Norman Spencer e Claire sono felicemente sposati e abitano in una villa sul lago decisamente troppo isolata. Mentre lui lavora su esperimenti genetici, lei sta a casa e sente strane presenze. Il primo sospetto è che il vicino abbia ammazzato la moglie: lo spia col binocolo e ben presto la pista si rivela falsa. Ciò non toglie che in casa c'è \"qualcuno\" o qualcosa: porte che non si chiudono bene, quadri che cascano senza che nessuno li tocchi e quello strano fumo che esce dalla vasca da bagno...",
+			"year": "2000",
+			"director": "Robert Zemeckis",
+			"genre": "Dramma, Horror, Mistero, Thriller",
+			"actors": "Harrison Ford, Michelle Pfeiffer, Diana Scarwid, James Remar, Miranda Otto, Ray Baker, Wendy Crewson, Amber Valletta, Katharine Towne, Victoria Bidewell, Joe Morton, Micole Mercurio, Sloane Shelton, Rachel Singer, Daniel Zelman, Jennifer Tung, J.C. Brandy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba73d0a6f5ca39bbe4bbfd8378157b00"
+				}
+			]
+		},
+		{
+			"tmdb_id": 27569,
+			"title": "Misure straordinarie",
+            "saga": "Harrison Ford",
+			"plot":"Aiutato dalla splendida moglie Aileen e dai tre figli, John Crowley è sul punto di vedere realizzata la sua rivalsa da ex operaio nell'America delle grandi aziende ed è finalmente vicino ad assaporare il successo. Ma proprio quando la sua carriera sta per decollare viene diagnosticata ai due figli più piccoli, Megan e Patrik, una rara malattia genetica. Con Aileen al fianco, sfoderando tutta la sua abilità e determinazione, Crowley fa squadra con uno scienziato brillante ma sottovalutato e anticonformista, il dottor Robert Stonehill: i due fondano una compagnia biotecnologica che ha come obiettivo lo sviluppo di una medicina salvavita. Il primo lo fa per salvare i figli e il secondo per mettere alla prova se stesso e le sue teorie, e la loro improbabile alleanza alla fine si trasforma in un reciproco e profondo rispetto nella loro battaglia contro le lobby dei medici votati al business...",
+			"year": "2010",
+			"director": "Tom Vaughan",
+			"genre": "Dramma",
+			"actors": "Harrison Ford, Brendan Fraser, Keri Russell, Courtney B. Vance, Meredith Droeger, Diego Velazquez, Jared Harris, Patrick Bauchau, Alan Ruck, David Clennon, Dee Wallace, Ayanna Berkshire, P. J. Byrne, G.J. Echternkamp, Vu Pham, Derek Webster, Jana Lee Hamblin, Christopher D. Harder, Tra'Renee Chambers, Lily Mariye, Sherilyn Lawson, Eric Martin Reid, Jeanine Jackson, Robert Blanche, Michael Shamberg",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/60690ee8f0c059d9179c38a1c707ba76"
+				}
+			]
+		},
+		{
+			"tmdb_id": 11120,
+			"title": "Mosquito Coast",
+            "saga": "Harrison Ford",
+			"plot":"",
+			"year": "1986",
+			"director": "Peter Weir",
+			"genre": "Avventura, Dramma",
+			"actors": "Harrison Ford, Helen Mirren, River Phoenix, Conrad Roberts, Martha Plimpton, Andre Gregory, Dick O'Neill, Jadrien Steele, Michael Rogers, Hilary Gordon, Rebecca Gordon, Jason Alexander, Butterfly McQueen, Tiger Haynes, William Newman",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e9de81e28daa4510a4b91d54486fec9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 11092,
+			"title": "Presunto innocente",
+            "saga": "Harrison Ford",
+			"plot":"Incaricato di indagare sull'omicidio di una bella collega di dubbia moralità di cui era stato l'amante, un procuratore distrettuale diventa inquisito e, con l'aiuto di un ottimo avvocato, organizza la propria difesa.",
+			"year": "1990",
+			"director": "Alan J. Pakula",
+			"genre": "Thriller, Crime, Mistero",
+			"actors": "Harrison Ford, Brian Dennehy, Raúl Juliá, Bonnie Bedelia, Paul Winfield, Greta Scacchi, John Spencer, Joe Grifasi, Tom Mardirosian, Anna Maria Horsford, Sab Shimono, Bradley Whitford, Christine Estabrook, Michael Tolan, Madison Arnold, Ron Frazier, Jesse Bradford, Joseph Mazzello, Tucker Smallwood, Leland Gantt, Teodorina Bello, David Wohl, John M. Bennett, Bo Rucker, Peter Appel, John Ottavino, Robert Katims, Joseph Carberry, John Seitz, Bill Winkler, John C. Vennema, Michael Genet, Richard L. Newcomb, Ed Wheeler, Miles Watson, DeAnn Mears, Julia Meade, Thom Cagle, Jeffrey Wright, Vin Diesel",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0463be76d3ed78b37c4831adf308198"
+				}
+			]
+		},
+		{
+			"tmdb_id": 6620,
+			"title": "Sabrina",
+            "saga": "Harrison Ford",
+			"plot":"Nella bella residenza estiva della famiglia Larrabee, vivono anche vari domestici, fra cui l'autista Thomas Fairchild e sua figlia Sabrina. Sabrina è da sempre innamorata del più giovane rampollo dei Larrabee, David, un donnaiolo impenitente con già tre matrimoni falliti alle spalle. Una volta arrivata a Parigi, Sabrina impara l'arte della cucina e quella di credere nei propri sogni, così che quando rientra a Long Island due anni dopo con un nuovo taglio di capelli e i più sofisticati vestiti della moda francese, David la nota e comincia finalmente a farle la corte. Il suo comportamento non viene però visto di buon occhio dalla famiglia e in particolare da Linus, che ha già combinato per lui un matrimonio con una facoltosa ereditiera e che, affinché tutto vada come programmato, decide di mettersi fra lui e Sabrina.",
+			"year": "1954",
+			"director": "Billy Wilder",
+			"genre": "Commedia, Dramma, Romance",
+			"actors": "Audrey Hepburn, William Holden, Humphrey Bogart, Walter Hampden, John Williams, Martha Hyer, Joan Vohs, Marcel Dalio, Marcel Hillaire, Nella Walker, Francis X. Bushman, Ellen Corby, Marjorie Bennett, Emory Parnell, Nancy Kulp, Paul Harvey, Kay Riehl, Raymond Bailey, Ralph Brooks, Colin Campbell, Harvey B. Dunn, Fritz Ford, Otto Forrest, Chuck Hamilton, Rand Harper, Sam Harris, Kay E. Kuter, Bill Neff, Gregory Ratoff, Marion Ross, Emmett Vogan, Ralph Moratz, Lovyss Bradley, Jean Ransome, James Carlisle, Fred Rapport, Herschel Graham, Frank McLure, William H. O'Brien",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/34cea6b425a65c139f6a6b820d45a59d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 16972,
+			"title": "Scusi, dov'è il West?",
+            "saga": "Harrison Ford",
+			"plot":"Nel 1850 durante un movimentato viaggio verso San Francisco, terra di missione, un rabbino polacco fa amicizia con un incallito rapinatore, ma entra in crisi quando per salvarlo deve uccidere un uomo. Definito il primo western ebraico, è il tentativo, riuscito in parte, di commedia da parte di un R. Aldrich che non prende più niente sul serio, nemmeno la violenza.",
+			"year": "1979",
+			"director": "Robert Aldrich",
+			"genre": "Western, Commedia",
+			"actors": "Gene Wilder, Harrison Ford, Ramon Bieri, Val Bisoglio, George DiCenzo, Leo Fuchs, Penny Peyser, William Smith, Vincent Schiavelli, Jack Somack, Beege Barkette, Shay Duffin, Walter Janovitz, Joe Kapp, Clyde Kusatsu, Clifford A. Pellow, Allan Rich, Henry Rowland",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f08a764696b00ba06147a122cc2e6d1a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 6068,
+			"title": "Sei giorni sette notti",
+            "saga": "Harrison Ford",
+			"plot":"Costretta a interrompere una vacanza tropicale alle Hawaii col fidanzato (Schwimmer), Robin Monroe (Heche), rampante giornalista di New York, si fa trasportare a Tahiti dal pilota civile Quinn Harris (Ford). Incappati in una tempesta, fanno un rovinoso atterraggio di fortuna su un'isoletta. I due hanno caratteri incompatibili. Commedia romantica vecchia come il cucco, ma piacevole e divertente, scritta da Michael Browning e girata nell'isola di Kauai, tela di fondo di una cinquantina di film hollywoodiani. Parentesi leggera per H. Ford che se la cava con garbo.",
+			"year": "1998",
+			"director": "Ivan Reitman",
+			"genre": "Azione, Avventura, Commedia, Romance",
+			"actors": "Harrison Ford, Anne Heche, David Schwimmer, Jacqueline Obradors, Temuera Morrison, Allison Janney, Cliff Curtis, Danny Trejo, Kerry Rossall, Douglas Weston, Ben Bode, Derek Basco, Amy Sedaris, Priscilla Inga Taylor, Long Nguyen, John Koyama, Jen Sung, Jake Feagai, Michael Chapman, E. Kalani Flores, Ping Wu, Greg Gorman, Hoyt Richards, Odile Corso, Cynthia Langbridge, Jody Kono, Michael Lushing, Pua Kaholokula, Roy Dinson Jr., Don Nahaku, Reri Tava Jobe, Natalie Goss, Christian Martson, James Edward Sclafani, Jason S. Nichols, Taj Mahal, Fred Lunt, Carlos Andrade, Kester Smith, Pat Cockett, Wayne Jacintho, Michael Barretto, Rudy Costa, Pancho Graham, Mervyn Lilo, Gordon Lilo, Afa Thompson, Javan Kaiama, Nicole Maldonado, Iele, Aldo Paro, Eric Laufiso, Wayne Aqino, Vise Vitale, Lloyd Chandler, Elliot M. Kaplan, Stephen Conteh, John Kirsch, Jewel McDonald, Niko Rusakov, Theresa San-Nicholas, Steve Stafford",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bb3f0941ea436a8c6399a439ea22288c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 9331,
+			"title": "Sotto il segno del pericolo",
+            "saga": "Harrison Ford",
+			"plot":"Quando il suo mentore, l'Ammiraglio James Greer, si ammala gravemente, Jack Ryan viene assegnato alla carica di Vice Direttore dell'Intelligence della CIA. Il suo primo incarico: indagare sull'assassinio di un amico del Presidente, un importante uomo d'affari americano con segreti legami con i cartelli della droga colombiani. All'insaputa di Ryan, la CIA ha già inviato un suo agente operativo per guidare una forza paramilitare contro i signori della droga colombiani. Intrappolato tra due fuochi, Ryan prende le redini della situazione, mettendo a repentaglio la sua carriera e la sua vita per l'unica causa in cui ancora crede: la verità.",
+			"year": "1994",
+			"director": "Phillip Noyce",
+			"genre": "Azione, Dramma, Thriller",
+			"actors": "Harrison Ford, Willem Dafoe, Anne Archer, Joaquim de Almeida, Henry Czerny, Harris Yulin, Donald Moffat, Miguel Sandoval, Benjamin Bratt, Raymond Cruz, Dean Jones, Thora Birch, Ann Magnuson, Hope Lange, Tom Tammi, James Earl Jones, Ted Raimi, Greg Germann, Tim Grimm, Belita Moreno, Jorge Luke, Jared Chandler, Ellen Geer, Vondie Curtis-Hall, John Lafayette, Beau Lotterman, Rex Linn, Ken Howard, Alexander Lester, Reg E. Cathey, Clark Gregg, Chris Conrad, Vaughn Armstrong, John Putch, Colleen Flynn, Reed Diamond, Cam Brainard, Brendan Ford, Michael Jace, Patrick Bauchau, Aaron Lustig, Lynne Marie Stewart, John Rixey Moore, Jaime Gomez, Miguel Pérez",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5394a56c3e833fd93e24ba0a6172b2d4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3525,
+			"title": "Una donna in carriera",
+            "saga": "Harrison Ford",
+			"plot":"Un'ambiziosa segretaria vuole dimostrare di essere migliore, da un punto di vista professionale, della sua capo ufficio: riuscirà anche a soffiarle il fidanzato.",
+			"year": "1988",
+			"director": "Mike Nichols",
+			"genre": "Commedia, Romance",
+			"actors": "Harrison Ford, Melanie Griffith, Sigourney Weaver, Alec Baldwin, Joan Cusack, Philip Bosco, Nora Dunn, Oliver Platt, James Lally, Kevin Spacey, Robert Easton, Olympia Dukakis, Elizabeth Whitcraft, Jeffrey Nordling, Amy Aquino, Timothy Carhart, David Duchovny, Zach Grenier, Ricki Lake, Caroline Aaron",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a85f743e6944dcd697b578f52c6d30a3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 9281,
+			"title": "Witness - Il testimone",
+            "saga": "Harrison Ford",
+			"plot":"Quando una giovane donna Amish viene coinvolta, con il figlio, nell’omicidio di un trafficante di droga, interviene in loro aiuto un incallito detective di Philadelphia John Book. Harrison Ford è sensazionale nel ruolo di Book, poliziotto che si troverà invischiato fino al collo nel mondo non-violento della comunità Amish della Pennsylvania. Il risultato che ne deriva è un’avventura ricca d’azione e di lotte per sopravvivere, mescolata con sentimenti celati e la tenerezza di un amore proibito.",
+			"year": "1985",
+			"director": "Peter Weir",
+			"genre": "Crime, Dramma, Romance, Thriller",
+			"actors": "Harrison Ford, Kelly McGillis, Josef Sommer, Lukas Haas, Jan Rubeš, Alexander Godunov, Danny Glover, Brent Jennings, Patti LuPone, Angus MacInnes, Frederick Rolf, Viggo Mortensen, John Garson, Beverly May, Ed Crowley, Timothy Carhart, Sylvia Kauders, Marian Swan, Maria Bradley, Rozwill Young, Paul S. Nuss, Emily Tracy, Fred Steinharter, John D. King, Paul Goss, Annemarie Vallerio, Bruce E. Camburn, William Francis, Tom Kennedy, Ardyth Kaiser, Thomas Quinn, Eugene Dooley, Victoria Scott D'Angelo, Richard Chaves, Tim Moyer, Nino Del Buono, James Frank Clark, Joseph Kelly, Norman Carter, Craig Clement, Robert Earl Jones, Michael Levering, Cara Giallanza, Anthony Dean Rubes, Bernie Styles, Blossom Terry, Jennifer Mancuso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ee739f4ec7dd59b793b20143e8c3a3d5"
+				}
+			]
+		}
+    ]
+}

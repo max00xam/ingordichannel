@@ -1,0 +1,49 @@
+{
+    "movies_list": [
+        {
+			"tmdb_id": 105,
+			"title": "Ritorno al futuro",
+            "saga": "Ritorno al futuro",
+			"plot":"Marty McFly è stato catapultato per errore nel 1955, grazie alla macchina del tempo ideata dal suo amico scienziato Doc. Non avendo più \"carburante\" per poter tornare nel futuro si rivolge alla versione più giovane di Doc, che nonostante l'incredulità iniziale si farà in quattro per aiutarlo. Ma nel 1955 non è solo Doc ad essere più giovane, Marty infatti si imbatte casualmente nei suoi genitori, all'epoca teenager, ma l'incontro aggiungerà altri problemi.",
+			"year": "1985",
+			"director": "Robert Zemeckis",
+			"genre": "Avventura, Commedia, Fantascienza, Famiglia",
+			"actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, Thomas F. Wilson, Claudia Wells, Marc McClure, Wendie Jo Sperber, George DiCenzo, Frances Lee McCain, James Tolkan, J.J. Cohen, Casey Siemaszko, Billy Zane, Harry Waters, Jr., Donald Fullilove, Lisa Freeman, Cristen Kauffman, Elsa Raven, Will Hare, Ivy Bethune, Jason Marin, Katherine Britton, Jason Hervey, Maia Brewton, Courtney Gains, Richard L. Duran, Jeff O'Haco, Johnny Green, Jamie Abbott, Norman Alden, Read Morgan, Sachi Parker, Robert Krantz, Gary Riley, Karen Petrasek, George Buck Flower, Tommy Thomas, Granville 'Danny' Young, David Harold Brown, Lloyd L. Tolbert, Paul Hanson, Lee Brownfield, Robert DeLapp, Charles L. Campbell, Walter Scott, Deborah Harmon, Janine King, Huey Lewis, Tom Tangen, Arthur Tovey",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/99e80d97dd06e53f85a39624b5ed4504"
+				}
+			]
+		},
+		{
+			"tmdb_id": 165,
+			"title": "Ritorno al futuro - Parte II",
+            "saga": "Ritorno al futuro",
+			"plot":"Il film comincia dove terminava il primo capitolo, ovvero con Marty e Jennifer che partono insieme allo scienziato Doc, inventore della macchina del tempo, per il 2015 allo scopo di evitare che il futuro dei loro figli possa essere in pericolo. Ma la situazione precipita e ad essere in pericolo non è più il futuro, ma il passato. Marty dovrà tornare nuovamente nel 1955 e...",
+			"year": "1989",
+			"director": "Robert Zemeckis",
+			"genre": "Avventura, Commedia, Famiglia, Fantascienza",
+			"actors": "Michael J. Fox, Christopher Lloyd, Lea Thompson, Thomas F. Wilson, Elisabeth Shue, James Tolkan, Jeffrey Weissman, Casey Siemaszko, Billy Zane, J.J. Cohen, Charles Fleischer, E. Casanova Evans, Jay Koch, Charles Gherardi, Ricky Dean Logan, Darlene Vogel, Jason Scott Lee, Elijah Wood, John Thornton, Theo Schwartz, Lindsey Whitney Barry, Judy Ovitz, Stephanie Williams, Marty Levy, Flea, Jim Ishida, Nikki Birdsong, Al White, Junior Fann, Shaun Hunter, George Buck Flower, Neil Ross, Tamara Carrera, Tracy Dali, Jennifer Brown, Irina Cashen, Angela Greenblatt, Cameron Moore, Justin Mosley Spink, Lisa Freeman, John Erwin, Harry Waters, Jr., David Harold Brown, Tommy Thomas, Lloyd L. Tolbert, Granville 'Danny' Young, Wesley Mann, Joe Flaherty, Freddie, Crispin Glover, Todd Blood, Sean Michael Fish, Donald Fullilove, Annette May, Mary Ellen Trainor",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/68c73370e56b86c805ece4c891d0b11c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 196,
+			"title": "Ritorno al futuro - Parte III",
+            "saga": "Ritorno al futuro",
+			"plot":"Per questa terza, conclusiva, puntata della trilogia, Marty McFly è costretto a tornare indietro nel tempo fino al 1885 per salvare Doc, che vi era stato catapultato al termine del secondo capitolo. Questa volta tornare nel futuro sarà ancora più difficile.",
+			"year": "1990",
+			"director": "Robert Zemeckis",
+			"genre": "Avventura, Commedia, Fantascienza",
+			"actors": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson, Lea Thompson, Elisabeth Shue, Matt Clark, Richard Dysart, Pat Buttram, Harry Carey, Jr., Dub Taylor, James Tolkan, Marc McClure, Wendie Jo Sperber, Jeffrey Weissman, Christopher Wynne, Sean Sullivan, Mike Watson, Hugh Gillin, Burton Gilliam, Bill McKinney, Donovan Scott, Flea, J.J. Cohen, Ricky Dean Logan, Marvin J. McIntyre, Kaleb Henley, Todd Cameron Brown, Dannel Evans, Leslie A. Prickett, Dean Cundey, Jo B. Cummings, Steve McArthur, John Ickes, James A. Rammel, Michael Klastorin, Michael Mills, Kenny Myers, Brad McPeters, Phinnaes D., Rod Kuehne, Leno Fletcher, Joey Newington, Larry Ingold, Tim Konrad, Glenn Fox, Foster, Freddie, Frank Beard, Billy Gibbons, Dorothy Hack, Dusty Hill, Marion Tumen",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6101f3ba10fe68c091cca4fd0b6e0f5e"
+				}
+			]
+		}
+    ]
+}

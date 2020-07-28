@@ -1,0 +1,139 @@
+{
+    "movies_list": [
+        {
+			"tmdb_id": 1893,
+			"title": "Star Wars: Episodio I - La minaccia fantasma",
+            "saga": "Star Wars",
+			"plot":"Il regno pacifico di Naboo denuncia l'imminente invasione da parte della Lega dei Commercianti, ma la Repubblica, paralizzata dalla corruzione dilagante e dalla burocrazia del Senato, sceglie di non intervenire. Solo i Cavalieri Jedi Qui-gon Jin e Obi-wan Kenobi si recano a Naboo per proteggere la regina Amidala, in pericolo di vita, e condurla in salvo sul pianeta Tatooine. Qui i Jedi faranno la conoscenza di un bambino fuori dall'ordinario, Anakin Skywalker: Qui-gon è convinto che si tratti del Prescelto, destinato un giorno a riportare equilibrio nella Forza.",
+			"year": "1999",
+			"director": "George Lucas",
+			"genre": "Avventura, Azione, Fantascienza",
+			"actors": "Liam Neeson, Ewan McGregor, Natalie Portman, Jake Lloyd, Ian McDiarmid, Pernilla August, Oliver Ford Davies, Hugh Quarshie, Ahmed Best, Anthony Daniels, Kenny Baker, Frank Oz, Terence Stamp, Brian Blessed, Andy Secombe, Ray Park, Lewis Macleod, Warwick Davis, Steve Speirs, Silas Carson, Jerome St. John Blake, Alan Ruscoe, Ralph Brown, Celia Imrie, Benedict Taylor, Clarence Smith, Samuel L. Jackson, Dominic West, Karol Cristina da Silva, Liz Wilson, Candice Orwell, Sofia Coppola, Keira Knightley, Bronagh Gallagher, John Fensom, Greg Proops, Scott Capurro, Margaret Towner, Dhruv Chanchani, Oliver Walpole, Megan Udall, Hassani Shapi, Gin Clarke, Khan Bonfils, Michelle Taylor, Michaela Cottrell, Dipika O'Neill Joti, Phil Eason, Mark Coulier, Lindsay Duncan, Peter Serafinowicz, James Taylor, Chris Sanders, Toby Longworth, Marc Silk, Danny Wagner, Amanda Lucas, Katie Lucas, Richard Armitage, Sally Hawkins, Sacha Alexander, Simon Allen, Paul Bannon, Don Bies, Trisha Biggar, Michonne Bourriague, Douglas Bunn, Ben Burtt, Doug Chiang, Rob Coleman, Roman Coppola, Sean Cronin, Zsuzsanna Cseh, Matt Daniel-Baker, Russell Darling, Philip Delancy, Sebastian Dewing, Andrew Doucette, C. Michael Easton, Andrew Elias, John Ellis, Catherine Ernster, Salo Gardner, Andrew Gersh, Patrice Girod, Ned Gorman, Joss Gower, Raymond Griffiths, Nathan Hamill, Tim Harrington, Jack Hayes, Nifa Hindes, Nishan Hindes, Frank Huseyin, Alexi Kaye Campbell, David Knight, John Knoll, Kamay Lau, Andrew Lawden, John M. Levin, Dan Madsen, Iain McCaig, Rick McCallum, João Costa Menezes, Arnold Montey, Taylor Murphy, Jeff Olson, Lorne Peterson, Andrew Raven, Neil Riddaway, Robby the Robot, Steve Sansweet, Mike Savva, Christopher Scarabosio, Jeff Shay, Christian Simpson, Paul Martin Smith, Scott Squires, Tom Sylla, Bill Tlusty, Matthew Wood",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/65c5e9fb2b432b1b9d7e3563cbb1da83"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1894,
+			"title": "Star Wars: Episodio II - L'attacco dei cloni",
+            "saga": "Star Wars",
+			"plot":"La Repubblica governata dal cancelliere Palpatine è entrata in crisi a causa del blocco in atto sul pianeta Naboo da parte della Federazione; un gruppo di dissidenti comandato dal Jedi conte Dooku manifesta il malcontento per ciò che sta accadendo. Alcuni membri del Senato chiedono che la Repubblica venga dotata di un esercito in grado di fronteggiare la situazione. Nel frattempo Amidala - diventata Senatrice e minacciata dai separatisti - è sfuggita a un attentato: la sua protezione viene affidata a Anakin Skywalker. Nel tentativo di scoprire gli ideatori del complotto, Obi-Wan Kenobi viene a conoscenza dell'esistenza di un misterioso esercito di cloni...",
+			"year": "2002",
+			"director": "George Lucas",
+			"genre": "Avventura, Azione, Fantascienza",
+			"actors": "Hayden Christensen, Ewan McGregor, Natalie Portman, Christopher Lee, Samuel L. Jackson, Frank Oz, Ian McDiarmid, Pernilla August, Temuera Morrison, Jimmy Smits, Jack Thompson, Leeanna Walsman, Ahmed Best, Rose Byrne, Oliver Ford Davies, Ron Falk, Jay Laga'aia, Andy Secombe, Anthony Daniels, Silas Carson, Ayesha Dharker, Daniel Logan, Joel Edgerton, Bonnie Piesse, Anthony Phelan, Rena Owen, Alethea McGrath, Susie Porter, Matt Doran, Alan Ruscoe, Matt Sloan, Veronica Segura, David Bowers, Steve John Shepherd, Bodie Taylor, Matt Rowan, Steven Boyle, Zachariah Jensen, Alex Knoll, Phoebe Yiamkiati, Kenny Baker, Jerome St. John Blake, Hassani Shapi, Gin Clarke, Khan Bonfils, Michaela Cottrell, Dipika O'Neill Joti, Marton Csokas, Alfonso Sánchez, Tux Akindoyeni, Sacha Alexander, Giulio Alimenti, Amy Allen, Nicolas Anastassiou, Jason Baird, Don Bies, Jamel Boukabou, Kristen Bronson, Douglas Bunn, Caine, David John Clark, Natalie Danks-Smith, Russell Darling, Justin Dix, Eliana Dona, C. Michael Easton, Nicole Fantl, Sandi Finlay, Stephen George, Zuraya Hamilton, Emma Howard, Hilton Howson, Jesse Jensen, Fiona Johnson, Sara Elizabeth Joyce, Luke Kearney, Nalini Krishan, Gillian Libbert, Amanda Lucas, Jett Lucas, Katie Lucas, Arnold Montey, Liam Neeson, Daniel Perrott, Ian Roberts, Kyle Rowling, Joseph Jett Sally, Juan Luis Sanchez, Mike Savva, P. Kevin Scott, Zeynep Selcuk, Orli Shoshan, Richard Stride, Leonard L. Thomas, Trevor Tighe, Christopher Truswell, Ian Watkin, R. Christopher White, Matthew Wood, Jimmy Star",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/479ebd423bd03a7f7ce2418a57270a0e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1895,
+			"title": "Star Wars: Episodio III - La vendetta dei Sith",
+            "saga": "Star Wars",
+			"plot":"Tre anni dopo l'inizio della Guerra dei Cloni il lungo ed estenuante conflitto sta per giungere ad una conclusione. Obi-Wan Kenob e Anakin Skywalker stanno per avere rivelazioni sconvolgenti. Il pianeta Coruscant è sotto attacco e per mano del Generale Grievous, il loro compito è di assicurare il Generale alla giustizia, ma il Cancelliere Palpatine sta trasformando la Repubblica in un regime tirannico, nonostante l'opposizione dell'Ordine degli Jedi e di pochi senatori ancora non corrotti. Anakin, divenuto sempre più vicino al Cancelliere, nel frattempo soffre di moleste visioni a proposito della Senatrice Padme Amidala, sposata in segreto. Sin dall'inizio della Guerra dei Cloni si è andato avvicinando sempre più al Lato Oscuro della Forza, incoraggiato da Palpatine, e presto lo scontro diverrà inevitabile. Obi-Wan Kenobi non avrà altra scelta che confrontarsi col suo antico apprendista in una battaglia mentre si affaccia un nuovo conflitto che determinerà il destino della Galassia.",
+			"year": "2005",
+			"director": "George Lucas",
+			"genre": "Fantascienza, Avventura, Azione",
+			"actors": "Hayden Christensen, Ewan McGregor, Natalie Portman, Ian McDiarmid, Samuel L. Jackson, Jimmy Smits, Frank Oz, Anthony Daniels, Christopher Lee, Keisha Castle-Hughes, Silas Carson, Jay Laga'aia, Bruce Spence, Wayne Pygram, Temuera Morrison, David Bowers, Oliver Ford Davies, Ahmed Best, Rohan Nichol, Jeremy Bulloch, Amanda Lucas, Kenny Baker, Matt Sloan, Peter Mayhew, Rebecca Jackson Mendoza, Joel Edgerton, Bonnie Piesse, Jett Lucas, Tux Akindoyeni, Matt Rowan, Kenji Oates, Amy Allen, Bodie Taylor, Graeme Blundell, Trisha Noble, Claudia Karvan, Keira Wingate, Hayley Mooy, Sandi Finlay, Katie Lucas, Genevieve O'Reilly, Warren Owens, Kee Chan, Rena Owen, Christopher Kirby, Matthew Wood, Kristy Wright, Coinneach Alexander, Mousy McCallum, Michael Kingma, Axel Dench, Steven Foy, Julian Khazzouh, James Rowland, David Stiff, Robert Cope, George Lucas, Nick Gillard, Aidan Barton, James Earl Jones, Ben Cooke, David Acord, Paul Bateman, Ross Beadman, Jerome St. John Blake, Robert M. Bouffard, Jill Brooks, Gene Bryant, Josh Canning, Dominique Chionchio, Rob Coleman, Fay David, Paul Davies, Caroline de Souza Correa, Eliana Dona, Malcolm Eager, Nina Fallon, Lawrence Foster, Tim Gibbons, Roger Guyett, Chantal Harrison, Philip Harvey, Pablo Hidalgo, Ali Keshavji, Shaun R.L. King, Goran D. Kleut, John Knoll, Gervais Koffi, John M. Levin, Janet Lewin, Bai Ling, Dean Mitchell, Arnold Montey, Paul James Nicholson, Blake Nickle, Denise Ream, Anthony Reyna, Christopher Rodriguez, Hamish Roxburgh, Mike Savva, Jacqui Louez Schoorl, Lisa Shaunessy, Orli Shoshan, John Sigurdson, Christian Simpson, Paul Spence, Jimmy Star, Suzie Steen, Richard Stride, Marty Wetherill, Aaliyah Williams, Masa Yamaguchi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e4d42fc7b79279c1f21c1afbb89959b8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 11,
+			"title": "Guerre stellari",
+            "saga": "Star Wars",
+			"plot":"In un lontano Impero Galattico è in atto una rivolta contro i suoi dispotici capi, tra i quali il più cattivo è Lord Darth Vader. Prima di cadere nelle sue mani, la principessa Leila Organa, rappresentante dei ribelli, riesce ad affidare a due robot i piani della \"Morte Nera\" - la potentissima base spaziale di Darth Vader, capace di disintegrare un intero pianeta - e un appello al vecchio generale Obi-Wan Kenobi, che abita sul pianeta Tatooine, perché accorra in aiuto dei rivoltosi. Il messaggio viene raccolto dal giovane Luke Skywalker che, rintracciato Obi Wan Kenobi, parte con lui in soccorso della principessa a bordo di un'astronave guidata dal mercenario Han Solo e dal suo secondo Chewbacca.",
+			"year": "1977",
+			"director": "George Lucas",
+			"genre": "Avventura, Azione, Fantascienza",
+			"actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing, Alec Guinness, Anthony Daniels, Kenny Baker, Peter Mayhew, David Prowse, James Earl Jones, Phil Brown, Shelagh Fraser, Jack Purvis, Alex McCrindle, Eddie Byrne, Drewe Henley, Denis Lawson, Garrick Hagon, Jack Klaff, William Hootkins, Angus MacInnes, Jeremy Sinden, Graham Ashley, Don Henderson, Richard LeParmentier, Leslie Schofield, Michael Leader, David Ankrum, Scott Beach, Lightning Bear, Jon Berg, Doug Beswick, Paul Blake, Janice Burchette, Ted Burnett, John Chapman, Gilda Cohen, Tim Condren, Barry Copping, Alfie Curtis, Robert Davies, Maria De Aragon, Robert A. Denham, Frazer Diamond, Peter Diamond, Warwick Diamond, Sadie Eden, Kim Falkinburg, Harry Fielder, Ted Gagliano, Salo Gardner, Steve Gawley, Barry Gnome, Rusty Goffe, Isaac Grand, Reg Harding, Alan Harris, Frank Henson, Christine Hewett, Arthur Howell, Tommy Ilsley, Joe Johnston, Annette Jones, Linda Jones, Joe Kaye, Colin Michael Kitchens, Melissa Kurtz, Tiffany L. Kurtz, Al Lampert, Anthony Lang, Laine Liska, Derek Lyons, Mahjoub, Alf Mangan, Grant McCune, Geoffrey Moon, Mandy Morton, Lorne Peterson, Marcus Powell, Shane Rimmer, Pam Rose, George Roubicek, Erica Simmons, Angela Staines, George Stock, Roy Straite, Peter Sturgeon, Peter Sumner, John Sylla, Tom Sylla, Malcolm Tierney, Phil Tippett, Burnell Tucker, Morgan Upton, Jerry Walter, Hal Wamsley, Larry Ward, Diana Sadley Way, Bill Weston, Fred Wood, Colin Higgins, Ron Tarr, Anthony Forrest, Frances Alfred Basil Tomlin",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/edab97fe7318647b3dfec8bbc8c4af42"
+				}
+			]
+		},
+		{
+			"tmdb_id": 181812,
+			"title": "Star Wars: L'ascesa di Skywalker",
+            "saga": "Star Wars",
+			"plot":"La resistenza è ridotta a poche unità, il primo ordine dilaga sotto il comando del leader supremo Kylo Ren, ma un messaggio ha turbato la galassia. L'imperatore Palpatine giura vendetta! Ren si mette così alla ricerca dell'origine della trasmissione e arriva a confrontarsi con Palpatine, che gli offre una spaventosa flotta se saprà eliminare la ragazza Jedi, Rey. Questa combatte e si addestra seguendo gli insegnamenti del generale Organa, mentre Finn, Poe e Chewbacca ricevono messaggi da una spia nel Primo Ordine.",
+			"year": "2019",
+			"director": "J.J. Abrams",
+			"genre": "Azione, Avventura, Fantascienza",
+			"actors": "Carrie Fisher, Mark Hamill, Daisy Ridley, Adam Driver, John Boyega, Oscar Isaac, Anthony Daniels, Naomi Ackie, Domhnall Gleeson, Richard E. Grant, Lupita Nyong'o, Keri Russell, Joonas Suotamo, Kelly Marie Tran, Ian McDiarmid, Billy Dee Williams, Greg Grunberg, Shirley Henderson, Billie Lourd, Dominic Monaghan, Hassan Taj, Lee Towersey, Brian Herring, Dave Chapman, Richard Guiver, Lynn Robertson Bruce, J.J. Abrams, Claire Roi Harvey, Richard Coombs, Matt Denton, Nick Kellington, Mandeep Dhillon, Alison Rose, Amanda Lawrence, Tanya Moodie, Simon Paisley Day, Geff Francis, Amanda Hale, Amir El-Masry, Aidan Cook, Patrick Williams, Martin Wilde, Anton Simpson-Tidy, Lukaz Leong, Tom Rodgers, Joe Kennard, Ashley Beck, Bryony Miller, Cyril Nri, Angela Christian, Indra Ové, Richard Bremmer, Richard Durden, Andrew Havill, Nasser Memarzia, Patrick Kennedy, Aaron Neil, Joe Hewetson, Raghad Chaar, Mimi Ndiweni, Tom Wilton, Chris Terrio, Kiran Shah, Debra Wilson, Josef Altin, Vinette Robinson, Mike Quinn, Bill Kipsang Rotich, Ann Firbank, Diana Kent, Warwick Davis, Harrison Davis, Elliot Hawkes, Philicia Saunders, John Williams, Nigel Godrich, Dhani Harrison, J.D. Dillard, Dave Hearn, Rochenda Sandall, Jacob Fortune-Lloyd, Andreea Diac, Liam Cook, Denis Lawson, Carolyn Hennesy, Paul Kasey, Matthew Wood, James Earl Jones, Andy Serkis, Josefine Irrera Jackson, Cailey Fleming, Jodie Comer, Billy Howle, Hayden Christensen, Olivia d'Abo, Ashley Eckstein, Jennifer Hale, Samuel L. Jackson, Ewan McGregor, Alec Guinness, Frank Oz, Angelique Perrin, Freddie Prinze Jr., Liam Neeson, Harrison Ford, Lin-Manuel Miranda, Ed Sheeran, Gerald W. Abrams, Kadrolsha Ona Carole, Jeff Garlin, Kevin Smith, Jimmy Star",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e3eeeaf3e70097b58b76de571289f4c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1891,
+			"title": "L'Impero colpisce ancora",
+            "saga": "Star Wars",
+			"plot":"Malgrado la Morte Nera sia stata distrutta, le truppe imperiali si sono impadronite nuovamente di Yavin. I ribelli si sono rifugiati sul pianeta di ghiaccio, ma sono costretti ancora alla fuga. Ian Solo (Han Solo nome originale), la principessa Leia e il droide D3BO (C-3PO), seminano gli inseguitori, mentre Luke, assieme al fido C1P8 (R2-D2) , si reca dal maestro jedi Yoda, sul pianeta Dogabahd, per ritrovare la \"Forza\". Nel tentativo di liberare Leila e gli amici, incontra poi Darth Vader, che si rivela essere suo padre. Seconda puntata (ma in realtà è la quinta) della saga di \"Guerre stellari\", con parecchie allusioni al celebre ciclo narrativo dei cavalieri bretoni: abbastanza evidente il parallelo tra Luke alla ricerca della \"forza\" e Parsifal.",
+			"year": "1980",
+			"director": "Irvin Kershner",
+			"genre": "Avventura, Azione, Fantascienza",
+			"actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, David Prowse, James Earl Jones, Peter Mayhew, Kenny Baker, Frank Oz, Alec Guinness, Jeremy Bulloch, Jason Wingreen, John Hollis, Jack Purvis, Des Webb, Kathryn Mullen, Marjorie Eaton, Clive Revill, Kenneth Colley, Julian Glover, Michael Sheard, Michael Culver, John Dicks, Milton Johns, Mark Jones, Oliver Maguire, Robin Scobey, Bruce Boa, Christopher Malcolm, Denis Lawson, Richard Oldfield, John Morton, Ian Liston, John Ratzenberger, Jack McKenzie, Jerry Harte, Norman Chancer, Norwich Duff, Ray Hassett, Brigitte Kahn, Burnell Tucker, Wendy Froud, Bob Anderson, Lightning Bear, Richard Bonehill, John Cannon, Mark Capri, Martin Dew, Peter Diamond, Stuart Fell, Doug Robinson, Tony Smart, Alan Harris, Tiffany L. Kurtz, Mac McDonald, Ralph McQuarrie, Ralph Morse, Terry Richards, Michael Santiago, Treat Williams, Shaun Curry, Alan Austen, Jim Dowdall, Ian Durrant, Tom Egeland, Alan Flyng, Chris Parsons, Trevor Butterfield, Christopher Bunn, Quentin Pierre, Keith Swaden, Howie Weed, Morris Bush, Ian McDiarmid, Stephen Buchanan, Mercedes Burleigh, Jane Busby, Maurice Bush, Tony Clarkin, Mike Edmonds, Stephanie English, Tom Flood, Walter Henry, Paul Jerricho, Joe Johnston, Paul Klein, Steven Meek, Cathy Munroe, Peter Roy, David Stone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ab7ca357c0cc42f8873c36f5f242ac7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1892,
+			"title": "Il ritorno dello Jedi",
+            "saga": "Star Wars",
+			"plot":"Mentre gli Imperiali sono impegnati nella costruzione di una nuova e indistruttibile Morte Nera, Luke Skywalker diventato finalmente un cavaliere jedi, la principessa Leila, Chewbacca e i due droidi D3BO (C-3PO nome originale) e C1P8 (R2-D2 nome originale) cercano di liberare Ian Solo (Han Solo nome originale), che è prigioniero del criminale intergalattico Jabba.Per poi affronta il crudele alfiere del male Lord Vader (Darth Vader nome originale), scoprendo che gli è padre e che la principessa Leia è sua sorella, ma l'insurrezione non ha successo e Luke viene catturato dell'imperatore, che cerca di portare il giovane dalla sua parte. Terzo (o meglio sesto) e ultimo episodio della saga ideata da George Lucas.",
+			"year": "1983",
+			"director": "Richard Marquand",
+			"genre": "Avventura, Azione, Fantascienza",
+			"actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams, Anthony Daniels, Peter Mayhew, Sebastian Shaw, Ian McDiarmid, Frank Oz, James Earl Jones, David Prowse, Alec Guinness, Kenny Baker, Michael Pennington, Kenneth Colley, Michael Carter, Denis Lawson, Tim Rose, Dermot Crowley, Caroline Blakiston, Warwick Davis, Jeremy Bulloch, Femi Taylor, Annie Arbogast, Claire Davenport, Jack Purvis, Mike Edmonds, Jane Busby, Malcolm Dixon, Mike Cottrell, Nicki Reade, Adam Bareham, Jonathan Oliver, Pip Miller, Tom Mannion, Margo Apostolos, Ray Armstrong, Eileen Baker, Michael Henbury Ballan, Bobby Bell, Patty Bell, Alan Bennett, Sarah Bennett, Pamela Betts, Danny Blackner, Linda Bowley, Peter Burroughs, Debbie Lee Carrington, Maureen Charlton, Willie Coppen, Sadie Corre, Tony Cox, John Cumming, Jean D'Agostino, Luis De Jesus, Debbie Dixon, Margarita Fernández, Phil Fondacaro, Sal Fondacaro, Tony Friel, Daniel Frishman, John Ghavan, Michael Gilden, Paul Grant, Lydia Green, Lars Green, Pam Grizz, Andrew Herd, J.J. Jackson, Richard Jones, Trevor Jones, Glynn Jones, Karen Lay, John Lummiss, Nancy MacLean, Peter Mandell, Carole Morris, Stacie Nichols, Chris Nunn, Barbara O'Laughlin, Brian Orenstein, Harrell Parker Jr., John Pedrick, April Perkins, Ronnie Phillips, Katie Purvis, Carol Read, Nicholas Read, Diana Reynolds, Danielle Rodgers, Chris Romano, Dean Shackelford, Kiran Shah, Felix Silla, Linda Spriggs, Gerald Staddon, Josephine Staddon, Kevin Thompson, Kendra Wall, Brian Wheeler, Butch Wilhelm, Mark Dodson, Simon J. Williamson, Richard Bonehill, David Gonzales, Barrie Holland, Peter Roy, Erik Bauersfeld, Mike Quinn, Bill Kipsang Rotich, Deep Roy, Alisa Berk, Hugh Spight, Swee Lim, Richard Robinson, Gerald Home, Phil Herbert, Tim Dry, Sean Crawford, Phil Tippett, Michael McCormick, Toby Philpott, David Alan Barclay, Larry Ward, Jasper Jacob, Peter Allen, John Altman, Glyn Baker, Dickey Beer, Ailsa Berk, Don Bies, Paul Brooke, Ben Burtt, Maurice Bush, Trevor Butterfield, Vivienne Chandler, Tony Clarkin, Kenneth Coombs, Andy Cunningham, Peter Diamond, Richard Driscoll, Ian Durrant, Douglas Farrell, Alan Flyng, Ernie Fosselius, Stuart Fox, Isaac Grand, Gordon Hann, Alan Harris, Walter Henry, Philip Herbert, Larry Holt, William Hoyland, Colin Hunt, Monty Jordan, Michael Josephs, Eiji Kusuhara, Anthony Lang, Arnold Lee, Julius LeFlore, John Maloney, Paul Markham, Richard Marquand, Hilton McRae, Billy J. Mitchell, Amanda Noar, Quentin Pierre, Terry Sach, Errol Shaker, Paul Springer, Guy Standeven, Michael Stevens, David Stone, Jules Walters, Robert Watts, Pat Welsh, Paul Weston, Corey Dee Williams",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/73bd92d57ad4e28771eaa49c64775a28"
+				}
+			]
+		},
+		{
+			"tmdb_id": 140607,
+			"title": "Star Wars: Il risveglio della Forza",
+            "saga": "Star Wars",
+			"plot":"Sono trascorsi circa trent'anni dalla caduta dell'Impero. L'indipendente e solitaria Riley (Daisy Ridley), il soldato pentito Finn (John Boyega) e il pilota di caccia Poe (Oscar Isaac), danno inizio a una nuova grande avventura contro i cattivi dediti al Lato Oscuro della Forza, tra cui il minaccioso Kylo Ren (Adam Driver). Lungo la strada incontreranno nuovi amici, nemici e volti noti, come quello di Ian Solo (Harrison Ford) e della principessa Leila (Carrie Fisher), divenuta un generale.",
+			"year": "2015",
+			"director": "J.J. Abrams",
+			"genre": "Azione, Avventura, Fantascienza, Fantasy",
+			"actors": "Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Lupita Nyong'o, Andy Serkis, Domhnall Gleeson, Anthony Daniels, Max von Sydow, Peter Mayhew, Gwendoline Christie, Joonas Suotamo, Pip Andersen, Simon Pegg, Kiran Shah, Sasha Frost, Pip Torrens, Andrew Jack, Rocky Marshall, Greg Grunberg, Emun Elliott, Brian Vernel, Yayan Ruhian, Sebastian Armesto, Maisie Richardson-Sellers, Warwick Davis, Cailey Fleming, Mark Stanley, Ken Leung, Iko Uwais, Anna Brewster, Harriet Walter, Tim Rose, Erik Bauersfeld, Mike Quinn, Bill Kipsang Rotich, Michael Giacchino, Nigel Godrich, Judah Friedlander, Victor McGuire, Miltos Yerolemou, Billie Lourd, Leanne Best, Crystal Clarke, Jeffery Kissoon, Claudia Sermbezis, Gerald W. Abrams, Jim McGrath, Philicia Saunders, Morgan Dameron, Jessica Henwick, Tosin Cole, James McArdle, Stefan Grube, Dixie Arnold, Hannah John-Kamen, Kate Fleetwood, Thomas Brodie-Sangster, Brian Herring, Dave Chapman, Jimmy Vee, Cecep Arif Rahman, Ian Whyte, Daniel Craig, Ewan McGregor, Frank Oz, Alec Guinness, Tom Kane, Catherine Taber, Matthew Wood, Samuel Witwer, Meredith Salenger, James Arnold Taylor, Michael Donovan, Devon Libran, Robert Stambler, Verona Blue, Fred Tatasciore, Patrick Correll, Karen Huie, Orly Schuchmacher, Ben Schwartz, Mark Dodson, Liang Yang, David Acord, Jamie B. Chambers, David M. Santana, Francesca Longrigg, D.C. Barns, Tom Edden, Richard Riddell, Jefferson Hall, Jack Laskey, Christina Chong, Daniel Adjei, Charlie Akin, Adrian Allan, Samantha Alleyne, Paul Biddiss, Hannah Blamires, Rony Bridges, Dante Briggins, Stuart Budd, Joe Cash, Calvin Chen, Alan Chimes, Jamie Clay, Bern Collaço, David W. Collins, Cavin Cornwall, Rowan Cox, Nathalie Cuzner, Rimmel Daniel, Keith De'Winter, Adrian Derrick-Palmer, Michael Dickins, Nick Donald, Cameron Edwards, Mick Fryer-Kelsey, Jesse Michael Fullington, Gloria García, Salo Gardner, Caroline Garnell, Chris Geden, Clare Glass, Versha Grant, Steven James Griffiths, Gary Hailes, Tim Hammersley, Chris Hastings, Marina Hayter, Kelvin Hewlett, Matthew Hobbs, Phil Hodges, Leigh Holland, Kevin Hudson, Phoenix James, Zander James, Tobias James-Samuels, Paul Kasey, Aaron Kennedy, Aidan Knight, Sanj Krishnan, Lukas Landau, Andrei Lenart, Jorge Leon Martinez, Mickey Lewis, Julia Leyland, Billy James Machin, Hamza Malik, Raymond Mamrak, Kelsey Edwards, Kenny-Lee Mbanefo, David McCarrison, Sandeep Mohan, Arnold Montey, Benjayx Murphy, Robert Nairne, Charlie Nevett, Jason Nicholls, Terry Noble, David Norfolk, Tatsujiro Oto, Gillian Pittaway, Nathan Plant, Elroy Powell, Jay Rincon, Marc Rolfe, Julio Romeo, Mark Flynn Rutter, Arti Shah, Kat Sheridan, Stephanie Silva, Jasper Skinner, Sandy Kate Slade, Clem So, Benito Sovrano, Karol Steele, Sternkiker François, Frank Stone, Andy Sweet, Peter Theobalds, Pablo Verdejo, Ashley Ward, Paul Warren, Topo Wresniwiro, Joshua Ásberg, Bill Hader, Ben Schwartz",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6f78c6471fa5d20ba4ac99f7581ea52c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 181808,
+			"title": "Star Wars: Gli ultimi Jedi",
+            "saga": "Star Wars",
+			"plot":"Mentre il Primo Ordine si prepara a stroncare quel che resta della Resistenza, Rey consegna a Luke Skywalker la spada laser che fu sua, invitandolo a interrompere il suo esilio per salvare il mondo libero. Ma Luke non ne vuole sapere e il Lato Oscuro tesse la sua trama letale attorno agli ultimi ribelli.",
+			"year": "2017",
+			"director": "Rian Johnson",
+			"genre": "Fantascienza, Azione, Avventura",
+			"actors": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, John Boyega, Oscar Isaac, Andy Serkis, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Gwendoline Christie, Kelly Marie Tran, Laura Dern, Benicio del Toro, Frank Oz, Billie Lourd, Joonas Suotamo, Amanda Lawrence, Jimmy Vee, Brian Herring, Dave Chapman, Justin Theroux, Tim Rose, Tom Kane, Adrian Edmondson, Mark Lewis Jones, Hermione Corfield, Van Veronica Ngo, Noah Segan, Jamie Christopher, Paul Kasey, Michaela Coel, Priyanga Burford, Navin Chowdhry, Crystal Clarke, Hugh Skinner, Shauna Macdonald, Kate Dickie, Ralph Ineson, Michael Jibson, Luke Neal, Andy Nyman, Lily Cole, Warwick Davis, Kiran Shah, Joseph Gordon-Levitt, Mike Quinn, Gareth Edwards, Gary Barlow, Peter Mayhew, Edgar Wright, Joe Cornish, Griffin Hamill, Nathan Hamill, Chelsea Hamill, Liang Yang, Bern Collaço, David M. Santana, Andrew Jack, Jonathan Harden, Danny Euston, Aki Omoshaybi, Togo Igawa, Tim Steed, Simon Lowe, Joe Van Moyland, Darren Morfitt, Gerard Monaco, Patrick O'Kane, Paul Bazely, Orion Lee, Amira Ghazalla, Akshay Kumar, Temirlan Blaev, Josiah Oniha, Sara Heller, Matthew Sharp, Jack Greenlees, Danny Sapani, Kevin Layne, Ben Morris, Andrew Abbott, Chris Adams, Samantha Alleyne, Martin Bratanov, Dante Briggins, Glen Carroll, Cavin Cornwall, James Cox, Nick Donald, Steve Doyle, Josh Dyer, Karl Farrer, James Filanowski, David R. Grant, Omar Gudjonsson, Craig Izzard, Christopher Jaciow, Tobias James-Samuels, Dan Lam, Mickey Lewis, Antonio Lujak, Josh Methven, Sandeep Mohan, Ross Moneypenny, Florian Robin, Scott Tanner, Stephanie Silva, Clem So, Leo Thompson, Andy Wareham, Dean Weir, William Willoughby, Oscar Wright, Karanja Yorke",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/386348d2b8fe78c1662395fd95ee133b"
+				}
+			]
+		}
+    ]
+}
