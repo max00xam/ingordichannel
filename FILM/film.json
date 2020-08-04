@@ -67,6 +67,36 @@
             "url": "/FILM/saghe/star_list.json"
         },
         {
+            "plot": "I film della trilogia sono L'alba dei morti dementi, una commedia romantica con zombie, Hot Fuzz, una commedia poliziesca, e La fine del mondo, un film di commedia fantascientifica.[2][3][4][5] Non c'è continuità tra i tre, ma in ogni film compare un cornetto di uno specifico sapore: in L'alba dei morti dementi il cornetto è al sapore di fragola, dal colore rosso vivace, correlato agli elementi sanguinosi e cruenti del film; in Hot Fuzz vi è il cornetto blu originale, per indicare l'elemento poliziesco; in La fine del mondo il cornetto rappresentativo è alla menta con granella di cioccolato, dal colore verde-marrone, per indicare l'elemento fantascientifico. Durante la promozione di Hot Fuzz in un'intervista è stato fatto notare che il cornetto è l'elemento di unione con il precedente film ed è stato chiesto al regista se avrebbe fatto una trilogia; alla domanda Wright ha risposto che sarebbe stata come la trilogia Tre colori di Krzysztof Kieślowski, ma con i cornetti.[8] Il cornetto non è l'unico elemento ricorrente nella trilogia: diverse gag si presentano in vari modi nei tre film, come ad esempio il saltare una staccionata, il bere al pub, la presenza dei videogiochi al pub e le coppie di gemelli.[9][10] Simon Pegg, Nick Frost, Martin Freeman, Bill Nighy, Rafe Spall, Julia Deakin e Patricia Franklin sono gli attori che hanno lavorato in tutti e tre i film della trilogia (Nighy solo come voce in La fine del mondo).",
+            "title": "La Trilogia del Cornetto",
+            "saga": "La Trilogia del Cornetto",
+            "url": "/FILM/saghe/cornetto_list.json"
+        },
+        {
+            "plot": "I film di Fantozzi, sia pur con una profonda ironia, hanno anticipato le tematiche del mobbing nelle grandi aziende, hanno fatto entrare nel bagaglio lessicale dell'italiano medio espressioni quali \"Com'è umano, Lei!\", oltre all'aggettivo \"fantozziano\", registrato in tutti i dizionari italiani e all'espressione \"alla Fantozzi\", locuzioni sorte per indicare esperienze, atteggiamenti o situazioni permeate dall'aria tragicomica propria del personaggio.",
+            "title": "Fantozzi",
+            "saga": "Fantozzi",
+            "url": "/FILM/saghe/fantozzi_list.json"
+        },
+        {
+            "plot": "Popolare saga cinematografica basata sulle corse clandestine a bordo di superbolidi e su rocamboleschi “colpi”, in cui un ricco bottino viene rubato tramite spettacolari azioni al limite. Protagonisti della serie Brian O’Conner, interpretato dal compianto Paul Walker e Dominic Toretto, interpretato da Vin Diesel.",
+            "title": "Fast & Furious",
+            "saga": "Fast & Furious",
+            "url": "/FILM/saghe/fast_list.json"
+        },
+        {
+            "plot": "I Terminator sono cyborg, androidi o semplici robot, ideati dall'intelligenza artificiale Skynet, un supercomputer che acquista autocoscienza e si pone come obiettivo la distruzione del genere umano usando le stesse armi create dall'uomo per la propria difesa. Per annientare il leader della resistenza umana, skynet manda indietro nel tempo dei Terminator con lo scopo di eliminarlo cambiando il corso della storia.",
+            "title": "Terminator",
+            "saga": "Terminator",
+            "url": "/FILM/saghe/terminator_list.json"
+        },
+        {
+            "plot": "I film di Twilight sono una serie di vampiri fantasy romantici basati sulla serie di romanzi di Stephenie Meyer.",
+            "title": "Twilight",
+            "saga": "Twilight",
+            "url": "/FILM/saghe/twilight_list.json"
+        },
+        {
             "plot": "",
             "title": "",
             "saga": "",

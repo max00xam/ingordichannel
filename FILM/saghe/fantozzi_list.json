@@ -1,0 +1,34 @@
+{
+    "movies_list": [
+        {
+			"saga": "Fantozzi",
+			"tmdb_id": 41668,
+			"title": "Fantozzi - Il ritorno",
+			"plot": "Abbiamo lasciato Fantozzi in Paradiso, ma i suoi guai non sono finiti lì. In Paradiso, infatti, c'è sovrapopolazione e ovviamente a farne le spese sarà proprio il ragioniere più famoso d'Italia. Tornato sulla Terra, riprende il tran-tran di sempre, con alcune conferme (i compagni d'ufficio) e qualche novità, naturalmente non piacevole. La nipote Uga viene rapita e costringe Fantozzi ad addentrarsi in uno sconosciuto e degradato mondo giovanile. La moda delle chat-line lo contagia al punto di innamorarsi perdutamente di una telefonista che scopre essere la Pina. La signorina Silvani lo accusa di averla messa incinta, mentre il megapresidente lo coinvolge in un processo per corruzione.",
+			"year": "1996",
+			"director": "Neri Parenti",
+			"genre": "Commedia",
+			"actors": "Paolo Villaggio, Milena Vukotić, Gigi Reder, Maria Cristina Maccà, Maurizio Mattioli, Anna Mazzamauro, Antonio Allocca, Sergio Gibello, Paolo Paoloni, Nello Riviè, Fabio Traversa, Mauro Vestri, Walter Nudo, Angelo Bernabucci, Gianni Franco, Éva Henger, Neri Parenti, Big Jimmy, Tony Brennero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9847f6c448026b49fd61317701342751"
+				}
+			]
+		},
+		{
+			"saga": "Fantozzi",
+			"tmdb_id": 26285,
+			"title": "Fantozzi subisce ancora",
+			"plot": "Continua il calvario del ragionier Ugo Fantozzi, impiegato di concetto (frustrato e brutalizzato) in una multinazionale. Dopo una faticosa giornata d'ufficio, alle prese con i soliti problemi e schiavizzato, come al solito, dai colleghi, il povero ragionier Fantozzi deve subire anche una catastrofica riunione di condominio. Parte quindi per una gita con la famiglia a bordo di un incredibile camper. Al ritorno scopre che la sua bruttissima figlia, sedotta e abbandonata, è incinta.",
+			"year": "1983",
+			"director": "Neri Parenti",
+			"genre": "Commedia",
+			"actors": "Paolo Villaggio, Milena Vukotić, Plinio Fernando, Gigi Reder, Anna Mazzamauro, Riccardo Garrone, Ugo Bologna, Mario Pedone, Camillo Milli, Ennio Antonelli, Marina Hedman, Michele Mirabella, Alessandro Haber, Andrea Roncato, Antonio Allocca, Clara Colosimo, Graziella Polesinanti, Stefano Antonucci, Giulio Massimini, Antonio Francioni, Carlo Colombo, Giulio Farnese",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/84fa1054508a60a7440fbe5be6f9d8a9"
+				}
+			]
+		}
+    ]
+}

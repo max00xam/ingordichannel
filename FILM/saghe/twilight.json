@@ -1,0 +1,59 @@
+{
+    "movies_list": [
+        {
+            "saga": "Twilight",
+			"tmdb_id": 50620,
+			"title": "The Twilight Saga: Breaking Dawn - Parte 2",
+			"plot": "Bella si sveglia trasformata. Ora è madre e vampiro. Il suo autocontrollo è stupefacente, così come la sua forza fisica. Per paradossale che sia, non si è mai sentita più viva. Deve, però, fare i conti con l'imprinting di Jacob su sua figlia Renesmee e rimandare quelli con Charlie, che chiede spiegazioni che non può avere. Ma il vero pericolo arriva quando la piccola viene scambiata per una bambina immortale, ovvero un'umana trasformata, troppo pericolosa per essere lasciata in vita, a causa della sete da neonato e dell'incapacità di mantenere la segretezza. La notizia, sebbene menzognera, giunge ai Volturi, che raccolgono le forze per sbarazzarsi per sempre del clan dei Cullen.",
+			"year": "2012",
+			"director": "Bill Condon",
+			"genre": ["Avventura", "Fantasy", "Dramma", "Romance"],
+			"actors": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Peter Facinelli", "Elizabeth Reaser", "Ashley Greene", "Jackson Rathbone", "Nikki Reed", "Kellan Lutz", "Billy Burke", "Dakota Fanning", "Jamie Campbell Bower", "Maggie Grace", "Mackenzie Foy", "Michael Sheen", "Cameron Bright", "Chaske Spencer", "MyAnna Buring", "Christopher Heyerdahl", "Julia Jones", "Booboo Stewart", "Andrea Powell", "Christian Camargo", "Daniel Cudmore", "Guri Weinberg", "Lee Pace", "Rami Malek", "Casey LaBow", "Joe Anderson", "Angela Sarafyan", "Valorie Curry", "Noel Fisher", "Tyson Houseman", "Lateef Crowder", "Charlie Bewley", "Billy Wagenseller", "Mía Maestro", "Wendell Pierce", "Omar Metwally", "Andrea Gabriel", "Judi Shekoni", "Tracey Heggins", "Patrick Brennan", "Marlane Barnes", "Toni Trucks", "Erik Odom", "Amadou Ly", "Janelle Froehlich", "Masami Kosaka", "Alex Rice", "Marisa Quinn", "Bill Tangradi", "J. D. Pardo", "Lisa Howard", "Jimmy Star"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc1f44ee66cb1b483da80f56a53c2db6"
+				}
+			]
+		},
+		{
+            "saga": "Twilight",
+			"tmdb_id": 24021,
+			"title": "The Twilight Saga: Eclipse",
+			"plot": "Una serie di omicidi, sparizioni e misteriose disgrazie scuote Seattle e minaccia Forks. I Cullen comprendono in fretta che si tratta di un esercito di NeoNati della loro specie: vampiri da poco trasformati, assetati di sangue, violenti e indomabili. Mentre si domanda chi abbia voluto tutto questo e perché, Bella deve anche fronteggiare l'imminenza del diploma e soprattutto della scelta che ha fatto, una scelta irreversibile, decisa per amore di Edward ma osteggiata dal suo migliore amico, Jacob, che ha promesso di lottare fino all'ultimo per farle cambiare idea. La minaccia esterna impone un'alleanza tra vampiri e licantropi, ma della guerra interna al cuore di Bella può decidere solo lei.",
+			"year": "2010",
+			"director": "David Slade",
+			"genre": ["Avventura", "Fantasy", "Dramma", "Romance"],
+			"actors": ["Kristen Stewart", "Taylor Lautner", "Robert Pattinson", "Ashley Greene", "Peter Facinelli", "Billy Burke", "Elizabeth Reaser", "Nikki Reed", "Kellan Lutz", "Jackson Rathbone", "Gil Birmingham", "Anna Kendrick", "Michael Welch", "Christian Serratos", "Bryce Dallas Howard", "Justin Chon", "Xavier Samuel", "Dakota Fanning", "Sarah Clarke", "Cameron Bright", "Booboo Stewart", "Julia Jones", "Chaske Spencer", "Jodelle Ferland", "Tyson Houseman", "Alex Meraz", "Kiowa Gordon", "Bronson Pelletier", "Tinsel Korey", "Catalina Sandino Moreno", "Kirsten Zien", "Jack Huston", "Daniel Cudmore", "Charlie Bewley", "Leah Gibson", "Alex Rice", "Ben Geldreich", "Paul Jarrett", "Iris Quinn", "Byron Chief-Moon", "Mariel Belanger", "Cainan Wiebe", "Jimmy Star"],
+			"links": [
+				{
+                    "url": "http://51.77.159.233:30299/5c7b3b2e3786a5d7da43fed817120a3d",
+                    "quality": "HD - CD1"
+                },
+                {
+                    "url": "http://51.77.159.233:30299/8262aa564fb44e236f33a11a9ccbbe4e",
+                    "quality": "HD - CD2"
+				}
+			]
+		},
+		{
+            "saga": "Twilight",
+			"tmdb_id": 18239,
+			"title": "The Twilight Saga: New Moon",
+			"plot": "Bella Swan partecipa alla festa per il suo diciottesimo compleanno organizzata in casa della famiglia di Edward Cullen, il vampiro eternamente diciassettenne di cui si è innamorata. Aprendo un regalo si ferisce accidentalmente con la carta del pacco, scatenando la sete incontrollabile di Jasper e la sua reazione violenta. Edward interviene per proteggerla dall'attacco e si rende conto che per Bella, lui e la sua famiglia sono una fonte perenne di pericolo. Così i Cullen decidono di lasciare Forks e Bella, nella speranza che la ragazza lo dimentichi. Bella cade in una profonda depressione. Dopo circa sei mesi, Bella esce da questa crisi ma solo parzialmente grazie all'amicizia di Jacob Black. Questa amicizia viene presto messa in crisi da un nuovo segreto: Jacob Black sviluppa il gene del licantropo, nemici naturali dei vampiri.",
+			"year": "2009",
+			"director": "Chris Weitz",
+			"genre": ["Avventura", "Fantasy", "Dramma", "Romance"],
+			"actors": ["Kristen Stewart", "Robert Pattinson", "Taylor Lautner", "Billy Burke", "Peter Facinelli", "Ashley Greene", "Jackson Rathbone", "Elizabeth Reaser", "Nikki Reed", "Kellan Lutz", "Edi Gathegi", "Rachelle Lefevre", "Anna Kendrick", "Michael Welch", "Christian Serratos", "Gil Birmingham", "Graham Greene", "Michael Sheen", "Jamie Campbell Bower", "Dakota Fanning", "Christopher Heyerdahl", "Cameron Bright", "Justin Chon", "Tyson Houseman", "Daniel Cudmore", "Charlie Bewley", "Kiowa Gordon", "Alex Meraz", "Bronson Pelletier", "Tinsel Korey", "Justine Wachsberger", "Noot Seear", "Chaske Spencer", "Russell Roberts", "Adrien Dorval", "Michael Adamthwaite", "Christina Jastrzembska", "Jimmy Star"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/123f3af09c48c1eecb1d29cd12c00d86",
+                    "quality": "HD - CD1"
+                },
+                {
+					"url": "http://51.77.159.233:30299/ec45ea7e3c69c3650534fdf5e8a8a662",
+                    "quality": "HD - CD1"
+				}
+			]
+		}
+    ]
+}
