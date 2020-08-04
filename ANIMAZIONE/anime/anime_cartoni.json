@@ -351,6 +351,22 @@
         "year": "1991",
         "genre":["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
         "url": "/ANIMAZIONE/anime/valiant_list.json"
+      },
+      {
+        "plot": "Ambientato nel 2012, tre anni prima del film Jurassic World, Owen Grady e Claire Dearing si uniscono su Isla Nublar per affrontare tutto ciò che il parco Jurassic World si fa strada, incluso un misterioso sabotatore che vuole distruggere il parco per sempre!",
+        "title": "LEGO Jurassic World: Legend of Isla Nublar",
+        "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+        "year": "2019",
+        "genre":["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Sci-Fi & Fantasy"],
+        "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
+      },
+      {
+        "plot": "L'incredibile Hulk (The Incredible Hulk) è una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie è stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk è di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
+        "title": "L'Incredibile Hulk",
+        "saga": "L'Incredibile Hulk",
+        "year": "1996",
+        "genre":["Animazione", "Azione e Avventura", "Dramma"],
+        "url": "/ANIMAZIONE/anime/hulk_list.json"
       }
     ]
   }

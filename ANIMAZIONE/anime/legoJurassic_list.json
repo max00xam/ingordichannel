@@ -1,0 +1,160 @@
+{
+    "episodes_list": [
+       {
+			"tmdb_id": 93895,
+			"number": "1x1",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Missione Decisiva!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/405289360ae36d19453627462fae29b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x2",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Carica!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/0544f4c3700383f82a60279df2c148bb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x3",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Il terrificante ibrido!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/040c19ae81c558c19394845854a42e8c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x4",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Emergenza Pteranodonti!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/62d05b2a341c6297519d881c1d7df4ca"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x5",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Corrente e pericoli!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/87a2d1271aa47c921bf725826aa5f6b4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x6",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Dinosauro in fuga",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/a081ccb87d9d7867e89f2f595381e43a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x7",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Pesca notturna",
+			"links": [
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/ce76e7436050f2db24e296a7b211f365"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x8",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Vento di promozione!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/32cdfe6730a1c6bb0f54198717c784e7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x9",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Haunted and Hunted!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/076c7160d7d8ef70724454ae5010c128"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x10",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "To the Extreme!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/3db94df500789c3644c4dc504348810c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x11",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Symptoms!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/0a60924ec4eaab2d332f3a3e142a34b6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x12",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "Under the Volcano!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/c6d3db29e781d9bef519e719407b08a7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 93895,
+			"number": "1x13",
+			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
+			"title": "The Monsters and the Mech!",
+			"links":[
+				{
+                    "quality": "HD",
+					"url": "http://51.77.159.233:30299/c86a7d0633968409da74db538cc38ef6"
+				}
+			]
+		} 
+    ]
+}
