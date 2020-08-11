@@ -1,0 +1,719 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 18131,
+			"number": "1x1",
+			"saga": "Ghostbusters",
+			"title": "Figlio di Acchiappafantasmi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5731909c8d2c3371616f57c9e0b80513"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x2",
+			"saga": "Ghostbusters",
+			"title": "Paura Attorno alla Tavola Rotonda",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b3d580fbe56add93db6300a25fa82b62"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x3",
+			"saga": "Ghostbusters",
+			"title": "La Maledizione del Faraone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a07d5c22c3b109c144129b637a0408e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x4",
+			"saga": "Ghostbusters",
+			"title": "Il Segreto di Mastodon Valley",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/edf2480fccb861dbe1f9a683f8504686"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x5",
+			"saga": "Ghostbusters",
+			"title": "Missione Salvare il Futuro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/301ab075a7ab91b28bd52f7fdac7760f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x6",
+			"saga": "Ghostbusters",
+			"title": "Stufato di Strega",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5f4878bff9870b6bbbe7b0a4b4832875"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x7",
+			"saga": "Ghostbusters",
+			"title": "Mia cara Mummia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f195e39c1f4728a4e12149cc0b3c0009"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x8",
+			"saga": "Ghostbusters",
+			"title": "Pazzo Museo delle Cere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9d2d585236bbc2c57976d59f1ed0d20a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x9",
+			"saga": "Ghostbusters",
+			"title": "Statue of Liberty",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a00871e3eeb6680a87d5a7558109594"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x10",
+			"saga": "Ghostbusters",
+			"title": "The Ransom of Eddie Spenser",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8541607b4e3a50d9559a0335892dff1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x11",
+			"saga": "Ghostbusters",
+			"title": "Eddie Takes Charge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6b7bc5261e8b4104758b0faf3d4cbd7c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x12",
+			"saga": "Ghostbusters",
+			"title": "The Great Ghost Gorilla",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/012e0f27a0e970cc5f952bd7de57de36"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x13",
+			"saga": "Ghostbusters",
+			"title": "A Friend in Need",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/687a58c84969fcb27f4b3c3669ecad89"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x14",
+			"saga": "Ghostbusters",
+			"title": "No Mo` Snow",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cfa7660e70d74a63ccf7d5835d486688"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x15",
+			"saga": "Ghostbusters",
+			"title": "Prime Evil`s Good Deed",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f4d5f8fc9aff7498cfdbd329640790c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x16",
+			"saga": "Ghostbusters",
+			"title": "Cyman`s Revenge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c8b2e9a4057d5cb1d525b33cd76397ef"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x17",
+			"saga": "Ghostbusters",
+			"title": "The Headless Horseman Caper",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bab23119434276f0da3f94fa785d8015"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x18",
+			"saga": "Ghostbusters",
+			"title": "Banish That Banshee",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/15432c32cf4566d50bd373db4614874f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x19",
+			"saga": "Ghostbusters",
+			"title": "Rollerghoster",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1fa8b82d69703e11967d3872c1eb1798"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x20",
+			"saga": "Ghostbusters",
+			"title": "He Went Brataway",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3435e65e94393bd87f8dc115ea2211da"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x21",
+			"saga": "Ghostbusters",
+			"title": "The Looking-Glass Warrior",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a532ca4bddbdf95556503c1f2456edf9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x22",
+			"saga": "Ghostbusters",
+			"title": "Rock e raggi laser",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f7554ccdd124d7bf615a9b46ee7f1fe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x23",
+			"saga": "Ghostbusters",
+			"title": "Runaway Choo Choo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/15e4061d426b38d192c33db4c50a1fb1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x24",
+			"saga": "Ghostbusters",
+			"title": "Dynamite Dinosaurs",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f27e6a6a6505fdb719247967c92286b8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x25",
+			"saga": "Ghostbusters",
+			"title": "Ghostbunglers",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e31b70a18078c149e6f1880a6280046f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x26",
+			"saga": "Ghostbusters",
+			"title": "My Present to the Future",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/93832090aebd168af75e3c5d3c2143f5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x27",
+			"saga": "Ghostbusters",
+			"title": "The Beastly Buggy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e42f7cc7a485a7d3a43c572e0cad041"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x28",
+			"saga": "Ghostbusters",
+			"title": "Belfry Leads the Way",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bf5db001fd05fc41e6f27d19603d8974"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x29",
+			"saga": "Ghostbusters",
+			"title": "The Battle for Ghost Command",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/56e66e74b6cc3aa1a85cf50a64b61a49"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x30",
+			"saga": "Ghostbusters",
+			"title": "Going Ape",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0193347ffd52ed21ddfce228101320a0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x31",
+			"saga": "Ghostbusters",
+			"title": "The Haunting of Gizmo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d31dc20bc0afd814c4ba57af2d027d42"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x32",
+			"saga": "Ghostbusters",
+			"title": "Ghostnappers",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3a01be38a6fc2e361f16dcca4f1e4f17"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x33",
+			"saga": "Ghostbusters",
+			"title": "Inside Out",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a603f6014d5d51dd1c76340432cba420"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x34",
+			"saga": "Ghostbusters",
+			"title": "The Sleeping Dragon",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fbc877694d2f141165d033cd833b304f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x35",
+			"saga": "Ghostbusters",
+			"title": "The Phantom of the Big Apple",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7d4bab33950eea79afdeffc5aee9339e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x36",
+			"saga": "Ghostbusters",
+			"title": "Shades of Dracula",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f6d3b0dd1a08eaff45b90ef9412ebdc5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x37",
+			"saga": "Ghostbusters",
+			"title": "Outlaw In-Laws",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8139bd85d5bf17bb4a644a326472674f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x38",
+			"saga": "Ghostbusters",
+			"title": "Our Buddy Fuddy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/85dc8bd181dd17ae5b547ba8a5b7d505"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x39",
+			"saga": "Ghostbusters",
+			"title": "Train to Doom-De-Doom-Doom",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/85771c83e0ace964c590002fac7d5380"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x40",
+			"saga": "Ghostbusters",
+			"title": "The Princess and the Troll",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ae336585c17966d70472f34ac4734cb8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x41",
+			"saga": "Ghostbusters",
+			"title": "Second Chance",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8670154d02e9a05910289334a14d1949"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x42",
+			"saga": "Ghostbusters",
+			"title": "Tracy Come Back",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bb53c5035b170521f87dd440f3c1edac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x43",
+			"saga": "Ghostbusters",
+			"title": "Doggone Werewolf",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c594c16fae09a8028d4290b37c146162"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x44",
+			"saga": "Ghostbusters",
+			"title": "That`s No Alien",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/32533c3264797d2b14bbe46ecd75a5b0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x45",
+			"saga": "Ghostbusters",
+			"title": "Scareplane",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f2094379097122e64ac750b9d211c775"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x46",
+			"saga": "Ghostbusters",
+			"title": "The Ghost of Don Quixote",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2dc53c842f7918d120a2298fde23f363"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x47",
+			"saga": "Ghostbusters",
+			"title": "The White Whale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba4fbc4e7d4ca5c4b7a628f51e196f18"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x48",
+			"saga": "Ghostbusters",
+			"title": "Whither Why",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6b3b7f0e78ce231061411392022ab473"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x49",
+			"saga": "Ghostbusters",
+			"title": "Knight of Terror",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a424ca22ccd4584d1220453dcd92a512"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x50",
+			"saga": "Ghostbusters",
+			"title": "The Girl Who Cried Vampire",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/689d9992fe3757470a46bfd8e5787979"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x51",
+			"saga": "Ghostbusters",
+			"title": "Little Big Bat",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a4627e38d505aa1d9f91dfa103144780"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x52",
+			"saga": "Ghostbusters",
+			"title": "Really Roughing It",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0657068f876dab3591197ca1845b3826"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x53",
+			"saga": "Ghostbusters",
+			"title": "The Bad Old Days",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/046420aeb4581e80781128f85e908d85"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x54",
+			"saga": "Ghostbusters",
+			"title": "The Curse of the Diamond of Gloom",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40f3bb0270e8ff5e6d6d717c661470c5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x55",
+			"saga": "Ghostbusters",
+			"title": "The Bind That Ties",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d49a0fb563299c1c3ff4af4f3860018c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x56",
+			"saga": "Ghostbusters",
+			"title": "Like Father, Like Son",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1d3433f13fb0704725acefefdc616378"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x57",
+			"saga": "Ghostbusters",
+			"title": "The Fourth Ghostbuster",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/de3022e22209149e89e33629bd9d8177"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x58",
+			"saga": "Ghostbusters",
+			"title": "Country Cousin",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/98b34f01826524559a96cfd979dbac3c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x59",
+			"saga": "Ghostbusters",
+			"title": "A Cold Winter`s Night",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bdd7880557fd72bdc13c04760036e93d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x60",
+			"saga": "Ghostbusters",
+			"title": "Father Knows Beast",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b35dbf4eb43549d04ac5e7b30ac5d9fb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x61",
+			"saga": "Ghostbusters",
+			"title": "Back to the Past",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/10b0923b1acbc492032b5afdd4bd268a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x62",
+			"saga": "Ghostbusters",
+			"title": "Pretend Friends",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6e99fabba19f4d5747dc5b7fe6ca1bb1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x63",
+			"saga": "Ghostbusters",
+			"title": "The Haunted Painting",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/650ebfc5d087ba18166f9ae739db8590"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x64",
+			"saga": "Ghostbusters",
+			"title": "Maze Caves",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ae20e7819fd1b8d737607ad6cec2278a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 18131,
+			"number": "1x65",
+			"saga": "Ghostbusters",
+			"title": "The Way You Are",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f83b4aa8afdcfe68e9213b03647c15c8"
+				}
+			]
+		}
+    ]
+}

@@ -367,6 +367,22 @@
         "year": "1996",
         "genre":["Animazione", "Azione e Avventura", "Dramma"],
         "url": "/ANIMAZIONE/anime/hulk_list.json"
+      },
+      {
+        "plot": "Ghostbusters è una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie è basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters è stato un successo, la Filmation è entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie è tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+        "title": "Ghostbusters",
+        "saga": "Ghostbusters",
+        "year": "1986",
+        "genre":["Mistero", "Animazione"],
+        "url": "/ANIMAZIONE/anime/ghost_list.json"
+      },
+      {
+        "plot": "The Real Ghostbusters è una serie televisiva animata americana derivata dal franchise Ghostbusters. La serie è andata in onda dal 1986 al 1991 ed è stata prodotta da Columbia Pictures Television, DiC Enterprises e Coca-Cola Telecommunications. \"The Real\" è stato aggiunto al titolo dopo una disputa con Filmation e le sue proprietà Ghost Busters. La serie continua le avventure degli investigatori del paranormale Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, la loro segretaria Janine Melnitz e il loro fantasma mascotte Slimer. C'erano anche due fumetti in corso di Real Ghostbusters, uno pubblicato mensilmente da Now Comics negli Stati Uniti e l'altro pubblicato settimanalmente dalla Marvel Comics nel Regno Unito, e una popolare linea di giocattoli prodotta da Kenner.",
+        "title": "The Real Ghostbusters - I veri acchiappafantasmi",
+        "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+        "year": "1986",
+        "genre":["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+        "url": "/ANIMAZIONE/anime/real_list.json"
       }
     ]
   }
