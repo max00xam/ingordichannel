@@ -383,6 +383,14 @@
         "year": "1986",
         "genre":["Action & Adventure", "Animazione", "Commedia", "Mistero"],
         "url": "/ANIMAZIONE/anime/real_list.json"
+      },
+      {
+        "plot": "Fry, giovane fattorino senza stimoli, consegna una pizza a un laboratorio scientifico e qui rimane intrappolato in una camera criogenica la quale si riapre solo mille anni più tardi. Dopo lo stupore e l’entusiasmo iniziali per essere finito nella New York del 3000, Fry scopre di avere un nipote più adulto, il professor Farnsworth, proprietario di una società di trasporti intergalattica. Comincia così a lavorare per lui, facendo amicizia con una monocola di nome Lela e un insolente robot bevitore di birra, Bender.",
+        "title": "Futurama",
+        "saga": "Futurama",
+        "year": "1999",
+        "genre":["Animazione", "Commedia"],
+        "url": "/ANIMAZIONE/anime/futurama_list.json"
       }
     ]
   }
