@@ -1,0 +1,400 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 60625,
+			"number": "1x1",
+			"saga": "Rick and Morty",
+			"title": "I semi della discordia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/afc40f07aaa977ed2190c31bdf6b4328"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x2",
+			"saga": "Rick and Morty",
+			"title": "Evoluzione canina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e7da088fa71ef8761b7e87575b2bd684"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x3",
+			"saga": "Rick and Morty",
+			"title": "Il Parco di anatomia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4562a40242313e1e9aee35843cbd336b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x4",
+			"saga": "Rick and Morty",
+			"title": "M",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/48b19cdbeefebdb0eb595651a5fb7298"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x5",
+			"saga": "Rick and Morty",
+			"title": "La tribù dei Miguardi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/27c36ceba5cb6d7c34bdc691e085e219"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x6",
+			"saga": "Rick and Morty",
+			"title": "Febbre d`amore n°9",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4a82ab60d2f97991250fb6b045a40f09"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x7",
+			"saga": "Rick and Morty",
+			"title": "Morty Junior",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0e98cf6dc91be141853ae3337d5fc1da"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x8",
+			"saga": "Rick and Morty",
+			"title": "Vite alternative",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eebeac50135bf865e4a956fe6b373b38"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x9",
+			"saga": "Rick and Morty",
+			"title": "Qualcosa di Rick-istro sta per accadere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d54e74f179bcc6670b9de112a39bb7f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x10",
+			"saga": "Rick and Morty",
+			"title": "Incontri ravvicinati del Rick-Tipo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba1c3b39e1d4977ef8b5678a5cf83190"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "1x11",
+			"saga": "Rick and Morty",
+			"title": "Ricksky business",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e5ddf68ad2698d9f438a39ef2d45ffcc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x1",
+			"saga": "Rick and Morty",
+			"title": "Nelle pieghe del tempo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b4eb919a010988f7fd65755e6bb8f47f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x2",
+			"saga": "Rick and Morty",
+			"title": "Puzza di mezzanotte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9bb2ef5ae01697c1d9d0251c3651036f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x3",
+			"saga": "Rick and Morty",
+			"title": "Assimilazione auto erotica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4d07bd535473b38c082b2a556887d1f9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x4",
+			"saga": "Rick and Morty",
+			"title": "Total Rickall",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/68577559117462d657960bcb1f7675a8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x5",
+			"saga": "Rick and Morty",
+			"title": "Sbrachiamoci insieme",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/848b72a130a5e17963c4a0eca4b64069"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x6",
+			"saga": "Rick and Morty",
+			"title": "S",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3b49a26cebade1535d9f8b855d54145c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x7",
+			"saga": "Rick and Morty",
+			"title": "Mini-Rick",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ed5ec3a653707de35584f93b1aa52f6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x8",
+			"saga": "Rick and Morty",
+			"title": "Tv via cavo interdimensionale 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2a6387df283a4b5621ff287f0f6f9e2c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x9",
+			"saga": "Rick and Morty",
+			"title": "La notte dello sfogo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3a89831758afeb2e128a2ce6c22efaf8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "2x10",
+			"saga": "Rick and Morty",
+			"title": "Il mio squanch matrimonio alieno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/67dd8c49f5a7c323d219305317ad2f25"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x1",
+			"saga": "Rick and Morty",
+			"title": "Le ali della Rick-libertà",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/196cec69529ea17a338c5a3d07066188"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x2",
+			"saga": "Rick and Morty",
+			"title": "Al Rick-inseguimento della pietra verdet",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d69ba412e3d78da8f9bc7b7ebca7f169"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x3",
+			"saga": "Rick and Morty",
+			"title": "Cetriolo Rick",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ffc2536acd896085bce9c0b4cbc053b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x4",
+			"saga": "Rick and Morty",
+			"title": "Difensori 3 Il ritorno di Finimondo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e75a64b61811f0b82244087fee220172"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x5",
+			"saga": "Rick and Morty",
+			"title": "La cospirazione del turbine vorticoso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d9009cf004442cc13f0776b7f68944ec"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x6",
+			"saga": "Rick and Morty",
+			"title": "Rickposo e tranquillità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/87077a90300862dbca93926ea35dc86b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x7",
+			"saga": "Rick and Morty",
+			"title": "A Ricklantide",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d4686583b3be97f9b3a91c33ea42235a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x8",
+			"saga": "Rick and Morty",
+			"title": "Gli spappamente di Morty",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e333616f37d909a736624636034c3a6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x9",
+			"saga": "Rick and Morty",
+			"title": "L`ABC di Beth",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6928e136fe3d4fb1adaca914a8c8cb6d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "3x10",
+			"saga": "Rick and Morty",
+			"title": "Il Rickchurian Mortydate",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4748d8f6362b6513d45382272c0d3885"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "4x1",
+			"saga": "Rick and Morty",
+			"title": "Edge of ToMorty senza Rick",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2236c1da4f33bcc9b6ad8f9911bd4f93"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "4x2",
+			"saga": "Rick and Morty",
+			"title": "Il vecchio e il water",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/680025b6b52ebd815647d140f588e428"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "4x3",
+			"saga": "Rick and Morty",
+			"title": "Qualcuno volò sul nido di Morty",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6b1acb576815cdf1efa49d912532de8f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "4x4",
+			"saga": "Rick and Morty",
+			"title": "Rick and Morty - Unità vittime speciali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4daa38bcc4793ed68c5a3e8cd1af9d9b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60625,
+			"number": "4x5",
+			"saga": "Rick and Morty",
+			"title": "Battleserpe Galactica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/445588003c300df74acebbe33125eb9f"
+				}
+			]
+		}
+    ]
+}

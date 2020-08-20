@@ -1,0 +1,92 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 76479,
+			"number": "1x1",
+			"saga": "The Boys",
+			"title": "Le regole del gioco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/91c038e5e8c84f8a734c2788fada5f00"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x2",
+			"saga": "The Boys",
+			"title": "Spettacolare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d9b716f3bf554f3bc4bd441d917e4588"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x3",
+			"saga": "The Boys",
+			"title": "Fottuto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d795f0b49a7cea8a1950b1ec4a120ace"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x4",
+			"saga": "The Boys",
+			"title": "La femmina della specie",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9f1ee5e727d3d3b293d67441ebfe137f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x5",
+			"saga": "The Boys",
+			"title": "Cose che fanno bene allo spirito",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/280c31750f741e212a62b783885da912"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x6",
+			"saga": "The Boys",
+			"title": "Gli innocenti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c1459bdecd0527ece71807f5d5153131"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x7",
+			"saga": "The Boys",
+			"title": "La società dell`autoconservazione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b100cd4c4c065773b193bd680c179bb4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 76479,
+			"number": "1x8",
+			"saga": "The Boys",
+			"title": "La resa dei conti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/387564db33845874543986d4e19b2243"
+				}
+			]
+		}
+    ]
+}

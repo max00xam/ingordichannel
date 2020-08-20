@@ -125,6 +125,24 @@
             "tmdb_id": "2560",
             "genre":["Fantascienza e Fantasia", "Drammatico","Azione e Avventura"],
             "url": "/SERIE-TV/ufo_list.json"
+        },
+        {
+            "plot": "La scomparsa di un ragazzino in una cittadina porta alla luce un mistero in cui si mescolano esperimenti segreti, spaventose forze soprannaturali e una strana bambina.",
+            "title": "Stranger Things",
+            "saga": "Stranger Things",
+            "year": "2016",
+            "tmdb_id": "66732",
+            "genre":["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "url": "/SERIE-TV/st_list.json"
+        },
+        {
+            "plot": "The Boys è un anti-superhero drama, basato sull'omonimo fumetto di Garth Ennis e Darick Robertson, prodotto da Seth Rogen ed Evan Goldberg per Prime Video di Amazon. L'irriverente serie, creata da Eric Kripke (Supernatural), segue l'idea secondo la quale i supereroi non possano essere tutti buoni e di nobili intenzioni. Cosa succederebbe, dunque, se usassero i propri poteri e il proprio status per corrompere le autorità, scendere a patti con aziende di poco rispetto o perpetrare abusi di ogni tipo? Servirebbe qualcuno per tenerli a bada. Ed è qui che entrano in gioco i Boys, un gruppo di guardiani riunitisi per contrastare i Seven, i sette supereroi pagati dall'agenzia multimiliardaria Vought International.",
+            "title": "The Boys",
+            "saga": "The Boys",
+            "year": "2019",
+            "tmdb_id": "76479",
+            "genre":["Sci-Fi & Fantasy", "Action & Adventure"],
+            "url": "/SERIE-TV/boys_list.json"
         }
     ]
 }

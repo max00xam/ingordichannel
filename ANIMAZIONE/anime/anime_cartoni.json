@@ -391,6 +391,15 @@
         "year": "1999",
         "genre":["Animazione", "Commedia"],
         "url": "/ANIMAZIONE/anime/futurama_list.json"
+      },
+      {
+          "plot": "Rick è uno scienziato che si è trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con sé il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla già strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+          "title": "Rick and Morty",
+          "saga": "Rick and Morty",
+          "year": "2013",
+          "tmdb_id": "60625",
+          "genre":["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure"],
+          "url": "/SERIE-TV/rick_list.json"
       }
     ]
   }
