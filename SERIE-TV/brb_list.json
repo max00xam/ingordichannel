@@ -1,0 +1,699 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 1396,
+			"number": "1x1",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Questione di chimica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6984062c28aebc4b343b5d18e4131cbb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x2",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Senza ritorno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0258dfadded610f7afa2fa2371e7b9ad"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x3",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Coseguenze radicali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/073c2a0928651e3bfb5ab06c286c7792"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x4",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Una malattia scomoda",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e68583a1a453b55dfb2c22e3b69e3a7d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x5",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Materia grigia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/65101c45019f131dac1a252136fdab7d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x6",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Un pugno di mosche",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/06016fa29da1e73148aaa4627cbb283f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "1x7",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Vendetta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9156ff2f163f6227d3c83bfdeee1ae9c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x1",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Tutto cambia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/23140a20447566b835748cf80a949be0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x2",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Grigliato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/12c34bc2d52c189c0d9b638e746805cb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x3",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Punto da un`ape morta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7eca758f552cfec1217459301fa67426"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x4",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Giù",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c4f0a1de3bd80e060e23b13b149e2887"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x5",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Una pistola per Jesse",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a426facbea918a721cb50f5097776830"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x6",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Una lezione indimenticabile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cdf2db3cc0a8e6e3334018294b5a8a99"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x7",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Nero e azzurro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03d5a7948cfe05fca5d421d6df47c34a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x8",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Conviene chiamare Saul",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5fa6d522c8195635361daf6eeb35ed03"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x9",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "4 giorni fuori",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/64b7a0633145845118795d357cb0bbb3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x10",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Game Over",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d15f78e8ccbb07d364d55871c5f4e470"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x11",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Mandala",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4ab6b349a07fd0ddc78618c140904ae9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x12",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Phoenix",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/668b1b1ffb53ef3698f235a58ab594e9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "2x13",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Albuquerque",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b7dd27bf7b1353eea09d48dd82f9df28"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x1",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Ora basta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/01bf48fa0cce7bfa1f159ca755fb186f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x2",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Cavallo senza nome",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/127cfa2f8f64988cf4570f6058e58321"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x3",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Tradimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fedfcb829c0d2e0ea48252cfe1a59308"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x4",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Luce verde",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/694764530b8c9dcc4ded93bb0784a3af"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x5",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Di più",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/34391b12f343aafeb41b58a63db599e5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x6",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Al tramonto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ab792aafd674d42dfc97d2a010f7026c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x7",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Un minuto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/46eea10365ddb472628f9dabac415e14"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x8",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Ti vedo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/656b573754fac3d8f34cffbee2f52db1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x9",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Atmosfere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3940efd1b01b07862b637156d5560813"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x10",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Caccia grossa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/00a3be259f5b68fa4b7cebcb73170fbb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x11",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Scrupoli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d3d109495d4e217fdb935dd6afee02c5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x12",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Mezze misure",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2b67bfdbdadbd3aa985a88f2340ad004"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "3x13",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Niente mezze misure",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9b38de9191eac9c46394595f6ea7334d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x1",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Il taglierino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e429823bd534c01f085f533d511fd20"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x2",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Calibro 38",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cd54c6cf5fba0b3e065ec8d3fa8a743a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x3",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Casa aperta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f186089d911a324b79053fce0d7d3d6e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x4",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "La versione di Skyler",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f651778d0a3c3da6d6742903d1c76ddd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x5",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "L`autolavaggio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/22bf6557d5e15381d6d2199c991fdf9e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x6",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Messi all`angolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/38ac609f551e45b6a06935a873112250"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x7",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Un cane difficile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/63ccffffe06fd8c5d7e3aa2777e1b593"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x8",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Fratelli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/39e4a8cb58aeea0e8417c6bd90be54ce"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x9",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Cimici",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/94faacbf7032c8e64aa26faf1c92d4de"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x10",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Alla salute",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/576f8a54f6aabdb57a88cf58aba26ebe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x11",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Nuove identità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a76dd1f27f5bb134e110a0bd73b1f1d7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x12",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Cercando vendetta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/652fd971d39ed3e451dbed78804a9486"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "4x13",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Fine della storia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f953091b516dd69bcc7ec7082e9de6be"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x1",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Vivi libero o muori",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d2e767b74a70f0a3ba77b2319786818d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x2",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "L`affare tedesco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/72bf7c0f48c244824d60f0e7b112bccb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x3",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Indennità di rischio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fce8490f6ad79af95b2f377befad830d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x4",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Un ambiente migliore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0a6620013fc5c225d7ac3e54399ecf4d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x5",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Rapina al treno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/80699b6d1eac82dfa73514056650fad3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x6",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Buonuscita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b4f9ce2689e04d73bc3f8cf52690607"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x7",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Di` il mio nome",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d872431f36efe56ffd1b4d6b86d25eee"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x8",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Volare alto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c25cba77293c92d430a3c29ac53b94cd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x9",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Denaro insanguinato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d313420f0f67bb748d05d7949a6f8c83"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x10",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Questioni di famiglia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/da7a7a7e1f294d90e225312ebadffbaa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x11",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Confessioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc33cae166a20d693d58a2c263e957f3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x12",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Cane rabbioso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11708672e3fea14b05d7f59cf669818c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x13",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Riserva indiana",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3434c59688f5da73055f728af2e19c61"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x14",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Declino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f25b94280b0ba0303043204f138c124"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x15",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Tutto torna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7a8ffab83f4b3ad42c0ea779017a22d6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1396,
+			"number": "5x16",
+			"saga": "Breaking Bad - Reazioni collaterali",
+			"title": "Felina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/524ce396875a4ff95a2d807180827ede"
+				}
+			]
+        },
+        {
+			"tmdb_id": 559969,
+			"number": "Film",
+			"saga": "Breaking Bad - Reazioni collaterali",
+            "title": "El Camino - Il film di Breaking Bad",
+            "plot": "Il fuggitivo Jesse Pinkman tenta di sfuggire al suo passato. Scritto e diretto dall'autore di \"Breaking Bad\" Vince Gilligan, con Aaron Paul.",
+			"year": "2019",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/de94bc64b01cae45f2ccde450cdc91b5"
+				}
+			]
+        }
+    ]
+}
