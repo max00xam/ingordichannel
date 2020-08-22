@@ -143,6 +143,15 @@
             "tmdb_id": "76479",
             "genre":["Sci-Fi & Fantasy", "Action & Adventure"],
             "url": "/SERIE-TV/boys_list.json"
+        },
+        {
+            "plot": "La serie narra le vicende di un club di motociclisti chiamato Sons of Anarchy ed è ambientata nella città immaginaria di Charming, situata nella Valle di San Joaquin in California.",
+            "title": "Sons of Anarchy",
+            "saga": "Sons of Anarchy",
+            "year": "2018",
+            "tmdb_id": "1409",
+            "genre":["Crime", "Drama"],
+            "url": "/SERIE-TV/sons_list.json"
         }
     ]
 }

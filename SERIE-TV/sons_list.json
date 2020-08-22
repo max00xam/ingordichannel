@@ -1,0 +1,472 @@
+{
+    "episodes_list": [
+        {
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x1",
+			"saga": "Sons of Anarchy",
+			"title": "Storie Di Sangue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c2d5edb4168007f9da4880f83c834732"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x2",
+			"saga": "Sons of Anarchy",
+			"title": "Vecchi Legami",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76c9e80a2108aa0b32eed3909a317d1b"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x3",
+			"saga": "Sons of Anarchy",
+			"title": "Caccia All`uomo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb69a6c5bb1296333ef362b124e0bd13"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x4",
+			"saga": "Sons of Anarchy",
+			"title": "Fusione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f04ebc5bdfa658d4d4b1cbe4d650ad65"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x5",
+			"saga": "Sons of Anarchy",
+			"title": "Il Tatuaggio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5d5661670ecc2315e56457042d429b9b"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x6",
+			"saga": "Sons of Anarchy",
+			"title": "Assalto Al Furgone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c81a0ad6822797ff0b72d9def8226171"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x7",
+			"saga": "Sons of Anarchy",
+			"title": "Old bones",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9e71c950b96321399293aafad25c0d74"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x8",
+			"saga": "Sons of Anarchy",
+			"title": "Comincia La Guerra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/25259f588beb6ed3e2b5aec260f0a60d"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x9",
+			"saga": "Sons of Anarchy",
+			"title": "E Venne L`inferno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f06637b164cece7632c10fff0f96491"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x10",
+			"saga": "Sons of Anarchy",
+			"title": "Il Punto Debole",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4ff2f4c8abc67726ec0a13fea2c906d1"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x11",
+			"saga": "Sons of Anarchy",
+			"title": "Il Sospetto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/58ea57d1aa645aeb049f510e0c0c22ce"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x12",
+			"saga": "Sons of Anarchy",
+			"title": "Per Sempre Giovane",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4e0a31470f3482c4da25c1b37b6ac3e9"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "1x13",
+			"saga": "Sons of Anarchy",
+			"title": "Sospetti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40474eefaf37ad8b680c87ac37f3a5a1"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x1",
+			"saga": "Sons of Anarchy",
+			"title": "Un nuovo nemico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/002d9252a878cd5247f607c112f3fb4b"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x2",
+			"saga": "Sons of Anarchy",
+			"title": "Il Prezzo Del Silenzio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e8cd8beed1bd2d26affc82cae1c5e1b3"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x3",
+			"saga": "Sons of Anarchy",
+			"title": "Botta E Risposta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7522db253ba26e5dd644fa9f9192196c"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x4",
+			"saga": "Sons of Anarchy",
+			"title": "Jax E Clay",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/627bf06a907d9876bc8730298437426f"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x5",
+			"saga": "Sons of Anarchy",
+			"title": "Tormento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c59568acc15254a77d101305336c155e"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x6",
+			"saga": "Sons of Anarchy",
+			"title": "La Trappola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c07f76853715ea608a44838d9d4df217"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x7",
+			"saga": "Sons of Anarchy",
+			"title": "Fatica Sprecata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c194430e3e7bb5e35376761fee01c45"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x8",
+			"saga": "Sons of Anarchy",
+			"title": "Banchetto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5729049fa77121e9fc8eef26115ec7dd"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x9",
+			"saga": "Sons of Anarchy",
+			"title": "Attività Di Fumo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/da651c0b73b11d3d00a278d6e4d3cbfe"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x10",
+			"saga": "Sons of Anarchy",
+			"title": "Rivelazione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/604f0acfcef53ef746f034b05a0e9430"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x11",
+			"saga": "Sons of Anarchy",
+			"title": "Giro Di Boa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5ee9466a68d4a02933ce89e3311a26a6"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x12",
+			"saga": "Sons of Anarchy",
+			"title": "Accerchiamento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7c0055d172c8b0182ef9dccd020951a2"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "2x13",
+			"saga": "Sons of Anarchy",
+			"title": "Giornata Cruenta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d0aa7409f82d3ab1ddad63e47521315f"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x1",
+			"saga": "Sons of Anarchy",
+			"title": "La Ricerca",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d4fcfcb52382d2cfa392af17649ee484"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x2",
+			"saga": "Sons of Anarchy",
+			"title": "Esecuzione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ee6bc3894dc42398975eb96424307901"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x3",
+			"saga": "Sons of Anarchy",
+			"title": "Conseguenze Impreviste",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ea51296d2294438e3043b9df702ec9d2"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x4",
+			"saga": "Sons of Anarchy",
+			"title": "Ritorno A Casa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03d3c7117f845e001ae501fd8887bdea"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x5",
+			"saga": "Sons of Anarchy",
+			"title": "Patto Con Il Diavolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/14ca53bb6c03a3aaccb978f88d35a905"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x6",
+			"saga": "Sons of Anarchy",
+			"title": "La Tregua",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/836f81245cc3581efdde2f2749deca4e"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x7",
+			"saga": "Sons of Anarchy",
+			"title": "Partenza",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6164106de2eb4714640ca4822a22757b"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x8",
+			"saga": "Sons of Anarchy",
+			"title": "Nella Tana Del Lupo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/70ad5528f0f11074a4562202e11cdf52"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x9",
+			"saga": "Sons of Anarchy",
+			"title": "La Trappola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/25db2a35e7924354d74732bcd003f504"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x10",
+			"saga": "Sons of Anarchy",
+			"title": "Segreti Di Famiglia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e72fa1bb3467c307adeeed737fea272f"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x11",
+			"saga": "Sons of Anarchy",
+			"title": "Lo Scambio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/54ba1ca6b07181ec034efc316f6e47f0"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x12",
+			"saga": "Sons of Anarchy",
+			"title": "Vittime Sacrificali",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5e3324fc931910edcc688b64aa79444c"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 1409,
+			"number": "3x13",
+			"saga": "Sons of Anarchy",
+			"title": "Il Cerchio Si Chiude",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3d0f6ff8fd92ae4288ddec9c011daa10"
+				}
+			]
+		}
+    ]
+}
