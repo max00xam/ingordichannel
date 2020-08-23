@@ -161,6 +161,15 @@
             "tmdb_id": "1396",
             "genre":["Drama"],
             "url": "/SERIE-TV/brb_list.json"
+        },
+        {
+            "plot": "Rick Grimes è un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le lacrime la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, è traumatico: l'ospedale è distrutto ed è pieno di cadaveri. Rick non ci metterà molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza è sempre minore. Il vice sceriffo sfrutterà tutte le sue abilità di sopravvivenza e di capacità con le armi per sopravvivere ed uscire dalla città, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
+            "title": "The Walking Dead",
+            "saga": "The Walking Dead",
+            "year": "2010",
+            "tmdb_id": "1402",
+            "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/twd_list.json"
         }
     ]
 }
