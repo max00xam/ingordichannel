@@ -170,6 +170,24 @@
             "tmdb_id": "1402",
             "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/twd_list.json"
+        },
+        {
+            "plot": "Condannato a morte per l'omicidio di un potente uomo di Washington, Lincoln Burrows si dice vittima di un complotto. L'unico a credere in lui è il fratello Michael Scofield, ingegnere edile, che ha architettato un piano per farlo evadere, ma per metterlo in pratica deve farsi rinchiudere nello stesso carcere. Da qui inizia una lunga, rocambolesca fuga per la libertà per Michael, suo fratello e gli altri che si uniranno a loro.",
+            "title": "Prison Break",
+            "saga": "Prison Break",
+            "year": "2005",
+            "tmdb_id": "2288",
+            "genre":["Action & Adventure", "Dramma", "Crime"],
+            "url": "/SERIE-TV/prison_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre":[""],
+            "url": "/SERIE-TV/_list.json"
         }
     ]
 }

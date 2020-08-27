@@ -1,90 +1,626 @@
 {
     "episodes_list": [
         {
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x1",
 			"saga": "Sissi",
-			"title": "Il ritorno di papa'",
+			"title": "Il ritorno di papà",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/4f9043dbe1e390c51ae99f1559d3de50"
+					"url": "http://51.77.159.233:30299/3cb2742163304bd3f5db2d1526cfd339"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x2",
 			"saga": "Sissi",
-			"title": "I primi batticuori",
+			"title": "Primi batticuori",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/ba1ba10c53550cdafecf3530d5d86dc0"
+					"url": "http://51.77.159.233:30299/9bb44b12153a732e90875faedb915cbc"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x3",
 			"saga": "Sissi",
 			"title": "Una visita inattesa",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/61c16db8bde177a1474b8a7d1943af6e"
+					"url": "http://51.77.159.233:30299/b2cad4f2aca20561bbe0ca731df9aff4"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x4",
 			"saga": "Sissi",
-			"title": "Un ladruncolo Possi",
+			"title": "Un ladruncolo a Possi",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/3e7518847d9c945dc67421e675e614b1"
+					"url": "http://51.77.159.233:30299/ae2b469c120127324319f60dac832a2f"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x5",
 			"saga": "Sissi",
-			"title": "Elena la terribile",
+			"title": "Helena,la terribile",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/15b230d1ab2647ecbaee9ab31483196d"
+					"url": "http://51.77.159.233:30299/1955904811d860a43f090a99f93321c8"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x6",
 			"saga": "Sissi",
 			"title": "Il momento del commiato",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/f641e4da1d5a553a902a2b6b05ba9bbc"
+					"url": "http://51.77.159.233:30299/8e3b6b5b0cc5d09c4aaca78b6fb48280"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x7",
 			"saga": "Sissi",
 			"title": "Cogliere le occasioni",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/a103983272ab955b354a79bc6ed6bc1b"
+					"url": "http://51.77.159.233:30299/c7e7aff6713c572bb3a1a0614fbb5346"
 				}
 			]
 		},
 		{
+			"tvdb_id": -1,
 			"tmdb_id": 35073,
 			"number": "1x8",
 			"saga": "Sissi",
 			"title": "Lo strano uomo dei boschi",
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/074219dde137c959e82e1409a9852881"
+					"url": "http://51.77.159.233:30299/89753fe7ac2c9721b9839c587aaf56a3"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x9",
+			"saga": "Sissi",
+			"title": "La vendetta di Arkas",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76d12cbd8008c488268a9d9a2060bf3c"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x10",
+			"saga": "Sissi",
+			"title": "Il bacio di Innsbruck",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/99e5ef2f8acb90e93a7282d1fc7edf40"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x11",
+			"saga": "Sissi",
+			"title": "Il rifiuto dei genitori",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/09b8357dc26a15f58ab50cfe89309302"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x12",
+			"saga": "Sissi",
+			"title": "La lettera di Franz",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/51b96e85c498bbc48b13a9cd6252c479"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x13",
+			"saga": "Sissi",
+			"title": "Il ballo di fidanzamento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/be7c94f924e5c3a637ce807586d9dd35"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x14",
+			"saga": "Sissi",
+			"title": "Incontri mancati",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8e8a374196a0f38f54f35d1f8f400c66"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x15",
+			"saga": "Sissi",
+			"title": "Primi passi a corte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a6526852f684fe0d240d959adda2eeb3"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x16",
+			"saga": "Sissi",
+			"title": "La gabbia dorata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/11426317042327bff80695e138b2004f"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x17",
+			"saga": "Sissi",
+			"title": "Il circo Zaniouchka",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4866865cdef386518cd6a05ec7e59c69"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x18",
+			"saga": "Sissi",
+			"title": "Lo specchio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f2d51c10f655bc9fb8edfcb319aeee7"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x19",
+			"saga": "Sissi",
+			"title": "Un Natale movimentato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c7d64ba97e6784a0aabbaae90de1a5a"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x20",
+			"saga": "Sissi",
+			"title": "Prigioniera nella fortezza",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/095098817acc9d5b455bb430aecd3030"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x21",
+			"saga": "Sissi",
+			"title": "Una corsa contro il tempo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/35930c7f7601c9dce2e9b4e3f3a1f50f"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x22",
+			"saga": "Sissi",
+			"title": "Sissi se ne va",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ae5638ebc32f1de63f6d639f38d114cb"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x23",
+			"saga": "Sissi",
+			"title": "Chi ha rubato Tempest",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ef5e32a01107d45543e1a3b2f6bb29d"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x24",
+			"saga": "Sissi",
+			"title": "In corsa per la vittoria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d9a2c19b4af659abdd102a3be9617d68"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x25",
+			"saga": "Sissi",
+			"title": "Una gita pericolosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/273fd843bfaf983267730494156bc571"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x26",
+			"saga": "Sissi",
+			"title": "Sommossa a Vienna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2b2bc3c6c99c276e879286e13d5c453b"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x27",
+			"saga": "Sissi",
+			"title": "La tiara è sparita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a10100a359e51b1bda5fe202098c264a"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x28",
+			"saga": "Sissi",
+			"title": "Alto tradimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/43dbc9201c9209fb46491315b7e9a944"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x29",
+			"saga": "Sissi",
+			"title": "Addio per sempre",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4810f7aa97d2cbd0d93c496ff21a2447"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x30",
+			"saga": "Sissi",
+			"title": "Lunga vita a Erszebet",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f1d60bb4f335ff02c281abb1fe564c00"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x31",
+			"saga": "Sissi",
+			"title": "Gelosia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ddf38e56288e43694e1ad64b15e87b7"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x32",
+			"saga": "Sissi",
+			"title": "Addio a Budapest",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5dbc8e0cf6ff0f224c384527f7ed3e58"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x33",
+			"saga": "Sissi",
+			"title": "Un’asta per Possi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/141cb9cd536cc94323f9ddc4e68ddd99"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x34",
+			"saga": "Sissi",
+			"title": "Sissi a Parigi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7c162ca0264e2e444c15074f1735460e"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x35",
+			"saga": "Sissi",
+			"title": "Momenti difficili",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e749ac3c5ccb80fed291649858789f12"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x36",
+			"saga": "Sissi",
+			"title": "L’amazzone misteriosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d42a960c3ad162e5396f694fe7c4217a"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x37",
+			"saga": "Sissi",
+			"title": "Nascondino a Schönnbrunn",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5a525ae1e8a57e433e2f443da158abc0"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x38",
+			"saga": "Sissi",
+			"title": "Un viaggio pericoloso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/12fa991729de1a868c5f83d227e9d966"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x39",
+			"saga": "Sissi",
+			"title": "Il segreto svelato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0728060291cd57971bb054cfdf1d6346"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x40",
+			"saga": "Sissi",
+			"title": "L`isola di Ahriman",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/08fb76a6a36ea4efea19f64811826594"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x41",
+			"saga": "Sissi",
+			"title": "In mezzo alla tempesta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/478cb59781716e2ec813b8cf49644368"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x42",
+			"saga": "Sissi",
+			"title": "La pace in pericolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/990f5c40695638e850a6a8c928f8da81"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x43",
+			"saga": "Sissi",
+			"title": "Gli inganni di Zottornick",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8164efd2e452b9d6ec2b32e344534273"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x44",
+			"saga": "Sissi",
+			"title": "Un attacco a tradimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/191d33a6c83bbc5a30eef5776c18bc74"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x45",
+			"saga": "Sissi",
+			"title": "Un perfido consigliere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc66e204bb098bf6f947185b178c00dc"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x46",
+			"saga": "Sissi",
+			"title": "Una questione di protocollo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6fafe9001ef659bef01b7bc48188c36c"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x47",
+			"saga": "Sissi",
+			"title": "Il sogno di Tommy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4f6930c403ca5e09a813da578aa74412"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x48",
+			"saga": "Sissi",
+			"title": "Una festa al castello",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/46f3f6e48795e1ede665a261ae1cb3d9"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x49",
+			"saga": "Sissi",
+			"title": "Due gocce d`acqua",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb7d0b9b8bda364e02d202ea0f12c013"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x50",
+			"saga": "Sissi",
+			"title": "Il principe Fritz",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/adfabf870053a02465810f7c7a875261"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x51",
+			"saga": "Sissi",
+			"title": "Un doppio inganno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c5dcc0a0bdc88ab6dac86904a84291e5"
+				}
+			]
+		},
+		{
+			"tvdb_id": -1,
+			"tmdb_id": 35073,
+			"number": "1x52",
+			"saga": "Sissi",
+			"title": "L`amore vince sempre",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3f8ee3dc7a38a742a989730badbed57d"
 				}
 			]
 		}
