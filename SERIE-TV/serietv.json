@@ -181,6 +181,105 @@
             "url": "/SERIE-TV/prison_list.json"
         },
         {
+            "plot": "Lo strampalato alieno Mork (Williams), proveniente dal pianeta Ork, inviato sulla Terra per studiare il curioso sistema di vita dei suoi abitanti, diventa amico di Mindy (Dawber), alla quale sconvolge la vita con il suo stravagante modo di fare, il suo bislacco senso dell'umorismo e la sua originale interpretazione delle usanze terrestri. Il personaggio di Mork, apparso dapprima in un episodio di Happy Days, nel quale tentò di rapire Richie Cunningham, è interpretato da quel Robin Williams, qui al suo primo ruolo importante, destinato a diventare una star cinematografica.",
+            "title": "Mork e Mindy",
+            "saga": "Mork e Mindy",
+            "year": "1978",
+            "tmdb_id": "2552",
+            "genre":["Commedia"],
+            "url": "/SERIE-TV/mork_list.json"
+        },
+        {
+            "plot": "Quando si imbatte in una serie di movimenti bancari sospetti, l'analista della CIA Jack Ryan parte alla ricerca di risposte e si ritrova catapultato dalla sicurezza del suo lavoro d'ufficio in un gioco mortale che lo porterà in tutta Europa e nel Medio Oriente. Nel frattempo, un capo terrorista emergente prepara un massiccio attacco contro gli Stati Uniti e i loro alleati.",
+            "title": "Tom Clancy's Jack Ryan",
+            "saga": "Tom Clancy's Jack Ryan",
+            "year": "2018",
+            "tmdb_id": "73375",
+            "genre":["Action & Adventure", "Dramma", "War & Politics"],
+            "url": "/SERIE-TV/_list.json"
+        },
+        {
+            "plot": "Meredith Grey è una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce così a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i più svariati problemi. Meredith è figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realtà lui è Derek Shepherd, neurochirurgo dell'ospedale, nonché suo supervisore. Meredith deve così districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
+            "title": "Grey's Anatomy",
+            "saga": "Grey's Anatomy",
+            "year": "2005",
+            "tmdb_id": "1416",
+            "genre":["Dramma"],
+            "url": "/SERIE-TV/_list.json"
+        },
+        {
+            "plot": "La serie racconta le storie di persone normali che scoprono di possedere capacità sovrumane, e di come queste hanno effetto nelle loro vite.",
+            "title": "Heroes",
+            "saga": "Heroes",
+            "year": "2006",
+            "tmdb_id": "1639",
+            "genre":["Sci-Fi & Fantasy", "Dramma"],
+            "url": "/SERIE-TV/heroes_list.json"
+        },
+        {
+            "plot": "Ad un anno di distanza la città di Odessa è ancora sconvolta da quello che è stato descritto dai media come un grave attentato terroristico, la cui responsabilità sarebbe dei cosiddetti \"umani evoluti\", noti con l'abbreviazione evo, persone dotate di poteri soprannaturali la cui esistenza, dopo gli eventi del finale della quarta stagione di Heroes, risalenti a cinque anni prima, è ormai di dominio pubblico. Di conseguenza molti di tali soggetti sono ora costretti a vivere cercando di celare le proprie abilità, per sottrarsi alle discriminazioni della società, alle misure restrittive imposte dai governi, e per evitare di finire nel mirino di chi è in cerca di vendetta o vorrebbe sfruttarli per propri fini, come la compagnia Renautas, conglomerato che ha acquisito la Primatech Paper, o la coppia Luke e Joanne, che vorrebbe sterminarli per vendicare la morte del figlio rimasto vittima degli eventi di Odessa. Tra i protagonisti figurano il giovane Tommy Clark, uno studente in grado di far sparire cose e persone, la giapponese Miko Otomo, in grado di vivere in una realtà virtuale in cui va alla ricerca del padre, Carlos Gutierrez, che cerca di onorare la morte del fratello e Malina, una delle prime ad essere testimone di un pericolo immininente per l'intero pianeta. Presto, infatti, saranno chiamati ad unire le proprie forze per salvare il mondo.",
+            "title": "Heroes Reborn",
+            "saga": "Heroes Reborn",
+            "year": "2015",
+            "tmdb_id": "60858",
+            "genre":["Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/reborn_list.json"
+        },
+        {
+            "plot": "Roma, seconda meta' degli anni '80 Liceo Classico Leopardi. Qui si incontrano i diversi protagonisti della serie e qui si vivono le epiche gesta esilaranti dei compagni di classe della III C, i liceali più goliardici dell'intero anno scolastico. Bruno Sacchi timido ragazzo piuttosto in carne, spesso impacciato ma con un cuore grande. Chicco Lazzaretti il classico ripetente instancabile, attaccatissimo alla scuola e ai compagni, sempre pronto a rispondere ai professori in modo divertente per distrarre i compagni di classe. Non potevano mancare Daniele e Rossella, tipici fidanzatini cresciuti assieme fin da piccoli e la bellissima e biondissima Sharon Zampetti, desiderata da tutti.",
+            "title": "I ragazzi della 3c",
+            "saga": "I ragazzi della 3c",
+            "year": "1987",
+            "tmdb_id": "41583",
+            "genre":["Commedia"],
+            "url": "/SERIE-TV/_list.json"
+        },
+        {
+            "plot": "Otto ladri si barricano nell'edificio della Zecca spagnola con alcuni ostaggi, mentre una mente criminale manipola la polizia per mettere in atto il suo piano.",
+            "title": "La casa di carta",
+            "saga": "La casa di carta",
+            "year": "2017",
+            "tmdb_id": "71446",
+            "genre":["Crime","Dramma"],
+            "url": "/SERIE-TV/carta_list.json"
+        },
+        {
+            "plot": "Il noto giornalista Mario conduce l'MTG, ma la Micidial Corporation ha comprato l'emittente e impone i suoi discutibili sponsor durante le dirette. Mario non ci sta e decide di andarsene, ma viene bloccato da Lord Micidial che non solo lo costringe a rinunciare alle dimissioni, ma gli affianca il figlio Ginetto, che dovrà istruire sull'arte del giornalismo.",
+            "title": "Mario",
+            "saga": "Mario",
+            "year": "2013",
+            "tmdb_id": "47319",
+            "genre":["Commedia"],
+            "url": "/SERIE-TV/mario_list.json"
+        },
+        {
+            "plot": "Person of Interest è un crime ambientato a New York che vede l’ex agente della CIA e presunto cadavere John Reese stringere un’improbabile alleanza con il misterioso miliardario Mr. Finch allo scopo di prevenire crimini in autonomia, all’insaputa delle forze dell’ordine, prima che accadano. A tal proposito Finch ha inventato un software che usa un metodo matematico complicatissimo per riconoscere individui che saranno coinvolti nei più svariati crimini. Per riuscirci useranno la tecnologia di sorveglianza più avanzata, le capacità tattiche di Reese e le infinite risorse economiche di Finch.",
+            "title": "Person of Interest",
+            "saga": "Person of Interest",
+            "year": "2011",
+            "tmdb_id": "1411",
+            "genre":["Dramma", "Action & Adventure", "Crime", "Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/person_list.json"
+        },
+        {
+            "plot": "Dopo essersi svegliata in un obitorio, una ragazza orfana scopre di avere superpoteri e di appartenere come prescelta a un ordine segreto di suore cacciatrici di demoni.",
+            "title": "Warrior Nun",
+            "saga": "Warrior Nun",
+            "year": "2020",
+            "tmdb_id": "87689",
+            "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/nun_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre":[""],
+            "url": "/SERIE-TV/_list.json"
+        },
+        {
             "plot": "",
             "title": "",
             "saga": "",

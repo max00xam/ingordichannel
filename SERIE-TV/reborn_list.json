@@ -1,0 +1,147 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 60858,
+			"number": "1x1",
+			"saga": "Heroes Reborn",
+			"title": "Il mondo nuovo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cd77c22e95a8c76fef2771461f0335ed"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x2",
+			"saga": "Heroes Reborn",
+			"title": "Odessa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/722586e0c9a1341da4c82f46d583672f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x3",
+			"saga": "Heroes Reborn",
+			"title": "Sotto la maschera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/edcb40c7f33fc32b2ed423ba5615ba76"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x4",
+			"saga": "Heroes Reborn",
+			"title": "I bisogni dei molti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5cc471184d7a11bff63723c4293b599e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x5",
+			"saga": "Heroes Reborn",
+			"title": "La tana del leone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9f960a9f5ca00d373621d381a736c998"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x6",
+			"saga": "Heroes Reborn",
+			"title": "Game Over",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3f208c4bc585da83cf1f92596faf8d9a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x7",
+			"saga": "Heroes Reborn",
+			"title": "13 giugno - (Parte 1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d1627f098b8d15c68f12d3e25bd497d8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x8",
+			"saga": "Heroes Reborn",
+			"title": "13 giugno - (Parte 2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/156fc76764eef6365c444ca94c86aa3a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x9",
+			"saga": "Heroes Reborn",
+			"title": "Gusto sangue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3f42f299abd6e83ca07dbf9561f1001a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x10",
+			"saga": "Heroes Reborn",
+			"title": "1153 per Odessa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/edd4f1a5a9f6e5fb0b410774472750ff"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x11",
+			"saga": "Heroes Reborn",
+			"title": "Avanti i cloni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7554e9924128c6fa3614b32c69a95c9d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x12",
+			"saga": "Heroes Reborn",
+			"title": "La donna dell`impresa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/351b4600b454d5458f8f06491791b5d5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60858,
+			"number": "1x13",
+			"saga": "Heroes Reborn",
+			"title": "Progetto rinascità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9abe9f21de334bb2a0b9b511f8af91d3"
+				}
+			]
+		}
+    ]
+}

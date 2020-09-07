@@ -1,17 +1,44 @@
 {
     "movies_list": [
-        {
-			"saga": "Fantozzi",
-			"tmdb_id": 41668,
-			"title": "Fantozzi - Il ritorno",
-			"plot": "Abbiamo lasciato Fantozzi in Paradiso, ma i suoi guai non sono finiti lì. In Paradiso, infatti, c'è sovrapopolazione e ovviamente a farne le spese sarà proprio il ragioniere più famoso d'Italia. Tornato sulla Terra, riprende il tran-tran di sempre, con alcune conferme (i compagni d'ufficio) e qualche novità, naturalmente non piacevole. La nipote Uga viene rapita e costringe Fantozzi ad addentrarsi in uno sconosciuto e degradato mondo giovanile. La moda delle chat-line lo contagia al punto di innamorarsi perdutamente di una telefonista che scopre essere la Pina. La signorina Silvani lo accusa di averla messa incinta, mentre il megapresidente lo coinvolge in un processo per corruzione.",
-			"year": "1996",
-			"director": "Neri Parenti",
-			"genre": "Commedia",
-			"actors": "Paolo Villaggio, Milena Vukotić, Gigi Reder, Maria Cristina Maccà, Maurizio Mattioli, Anna Mazzamauro, Antonio Allocca, Sergio Gibello, Paolo Paoloni, Nello Riviè, Fabio Traversa, Mauro Vestri, Walter Nudo, Angelo Bernabucci, Gianni Franco, Éva Henger, Neri Parenti, Big Jimmy, Tony Brennero",
+		{
+			"tmdb_id": 25606,
+			"title": "Fantozzi",
+			"plot": "Dopo aver lottato con i mezzi pubblici perennemente strapieni, il ragionier Ugo Fantozzi arriva finalmente in ufficio. Qui trova ad attenderlo pile di pratiche da sbrigare rifilategli dai furbi colleghi. Costretto a partecipare a gite aziendali e partite di calcio, Fantozzi è anche ossessionato da una moglie brutta e da una figlia orripilante.",
+			"year": "1975",
+			"director": ["Luciano Salce"],
+			"genre": ["Commedia"],
+			"actors": ["Paolo Villaggio","Anna Mazzamauro","Gigi Reder","Giuseppe Anatrelli","Umberto D'Orsi","Liù Bosisio","Dino Emanuelli","Plinio Fernando","Paolo Paoloni","Elena Tricoli","Pietro Zardini","Artemio Antonini","Amerigo Alberani","Mirko Baiocchi","Luciano Bonanni","Arnaldo Colombaioni","Willy Colombaioni","Iolanda Fortini","Ettore Geri","Ivano Gobbo","Giorgio Iovine","Enrico Marciani","Nicola Morelli","Nello Pazzafini","Valerio Ruggeri","Giuseppe Terranova","Vincenzo Vitagliano","Alfredo Adami","Domenico Ravenna","Bruno Bertocci","Angelo Casadei","Angelo Di Porto","Jimmy il Fenomeno","Giuseppe Marrocco","Amedeo Salamon","Nando Sarlo","Haruhiko Yamanouchi"],
 			"links": [
 				{
-					"url": "http://51.77.159.233:30299/9847f6c448026b49fd61317701342751"
+					"url": "http://51.77.159.233:30299/9ea442d3561984a5d85fb0c0b7a5f9ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": 37769,
+			"title": "Il secondo tragico Fantozzi",
+			"plot": "Dopo le disavventure del primo film, Fantozzi prosegue la sua catastrofica vita quotidiana tra le frustazioni lavorative e il triste ménage familiare. I mitici episodi del ricevimento della Contessa Serbelloni Mazzanti Vien dal Mare e la ricostruzione della scena della scalinata del film \"La corazzata Potemkin\", definito da Fantozzi \"una cagata pazzesca\", sono ormai entrati di diritto nella galleria delle immagini più famose del cinema comico italiano.",
+			"year": "1976",
+			"director": ["Luciano Salce"],
+			"genre": ["Commedia"],
+			"actors": ["Paolo Villaggio","Liù Bosisio","Plinio Fernando","Gigi Reder","Anna Mazzamauro","Giuseppe Anatrelli","Ugo Bologna","Antonino Faà di Bruno","Paolo Paoloni","Mauro Vestri","Nietta Zocchi","Alba Maiolini"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8e4a5e6c6b9f0d65efcad77519b22709"
+				}
+			]
+		},
+		{
+			"tmdb_id": 41663,
+			"title": "Fantozzi contro tutti",
+			"plot": "Il ragionier Ugo Fantozzi è un perdente nato: per lui i problemi dell'ufficio e del vivere quotidiano sono tragedie immani. Come solcare il traffico cittadino, trovare un parcheggio, trattare con i colleghi, soddisfare i capi, partecipare alle manifestazioni organizzate dal sindacato.",
+			"year": "1980",
+			"director": ["Paolo Villaggio","Neri Parenti"],
+			"genre": ["Commedia"],
+			"actors": ["Paolo Villaggio","Milena Vukotić","Gigi Reder","Camillo Milli","Paul Müller","Plinio Fernando","Guerrino Crivello","Angelo Pellegrino","Pietro Zardini","Diego Abatantuono","Giuseppe Anatrelli","Ennio Antonelli","Raffaele Di Mario","Paolo Baroni","Renzo Rinaldi","Lars Bloch","Silvano Spadaccino","Nicola Morelli","Sergio Ukmar","Giulio Massimini","Gennarino Pappagalli","Valentino Simeoni","Willy Stella","Luciano Zanussi"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/29b6ca3ebd6535b2bb1f1a4d9c1b1b6d"
 				}
 			]
 		},
@@ -29,6 +56,22 @@
 					"url": "http://51.77.159.233:30299/84fa1054508a60a7440fbe5be6f9d8a9"
 				}
 			]
+		},
+        {
+			"saga": "Fantozzi",
+			"tmdb_id": 41668,
+			"title": "Fantozzi - Il ritorno",
+			"plot": "Abbiamo lasciato Fantozzi in Paradiso, ma i suoi guai non sono finiti lì. In Paradiso, infatti, c'è sovrapopolazione e ovviamente a farne le spese sarà proprio il ragioniere più famoso d'Italia. Tornato sulla Terra, riprende il tran-tran di sempre, con alcune conferme (i compagni d'ufficio) e qualche novità, naturalmente non piacevole. La nipote Uga viene rapita e costringe Fantozzi ad addentrarsi in uno sconosciuto e degradato mondo giovanile. La moda delle chat-line lo contagia al punto di innamorarsi perdutamente di una telefonista che scopre essere la Pina. La signorina Silvani lo accusa di averla messa incinta, mentre il megapresidente lo coinvolge in un processo per corruzione.",
+			"year": "1996",
+			"director": "Neri Parenti",
+			"genre": "Commedia",
+			"actors": "Paolo Villaggio, Milena Vukotić, Gigi Reder, Maria Cristina Maccà, Maurizio Mattioli, Anna Mazzamauro, Antonio Allocca, Sergio Gibello, Paolo Paoloni, Nello Riviè, Fabio Traversa, Mauro Vestri, Walter Nudo, Angelo Bernabucci, Gianni Franco, Éva Henger, Neri Parenti, Big Jimmy, Tony Brennero",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9847f6c448026b49fd61317701342751"
+				}
+			]
 		}
+		
     ]
 }

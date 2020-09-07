@@ -399,7 +399,34 @@
           "year": "2013",
           "tmdb_id": "60625",
           "genre":["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure"],
-          "url": "/SERIE-TV/rick_list.json"
+          "url": "/ANIMAZIONE/anime/rick_list.json"
+      },
+      {
+          "plot": "Scuola di polizia (Police Academy) è una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato è tratto dalla serie cinematografica dei film: Scuola di polizia. La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+          "title": "Scuola di Polizia",
+          "saga": "Scuola di Polizia",
+          "year": "1988",
+          "tmdb_id": "5645",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/scuola_list.json"
+      },
+      {
+          "plot": "I Puffi (The Smurfs) è una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esordì nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata è diventata molto popolare ed è stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",
+          "title": "I Puffi",
+          "saga": "I Puffi",
+          "year": "1981",
+          "tmdb_id": "5687",
+          "genre":["Animazione", "Famiglia"," Sci-Fi & Fantasy", "Kids"],
+          "url": "/ANIMAZIONE/anime/puffi_list.json"
+      },
+      {
+          "plot": "",
+          "title": "",
+          "saga": "",
+          "year": "",
+          "tmdb_id": "",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/_list.json"
       }
     ]
   }

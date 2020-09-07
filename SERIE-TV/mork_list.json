@@ -1,0 +1,767 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 2552,
+			"number": "1x1",
+			"saga": "Mork e Mindy",
+			"title": "Il nostro inviato speciale (parte1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dc7a80c3bf90277eedbfeaa026bdce48"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x2",
+			"saga": "Mork e Mindy",
+			"title": "Il nostro inviato speciale (parte2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ced8b0e616d3b6c72cd683825231214a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x3",
+			"saga": "Mork e Mindy",
+			"title": "Arriva Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5cd04db71f53fd4fb2f4c9669b2d1c0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x4",
+			"saga": "Mork e Mindy",
+			"title": "Mork scappa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8e142abc5a909034145c3a42c8c341ac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x5",
+			"saga": "Mork e Mindy",
+			"title": "Mork s`innamora",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fb945081a00db297dea571fd9eeb0d98"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x6",
+			"saga": "Mork e Mindy",
+			"title": "Attentato a Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3d5acac57f8e0c13504c198417ec6b7f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x7",
+			"saga": "Mork e Mindy",
+			"title": "Mork in vendita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/71e61cff6d940148ab859c44ceaf6a4a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x8",
+			"saga": "Mork e Mindy",
+			"title": "Le bugie bianche",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5c60b9cf60f5ba18db0737fedca1a94f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x9",
+			"saga": "Mork e Mindy",
+			"title": "Il candido Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/020afb0c896490e24a955540337622c5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x10",
+			"saga": "Mork e Mindy",
+			"title": "Una mammina per il piccolo Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c2832c9c8662959331da90c1f6592070"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x11",
+			"saga": "Mork e Mindy",
+			"title": "Il più grande colpo di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f94a6b0dcf615e39aff1f1644781a794"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x12",
+			"saga": "Mork e Mindy",
+			"title": "Una buona azione di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ac97cd0eaa1557ff8820d12df142ea87"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x13",
+			"saga": "Mork e Mindy",
+			"title": "Il primo Natale di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4090a782dae02768da74de597b2c829f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x14",
+			"saga": "Mork e Mindy",
+			"title": "Mork e l`immigrato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cba06fed03a5a73bc115cf55dbccfb3c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x15",
+			"saga": "Mork e Mindy",
+			"title": "Mork e la tolleranza",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/902fa94b6ce912ea223f1a961e1b2f4b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x16",
+			"saga": "Mork e Mindy",
+			"title": "Un dolce giovane amore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cbb6f623446821ce34d7958de25dc8f1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x17",
+			"saga": "Mork e Mindy",
+			"title": "Un fiore per Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/73633c55f2c909637ced801b7479467d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x18",
+			"saga": "Mork e Mindy",
+			"title": "Il compleanno di Mindy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ea01850a92b9bb2d73c449d7a121d80b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x19",
+			"saga": "Mork e Mindy",
+			"title": "La pupa è mia! O no",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5a44d752a2a64e2e9f727c8e595f235e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x20",
+			"saga": "Mork e Mindy",
+			"title": "Mork e le emozioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ba2830cfdbd39301fefe310565465c7d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x21",
+			"saga": "Mork e Mindy",
+			"title": "Mork in libera uscita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2aa0b45ba05526fccc290cfd2f3836be"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x22",
+			"saga": "Mork e Mindy",
+			"title": "Le metamorfosi di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cd865f2f3014d8c8f7a67284d9037cf0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x23",
+			"saga": "Mork e Mindy",
+			"title": "Mork è impazzito",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fcfe8ee6d84d2574448cbaedf5b17a98"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x24",
+			"saga": "Mork e Mindy",
+			"title": "Mork invisibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c035700cd595380931bb0e82644d3c3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "1x25",
+			"saga": "Mork e Mindy",
+			"title": "Il miglior amico di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ee87b1d37fc2cad047b4183b610319f1"
+				}
+			]
+		},
+		{
+			
+			"title": "Stagione 2 non trovata, ci scusiamo"
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x1",
+			"saga": "Mork e Mindy",
+			"title": "La trasformazione di Mork (1)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/21e809689b8756af1027e87ba3503417"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x2",
+			"saga": "Mork e Mindy",
+			"title": "La trasformazione di Mork (2)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/66d3682865f0dda188f87de8a0a3e6f7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x3",
+			"saga": "Mork e Mindy",
+			"title": "Mork in Pazzilandia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/567d90dd812073d2f76b65e705dec778"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x4",
+			"saga": "Mork e Mindy",
+			"title": "Gara sulle rotelle",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a30384bdabc40ededa85d9c424a339bc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x5",
+			"saga": "Mork e Mindy",
+			"title": "Gli scherzi di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e82bc67bf247c6819c3f1a755a8b3e2e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x6",
+			"saga": "Mork e Mindy",
+			"title": "Mork lo zio della scimmia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1a5a6e365eb638c96145310d8e099e56"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x7",
+			"saga": "Mork e Mindy",
+			"title": "La sfida al Mork Corral",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/041528be6d0620f45cb2a88a7974ccd1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x8",
+			"saga": "Mork e Mindy",
+			"title": "Mork si fa la plastica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/89e03473ef230d729d57e6ee8299dd27"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x9",
+			"saga": "Mork e Mindy",
+			"title": "Ahimè povero Mork, noi lo conoscevamo bene",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/adc914a56fc3f5fed36cdc4550fbfe7e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x10",
+			"saga": "Mork e Mindy",
+			"title": "Mork e il rimprovero mendicato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f187547a2b0a12cd505cac295673974e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x11",
+			"saga": "Mork e Mindy",
+			"title": "Mindy trova lavoro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/772257fefd2756d6eca54083ef8568e1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x12",
+			"saga": "Mork e Mindy",
+			"title": "Dodici apparecchi furiosi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7b1aa02799122f1b163376f96b0ef94a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x13",
+			"saga": "Mork e Mindy",
+			"title": "C’è un nuovo Mork in città",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a24f4d713e1d0f3466270c7ff15843ce"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x14",
+			"saga": "Mork e Mindy",
+			"title": "Mork ha un sosia, purtroppo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/17e8cc8febb29b1b283a71e435cd2f33"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x15",
+			"saga": "Mork e Mindy",
+			"title": "Di Mindy ce n’è una sola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/31aa165a28f8de381e6c95ec382813ea"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x16",
+			"saga": "Mork e Mindy",
+			"title": "Mork si dà alla vita",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a41ade926f163bea272fcc58d37bca02"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x17",
+			"saga": "Mork e Mindy",
+			"title": "Mork e Mindy, Ricky e Ruby",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1e65e6390d7fc42988e0eb23325037b8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x18",
+			"saga": "Mork e Mindy",
+			"title": "Mork e la riunione di famiglia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bcfe1395def1c2946784dcad55e24123"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x19",
+			"saga": "Mork e Mindy",
+			"title": "Mork il terrore dei rapinatori",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/663a5247c286fc3c0ce262ae8dc4fe84"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x20",
+			"saga": "Mork e Mindy",
+			"title": "Mork comare pettegola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f3192f1f1c2212946f40ed840fde0c49"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x21",
+			"saga": "Mork e Mindy",
+			"title": "Mindy e Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d682bc59d1e62206b4145499f8ec9085"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "3x22",
+			"saga": "Mork e Mindy",
+			"title": "Riflessioni e rimpianti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d86abaf05992b380b1d6bdac29f14373"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x1",
+			"saga": "Mork e Mindy",
+			"title": "Mork si dichiara",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/828ebee5fdacec7ca0c1c3b5ed5c8d36"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x2",
+			"saga": "Mork e Mindy",
+			"title": "Le nozze di Mork e Mindy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f3bef0c8f3a11a95c41ad6c15c0d173a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x3",
+			"saga": "Mork e Mindy",
+			"title": "Luna di miele",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3e74105bba39c6ed8a862b249c0a404b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x4",
+			"saga": "Mork e Mindy",
+			"title": "Un parto difficile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3d134a62d2df27d9a9a3477d6d6965ef"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x5",
+			"saga": "Mork e Mindy",
+			"title": "Un figlio fuori del normale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5d03e6f1b74a4cc0f417c698e2cf0598"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x6",
+			"saga": "Mork e Mindy",
+			"title": "Papà sei grande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b6221c6a5354b3d736d9378b9ffa2f6e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x7",
+			"saga": "Mork e Mindy",
+			"title": "Prima che c’incontrassimo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/180050b2bd35cbdcd11fea67eadfb503"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x8",
+			"saga": "Mork e Mindy",
+			"title": "Il povero Mork diventa ricco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3616c41c8074ec335c47b94e3ad5cc9e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x9",
+			"saga": "Mork e Mindy",
+			"title": "Alienazione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0c628da07742b5829bfbccabc59cac77"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x10",
+			"saga": "Mork e Mindy",
+			"title": "Mearth, lo scolaro del 2001",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6d3f256ffbc8992eb107402205620005"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x11",
+			"saga": "Mork e Mindy",
+			"title": "L’educazione sessuale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/97dd9ae843a0801fd6c30a0e57c3c174"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x12",
+			"saga": "Mork e Mindy",
+			"title": "L’importante è amarsi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b510ddd64ccb088f112dbbee89928cb9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x13",
+			"saga": "Mork e Mindy",
+			"title": "La metamorfosi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2d0fce7a78f603efc4971133dc996670"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x14",
+			"saga": "Mork e Mindy",
+			"title": "E guida, disse",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/66dde22fce5379709587fe2927ade3ce"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x15",
+			"saga": "Mork e Mindy",
+			"title": "Non ricordo niente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/feac64d651d69e446d0b065a2a3aaea1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x16",
+			"saga": "Mork e Mindy",
+			"title": "Mork e Mindy incontrano MILT",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2eacb4780db67016513c6e1c8e3fe7c5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x17",
+			"saga": "Mork e Mindy",
+			"title": "Non è tutto oro…",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/431043c481bda8ca57fa4f5bfa7ca2ff"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x18",
+			"saga": "Mork e Mindy",
+			"title": "Mindy finisce in prigione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/04a0c749335318af1889ecf8885167d6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x19",
+			"saga": "Mork e Mindy",
+			"title": "Fuggiamo insieme – parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7fe383e90cd44fc327c8e3285a424e3e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x20",
+			"saga": "Mork e Mindy",
+			"title": "Fuggiamo insieme – parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d7807a215ae3d95bcff1d74ed10d2cf0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x21",
+			"saga": "Mork e Mindy",
+			"title": "Fuggiamo insieme – parte 3",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/423228977fca66b23512ac2c656dc29c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 2552,
+			"number": "4x22",
+			"saga": "Mork e Mindy",
+			"title": "Il resoconto di Mork",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/afea8d2388b48365d85d15d94be5e8c7"
+				}
+			]
+		}
+    ]
+}

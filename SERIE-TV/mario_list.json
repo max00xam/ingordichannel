@@ -1,0 +1,554 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 47319,
+			"number": "1x1",
+			"saga": "Mario",
+			"title": "Cavoli amario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c36e5cba8457706bf1030e84e9b11162"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x2",
+			"saga": "Mario",
+			"title": "Ginetto senza G",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f7ecefc0a077a5f2f2e8785211358a80"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x3",
+			"saga": "Mario",
+			"title": "La sciabolata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ebdd1e902bf4a9acc5686e30f5218038"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x4",
+			"saga": "Mario",
+			"title": "Lo sciopero della faccia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/34146b75c1969ec77e02895f5db3c9c5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x5",
+			"saga": "Mario",
+			"title": "A di ahia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8fd42e4c21afc7a289221402c03a6b57"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x6",
+			"saga": "Mario",
+			"title": "Puntata bella",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1557282dfcc2135fb77a4bf4c270f5d1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x7",
+			"saga": "Mario",
+			"title": "Cappelli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/98d9c6eb156492d33a7f20b427f3081d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x8",
+			"saga": "Mario",
+			"title": "Amore amario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0cc66127f547fc94a0c2190e2f752f8f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x9",
+			"saga": "Mario",
+			"title": "Plop",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6f639239c4d7bfc557a58d5e3b32127e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x10",
+			"saga": "Mario",
+			"title": "Ceffone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/49d38a4b33c68a6ceb9794e28bdeb224"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x11",
+			"saga": "Mario",
+			"title": "252385736 secondi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fac0fc0607a1c18949c82bcbba12acd9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x12",
+			"saga": "Mario",
+			"title": "Donatello",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8926c3a425aa93262a6e73888b77544c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x13",
+			"saga": "Mario",
+			"title": "Pompiere che indaga su Buonanima",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6cf63a0dc2a383b3ace3ee15dae83c97"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x14",
+			"saga": "Mario",
+			"title": "Pompiere che indaga su Buonanima 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/71ea5d0b77915f4e574891c35670110a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x15",
+			"saga": "Mario",
+			"title": "Sei pallini",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f9ee8da10583bdb5bbd280fe822a3920"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x16",
+			"saga": "Mario",
+			"title": "Giobbe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b54fec26b129e988d3231e0292dc212d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x17",
+			"saga": "Mario",
+			"title": "Ho visto tutto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/129df368e57a682925b6e5b7ae6b6b16"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "1x18",
+			"saga": "Mario",
+			"title": "Il vecchio e il Mario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b5e12f71cf6710324bace19ec899e9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x1",
+			"saga": "Mario",
+			"title": "Mario Mario Mario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4afc0cec5d03d02ef30c47dd79b8114d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x2",
+			"saga": "Mario",
+			"title": "Un TG andato a Mario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/18c27b6c27938b63334fedd38c89ea12"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x3",
+			"saga": "Mario",
+			"title": "Un uomo spregevole invidioso del tuo successo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/55d1c703b7155f72e0bbd42789df1171"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x4",
+			"saga": "Mario",
+			"title": "Per un pugno di pollice",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d8cce861f5e1860afeb6ec8fa996c684"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x5",
+			"saga": "Mario",
+			"title": "Micidial Horror Story",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/59d13a30c6c68c548ee533377a96071c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x6",
+			"saga": "Mario",
+			"title": "Il pirulicchio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/014065a177704bd457d4d2421b0a8940"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x7",
+			"saga": "Mario",
+			"title": "Liberaci dal Mario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/952947a7b3b43e9def9fb5d7c23a983c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x8",
+			"saga": "Mario",
+			"title": "Sano e calvo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e663fbc27140668d2430454968beba53"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x9",
+			"saga": "Mario",
+			"title": "De Dac Said Ov Genni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ee2e41abca24257a080b1c955bd4526"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x10",
+			"saga": "Mario",
+			"title": "Il magnate degli spaghetti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f8d73b892ab39c04ca9bd83c3c5a8630"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x11",
+			"saga": "Mario",
+			"title": "Occhio Pin",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/742db58ad0c1b39787d8ca5316907e44"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x12",
+			"saga": "Mario",
+			"title": "Patto micidiale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6d78acc1fb4dcc95d944797177383920"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x13",
+			"saga": "Mario",
+			"title": "Veterimario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/63b222fb98f9e818ccf1a277dda075a3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x14",
+			"saga": "Mario",
+			"title": "Mamma Mia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6febaf3ac3c8f1ed6cc90608d299e655"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x15",
+			"saga": "Mario",
+			"title": "Penultima puntata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/79e4b181ee48389d341def8dd4ec8b4a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "2x16",
+			"saga": "Mario",
+			"title": "I truppi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4df82a5d42ca8ee24c7269ad26364448"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x1",
+			"saga": "Mario",
+			"title": "Puntata speciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/acf0449ede93c14a506fab306f187255"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x2",
+			"saga": "Mario",
+			"title": "Drappi dorati - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d61abcb4307d21acf8f1b77ae7cdb082"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x3",
+			"saga": "Mario",
+			"title": "Imposizioni - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bda76f1a7e20f9efbb0a1bd1a70fc9f5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x4",
+			"saga": "Mario",
+			"title": ".",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ff773f0e2d75696910810f8fd6cb523"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x5",
+			"saga": "Mario",
+			"title": "50 kg di salamone - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4dafe613cd5c0032886d87a0418778d6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x6",
+			"saga": "Mario",
+			"title": "Potassio e Big Willy - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/001a24b3069b0619c672713e59fb79e9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x7",
+			"saga": "Mario",
+			"title": "A Scanzi di equivoci - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c7a4794d42e614aca9afc267d75feca4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x8",
+			"saga": "Mario",
+			"title": "Sponde su sponde - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/89d3a947b90eb1f462817b1c15d725be"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x9",
+			"saga": "Mario",
+			"title": "La colazione del campione - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8c22884dc3d5329d1c835c747aa0efa5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x10",
+			"saga": "Mario",
+			"title": "Revival - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/443990d3800c2c65041bf4b200bf240c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x11",
+			"saga": "Mario",
+			"title": "Questioni di diete - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3b835f788c16690bf5154fee1a727fd5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x12",
+			"saga": "Mario",
+			"title": "Fascio di nervi - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7c68dbea28e893e1549b2c3c2e9d0d56"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x13",
+			"saga": "Mario",
+			"title": "Erre nobile - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c8188d7f7c7c691674d7e2298b5c569"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x14",
+			"saga": "Mario",
+			"title": "Teatro delle orecchie - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4d2537783eeaf076c18e29a29b1ecd59"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x15",
+			"saga": "Mario",
+			"title": "Avverbi, pronomi - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/65f75969f1505215df3e339ec31a2171"
+				}
+			]
+		},
+		{
+			"tmdb_id": 47319,
+			"number": "3x16",
+			"saga": "Mario",
+			"title": "Il brodo bolliva - Backstage",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5bbd61d2af89b1650c9a5633679ad69b"
+				}
+			]
+		}
+    ]
+}

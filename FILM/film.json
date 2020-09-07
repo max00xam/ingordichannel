@@ -97,6 +97,18 @@
             "url": "/FILM/saghe/twilight_list.json"
         },
         {
+            "plot": "Ghostbusters (in italiano Acchiappafantasmi) è una serie cinematografica statunitense, nella quale quattro scienziati newyorkesi diventano popolari cacciatori di fantasmi. Iniziata dal film Ghostbusters - Acchiappafantasmi nel 1984, la saga è proseguita con un sequel nel 1989, Ghostbusters II, un reboot nel 2016, Ghostbusters, e alcune serie animate fino al 1997. Diversi videogiochi sono stati prodotti fino al 1990, riprendendo nel 2009 con Ghostbusters: Il videogioco. Inoltre nel 2021 è previsto un nuovo film, intitolato Ghostbusters: Legacy, un vero sequel dei due film originali.",
+            "title": "Ghostbusters",
+            "saga": "Ghostbusters",
+            "url": "/FILM/saghe/ghostbuster_list.json"
+        },
+        {
+            "plot": "Agatha Christie è considerata colei che ha costruito le basi del romanzo giallo classico, con delitti costruiti ad arte e, per questo, è stata soprannominata la regina del giallo. Dai suoi libri sono stati tratti numerosi adattamenti cinematografici e televisivi, che hanno fatto conoscere anche al pubblico contemporaneo la grande scrittrice inglese. Abbiamo selezionato alcuni dei film più belli ispirati ai libri di Agatha Christie.",
+            "title": "Agatha Christie",
+            "saga": "Agatha Christie",
+            "url": "/FILM/saghe/agatha_list.json"
+        },
+        {
             "plot": "",
             "title": "",
             "saga": "",

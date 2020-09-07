@@ -981,6 +981,20 @@
 					"url": "http://51.77.159.233:30299/09b99ac7d307400ed56138666dca17d9"
 				}
 			]
+		},
+		{
+			"tmdb_id": 176241,
+			"title": "Prison Break: The Final Break",
+			"plot": "Prison Break: The Final Break è un film per la televisione che inizialmente determinava la fine della serie televisiva Prison Break. Al termine dei titoli di coda i due episodi sono indicati come le puntate 23 e 24 della quarta stagione. Gli episodi sono ambientati due giorni dopo il finale della quarta stagione, si scoprono quindi diverse situazioni trovate nel flashforward e questo porterà ad avere un piano chiaro e completo delle storie di ogni personaggio.",
+			"year": "2009",
+			"director": ["Brad Turner","Kevin Hooks"],
+			"genre": ["Azione","Dramma","Thriller"],
+			"actors": ["Wentworth Miller","Sarah Wayne Callies","Dominic Purcell","Jodi Lyn O'Keefe","Amaury Nolasco","Robert Knepper","William Fichtner","Amy Aquino","Lori Petty","Kim Coates"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ddcf49483f3fad5598dbb546cb0ce49c"
+				}
+			]
 		}
     ]
 }

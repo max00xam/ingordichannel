@@ -1,0 +1,697 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 5645,
+			"number": "1x1",
+			"saga": "Scuola di polizia",
+			"title": "La banda dei clown",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/542064b95f44006c741607550bc77230"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x2",
+			"saga": "Scuola di polizia",
+			"title": "Cani d`assalto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/faf09cef135180d74c3f35a773ebe292"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x3",
+			"saga": "Scuola di polizia",
+			"title": "Il fantasma",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0df94294f4cc3d6f3ea07a2f23ea12f0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x4",
+			"saga": "Scuola di polizia",
+			"title": "Poliziotti robot",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0d205b7f6d9c31ea529d0d75f5463f16"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x5",
+			"saga": "Scuola di polizia",
+			"title": "Missione in Inghilterra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb8b9bdd2d962f50cbabeedd8d6df5b4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x6",
+			"saga": "Scuola di polizia",
+			"title": "Incidente all`opera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f0a2b6a7cbce27b536fb0fec5c8edf9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x7",
+			"saga": "Scuola di polizia",
+			"title": "Tanto oro quanto pesa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/07e2626b1918591203f2600a72323239"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x8",
+			"saga": "Scuola di polizia",
+			"title": "Nozze contrastate",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/00e9de48e9a3f7cf8396efae92db7378"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x9",
+			"saga": "Scuola di polizia",
+			"title": "Alla conquista del West",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/65e1e9bb5e58bd6642d34a2247e3921c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x10",
+			"saga": "Scuola di polizia",
+			"title": "Operazione Egitto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d7b0e4cb5959227734232e07acd826c3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x11",
+			"saga": "Scuola di polizia",
+			"title": "La vendetta di Testadura",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9e5d208d3cceb2845725daedb0d41027"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x12",
+			"saga": "Scuola di polizia",
+			"title": "Chiamatemi il dottore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9493e46a1c0ee702b0b4d5eba23f62a2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x13",
+			"saga": "Scuola di polizia",
+			"title": "Rapine sull`autostrada",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5c86d5d8c78afd4cb83f4927cb312715"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x14",
+			"saga": "Scuola di polizia",
+			"title": "La fattura",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a99471b029a6da0eacc3897383f1fa3b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x15",
+			"saga": "Scuola di polizia",
+			"title": "Ciak, azione, sbirri!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5a8d9582baaf7a2691f35d50f58a48cf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x16",
+			"saga": "Scuola di polizia",
+			"title": "Il campo estivo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40b4094ff84d73c808ab7d62d547914d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x17",
+			"saga": "Scuola di polizia",
+			"title": "Stato ipnotico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/70e6c0a041bebcd006c0bdb711ff6e33"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x18",
+			"saga": "Scuola di polizia",
+			"title": "Scontro tra bande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4eb804e524dbd0a94edf319f1bc2e16b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x19",
+			"saga": "Scuola di polizia",
+			"title": "Gli astro sbirri",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/696cda1ba788aded2b3cd44707ec06c6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x20",
+			"saga": "Scuola di polizia",
+			"title": "Il fratello di Sweetchuck",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ea90c951e9c904de1dbb454c4353bbe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x21",
+			"saga": "Scuola di polizia",
+			"title": "Guaio a Chinatown",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d4a9c7711044831ded5058499c4af37"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x22",
+			"saga": "Scuola di polizia",
+			"title": "Gli sballati del surf",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cad052a6648f395838bfefdd03586068"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x23",
+			"saga": "Scuola di polizia",
+			"title": "Nove scapoli e un bebè",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2de147470e8b13cc88ff0c3be7a0b720"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x24",
+			"saga": "Scuola di polizia",
+			"title": "Il pesce perduto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d4ca09b61de9ee5f32b03439580a54cf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x25",
+			"saga": "Scuola di polizia",
+			"title": "L`uomo dai mille volti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6509200e283bc8821d3eba4f9dc5b72b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "1x26",
+			"saga": "Scuola di polizia",
+			"title": "I baby agenti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f74fb28a9f464994dd9e3737d7727e3d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x1",
+			"saga": "Scuola di polizia",
+			"title": "Professor Jekyll and Gangster Hyde",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/01cf3b0ec4aee826050f5efa7804fe9d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x2",
+			"saga": "Scuola di polizia",
+			"title": "Operation Big House",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/83d13226e67176f6a8afd77536905069"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x3",
+			"saga": "Scuola di polizia",
+			"title": "Ship of Jewels",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ffc78314f6e813ecbc1ddbf866d4aead"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x4",
+			"saga": "Scuola di polizia",
+			"title": "Zillion Dollar Zed",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/65445dbfb2404f0e68e387a14250bdb2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x5",
+			"saga": "Scuola di polizia",
+			"title": "The Comic Book Caper",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4b159db66b89a6a47b43df8633682056"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x6",
+			"saga": "Scuola di polizia",
+			"title": "The Monkey Trial",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8cc8412400eee5c6fcd0bac7dbfc1832"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x7",
+			"saga": "Scuola di polizia",
+			"title": "Rolling for Dollars",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/69381b193c368a214e358b185af8497d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x8",
+			"saga": "Scuola di polizia",
+			"title": "K-9 Corps and the Peking Pooch",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f106cd9fbcb9fbc7cc0d90bbc0a754a4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x9",
+			"saga": "Scuola di polizia",
+			"title": "Santa with a Badge",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/704148cab8c2711a00246ad7b70cde2d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x10",
+			"saga": "Scuola di polizia",
+			"title": "Suitable for Framing",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c8066543c9282799a7c806339139bf6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x11",
+			"saga": "Scuola di polizia",
+			"title": "Rock Around the Cops",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1582846be5da176ab0b1c10f4f96dc94"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x12",
+			"saga": "Scuola di polizia",
+			"title": "Prince and the Copper",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a8cb6f5cbc6f5f3d55be709e11aac28d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x13",
+			"saga": "Scuola di polizia",
+			"title": "Now You Steal It, Now You Don`t",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e01761fd4e5bf8600121e905860af127"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x14",
+			"saga": "Scuola di polizia",
+			"title": "Mad Maxine",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40c3268ec85186dd96144dff1e3d2491"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x15",
+			"saga": "Scuola di polizia",
+			"title": "Trading Disgraces",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/62d5f6eebfcb1b50b5c5587097ab8874"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x16",
+			"saga": "Scuola di polizia",
+			"title": "Champ",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/100ec417448a1ad3e96bd3b597dead9f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x17",
+			"saga": "Scuola di polizia",
+			"title": "Wheels of Fortune",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c789e097b0602cd45cb91a8c0c0e4ec4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x18",
+			"saga": "Scuola di polizia",
+			"title": "The Wolf Who Cried Boy",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/be2d1cc74548a077bc56260f0e065475"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x19",
+			"saga": "Scuola di polizia",
+			"title": "Snow Job",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a301d52cf7949772267cfd35d28928c7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x20",
+			"saga": "Scuola di polizia",
+			"title": "A Bad Knight for Tackleberry",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40c4e023f1df90b62d805000bb6c330b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x21",
+			"saga": "Scuola di polizia",
+			"title": "Supercop Sweetchuck",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e1f720fecf1d810d812db6c204fb8407"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x22",
+			"saga": "Scuola di polizia",
+			"title": "Deja Voodoo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/71ce26bf50c64b7e0767fdc11373af81"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x23",
+			"saga": "Scuola di polizia",
+			"title": "Flights of the Bumbling Blues",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6a96492e57401668886ed299692c587c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x24",
+			"saga": "Scuola di polizia",
+			"title": "Big Burger",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3feefe3db0255e2f2f0cbd3477789732"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x25",
+			"saga": "Scuola di polizia",
+			"title": "Fat City",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/018aa3d1fe0e254c660673166a4dfcbb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x26",
+			"saga": "Scuola di polizia",
+			"title": "Elementary, My Dear Coppers!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/27cb8bb8b3d556aca23e62853a728b62"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x27",
+			"saga": "Scuola di polizia",
+			"title": "Dr",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7842eb24f2dd5abc89c611d884d55645"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x28",
+			"saga": "Scuola di polizia",
+			"title": "The Hillbilly Blues",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0ab6c2c1f53a489b7bc1721eceb93aa7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x29",
+			"saga": "Scuola di polizia",
+			"title": "Survival of the Fattest",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ddf42daa1c6924b5a1dd6e1a0360652c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x30",
+			"saga": "Scuola di polizia",
+			"title": "The Junkman Ransoms the Ozone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1988de71077a5e723117a569b5915edb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x31",
+			"saga": "Scuola di polizia",
+			"title": "Grads on Tour",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9ac8d5302c3f19dc4fc32cffecbd9a52"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x32",
+			"saga": "Scuola di polizia",
+			"title": "Like Coppers, Like Son",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/83384ee3fd106e827a8601db95422dd0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x33",
+			"saga": "Scuola di polizia",
+			"title": "Ten Little Cops",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8ee3afb622a287ba4a8abbf8864d72ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x34",
+			"saga": "Scuola di polizia",
+			"title": "Big Top Cops",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/506dd1ee62e4d3170dbb86debe540a96"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x35",
+			"saga": "Scuola di polizia",
+			"title": "Alpine K-9s",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8717fba71ad29b8afd4729fcf19ee2e9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x36",
+			"saga": "Scuola di polizia",
+			"title": "The Legend of Robin Good",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b0496e94752b270cffd54b4cd5380155"
+				}
+			]
+		},
+		{
+			"tmdb_id": 5645,
+			"number": "2x37",
+			"saga": "Scuola di polizia",
+			"title": "Hawaii Nine-0",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5ad6cd835a128974fb79e4837aaaf6f9"
+				}
+			]
+		}
+    ]
+}

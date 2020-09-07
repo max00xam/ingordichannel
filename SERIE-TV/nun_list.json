@@ -1,0 +1,114 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 87689,
+			"number": "1x1",
+			"saga": "Warrior Nun",
+			"title": "Salmi 465",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3e42e96933e5873ac42a5a540b655797"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x2",
+			"saga": "Warrior Nun",
+			"title": "Proverbi 3125",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8b1463d3107b2444352a8a92da6c5ff2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x3",
+			"saga": "Warrior Nun",
+			"title": "Efesini 611",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/131d2a828d57299cf82f1d78137ae594"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x4",
+			"saga": "Warrior Nun",
+			"title": "Siracide 269876890",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/12b1bf1a5b388fbf89f6facbe9c30522"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x5",
+			"saga": "Warrior Nun",
+			"title": "Matteo 713",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/369df23ad45a7ff50cac9d89d4f01282"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x6",
+			"saga": "Warrior Nun",
+			"title": "Isaia 3020-21",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/63b81b74feff98ff80bdaefba6a4972e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x7",
+			"saga": "Warrior Nun",
+			"title": "Efesini 422-24",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/281a4988d54446bbe911bedb80edd85d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x8",
+			"saga": "Warrior Nun",
+			"title": "Proverbi 141",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1b825f1bcb7b980e02c3de161788deb0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x9",
+			"saga": "Warrior Nun",
+			"title": "2 Corinzi 104",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4f98de6a9c2fe9b49b0b058b6ac9cd8a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 87689,
+			"number": "1x10",
+			"saga": "Warrior Nun",
+			"title": "Apocalisse 210",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f3dd27a87cce95181b9fb819b7c3325f"
+				}
+			]
+		}
+    ]
+}
