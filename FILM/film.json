@@ -4,7 +4,7 @@
             "plot": "La serie ufficiale di James Bond è una serie cinematografica di spionaggio di produzione anglo-statunitense ispirata dai romanzi dello scrittore Ian Fleming. Il franchise è il più longevo tra quelli tuttora in attività e vanta anche il record per essere l'unica tra le serie decennali ad aver avuto nella sua storia una continuità di uscita delle pellicole (infatti la pausa maggiore è stata quella tra 007 - Vendetta privata e GoldenEye, che è durata \"solo\" 6 anni). La serie ufficiale è prodotta dalla EON Productions ed è composta da 23 pellicole, esistono tuttavia tre pellicole fuori serie prodotte da altre società, tra le quali \"Mai dire mai\", un remake del 1983 di \"Agente 007 - Thunderball - Operazione Tuono\", il quarto film della serie, che fu realizzato dopo lunghe e complesse vicende legali e che vide Sean Connery nuovamente nel ruolo che aveva interpretato l'ultima volta dodici anni prima.",
             "title": "James Bond",
             "saga": "James Bond",
-            "url": "/FILM/saghe/007_list.json"
+            "url": "https://raw.githubusercontent.com/MikeKOD/ingordichannel/update/FILM/saghe/007_list.json"
         },
         {
             "plot": "",
