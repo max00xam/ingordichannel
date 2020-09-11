@@ -1,0 +1,301 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 3097,
+			"number": "0x0",
+			"saga": "Ironman",
+			"title": "Sigla iniziale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/545017f3ac91281a440575db899255e1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x1",
+			"saga": "Ironman",
+			"title": "Minaccia sottomarina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c5f0e1bcb600fe2463c6145bdba59a66"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x2",
+			"saga": "Ironman",
+			"title": "Il robot alieno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dbf25a1667216ab18f27affad722ee8d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x3",
+			"saga": "Ironman",
+			"title": "Sabotaggio satellitare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fb15942931117f32d8e32d3bbfdd4b7c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x4",
+			"saga": "Ironman",
+			"title": "Potenza della musica",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/39908c81626a7ab1e987ad48dd8c20af"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x5",
+			"saga": "Ironman",
+			"title": "Prototipo indistruttibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/abb634cde17705c5b64d0fd3a016ae53"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x6",
+			"saga": "Ironman",
+			"title": "Una modella coraggiosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/efa57ce09a91a7c48fe8ecb2e1e519d9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x7",
+			"saga": "Ironman",
+			"title": "La nascita del Mandarino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a37185a5fc455ca47fd854a8684c16fa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x8",
+			"saga": "Ironman",
+			"title": "Il sospetto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03ed2d617d2de5804be2925cc9be08ad"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x9",
+			"saga": "Ironman",
+			"title": "Il secondo Iron Man (prima parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e0e2e62d99b7671e784f868e9f74329b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x10",
+			"saga": "Ironman",
+			"title": "Il secondo Iron Man (seconda parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/151b1f38b04e1a272e8fa26a86d9a798"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x11",
+			"saga": "Ironman",
+			"title": "Ricordi d`infanzia (prima parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5750c85ea70493a888e7dbdca73565e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x12",
+			"saga": "Ironman",
+			"title": "Ricordi d`infanzia (seconda parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b6b50a1a3692c1fe5ed002f605b77ec4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "1x13",
+			"saga": "Ironman",
+			"title": "L`identità segreta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5d8dc701297532f7175cbdf05be2e719"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x1",
+			"saga": "Ironman",
+			"title": "La furia del dragone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/998df3e90705a72213953a9520017486"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x2",
+			"saga": "Ironman",
+			"title": "Di acqua e di fuoco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1ecb61907d00c5fe74dbada8ecc6783a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x3",
+			"saga": "Ironman",
+			"title": "Stella cadente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f11657952dc36bdd9fc9e0d2410b13e5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x4",
+			"saga": "Ironman",
+			"title": "Il ritorno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/47f47ca37e5e8b38cbceb1db921da48a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x5",
+			"saga": "Ironman",
+			"title": "L`occhio di iside",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4772404e6f23e85d5b4a071b1bb63652"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x6",
+			"saga": "Ironman",
+			"title": "Viaggio incredibile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f42c544bd804c9912d7d0a0d2202564"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x7",
+			"saga": "Ironman",
+			"title": "Confini lontani",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e3074f2ad0720fac5ae238e55254108d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x8",
+			"saga": "Ironman",
+			"title": "La guerra delle armature (prima parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9cedd6c95aef9703cd5ba019c70a9582"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x9",
+			"saga": "Ironman",
+			"title": "La guerra delle armature (seconda parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5d7a175f2e22f92e397dd0ca18fe1da0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x10",
+			"saga": "Ironman",
+			"title": "L`ombra del Mandarino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/59d0404e485b281a9925a11ebe553b88"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x11",
+			"saga": "Ironman",
+			"title": "Hulk buster",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b0b7e1adbd2e8ff5848bdf2af85c9236"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x12",
+			"saga": "Ironman",
+			"title": "Nelle mani del Mandarino (prima parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5bac242f8b307fc0024f4696ea497080"
+				}
+			]
+		},
+		{
+			"tmdb_id": 3097,
+			"number": "2x13",
+			"saga": "Ironman",
+			"title": "Nelle mani del Mandarino (seconda parte)",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/74d709919929227e945603cf5e4c92cf"
+				}
+			]
+		}
+    ]
+}

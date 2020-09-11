@@ -1,0 +1,554 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 60059,
+			"number": "1x1",
+			"saga": "Better Call Saul",
+			"title": "Uno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0314b329663e4afc89e5c03359c2fbec"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x2",
+			"saga": "Better Call Saul",
+			"title": "Mijo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/53803f4bbb8a62f2a95c57c1bfd9d65e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x3",
+			"saga": "Better Call Saul",
+			"title": "Nacho",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f692fcbf695a156b8ba6b983f08f392e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x4",
+			"saga": "Better Call Saul",
+			"title": "Eroe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/53a6fab0858b82b2d0c06c79e977bf43"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x5",
+			"saga": "Better Call Saul",
+			"title": "Il pastorello delle Alpi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a396778a8be9145576d4d6478a76714a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x6",
+			"saga": "Better Call Saul",
+			"title": "Poliziotti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/74c2a8c3caeaf855e9e84294b13fa4fc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x7",
+			"saga": "Better Call Saul",
+			"title": "Bingo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/48b1ab8bfc624f08d45414ef1674c078"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x8",
+			"saga": "Better Call Saul",
+			"title": "RICO",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c3dce5102ab6eefa7a0bca3a3166117a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x9",
+			"saga": "Better Call Saul",
+			"title": "Pimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6420a8a11aacddca0ba3a8e44e623d94"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "1x10",
+			"saga": "Better Call Saul",
+			"title": "Marco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fb341b7c5e424f250279479f7810de9b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x1",
+			"saga": "Better Call Saul",
+			"title": "Cambiamento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1dfff96b869424eabd22eb71342fdd25"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x2",
+			"saga": "Better Call Saul",
+			"title": "La torta della luna piena",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f4e7118375fff541a82bfdb1a84ec0e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x3",
+			"saga": "Better Call Saul",
+			"title": "Amarillo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/52822fecdaa8f5bd1caecd1f2afadbfe"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x4",
+			"saga": "Better Call Saul",
+			"title": "Senza guanti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c9004c419873f2a7e0dd585da7226cac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x5",
+			"saga": "Better Call Saul",
+			"title": "Rebecca",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/007137bf3d482b90d45c19c2b2c144bb"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x6",
+			"saga": "Better Call Saul",
+			"title": "Bali Ha`i",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7221124a8cfb8f4ea5a35cb00b76ad97"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x7",
+			"saga": "Better Call Saul",
+			"title": "Gonfiabile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a3d74130b1e8ec30a91c47f6a5cb2f47"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x8",
+			"saga": "Better Call Saul",
+			"title": "Fifi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/56760234ee52ae2a80a0a0e8bf5147d3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x9",
+			"saga": "Better Call Saul",
+			"title": "Inchiodato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ea7379b4c7fe1ffb67d9f83e7648830e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "2x10",
+			"saga": "Better Call Saul",
+			"title": "Klick",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/00a20e521a61dc1cc1294bb95a13a278"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x1",
+			"saga": "Better Call Saul",
+			"title": "Mabel",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7db88cebcca173e4a2a1dd61596c1f77"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x2",
+			"saga": "Better Call Saul",
+			"title": "Testimone",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bbb79ecb9b2ffb4cfaa7096d7e8bd952"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x3",
+			"saga": "Better Call Saul",
+			"title": "Costi irrecuperabili",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5bde8dff2f75486e72eb7475a3be0392"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x4",
+			"saga": "Better Call Saul",
+			"title": "Sabrosito",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f76c38bcf0cf13490382801ea602419"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x5",
+			"saga": "Better Call Saul",
+			"title": "Imbroglio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/79dd33e29d85a529b8c0ec4d33d76a62"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x6",
+			"saga": "Better Call Saul",
+			"title": "Diverso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/70d37501d25d75b5b10792de742a4266"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x7",
+			"saga": "Better Call Saul",
+			"title": "Spese",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dc58e58a77fbd5a9121ce844869c857a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x8",
+			"saga": "Better Call Saul",
+			"title": "Passo falso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c3312862deeb38fe143af5b6a75c9d22"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x9",
+			"saga": "Better Call Saul",
+			"title": "Caduta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/989c7a2cc3d40a18d5f701bb3f3f080f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "3x10",
+			"saga": "Better Call Saul",
+			"title": "Lanterna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1c1b52c69fb6e782f663e6f507d0bbf7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x1",
+			"saga": "Better Call Saul",
+			"title": "Fumo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bdaa74fef882235efe0b0ad52c386e2e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x2",
+			"saga": "Better Call Saul",
+			"title": "Respira",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1886bbc8a719fcb42f7fba26833d9253"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x3",
+			"saga": "Better Call Saul",
+			"title": "Qualcosa di straordinario",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5548b5be05b5b37dc6ee33123c8b800d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x4",
+			"saga": "Better Call Saul",
+			"title": "La chiacchierata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/174f741f266e9286f7dc7c8ce0117174"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x5",
+			"saga": "Better Call Saul",
+			"title": "Guadagno facile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c01e153971745e9afefce67bf7e2bcaa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x6",
+			"saga": "Better Call Saul",
+			"title": "Pignatta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5ef90914e6793b88278493a60e2af716"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x7",
+			"saga": "Better Call Saul",
+			"title": "Qualcosa di stupido",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7c2aee421c2b814cc26bc7669ebb65a6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x8",
+			"saga": "Better Call Saul",
+			"title": "Coushatta",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d415a97fb5aa1d08bf3cab1a474451e4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x9",
+			"saga": "Better Call Saul",
+			"title": "Auf wiedersehen",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2bb10cb8784133a0a242d813ebd3c840"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "4x10",
+			"saga": "Better Call Saul",
+			"title": "Vincitore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/02c20f0ff0cb0755c1578f197fd931a6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x1",
+			"saga": "Better Call Saul",
+			"title": "Uomo magico",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5f3dfdbcb464231b09a60d272742304"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x2",
+			"saga": "Better Call Saul",
+			"title": "50% di sconto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/71729f6bb47a247ce03d455afe02b6c8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x3",
+			"saga": "Better Call Saul",
+			"title": "L`uomo che fa al caso nostro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a1f1026e9b567f02cc42e8181afbba3c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x4",
+			"saga": "Better Call Saul",
+			"title": "Namasté",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/265e858f278d1e07e2d30565181bb9de"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x5",
+			"saga": "Better Call Saul",
+			"title": "Dedicato a Max",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5c2208ad4099f392368a75aef266b21"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x6",
+			"saga": "Better Call Saul",
+			"title": "Wexler contro Goodman",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dbb4a57782a98e055a27c2dd22118267"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x7",
+			"saga": "Better Call Saul",
+			"title": "JMM",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/af97949892d94acc86606e186fa1c122"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x8",
+			"saga": "Better Call Saul",
+			"title": "Portantino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/84e0c429fc9f2db049753fec20e6ecea"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x9",
+			"saga": "Better Call Saul",
+			"title": "Strade cattive",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a92bfcdc32471c84fc5481c32862bf8a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 60059,
+			"number": "5x10",
+			"saga": "Better Call Saul",
+			"title": "Qualcosa di imperdonabile",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6a1da93f258fb7df7a833319a29caf89"
+				}
+			]
+		}
+    ]
+}

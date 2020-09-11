@@ -1,0 +1,576 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 7330,
+			"number": "1x1",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Iron, forgiato nel fuoco Parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e6046a8be61b1e7a60bebc11fa11ef9c"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x2",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Iron, forgiato nel fuoco Parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e1cddbb068e992f45718cdabe7db62b0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x3",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Criminali in guerra",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f3e07939dc62a4a22d9bfc159f95ec79"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x4",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Guerra fredda",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/371be61ffd91c56b32e9d90c81633d4b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x5",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Un amico supereroe",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7be69e8989cbca33480002860bed8901"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x6",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Tornato dallo spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/75406d39f85bc1b922f26a59b7bacded"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x7",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Laser Man",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ec63cebf69d31fd60986d998351ef1ce"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x8",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Un piano perfetto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c0465e952aade7a7783c7ca80215c6a2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x9",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il tempio abbandonato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e65c9dc3e9cb637c1d8e9e4386525702"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x10",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`interfaccia mentale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5f4b7f1ae122adcb2585865f847aa5bf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x11",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Madame Mask",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/55bc55306d6c2176fb98a24fb423f3d5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x12",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Scontro fra giganti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/45c6e3240a44d97ea9e2a74cc6c8ec7d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x13",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La prova del coraggio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f83d970efd1127edb77bb149898cd8aa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x14",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il ritorno di Whiplash",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0fc5925497b6487f7742d1c695d10a1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x15",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La preda della Pantera",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0d6eaba0cfd3a040f061fb60d469f57a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x16",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Battaglia nello spazio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/32e6f0a5595f029893df6b0537f46c1d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x17",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Ombra assassina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fb7a1e86d4c6a7a4d3bfc5bd092ac6df"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x18",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Un nuovo eroe per Pepper",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cb1eb50e149f613b9f6b99007734f6e1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x19",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il virus affamato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f933eb04876a56e3993e0a26cc2bbf2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x20",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`anello nel vulcano",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/724e20c76399275b797bd4945edf066e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x21",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il grande Modok",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/639f06a09904d3d1d02cfa5792e50745"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x22",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Supereroe per un giorno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cbba5d95467b6faf3b5b98330caa6c7e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x23",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il gigante verde",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2ac3f9640570c920b6d9d774b8fbd043"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x24",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La vendetta di Blizzard",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3eccd0a998e5b50ba76f6c3ecf31e8d1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x25",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il quinto anello Parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0a895a0902cf30772fe898f3c19f021f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "1x26",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il quinto anello Parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e26833c9ad4f44aea416df1290e65146"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x1",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`invincibile Iron Man - Un compleanno difficile Parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/de33b73be4f0f9055fc2402a85bd15a6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x2",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`invincibile Iron Man - Rinascita Parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1a9c060893014b73fccc676d4fdce640"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x3",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Raggio di luce",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b1c88e900d35be2ae5b1d28153f35649"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x4",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Fantasma",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8fe28c070d70bec7e12f7039d6be2d6a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x5",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La guerra delle armature",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0ce69323bd1f742edb5b4a76cf116d87"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x6",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Sotto tiro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/57814e5f42e9c32e5179cfc605e2d52a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x7",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Titanium contro Iron Man",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a029981201c8e16f11016ba0a5bb3ad1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x8",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La forza del destino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d5a8089f2edb238a5e89be686ea19286"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x9",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il falco e il ragno",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d430c623c25a3e101e0cfb77b71ebfd3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x10",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Progetto Iron Monger",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0a834257e0c4bdd9733aee043749c822"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x11",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "In fuga dallo S",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/57dfb3552cf4f9731f14e9c9ea0942ba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x12",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Che il gioco abbia inizio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/709076c0e05f016a284190e9a736364d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x13",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Identità svelata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d904384a6b1a5d3f7bad969381497daa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x14",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La missione di Mandarino",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92194ce359fe814ae3f2ca31af3f7ab7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x15",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Vendita obbligatoria",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/06f8233c5648be15245413d49b98ecdd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x16",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Extremis",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/486af6a8f8b0a026570f0790b740b443"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x17",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il fattore X",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fc5134f04d0fba4271364e8c98fee55f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x18",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Realtà virtuale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d468f7b9b531e2732db66f65264d5bf4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x19",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Iron Man 2099",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/77bf3fa3505217eb20d9816b097d9ad9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x20",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il giorno del giudizio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/448e8b3b9258494ddfa676df728a79ca"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x21",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La sconfitta di Hammer",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ce7f3228fa7d26e93c570997257034aa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x22",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "La rabbia di Hulk",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2171ee90413278f4a5d3e5aca2eac6a3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x23",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il ritorno di Iron Monger",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9c0100b6c2f6e1f309d4464bd1dc3cb0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x24",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "Il seme del drago",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6ff4be30401edaa7293418fba2e0aab9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x25",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`invasione dei Makluan - Annientateli Parte 1",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9d2116d42724dd5894ee6c3abaf5111a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 7330,
+			"number": "2x26",
+			"saga": "Iron Man: Armored Adventures",
+			"title": "L`invasione dei Makluan - Uniti Parte 2",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/800c442008724700aacc54c70b98fb39"
+				}
+			]
+		}
+    ]
+}

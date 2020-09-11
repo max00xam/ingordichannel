@@ -420,6 +420,24 @@
           "url": "/ANIMAZIONE/anime/puffi_list.json"
       },
       {
+          "plot": "Il giovane fenomeno Tony Stark prende il volo con un'armatura sapientemente progettata per scoprire la verità sulla misteriosa morte del padre.",
+          "title": "Iron Man: Armored Adventures",
+          "saga": "Iron Man: Armored Adventures",
+          "year": "2009",
+          "tmdb_id": "7330",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/armored_list.json"
+      },
+      {
+          "plot": "Iron Man è una serie televisiva a cartoni animati basata sull'omonimo personaggio della casa editrice Marvel; è stata prodotta nel 1994 dai Marvel Studios, dalla TMS Entertainment e dalla New World Television; si compone di due stagioni per un totale di 26 episodi. Le due stagioni della serie, prodotte in due tempi, si differenziano notevolmente.",
+          "title": "Iron Man",
+          "saga": "Iron Man",
+          "year": "1994",
+          "tmdb_id": "3097",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/iron_list.json"
+      },
+      {
           "plot": "",
           "title": "",
           "saga": "",

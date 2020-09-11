@@ -11,7 +11,7 @@
         },
         {
             "plot": "Come nel celebre romanzo, vi si narrano le disavventure del famoso burattino, anche se, a differenza della versione letteraria, nello sceneggiato Pinocchio è impersonato da un bambino vero, che solo in alcuni punti si ritrasforma in un burattino (in questa serie, Pinocchio diviene burattino o bambino per essere punito, premiato o salvato dalla Fata, fino alla fine, quando è totalmente bambino per la sua buona condotta, e il suo spirito esce dal burattino morto).",
-            "title": "Pinocchio (1972) - W.I.P.",
+            "title": "Pinocchio (1972)",
             "saga": "Pinocchio (1972)",
             "tmdb_id": 86662,
             "year": "1972",
@@ -269,6 +269,51 @@
             "tmdb_id": "87689",
             "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/nun_list.json"
+        },
+        {
+            "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sarà conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'è il \"tuttofare\" Mike Erhmantraut.",
+            "title": "Batter Call Saul",
+            "saga": "Batter Call Saul",
+            "year": "2015",
+            "tmdb_id": "60059",
+            "genre":["Commedia", "Crime", "Dramma"],
+            "url": "/SERIE-TV/saul_list.json"
+        },
+        {
+            "plot": "Beverly Hills 90210 è una serie televisiva trasmessa negli Stati Uniti d'America tra il 1990 ed il 2000. Il 90210 del titolo si riferisce allo Zip Code (termine con cui negli USA si indica il codice di avviamento postale) della città di Beverly Hills nella contea Los Angeles. Il soggetto, all'epoca, fu originale, per la prima volta infatti una serie televisiva si propose di raccontare gli adolescenti per quello che erano affrontando temi delicati come droga, AIDS, sessualità e alcolismo. La serie seguiva le vicissitudini di un gruppo di adolescenti dell'alta borghesia, abitanti nel quartiere VIP di Beverly Hills, a Los Angeles.",
+            "title": "Beverly Hills 90210",
+            "saga": "Beverly Hills 90210",
+            "year": "1990",
+            "tmdb_id": "2025",
+            "genre":["Drama"],
+            "url": "/SERIE-TV/90210_list.json"
+        },
+        {
+            "plot": "Un borsone viene lasciato incustodito nel centro di Times Square. L'anomalo episodio fa scattare un allarme bomba con evacuazione immediata della piazza. Durante l'intervento di una squadra artificieri si scopre che al suo interno si cela una donna spaesata, priva di vestiti, con il corpo coperto da misteriosi tatuaggi e senza alcun ricordo. Uno dei tanti tatuaggi la collega all'FBI e ad un agente in particolare, Kurt Weller, di cui ha tatuato il nome sulla schiena. La donna, chiamata Jane Doe in assenza della sua reale identità, viene affidata ad una squadra speciale dell'FBI composta dagli agenti Kurt Weller, Edgar Reade, Tasha Zapata e Patterson. Da subito risulta evidente la natura enigmatica dei tatuaggi, nonostante non si sia a conoscenza di chi li abbia realizzati, che condurrà la squadra ad indagare su crimini misteriosi e di elevata importanza.",
+            "title": "Blindspot",
+            "saga": "Blindspot",
+            "year": "2015",
+            "tmdb_id": "62710",
+            "genre":["Azione", "Crime", "Drama"],
+            "url": "/SERIE-TV/blind_list.json"
+        },
+        {
+            "plot": "Otto ladri si barricano nell'edificio della Zecca spagnola con alcuni ostaggi, mentre una mente criminale manipola la polizia per mettere in atto il suo piano.",
+            "title": "La casa di carta",
+            "saga": "La casa di carta",
+            "year": "2017",
+            "tmdb_id": "71446",
+            "genre":["Crime", "Drama"],
+            "url": "/SERIE-TV/papel_list.json"
+        },
+        {
+            "plot": "La serie è ambientata nella città costiera di Storybrooke, nel Maine, in cui gli abitanti sono in realtà personaggi di varie fiabe e altre storie che sono state trasportate in una città reale e derubate dei loro ricordi originali dalla Regina cattiva, Regina (Lana Parrilla) che ha usato una potente maledizione ottenuta da Tremotino (Robert Carlyle). Gli abitanti di Storybrooke, di cui Regina è il sindaco, vivono un'esistenza immutabile da 28 anni, ignari del fatto che non stanno invecchiando. L'unica speranza della città è nelle mani di Emma Swan (Jennifer Morrison), la figlia di Biancaneve (Ginnifer Goodwin) e del Principe azzurro (Josh Dallas), che è stata trasportata dalla Foresta Incantata al mondo reale attraverso un albero magico da bambina prima che potesse essere maledetta. In quanto tale, è l'unica in grado di rompere la maledizione e ripristinare i ricordi perduti dei cittadini. Viene aiutata dal figlio, Henry (Jared S. Gilmore), con cui si è stata recentemente riunita dopo averlo dato in adozione alla nascita, e il suo libro delle fiabe intitolato Once Upon a Time che contiene la chiave per rompere la maledizione. Henry è anche il figlio adottivo di Regina, ciò fornisce una fonte di conflitto ed interesse comune tra le due donne.",
+            "title": "Once Upon a Time",
+            "saga": "Once Upon a Time",
+            "year": "2011",
+            "tmdb_id": "39272",
+            "genre":["Dramma", "Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/once_list.json"
         },
         {
             "plot": "",
