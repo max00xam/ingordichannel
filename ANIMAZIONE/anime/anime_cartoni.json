@@ -438,6 +438,15 @@
           "url": "/ANIMAZIONE/anime/iron_list.json"
       },
       {
+          "plot": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si troverà costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicità.",
+          "title": "City Hunter",
+          "saga": "City Hunter",
+          "year": "1987",
+          "tmdb_id": "36046",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/city_list.json"
+      },
+      {
           "plot": "",
           "title": "",
           "saga": "",
