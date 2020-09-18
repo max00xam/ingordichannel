@@ -1,0 +1,70 @@
+{
+    "episodes_list": [
+      {
+        "tmdb_id": 74549,
+        "number": "0x1",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 1 - Casval dagli occhi blu",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/0de33006bec09c747f0d25cb10d17dfc"
+          }
+        ]
+      },
+      {
+        "tmdb_id": 74549,
+        "number": "0x2",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 2 - Il dispiacere di Artesia",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/d152504eefa2287fde00822f2faf531e"
+          }
+        ]
+      },
+      {
+        "tmdb_id": 74549,
+        "number": "0x3",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 3 - L`alba della ribellione",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/6e55a5ff8a3f54815fef1dd02fb08fde"
+          }
+        ]
+      },
+      {
+        "tmdb_id": 74549,
+        "number": "0x4",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 4 - La vigilia del destino",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/445ae92c17cb16dda5beb2f5db8040f4"
+          }
+        ]
+      },
+      {
+        "tmdb_id": 74549,
+        "number": "0x5",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 5 - La battaglia di Loum",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/4ab5fee51cef7098502906a70e72abf1"
+          }
+        ]
+      },
+      {
+        "tmdb_id": 74549,
+        "number": "0x6",
+        "saga": "Mobile Suit Gundam - The Origin",
+        "title": "OVA 6 - La nascita della Cometa Rossa",
+        "links": [
+          {
+            "url": "http://51.77.159.233:30299/36426a72bcdd8a269e3edb37ed64c28b"
+          }
+        ]
+      }
+    ]
+}

@@ -280,8 +280,8 @@
       },
       {
         "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l’Unità della Sfera Terrestre) con l’incarico di mantenere la pace tramite l’imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo – una dopo l’altra – delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono però a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinché rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell’anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l’ordine, la Federazione preparò un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
-        "title": "Mibile Gundam Wing",
-        "saga": "Mibile Gundam Wing",
+        "title": "Mobile Gundam Wing",
+        "saga": "Mobile Gundam Wing",
         "year": "1995",
         "tmdb_id": "21730",
         "genre":["Animazione", "Azione & Avventura", "Drammatico", "Fantascienza & Fantasia"],
@@ -306,11 +306,13 @@
         "url": "/ANIMAZIONE/anime/geass_list.json"
       },
       {
+        "plot": "È passato un anno dal fallimento della Black Rebellion e dalla presunta morte di Zero. La Britannia ha assegnato all'area 11 uno status educativo correttivo, in cui Elevens è un esempio di forza bruta, per cercare di prevenire eventuali attacchi futuri e reprimere i pensieri ribelli. Lelouch un ignaro studente di liceo, all'oscuro del suo passato ribelle come Zero, incontra una misteriosa donna nota come C.C., che riesce a fargli recuperare la memoria. Recuperati i suoi ricordi e l'uso del Geass distrugge i suoi assalitori e si dichiara ancora una volta Zero,decidendo di finire ciò che aveva iniziato.",
         "title": "Code Geass - Lelouch of the Rebellion R2",
         "saga": "Code Geass - Lelouch of the Rebellion R2",
         "year": "2008",
+        "thumbnail": "/ANIMAZIONE/anime/codeR2.jpg",
         "genre":["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
-        "url": "/ANIMAZIONE/anime/geasr2_list.json"
+        "url": "/ANIMAZIONE/anime/geassr2_list.json"
       },
       {
         "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
@@ -357,6 +359,7 @@
         "title": "Ghostbusters",
         "saga": "Ghostbusters",
         "year": "1986",
+        "tmdb_id": 18131,
         "genre":["Mistero", "Animazione"],
         "url": "/ANIMAZIONE/anime/ghost_list.json"
       },
@@ -365,6 +368,7 @@
         "title": "The Real Ghostbusters - I veri acchiappafantasmi",
         "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
         "year": "1986",
+        "tmdb_id": 2286,
         "genre":["Action & Adventure", "Animazione", "Commedia", "Mistero"],
         "url": "/ANIMAZIONE/anime/real_list.json"
       },
@@ -429,6 +433,78 @@
           "tmdb_id": "36046",
           "genre":["Animazione"],
           "url": "/ANIMAZIONE/anime/city_list.json"
+      },
+      {
+          "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+          "title": "Ritorno al Futuro",
+          "saga": "Ritorno al Futuro",
+          "year": "1991",
+          "tmdb_id": "4745",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/ritorno_list.json"
+      },
+      {
+          "plot": "U.C. 0001 La colonizzazione dello spazio sta per dare inizio a una nuova era. Tuttavia, durante la cerimonia del cambio di calendario la colonia spaziale di Laplace, residenza ufficiale del Primo Ministro della Federazione Terrestre, viene ridotta in frantumi da un attacco terroristico. Un giovane di nome Syam Vist, entrato a far parte dei terroristi dopo essere caduto in miseria, viene coinvolto nell'esplosione, scoprendo la presenza di qualcosa tra le macerie. U.C. 0096. La colonia manifatturiera Industrial 7 è in fase di completamento e fluttua nell'orbita di Lagrange Point 1. Un giovane di nome Banagher Links, cresciuto senza alcun ricordo di suo padre, incontra Audrey Burne, una misteriosa fanciulla imbarcata clandestinamente su una nave diretta verso la colonia. Mentre un misterioso Mobile Suit bianco viene sottoposto a innumerevoli test, i portavoce di Neo Zeon si infiltrano all'interno della colonia alla ricerca di qualcosa di importante. Banagher non sa ancora di essere stato coinvolto nelle oscure macchinazioni che circonderanno lo Scrigno di Laplace, e presto entrerà in contatto con quello che viene definito la chiave dello Scrigno, l'Unicorn Gundam.",
+          "title": "Mobile Suit Gundam Unicorn",
+          "saga": "Mobile Suit Gundam Unicorn",
+          "year": "2010",
+          "tmdb_id": "45500",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/unicorn_list.json"
+      },
+      {
+          "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanità ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando così inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray è un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilità latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+          "title": "Mobile Suit Gundam - The Origin",
+          "saga": "Mobile Suit Gundam - The Origin",
+          "year": "2015",
+          "tmdb_id": "74549",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/origin_list.json"
+      },
+      {
+          "plot": "Dopo la battaglia di A Baoa Qu, che segnò la capitolazione dell'esercito del Principato di Zeon e la vittoria della Federazione Terrestre nella Guerra di un anno, un gruppo di militari al comando dell'Ammiraglio Aguille Delaz, tra cui l'asso Anavel Gato, riuscì a sottrarsi alla disfatta, giurando di vendicare la sconfitta in un secondo tempo. Tre anni dopo, la corazzata federale di classe Pegasus denominata Albion, agli ordini del Capitano Ayper Synaps, parte per una missione segretissima verso la base australiana di Torrington, recando a bordo due nuovi modelli sperimentali di Gundam, il GP01 Zephyrantes ed il GP02A Physalis, quest'ultimo realizzato per fare uso di armi atomiche, vietate sin dalla firma del Trattato del Polo Sud. Grazie ad alcune spie infiltrate all'Anaheim, i superstiti di Zeon sono venuti a sapere del progetto e Anavel Gato riesce ad introdursi nella base federale ed a trafugare il mobil suit. Al furto assistono, tra gli altri, Nina Purpleton (ingegnere dell'Anaheim e progettista dei due prototipi di Gundam) ed il cadetto Kō Uraki, che d'impulso sale sul GP01 per cercare di bloccare Gato. Benché dotato di talento, Uraki è troppo inesperto rispetto ad un veterano come Gato, che riesce a fuggire dalla base col GP02A.",
+          "title": "Mobile Suit Gundam 0083: Stardust Memory",
+          "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+          "year": "1991",
+          "tmdb_id": "72677",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/0083_list.json"
+      },
+      {
+          "plot": "Il giovane tenente federale Shiro Amada viene assegnato sulla Terra al comando di un plotone dei nuovi mobile suit della Federazione Terrestre, gli RX-79G Gundam, sviluppati dal famoso prototipo RX-78. Durante il trasferimento dallo spazio lo shuttle su cui viaggia viene coinvolto in un combattimento tra uno Zaku di Zeon ed un GM federale, cui lo stesso tenente Amada prende parte a bordo di un Ball. Finirà così per conoscere il pilota dello Zaku, l'affascinante Inah Sakhalin, con cui si ritrova disperso nello spazio in attesa di soccorsi. La serie narra quindi le vicende dell'8º Plotone Mobile Suit, impegnato nella giungla del Sud-est asiatico a scovare una base segreta in cui Zeon sta sperimentando il nuovo terribile mobile armor Apsaras, intrecciandole con quelle degli stessi zeoniani di stanza nella base, tra i quali proprio Inah, sorella dello scienziato Ginius Sakhalin, a capo del progetto. L'asse intorno al quale ruota la trama è quindi la storia d'amore che nasce tra Shiro Amada e Inah Sakhalin, attraverso la quale viene ulteriormente approfondita l'assurda tragedia della guerra.",
+          "title": "Mobile Suit Gundam: The 08th MS Team",
+          "saga": "Mobile Suit Gundam: The 08th MS Team",
+          "year": "1996",
+          "tmdb_id": "43887",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/0083_list.json"
+      },
+      {
+          "plot": "I cortometraggi, cinematografici e non, dei Pixar Animation Studios: da Luxo Jr. a Pennuti Spennati, da Presto a Lava, incredibili personaggi protagonisti di piccole, grandi storie animate con uno stile meravigliosamente unico.",
+          "title": "I corti Pixar",
+          "saga": "I corti Pixar",
+          "year": "1984",
+          "thumbnail": "/ANIMAZIONE/anime/pixar.jpg",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/corti_list.json"
+      },
+      {
+          "plot": "Il piccolo Carletto, principe di un Paese abitato dai mostri noto come Mostrilandia, decide di venire ad abitare sulla Terra, a Tokyo, insieme ai suoi aiutanti, Conte Dracula, Frank e Uomo Lupo, per poter avere un po' di tranquillità. Carletto diventa presto amico di Hiroshi, un bambino intraprendente che vive con sua sorella Sis in un piccolo appartamento vicino alla vecchia casa dove i mostri si sono stabiliti. Nel corso della serie, Carletto non solo incontra dei mostri un po' buoni o un po' cattivi, e fa amicizia con gli uomini, ma deve anche aiutare Hiroshi e rendere più felice la sorella del proprio amico.",
+          "title": "Carletto Il Principe Dei Mostri",
+          "saga": "Carletto Il Principe Dei Mostri",
+          "year": "1980",
+          "tmdb_id": "66251",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/carl_list.json"
+      },
+      {
+          "plot": "Cricchetto racconta a Saetta che una volta faceva lo Stunt man e il suo pseudonimo era Cricchetto audace d'impatto (nei fumetti Cricchetto il magnifico), si faceva chiamare così perché la sua prima impresa era stata un salto da una rampa e doveva saltare una lunghissima fila di automobili, però non riuscendo ha camminato sui tettucci delle auto. Ma la sua più grande impresa fu il \"Salto di Carburator Canyon\" (dover saltare con Saetta il canyon locale della Contea di Carburator con dei razzi legati); Saetta parte ma i suoi razzi a metà salto si spengono. Il tutto termina con Saetta che chiede: «Com'è finita?», e Cricchetto: «C'hai lasciato i cerchioni».",
+          "title": "Le incredibili storie di Carl Attrezzi",
+          "saga": "Le incredibili storie di Carl Attrezzi",
+          "year": "1984",
+          "tmdb_id": "438788",
+          "genre":["Animazione"],
+          "url": "/ANIMAZIONE/anime/pixar_list.json"
       },
       {
           "plot": "",

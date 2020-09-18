@@ -1,0 +1,147 @@
+{
+    "episodes_list": [
+        {
+            "tmdb_id": 43887,
+            "number": "0x1",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Sigla",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/48d4eac3510b0665d9df98ac91a98e25"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x1",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Guerra a due",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/2ba49a2a94951a9bd4ada8ad30e36efb"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x2",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Gundam nella giungla",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/300ce4055245f65167bfbab224759658"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x3",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Il tempo limite della fiducia",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/1b3949c044646289eb73f601a46b5f84"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x4",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Il diavolo sopra la testa",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/837ab7af567d2468a60a80b77b341374"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x5",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Ordine di attesa violato",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/b9abe8ffe47b4849420cf7a79015033e"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x6",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Fronte nella sabbia rovente",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/9f553fd741ec765e3d49a28dd4076c4a"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x7",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Incontrarsi di nuovo",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/4123f75a02eefbeee5693bd13ccd1589"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x8",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "Il dovere militare e l`ideale",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/833977d8a5eb372fdbc37a049e267de6"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x9",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "La prima linea",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/1009f7133242bc7231158e57b0e04dc1"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x10",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "La montagna trema (parte prima)",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/1b95cf21959cba8e43817be725c4ee4e"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x11",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "La montagna trema (parte seconda)",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/6240904853e4275a62f452d13af281ea"
+              }
+            ]
+          },
+          {
+            "tmdb_id": 43887,
+            "number": "1x12",
+            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "title": "L`ultima risorsa",
+            "links": [
+              {
+                "url": "http://51.77.159.233:30299/c1b468d117669f4637316e50ff9c5ed3"
+              }
+            ]
+          }
+    ]
+}
