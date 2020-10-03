@@ -1,0 +1,27 @@
+{
+  "Al Pacino":{
+        "plot": "Alfredo James \"Al\" Pacino (New York, 25 aprile 1940) è un attore, regista e produttore cinematografico statunitense. Considerato uno dei migliori attori della storia del cinema, Al Pacino ha vinto il Premio Oscar nel 1993 (su 9 nomination totali) per l'interpretazione del tenente colonnello Frank Slade in Scent of a Woman - Profumo di donna. Nel corso degli anni ha interpretato personaggi rimasti impressi nella storia del cinema moderno e nella cultura popolare, tra cui gangster quali Michael Corleone nella trilogia de Il padrino (1972-1974-1990) di Francis Ford Coppola, Tony Montana in Scarface (1983) e Carlito Brigante in Carlito's Way (1993), entrambi i film per la regia di Brian De Palma, Benjamin \"Lefty\" Ruggiero in Donnie Brasco (1997) di Mike Newell e il sindacalista Jimmy Hoffa in The Irishman (2019) di Martin Scorsese.",
+        "fanart": "/FILM/Immagini/monografie/pacino_fanart.jpg",
+        "thumbnail": "/FILM/Immagini/monografie/pacino.jpg"
+    },
+  "Harrison Ford":{
+      "plot": "Harrison Ford (Chicago, 13 luglio 1942) è un attore statunitense. Tra la fine degli anni 1970 e l'inizio degli anni 1990, ha partecipato ad alcuni dei film statunitensi di maggiore successo di quel periodo, lavorando per cineasti quali George Lucas, Phillip Noyce, Ridley Scott, Steven Spielberg e Peter Weir. Molti dei personaggi interpretati da Ford consistono in eroi duri, decisi ma sempre lievemente autoironici, tra i quali i più noti sono il contrabbandiere spaziale Ian Solo nella serie di Guerre stellari, l'archeologo Indiana Jones nell'eponima tetralogia, il cacciatore di replicanti Rick Deckard in Blade Runner e Blade Runner 2049, il detective John Book in Witness - Il testimone, l'agente della CIA Jack Ryan in Giochi di potere e Sotto il segno del pericolo, e il chirurgo Richard Kimble ne Il fuggitivo. Ford ha ricevuto l'unica candidatura all'Oscar per il miglior attore per Witness - Il testimone nel 1986, oltre a quattro nomination ai Golden Globe e una ai Premi BAFTA.",
+      "fanart": "/FILM/Immagini/monografie/ford_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/monografie/ford.jpg"
+  },
+  "Quentin Tarantino W.I.P.":{
+      "plot": "Quentin Jerome Tarantino (Knoxville, 27 marzo 1963) è un regista, sceneggiatore, attore e produttore cinematografico statunitense. Iniziò la sua carriera come regista all'inizio degli anni novanta, raggiungendo il successo di critica con il film di debutto Le iene. Con il successivo Pulp Fiction arrivò la consacrazione, vincendo la Palma d'oro al Festival di Cannes e conquistando, oltre a sette nomination, il premio per la miglior sceneggiatura originale, condiviso con Roger Avary, ai Premi Oscar 1995. Nel 2004 fu presidente della giuria alla 57ª edizione del Festival di Cannes e nel 2010 alla 67ª Mostra internazionale d'arte cinematografica di Venezia. Il 24 febbraio 2013 si aggiudicò la sua seconda statuetta per la migliore sceneggiatura originale per il film Django Unchained ai Premi Oscar 2013. A partire dal 21 dicembre 2015 il suo nome è presente tra le celebrità della Hollywood Walk of Fame.",
+      "fanart": "/FILM/Immagini/monografie/tarantino_fanart.png",
+      "thumbnail": "/FILM/Immagini/monografie/tarantino.jpg"
+  },
+  "Tim Burton":{
+      "plot": "Timothy Walter \"Tim\" Burton (Burbank, 25 agosto 1958) è un regista, sceneggiatore, produttore cinematografico, scrittore, animatore e disegnatore statunitense, noto per il suo cinema dalle ambientazioni spesso fiabesche e gotiche, talvolta incentrato su temi quali l'emarginazione e la solitudine, incarnati di frequente da personaggi eccentrici e stravaganti. Tra le sue collaborazioni più ricorrenti si annoverano quella con il compositore Danny Elfman per ogni sua pellicola, eccetto in Ed Wood, Sweeney Todd - Il diabolico barbiere di Fleet Street e in Miss Peregrine - La casa dei ragazzi speciali, e quella con l'attore statunitense Johnny Depp e con l'attrice britannica Helena Bonham Carter, che è stata anche sua compagna di vita fino al 2014. Nel 2007, alla Mostra del cinema di Venezia, Tim Burton ha ricevuto un Leone d'oro alla carriera, diventando il più giovane regista della storia ad aver conseguito tale riconoscimento. Ha vinto inoltre un Golden Globe nel 2008 per il miglior film commedia con Sweeney Todd - Il diabolico barbiere di Fleet Street. Il regista è stato inoltre candidato all'Oscar al miglior film d'animazione per La sposa cadavere del 2005 e per Frankenweenie del 2012.",
+      "fanart": "/FILM/Immagini/monografie/burton_fanart.png",
+      "thumbnail": "/FILM/Immagini/monografie/burton.jpg"
+  },
+  "":{
+      "plot": "",
+      "fanart": "/FILM/Immagini/monografie/_fanart.jpg          ",
+      "thumbnail": "/FILM/Immagini/monografie/.jpg"
+  }
+}

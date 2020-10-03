@@ -16,6 +16,10 @@
       "level2": {
     "search":"",
     "genre":"Genere",
+    "altro": {
+        "title":"Monografie",
+        "description":"/FILM/description_monografie.json"
+        },
     "actors":"Attori",
     "director":"Regista",
     "year":"Anno",
