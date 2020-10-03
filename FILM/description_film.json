@@ -119,6 +119,26 @@
       "fanart": "/FILM/Immagini/007_fanart.jpg",
       "thumbnail": "/FILM/Immagini/007.jpg"
   },
+  "Fantozzi":{
+      "plot": "I film di Fantozzi, sia pur con una profonda ironia, hanno anticipato le tematiche del mobbing nelle grandi aziende, hanno fatto entrare nel bagaglio lessicale dell'italiano medio espressioni quali \"Com'è umano, Lei!\", oltre all'aggettivo \"fantozziano\", registrato in tutti i dizionari italiani[12] e all'espressione \"alla Fantozzi\", locuzioni sorte per indicare esperienze, atteggiamenti o situazioni permeate dall'aria tragicomica propria del personaggio.",
+      "fanart": "/FILM/Immagini/fantocci_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/fantocci.jpg"
+  },
+  "Dieci Piccoli Indiani":{
+      "plot": "Nell'agosto del 1939 otto sconosciuti sono invitati in una tenuta arroccata a Soldier Island, un'isola al largo della costa del Devon, dai misteriosi coniugi U.N. Owen, da loro mai conosciuti personalmente. Una volta giunti nel luogo dell'incontro vengono accolti da due domestici appena assunti, Thomas e Ethel Rogers, ma i padroni di casa sono misteriosamente assenti. Mentre gli ospiti cenano e discorrono tra di loro, una voce proveniente da un grammofono incolpa ciascuno dei presenti, inclusi i due domestici, di aver commesso un omicidio.",
+      "fanart": "/FILM/Immagini/piccoli_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/piccoli.jpg"
+  },
+  "Corto circuito":{
+      "plot": "LA saga comprende 2 film, \"Corto circuito\" (1986) più famoso e divertente fra i due e il sequel Corto circuito 2 (1988), meno famoso a causa del cambio del cast.",
+      "fanart": "/FILM/Immagini/corto_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/corto.jpg"
+  },
+  "Battlestar Galactica":{
+      "plot": "Cinque film tratti dalla serie televisiva Battlestar Galactica del 2004.",
+      "fanart": "/FILM/Immagini/battlestar_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/battlestar.jpg"
+  },
   "":{
       "plot": "",
       "fanart": "/FILM/Immagini/_fanart.jpg",
