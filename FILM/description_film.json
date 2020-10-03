@@ -32,10 +32,10 @@
   "Taxxi":{
       "plot": "Taxxi è una saga cinematografica comica e d'azione francese, creata dallo sceneggiatore e produttore Luc Besson, formata da 5 film.",
       "fanart": "/FILM/Immagini/taxi_fanart.jpg",
-      "thumbnail": "/FILM/Immagini/Taxxi.jpg"
+      "thumbnail": "/FILM/Immagini/Taxi.jpg"
   },
   "Rambo":{
-      "plot": "/FILM/Immagini/rambo.jpg",
+      "plot": "Rambo è una popolare saga cinematografica che narra le gesta del personaggio cinematografico John Rambo, ideato da David Morrell e interpretato dall'attore/regista Sylvester Stallone. I film della serie si sviluppano in arco di tempo di 26 anni, dal 1982 al 2008.",
       "fanart": "/FILM/Immagini/rambo_fanart.jpg",
       "thumbnail": "/FILM/Immagini/rambo.jpg"
   },
@@ -53,5 +53,75 @@
       "plot": "Il franchise di Final Destination è iniziato nel 2000 con uno script scritto, originariamente, per un episodio della serie televisiva X-Files. L'idea di base era semplice: un gruppo di adolescenti riusciva a sfuggire alla Morte per via di un incidente aereo perché uno di loro riusciva ad avere una premonizione dell'accaduto. Da lì, però, la Morte li avrebbe 'rincorsi' per reclamare le anime ed uno ad uno morivano nei modi più disparati (e originali) possibili. C'è un modo per fregare nuovamente la Morte e il proprio destino?",
       "fanart": "/FILM/Immagini/final_fanart.jpg",
       "thumbnail": "/FILM/Immagini/final.jpg"
+  },
+  "Sister Act":{
+      "plot": "Sister Act è un franchise mediatico americano composto da due film: Sister Act (1992), Sister Act 2: Back in the Habit (1993) e un musical di Broadway.",
+      "fanart": "/FILM/Immagini/sister_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/sister.jpg"
+  },
+  "Twilight":{
+      "plot": "I film di Twilight sono una serie romantica di vampiri fantasy basata sulla serie di romanzi di Stephenie Meyer.",
+      "fanart": "/FILM/Immagini/twilight_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/twilight.jpg"
+  },
+  "Star Wars":{
+      "plot": "Star Wars è un franchise colossal di fantascienza creato da George Lucas, che si sviluppa da una saga cinematografica iniziata nel 1977 col film Guerre stellari e sottotitolato retroattivamente Episodio IV - Una nuova speranza. A questo film sono seguiti L'Impero colpisce ancora (1980) e Il ritorno dello Jedi (1983)che insieme formano la \"trilogia originale\" alla quale seguì dal 2002 una trilogia prequel, e una trilogia sequel dal 2015.",
+      "fanart": "/FILM/Immagini/star_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/star.jpg"
+  },
+  "Spider-Man":{
+      "plot": "La serie dei film di Spider-Man, diretti da Sam Raimi, cominciando con Spider-Man nel 2002. I film sono liberamente ispirati alle vicende della popolare serie di fumetti.",
+      "fanart": "/FILM/Immagini/spider_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/spider.jpg"
+  },
+  "Scary Movie":{
+      "plot": "Scary Movie è una commedia horror del 2000 diretta da Keenen Ivory Wayans. È una commedia dark americana che parodia pesantemente i generi horror, slasher e mystery. Diversi film e programmi TV della metà e della fine degli anni '90 sono falsificati, in particolare Scream, insieme a I Know What You Did Last Summer, Buffy the Vampire Slayer, The Sixth Sense, The Usual Suspects, The Matrix, The Blair Witch Project e Dawson's Torrente. Scary Movie è stato seguito da quattro sequel Scary Movie 2 (2001), Scary Movie 3 (2003), Scary Movie 3.5 (scene uncut) , Scary Movie 4 (2006) e Scary MoVie 5 (2013). Il titolo è un omaggio al titolo di produzione di Scream, anch'esso distribuito da Dimension Films.",
+      "fanart": "/FILM/Immagini/scary_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/scary.jpg"
+  },
+  "Saw":{
+      "plot": "Saw è un horror franchise creato da James Wan e Leigh Whannell e composto finora da otto pellicole, realizzate a partire dal 2004. La trama di questa serie di film ruota intorno all'astuto ed efferato maniaco omicida John Kramer, alias Jigsaw, sofferente di un cancro al cervello in fase terminale, e ai suoi apprendisti. Le vittime vengono catturate e poste in trappole mortali, dalle quali è possibile uscire solitamente dopo mutilazioni e sofferenze. Jigsaw mette alla prova le sue \"cavie\" (per lui, infatti, sono degli esperimenti) per vedere se sono degne di continuare a vivere una vita che fino a quel momento hanno disprezzato (ad esempio, fra le vittime c'è una tossicodipendente). Nel finale di questi film vengono spesso lasciati dei dubbi la cui risposta è presente nei film successivi.",
+      "fanart": "/FILM/Immagini/saw_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/saw.jpg"
+  },
+  "Ritorno al futuro":{
+      "plot": "La trilogia di Ritorno al futuro narra delle peripezie a cavallo di varie epoche della storia statunitense (il 1955, il 1985, il 2015 e il 1885) affrontate dal giovane Marty McFly (Michael J. Fox) e dal suo amico, lo stravagante scienziato Emmett \"Doc\" Brown (Christopher Lloyd), inventore di una bizzarra macchina del tempo ricavata da una DeLorean DMC-12. Nel corso dei tre episodi i due si trovano a risolvere diversi problemi per evitare catastrofici paradossi temporali.",
+      "fanart": "/FILM/Immagini/ritorno_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/ritorno.jpg"
+  },
+  "Percy Jackson":{
+      "plot": "Percy Jackson & the Olympians: The Lightning Thief (noto anche come Percy Jackson & The Lightning Thief) è un film fantasy del 2010 diretto da Chris Columbus. Il film è vagamente basato su The Lightning Thief, il primo romanzo della serie Percy Jackson & the Olympians di Rick Riordan. Interpretato da Logan Lerman nei panni di Percy Jackson, insieme a un cast corale che include Brandon T. Jackson, Alexandra Daddario, Jake Abel, Rosario Dawson, Steve Coogan, Uma Thurman, Catherine Keener, Kevin McKidd, Sean Bean e Pierce Brosnan. È uscito nelle sale il 12 febbraio 2010. Un sequel, Percy Jackson: Sea of ​​Monsters, è stato rilasciato il 7 agosto 2013.",
+      "fanart": "/FILM/Immagini/percy_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/percy.jpg"
+  },
+  "Non aprite quella porta (Reboot) - Collezione":{
+      "plot": "",
+      "fanart": "/FILM/Immagini/reboot_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/reboot.jpg"
+  },
+  "Non aprite quella porta":{
+      "plot": "",
+      "fanart": "/FILM/Immagini/porta_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/porta.jpg"
+  },
+  "Marvel Cinematic Univers":{
+      "plot": "Avengers è una serie di film di supereroi prodotta da Marvel Studios basata sull'omonimo team di supereroi Marvel Comics e parte del Marvel Cinematic Universe (MCU). La serie racconta le avventure di diversi supereroi che uniscono le forze per mantenere la pace nel mondo guidati da Nick Fury dell'agenzia di intelligence internazionale S.H.I.E.L.D.",
+      "fanart": "/FILM/Immagini/mcu_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/mcu.jpg"
+  },
+  "Mamma, ho perso l'aereo":{
+      "plot": "Home Alone (lett. A casa da solo) è una serie cinematografica, comica, in cui diversi personaggi ricoprono il ruolo di un bambino e dei banditi, ambientato nel periodo natalizio.",
+      "fanart": "/FILM/Immagini/mamma_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/mamma.jpg"
+  },
+  "James Bond":{
+      "plot": "La serie ufficiale di James Bond è una serie cinematografica di spionaggio di produzione anglo-statunitense ispirata dai romanzi dello scrittore Ian Fleming. Il franchise è il più longevo tra quelli tuttora in attività e vanta anche il record per essere l'unica tra le serie decennali ad aver avuto nella sua storia una continuità di uscita delle pellicole (infatti la pausa maggiore è stata quella tra 007 - Vendetta privata e GoldenEye, che è durata \"solo\" 6 anni). La serie ufficiale è prodotta dalla EON Productions ed è composta da 23 pellicole, esistono tuttavia tre pellicole fuori serie prodotte da altre società, tra le quali \"Mai dire mai\", un remake del 1983 di \"Agente 007 - Thunderball - Operazione Tuono\", il quarto film della serie, che fu realizzato dopo lunghe e complesse vicende legali e che vide Sean Connery nuovamente nel ruolo che aveva interpretato l'ultima volta dodici anni prima.",
+      "fanart": "/FILM/Immagini/007_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/007.jpg"
+  },
+  "":{
+      "plot": "",
+      "fanart": "/FILM/Immagini/_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/.jpg"
   }
 }

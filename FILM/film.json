@@ -1867,7 +1867,7 @@
 		{
 			"tmdb_id": "9373",
 			"title": "Non aprite quella porta",
-			"saga": "Non aprite quella porta",
+			"saga": "Non aprite quella porta (Reboot) - Collezione",
 			"plot": "Primi anni settanta. Alcuni ragazzi, di rientro da una breve vacanza in Messico, stanno dirigendosi a un concerto rock a bordo di un furgoncino. Danno un passaggio prima a un pazzo con tendenze sadiche, ben presto scaricato e in seguito a una ragazza traumatizzata che finisce con il suicidarsi sul furgone con un colpo di pistola.Fermatisi per chiedere aiuto, i nostri cadranno preda di una strana e folle famiglia.",
 			"year": "2003",
 			"director": ["Marcus Nispel"],
@@ -1882,7 +1882,7 @@
 		{
 			"tmdb_id": 10781,
 			"title": "Non aprite quella porta - L'inizio",
-			"saga": "Non aprite quella porta",
+			"saga": "Non aprite quella porta (Reboot) - Collezione",
 			"plot": "La trama di questo prequel si incentra sulle origini del serial killer Leatherface e della sua famiglia di cannibali. Thomas Hewitt, il futuro Leatherface, nacque deforme da una povera donna che lo partorì durante un suo turno di lavoro in una macelleria del Texas, morendo di parto. Gettato in un cassonetto dal proprietario della macelleria, Thomas fu ritrovato da una mendicante a caccia di cibo in una pattumiera e da lei accudito e cresciuto, in un modo tanto disumano da renderlo la bestia che diventerà in futuro. Disgustato dal suo stesso aspetto, il giovane Hewitt iniziò a crearsi maschere con la pelle di animali trovati morti e fu assunto a lavorare nella stessa macelleria in cui lavorava sua madre. Quando però tale industria di carne chiuse, Thomas fu licenziato. Non accettando questo fatto, il ragazzo aspettò il proprietario nel suo studio e lo uccise a martellate; inoltre, trovata una motosega, il folle iniziò ad aggirarsi senza meta lungo la strada principale del paese.",
 			"year": "2006",
 			"director": ["Jonathan Liebesman"],
@@ -2411,19 +2411,7 @@
 			"links": [
 				{
 					"url": "http://51.77.159.233:30299/5adc26ea561e1ab479232f68089ded10"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4256,
-			"title": "Scary Movie 3 - Una risata vi seppellirà",
-			"saga": "Scary Movie",
-			"plot": "L'ambiziosa inviata Cindy Campbell è in cerca di un nuovo scoop televisivo, e così incappa in un'assurda serie di episodi che minacciano il pianeta: un'invasione aliena, videocassette che uccidono, inquietanti cerchi nel grano, profezie, bambini con doni soprannaturali, ambiziosi rapper bianchi e persino... Michael Jackson.",
-			"year": "2003",
-			"director": ["David Zucker"],
-			"genre": ["Commedia"],
-			"actors": ["Anna Faris","Pamela Anderson","Jenny McCarthy","Marny Eng","Charlie Sheen","Simon Rex","Jianna Ballard","Jeremy Piven","Timothy Stack","Elaine Klimaszewski","Diane Klimaszewski","Camryn Manheim","Regina Hall","Drew Mikuska","Darrell Hammond","Anthony Anderson","Dexter Bell","Kevin Hart","Dame Lee","Doron Bell","Simon Cowell","Fat Joe","Ajay Naidu","Denise Richards","William S. Taylor","Patricia Idlette","David Edwards","Frank C. Turner","Monica Dillon","Lori Stewart","Jim Bremner","Phil Dornfeld","Queen Latifah","Eddie Griffin","Edward Moss","Dee Jay Jackson","Leslie Nielsen","D. L. Hughley","Ja Rule","George Carlin","Master P","Macy Gray","Redman","Method Man","Raekwon","RZA","U-God","Debbie Lee Carrington","Troy Yorke","Marco Soriano","Cliff Solomon","Byron Chief-Moon","Dolly Madsen","John Hainsworth","Beverley Breuer","Jessie Young","Deanne Henry","Eric Breker","Naomi Lawson-Baird","Abigail Adams"],
-			"links": [
+				},
 				{
 					"url": "http://51.77.159.233:30299/5cc4dac4b73b409837722a77b6956e53"
 				}
@@ -2732,7 +2720,7 @@
 			"tmdb_id": "496243",
 			"title": "Parasite",
 			"prize": ["Miglior film","Miglior regista" ,"Migliore sceneggiatura" ,"Miglior film internazionale"],
-			"saga": "Oscar",
+			"saga": "",
 			"plot": "Tutta la famiglia di Ki-taek è senza lavoro. Ki-taek è particolarmente interessata allo stile di vita della ricchissima famiglia Park. Un giorno, suo figlio riesce a farsi assumere dai Park e le due famiglie si ritrovano così intrecciate da una serie di eventi incontrollabili.",
 			"year": "2019",
 			"director": ["Bong Joon-ho"],
@@ -2747,7 +2735,7 @@
 		{
 			"tmdb_id": "333339",
 			"title": "Ready Player One",
-			"saga": "Oscar",
+			"saga": "",
 			"prize": "Migliori effetti speciali",
 			"plot": "Nel 2045, anno in cui il mondo sta per collassare sull’orlo del caos, le persone hanno trovato la salvezza nell’OASIS, un enorme universo di realtà virtuale creato dal brillante ed eccentrico James Halliday. A seguito della morte di Halliday, la sua immensa fortuna andrà in dote a colui che per primo troverà un Easter egg nascosto da qualche parte all’interno dell’OASIS, dando il via ad una gara che coinvolgerà il mondo intero. Quando un improbabile giovane eroe di nome Wade Watts deciderà di prendere parte alla gara, verrà coinvolto in una vertiginosa caccia al tesoro in questo fantastico universo fatto di misteri, scoperte sensazionali e pericoli.",
 			"year": "2018",
