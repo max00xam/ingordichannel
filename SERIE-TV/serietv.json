@@ -1,130 +1,247 @@
 {
     "tvshows_list": [
         {
-            "plot": "Decalogo (Dekalog) è una serie di 10 mediometraggi diretti dal regista polacco Krzysztof Kieślowski. Ogni episodio dura circa 55 minuti e racconta una storia di vita quotidiana indipendente da quelle degli altri episodi e ispirata, talora vagamente, talora in modo più esplicito, a uno dei dieci comandamenti biblici. La sceneggiatura è curata dallo stesso Kieślowski insieme a Krzysztof Piesiewicz.",
-            "title": "Krzysztof Kieślowski 'DECALOGO' - W.I.P.",
-            "saga": "Krzysztof Kieślowski 'DECALOGO'",
-            "year": "1989",
-            "tmdb_id": 42699,
-            "genre":["Drammatico"],
-            "url": "/SERIE-TV/serie/decalogo_list.json"
+            "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sar\u00e0 conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'\u00e8 il \"tuttofare\" Mike Erhmantraut.",
+            "title": "Batter Call Saul",
+            "saga": "Batter Call Saul",
+            "year": "2015",
+            "tmdb_id": "60059",
+            "genre": ["Commedia","Crime","Dramma"],
+            "url": "/SERIE-TV/serie/saul_list.json"
         },
         {
-            "plot": "Come nel celebre romanzo, vi si narrano le disavventure del famoso burattino, anche se, a differenza della versione letteraria, nello sceneggiato Pinocchio è impersonato da un bambino vero, che solo in alcuni punti si ritrasforma in un burattino (in questa serie, Pinocchio diviene burattino o bambino per essere punito, premiato o salvato dalla Fata, fino alla fine, quando è totalmente bambino per la sua buona condotta, e il suo spirito esce dal burattino morto).",
-            "title": "Pinocchio (1972)",
-            "saga": "Pinocchio (1972)",
-            "tmdb_id": 86662,
-            "year": "1972",
-            "genre":["Commedia", "Famiglia", "Bambini"],
-            "url": "/SERIE-TV/serie/pinocchio_list.json"
-        },
-        {
-            "plot": "Dopo lo sterminio cylone, la specie umana conta solo 49.998 sopravvissuti. Il Comandante William Adamo guida la Flotta Coloniale a bordo del Galactica, unica astronave militare salvatasi dall'attacco alle Dodici Colonie, mentre Laura Roslin assume la difficile carica di presidente presso il Colonial One. Insieme guidano l'umanità verso una nuova casa, la leggendaria tredicesima colonia nota come Terra. La Flotta è sottoposta a continui attacchi da parte dei Cyloni, e fatica a restare unita dopo ogni salto. I piloti di Viper, tra i quali spicca il tenente Kara \"Scorpion\" Thrace, sono sotto il comando di Lee Adamo, figlio del comandante. Lo scienziato Gaius Baltar, il responsabile dell'attacco cylone, è anch'egli a bordo della Flotta e tenta di conquistare la fiducia dei piani alti costruendo un congegno in grado di rilevare la natura di un cylone umanoide. Allo stesso tempo inizia ad avere visioni del cylone che lo sedusse su Caprica, Numero Sei, che sostiene di essere un angelo di Dio. Il Tenente Sharon \"Boomer\" Valerii scopre di essere una copia dormiente del Numero Otto e tenta di uccidere William Adamo. Nel frattempo, Scorpion si reca a Caprica per recuperare la Freccia di Apollo, un antico manufatto che secondo le Scritture aprirebbe le porte della Tomba di Atena, luogo mistico che aiuterebbe l'umanità a trovare la rotta verso la Terra. Sul pianeta si unisce a Karl Agathon, che ha vissuto gli ultimi mesi con una copia del Numero Otto credendo che questa fosse Boomer.",
-            "title": "Battlestar Galactica",
-            "saga": "Battlestar Galactica",
-            "year": "2004",
-            "tmdb_id": "1972",
-            "genre":["Drammatico"],
-            "url": "/SERIE-TV/serie/galactica_list.json"
-        },
-        {
-            "plot": "In una lontana parte della nostra galassia una civiltà umana vive sparsa su un gruppo di pianeti noti come le Dodici Colonie, su cui si è trasferita dopo essere migrata dall'ancestrale mondo nativo di Kobol. Le Dodici Colonie sono in conflitto da decenni con la razza cibernetica dei cyloni, il cui obiettivo è lo sterminio della specie umana. L'Impero cylone offre un trattato di pace agli umani, che si rivela essere un inganno. Con l'aiuto di un traditore umano chiamato Baltar, i cyloni operano un feroce attacco ai pianeti delle Dodici Colonie e alla Flotta Coloniale che le protegge, mettendo in ginocchio la specie umana. I sopravvissuti al genocidio lasciano i pianeti e scappano a bordo delle poche astronavi scampate all'attacco cylone. A bordo del Galactica, il Comandante Adamo conduce la flotta di fuggitivi alla ricerca della leggendaria tredicesima colonia conosciuta come Terra.",
-            "title": "Galactica 1978",
-            "saga": "Galactica 1978",
-            "year": "1978",
-            "tmdb_id": "501",
-            "genre":["Drammatico", "Fantascienza"],
-            "url": "/SERIE-TV/serie/galactica78_list.json"
-        },
-        {
-            "plot": "Nell'anno terrestre 1980, e una generazione dopo le avventure narrate nella prima serie, l'astronave Galactica con al seguito la relativa flotta di 220 navi civili ha scoperto il pianeta Terra, solo per scoprire che il pianeta non può difendersi contro i Cyloni come originalmente sperato, dato che i Terrestri sono ancora troppo primitivi. Di conseguenza, le squadre di guerrieri coloniali sono inviate segretamente al pianeta per lavorare in incognito con i vari membri della comunità scientifica per accelerare lo sviluppo tecnologico della Terra.",
-            "title": "Galactica 1980",
-            "saga": "Galactica 1980",
-            "year": "1980",
-            "tmdb_id": "4621",
-            "genre":["Fantascienza e Fantasia"],
-            "url": "/SERIE-TV/serie/galactica80_list.json"
-        },
-        {
-            "plot": "Battlestar Galactica: The Resistance è una serie di dieci webisodi della durata di 5 minuti l'uno circa. Sono stati realizzati per raccontare alcuni eventi che avvengono su New Caprica tra l'ultimo episodio della seconda stagione e il primo della terza. A causa di problemi legali, i webisodes, inizialmente previsti per il periodo estivo, sono stati distribuiti attraverso il sito ufficiale di Sci Fi Channel soltanto a partire dal 5 settembre 2006, due volte alla settimana (martedì e giovedì), fino al 5 ottobre, la sera prima della première della terza stagione. In Italia sono stati distribuiti come contenuti speciali nel cofanetto DVD della terza stagione della serie.",
+            "plot": "Battlestar Galactica: The Resistance \u00e8 una serie di dieci webisodi della durata di 5 minuti l'uno circa. Sono stati realizzati per raccontare alcuni eventi che avvengono su New Caprica tra l'ultimo episodio della seconda stagione e il primo della terza. A causa di problemi legali, i webisodes, inizialmente previsti per il periodo estivo, sono stati distribuiti attraverso il sito ufficiale di Sci Fi Channel soltanto a partire dal 5 settembre 2006, due volte alla settimana (marted\u00ec e gioved\u00ec), fino al 5 ottobre, la sera prima della premi\u00e8re della terza stagione. In Italia sono stati distribuiti come contenuti speciali nel cofanetto DVD della terza stagione della serie.",
             "title": "Battlestar Galactica - The Resistance",
             "saga": "Battlestar Galactica - The Resistance",
             "year": "2006",
             "tmdb_id": "4882",
-            "genre":["Drammatico", "Fantascienza e Fantasia", "Fantascienza"],
+            "genre": ["Drammatico","Fantascienza e Fantasia","Fantascienza"],
             "url": "/SERIE-TV/serie/galacticacl_list.json"
         },
         {
-            "plot": "In tutto il mondo si stanno verificando eventi apparentemente inspiegabili, fenomeni soprannaturali, che fanno riferimento a quello che la Sicurezza Nazionale americana ha definito \"Lo Schema\". Quando il volo internazionale 627, partito da Amburgo, atterra a Boston con tutti i passeggeri e i componenti dell'equipaggio morti, l'agente dell'FBI Olivia Dunham è chiamata per risolvere il caso. Olivia è decisa a chiedere l’aiuto di uno scienziato, il Dr. Walter Bishop, che conduceva esperimenti per il Governo all'interno di un ramo della scienza chiamata \"Fringe\" (che comprende fenomeni paranormali come il controllo della mente, il teletrasporto, la proiezione astrale, l'invisibilità, la mutazione genetica, la rianimazione) finché, in seguito ad un incidente di laboratorio, fu dichiarato mentalmente instabile e rinchiuso in un istituto psichiatrico. Olivia si dirige quindi in Iraq, dove attualmente vive il figlio dello scienziato, Peter Bishop, che, nonostante abbia un'intelligenza alquanto sopra la norma come il padre, non si è mai laureato e ha vissuto di truffe e inganni, avvantaggiati dal suo spiccato ingegno. Peter è infatti l'unico parente e l'unica persona che può firmare le carte di dimissioni di Walter Bishop. Grazie a lui, tornato apposta negli Stati Uniti, il trio così formatosi inizia ad indagare sui casi dello \"Schema\", che da piccoli incidenti casuali si trasformano man mano in attacchi di bioterrorismo. Comandata dall’agente della Sicurezza Nazionale Phillip Broyles, che già si era occupato di numerosi casi riguardanti lo \"Schema\", nasce così la \"Divisione Fringe\", che usa come quartier generale il vecchio laboratorio di Walter nello scantinato dell’Università di Harvard a Cambridge.",
+            "plot": "Dopo lo sterminio cylone, la specie umana conta solo 49.998 sopravvissuti. Il Comandante William Adamo guida la Flotta Coloniale a bordo del Galactica, unica astronave militare salvatasi dall'attacco alle Dodici Colonie, mentre Laura Roslin assume la difficile carica di presidente presso il Colonial One. Insieme guidano l'umanit\u00e0 verso una nuova casa, la leggendaria tredicesima colonia nota come Terra. La Flotta \u00e8 sottoposta a continui attacchi da parte dei Cyloni, e fatica a restare unita dopo ogni salto. I piloti di Viper, tra i quali spicca il tenente Kara \"Scorpion\" Thrace, sono sotto il comando di Lee Adamo, figlio del comandante. Lo scienziato Gaius Baltar, il responsabile dell'attacco cylone, \u00e8 anch'egli a bordo della Flotta e tenta di conquistare la fiducia dei piani alti costruendo un congegno in grado di rilevare la natura di un cylone umanoide. Allo stesso tempo inizia ad avere visioni del cylone che lo sedusse su Caprica, Numero Sei, che sostiene di essere un angelo di Dio. Il Tenente Sharon \"Boomer\" Valerii scopre di essere una copia dormiente del Numero Otto e tenta di uccidere William Adamo. Nel frattempo, Scorpion si reca a Caprica per recuperare la Freccia di Apollo, un antico manufatto che secondo le Scritture aprirebbe le porte della Tomba di Atena, luogo mistico che aiuterebbe l'umanit\u00e0 a trovare la rotta verso la Terra. Sul pianeta si unisce a Karl Agathon, che ha vissuto gli ultimi mesi con una copia del Numero Otto credendo che questa fosse Boomer.",
+            "title": "Battlestar Galactica",
+            "saga": "Battlestar Galactica",
+            "year": "2004",
+            "tmdb_id": "1972",
+            "genre": ["Drammatico"],
+            "url": "/SERIE-TV/serie/galactica_list.json"
+        },
+        {
+            "plot": "Beverly Hills 90210 \u00e8 una serie televisiva trasmessa negli Stati Uniti d'America tra il 1990 ed il 2000. Il 90210 del titolo si riferisce allo Zip Code (termine con cui negli USA si indica il codice di avviamento postale) della citt\u00e0 di Beverly Hills nella contea Los Angeles. Il soggetto, all'epoca, fu originale, per la prima volta infatti una serie televisiva si propose di raccontare gli adolescenti per quello che erano affrontando temi delicati come droga, AIDS, sessualit\u00e0 e alcolismo. La serie seguiva le vicissitudini di un gruppo di adolescenti dell'alta borghesia, abitanti nel quartiere VIP di Beverly Hills, a Los Angeles.",
+            "title": "Beverly Hills 90210",
+            "saga": "Beverly Hills 90210",
+            "year": "1990",
+            "tmdb_id": "2025",
+            "genre": ["Drama"],
+            "url": "/SERIE-TV/serie/90210_list.json"
+        },
+        {
+            "plot": "Un borsone viene lasciato incustodito nel centro di Times Square. L'anomalo episodio fa scattare un allarme bomba con evacuazione immediata della piazza. Durante l'intervento di una squadra artificieri si scopre che al suo interno si cela una donna spaesata, priva di vestiti, con il corpo coperto da misteriosi tatuaggi e senza alcun ricordo. Uno dei tanti tatuaggi la collega all'FBI e ad un agente in particolare, Kurt Weller, di cui ha tatuato il nome sulla schiena. La donna, chiamata Jane Doe in assenza della sua reale identit\u00e0, viene affidata ad una squadra speciale dell'FBI composta dagli agenti Kurt Weller, Edgar Reade, Tasha Zapata e Patterson. Da subito risulta evidente la natura enigmatica dei tatuaggi, nonostante non si sia a conoscenza di chi li abbia realizzati, che condurr\u00e0 la squadra ad indagare su crimini misteriosi e di elevata importanza.",
+            "title": "Blindspot",
+            "saga": "Blindspot",
+            "year": "2015",
+            "tmdb_id": "62710",
+            "genre": ["Azione","Crime","Drama"],
+            "url": "/SERIE-TV/serie/blind_list.json"
+        },
+        {
+            "plot": "Walter White \u00e8 un professore di chimica di Albuquerque. Vive con la moglie Skyler, incinta della loro secondogenita, e il figlio Walter Jr, affetto da un handicap motorio che gli causa difficolt\u00e0 nel linguaggio e che lo obbliga a camminare tramite delle stampelle. Alla soglia del compimento dei cinquant'anni, Walter \u00e8 costretto a svolgere un secondo lavoro come dipendente di un autolavaggio, per far fronte alle difficolt\u00e0 economiche previste dall'imminente nascita della figlia. A tutto questo si aggiunge il profondo senso di insoddisfazione di Walter, il quale deve sopportare le angherie del suo titolare, dei suoi amici ed anche quelle dei suoi familiari, che lo considerano una nullit\u00e0. In particolare, suo cognato Hank, il quale lavora presso la DEA, non perde occasione per mettere a confronto la sua vita, estremamente dinamica ed avventurosa, con quella di Walter, totalmente priva di soddisfazione. Quando a Walter viene diagnosticato un cancro ai polmoni, i suoi problemi sembrano precipitare. Tuttavia, in seguito al casuale incontro con Jesse Pinkman, un suo ex-studente diventato uno spacciatore di poco conto, Walter decide di sfruttare le sue conoscenze chimiche per \"cucinare\" metanfetamina di elevata purezza, con i cui guadagni pu\u00f2 assicurare un futuro economico alla sua famiglia.",
+            "title": "Breaking Bad - Reazioni collaterali",
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "year": "2008",
+            "tmdb_id": "1396",
+            "genre": ["Drama"],
+            "url": "/SERIE-TV/serie/brb_list.json"
+        },
+        {
+            "plot": "In tutto il mondo si stanno verificando eventi apparentemente inspiegabili, fenomeni soprannaturali, che fanno riferimento a quello che la Sicurezza Nazionale americana ha definito \"Lo Schema\". Quando il volo internazionale 627, partito da Amburgo, atterra a Boston con tutti i passeggeri e i componenti dell'equipaggio morti, l'agente dell'FBI Olivia Dunham \u00e8 chiamata per risolvere il caso. Olivia \u00e8 decisa a chiedere l\u2019aiuto di uno scienziato, il Dr. Walter Bishop, che conduceva esperimenti per il Governo all'interno di un ramo della scienza chiamata \"Fringe\" (che comprende fenomeni paranormali come il controllo della mente, il teletrasporto, la proiezione astrale, l'invisibilit\u00e0, la mutazione genetica, la rianimazione) finch\u00e9, in seguito ad un incidente di laboratorio, fu dichiarato mentalmente instabile e rinchiuso in un istituto psichiatrico. Olivia si dirige quindi in Iraq, dove attualmente vive il figlio dello scienziato, Peter Bishop, che, nonostante abbia un'intelligenza alquanto sopra la norma come il padre, non si \u00e8 mai laureato e ha vissuto di truffe e inganni, avvantaggiati dal suo spiccato ingegno. Peter \u00e8 infatti l'unico parente e l'unica persona che pu\u00f2 firmare le carte di dimissioni di Walter Bishop. Grazie a lui, tornato apposta negli Stati Uniti, il trio cos\u00ec formatosi inizia ad indagare sui casi dello \"Schema\", che da piccoli incidenti casuali si trasformano man mano in attacchi di bioterrorismo. Comandata dall\u2019agente della Sicurezza Nazionale Phillip Broyles, che gi\u00e0 si era occupato di numerosi casi riguardanti lo \"Schema\", nasce cos\u00ec la \"Divisione Fringe\", che usa come quartier generale il vecchio laboratorio di Walter nello scantinato dell\u2019Universit\u00e0 di Harvard a Cambridge.",
             "title": "Fringe",
             "saga": "Fringe",
             "year": "2008",
             "tmdb_id": "1705",
-            "genre":["Drammatico", "Fantascienza e Fantasia", "Mistero"],
+            "genre": ["Drammatico","Fantascienza e Fantasia","Mistero"],
             "url": "/SERIE-TV/serie/fringe_list.json"
         },
         {
-            "plot": "La serie narra in chiave ironica della vita di tutti i giorni di un gruppo di prigionieri in un campo di prigionia nazista durante la seconda guerra mondiale. Tali prigionieri si trovano nello Stalag 13, il più efficace campo di concentramento del mondo nazista: da tale campo infatti mai nessun prigioniero è riuscito a scappare. In realtà i carcerieri, in primis il loro capo, il Colonnello Wilhelm Klink, sono una manica di inetti e bonaccioni, costantemente presi in giro dai prigionieri stessi, che riescono a fare praticamente ciò che vogliono, il che significa fare dello Stalag stesso un fondamentale avamposto militare in terra nemica, nonché un centro di spionaggio e sabotaggio. L'intera classe dirigente nazista è a conoscenza dell'incompetenza di Klink, che per tal motivo non viene mai promosso, ma nello stesso tempo non riesce a capacitarsi di come il suo sia il miglior campo di prigionia. Il gruppo di prigionieri è molto assortito, sia per quanto riguarda le nazionalità (francesi, americani e inglesi), i gradi militari e le competenze professionali. Il continuo, sotterraneo, viavai dal campo permette inoltre il \"ricambio\" di questi che, in definitiva, sono veri e propri ospiti della soldataglia nazista.",
+            "plot": "In una lontana parte della nostra galassia una civilt\u00e0 umana vive sparsa su un gruppo di pianeti noti come le Dodici Colonie, su cui si \u00e8 trasferita dopo essere migrata dall'ancestrale mondo nativo di Kobol. Le Dodici Colonie sono in conflitto da decenni con la razza cibernetica dei cyloni, il cui obiettivo \u00e8 lo sterminio della specie umana. L'Impero cylone offre un trattato di pace agli umani, che si rivela essere un inganno. Con l'aiuto di un traditore umano chiamato Baltar, i cyloni operano un feroce attacco ai pianeti delle Dodici Colonie e alla Flotta Coloniale che le protegge, mettendo in ginocchio la specie umana. I sopravvissuti al genocidio lasciano i pianeti e scappano a bordo delle poche astronavi scampate all'attacco cylone. A bordo del Galactica, il Comandante Adamo conduce la flotta di fuggitivi alla ricerca della leggendaria tredicesima colonia conosciuta come Terra.",
+            "title": "Galactica 1978",
+            "saga": "Galactica 1978",
+            "year": "1978",
+            "tmdb_id": "501",
+            "genre": ["Drammatico","Fantascienza"],
+            "url": "/SERIE-TV/serie/galactica78_list.json"
+        },
+        {
+            "plot": "Nell'anno terrestre 1980, e una generazione dopo le avventure narrate nella prima serie, l'astronave Galactica con al seguito la relativa flotta di 220 navi civili ha scoperto il pianeta Terra, solo per scoprire che il pianeta non pu\u00f2 difendersi contro i Cyloni come originalmente sperato, dato che i Terrestri sono ancora troppo primitivi. Di conseguenza, le squadre di guerrieri coloniali sono inviate segretamente al pianeta per lavorare in incognito con i vari membri della comunit\u00e0 scientifica per accelerare lo sviluppo tecnologico della Terra.",
+            "title": "Galactica 1980",
+            "saga": "Galactica 1980",
+            "year": "1980",
+            "tmdb_id": "4621",
+            "genre": ["Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/galactica80_list.json"
+        },
+        {
+            "plot": "La serie narra in chiave ironica della vita di tutti i giorni di un gruppo di prigionieri in un campo di prigionia nazista durante la seconda guerra mondiale. Tali prigionieri si trovano nello Stalag 13, il pi\u00f9 efficace campo di concentramento del mondo nazista: da tale campo infatti mai nessun prigioniero \u00e8 riuscito a scappare. In realt\u00e0 i carcerieri, in primis il loro capo, il Colonnello Wilhelm Klink, sono una manica di inetti e bonaccioni, costantemente presi in giro dai prigionieri stessi, che riescono a fare praticamente ci\u00f2 che vogliono, il che significa fare dello Stalag stesso un fondamentale avamposto militare in terra nemica, nonch\u00e9 un centro di spionaggio e sabotaggio. L'intera classe dirigente nazista \u00e8 a conoscenza dell'incompetenza di Klink, che per tal motivo non viene mai promosso, ma nello stesso tempo non riesce a capacitarsi di come il suo sia il miglior campo di prigionia. Il gruppo di prigionieri \u00e8 molto assortito, sia per quanto riguarda le nazionalit\u00e0 (francesi, americani e inglesi), i gradi militari e le competenze professionali. Il continuo, sotterraneo, viavai dal campo permette inoltre il \"ricambio\" di questi che, in definitiva, sono veri e propri ospiti della soldataglia nazista.",
             "title": "Gli Eroi di Hogan",
             "saga": "Gli Eroi di Hogan",
             "year": "1965",
             "tmdb_id": "4068",
-            "genre":["Guerra e Politca", "Commedia"],
+            "genre": ["Guerra e Politca","Commedia"],
             "url": "/SERIE-TV/serie/eroi_list.json"
         },
         {
-            "plot": "La serie narra le vicende di una famiglia borghese degli anni '50 - '60 che vive nella città di Milwaukee, i Cunningham; la famiglia è composta da Howard, proprietario di un negozio di ferramenta, da sua moglie Marion, casalinga, e dai figli Charles (detto Chuck), Richard (detto Richie) e Joanie. Il figlio maggiore Chuck appare sporadicamente solo durante la prima e seconda stagione (interpretato da due diversi attori), per poi scomparire dal cast senza alcuna spiegazione da parte degli sceneggiatori, lasciando solo i due figli minori di età adolescenziale. Il quadro è completato dai migliori amici di Richie, Ralph Malph e Warren \"Potsie\" Weber (in particolar modo il secondo avrà dapprima un ruolo maggiore del primo, in quanto sarà identificato nelle prime puntate come il miglior amico di Richie, infatti inizialmente è l'unico dei due che comparirà nella sigla iniziale), e soprattutto da Arthur Fonzarelli, detto Fonzie (o anche Fonz nella versione originale), meccanico rubacuori con più di un tocco alla James Dean, che all'inizio della terza stagione andrà a vivere in un piccolo appartamento ricavato sopra il garage dei Cunningham. Nato come tipico duro e delinquente giovanile anni '50 di poche parole che avrebbe dovuto avere un ruolo marginale nel telefilm per dare un tocco di realismo maggiore, il personaggio, visto il successo che ottenne, si trasformò in pratica in un membro della famiglia Cunningham che fa da mentore a Richie grazie alla sua maggiore esperienza, cioè quello che avrebbe dovuto essere il ruolo del fratello maggiore Chuck, che per questo probabilmente sparì dalla serie.",
+            "plot": "Meredith Grey \u00e8 una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce cos\u00ec a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i pi\u00f9 svariati problemi. Meredith \u00e8 figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realt\u00e0 lui \u00e8 Derek Shepherd, neurochirurgo dell'ospedale, nonch\u00e9 suo supervisore. Meredith deve cos\u00ec districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
+            "title": "Grey's Anatomy",
+            "saga": "Grey's Anatomy",
+            "year": "2005",
+            "tmdb_id": "1416",
+            "genre": ["Dramma"],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "La serie narra le vicende di una famiglia borghese degli anni '50 - '60 che vive nella citt\u00e0 di Milwaukee, i Cunningham; la famiglia \u00e8 composta da Howard, proprietario di un negozio di ferramenta, da sua moglie Marion, casalinga, e dai figli Charles (detto Chuck), Richard (detto Richie) e Joanie. Il figlio maggiore Chuck appare sporadicamente solo durante la prima e seconda stagione (interpretato da due diversi attori), per poi scomparire dal cast senza alcuna spiegazione da parte degli sceneggiatori, lasciando solo i due figli minori di et\u00e0 adolescenziale. Il quadro \u00e8 completato dai migliori amici di Richie, Ralph Malph e Warren \"Potsie\" Weber (in particolar modo il secondo avr\u00e0 dapprima un ruolo maggiore del primo, in quanto sar\u00e0 identificato nelle prime puntate come il miglior amico di Richie, infatti inizialmente \u00e8 l'unico dei due che comparir\u00e0 nella sigla iniziale), e soprattutto da Arthur Fonzarelli, detto Fonzie (o anche Fonz nella versione originale), meccanico rubacuori con pi\u00f9 di un tocco alla James Dean, che all'inizio della terza stagione andr\u00e0 a vivere in un piccolo appartamento ricavato sopra il garage dei Cunningham. Nato come tipico duro e delinquente giovanile anni '50 di poche parole che avrebbe dovuto avere un ruolo marginale nel telefilm per dare un tocco di realismo maggiore, il personaggio, visto il successo che ottenne, si trasform\u00f2 in pratica in un membro della famiglia Cunningham che fa da mentore a Richie grazie alla sua maggiore esperienza, cio\u00e8 quello che avrebbe dovuto essere il ruolo del fratello maggiore Chuck, che per questo probabilmente spar\u00ec dalla serie.",
             "title": "Happy Days",
             "saga": "Happy Days",
             "year": "1974",
             "tmdb_id": "3845",
-            "genre":["Commedia"],
+            "genre": ["Commedia"],
             "url": "/SERIE-TV/serie/fonzie_list.json"
         },
         {
-            "plot": "48 persone sopravvivono ad un tremendo disastro aereo e si ritrovano dispersi su di un'isola dell'Oceano Pacifico che sembra completamente disabitata. Ognuno di loro ha una sua storia, ognuno di loro nasconde dei segreti. Ma tutti quanti, se vogliono continuare a vivere, debbono collaborare, superare le avversità e le divisioni personali e sperare nel soccorso. Che potrebbe non arrivare mai. La banda di amici, familiari, nemici e stranieri lotta contro l'inclemenza del tempo ed il terreno scosceso. E scopre che anche l'isola nasconde dei segreti, una minaccia incombente, l'urlo di creature misteriose che popolano la giungla e che seminano il panico ed il terrore fra i sopravvissuti.",
+            "plot": "Ad un anno di distanza la citt\u00e0 di Odessa \u00e8 ancora sconvolta da quello che \u00e8 stato descritto dai media come un grave attentato terroristico, la cui responsabilit\u00e0 sarebbe dei cosiddetti \"umani evoluti\", noti con l'abbreviazione evo, persone dotate di poteri soprannaturali la cui esistenza, dopo gli eventi del finale della quarta stagione di Heroes, risalenti a cinque anni prima, \u00e8 ormai di dominio pubblico. Di conseguenza molti di tali soggetti sono ora costretti a vivere cercando di celare le proprie abilit\u00e0, per sottrarsi alle discriminazioni della societ\u00e0, alle misure restrittive imposte dai governi, e per evitare di finire nel mirino di chi \u00e8 in cerca di vendetta o vorrebbe sfruttarli per propri fini, come la compagnia Renautas, conglomerato che ha acquisito la Primatech Paper, o la coppia Luke e Joanne, che vorrebbe sterminarli per vendicare la morte del figlio rimasto vittima degli eventi di Odessa. Tra i protagonisti figurano il giovane Tommy Clark, uno studente in grado di far sparire cose e persone, la giapponese Miko Otomo, in grado di vivere in una realt\u00e0 virtuale in cui va alla ricerca del padre, Carlos Gutierrez, che cerca di onorare la morte del fratello e Malina, una delle prime ad essere testimone di un pericolo immininente per l'intero pianeta. Presto, infatti, saranno chiamati ad unire le proprie forze per salvare il mondo.",
+            "title": "Heroes Reborn",
+            "saga": "Heroes Reborn",
+            "year": "2015",
+            "tmdb_id": "60858",
+            "genre": ["Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/serie/reborn_list.json"
+        },
+        {
+            "plot": "La serie racconta le storie di persone normali che scoprono di possedere capacit\u00e0 sovrumane, e di come queste hanno effetto nelle loro vite.",
+            "title": "Heroes",
+            "saga": "Heroes",
+            "year": "2006",
+            "tmdb_id": "1639",
+            "genre": ["Sci-Fi & Fantasy","Dramma"],
+            "url": "/SERIE-TV/serie/heroes_list.json"
+        },
+        {
+            "plot": "Roma, seconda meta' degli anni '80 Liceo Classico Leopardi. Qui si incontrano i diversi protagonisti della serie e qui si vivono le epiche gesta esilaranti dei compagni di classe della III C, i liceali pi\u00f9 goliardici dell'intero anno scolastico. Bruno Sacchi timido ragazzo piuttosto in carne, spesso impacciato ma con un cuore grande. Chicco Lazzaretti il classico ripetente instancabile, attaccatissimo alla scuola e ai compagni, sempre pronto a rispondere ai professori in modo divertente per distrarre i compagni di classe. Non potevano mancare Daniele e Rossella, tipici fidanzatini cresciuti assieme fin da piccoli e la bellissima e biondissima Sharon Zampetti, desiderata da tutti.",
+            "title": "I ragazzi della 3c",
+            "saga": "I ragazzi della 3c",
+            "year": "1987",
+            "tmdb_id": "41583",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "Decalogo (Dekalog) \u00e8 una serie di 10 mediometraggi diretti dal regista polacco Krzysztof Kie\u015blowski. Ogni episodio dura circa 55 minuti e racconta una storia di vita quotidiana indipendente da quelle degli altri episodi e ispirata, talora vagamente, talora in modo pi\u00f9 esplicito, a uno dei dieci comandamenti biblici. La sceneggiatura \u00e8 curata dallo stesso Kie\u015blowski insieme a Krzysztof Piesiewicz.",
+            "title": "Krzysztof Kie\u015blowski 'DECALOGO' - W.I.P.",
+            "saga": "Krzysztof Kie\u015blowski 'DECALOGO'",
+            "year": "1989",
+            "tmdb_id": 42699,
+            "genre": ["Drammatico"],
+            "url": "/SERIE-TV/serie/decalogo_list.json"
+        },
+        {
+            "plot": "Otto ladri si barricano nell'edificio della Zecca spagnola con alcuni ostaggi, mentre una mente criminale manipola la polizia per mettere in atto il suo piano.",
+            "title": "La casa di carta",
+            "saga": "La casa di carta",
+            "year": "2017",
+            "tmdb_id": "71446",
+            "genre": ["Crime","Dramma"],
+            "url": "/SERIE-TV/serie/carta_list.json"
+        },
+        {
+            "plot": "48 persone sopravvivono ad un tremendo disastro aereo e si ritrovano dispersi su di un'isola dell'Oceano Pacifico che sembra completamente disabitata. Ognuno di loro ha una sua storia, ognuno di loro nasconde dei segreti. Ma tutti quanti, se vogliono continuare a vivere, debbono collaborare, superare le avversit\u00e0 e le divisioni personali e sperare nel soccorso. Che potrebbe non arrivare mai. La banda di amici, familiari, nemici e stranieri lotta contro l'inclemenza del tempo ed il terreno scosceso. E scopre che anche l'isola nasconde dei segreti, una minaccia incombente, l'urlo di creature misteriose che popolano la giungla e che seminano il panico ed il terrore fra i sopravvissuti.",
             "title": "Lost",
             "saga": "Lost",
             "year": "2004",
             "tmdb_id": "4607",
-            "genre":["Azione e Avventura", "Drammatico", "Mistero", "Fantascienza e Fantasia"],
+            "genre": ["Azione e Avventura","Drammatico","Mistero","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/lost_list.json"
         },
         {
-            "plot": "Dopo essere tornata nella sua città natale di Roswell (Nuovo Messico), la figlia di due persone immigrate e senza documenti scopre che la sua cotta adolescenziale è un alieno che ha tenuto nascoste le sue capacità soprannaturali per tutta la sua vita. Protegge il suo segreto mentre i due si riconnettono, ma quando un attacco violento indica una presenza aliena più grande sulla Terra, la politica della paura e dell'odio minaccia di esporsi.",
+            "plot": "Il noto giornalista Mario conduce l'MTG, ma la Micidial Corporation ha comprato l'emittente e impone i suoi discutibili sponsor durante le dirette. Mario non ci sta e decide di andarsene, ma viene bloccato da Lord Micidial che non solo lo costringe a rinunciare alle dimissioni, ma gli affianca il figlio Ginetto, che dovr\u00e0 istruire sull'arte del giornalismo.",
+            "title": "Mario",
+            "saga": "Mario",
+            "year": "2013",
+            "tmdb_id": "47319",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/mario_list.json"
+        },
+        {
+            "plot": "Lo strampalato alieno Mork (Williams), proveniente dal pianeta Ork, inviato sulla Terra per studiare il curioso sistema di vita dei suoi abitanti, diventa amico di Mindy (Dawber), alla quale sconvolge la vita con il suo stravagante modo di fare, il suo bislacco senso dell'umorismo e la sua originale interpretazione delle usanze terrestri. Il personaggio di Mork, apparso dapprima in un episodio di Happy Days, nel quale tent\u00f2 di rapire Richie Cunningham, \u00e8 interpretato da quel Robin Williams, qui al suo primo ruolo importante, destinato a diventare una star cinematografica.",
+            "title": "Mork e Mindy",
+            "saga": "Mork e Mindy",
+            "year": "1978",
+            "tmdb_id": "2552",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/mork_list.json"
+        },
+        {
+            "plot": "La serie \u00e8 ambientata nella citt\u00e0 costiera di Storybrooke, nel Maine, in cui gli abitanti sono in realt\u00e0 personaggi di varie fiabe e altre storie che sono state trasportate in una citt\u00e0 reale e derubate dei loro ricordi originali dalla Regina cattiva, Regina (Lana Parrilla) che ha usato una potente maledizione ottenuta da Tremotino (Robert Carlyle). Gli abitanti di Storybrooke, di cui Regina \u00e8 il sindaco, vivono un'esistenza immutabile da 28 anni, ignari del fatto che non stanno invecchiando. L'unica speranza della citt\u00e0 \u00e8 nelle mani di Emma Swan (Jennifer Morrison), la figlia di Biancaneve (Ginnifer Goodwin) e del Principe azzurro (Josh Dallas), che \u00e8 stata trasportata dalla Foresta Incantata al mondo reale attraverso un albero magico da bambina prima che potesse essere maledetta. In quanto tale, \u00e8 l'unica in grado di rompere la maledizione e ripristinare i ricordi perduti dei cittadini. Viene aiutata dal figlio, Henry (Jared S. Gilmore), con cui si \u00e8 stata recentemente riunita dopo averlo dato in adozione alla nascita, e il suo libro delle fiabe intitolato Once Upon a Time che contiene la chiave per rompere la maledizione. Henry \u00e8 anche il figlio adottivo di Regina, ci\u00f2 fornisce una fonte di conflitto ed interesse comune tra le due donne.",
+            "title": "Once Upon a Time",
+            "saga": "Once Upon a Time",
+            "year": "2011",
+            "tmdb_id": "39272",
+            "genre": ["Dramma","Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/serie/once_list.json"
+        },
+        {
+            "plot": "Person of Interest \u00e8 un crime ambientato a New York che vede l\u2019ex agente della CIA e presunto cadavere John Reese stringere un\u2019improbabile alleanza con il misterioso miliardario Mr. Finch allo scopo di prevenire crimini in autonomia, all\u2019insaputa delle forze dell\u2019ordine, prima che accadano. A tal proposito Finch ha inventato un software che usa un metodo matematico complicatissimo per riconoscere individui che saranno coinvolti nei pi\u00f9 svariati crimini. Per riuscirci useranno la tecnologia di sorveglianza pi\u00f9 avanzata, le capacit\u00e0 tattiche di Reese e le infinite risorse economiche di Finch.",
+            "title": "Person of Interest",
+            "saga": "Person of Interest",
+            "year": "2011",
+            "tmdb_id": "1411",
+            "genre": ["Dramma","Action & Adventure","Crime","Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/serie/person_list.json"
+        },
+        {
+            "plot": "Come nel celebre romanzo, vi si narrano le disavventure del famoso burattino, anche se, a differenza della versione letteraria, nello sceneggiato Pinocchio \u00e8 impersonato da un bambino vero, che solo in alcuni punti si ritrasforma in un burattino (in questa serie, Pinocchio diviene burattino o bambino per essere punito, premiato o salvato dalla Fata, fino alla fine, quando \u00e8 totalmente bambino per la sua buona condotta, e il suo spirito esce dal burattino morto).",
+            "title": "Pinocchio (1972)",
+            "saga": "Pinocchio (1972)",
+            "tmdb_id": 86662,
+            "year": "1972",
+            "genre": ["Commedia","Famiglia","Bambini"],
+            "url": "/SERIE-TV/serie/pinocchio_list.json"
+        },
+        {
+            "plot": "Condannato a morte per l'omicidio di un potente uomo di Washington, Lincoln Burrows si dice vittima di un complotto. L'unico a credere in lui \u00e8 il fratello Michael Scofield, ingegnere edile, che ha architettato un piano per farlo evadere, ma per metterlo in pratica deve farsi rinchiudere nello stesso carcere. Da qui inizia una lunga, rocambolesca fuga per la libert\u00e0 per Michael, suo fratello e gli altri che si uniranno a loro.",
+            "title": "Prison Break",
+            "saga": "Prison Break",
+            "year": "2005",
+            "tmdb_id": "2288",
+            "genre": ["Action & Adventure","Dramma","Crime"],
+            "url": "/SERIE-TV/serie/prison_list.json"
+        },
+        {
+            "plot": "Dopo essere tornata nella sua citt\u00e0 natale di Roswell (Nuovo Messico), la figlia di due persone immigrate e senza documenti scopre che la sua cotta adolescenziale \u00e8 un alieno che ha tenuto nascoste le sue capacit\u00e0 soprannaturali per tutta la sua vita. Protegge il suo segreto mentre i due si riconnettono, ma quando un attacco violento indica una presenza aliena pi\u00f9 grande sulla Terra, la politica della paura e dell'odio minaccia di esporsi.",
             "title": "Roswell, New Mexico",
             "saga": "Roswell, New Mexico",
             "year": "2019",
             "tmdb_id": "82001",
-            "genre":["Drammatico", "Fantascienza e Fantasia"],
+            "genre": ["Drammatico","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/roswel_list.json"
         },
         {
-            "plot": "La fine è solamente l'inizio e dopo aver abbandonato la Flotta della Federazione dei Pianeti Uniti 15 anni prima, l'Ammiraglio Jean-Luc Picard comincia un nuovo capitolo della sua vita.",
+            "plot": "La serie narra le vicende di un club di motociclisti chiamato Sons of Anarchy ed \u00e8 ambientata nella citt\u00e0 immaginaria di Charming, situata nella Valle di San Joaquin in California.",
+            "title": "Sons of Anarchy",
+            "saga": "Sons of Anarchy",
+            "year": "2018",
+            "tmdb_id": "1409",
+            "genre": ["Crime","Drama"],
+            "url": "/SERIE-TV/serie/sons_list.json"
+        },
+        {
+            "plot": "La fine \u00e8 solamente l'inizio e dopo aver abbandonato la Flotta della Federazione dei Pianeti Uniti 15 anni prima, l'Ammiraglio Jean-Luc Picard comincia un nuovo capitolo della sua vita.",
             "title": "Star Trek Picard",
             "saga": "Star Trek Picard",
             "year": "2020",
             "tmdb_id": "85949",
-            "genre":["Azione e Avventura", "Fantascienza e Fantasia"],
+            "genre": ["Azione e Avventura","Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/picard_list.json"
-        },
-        {
-            "plot": "Dopo Jango e Boba Fett, un nuovo guerriero arriva nell'universo di Star Wars. The Mandalorian è ambientato dopo la caduta dell'Impero e prima del regno di terrore del Primo Ordine. Segue le avventure travagliate di un pistolero solitario nei meandri più reconditi della galassia, lontano dall'autorità della Nuova Repubblica.",
-            "title": "The Mandalorian",
-            "saga": "The Mandalorian",
-            "year": "2019",
-            "tmdb_id": "695402",
-            "genre":["Fantascienza e Fantasia"],
-            "url": "/SERIE-TV/serie/wars_list.json"
-        },
-        {
-            "plot": "Un'organizzazione militare segreta, la S.H.A.D.O. (Supreme Headquarters Alien Defence Organisation) combatte con mezzi sofisticati (sottomarini dotati di aerei, carri armati di nuova concezione, intercettori attivi nell'orbita lunare, sistemi di tracciamento e identificazione all'avanguardia) l'invasione della Terra da parte di misteriosi alieni, i cui scopi (la cattura di persone per la predazione di organi oppure la sottomissione dell'intera razza umana?) non sono ancora stati capiti in pieno. Oltre alla base segreta nei dintorni di Londra, camuffata da studio di produzione cinematografica, la S.H.A.D.O. può contare anche su una base lunare, punto di riferimento per l'avvistamento delle astronavi aliene.",
-            "title": "Ufo S.H.A.D.O.",
-            "saga": "Ufo S.H.A.D.O.",
-            "year": "1970",
-            "tmdb_id": "2560",
-            "genre":["Fantascienza e Fantasia", "Drammatico","Azione e Avventura"],
-            "url": "/SERIE-TV/serie/ufo_list.json"
         },
         {
             "plot": "La scomparsa di un ragazzino in una cittadina porta alla luce un mistero in cui si mescolano esperimenti segreti, spaventose forze soprannaturali e una strana bambina.",
@@ -132,134 +249,53 @@
             "saga": "Stranger Things",
             "year": "2016",
             "tmdb_id": "66732",
-            "genre":["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "genre": ["Mistero","Sci-Fi & Fantasy","Dramma"],
             "url": "/SERIE-TV/serie/st_list.json"
         },
         {
-            "plot": "The Boys è un anti-superhero drama, basato sull'omonimo fumetto di Garth Ennis e Darick Robertson, prodotto da Seth Rogen ed Evan Goldberg per Prime Video di Amazon. L'irriverente serie, creata da Eric Kripke (Supernatural), segue l'idea secondo la quale i supereroi non possano essere tutti buoni e di nobili intenzioni. Cosa succederebbe, dunque, se usassero i propri poteri e il proprio status per corrompere le autorità, scendere a patti con aziende di poco rispetto o perpetrare abusi di ogni tipo? Servirebbe qualcuno per tenerli a bada. Ed è qui che entrano in gioco i Boys, un gruppo di guardiani riunitisi per contrastare i Seven, i sette supereroi pagati dall'agenzia multimiliardaria Vought International.",
+            "plot": "The Boys \u00e8 un anti-superhero drama, basato sull'omonimo fumetto di Garth Ennis e Darick Robertson, prodotto da Seth Rogen ed Evan Goldberg per Prime Video di Amazon. L'irriverente serie, creata da Eric Kripke (Supernatural), segue l'idea secondo la quale i supereroi non possano essere tutti buoni e di nobili intenzioni. Cosa succederebbe, dunque, se usassero i propri poteri e il proprio status per corrompere le autorit\u00e0, scendere a patti con aziende di poco rispetto o perpetrare abusi di ogni tipo? Servirebbe qualcuno per tenerli a bada. Ed \u00e8 qui che entrano in gioco i Boys, un gruppo di guardiani riunitisi per contrastare i Seven, i sette supereroi pagati dall'agenzia multimiliardaria Vought International.",
             "title": "The Boys",
             "saga": "The Boys",
             "year": "2019",
             "tmdb_id": "76479",
-            "genre":["Sci-Fi & Fantasy", "Action & Adventure"],
+            "genre": ["Sci-Fi & Fantasy","Action & Adventure"],
             "url": "/SERIE-TV/serie/boys_list.json"
         },
         {
-            "plot": "La serie narra le vicende di un club di motociclisti chiamato Sons of Anarchy ed è ambientata nella città immaginaria di Charming, situata nella Valle di San Joaquin in California.",
-            "title": "Sons of Anarchy",
-            "saga": "Sons of Anarchy",
-            "year": "2018",
-            "tmdb_id": "1409",
-            "genre":["Crime", "Drama"],
-            "url": "/SERIE-TV/serie/sons_list.json"
+            "plot": "Dopo Jango e Boba Fett, un nuovo guerriero arriva nell'universo di Star Wars. The Mandalorian \u00e8 ambientato dopo la caduta dell'Impero e prima del regno di terrore del Primo Ordine. Segue le avventure travagliate di un pistolero solitario nei meandri pi\u00f9 reconditi della galassia, lontano dall'autorit\u00e0 della Nuova Repubblica.",
+            "title": "The Mandalorian",
+            "saga": "The Mandalorian",
+            "year": "2019",
+            "tmdb_id": "82856",
+            "genre": ["Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/wars_list.json"
         },
         {
-            "plot": "Walter White è un professore di chimica di Albuquerque. Vive con la moglie Skyler, incinta della loro secondogenita, e il figlio Walter Jr, affetto da un handicap motorio che gli causa difficoltà nel linguaggio e che lo obbliga a camminare tramite delle stampelle. Alla soglia del compimento dei cinquant'anni, Walter è costretto a svolgere un secondo lavoro come dipendente di un autolavaggio, per far fronte alle difficoltà economiche previste dall'imminente nascita della figlia. A tutto questo si aggiunge il profondo senso di insoddisfazione di Walter, il quale deve sopportare le angherie del suo titolare, dei suoi amici ed anche quelle dei suoi familiari, che lo considerano una nullità. In particolare, suo cognato Hank, il quale lavora presso la DEA, non perde occasione per mettere a confronto la sua vita, estremamente dinamica ed avventurosa, con quella di Walter, totalmente priva di soddisfazione. Quando a Walter viene diagnosticato un cancro ai polmoni, i suoi problemi sembrano precipitare. Tuttavia, in seguito al casuale incontro con Jesse Pinkman, un suo ex-studente diventato uno spacciatore di poco conto, Walter decide di sfruttare le sue conoscenze chimiche per \"cucinare\" metanfetamina di elevata purezza, con i cui guadagni può assicurare un futuro economico alla sua famiglia.",
-            "title": "Breaking Bad - Reazioni collaterali",
-            "saga": "Breaking Bad - Reazioni collaterali",
-            "year": "2008",
-            "tmdb_id": "1396",
-            "genre":["Drama"],
-            "url": "/SERIE-TV/serie/brb_list.json"
-        },
-        {
-            "plot": "Rick Grimes è un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le lacrime la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, è traumatico: l'ospedale è distrutto ed è pieno di cadaveri. Rick non ci metterà molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza è sempre minore. Il vice sceriffo sfrutterà tutte le sue abilità di sopravvivenza e di capacità con le armi per sopravvivere ed uscire dalla città, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
+            "plot": "Rick Grimes \u00e8 un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le lacrime la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, \u00e8 traumatico: l'ospedale \u00e8 distrutto ed \u00e8 pieno di cadaveri. Rick non ci metter\u00e0 molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza \u00e8 sempre minore. Il vice sceriffo sfrutter\u00e0 tutte le sue abilit\u00e0 di sopravvivenza e di capacit\u00e0 con le armi per sopravvivere ed uscire dalla citt\u00e0, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
             "title": "The Walking Dead",
             "saga": "The Walking Dead",
             "year": "2010",
             "tmdb_id": "1402",
-            "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "genre": ["Action & Adventure","Dramma","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/twd_list.json"
         },
         {
-            "plot": "Condannato a morte per l'omicidio di un potente uomo di Washington, Lincoln Burrows si dice vittima di un complotto. L'unico a credere in lui è il fratello Michael Scofield, ingegnere edile, che ha architettato un piano per farlo evadere, ma per metterlo in pratica deve farsi rinchiudere nello stesso carcere. Da qui inizia una lunga, rocambolesca fuga per la libertà per Michael, suo fratello e gli altri che si uniranno a loro.",
-            "title": "Prison Break",
-            "saga": "Prison Break",
-            "year": "2005",
-            "tmdb_id": "2288",
-            "genre":["Action & Adventure", "Dramma", "Crime"],
-            "url": "/SERIE-TV/serie/prison_list.json"
-        },
-        {
-            "plot": "Lo strampalato alieno Mork (Williams), proveniente dal pianeta Ork, inviato sulla Terra per studiare il curioso sistema di vita dei suoi abitanti, diventa amico di Mindy (Dawber), alla quale sconvolge la vita con il suo stravagante modo di fare, il suo bislacco senso dell'umorismo e la sua originale interpretazione delle usanze terrestri. Il personaggio di Mork, apparso dapprima in un episodio di Happy Days, nel quale tentò di rapire Richie Cunningham, è interpretato da quel Robin Williams, qui al suo primo ruolo importante, destinato a diventare una star cinematografica.",
-            "title": "Mork e Mindy",
-            "saga": "Mork e Mindy",
-            "year": "1978",
-            "tmdb_id": "2552",
-            "genre":["Commedia"],
-            "url": "/SERIE-TV/serie/mork_list.json"
-        },
-        {
-            "plot": "Quando si imbatte in una serie di movimenti bancari sospetti, l'analista della CIA Jack Ryan parte alla ricerca di risposte e si ritrova catapultato dalla sicurezza del suo lavoro d'ufficio in un gioco mortale che lo porterà in tutta Europa e nel Medio Oriente. Nel frattempo, un capo terrorista emergente prepara un massiccio attacco contro gli Stati Uniti e i loro alleati.",
+            "plot": "Quando si imbatte in una serie di movimenti bancari sospetti, l'analista della CIA Jack Ryan parte alla ricerca di risposte e si ritrova catapultato dalla sicurezza del suo lavoro d'ufficio in un gioco mortale che lo porter\u00e0 in tutta Europa e nel Medio Oriente. Nel frattempo, un capo terrorista emergente prepara un massiccio attacco contro gli Stati Uniti e i loro alleati.",
             "title": "Tom Clancy's Jack Ryan",
             "saga": "Tom Clancy's Jack Ryan",
             "year": "2018",
             "tmdb_id": "73375",
-            "genre":["Action & Adventure", "Dramma", "War & Politics"],
+            "genre": ["Action & Adventure","Dramma","War & Politics"],
             "url": "/SERIE-TV/serie/_list.json"
         },
         {
-            "plot": "Meredith Grey è una giovane ragazza di Boston che, dopo la laurea in medicina, riesce ad entrare nel gruppo di tirocinanti di chirurgia del Seattle Grace Hospital. Si trasferisce così a Seattle, nella vecchia casa appartenuta alla madre. Qui si ritrova a condividere questa nuova esperienza insieme ad un gruppo di giovani coetanei, tutti alle prese con i più svariati problemi. Meredith è figlia di Ellis Grey, una famosa dottoressa specialista in chirurgia generale, e sente molto il peso del suo cognome. La sera prima di iniziare il tirocinio, Meredith incontra in un pub Derek, un affascinante uomo con cui passa la notte; solo il giorno dopo scopre che in realtà lui è Derek Shepherd, neurochirurgo dell'ospedale, nonché suo supervisore. Meredith deve così districarsi tra lo studio e il lavoro per poter diventare un chirurgo, e i sentimenti che prova per Derek.",
-            "title": "Grey's Anatomy",
-            "saga": "Grey's Anatomy",
-            "year": "2005",
-            "tmdb_id": "1416",
-            "genre":["Dramma"],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "La serie racconta le storie di persone normali che scoprono di possedere capacità sovrumane, e di come queste hanno effetto nelle loro vite.",
-            "title": "Heroes",
-            "saga": "Heroes",
-            "year": "2006",
-            "tmdb_id": "1639",
-            "genre":["Sci-Fi & Fantasy", "Dramma"],
-            "url": "/SERIE-TV/serie/heroes_list.json"
-        },
-        {
-            "plot": "Ad un anno di distanza la città di Odessa è ancora sconvolta da quello che è stato descritto dai media come un grave attentato terroristico, la cui responsabilità sarebbe dei cosiddetti \"umani evoluti\", noti con l'abbreviazione evo, persone dotate di poteri soprannaturali la cui esistenza, dopo gli eventi del finale della quarta stagione di Heroes, risalenti a cinque anni prima, è ormai di dominio pubblico. Di conseguenza molti di tali soggetti sono ora costretti a vivere cercando di celare le proprie abilità, per sottrarsi alle discriminazioni della società, alle misure restrittive imposte dai governi, e per evitare di finire nel mirino di chi è in cerca di vendetta o vorrebbe sfruttarli per propri fini, come la compagnia Renautas, conglomerato che ha acquisito la Primatech Paper, o la coppia Luke e Joanne, che vorrebbe sterminarli per vendicare la morte del figlio rimasto vittima degli eventi di Odessa. Tra i protagonisti figurano il giovane Tommy Clark, uno studente in grado di far sparire cose e persone, la giapponese Miko Otomo, in grado di vivere in una realtà virtuale in cui va alla ricerca del padre, Carlos Gutierrez, che cerca di onorare la morte del fratello e Malina, una delle prime ad essere testimone di un pericolo immininente per l'intero pianeta. Presto, infatti, saranno chiamati ad unire le proprie forze per salvare il mondo.",
-            "title": "Heroes Reborn",
-            "saga": "Heroes Reborn",
-            "year": "2015",
-            "tmdb_id": "60858",
-            "genre":["Sci-Fi & Fantasy"],
-            "url": "/SERIE-TV/serie/reborn_list.json"
-        },
-        {
-            "plot": "Roma, seconda meta' degli anni '80 Liceo Classico Leopardi. Qui si incontrano i diversi protagonisti della serie e qui si vivono le epiche gesta esilaranti dei compagni di classe della III C, i liceali più goliardici dell'intero anno scolastico. Bruno Sacchi timido ragazzo piuttosto in carne, spesso impacciato ma con un cuore grande. Chicco Lazzaretti il classico ripetente instancabile, attaccatissimo alla scuola e ai compagni, sempre pronto a rispondere ai professori in modo divertente per distrarre i compagni di classe. Non potevano mancare Daniele e Rossella, tipici fidanzatini cresciuti assieme fin da piccoli e la bellissima e biondissima Sharon Zampetti, desiderata da tutti.",
-            "title": "I ragazzi della 3c",
-            "saga": "I ragazzi della 3c",
-            "year": "1987",
-            "tmdb_id": "41583",
-            "genre":["Commedia"],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "Otto ladri si barricano nell'edificio della Zecca spagnola con alcuni ostaggi, mentre una mente criminale manipola la polizia per mettere in atto il suo piano.",
-            "title": "La casa di carta",
-            "saga": "La casa di carta",
-            "year": "2017",
-            "tmdb_id": "71446",
-            "genre":["Crime","Dramma"],
-            "url": "/SERIE-TV/serie/carta_list.json"
-        },
-        {
-            "plot": "Il noto giornalista Mario conduce l'MTG, ma la Micidial Corporation ha comprato l'emittente e impone i suoi discutibili sponsor durante le dirette. Mario non ci sta e decide di andarsene, ma viene bloccato da Lord Micidial che non solo lo costringe a rinunciare alle dimissioni, ma gli affianca il figlio Ginetto, che dovrà istruire sull'arte del giornalismo.",
-            "title": "Mario",
-            "saga": "Mario",
-            "year": "2013",
-            "tmdb_id": "47319",
-            "genre":["Commedia"],
-            "url": "/SERIE-TV/serie/mario_list.json"
-        },
-        {
-            "plot": "Person of Interest è un crime ambientato a New York che vede l’ex agente della CIA e presunto cadavere John Reese stringere un’improbabile alleanza con il misterioso miliardario Mr. Finch allo scopo di prevenire crimini in autonomia, all’insaputa delle forze dell’ordine, prima che accadano. A tal proposito Finch ha inventato un software che usa un metodo matematico complicatissimo per riconoscere individui che saranno coinvolti nei più svariati crimini. Per riuscirci useranno la tecnologia di sorveglianza più avanzata, le capacità tattiche di Reese e le infinite risorse economiche di Finch.",
-            "title": "Person of Interest",
-            "saga": "Person of Interest",
-            "year": "2011",
-            "tmdb_id": "1411",
-            "genre":["Dramma", "Action & Adventure", "Crime", "Sci-Fi & Fantasy"],
-            "url": "/SERIE-TV/serie/person_list.json"
+            "plot": "Un'organizzazione militare segreta, la S.H.A.D.O. (Supreme Headquarters Alien Defence Organisation) combatte con mezzi sofisticati (sottomarini dotati di aerei, carri armati di nuova concezione, intercettori attivi nell'orbita lunare, sistemi di tracciamento e identificazione all'avanguardia) l'invasione della Terra da parte di misteriosi alieni, i cui scopi (la cattura di persone per la predazione di organi oppure la sottomissione dell'intera razza umana?) non sono ancora stati capiti in pieno. Oltre alla base segreta nei dintorni di Londra, camuffata da studio di produzione cinematografica, la S.H.A.D.O. pu\u00f2 contare anche su una base lunare, punto di riferimento per l'avvistamento delle astronavi aliene.",
+            "title": "Ufo S.H.A.D.O.",
+            "saga": "Ufo S.H.A.D.O.",
+            "year": "1970",
+            "tmdb_id": "2560",
+            "genre": ["Fantascienza e Fantasia","Drammatico","Azione e Avventura"],
+            "url": "/SERIE-TV/serie/ufo_list.json"
         },
         {
             "plot": "Dopo essersi svegliata in un obitorio, una ragazza orfana scopre di avere superpoteri e di appartenere come prescelta a un ordine segreto di suore cacciatrici di demoni.",
@@ -267,53 +303,8 @@
             "saga": "Warrior Nun",
             "year": "2020",
             "tmdb_id": "87689",
-            "genre":["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "genre": ["Action & Adventure","Dramma","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/nun_list.json"
-        },
-        {
-            "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sarà conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'è il \"tuttofare\" Mike Erhmantraut.",
-            "title": "Batter Call Saul",
-            "saga": "Batter Call Saul",
-            "year": "2015",
-            "tmdb_id": "60059",
-            "genre":["Commedia", "Crime", "Dramma"],
-            "url": "/SERIE-TV/serie/saul_list.json"
-        },
-        {
-            "plot": "Beverly Hills 90210 è una serie televisiva trasmessa negli Stati Uniti d'America tra il 1990 ed il 2000. Il 90210 del titolo si riferisce allo Zip Code (termine con cui negli USA si indica il codice di avviamento postale) della città di Beverly Hills nella contea Los Angeles. Il soggetto, all'epoca, fu originale, per la prima volta infatti una serie televisiva si propose di raccontare gli adolescenti per quello che erano affrontando temi delicati come droga, AIDS, sessualità e alcolismo. La serie seguiva le vicissitudini di un gruppo di adolescenti dell'alta borghesia, abitanti nel quartiere VIP di Beverly Hills, a Los Angeles.",
-            "title": "Beverly Hills 90210",
-            "saga": "Beverly Hills 90210",
-            "year": "1990",
-            "tmdb_id": "2025",
-            "genre":["Drama"],
-            "url": "/SERIE-TV/serie/90210_list.json"
-        },
-        {
-            "plot": "Un borsone viene lasciato incustodito nel centro di Times Square. L'anomalo episodio fa scattare un allarme bomba con evacuazione immediata della piazza. Durante l'intervento di una squadra artificieri si scopre che al suo interno si cela una donna spaesata, priva di vestiti, con il corpo coperto da misteriosi tatuaggi e senza alcun ricordo. Uno dei tanti tatuaggi la collega all'FBI e ad un agente in particolare, Kurt Weller, di cui ha tatuato il nome sulla schiena. La donna, chiamata Jane Doe in assenza della sua reale identità, viene affidata ad una squadra speciale dell'FBI composta dagli agenti Kurt Weller, Edgar Reade, Tasha Zapata e Patterson. Da subito risulta evidente la natura enigmatica dei tatuaggi, nonostante non si sia a conoscenza di chi li abbia realizzati, che condurrà la squadra ad indagare su crimini misteriosi e di elevata importanza.",
-            "title": "Blindspot",
-            "saga": "Blindspot",
-            "year": "2015",
-            "tmdb_id": "62710",
-            "genre":["Azione", "Crime", "Drama"],
-            "url": "/SERIE-TV/serie/blind_list.json"
-        },
-        {
-            "plot": "Otto ladri si barricano nell'edificio della Zecca spagnola con alcuni ostaggi, mentre una mente criminale manipola la polizia per mettere in atto il suo piano.",
-            "title": "La casa di carta",
-            "saga": "La casa di carta",
-            "year": "2017",
-            "tmdb_id": "71446",
-            "genre":["Crime", "Drama"],
-            "url": "/SERIE-TV/serie/papel_list.json"
-        },
-        {
-            "plot": "La serie è ambientata nella città costiera di Storybrooke, nel Maine, in cui gli abitanti sono in realtà personaggi di varie fiabe e altre storie che sono state trasportate in una città reale e derubate dei loro ricordi originali dalla Regina cattiva, Regina (Lana Parrilla) che ha usato una potente maledizione ottenuta da Tremotino (Robert Carlyle). Gli abitanti di Storybrooke, di cui Regina è il sindaco, vivono un'esistenza immutabile da 28 anni, ignari del fatto che non stanno invecchiando. L'unica speranza della città è nelle mani di Emma Swan (Jennifer Morrison), la figlia di Biancaneve (Ginnifer Goodwin) e del Principe azzurro (Josh Dallas), che è stata trasportata dalla Foresta Incantata al mondo reale attraverso un albero magico da bambina prima che potesse essere maledetta. In quanto tale, è l'unica in grado di rompere la maledizione e ripristinare i ricordi perduti dei cittadini. Viene aiutata dal figlio, Henry (Jared S. Gilmore), con cui si è stata recentemente riunita dopo averlo dato in adozione alla nascita, e il suo libro delle fiabe intitolato Once Upon a Time che contiene la chiave per rompere la maledizione. Henry è anche il figlio adottivo di Regina, ciò fornisce una fonte di conflitto ed interesse comune tra le due donne.",
-            "title": "Once Upon a Time",
-            "saga": "Once Upon a Time",
-            "year": "2011",
-            "tmdb_id": "39272",
-            "genre":["Dramma", "Sci-Fi & Fantasy"],
-            "url": "/SERIE-TV/serie/once_list.json"
         },
         {
             "plot": "",
@@ -321,7 +312,7 @@
             "saga": "",
             "year": "",
             "tmdb_id": "",
-            "genre":[""],
+            "genre": [""],
             "url": "/SERIE-TV/serie/_list.json"
         },
         {
@@ -330,7 +321,7 @@
             "saga": "",
             "year": "",
             "tmdb_id": "",
-            "genre":[""],
+            "genre": [""],
             "url": "/SERIE-TV/serie/_list.json"
         }
     ]
