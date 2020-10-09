@@ -1,0 +1,972 @@
+{
+    "episodes_list": [
+        {
+			"tmdb_id": 1414,
+			"number": "1x1",
+			"saga": "The Shield",
+			"title": "Squadra d`assalto",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/15b11ef3d42e1460a3b363b116c47de0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x2",
+			"saga": "The Shield",
+			"title": "Terzo grado",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/94450c9f7f09b967778288eedb722b59"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x3",
+			"saga": "The Shield",
+			"title": "Indiziato di stupro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5243c31049e1d67f633d22ab716f86d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x4",
+			"saga": "The Shield",
+			"title": "Violenza tra bande",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/29b148ee45a64359b562c55af03ee05d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x5",
+			"saga": "The Shield",
+			"title": "Obiettivo recuperare la cocaina",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2f87f60f84d805004d89bb64f13dcdba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x6",
+			"saga": "The Shield",
+			"title": "Il killer delle prostitute",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/370305cd6361a637d4608b8f50f49efa"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x7",
+			"saga": "The Shield",
+			"title": "Dente per dente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f039617ce6514b2a41b8b0405c2e57e9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x8",
+			"saga": "The Shield",
+			"title": "Amore e droga",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/aec1b94e68d1c9993282862e5a046172"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x9",
+			"saga": "The Shield",
+			"title": "Una faccenda da sistemare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6a0e7fc7aef5e0cca1612f4d8fbfe4db"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x10",
+			"saga": "The Shield",
+			"title": "Una scomoda giornalista",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/214cf2c5153600417f04c2fcbb9ca193"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x11",
+			"saga": "The Shield",
+			"title": "Tentato suicidio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a4b1c686e75c13064f8b1a619a745904"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x12",
+			"saga": "The Shield",
+			"title": "Combattimento mortale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7c7e48c95b7fb796f680050a9f5afae2"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "1x13",
+			"saga": "The Shield",
+			"title": "Corruzione al dipartimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c6d9b6ea138588f66b483e4109095d80"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x1",
+			"saga": "The Shield",
+			"title": "Oltre confine",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4ce27adc6de647551e33fd8d60ee86e6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x2",
+			"saga": "The Shield",
+			"title": "La resa dei conti",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a7202026acbfbae56905273a2351f6a5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x3",
+			"saga": "The Shield",
+			"title": "Un vecchio collega",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7fc1e848e7626a8c9521832a497978c7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x4",
+			"saga": "The Shield",
+			"title": "Il treno dei soldi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/33cfb58be048c225a842741cc44bd811"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x5",
+			"saga": "The Shield",
+			"title": "Luce verde",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6be95fc1467e6332a77a07cc226e4013"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x6",
+			"saga": "The Shield",
+			"title": "Il nemico delle donne",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/822dcd439f02c74138cdddbce2fe1470"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x7",
+			"saga": "The Shield",
+			"title": "La vendetta di Armadillo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3dfff79caf33b58472b07239c273855e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x8",
+			"saga": "The Shield",
+			"title": "Sfregio per sfregio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/64688c95e829e5fb133e35664e02f92d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x9",
+			"saga": "The Shield",
+			"title": "Uno sguardo al passato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b9e7f263ce658d9f6857a0fb9439eb54"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x10",
+			"saga": "The Shield",
+			"title": "La spia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/498de9e0ee4ca8fef21dd9402059305a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x11",
+			"saga": "The Shield",
+			"title": "Caccia grossa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f005e05f961b8829af65424893f58a11"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x12",
+			"saga": "The Shield",
+			"title": "Problemi per Vic",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c0620a130f9d62a9c8fa7ca300a3c23a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "2x13",
+			"saga": "The Shield",
+			"title": "Il giorno cruciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1915bcb1b646eb8815eb8ada4a4391b9"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x1",
+			"saga": "The Shield",
+			"title": "Basso profilo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/435655aff5e568e7655e1300c0f6da2f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x2",
+			"saga": "The Shield",
+			"title": "A caccia delle armi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b651a3d4e4136e20b81b9fa0c423ac91"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x3",
+			"saga": "The Shield",
+			"title": "Raid anti-prostituzione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b8db4a3896bacc63a2fbba9424436630"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x4",
+			"saga": "The Shield",
+			"title": "La disputa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c314703bcb97585f46ec5e88b79d4518"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x5",
+			"saga": "The Shield",
+			"title": "Stupro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/645391fa387c15715dbf823b92c9ef7d"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x6",
+			"saga": "The Shield",
+			"title": "Una cassaforte pericolosa",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1b2f21f77238239f1cc4016be8bc95b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x7",
+			"saga": "The Shield",
+			"title": "Canzoni di morte",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b14d02defbc28177dbdde64e2a105681"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x8",
+			"saga": "The Shield",
+			"title": "L’ammanco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/55c3359a7eb7e60ec4377eddb9298110"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x9",
+			"saga": "The Shield",
+			"title": "Confessioni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ed16d6e84fc6445926aeb24603eba23e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x10",
+			"saga": "The Shield",
+			"title": "Il coraggio di non uccidere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/20b600a549e813946124a5ea4b3adf04"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x11",
+			"saga": "The Shield",
+			"title": "Impulsi omicidi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/56172a9506082c5a5def7311555e699e"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x12",
+			"saga": "The Shield",
+			"title": "Missione a Koreatown",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/60860282b7b8962413463ab883fea48f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x13",
+			"saga": "The Shield",
+			"title": "Nel mirino degli armeni",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/45dfcaa28224db84d95d9129698bb2b5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x14",
+			"saga": "The Shield",
+			"title": "Soldi bruciati",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0cfcdc8e07aa5a0f505c0d3a8a55edac"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "3x15",
+			"saga": "The Shield",
+			"title": "Fine dell’amicizia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2c4859c18386675fffedd78ce6f338d5"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x1",
+			"saga": "The Shield",
+			"title": "Il nuovo capitano",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/28412086677ad35a89142319865e02f6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x2",
+			"saga": "The Shield",
+			"title": "Eroina sporca",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/27cb10a538a7610b3d604626e1850d1f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x3",
+			"saga": "The Shield",
+			"title": "Senza pietà",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c3e5732525b9908de9e8b0caf0d5ba14"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x4",
+			"saga": "The Shield",
+			"title": "Di nuovo insieme",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40ae8bd70fff79b95fdd15bfa835bfd1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x5",
+			"saga": "The Shield",
+			"title": "Spalle al muro",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/93b430918b091e56679882261bd8b833"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x6",
+			"saga": "The Shield",
+			"title": "Fermate Shane",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c3867f2efc0fad0331ecc27c051747b8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x7",
+			"saga": "The Shield",
+			"title": "Cadavere con cadavere",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/affee727b9bfc9834a0b90bf392f1c9a"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x8",
+			"saga": "The Shield",
+			"title": "Faccia a faccia",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/72a9e5e95ffede84b26b2c0bb24bbedd"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x9",
+			"saga": "The Shield",
+			"title": "Doppio gioco",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9a3a47962957430f0ac04f300e44003b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x10",
+			"saga": "The Shield",
+			"title": "Sotto torchio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/59e3f6c5f4547028cc8b90e99cfc3d7f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x11",
+			"saga": "The Shield",
+			"title": "Testimone di un omicidio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f32ccd4e46c9076874da0b5fec060364"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x12",
+			"saga": "The Shield",
+			"title": "Tradimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e80edb087313f5cbfd8e11a0bfb6cea0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "4x13",
+			"saga": "The Shield",
+			"title": "Sospesa dal servizio",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/86e28a87998ed79c29d74ffa8969b247"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x1",
+			"saga": "The Shield",
+			"title": "Ore contate",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/77084582520ce20a4e5535f3d3584cd0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x2",
+			"saga": "The Shield",
+			"title": "Il dubbio di Lem",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bcffa72a0bf798b8af096abc4489d156"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x3",
+			"saga": "The Shield",
+			"title": "Mercanti di sesso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/40506f9013642e14587a0b22d06fbcba"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x4",
+			"saga": "The Shield",
+			"title": "Con il fiato sul collo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f5d967a54e4fb935043b4cf9c1b6d218"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x5",
+			"saga": "The Shield",
+			"title": "La trappola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1264bd6165a3a6d73b2bc252218b562b"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x6",
+			"saga": "The Shield",
+			"title": "Rivelazioni pericolose",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/db2db8d5b47313690aae01a0d346aded"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x7",
+			"saga": "The Shield",
+			"title": "In ansia per Claudette",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/7f44184ed131fdea519e5e7c740b2753"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x8",
+			"saga": "The Shield",
+			"title": "Arresto improvviso",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/33ebcbba913b56f0595080c1ad870ba8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x9",
+			"saga": "The Shield",
+			"title": "A caccia di soldi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a9f64984aa30bb2bc57548800d986648"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x10",
+			"saga": "The Shield",
+			"title": "La promozione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/54d8b0b39323d1c37efd2b0d514bbf72"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "5x11",
+			"saga": "The Shield",
+			"title": "Feroce condanna",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/57332ed4090deaf04343725adb398b85"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x1",
+			"saga": "The Shield",
+			"title": "Corruzione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/03d4977a36f90598b9df2555137fbc6f"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x2",
+			"saga": "The Shield",
+			"title": "Confessione obbligata",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1c7626e1d1939ed04307821f3826a242"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x3",
+			"saga": "The Shield",
+			"title": "Un`erronea verità",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d5e8e29b1da07ebc35267dfa00f1342"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x4",
+			"saga": "The Shield",
+			"title": "Il nuovo arrivato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0bbf0766a864ae9318d30d5de9bfb3cc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x5",
+			"saga": "The Shield",
+			"title": "Una dura punizione",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9ba1bf8e8f5ca0652eaae038fc69a4f4"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x6",
+			"saga": "The Shield",
+			"title": "Costretto a parlare",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1f9ff106938998d80372a6658ca183b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x7",
+			"saga": "The Shield",
+			"title": "L`avvertimento",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4e4a089851957e43dab511ebb4a88ca3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x8",
+			"saga": "The Shield",
+			"title": "La figlia del boss",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b9cfcdca780e8ecf8a1876ebd33903c8"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x9",
+			"saga": "The Shield",
+			"title": "Una foto compromettente",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ec980c231e5e28a7e29e66c9abfef1ef"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "6x10",
+			"saga": "The Shield",
+			"title": "Famiglia in pericolo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3697900a28ef32935bef529dd937e8b7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x1",
+			"saga": "The Shield",
+			"title": "Linea di sangue",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d89a847dfd535bd9ccc5680430f00ee0"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x2",
+			"saga": "The Shield",
+			"title": "L`informatore",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4c266804b0821f8c1c711c48aa9ea3f6"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x3",
+			"saga": "The Shield",
+			"title": "Armi sporche",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8d57189ad5f3151e57cf1e1c7745dee3"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x4",
+			"saga": "The Shield",
+			"title": "La scatola",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/17d6f5d8b97bb58c4523c1227277bbaf"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x5",
+			"saga": "The Shield",
+			"title": "Dentro fino al collo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5ac133266647dbeb40d70d7dcb682d94"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x6",
+			"saga": "The Shield",
+			"title": "Il sonnambulo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d160baf01585c1de4b97ccadb56aac75"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x7",
+			"saga": "The Shield",
+			"title": "L'accordo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x8",
+			"saga": "The Shield",
+			"title": "La fuga",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eaf2599b456c3c4c0947a2645c37ffd7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x9",
+			"saga": "The Shield",
+			"title": "Senza distintivo",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e449bf4e971baed13f33c1e9ffdac1d7"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x10",
+			"saga": "The Shield",
+			"title": "Una taglia su Shane",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4627bbbd252c0e9487af70fe55eee9dc"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x11",
+			"saga": "The Shield",
+			"title": "Soldi facili",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/53dd1d4d57da3c6ca7eca68dbeccc831"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x12",
+			"saga": "The Shield",
+			"title": "Tutta la verità!",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a85cb87bb49da0498739d0c5cc297be1"
+				}
+			]
+		},
+		{
+			"tmdb_id": 1414,
+			"number": "7x13",
+			"saga": "The Shield",
+			"title": "Degradato",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f0aded77810e6571c6dbcf639795f273"
+				}
+			]
+		}
+    ]
+}

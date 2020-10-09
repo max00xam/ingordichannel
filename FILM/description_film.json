@@ -139,6 +139,11 @@
       "fanart": "/FILM/Immagini/battlestar_fanart.jpg",
       "thumbnail": "/FILM/Immagini/battlestar.jpg"
   },
+  "Le cronache di Narnia":{
+      "plot": "La saga delle Cronache di Narnia racconta di quattro fratelli (Lucy, Susan, Edmund e Peter) che scoprono un mondo parallelo a cui si accede attraverso un guardaroba. In questa nuova realtà affrontano avventure fantastiche per salvare il regno di Narnia.",
+      "fanart": "/FILM/Immagini/narnia_fanart.jpg",
+      "thumbnail": "/FILM/Immagini/narnia.jpg"
+  },
   "":{
       "plot": "",
       "fanart": "/FILM/Immagini/_fanart.jpg",
