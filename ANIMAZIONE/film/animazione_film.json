@@ -1,100 +1,1144 @@
 {
   "movies_list": [
-    {
-        "tmdb_id": 567767,
-        "plot": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
-        "saga": "Lupin",
-        "year": "2018",
-        "title": "Lupin Contro Tutti",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/5c55873d1114596ce8633472d6b195cf"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 78139,
-        "plot": "Lupin vuole impossessarsi di una mappa dei fondali di San Francisco, perché proprio nei fondali vi dovrebbe essere un veliero carico d'oro. Nella sua ricerca del tesoro Lupin scoprirà la verità sull'assassinio di Kennedy e sulla sua correlazione con un segreto celato nei sotterranei della leggendaria prigione di Alcatraz.",
-        "saga": "Lupin",
-        "year": "2001",
-        "title": "Lupin III: Fuga Da Alcatraz",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/ba5fd134eeb51a501e0f8dc3a97c8ea3"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 251432,
-        "plot": "L'archeologo Theo Argento ha ritrovato a Genova, nei sotterranei di palazzo San Giorgio, l'unica pagina mancante dal libro Il Milione di Marco Polo, nella quale sarebbe racchiuso il segreto per trovare una cosa \"cento volte più preziosa dell'oro\". Quando l'uomo viene ucciso, Lupin III viene accusato di essere il suo omicida. Nella sua fuga dalla polizia si trova a dover proteggere Lisa, nipote del professore, braccata dal presidente della potente multinazionale delle armi Lombardo Industries in quanto ritenuta la sola in grado di decifrare la pagina e condurre quindi al tesoro.",
-        "saga": "Lupin",
-        "year": "2012",
-        "title": "Lupin III - La Pagina Segreta Di Marco Polo",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/1db55f6757cf6527f5e448bd56506485"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 260516,
-        "plot": "Lupin e Jigen si infiltrano a Est Doroa per catturare il tesoro segreto Little Comet. Queen Malta, una cantante di Est Doroa, è stata appena assassinata nella vicina Ovest Doroa, scatenando una situazione di forte tensione alla frontiera. Il duo riesce a rubare Little Comet ma durante la loro fuga, un cecchino prende di mira Jigen: si tratta di Yael Okuzaki, un potente assassino che prepara le tombe per i suoi obiettivi ancora prima di averli uccisi. Si dice che nessun target di Yael Okuzaki sia mai sopravvissuto dopo che l’uomo ne ha preparato la tomba.",
-        "saga": "Lupin",
-        "year": "2014",
-        "title": "Lupin III - La lapide di Jigen Daisuke",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/5a9ac0542c7bd81b8a2d8cef16d396a6"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 80865,
-        "plot": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
-        "saga": "Lupin",
-        "year": "1991",
-        "title": "Lupin III Ruba il dizionario di Napoleone",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/f4c37cace017aae3522028e95306ea67"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 76190,
-        "plot": "Lupin e Zanigata si trovano per la prima volta a combattere insieme l'organizzazione Shotshell, una banda di armi che causa guerre per procurarsi nuovi mercati. Naturalmente Lupin e la sua banda vogliono mettere le mani sui soldi della Shotshell.",
-        "saga": "Lupin",
-        "year": "1992",
-        "title": "Lupin III Viaggio Nel Pericolo",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/1be91adfe9e798d871c6b59ea61a4b3a"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 15371,
-        "plot": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
-        "saga": "Lupin",
-        "year": "1979",
-        "title": "LupinIII - Il Castello di Cagliostro",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/ad4bf1b6cdcda1f0e55d50073a48f6e3"
-            }
-        ]
-    },
-    {
-        "tmdb_id": 614587,
-        "plot": "Lupin III avrà a che fare con una donna di nome Leticia per scoprire i segreti del Diario di Bresson, legati all'eredità di suo nonno, Lupin I.",
-        "saga": "Lupin",
-        "year": "2020",
-        "title": "Lupin III - The First",
-        "links": [
-            {
-                "url": "http://51.77.159.233:30299/b9ce085da58b7a627fdc159e87871462"
-            }
-        ]
-    }
-]
+      {
+			"tmdb_id": null,
+			"title": "Le Avventure di A.R.I.: Il Mio Amico Robot",
+			"plot": "Un coraggioso adolescente tenta di aiutare un simpatico robot noto come A.R.I. Rapito da uno spietato direttore di laboratorio che lavora per una potente azienda, A.R.I. rischia di essere trasformato in una pericolosa arma con lo scopo di governare il mondo.",
+			"year": "2020",
+			"genre": ["Famiglia","Fantascienza"],
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/62b3b7e92f5c64a5ac97cbc11e5520bf"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Alla ricerca di Nemo",
+			"plot": "Una covata di pesci pagliaccio viene distrutta dall'attacco di un feroce barracuda. Sopravvivono solamente il papà, Marlin, e un unico piccolo che viene chiamato Nemo. Il pesciolino ha una pinna atrofizzata e il padre è iperapprensivo nei suoi confronti al punto di desiderare che l'inizio della scuola venga ritardato. Un giorno però Nemo viene catturato da un dentista appassionato di pesca subacquea e l'acquario sarà la sua prigione. Marlin deve quindi vincere tutti i suoi timori per ritrovarlo. Verrà aiutato da Dory, una pesciolina simpaticamente smemorata.",
+			"year": "2003",
+			"genre": ["Animazione","Famiglia"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/cfef166ae9f9c31102da38e189d38c71"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I pronipoti - Il film",
+			"plot": "Alla fine del ventunesimo secolo, la Spacely Ingranaggi Perfetti ha aperto su un asteroide un nuovo impianto di estrazione mineraria e relativa produzione di ruote dentate, interamente automatizzato e in grado di produrle a un decimo dei costi sulla Terra. Esso, tuttavia è oggetto di continui sabotaggi e l’ennesimo vicepresidente che lo gestisce, Alexander Throttlebottom, lascia l'incarico. Il titolare, signor Spacely, nomina allora George Jetson nuovo vicepresidente e lo trasferisce all'impianto. Questi va ad abitare con la famiglia nella comunità adiacente l’asteroide. A Jane, Judy ed Elroy non rimane che adattarsi a questa novità.",
+			"year": "1990",
+			"genre": ["Animazione","Commedia","Famiglia","Fantascienza"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6012d9f9aa499b18aba6495acbb153e3"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Mulan",
+			"plot": "Mulan narra l'epica avventura di una intrepida giovane donna che si traveste da uomo per difendere la Cina dall'attacco di invasori provenienti dal Nord. Figlia maggiore di uno stimato guerriero, Hua Mulan è energica, determinata e agile. Quando l'Imperatore decreta che un uomo per ogni famiglia dovrà arruolarsi nell'Armata Imperiale, Mulan prende il posto del padre malato e si arruola con il nome di Hua Jun, diventando una delle più grandi guerriere nella storia della Cina. O filme é estrelado por Liu Yifei como a personagem título.",
+			"year": "2020",
+			"genre": ["Azione","Avventura","Dramma","Fantasy"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/76d132bc8b0cb10302a343e95c38585d"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Tarzan",
+			"plot": "Un neonato è rimasto orfano di entrambi i genitori nella giungla africana. Viene allevato come un figlio da un branco di scimmie. Per anni crede di essere una scimmia finchè non incontra un gruppo di esseri umani.",
+			"year": "1999",
+			"genre": ["Avventura","Animazione","Dramma","Famiglia"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d3f48a6f11376daaa8281f9ad409e5ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": "812",
+			"title": "Aladdin",
+			"plot": "Ambientato sullo sfondo del mitico regno orientale di Agrabah, Aladdin narra le avventure di un giovane intraprendente, un diamante grezzo che sogna di fuggire da una misera esistenza di strada per sposare la bellissima principessa Jasmine, figlia del Sultano.",
+			"year": "1992",
+			"genre": [
+				"Animazione",
+				"Famiglia",
+				"Avventura",
+				"Fantasy",
+				"Romance"
+			],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eff6b0381c76376172de1ea29a246403"
+				}
+			]
+		},
+		{
+			"tmdb_id": "11238",
+			"title": "Aladdin e il re dei ladri",
+			"plot": "Il regno di Agrabah è in festa per il tanto atteso matrimonio tra Jasmine e Aladdin, ma il perfido Cassim e i 40 Ladroni interrompono la cerimonia. Insieme al simpatico Genio, Aladdin si imbarca in una nuova e straordinaria avventura.",
+			"year": "1996",
+			"genre": [
+				"Avventura",
+				"Animazione",
+				"Famiglia"
+			],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ac50126652cd1e58fc36d3cdb1a23d61"
+				}
+			]
+		},
+		{
+			"tmdb_id": "15969",
+			"title": "Il ritorno di Jafar",
+			"plot": "Aladdin è alle prese con il criminale Abis Mal. Questi, rifugiatosi nel deserto, trova una vecchia lampada e decide di sfregarla. Non l'avesse mai fatto: così facendo permette al malvagio Jafar di tornare in circolazione per vendicarsi di Aladdin. E come sempre il Genio dovrà fare gli straordinari per neutralizzare i malefici di Jafar...",
+			"year": "1994",
+			"genre": [
+				"Famiglia",
+				"Avventura",
+				"Animazione",
+				"Romance"
+			],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/955a1e215837dd58a730c46062818d51"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Bambi",
+			"plot": "Bambi è un cucciolo di cerbiatto che insieme al leprotto Tippete e alla sua mamma, scopre i tanti segreti della foresta, ma anche i suoi pericoli. Un giorno sua mamma viene uccisa dai cacciatori e Bambi si ritrova solo. Fortunatamente i consigli del saggio cervo, signore della foresta, e l'incontro con la cerbiatta Feline, lo aiuteranno a superare il grande dolore per la perdita di sua madre.",
+			"year": "1942",
+			"genre": ["Animazione","Dramma","Famiglia"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1bfa1c35b72a87d7118c49184220f6f3"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Boog & Elliot 4 - Il mistero della foresta",
+			"plot": "L'orso Boog è terrorizzato dopo aver sentito raccontare dal suo migliore amico Elliot una storia spaventosa sul leggendario lupo mannaro che vive nel parco nazionale. E mentre lui cerca di vincere le sue paure, gli altri animali cercano di scoprire il mistero.",
+			"year": "2015",
+			"genre": ["Animazione","Commedia","Famiglia","Avventura"],
+			"saga": "Boog & Elliot",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1f9ad29e8dfa28e4979071196e3ec6de"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Boog & Elliot a caccia di amici",
+			"plot": "Boog, un simpatico orso grizzly, vive una vita meravigliosa nella tranquilla cittadina di Timberlane. L'amorevole Beth, ranger della foresta, lo ha allevato come un cucciolo. Nel garage della ranger, Boog guarda il suo programma preferito in tv, mangia tutto il giorno e dorme su un comodo letto in compagnia del suo orsacchiotto. Insomma Boog sembra avere proprio una vita perfetta fino a quando non spunta il logorroico Elliot, cervo pelle e ossa che arriva frastornato nella cittadina dopo aver perso una delle sue corna, rimasta attaccata al camion del fanatico cacciatore Shaw...",
+			"year": "2006",
+			"genre": ["Animazione","Famiglia","Avventura","Commedia"],
+			"saga": "Boog & Elliot",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1629d52e01f7c1473cd3a9c937fe3dea"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Cars 3",
+			"plot": "Saetta McQueen, ora un'auto da corsa veterana, è costretto a ritirarsi dopo un disastroso incidente. Saetta chiede alla giovane Cruz Ramirez, esperta di auto da corsa, e sua grande fan, di aiutarlo a tornare in pista per battere il suo avversario: Jackson Storm.",
+			"year": "2017",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia"],
+			"saga": "Cars",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b6b28598d5bff1ac8564921de1c2b23d"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Cars 2",
+			"plot": "Un ricco magnate del petrolio decide di passare ai carburanti ecologici e per promuovere l'affidabilità della sua nuova miscela organizza un campionato di tre gare, ognuna in un paese diverso (Inghilterra, Giappone e Italia) a cui parteciperanno le automobili più veloci del mondo con lo scopo di determinare quale sia la più potente. Saetta McQueen ovviamente è in prima linea e dovrà vedersela con Francesco Bernoulli, auto da Formula 1 arrogante e spaccona.  Le gare però sono funestate da incidenti sui quali vigilano Finn McMissile e Holly Shiftwell, agenti segreti dell'intelligence impegnati ad indagare su un intrigo internazionale che sventuratamente scambiano Carl Attrezzi per una spia sotto copertura, coinvolgendolo nella delicatissima operazione con i prevedibili esiti disastrosi.",
+			"year": "2011",
+			"genre": ["Animazione","Famiglia","Avventura","Commedia"],
+			"saga": "Cars",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/35bac448a70cf9135f1947add9cc06f0"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Cars 3",
+			"plot": "Saetta McQueen, ora un'auto da corsa veterana, è costretto a ritirarsi dopo un disastroso incidente. Saetta chiede alla giovane Cruz Ramirez, esperta di auto da corsa, e sua grande fan, di aiutarlo a tornare in pista per battere il suo avversario: Jackson Storm.",
+			"year": "2017",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia"],
+			"saga": "Cars",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a8b94f9b12969aa5a9a8a4c76350b785"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "City Hunter: Amore, Destino e una 357 Magnum",
+			"plot": "Nina Shtenberg, una famosa pianista della Germania Ovest, arriva in Giappone per un concerto assieme al nonno Klaus. Su consiglio di Maki Imuro, Mina contatta Ryo Saeba perché ritrovi suo padre, che non ha mai conosciuto, ma che sa trovarsi in Giappone. Il padre in realtà è Johan Von Herzen, un killer professionista della Germania Est, al quale Saeko sta dando la caccia in quanto implicato nell'omicidio di un informatore e nella ricerca di un microfilm contenente importanti informazioni top secret sulle reti di spionaggio della Germania Orientale in estremo oriente.",
+			"year": "1989",
+			"genre": ["Azione","Animazione","Commedia","Crime","Dramma"],
+			"saga": "City Hunter",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/6a82f7bc9bb6ba62c7ce4fe017942a9e"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "City Hunter - Private Eyes",
+			"plot": "City Hunter è l’ormai celebre investigatore privato ossessionato dalle belle donne e sempre a caccia di criminali. Il suo quartier generale è a Shinjuku, a Tokyo. È da qui che City Hunter e la collega Kaori fanno partire le loro indagini. La loro ultima cliente è una modella, Ai Shindo, minacciata da misteriosi criminali e inconsapevolmente in possesso di una \"chiave\" legata a una cospirazione che coinvolge l'intera città. Riuscirà Ryo Saeba a proteggere Ai e a salvare tutta Tokyo?",
+			"year": "2019",
+			"genre": ["Animazione","Azione","Commedia","Crime"],
+			"saga": "City Hunter",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9abe983ec8367099582196253615f001"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Ghost in the Shell",
+			"plot": "Tokyo, 2029. Le reti telematiche controllano tutti i meccanismi economici e di produzione, i creatori di software sono una delle risorse indispensabili delle grandi potenze mondiali, e gli Hackers informatici rappresentano una risorsa fondamentale per le grandi organizzazioni criminali, adattatesi alla rivoluzione digitale che ha invaso il mondo. In questo mondo, i cyborgs sono stati in grado di infrangere i limiti degli esseri umani e si sono imposti, grazie ai loro impianti bionici, in ogni settore della vita quotidiana, superiori a semplici androidi, perchè mantengono ancora l'essenza (lo spirito) della razza umana.",
+			"year": "1995",
+			"genre": ["Azione","Animazione","Fantascienza"],
+			"saga": "Ghost in the Shell",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f17f1986dfe22ff48d20a1454031a200"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Ghost In The Shell: S.A.C. - Solid State Society",
+			"plot": "Nel 2034, la Sezione di Pubblica Sicurezza Numero 9 è ancora attiva e si appresta a risolvere un nuovo cyber crimine. Un misterioso terrorista sta diffondendo un virus (elettronico) che provoca reazioni suicide negli individui che ne vengono infettati, ma dopo che il maggiore Motoko Kusanagi aveva lasciato la sezione (ben 2 anni prima), molto sembra essere cambiato all'interno di questa squadra speciale. Durante le indagini comunque, un terribile dubbio salterà in mente agli uomini della Sezione 9: il maggiore Kusanagi potrebbe avere qualcosa a fare con i sanguinosi attentati delle persone colpite dal virus. Tutta la storia si dirama nella ricerca della verità, e non senza colpi di scena si arriverà a scoprire manovre segrete di cui lo stesso governo nazionale potrebbe essere il promotore segreto.",
+			"year": "2007",
+			"genre": ["Animazione","Azione","Thriller","Crime","Fantascienza"],
+			"saga": "Ghost in the Shell",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f8c9f22c488b501c8b870a79b77bbf86"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "The Rising",
+			"plot": "",
+			"year": "2012",
+			"genre": ["Fantascienza"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5121ca62c03424472654bff309e58c8e"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I Puffi",
+			"plot": "Tutto scorre tranquillo nel villaggio dei Puffi come da sempre. Grande Puffo e i suoi 100 figli lavorano, cantano e preparano la festa della Luna blu mentre Gargamella cerca un modo di catturarli. Un errore di Puffo Tontolone però farà scoprire al mago malvagio l'ubicazione del villaggio e costringerà tutti a una fuga al termine della quale Grande Puffo, Puffetta, Puffo Coraggioso, Brontolone e per l'appunto Tontolone saranno scaraventati attraverso un vortice dimensionale a Manhattan e Gargamella appresso a loro.  Nella grande mela i piccoli Puffi cercheranno in ogni modo di scatenare il medesimo incantesimo che li ha portati lì, in modo da tornare nel loro mondo, mentre Gargamella sfrutterà la sua magia per catturarli. Ad aiutarli una coppia di newyorchesi con un bimbo in arrivo.",
+			"year": "2011",
+			"genre": ["Animazione","Famiglia","Avventura","Commedia","Fantasy"],
+			"saga": "I Puffi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a865a433cb4ecfcd688b2bdbf356db79"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I Puffi - La leggenda di Puffy Hollow",
+			"plot": "Quando sembra inevitabile che Quattrocchi vinca l'annuale Caccia alle Puffbacche per la nona volta consecutiva, Coraggioso si prefigge di scoprire quale sia il suo segreto per trionfare sempre. L'indagine lo porta alla spaventosa Puffy Hollow, dritto nella trappola di Gargamella! Riusciranno Quattrocchi e Coraggioso, con l'aiuto di Puffetta, a mettere da parte la loro rivalità prima di essere catturati da Gargamella o, peggio ancora, di trovarsi faccia a faccia col leggendario fantasma, il Cavaliere senza testa?",
+			"year": "2013",
+			"genre": ["Commedia","Animazione","Famiglia","Fantasy"],
+			"saga": "I Puffi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/5e78c7bac5f2e4c50962a3f1d4cea6c9"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I Puffi 2",
+			"plot": "Il malvagio stregone Gargamella crea una coppia di dispettose creature simili ai puffi, i Monelli, con cui spera di catturare la loro magica \"essenza blu\". Ma quando scopre che solo un vero puffo può dargli ciò che cerca e che solo un incantesimo segreto conosciuto da Puffetta può trasformare i Monelli in veri puffi, Gargamella rapisce Puffetta e la porta a Parigi, dove è conosciuto e ammirato da milioni di persone come lo stregone migliore del mondo. Toccherà a Grande Puffo, Tontolone, Quattrocchi e Vanitoso tornare nel nostro mondo, incontrare i loro amici Patrick e Grace Winslow e salvarla! E Puffetta, che si è sempre sentita diversa dagli altri puffi, instaurerà un legame speciale con i Monelli, Vexy e Hackus, o si lascerà convincere dai Puffi che il loro amore per lei è Vero Blu?",
+			"year": "2013",
+			"genre": ["Fantasy","Famiglia","Commedia","Animazione"],
+			"saga": "I Puffi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b01bc392f056732365acc491597a62f9"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I Puffi - Viaggio nella foresta segreta",
+			"plot": "In questo film dei Puffi, completamente nuovo e interamente animato, una mappa misteriosa spinge Puffetta e i suoi migliori amici Quattrocchi, Tontolone e Forzuto ad una corsa emozionante e piena di suspence attraverso la Foresta Segreta, un luogo popolato da creature magiche, per trovare un villaggio perduto prima che ci arrivi il perfido Gargamella. Intraprendendo questo viaggio spericolato, ricco di azione e insidie, i nostri amici blu si ritroveranno a scoprire il più grande segreto della storia dei Puffi!",
+			"year": "2017",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia"],
+			"saga": "I Puffi",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fe8fb5a041d26319739fddab610c9aa5"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "L'era glaciale",
+			"plot": "All'inizio dell' Era Glaciale, tre creature assolutamente mal assortite si ritrovarono coinvolte per caso in una straordinaria avventura. Sid, un bradipo chiacchierone, Manny, un mammouth triste e malinconico, e Diego, un tigre dai denti a sciabola, si riuniscono anche se contro voglia per per aiutare un bambino a tornare da suo padre.",
+			"year": "2002",
+			"genre": ["Animazione","Commedia","Famiglia","Avventura"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/67d9e9e8e480b01ea4a8fd71ac8a0a8a"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "L'era glaciale - La grande caccia alle uova",
+			"plot": "Scrat, Manny, Sid, Diego e il resto dei tuoi amici preistorici de L'Era Glaciale Ice Age sono tornati in un nuovo divertentissimo cortometraggio! I servizi di uovo-sitteraggio offerti da Sid non potrebbero essere più richiesti, ma quando il vile coniglio pirata Squint ruba le uova, Manny, Diego e il resto della banda partono in un'audace missione di salvataggio che si trasforma nella prima caccia all'uovo al mondo. In più, goditi ancora di più Scrat e la sua ghianda con tonnellate di dietro le quinte di Scrat!",
+			"year": "2016",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia","televisione film"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/4557353d15b28ef03a52dd2411c4c88c"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "L'era glaciale - La grande caccia alle uova",
+			"plot": "Scrat, Manny, Sid, Diego e il resto dei tuoi amici preistorici de L'Era Glaciale Ice Age sono tornati in un nuovo divertentissimo cortometraggio! I servizi di uovo-sitteraggio offerti da Sid non potrebbero essere più richiesti, ma quando il vile coniglio pirata Squint ruba le uova, Manny, Diego e il resto della banda partono in un'audace missione di salvataggio che si trasforma nella prima caccia all'uovo al mondo. In più, goditi ancora di più Scrat e la sua ghianda con tonnellate di dietro le quinte di Scrat!",
+			"year": "2016",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia","televisione film"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8964999d6302dfca4a2fd79cf587ced1"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "L'era glaciale - La grande caccia alle uova",
+			"plot": "Scrat, Manny, Sid, Diego e il resto dei tuoi amici preistorici de L'Era Glaciale Ice Age sono tornati in un nuovo divertentissimo cortometraggio! I servizi di uovo-sitteraggio offerti da Sid non potrebbero essere più richiesti, ma quando il vile coniglio pirata Squint ruba le uova, Manny, Diego e il resto della banda partono in un'audace missione di salvataggio che si trasforma nella prima caccia all'uovo al mondo. In più, goditi ancora di più Scrat e la sua ghianda con tonnellate di dietro le quinte di Scrat!",
+			"year": "2016",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia","televisione film"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/aada99b4242152ecbd86ac732df5c3fc"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "L'era glaciale - La grande caccia alle uova",
+			"plot": "Scrat, Manny, Sid, Diego e il resto dei tuoi amici preistorici de L'Era Glaciale Ice Age sono tornati in un nuovo divertentissimo cortometraggio! I servizi di uovo-sitteraggio offerti da Sid non potrebbero essere più richiesti, ma quando il vile coniglio pirata Squint ruba le uova, Manny, Diego e il resto della banda partono in un'audace missione di salvataggio che si trasforma nella prima caccia all'uovo al mondo. In più, goditi ancora di più Scrat e la sua ghianda con tonnellate di dietro le quinte di Scrat!",
+			"year": "2016",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia","televisione film"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/68d1d38563a79c97304f9550bf160efb"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "L'era glaciale presenta: l'era Natale",
+			"plot": "Sid rompe la decorazione natalizia preferita di Manny. Credendo di essere finito sulla lista dei cattivi di Babbo Natale, Sid parte per il Polo Nord insieme a Crash, Eddie e Pesca ma una volta arrivati nel laboratorio di Babbo Natale, lo distruggono per sbaglio. Dovranno trovare una soluzione per salvare il Natale. Sid e i suoi amici daranno una mano nella consegna dei regali a Babbo Natale per rimediare il disastro da loro provocato. E alla fine il Natale è salvo.",
+			"year": "2011",
+			"genre": ["Animazione","Famiglia","televisione film"],
+			"saga": "L'era glaciale",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/86077d12d3d79cb74cd2c8ee5a9cb708"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "La Nuova Avventura Di Scrat",
+			"plot": "",
+			"year": "2002",
+			"genre": [],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/09fd757fc539dbe8637466fc1b5e85e8"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Parte 1 Un Continente Di Risate",
+			"plot": "",
+			"year": "2012",
+			"genre": [],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3ffa5d3b1c3f07616131b24c354ccdd7"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Parte 2 Un Continente Di Risate",
+			"plot": "",
+			"year": "2012",
+			"genre": [],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f8419108e6eb3c69a8644168701bb1a5"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Scrat Catapultato Nello Spazio",
+			"plot": "",
+			"year": "2016",
+			"genre": [],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e603b5096239a8521f850f1a696c0a6f"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "L'era glaciale - Scrat-astrofe cosmica",
+			"plot": "",
+			"year": "2015",
+			"genre": ["Fantascienza","Commedia","Animazione","Famiglia","Avventura"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0a1a537b61bd468bb21cbdf982c42204"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "L'Era Glaciale Special 3: Surviving Sid",
+			"plot": "Corto d’animazione che vede il bradipo Sid avventurarsi per terre selvagge assieme ad alcuni altri animaletti, le sconclusionate azioni dell’imbranato Sid, segneranno poi, in qualche modo, la storia oltre che la Terra.",
+			"year": "2008",
+			"genre": ["Animazione","Commedia","televisione film"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/562b43f4bf864b69a58356caa360c6b1"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "L'Era Glaciale Special 2: Una ghianda è per sempre",
+			"plot": "Scrat si imbatte in una macchina del tempo e viene trasportato in epoche diverse pur di inseguire la sua amata ghianda.",
+			"year": "2006",
+			"genre": ["Avventura","Animazione","Famiglia","televisione film"],
+			"saga": "",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/8c31993fb36cf62417f6395c33edde85"
+				}
+			]
+        },
+        {
+            "tmdb_id": 567767,
+            "plot": "Lupin decide di partecipare a una gara automobilistica indetta da un suo vecchio nemico, Mister X. In realtà la gara è una trappola: Mister X è in combutta con Kyosuke Mamo, un altro nemico di Lupin. Mamo usa la sua macchina del tempo per mandare Lupin nel passato e alterare gli eventi per separarlo dai suoi compagni…",
+            "saga": "Lupin",
+            "year": "2018",
+            "title": "Lupin Contro Tutti",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c55873d1114596ce8633472d6b195cf"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 78139,
+            "plot": "Lupin vuole impossessarsi di una mappa dei fondali di San Francisco, perché proprio nei fondali vi dovrebbe essere un veliero carico d'oro. Nella sua ricerca del tesoro Lupin scoprirà la verità sull'assassinio di Kennedy e sulla sua correlazione con un segreto celato nei sotterranei della leggendaria prigione di Alcatraz.",
+            "saga": "Lupin",
+            "year": "2001",
+            "title": "Lupin III: Fuga Da Alcatraz",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ba5fd134eeb51a501e0f8dc3a97c8ea3"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 251432,
+            "plot": "L'archeologo Theo Argento ha ritrovato a Genova, nei sotterranei di palazzo San Giorgio, l'unica pagina mancante dal libro Il Milione di Marco Polo, nella quale sarebbe racchiuso il segreto per trovare una cosa \"cento volte più preziosa dell'oro\". Quando l'uomo viene ucciso, Lupin III viene accusato di essere il suo omicida. Nella sua fuga dalla polizia si trova a dover proteggere Lisa, nipote del professore, braccata dal presidente della potente multinazionale delle armi Lombardo Industries in quanto ritenuta la sola in grado di decifrare la pagina e condurre quindi al tesoro.",
+            "saga": "Lupin",
+            "year": "2012",
+            "title": "Lupin III - La Pagina Segreta Di Marco Polo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1db55f6757cf6527f5e448bd56506485"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 260516,
+            "plot": "Lupin e Jigen si infiltrano a Est Doroa per catturare il tesoro segreto Little Comet. Queen Malta, una cantante di Est Doroa, è stata appena assassinata nella vicina Ovest Doroa, scatenando una situazione di forte tensione alla frontiera. Il duo riesce a rubare Little Comet ma durante la loro fuga, un cecchino prende di mira Jigen: si tratta di Yael Okuzaki, un potente assassino che prepara le tombe per i suoi obiettivi ancora prima di averli uccisi. Si dice che nessun target di Yael Okuzaki sia mai sopravvissuto dopo che l’uomo ne ha preparato la tomba.",
+            "saga": "Lupin",
+            "year": "2014",
+            "title": "Lupin III - La lapide di Jigen Daisuke",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a9ac0542c7bd81b8a2d8cef16d396a6"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 80865,
+            "plot": "Lupin vuole rubare un tesoro che è appartenuto a suo nonno e a suo padre. E il come trovarlo è scritto nel dizionario di Napoleone, messo in premio al vincitore di una gara automobilistica. Il problema è che lo stesso tesoro è ambito anche dai Paesi del G7, la cui economia è sull'orlo del tracollo a causa della Guerra del Golfo, e che sperano di usarlo per risanare il proprio bilancio. Lupin quindi, oltre a tentare di recuperare il dizionario, dovrà anche preoccuparsi di sfuggire ai servizi segreti di tutto il mondo, intenzionati a catturarlo per farsi rivelare il segreto del tesoro.",
+            "saga": "Lupin",
+            "year": "1991",
+            "title": "Lupin III Ruba il dizionario di Napoleone",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4c37cace017aae3522028e95306ea67"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 76190,
+            "plot": "Lupin e Zanigata si trovano per la prima volta a combattere insieme l'organizzazione Shotshell, una banda di armi che causa guerre per procurarsi nuovi mercati. Naturalmente Lupin e la sua banda vogliono mettere le mani sui soldi della Shotshell.",
+            "saga": "Lupin",
+            "year": "1992",
+            "title": "Lupin III Viaggio Nel Pericolo",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1be91adfe9e798d871c6b59ea61a4b3a"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 15371,
+            "plot": "Lupin è alla ricerca dei leggendari falsari della dinastia del Caprone, da sempre feudatari del piccolo paese di Cagliostro. Il caso gli farà incontrare la principessa Clarisse, futura sposa del Conte di Cagliostro. L'ultimo discendente del Caprone è alla ricerca del tesoro segreto della sua famiglia e per trovarlo ha bisogno dell'anello di Clarisse.",
+            "saga": "Lupin",
+            "year": "1979",
+            "title": "LupinIII - Il Castello di Cagliostro",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad4bf1b6cdcda1f0e55d50073a48f6e3"
+                }
+            ]
+        },
+        {
+            "tmdb_id": 614587,
+            "plot": "Lupin III avrà a che fare con una donna di nome Leticia per scoprire i segreti del Diario di Bresson, legati all'eredità di suo nonno, Lupin I.",
+            "saga": "Lupin",
+            "year": "2020",
+            "title": "Lupin III - The First",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9ce085da58b7a627fdc159e87871462"
+                }
+            ]
+        },
+        {
+			"tmdb_id": -1,
+			"title": "I Pinguini di Madagascar Operazione vacanze",
+			"plot": "Bebo Conforti,  noto cantante di piano bar è costretto a fuggire nel bel mezzo dell'esibizione, per evitare un manipolo di malavitosi che vogliono catturarlo, su ordine del \"feroce\" Boss locale, Fefè Lucanica. Monica la giovane e unica figlia di Fefè, gli ha appena detto di aspettare un figlio da lui. Per fortuna del nostro chansonnier, gli scagnozzi di Fefè, sono tutt'altro che svegli, il Boss si dispera denigrandoli, ma è troppo affezionato per liberarsene. Da questa caccia all'uomo, si scatena un'insolita fuga \"On de road\", piena di equivoci, malintesi, false piste e doppie verità.",
+			"year": "2012",
+			"genre": [],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/2b66c3b7a2fef6714c3bade74f219bdd"
+				},
+				{
+					"url": "http://51.77.159.233:30299/3655da6b4b3c96112946d8c33d47eb9d"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Buon Natale, Madagascar!",
+			"plot": "Gli animali dello zoo sono tornati con una nuova avventura a tema natalizio. Quando Babbo Natale precipita sull'isola di Madagascar, sarà compito di Alex, Marty, Gloria, Melman e dei Pinguini si salvare il Natale.\r Preparatevi con una slitta piena di risate con questo esilarante classico natalizio.",
+			"year": "2009",
+			"genre": ["Famiglia","Animazione"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fbe13157b719caeecdf707ebc907f13a"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "I Pinguini di Madagascar - Operazione Antartide",
+			"plot": "Serrate i boccaporti e spiegate le vele verso una nuova divertentissima avventura che vi porterà... in Antartide! Godetevi gli stravaganti Pinguini, che dovranno essere molto più che carini e coccolosi per riuscire nella più frizzante delle loro missioni!",
+			"year": "2012",
+			"genre": ["Animazione"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/0f00c0556bbff0f9b16afdd5834286fe"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "I Pinguini di Madagascar – La giornata di Re Julien",
+			"plot": "Il Re Julien invita gli animali dello zoo a celebrare una giornata in suo onore. Nessuno vuole parteciparvi, allora Maurice e Mortino, per evitare l’ira del re, convincono gli altri animali allettandoli con una pignatta piena di dolci vari. Per tutta la festa gli invitati dovranno subire le angherie del re, ma a fine giornata verranno dolcemente ricompensati!",
+			"year": "2010",
+			"genre": ["Commedia","Animazione","Famiglia"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bc3cdc7eafa9bd405ce1fb1b5f5dd69c"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "I Pinguini Di Madagascar: La Lunga Notte Prima Di Natale",
+			"plot": "Lo zoo è chiuso per la vigilia di Natale e i Pinguini si imbarcano nella loro prima missione natalizia per organizzare un festeggiamento dedicato ai piú piccoli. Ma quando le cose si mettono male, Skipper si rende conto che l’unico che può aiutarli è Babbo Natale. Riusciranno a trovarlo prima che la vigilia sia passata?",
+			"year": "2011",
+			"genre": ["Famiglia","Animazione"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/802a133dd970a7eef23e4832506cf4ad"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Madly Madagascar",
+			"plot": "",
+			"year": "2013",
+			"genre": ["Animazione","Commedia","Famiglia"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1bc117c3fe15e9ce5d46df397211860b"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Madagascar",
+			"plot": "Un leone, una giraffa, una zebra e un ippopotamo decidono di scappare dallo zoo di New York per girare un po' il mondo, ai loro occhi sconosciuto, ma durante la loro fuga, un gruppo di animalisti li cattura e li spedisce nel loro habitat naturale in Madagascar. I quattro però, non abituati a vivere liberi, non si ambientano tanto facilmente...",
+			"year": "2005",
+			"genre": ["Famiglia","Animazione","Avventura","Commedia"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/23d848461719f4ee395f86bcc35ae772"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Madagascar 2",
+			"plot": "Ritroviamo Alex il leone, Marty la zebra, Gloria l'ippopotamo e Melman la giraffa alla deriva nelle remote spiagge del Madagascar, pronti ad imbarcarsi sull'aereo riparato dalla squadra di terribili pinguini per tornare a Central Park. Un atterraggio di fortuna, però, ben prima di arrivare nei cieli americani, li catapulta nel bel mezzo di una pianura africana, ai piedi del Kilimangiaro. Tutto appare come la realizzazione di un sogno: Alex ritrova la famiglia, Marty il branco che ha sempre desiderato, Gloria le attenzioni del prestante Moto Moto e Melman l'opportunità di mostrare un po' di eroismo. L'Africa è dunque meglio di New York City? Di certo non è meno avventurosa.",
+			"year": "2008",
+			"genre": ["Famiglia","Animazione","Commedia"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/eb4b61035c93356ea6a5d01dca9dd28c"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Madagascar 3 - Ricercati in Europa",
+			"plot": "Alex il leone, Marty la zebra, Melman la giraffa e Gloria l'ippopotamo, fuggiti dallo zoo di New York City e sbarcati prima in Madagascar e poi nell'Africa centrale, hanno nostalgia della Grande Mela e per questo nuotano fino a Monte Carlo, alla ricerca dell'aeroplano dei pinguini. Sul suolo francese, però, una poliziotta pronta a tutto li elegge a nemico numero uno. Scappare con il treno di un circo è la loro unica speranza: un impresario americano a Londra potrebbe comprare lo show e riportarli tutti a casa. L'esibizione, però, è tutta da inventare.",
+			"year": "2012",
+			"genre": ["Animazione","Famiglia","Commedia","Avventura"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d17e3410e93969222911681f7e2354a8"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "I pinguini di Madagascar - Missione: pinguini in ricognizione",
+			"plot": "",
+			"year": "2011",
+			"genre": [],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fe170ad38a2834037b1f4950f898d512"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Lanny & Wayne - Missione natale",
+			"plot": "L'elfo Wayne ha un nuovo partner, Lanny, dopo la promozione chiesta e ottenuta dal precedente. Lanny ricorda a Wayne lo spirito del Natale, e l'importanza di essere un elfo dell'unità \"Santa's Prep and Landing\".",
+			"year": "2009",
+			"genre": ["Animazione","Fantasy","Famiglia"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a066f4fb578bab2997def228abcba774"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Missione impossibile possibile",
+			"plot": "",
+			"year": "2011",
+			"genre": [],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/dabbd295a56b8e6517a49d6b0a283832"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "I Pinguini di Madagascar - Operazione Antartide",
+			"plot": "Serrate i boccaporti e spiegate le vele verso una nuova divertentissima avventura che vi porterà... in Antartide! Godetevi gli stravaganti Pinguini, che dovranno essere molto più che carini e coccolosi per riuscire nella più frizzante delle loro missioni!",
+			"year": "2012",
+			"genre": ["Animazione"],
+			"saga": "Madagascar",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/93b673ac2f6c83d9714515a0553f1ebf"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Il giardino delle parole",
+			"plot": "Takao, che si sta preparando per diventare un calzolaio, ha saltato la scuola e disegna scarpe in un giardino alla giapponese. Qui, Takao incontra Yukino, una donna misteriosa e più grande di lui. Senza mai mettersi d'accordo, i due continuano a vedersi più volte ma sempre e solo nei giorni di pioggia.",
+			"year": "2013",
+			"genre": ["Animazione","Dramma","Romance"],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/9af831dda9e9e71e9cef993ebd13a2f3"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "La Ragazza Del Tempo Weathering With You",
+			"plot": "",
+			"year": "2019",
+			"genre": [],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/837f0291f6e2a3e3105bf4656acf56ab"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "La storia della principessa splendente",
+			"plot": "Un vecchio uomo vende bambù per sopravvivere. Un giorno, nelle canne di bambù, trova una piccola principessa, grande quanto un dito, di nome Kaguya. Quando Kaguya cresce, cinque uomini provenienti da altrettante prestigiose famiglie manifestano il desiderio di sposarla. Kaguya chiedere loro di trovare per lei cinque memorabili regali ma nessuno è in grado di portarle ciò che desidera veramente.",
+			"year": "2013",
+			"genre": ["Animazione","Dramma","Fantasy"],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/df5557b7a1158bdee17ce653cd55a90b"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Oltre le nuvole, il luogo promessoci",
+			"plot": "Il Giappone dopo la seconda guerra mondiale si è diviso in due parti, una sotto il controllo degli Stati Uniti e una legata all'Unione Sovietica. Negli anni novanta il paese si riunisce e soltanto Hokkaidō rimane occupata dai sovietici, i quali costruiscono una torre smisurata che è in realtà un'arma in grado di trasformare il mondo in un universo completamente differente.  Hiroki Fujisawa e Takuya Shirakawa, due amici all'ultimo anno di scuola media, stanno costruendo un aereo per realizzare il loro sogno di volare vicino alla Torre di Hokkaido, imponente costruzione visibile anche a molti chilometri di distanza. Sayuri Sawatari, compagna di classe dei due, inizia a frequentarli e si fa promettere che la porteranno con loro quando il velivolo sarà finalmente in grado di decollare.",
+			"year": "2004",
+			"genre": ["Animazione","Avventura","Dramma","Romance","Fantascienza"],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/88441177b000d56f53e41e0a65c9876c"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Viaggio verso Agartha",
+			"plot": "La narrazione si incentrerà su Asuna, una misteriosa fanciulla che vive le sue giornate in solitudine, accompagnata unicamente dalla musica trasmessa da una speciale radio di cristallo. L'oggetto, a lei molto caro, le fu regalato dal padre in modo che lo potesse ricordare nel tempo. Un giorno, deciderà di intraprendere un viaggio per rincontrarsi con un ragazzo, da lì avrà inizio un'emozionante avventura. Asuna proverà nuovamente cosa voglia dire la separazione tuttavia durante il suo percorso scoprirà non solo la crudeltà ma anche le bellezza del mondo.",
+			"year": "2011",
+			"genre": ["Animazione","Avventura","Dramma","Fantasy"],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ccc14b6b7b44c25fc33b6c4447d46d06"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Your Name",
+			"plot": "",
+			"year": "",
+			"genre": ["Animazione","Dramma","Fantasy","Romance"],
+			"saga": "Shinkai",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/989f4cd80d692127b2e7019d3be3145f"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Il gatto con gli stivali",
+			"plot": "Un mugnaio morente divide i suoi unici possedimenti tra i tre figli: lascia il mulino al maggiore, l'asino al secondogenito, e il suo amato gatto, Puss, al figlio minore, Corin. Inizialmente deluso dalla sua eredità a quattro zampe, Corin presto scoprirà che Puss non è un micio come gli altri. Dopo aver calzato un bellissimo paio di stivali di cuoio, il gatto è pronto a darsi da fare per soddisfare Corin in tutto ciò che ha sempre desiderato! Infatti Puss è un brillante stratega, che idea un ingegnoso piano per conquistare sia il favore del Re che il cuore della Principessa Vera per il suo nuovo padrone. Ma prima del lieto fine, dovrà affrontare un orco famelico, in grado di tramutarsi in ogni animale della terra.",
+			"year": "1988",
+			"genre": ["Fantasy","Famiglia"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/59ae86c11c705ab2be659cd27fabc549"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Shrek",
+			"plot": "Shrek, un orco dal cuore d'oro, insieme al suo \"destriero\" Ciuchino cerca di tornare in possesso della sua palude, ora occupata dai personaggi delle fiabe, i quali sono stati imprigionati dal perfido Lord Farquaad, tiranno della terra di Duloc. L'orco e l'inseparabile asinello devono inoltre darsi da fare per liberare una principessa sottoposta a un sortilegio e tenuta prigioniera in un castello sorvegliato da un drago.",
+			"year": "2001",
+			"genre": ["Animazione","Famiglia","Commedia","Fantasy","Avventura"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/92716ed4a17702667c5fd243ef6a7eb6"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Shrek 2",
+			"plot": "Di ritorno dalle nozze Shrek e Fiona vengono invitati a corte dai genitori di lei, re Harold e la regina Lilian. Che non sanno che i due sono orchi verdi. Per riparare al misfatto i sovrani, che avevano fatto altri progetti circa le nozze della figlia, chiamano in causa la Fatina Madrina, il Gatto con gli Stivali e il bellissimo Principe Azzurro.",
+			"year": "2004",
+			"genre": ["Animazione","Famiglia","Commedia","Fantasy","Avventura"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/b9925088b6f5a6c9b69247f20cec6036"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Shrek e vissero felici e contenti",
+			"plot": "Shrek è ormai felicemente sposato con Fiona, padre amorevole ed impegnato e le sue giornate si ripetono tutte uguali a se stesse. Insoddisfatto ed incastrato in una routine che sente tarpargli le ali, l'orco desidera unicamente poter tornare alla sua vecchia vita, quella in cui era temuto e lasciato in pace. Pane per i denti di Tremotino, che gli propone uno dei suoi terribili accordi: rivivere la sua vecchia vita in cambio di un giorno a caso (ma non tanto) del suo passato. La scelta lo catapulterà in una realtà in cui non è mai nato, dunque non ha mai salvato Fiona e gli orchi sono cacciati proprio da Tremotino il quale, grazie a quei cambiamenti, ha preso il potere del regno.",
+			"year": "2010",
+			"genre": ["Commedia","Avventura","Fantasy","Animazione","Famiglia"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ca47ad38a9e4f59420d68747648b6b57"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Shrekkati per le feste",
+			"plot": "Il corto vede Shrek, Fiona con i loro 3 pargoletti impegnati ad organizzare per la prima volta il loro Natale. Shrek però è un orco e non ha idea di cosa sia veramente il Natale, così si procura una guida al Natale dove trova le istruzioni per organizzare e comprendere il Natale. Il povero orco ci prova ma deve fare i conti con l’invadente Ciuchino, il gatto con gli stivali, Pinocchio e tutta l’allegra compagnia che, per festeggiare con lui, ne combinano di tutti i colori.",
+			"year": "2007",
+			"genre": ["Avventura","Animazione","Commedia","Fantasy","Famiglia"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/152882d1e227566569adcb1aed2fcb88"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Scared Shrekless - Shrekkato da morire",
+			"plot": "E' Halloween! Shrek sfida i suoi amici ad una gara di racconti di paura, portandoli nel castello abbandonato di Lord Farquaad.",
+			"year": "2010",
+			"genre": ["Animazione","Commedia"],
+			"saga": "Shrek",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/133d210f9e738964e5b1a0b12c74e15c"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Arrietty - Il mondo segreto sotto il pavimento",
+			"plot": "Sotto il pavimento di una grande casa nella campagna di Tokyo, vive la quattordicenne Arrietty con la madre e il padre. Sono una famiglia di “rubacchiotti”, alti dieci centimetri, che prendono in prestito dagli umani tutto ciò che serve loro per sopravvivere ma in piccolissime quantità, in modo che nessuno se ne accorga e possa scoprire la loro esistenza. Arrietty, però, in una delle sue incursioni nel giardino della casa viene vista da Sho, un ragazzino umano di 12 anni che soggiorna lì, presso la zia, in attesa di una rischiosa operazione al cuore. Nonostante la cosa scateni il terrore nei genitori, che si preparano immediatamente a traslocare, Arrietty capisce di potersi fidare di Sho e tra i due nasce una breve ma importante amicizia.",
+			"year": "2010",
+			"genre": ["Fantasy","Animazione","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/fa2f7eff5b9aeeb9480d35c480169f0a"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I miei vicini Yamada",
+			"plot": "Gli Yamada sono la tipica famiglia giapponese che vive a Tokyo. Il capofamiglia Takashi lavora in fabbrica, la moglie Matsuko è casalinga, il figlio maggiore Noboru è uno studente; poi ci sono la piccola Nonoko e la nonna Shige, che vive con loro e li aiuta nei lavori domestici. Tra piccoli drammi e momenti comici, tra realismo e fantasia, la vita della famiglia procede, verso un futuro da accogliere sempre con ironia.",
+			"year": "1999",
+			"genre": ["Animazione","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/f2d27232c1ec4c2d07be2fbc9553053e"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I racconti di Terramare",
+			"plot": "Quando i draghi che controllano il confine estremo di Terramare si spingono minacciosamente fino alle terre abitate, fino ad allora, solo da uomini, è segno che l’equilibrio del mondo sta crollando. Per Ged, un giovane mago, comincia così il lungo viaggio alla ricerca della misteriosa e terribile forza che sta minacciando la terra…",
+			"year": "2006",
+			"genre": ["Avventura","Fantasy","Animazione","Fantascienza"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/ffa53d4348c7885532879adfccdc885e"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "I sospiri del mio cuore",
+			"plot": "La storia inizia durante le vacanze estive del 1994 a Tokyo e narra di Shizuku, comune studentessa delle medie con una normale famiglia: padre, madre e sorella universitaria. Shizuku è appassionata di romanzi e spesso si reca alla biblioteca di quartiere per prendere in prestito numerosi volumi. Un giorno, nel noleggiarne alcuni, si accorge che nella tessera dei noleggi stranamente ricorre sempre un cognome prima del suo: Amasawa, e con la fantasia di un'aspirante scrittrice comincia a fantasticare su chi sia questo ragazzo che pare abbia i suoi stessi gusti.",
+			"year": "1995",
+			"genre": ["Animazione","Dramma","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d97a30ca57be4974d49f9c124769b14a"
+				}
+			]
+		},
+		{
+			"tmdb_id": -1,
+			"title": "Il castello errante di Hotel",
+			"plot": "",
+			"year": "2004",
+			"genre": [],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/bf676ac1470ee54028ad43b17496189b"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Il mio vicino Totoro",
+			"plot": "Le sorelline Satsuki e Mei si trasferiscono insieme al padre in una nuova casa in campagna. Per le due bambine inizia un viaggio alla scoperta di un nuovo mondo, abitato da creature fantastiche: dai nerini del buio, spiritelli della fuliggine, a buffi esseri di pelo di varie dimensioni, tra cui Totoro, lo spirito buono della foresta! Insieme a lui, Satsuki e la piccola Mei vivranno una magica e straordinaria avventura all’insegna dell’amicizia!",
+			"year": "1988",
+			"genre": ["Fantasy","Animazione","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d8773f30be5cdae83edd52dcedc12040"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "La ricompensa del gatto",
+			"plot": "Haru è una ragazza molto sbadata, lenta, la cui vita scolastica scorre senza alcun scotimento e che quindi la lascia sempre relativamente insoddisfatta. Non ha un ragazzo, ha pochi amici, a casa fa poco e nulla, ma è dotata di un altruismo fuori del comune. La sua vita cambia quando salva un gatto da una morte certa (acciaccato da un TIR) e questo lo ringrazia garbatamente proferendogli parole di elogio. inutile dire che la ragazza rimanga basita, ma ancor più basita rimane la sera quando riceve una ambasciata dal re dei gatti in persona che la invita al suo regno a vsisitarlo per ringraziarla di aver salvato il suo unico figlio nonchè erede al trono. Il giorno seguente dopo aver subito delle situazioni a dir poco particolari, viene eletta dai lacché del re come promessa sposa e trascinata nel regno.",
+			"year": "2002",
+			"genre": ["Avventura","Fantasy","Animazione","Dramma","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/97a9a003f4abfb9654f12bd35a47f140"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Pioggia di ricordi",
+			"plot": "Taeko Okajima è una giovane donna di 27 anni, impiegata presso una grande azienda di Tokyo. Non è sposata né ha fidanzati, con molto rammarico della madre, che tenta senza successo di combinare un matrimonio per lei. Decide di prendersi una breve vacanza e seguire l'istinto di tornare nei luoghi che avrebbe voluto visitare nella sua infanzia per lavorare, durante le ferie, nell'azienda agricola dei genitori del cognato che produce la cartamina, un colorante per cibi che ricorda lo zafferano, attraverso la raccolta dei fiori di cartamo. Durante il viaggio e il soggiorno il suo pensiero andrà a vecchi amori, ad emozioni antiche, o semplicemente a ricordi della sua infanzia che cadranno lentamente, ma inesorabilmente, su di lei, scavandola, colpendola e cambiandola",
+			"year": "1991",
+			"genre": ["Animazione","Dramma","Romance"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/1709ada47e6e64c24b5e6b125bfc1ab5"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Pom Poko",
+			"plot": "Pom poko è la favola dello scontro tra la moderna urbanizzazione e la natura. Un gruppo di Tanuki abitanti delle colline Tama è costretto ad abbandonare le case a causa del rapido sviluppo e della costruzione di nuovi edifici e centri commerciali. Visto che diventa sempre più difficile trovare cibo e rifugio, decidono di lottare tutti insieme per preservare il loro habitat. I Tanuki hanno perfezionato l'antica arte della trasformazione fino a potersi muovere come gli esseri umani su due gambe. Usano così questi poteri per limitare l'avanzamento dell'urbanizzazione. Ma sarà sufficiente?",
+			"year": "1994",
+			"genre": ["Avventura","Animazione","Fantasy"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/a86b0e1847f3366df3d9979c9d11593d"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Ponyo sulla scogliera",
+			"plot": "Dal mare emerge una pesciolina rossa a bordo di una medusa. Rimasta intrappolata in un barattolo di vetro, viene soccorsa e liberata da Sosuke, un bimbo di cinque anni che vive in cima alla scogliera. La gratitudine della pesciolina, che Sosuke battezzerà col nome di Ponyo, si trasforma in tenera amicizia. L'idillio viene però interrotto da Fujimoto, padre di Ponyo e padrone-stregone dei fondali marini. Un tempo umano, Fujimoto ha lasciato la terra per l'acqua prendendo in moglie la Madre del Mare. Decisa a tentare la fuga e a scegliere per sé un destino umano, Ponyo rovescia accidentalmente l'elisir magico del padre, trasformandosi in una bambina e alterando la quiete del mare. Le onde furiose e i pesci giganti la condurranno fino alla casa di Sosuke, dove sarà accolta e amata. Perché il mare si ritiri e restituisca a Ponyo la sua libertà e a Sosuke la sua mamma e il suo villaggio, il bambino dovrà affrontare una prova e riportare l'equilibrio tra il genere umano e la natura.",
+			"year": "2008",
+			"genre": ["Animazione","Famiglia"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e5c99ef43c24e5f1feb8d77dfc97c3be"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Porco Rosso",
+			"plot": "Italia, periodo tra le due guerre mondiali. Un misterioso pilota di aerei dalle sembianze di maiale, detto Porco Rosso, è il terrore dei pirati del Mare Adriatico, almeno finché questi non si affidano all'americano Curtis, avventuriero spavaldo che sfida Porco Rosso a duello.",
+			"year": "1992",
+			"genre": ["Commedia","Animazione","Avventura"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/e81ee1d413cc1acf7fd974db278babdd"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Quando c'era Marnie",
+			"plot": "Anna, una ragazzina timida e solitaria di 12 anni, vive in città con i genitori adottivi. Un’estate viene mandata dalla sua famiglia in una tranquilla cittadina vicina al mare ad Hokkaido. Lì Anna trascorre le giornate fantasticando tra le dune di sabbia fino a quando, in una vecchia casa disabitata, incontra Marnie, una bambina misteriosa con cui stringe subito una forte amicizia…",
+			"year": "2014",
+			"genre": ["Animazione","Dramma"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/748ff64b592e311333c3ae9242007089"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Si sente il mare",
+			"plot": "\"Si sente il mare\" inizia con l'arrivo di Rikako Muto una giovane ragazza di Tokyo nella cittadina di Kochi (situata nell'isola Shikoku), trasferitasi insieme alla madre dopo la sua separazione con il marito. Sebbene taciturna e introversa la ragazza si dimostra molto intelligente, eccellente nello studio e nello sport e diventa il sogno di molti ragazzi tra cui il migliore amico del protagonista, Yutaka Matsuno. Taku Morisaku che si è trasferito a Tokyo per frequentare l'università, conoscendo i sentimenti dell'amico Yutaka, cerca di comprendere il motivo per il quale quella ragazza gli abbia stregato il cuore, in quanto a prima vista sembra tutto fuorché interessante. E così, tra una situazione e l'altra Rikako si avvicina a entrambi. Da qui ne scaturiranno varie vicissitudini che porteranno Rikako a provare a tornare a vivere con il padre, col risultato di ottenere la consapevolezza che la sua vecchia vita le è ormai estranea.",
+			"year": "1993",
+			"genre": ["Romance","Animazione","Dramma","televisione film"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/d8d9d230775872ce70b26769e6b134a5"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Si alza il vento",
+			"plot": "Jiro sogna di volare e progettare aeroplani ispirandosi al famoso ingegnere aeronautico italiano Gianni Caproni. Miope fin dalla giovane età e pertanto impossibilitato a  diventare pilota, nel 1927 entra a lavorare in  una delle principali  società  giapponesi  di  ingegneria  aeronautica, e progetta il famoso aereo da combattimento Mitsubishi A6M Zero usato dal suo paese durante l'attacco a Pearl Harbor nella Seconda guerra mondiale. Sono  anni  importanti quelli  per  Jiro, perché  ha  modo  di  mostrare  l’innato  talento  che  lo  farà  diventare  uno  dei  progettatori  aeronautici  più affermati  al mondo  ma soprattutto perché inizia  a frequentare la dolce Nahoko, il suo più grande amore, oltre al cielo…",
+			"year": "2013",
+			"genre": ["Animazione","Guerra","Storia","Dramma","Romance"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3fe08f385ea8f2ab741c96c40ac7a27c"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Una tomba per le lucciole",
+			"plot": "Giappone, 21 settembre 1945. Alla stazione di Kobe, il quattordicenne Seita muore di inedia. Il suo spirito ripercorre i tragici eventi degli ultimi quattro mesi: i bombardamenti americani, il cadavere della madre sfigurato dalle ustioni, il padre a difendere la gloria dell'impero nella sua bianca uniforme da ufficiale di marina. E poi l'orgoglio, la fuga, i furti, la fame. Questa notte spaventosa è rischiarata dai flebili bagliori delle lucciole. Ma all'alba non ne rimarrà più nessuna.",
+			"year": "1988",
+			"genre": ["Animazione","Dramma","Guerra"],
+			"saga": "Studio Ghibli",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/12dadb3b823e53d59efb539d9971e736"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Toy Story 4",
+			"plot": "Woody, Buzz e compagni sono ora i giocattoli di Bonnie, una bambina dolcissima che sta per affrontare un passo importante della sua giovane vita: l'inizio della scuola. C'è fermento tra i giocattoli per questo passo e in particolare è Woody quello più in apprensione per la bambina, che dimostra di saper gestire la situazione, trovando riparo alle avversità nella propria immaginazione e costruendosi un piccolo nuovo giocattolo attingendo a ciò che trova nella spazzatura. È Forky, una nuova aggiunta al gruppo che non mancherà di creare problemi quando Bonnie e i suoi genitori, con giocattoli al seguito, si metteranno in viaggio in camper per una vacanza.",
+			"year": "2019",
+			"genre": ["Avventura","Animazione","Commedia","Famiglia","Fantasy"],
+			"saga": "Toy Story",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/c0d3e98b6c4476903b1b4dfc994ba14b"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Toy Story 2 - Woody & Buzz alla riscossa",
+			"plot": "Il film inizia quando Buzz Lightyear si ritrova sul pianeta Zurg. L'eroe, dopo aver superato una serie di difficoltà, compresa una che ricorda Indiana Jones, raggiunge il tiranno galattico, venendo tuttavia disintegrato. Rex giocava al gioco dedicato a Buzz e alle sue avventure, e non vede l'ora di poter sconfiggere Zurg e finire il livello.A casa di Andy, Woody e Buzz sono diventati amici. Un giorno, Woody cercava il suo cappello aiutato dai suoi amici, perché voleva andare al campo campeggio cowboy, finché Slinky lo trova ma riferisce anche che sta arrivando Buster, il vivace cagnolino di Andy.",
+			"year": "1999",
+			"genre": ["Animazione","Commedia","Famiglia"],
+			"saga": "Toy Story",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/3180d3345cb37368cef5ce9ef1d5a3eb"
+				}
+			]
+		},
+		{
+			"tmdb_id": null,
+			"title": "Toy Story 3 - La grande fuga",
+			"plot": "Andy è in partenza per il college, sta svuotando la sua stanza e la madre lo obbliga a scegliere che fare dei vecchi giocattoli. Loro, i giocattoli, già conoscono il proprio destino, da anni Andy non gioca più come lo vediamo fare nella fenomenale sequenza d'apertura (un gioiello di racconto caotico infantile), volubili come sono però rimangono offesi dal trattamento riservatogli e quando un malinteso li fa finire nello scatolone destinato all'asilo di Sunnyside prendono l'evento di buon grado. Solo Woody, testardo, irriducibile e affezionato, continua a credere che il loro posto sia con il padrone. Gli altri lo capiranno quando scopriranno come in realtà Sunnyside sia una prigione dalla quale è impossibile evadere, gestita con pugno di ferro da una congrega di giocattoli feriti dall'abbandono dei propri padroni.",
+			"year": "2010",
+			"genre": ["Animazione","Famiglia","Commedia"],
+			"saga": "Toy Story",
+			"links": [
+				{
+					"url": "http://51.77.159.233:30299/500c507817ff2f647f63aba2eb661e2c"
+				}
+			]
+		}
+    ]
 }
