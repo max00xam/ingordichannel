@@ -1,554 +1,904 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 37799,
-			"number": "1x1",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "La lettera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/489f7a98544a7839a2d908478590afbd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x2",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "La partenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4657f8c50dd226ff26e30b71df339725"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x3",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Flo ci ripensa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6adb783713865f1a129bb47e086efded"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x4",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "In rotta verso l`Australia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/29ef1b3ed03d66fa35eff2a76648a783"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x5",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Capitan Flo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/85c00071824a891862de8755e107ae08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x6",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il tifone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/69887154018eb27759479c45a97ef36e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x7",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Un padre ingegnoso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c0d42584c30c4d9323e5498d9035b0c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x8",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Verso l`isola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3ab97454cd8b6bb57d213af5b26e786"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x9",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "La famiglia cresce",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c501e6174f9d1ac7012a035d7d45469"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x10",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Una triste scoperta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f8c052ef13c1733571eb8776a9126210"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x11",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "L`albero gigante",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e097f0b14aa2cab80ab550fbd7c23fd4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x12",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Lavori domestici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b4008088b8b8ac0bbf5f659e8bb00978"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x13",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "L`insetto velenoso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d6e27a3afb67299d0a6c0a55d0efbf13"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x14",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il canto delle conchiglie",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7254c46a5d0096400c972a56d0245123"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x15",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "La casa sull`albero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6c4eeee6b3ef7b6cd2bb5364a9dd5165"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x16",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Vita sull`isola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/117d5a5a9a860ad5fde4dba4ef93dc16"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x17",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "L`orto della mamma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/664a81a56430bb833c03c95ec62f9b75"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x18",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Mercr in pericolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4902c8d49de90dc926c9a4d113dbf3b2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x19",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Flo va a caccia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1f120963b7b47dc5dd459a9c345606e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x20",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Nave in vista",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dcc54e3759df871d85b4767e34bf8916"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x21",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Tartaruga",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4fb265f98b37962c412232c77bcdc477"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x22",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Collezionista",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd24b14fea0b5831839084c86a958a7b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x23",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Santifica le feste",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2bb1781d086e58213851dedecf851371"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x24",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Casa di Flo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/acf7e1efcdeb218604f43fb657a63ac1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x25",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Una buia notte sull`isola disabitata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e861e28b1d2988f286ace590e391897e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x26",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Arco e frecce",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd8f76651f7a89b7f94ce75f22321758"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x27",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Anniversario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/591dd2cb9ea71d9d7790c37a3e4ceb6d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x28",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Alla ricerca della china",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e24765306a442997bf81b62c82502fae"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x29",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Flo si è persa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1134af887e710c64201284a094a69586"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x30",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Punizione severa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9b7542f6c955ab3f92df5265d38b005"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x31",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Segreto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ee135fc8e7767223ba75f96716565080"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x32",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il battello è pronto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11620c08b6b68c77ee55017a0d9a9983"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x33",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Grandi piogge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1618e7de31982959275c30952b321f19"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x34",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "C`era una volta la grotta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a728f877dca0d8f139dfb5dad32099e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x35",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il segreto della grotta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/864a609af0c364198876f9fd5fab288c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x36",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5b93bfa1e9245d34129d7e20016ad980"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x37",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Naufraghi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae56231ac2252ee1ea1c472471cf638a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x38",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Flo e Tomtom",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c88a86a84c398f8f5eac984c88ce4712"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x39",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Una convivenza difficile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/35d96bc1f3bde0b72543a46c7c327140"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x40",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Flo e Tam Tam",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9365b3d209268bf642e105b54d6583eb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x41",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il signor Morton se n`è andato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a52f3582598a00876929ab97e8c749ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x42",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il terremoto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b85e9ac5c100b05a76aad219cd840e7c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x43",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il ritorno del signor Morton",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7dc63ce942bcea9c15bf836bd1d1301"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x44",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Una nuova imbarcazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/96a797df053c73ff153df352ad62f5e8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x45",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il nostro asinello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5654e034a2041973874e7babc320083b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x46",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Vietato l`ingresso agli animali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/437913e5b0d4da86174f12c8df51047d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x47",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Il signor Morton ci ripensa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b21102956ac1afc6f06143e353aad170"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x48",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Addio isola deserta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/719468ed71653ddf828935cfae676785"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x49",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Terra in vista",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/929a96671ef6d2fccde2292090dcf085"
-				}
-			]
-		},
-		{
-			"tmdb_id": 37799,
-			"number": "1x50",
-			"saga": "Flo, La Piccola Robinson",
-			"title": "Arrivederci!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0977851ee7f9f5f0ce018b7f1eceea3f"
-				}
-			]
-		}
+            "file_id": "876029a8ddfa06bc640594f95c954ab3",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La lettera",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.001 - La lettera.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/876029a8ddfa06bc640594f95c954ab3"
+                }
+            ]
+        },
+        {
+            "file_id": "246e978bca1d47fe81fb1cb583d017e5",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La partenza",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.002 - La partenza.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/246e978bca1d47fe81fb1cb583d017e5"
+                }
+            ]
+        },
+        {
+            "file_id": "faa48bf43de44105aaa0faf88e105d2c",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Flo ci ripensa",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.003 - Flo ci ripensa.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/faa48bf43de44105aaa0faf88e105d2c"
+                }
+            ]
+        },
+        {
+            "file_id": "e147b80c02d86130f81aacc6bcf7b8b9",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "In rotta verso l`Australia",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.004 - In rotta verso l`Australia.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e147b80c02d86130f81aacc6bcf7b8b9"
+                }
+            ]
+        },
+        {
+            "file_id": "52cc015640ebb41322bbe207f232d592",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Capitan Flo",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.005 - Capitan Flo.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52cc015640ebb41322bbe207f232d592"
+                }
+            ]
+        },
+        {
+            "file_id": "1463ad92fd092b431fe0aa73138669b7",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il tifone",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.006 - Il tifone.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1463ad92fd092b431fe0aa73138669b7"
+                }
+            ]
+        },
+        {
+            "file_id": "2fc0b33a0c62ee5fb9c723247d9bb607",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un padre ingegnoso",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.007 - Un padre ingegnoso.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2fc0b33a0c62ee5fb9c723247d9bb607"
+                }
+            ]
+        },
+        {
+            "file_id": "623e84240e070f0ad6e1c176503d9509",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Verso l`isola",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.008 - Verso l`isola.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/623e84240e070f0ad6e1c176503d9509"
+                }
+            ]
+        },
+        {
+            "file_id": "2dd76f3b15cad76edd36bac412918d14",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La famiglia cresce",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.009 - La famiglia cresce.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2dd76f3b15cad76edd36bac412918d14"
+                }
+            ]
+        },
+        {
+            "file_id": "b9df403bc1536ca04dbc1e44059deec3",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Una triste scoperta",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.010 - Una triste scoperta.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9df403bc1536ca04dbc1e44059deec3"
+                }
+            ]
+        },
+        {
+            "file_id": "4cdac0ee466608125231c2bd787e4fb5",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`albero gigante",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.011 - L`albero gigante.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4cdac0ee466608125231c2bd787e4fb5"
+                }
+            ]
+        },
+        {
+            "file_id": "5710a20a538381e24d8ac7773bbbf3a9",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Lavori domestici",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.012 - Lavori domestici.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5710a20a538381e24d8ac7773bbbf3a9"
+                }
+            ]
+        },
+        {
+            "file_id": "e8a677532f2b4070ae8c16387248e3c3",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`insetto velenoso",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.013 - L`insetto velenoso.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8a677532f2b4070ae8c16387248e3c3"
+                }
+            ]
+        },
+        {
+            "file_id": "ca92731b40c9cf7f98e3a3c184a551e1",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il canto delle conchiglie",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.014 - Il canto delle conchiglie.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ca92731b40c9cf7f98e3a3c184a551e1"
+                }
+            ]
+        },
+        {
+            "file_id": "f81cec6f73f8d9a41c98db454d17eeef",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La casa sull`albero",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.015 - La casa sull`albero.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f81cec6f73f8d9a41c98db454d17eeef"
+                }
+            ]
+        },
+        {
+            "file_id": "808b84c5d51c38c0108eed4f4f9b459e",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Vita sull`isola",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.016 - Vita sull`isola.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/808b84c5d51c38c0108eed4f4f9b459e"
+                }
+            ]
+        },
+        {
+            "file_id": "8d46894d76976af8cb72d1a059331dd3",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`orto della mamma",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.017 - L`orto della mamma.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d46894d76976af8cb72d1a059331dd3"
+                }
+            ]
+        },
+        {
+            "file_id": "19bd09b63b4252b5bf63ae4505b302f5",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Mercr in pericolo",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.018 - Mercr in pericolo.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19bd09b63b4252b5bf63ae4505b302f5"
+                }
+            ]
+        },
+        {
+            "file_id": "acc87aa15f4914524a45ddf881e7c7eb",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Flo va a caccia",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.019 - Flo va a caccia.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/acc87aa15f4914524a45ddf881e7c7eb"
+                }
+            ]
+        },
+        {
+            "file_id": "64404a3450ec056cddcb0797331363ff",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Nave in vista",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.020 - Nave in vista.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/64404a3450ec056cddcb0797331363ff"
+                }
+            ]
+        },
+        {
+            "file_id": "0bd06d1036be00b245e20034dfe441d8",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Tartaruga",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.021 - Tartaruga.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0bd06d1036be00b245e20034dfe441d8"
+                }
+            ]
+        },
+        {
+            "file_id": "e153b8ac92ffc615a0e11297bc1984a8",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Collezionista",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.022 - Collezionista.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e153b8ac92ffc615a0e11297bc1984a8"
+                }
+            ]
+        },
+        {
+            "file_id": "1dfb49f82cc9eba55b87a1f4a0890555",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Santifica le feste",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.023 - Santifica le feste.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1dfb49f82cc9eba55b87a1f4a0890555"
+                }
+            ]
+        },
+        {
+            "file_id": "94db884e99809b5188b3de154aeb0cd7",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Casa di Flo",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.024 - Casa di Flo.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94db884e99809b5188b3de154aeb0cd7"
+                }
+            ]
+        },
+        {
+            "file_id": "57e757b95358bc59b5c2f3aa92fcdf46",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Una buia notte sull`isola disabitata",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.025 - Una buia notte sull`isola disabitata.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57e757b95358bc59b5c2f3aa92fcdf46"
+                }
+            ]
+        },
+        {
+            "file_id": "4a20f8c38bba0fdd39d835f4954041d9",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Arco e frecce",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.026 - Arco e frecce.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4a20f8c38bba0fdd39d835f4954041d9"
+                }
+            ]
+        },
+        {
+            "file_id": "1dec9e491ec733fd32d5164106bee125",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Anniversario",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.027 - Anniversario.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1dec9e491ec733fd32d5164106bee125"
+                }
+            ]
+        },
+        {
+            "file_id": "c3e50b4febad65af44babf7a8dc8a83b",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Alla ricerca della china",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.028 - Alla ricerca della china.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c3e50b4febad65af44babf7a8dc8a83b"
+                }
+            ]
+        },
+        {
+            "file_id": "9f8d42e8a2b324352dcef92cbd05b426",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Flo si \u00e8 persa",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.029 - Flo si \u00e8 persa.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f8d42e8a2b324352dcef92cbd05b426"
+                }
+            ]
+        },
+        {
+            "file_id": "548ad7ab6610d8da796fb4a730367a5d",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Punizione severa",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.030 - Punizione severa.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/548ad7ab6610d8da796fb4a730367a5d"
+                }
+            ]
+        },
+        {
+            "file_id": "563810ffe383cdc7784dd3c371f371a8",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Segreto",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.031 - Segreto.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/563810ffe383cdc7784dd3c371f371a8"
+                }
+            ]
+        },
+        {
+            "file_id": "fbc035997f57572403660b23082b2db2",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il battello \u00e8 pronto",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.032 - Il battello \u00e8 pronto.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fbc035997f57572403660b23082b2db2"
+                }
+            ]
+        },
+        {
+            "file_id": "5afdc7beec779659ffc88c4dbae33b07",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Grandi piogge",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.033 - Grandi piogge.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5afdc7beec779659ffc88c4dbae33b07"
+                }
+            ]
+        },
+        {
+            "file_id": "1bf7175bbe1ee0e823c58b03840f7e20",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "C`era una volta la grotta",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.034 - C`era una volta la grotta.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1bf7175bbe1ee0e823c58b03840f7e20"
+                }
+            ]
+        },
+        {
+            "file_id": "b5d798a050a3af2617b77ec930232fff",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il segreto della grotta",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.035 - Il segreto della grotta.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5d798a050a3af2617b77ec930232fff"
+                }
+            ]
+        },
+        {
+            "file_id": "7ce8be225345dc2c8c1e19243dcf7212",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Fantasma",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.036 - Fantasma.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7ce8be225345dc2c8c1e19243dcf7212"
+                }
+            ]
+        },
+        {
+            "file_id": "97270366c4c056b10cab372b8c5b6cd2",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Naufraghi",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.037 - Naufraghi.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/97270366c4c056b10cab372b8c5b6cd2"
+                }
+            ]
+        },
+        {
+            "file_id": "a0f7857051caf249063b3c4ea070f441",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Flo e Tomtom",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.038 - Flo e Tomtom.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0f7857051caf249063b3c4ea070f441"
+                }
+            ]
+        },
+        {
+            "file_id": "2ecc728a8347260235357903f8035bac",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Una convivenza difficile",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.039 - Una convivenza difficile.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ecc728a8347260235357903f8035bac"
+                }
+            ]
+        },
+        {
+            "file_id": "d66672bac31a224033998852a7fd8be2",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Flo e Tam Tam",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.040 - Flo e Tam Tam.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d66672bac31a224033998852a7fd8be2"
+                }
+            ]
+        },
+        {
+            "file_id": "603eab9dd2fcf8b1ad8041f6c685c341",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il signor Morton se n`\u00e8 andato",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.041 - Il signor Morton se n`\u00e8 andato.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/603eab9dd2fcf8b1ad8041f6c685c341"
+                }
+            ]
+        },
+        {
+            "file_id": "94e57a29022641e243ffdfabd5c4f626",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il terremoto",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.042 - Il terremoto.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94e57a29022641e243ffdfabd5c4f626"
+                }
+            ]
+        },
+        {
+            "file_id": "ea371cc2e2b53f1a92c4100e3abaea66",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il ritorno del signor Morton",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.043 - Il ritorno del signor Morton.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea371cc2e2b53f1a92c4100e3abaea66"
+                }
+            ]
+        },
+        {
+            "file_id": "d9399f60f7cb72a77868ac4af89192b1",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Una nuova imbarcazione",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.044 - Una nuova imbarcazione.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9399f60f7cb72a77868ac4af89192b1"
+                }
+            ]
+        },
+        {
+            "file_id": "6224865a3d1d50e3660fdae6c2c26758",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il nostro asinello",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.045 - Il nostro asinello.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6224865a3d1d50e3660fdae6c2c26758"
+                }
+            ]
+        },
+        {
+            "file_id": "82e84cdbfce5c15ec04d6bedb7464141",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Vietato l`ingresso agli animali",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.046 - Vietato l`ingresso agli animali.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82e84cdbfce5c15ec04d6bedb7464141"
+                }
+            ]
+        },
+        {
+            "file_id": "8d671c86f92fc4d58d3eab98f285aa0f",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il signor Morton ci ripensa",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.047 - Il signor Morton ci ripensa.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d671c86f92fc4d58d3eab98f285aa0f"
+                }
+            ]
+        },
+        {
+            "file_id": "a2458a81e64e91e3d713b0966ae4263e",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Addio isola deserta",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.048 - Addio isola deserta.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a2458a81e64e91e3d713b0966ae4263e"
+                }
+            ]
+        },
+        {
+            "file_id": "feec35d5ca59eb534274c8c5cfb0fc8a",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Terra in vista",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.049 - Terra in vista.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/feec35d5ca59eb534274c8c5cfb0fc8a"
+                }
+            ]
+        },
+        {
+            "file_id": "01c409f28a6ba26efd85bccc1393ba56",
+            "tmdb_id": 37799,
+            "saga": "Flo, La Piccola Robinson",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Arrivederci!",
+            "fname": "/Anime & Cartoni/Flo, La Piccola Robinson (1981) [a37799]/1.050 - Arrivederci!.mp4",
+            "year": "1981",
+            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre. Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "actors": ["Yoshiko Matsuo", "Katsuhiko Kobayashi", "Michiko Hirai", "T\u014dru Furuya", "Makoto Kousaka", "Kaoru Kurosu", "Yoshiko Asai", "Kan Tokumaru", "Atsuko Mine", "Ichir\u014d Nagai", "Tamio Ohki", "K\u014dichi Kitamura", "Keiko Hanagata", "Yoku Shioya", "Satomi Majima", "Osamu Kobayashi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/01c409f28a6ba26efd85bccc1393ba56"
+                }
+            ]
+        }
     ]
 }

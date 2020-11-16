@@ -1,576 +1,888 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 7330,
-			"number": "1x1",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Iron, forgiato nel fuoco Parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e6046a8be61b1e7a60bebc11fa11ef9c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x2",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Iron, forgiato nel fuoco Parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1cddbb068e992f45718cdabe7db62b0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x3",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Criminali in guerra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3e07939dc62a4a22d9bfc159f95ec79"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x4",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Guerra fredda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/371be61ffd91c56b32e9d90c81633d4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x5",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Un amico supereroe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7be69e8989cbca33480002860bed8901"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x6",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Tornato dallo spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75406d39f85bc1b922f26a59b7bacded"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x7",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Laser Man",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ec63cebf69d31fd60986d998351ef1ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x8",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Un piano perfetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c0465e952aade7a7783c7ca80215c6a2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x9",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il tempio abbandonato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e65c9dc3e9cb637c1d8e9e4386525702"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x10",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`interfaccia mentale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5f4b7f1ae122adcb2585865f847aa5bf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x11",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Madame Mask",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/55bc55306d6c2176fb98a24fb423f3d5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x12",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Scontro fra giganti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/45c6e3240a44d97ea9e2a74cc6c8ec7d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x13",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La prova del coraggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f83d970efd1127edb77bb149898cd8aa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x14",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il ritorno di Whiplash",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f0fc5925497b6487f7742d1c695d10a1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x15",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La preda della Pantera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d6eaba0cfd3a040f061fb60d469f57a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x16",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Battaglia nello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/32e6f0a5595f029893df6b0537f46c1d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x17",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Ombra assassina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fb7a1e86d4c6a7a4d3bfc5bd092ac6df"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x18",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Un nuovo eroe per Pepper",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cb1eb50e149f613b9f6b99007734f6e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x19",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il virus affamato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0f933eb04876a56e3993e0a26cc2bbf2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x20",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`anello nel vulcano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/724e20c76399275b797bd4945edf066e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x21",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il grande Modok",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/639f06a09904d3d1d02cfa5792e50745"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x22",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Supereroe per un giorno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbba5d95467b6faf3b5b98330caa6c7e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x23",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il gigante verde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ac3f9640570c920b6d9d774b8fbd043"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x24",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La vendetta di Blizzard",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3eccd0a998e5b50ba76f6c3ecf31e8d1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x25",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il quinto anello Parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0a895a0902cf30772fe898f3c19f021f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "1x26",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il quinto anello Parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e26833c9ad4f44aea416df1290e65146"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x1",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`invincibile Iron Man - Un compleanno difficile Parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de33b73be4f0f9055fc2402a85bd15a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x2",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`invincibile Iron Man - Rinascita Parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a9c060893014b73fccc676d4fdce640"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x3",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Raggio di luce",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1c88e900d35be2ae5b1d28153f35649"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x4",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8fe28c070d70bec7e12f7039d6be2d6a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x5",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La guerra delle armature",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0ce69323bd1f742edb5b4a76cf116d87"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x6",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Sotto tiro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/57814e5f42e9c32e5179cfc605e2d52a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x7",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Titanium contro Iron Man",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a029981201c8e16f11016ba0a5bb3ad1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x8",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La forza del destino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d5a8089f2edb238a5e89be686ea19286"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x9",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il falco e il ragno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d430c623c25a3e101e0cfb77b71ebfd3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x10",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Progetto Iron Monger",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0a834257e0c4bdd9733aee043749c822"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x11",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "In fuga dallo S",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/57dfb3552cf4f9731f14e9c9ea0942ba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x12",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Che il gioco abbia inizio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/709076c0e05f016a284190e9a736364d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x13",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Identità svelata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d904384a6b1a5d3f7bad969381497daa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x14",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La missione di Mandarino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/92194ce359fe814ae3f2ca31af3f7ab7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x15",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Vendita obbligatoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/06f8233c5648be15245413d49b98ecdd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x16",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Extremis",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/486af6a8f8b0a026570f0790b740b443"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x17",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il fattore X",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fc5134f04d0fba4271364e8c98fee55f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x18",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Realtà virtuale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d468f7b9b531e2732db66f65264d5bf4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x19",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Iron Man 2099",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/77bf3fa3505217eb20d9816b097d9ad9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x20",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il giorno del giudizio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/448e8b3b9258494ddfa676df728a79ca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x21",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La sconfitta di Hammer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ce7f3228fa7d26e93c570997257034aa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x22",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "La rabbia di Hulk",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2171ee90413278f4a5d3e5aca2eac6a3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x23",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il ritorno di Iron Monger",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c0100b6c2f6e1f309d4464bd1dc3cb0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x24",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "Il seme del drago",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ff4be30401edaa7293418fba2e0aab9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x25",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`invasione dei Makluan - Annientateli Parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d2116d42724dd5894ee6c3abaf5111a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 7330,
-			"number": "2x26",
-			"saga": "Iron Man: Armored Adventures",
-			"title": "L`invasione dei Makluan - Uniti Parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/800c442008724700aacc54c70b98fb39"
-				}
-			]
-		}
+            "file_id": "dfdab8a374de5b3e09dcfc47ea20fe18",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Iron, forgiato nel fuoco Parte 1",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.001 - Iron, forgiato nel fuoco Parte 1.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dfdab8a374de5b3e09dcfc47ea20fe18"
+                }
+            ]
+        },
+        {
+            "file_id": "7afbf4182973ce012d2364b792cd5d06",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Iron, forgiato nel fuoco Parte 2",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.002 - Iron, forgiato nel fuoco Parte 2.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7afbf4182973ce012d2364b792cd5d06"
+                }
+            ]
+        },
+        {
+            "file_id": "76c2109c17dcb13aa806eae8baafd2a7",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Criminali in guerra",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.003 - Criminali in guerra.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/76c2109c17dcb13aa806eae8baafd2a7"
+                }
+            ]
+        },
+        {
+            "file_id": "81f134d466baade54ec98705834a1a29",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Guerra fredda",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.004 - Guerra fredda.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81f134d466baade54ec98705834a1a29"
+                }
+            ]
+        },
+        {
+            "file_id": "a8b61dc82d517dabe071bae07eeaaba2",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un amico supereroe",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.005 - Un amico supereroe.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8b61dc82d517dabe071bae07eeaaba2"
+                }
+            ]
+        },
+        {
+            "file_id": "4ae77b8e3ea3a2ce538df3a652230735",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Tornato dallo spazio",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.006 - Tornato dallo spazio.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4ae77b8e3ea3a2ce538df3a652230735"
+                }
+            ]
+        },
+        {
+            "file_id": "38ecee625c64e0c6e823cd6e65ec2d3b",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Laser Man",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.007 - Laser Man.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38ecee625c64e0c6e823cd6e65ec2d3b"
+                }
+            ]
+        },
+        {
+            "file_id": "396741411b0efc32d3d7dd1cc1bf28a7",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un piano perfetto",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.008 - Un piano perfetto.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/396741411b0efc32d3d7dd1cc1bf28a7"
+                }
+            ]
+        },
+        {
+            "file_id": "021ceb46d3cd996900f72cfef5a3dfd1",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il tempio abbandonato",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.009 - Il tempio abbandonato.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/021ceb46d3cd996900f72cfef5a3dfd1"
+                }
+            ]
+        },
+        {
+            "file_id": "04387a01a7e06c800a5ccdd2651b9cf7",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`interfaccia mentale",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.010 - L`interfaccia mentale.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/04387a01a7e06c800a5ccdd2651b9cf7"
+                }
+            ]
+        },
+        {
+            "file_id": "8a8b39b9464d7a6acc74324baa05b3a6",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Madame Mask",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.011 - Madame Mask.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a8b39b9464d7a6acc74324baa05b3a6"
+                }
+            ]
+        },
+        {
+            "file_id": "2a7cfc1d802d9c33abbb7b0ca8424c3b",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Scontro fra giganti",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.012 - Scontro fra giganti.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a7cfc1d802d9c33abbb7b0ca8424c3b"
+                }
+            ]
+        },
+        {
+            "file_id": "8fb53e280b47dd745c4232fde41fd61d",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La prova del coraggio",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.013 - La prova del coraggio.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8fb53e280b47dd745c4232fde41fd61d"
+                }
+            ]
+        },
+        {
+            "file_id": "6ac784b6cad0c032b504e49301d5101d",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il ritorno di Whiplash",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.014 - Il ritorno di Whiplash.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ac784b6cad0c032b504e49301d5101d"
+                }
+            ]
+        },
+        {
+            "file_id": "dbb8e2d9701bd296e201e9d1ab7b9108",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La preda della Pantera",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.015 - La preda della Pantera.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dbb8e2d9701bd296e201e9d1ab7b9108"
+                }
+            ]
+        },
+        {
+            "file_id": "389d8fc46166ba0a67b1bed61bd8f6b4",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Battaglia nello spazio",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.016 - Battaglia nello spazio.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/389d8fc46166ba0a67b1bed61bd8f6b4"
+                }
+            ]
+        },
+        {
+            "file_id": "b7bdf20d6e3fdc1045a070e24b04e7cf",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Ombra assassina",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.017 - Ombra assassina.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b7bdf20d6e3fdc1045a070e24b04e7cf"
+                }
+            ]
+        },
+        {
+            "file_id": "acca33ad6fb37705bf1ba8680ff6043c",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un nuovo eroe per Pepper",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.018 - Un nuovo eroe per Pepper.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/acca33ad6fb37705bf1ba8680ff6043c"
+                }
+            ]
+        },
+        {
+            "file_id": "55d271e7b8f05410074ae1f19c42b2a4",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il virus affamato",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.019 - Il virus affamato.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/55d271e7b8f05410074ae1f19c42b2a4"
+                }
+            ]
+        },
+        {
+            "file_id": "4f71955fd6e0fb6047e68af4ff2ee613",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`anello nel vulcano",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.020 - L`anello nel vulcano.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f71955fd6e0fb6047e68af4ff2ee613"
+                }
+            ]
+        },
+        {
+            "file_id": "2ec7e37761f3d1c80dc8b4572434a379",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il grande Modok",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.021 - Il grande Modok.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ec7e37761f3d1c80dc8b4572434a379"
+                }
+            ]
+        },
+        {
+            "file_id": "771dc8ea51a2ff2f02d0382891bd742a",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Supereroe per un giorno",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.022 - Supereroe per un giorno.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/771dc8ea51a2ff2f02d0382891bd742a"
+                }
+            ]
+        },
+        {
+            "file_id": "971792d0388bc609a105418519ffceeb",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il gigante verde",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.023 - Il gigante verde.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/971792d0388bc609a105418519ffceeb"
+                }
+            ]
+        },
+        {
+            "file_id": "c4caed6dc98fb4fc768017f0e54ee3df",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La vendetta di Blizzard",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.024 - La vendetta di Blizzard.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c4caed6dc98fb4fc768017f0e54ee3df"
+                }
+            ]
+        },
+        {
+            "file_id": "3ad5e3fba7a6698f530f8db87fbfd6f0",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il quinto anello Parte 1",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.025 - Il quinto anello Parte 1.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ad5e3fba7a6698f530f8db87fbfd6f0"
+                }
+            ]
+        },
+        {
+            "file_id": "31ebd65dc0c36f22fbbce5904ca00eb8",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il quinto anello Parte 2",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/1.026 - Il quinto anello Parte 2.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31ebd65dc0c36f22fbbce5904ca00eb8"
+                }
+            ]
+        },
+        {
+            "file_id": "d3134dcc679e01df293611b666e097a2",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`invincibile Iron Man - Un compleanno difficile Parte 1",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.001 - L`invincibile Iron Man - Un compleanno difficile Parte 1.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3134dcc679e01df293611b666e097a2"
+                }
+            ]
+        },
+        {
+            "file_id": "d9f7b1de576e6edc1ac6f48ef634a564",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`invincibile Iron Man - Rinascita Parte 2",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.002 - L`invincibile Iron Man - Rinascita Parte 2.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9f7b1de576e6edc1ac6f48ef634a564"
+                }
+            ]
+        },
+        {
+            "file_id": "7e5d0bd8e620c667ed20f8b9b3fcc2dd",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Raggio di luce",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.003 - Raggio di luce.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e5d0bd8e620c667ed20f8b9b3fcc2dd"
+                }
+            ]
+        },
+        {
+            "file_id": "9051bd75296973a6888bd42481f87af3",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Fantasma",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.004 - Fantasma.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9051bd75296973a6888bd42481f87af3"
+                }
+            ]
+        },
+        {
+            "file_id": "4a7b2fac0c02d54c465114059a1d0bae",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La guerra delle armature",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.005 - La guerra delle armature.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4a7b2fac0c02d54c465114059a1d0bae"
+                }
+            ]
+        },
+        {
+            "file_id": "8118409797fabf5913292b21cdd8a774",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Sotto tiro",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.006 - Sotto tiro.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8118409797fabf5913292b21cdd8a774"
+                }
+            ]
+        },
+        {
+            "file_id": "f206038d2dcd09e166f029293026ba2d",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Titanium contro Iron Man",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.007 - Titanium contro Iron Man.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f206038d2dcd09e166f029293026ba2d"
+                }
+            ]
+        },
+        {
+            "file_id": "7fed4748bd564852e68d45779e0796d9",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La forza del destino",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.008 - La forza del destino.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7fed4748bd564852e68d45779e0796d9"
+                }
+            ]
+        },
+        {
+            "file_id": "d3aabb84c3f2457b9a4514bbc0f801f2",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il falco e il ragno",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.009 - Il falco e il ragno.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3aabb84c3f2457b9a4514bbc0f801f2"
+                }
+            ]
+        },
+        {
+            "file_id": "efd25edd8b8d11c5c1e1b263d8e6aef1",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Progetto Iron Monger",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.010 - Progetto Iron Monger.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/efd25edd8b8d11c5c1e1b263d8e6aef1"
+                }
+            ]
+        },
+        {
+            "file_id": "f92e1ff1b9b0d79666555296821ba449",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "In fuga dallo S",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.011 - In fuga dallo S.H.I.E.L.D.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f92e1ff1b9b0d79666555296821ba449"
+                }
+            ]
+        },
+        {
+            "file_id": "c6af201489eb4ee81e23cfa9cfb04ffc",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Che il gioco abbia inizio",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.012 - Che il gioco abbia inizio.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c6af201489eb4ee81e23cfa9cfb04ffc"
+                }
+            ]
+        },
+        {
+            "file_id": "b418de11dfdffa69d8fe28f5aca0b179",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Identit\u00e0 svelata",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.013 - Identit\u00e0 svelata.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b418de11dfdffa69d8fe28f5aca0b179"
+                }
+            ]
+        },
+        {
+            "file_id": "2c853d034467063af880d664387bd300",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La missione di Mandarino",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.014 - La missione di Mandarino.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c853d034467063af880d664387bd300"
+                }
+            ]
+        },
+        {
+            "file_id": "d9a768390a9f5d7dd6658e533b1bf1f0",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Vendita obbligatoria",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.015 - Vendita obbligatoria.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9a768390a9f5d7dd6658e533b1bf1f0"
+                }
+            ]
+        },
+        {
+            "file_id": "905261e1f84dfa95567cf060a39ad151",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Extremis",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.016 - Extremis.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/905261e1f84dfa95567cf060a39ad151"
+                }
+            ]
+        },
+        {
+            "file_id": "b78a2d4ce6b2684211a1cde1ae735303",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il fattore X",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.017 - Il fattore X.mp4",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b78a2d4ce6b2684211a1cde1ae735303"
+                }
+            ]
+        },
+        {
+            "file_id": "f5e382cdf41200b32d67386a2b93842c",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Realt\u00e0 virtuale",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.018 - Realt\u00e0 virtuale.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f5e382cdf41200b32d67386a2b93842c"
+                }
+            ]
+        },
+        {
+            "file_id": "1bebe908667309d61949addae6edba37",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Iron Man 2099",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.019 - Iron Man 2099.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1bebe908667309d61949addae6edba37"
+                }
+            ]
+        },
+        {
+            "file_id": "53c7f083e09db001a0a0b13b05adf96d",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il giorno del giudizio",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.020 - Il giorno del giudizio.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53c7f083e09db001a0a0b13b05adf96d"
+                }
+            ]
+        },
+        {
+            "file_id": "a2f1d360eec9a13fb2506b39946e2bc9",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La sconfitta di Hammer",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.021 - La sconfitta di Hammer.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a2f1d360eec9a13fb2506b39946e2bc9"
+                }
+            ]
+        },
+        {
+            "file_id": "32e5b9a7c6a3eee6617ec3e408dde10e",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La rabbia di Hulk",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.022 - La rabbia di Hulk.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/32e5b9a7c6a3eee6617ec3e408dde10e"
+                }
+            ]
+        },
+        {
+            "file_id": "d2d824b1d5e9ea989870653e87d85f47",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il ritorno di Iron Monger",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.023 - Il ritorno di Iron Monger.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d2d824b1d5e9ea989870653e87d85f47"
+                }
+            ]
+        },
+        {
+            "file_id": "a0421ad0a2c465dc7ffc224004ef3bf0",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il seme del drago",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.024 - Il seme del drago.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0421ad0a2c465dc7ffc224004ef3bf0"
+                }
+            ]
+        },
+        {
+            "file_id": "ce31679304af7fd4596a52f61d5881d2",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`invasione dei Makluan - Annientateli Parte 1",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.025 - L`invasione dei Makluan - Annientateli Parte 1.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ce31679304af7fd4596a52f61d5881d2"
+                }
+            ]
+        },
+        {
+            "file_id": "4233d576d1ce0a19d831998aaa5b7216",
+            "tmdb_id": 7330,
+            "saga": "Iron Man: Armored Adventures",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`invasione dei Makluan - Uniti Parte 2",
+            "fname": "/Anime & Cartoni/Iron Man: Armored Adventures (2009) [a7330]/2.026 - L`invasione dei Makluan - Uniti Parte 2.avi",
+            "year": "2009",
+            "actors": ["Adrian Petriw", "Anna Cummer", "Daniel Bacon"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4233d576d1ce0a19d831998aaa5b7216"
+                }
+            ]
+        }
     ]
 }

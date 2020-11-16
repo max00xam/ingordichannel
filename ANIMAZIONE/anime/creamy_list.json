@@ -1,596 +1,970 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 35529,
-			"number": "1x1",
-			"saga": "L'incantevole Creamy",
-			"title": "L`arca della stella piumata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a410e1971b1d57a3c13a9d3b2253541"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x2",
-			"saga": "L'incantevole Creamy",
-			"title": "È nata una stella",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e57057c2037f6a6ba94404e27e21c2b5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x3",
-			"saga": "L'incantevole Creamy",
-			"title": "Il debutto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/35b43f307c9064fbfd2e2fe29b93957e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x4",
-			"saga": "L'incantevole Creamy",
-			"title": "Scalata alle top ten",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9b308cd3061f0955f95b24dfaac8f289"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x5",
-			"saga": "L'incantevole Creamy",
-			"title": "Il segreto di Creamy è in pericolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0972180e03fb327107cae27279517eb6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x6",
-			"saga": "L'incantevole Creamy",
-			"title": "Il cervo leggendario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/77c1ded0909c82de54eda12d3bde220a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x7",
-			"saga": "L'incantevole Creamy",
-			"title": "Creamy e il nonnino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e879691064f6a97dfb0e917d76cff77"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x8",
-			"saga": "L'incantevole Creamy",
-			"title": "Il duetto miracoloso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/233f531453919099249ecc2025a03c4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x9",
-			"saga": "L'incantevole Creamy",
-			"title": "Una fata di mezza estate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c176f752cb75dc2f8c0731e5c3c08e85"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x10",
-			"saga": "L'incantevole Creamy",
-			"title": "Ciao Catherine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9cec2a80505c55b1e8c677827d024157"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x11",
-			"saga": "L'incantevole Creamy",
-			"title": "Papà è un motociclista di mezza età",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1932162b9c24feb35a96d72d6a0a6f0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x12",
-			"saga": "L'incantevole Creamy",
-			"title": "Il fantasma dello studio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8a992617589cb6fa604f61b13cbf9be8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x13",
-			"saga": "L'incantevole Creamy",
-			"title": "La dolcissima Creamy nello specchio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e8bfecd33a0b9f48204bc37f29b591a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x14",
-			"saga": "L'incantevole Creamy",
-			"title": "Il signore dei miei sogni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e7b5ea7e813b974713a117416216e118"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x15",
-			"saga": "L'incantevole Creamy",
-			"title": "L`angelo dai colori dell`arcobaleno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3eecb349011dfc95956bd7767ebd8b1c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x16",
-			"saga": "L'incantevole Creamy",
-			"title": "Il ricordo che svanì in mare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6e54ce82af4a4bd652bfb3cba264dfcb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x17",
-			"saga": "L'incantevole Creamy",
-			"title": "La foresta senza tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d836b24455110389ca8225bed1088786"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x18",
-			"saga": "L'incantevole Creamy",
-			"title": "Le avventure di Warashi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1d89318e1f17673b7413c49b372d8c51"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x19",
-			"saga": "L'incantevole Creamy",
-			"title": "Un giorno pieno di avventure",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ac3fea21950ea9ce4da6627d0c9e5fc1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x20",
-			"saga": "L'incantevole Creamy",
-			"title": "Un dono pericoloso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4f9322a6f35e16a890fa3c90d555313c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x21",
-			"saga": "L'incantevole Creamy",
-			"title": "Un party movimentato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0a7b8593e58f74ae3b95116d6b04dc25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x22",
-			"saga": "L'incantevole Creamy",
-			"title": "Midori e il piffero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/658df80b0431fc5a60f7aba45cfbce9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x23",
-			"saga": "L'incantevole Creamy",
-			"title": "La stella parasole",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1ca71c280f8a2097c7cd4f92932d42e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x24",
-			"saga": "L'incantevole Creamy",
-			"title": "Creamy e l`orso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/26620a701dcbe5711a2b370df8647b90"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x25",
-			"saga": "L'incantevole Creamy",
-			"title": "Guai grossi al festival della canzone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/87d93603917226ba3b7fe8c5ba3670d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x26",
-			"saga": "L'incantevole Creamy",
-			"title": "Addio poteri magici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b45c959e868a6eee7710014164ba2f23"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x27",
-			"saga": "L'incantevole Creamy",
-			"title": "Alla stella piumata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6b2ce54b39a2aedb65d1b0b10d31626e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x28",
-			"saga": "L'incantevole Creamy",
-			"title": "Il nuovo arrivato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8f798172a7a326948fb4ebd8c36889c8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x29",
-			"saga": "L'incantevole Creamy",
-			"title": "Panico sulla funivia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/64ba4f5f6487bd3b391a4119eb792648"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x30",
-			"saga": "L'incantevole Creamy",
-			"title": "Una lettera alla nonna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/09933248fcb375f436c04aa4cca2d12f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x31",
-			"saga": "L'incantevole Creamy",
-			"title": "Il ballo che passione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ed828a904b82ad8d3e0676645446de9d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x32",
-			"saga": "L'incantevole Creamy",
-			"title": "Il dolce di San Valentino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1604a75f6fc9b06196cafe7959e55a36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x33",
-			"saga": "L'incantevole Creamy",
-			"title": "Lo starnuto di Nega",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/69c008b56f22b8bd565efee4649f1d88"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x34",
-			"saga": "L'incantevole Creamy",
-			"title": "Joe Serpe al contrattacco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53bb7b7770d2472103f767739c259baf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x35",
-			"saga": "L'incantevole Creamy",
-			"title": "Pentagramma una donna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/48829cebe993b80ccc7f71cf085a3837"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x36",
-			"saga": "L'incantevole Creamy",
-			"title": "Il circo delle galassie 1985",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/87c3245be585e155edb49d96fee10c59"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x37",
-			"saga": "L'incantevole Creamy",
-			"title": "Gli occhi di Marion",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c016167ddf9cf3ea0a95da2eec234c32"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x38",
-			"saga": "L'incantevole Creamy",
-			"title": "Un club molto esclusivo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db1ebd04a0d46268117cf39eea4fbb45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x39",
-			"saga": "L'incantevole Creamy",
-			"title": "Ozilla il mostro marino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a8cb38ef9604795e3677f9179b446c63"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x40",
-			"saga": "L'incantevole Creamy",
-			"title": "Crepes contro frittelle assortite",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/346e61a3c4207f771e3e400ffdfd3404"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x41",
-			"saga": "L'incantevole Creamy",
-			"title": "Non studiare troppo Yu!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cfe662389b5b358d17743ed44a625b99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x42",
-			"saga": "L'incantevole Creamy",
-			"title": "Creamy contro Yu",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5c6f0c514d266ec65c4ea678df76b5a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x43",
-			"saga": "L'incantevole Creamy",
-			"title": "Corri Yu, corri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8407572bb28aee9b04b5de8f04634300"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x44",
-			"saga": "L'incantevole Creamy",
-			"title": "S",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/360b60a36e479fa4d39dab12b8424a1a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x45",
-			"saga": "L'incantevole Creamy",
-			"title": "Il bambino dai poteri soprannaturali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/36c4de8057b5283f002fdb2fb10d8442"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x46",
-			"saga": "L'incantevole Creamy",
-			"title": "Il pianista preferito di Creamy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/24b752c6d1449de12360a301405acdc9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x47",
-			"saga": "L'incantevole Creamy",
-			"title": "Il primo bacio di Creamy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/77a044f4e8cc4d9212691ec424629c5e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x48",
-			"saga": "L'incantevole Creamy",
-			"title": "Il primo appuntamento di Yu e Midori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a73b3da2382a3f376149fb7c0065e6ff"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x49",
-			"saga": "L'incantevole Creamy",
-			"title": "I tesori nascosti di Pentagramma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5cc817b87a8575fa761deb838a589f36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x50",
-			"saga": "L'incantevole Creamy",
-			"title": "Creamy scompare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c5c81c24c958d24204c857473a76ac37"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x51",
-			"saga": "L'incantevole Creamy",
-			"title": "È la fine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d8367048f0233b4fa852b1440dd4f2d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35529,
-			"number": "1x52",
-			"saga": "L'incantevole Creamy",
-			"title": "L`ultimo concerto di Creamy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4af1e47fba77ac43b258dfada0bd28f5"
-				}
-			]
-		},
-        {
+            "file_id": "d5b43906c3f7d5e01ac6b4db95353216",
             "tmdb_id": 35529,
-            "number": "Sigla",
             "saga": "L'incantevole Creamy",
-            "title": "Sigla finale.mp4",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione"],
+            "title": "L`arca della stella piumata",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.001 - L`arca della stella piumata.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/8752141e46c71a42e92631ceaebe8827"
+                    "url": "http://51.77.159.233:30299/d5b43906c3f7d5e01ac6b4db95353216"
                 }
             ]
         },
         {
+            "file_id": "fd7ed9cc3dbce3333872414a70c9487a",
             "tmdb_id": 35529,
-            "number": "Sigla",
             "saga": "L'incantevole Creamy",
-            "title": "Sigla iniziale.mp4",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione"],
+            "title": "\u00c8 nata una stella",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.002 - \u00c8 nata una stella.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/24ec1617b5f4ee078a7ccc65e5069068"
+                    "url": "http://51.77.159.233:30299/fd7ed9cc3dbce3333872414a70c9487a"
+                }
+            ]
+        },
+        {
+            "file_id": "9ebdfbad95e61a24f378b3a239799f2a",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione"],
+            "title": "Il debutto",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.003 - Il debutto.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ebdfbad95e61a24f378b3a239799f2a"
+                }
+            ]
+        },
+        {
+            "file_id": "41a6443932f0975e18c83e98acb46e6d",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione"],
+            "title": "Scalata alle top ten",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.004 - Scalata alle top ten.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/41a6443932f0975e18c83e98acb46e6d"
+                }
+            ]
+        },
+        {
+            "file_id": "c617c6a77b4f99576bc98cd6699841a3",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione"],
+            "title": "Il segreto di Creamy \u00e8 in pericolo",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.005 - Il segreto di Creamy \u00e8 in pericolo.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c617c6a77b4f99576bc98cd6699841a3"
+                }
+            ]
+        },
+        {
+            "file_id": "aff35a7be1a3da70ce889342c4721d95",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione"],
+            "title": "Il cervo leggendario",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.006 - Il cervo leggendario.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aff35a7be1a3da70ce889342c4721d95"
+                }
+            ]
+        },
+        {
+            "file_id": "3040f5370a10b6eeed51de61a31cc003",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione"],
+            "title": "Creamy e il nonnino",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.007 - Creamy e il nonnino.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3040f5370a10b6eeed51de61a31cc003"
+                }
+            ]
+        },
+        {
+            "file_id": "c391bffeca5776436d132a5eff8e9d50",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione"],
+            "title": "Il duetto miracoloso",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.008 - Il duetto miracoloso.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c391bffeca5776436d132a5eff8e9d50"
+                }
+            ]
+        },
+        {
+            "file_id": "91c685e0ab6dd0da579e0a24554a7394",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione"],
+            "title": "Una fata di mezza estate",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.009 - Una fata di mezza estate.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91c685e0ab6dd0da579e0a24554a7394"
+                }
+            ]
+        },
+        {
+            "file_id": "2d8dba2c47af40947c3efcd612dbf2e7",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione"],
+            "title": "Ciao Catherine",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.010 - Ciao Catherine.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d8dba2c47af40947c3efcd612dbf2e7"
+                }
+            ]
+        },
+        {
+            "file_id": "3d978759a2310bb40425c211c027e5e9",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione"],
+            "title": "Pap\u00e0 \u00e8 un motociclista di mezza et\u00e0",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.011 - Pap\u00e0 \u00e8 un motociclista di mezza et\u00e0.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3d978759a2310bb40425c211c027e5e9"
+                }
+            ]
+        },
+        {
+            "file_id": "ec968777a2b43f5e0e065307d162035b",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione"],
+            "title": "Il fantasma dello studio",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.012 - Il fantasma dello studio.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec968777a2b43f5e0e065307d162035b"
+                }
+            ]
+        },
+        {
+            "file_id": "70b79fbd35f5719353bc583fd547632f",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione"],
+            "title": "La dolcissima Creamy nello specchio",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.013 - La dolcissima Creamy nello specchio.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70b79fbd35f5719353bc583fd547632f"
+                }
+            ]
+        },
+        {
+            "file_id": "5588efb6a86fb71ebdfa85dcce1ae358",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "Il signore dei miei sogni",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.014 - Il signore dei miei sogni.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5588efb6a86fb71ebdfa85dcce1ae358"
+                }
+            ]
+        },
+        {
+            "file_id": "54b647f0bd3a07d8dc609e2120282b91",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione"],
+            "title": "L`angelo dai colori dell`arcobaleno",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.015 - L`angelo dai colori dell`arcobaleno.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/54b647f0bd3a07d8dc609e2120282b91"
+                }
+            ]
+        },
+        {
+            "file_id": "e79a4b93fc9b345154cdde793a33f0f2",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione"],
+            "title": "Il ricordo che svan\u00ec in mare",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.016 - Il ricordo che svan\u00ec in mare.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e79a4b93fc9b345154cdde793a33f0f2"
+                }
+            ]
+        },
+        {
+            "file_id": "4acdfbc27a6c6c1ded5729fd70870d78",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione"],
+            "title": "La foresta senza tempo",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.017 - La foresta senza tempo.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4acdfbc27a6c6c1ded5729fd70870d78"
+                }
+            ]
+        },
+        {
+            "file_id": "07db78a48d2094337fa970a84b2d4b15",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione"],
+            "title": "Le avventure di Warashi",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.018 - Le avventure di Warashi.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07db78a48d2094337fa970a84b2d4b15"
+                }
+            ]
+        },
+        {
+            "file_id": "2d788ee944908f6a8e9554a00220aaf8",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione"],
+            "title": "Un giorno pieno di avventure",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.019 - Un giorno pieno di avventure.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d788ee944908f6a8e9554a00220aaf8"
+                }
+            ]
+        },
+        {
+            "file_id": "33fdb2edd8b4e021784aa3b536f12366",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione"],
+            "title": "Un dono pericoloso",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.020 - Un dono pericoloso.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/33fdb2edd8b4e021784aa3b536f12366"
+                }
+            ]
+        },
+        {
+            "file_id": "82c408510dcf2c69ffb9c52925ecbc15",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione"],
+            "title": "Un party movimentato",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.021 - Un party movimentato.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82c408510dcf2c69ffb9c52925ecbc15"
+                }
+            ]
+        },
+        {
+            "file_id": "dec5aa1e82b19816b84a27b76265af3e",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione"],
+            "title": "Midori e il piffero",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.022 - Midori e il piffero.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dec5aa1e82b19816b84a27b76265af3e"
+                }
+            ]
+        },
+        {
+            "file_id": "2c2da7ac336590177be73d23d51ffa45",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione"],
+            "title": "La stella parasole",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.023 - La stella parasole.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c2da7ac336590177be73d23d51ffa45"
+                }
+            ]
+        },
+        {
+            "file_id": "449b0ddd1ebb918ed3839a8a72d05b98",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione"],
+            "title": "Creamy e l`orso",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.024 - Creamy e l`orso.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/449b0ddd1ebb918ed3839a8a72d05b98"
+                }
+            ]
+        },
+        {
+            "file_id": "67a38b87e9a7268f3515a8dbe33b153f",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione"],
+            "title": "Guai grossi al festival della canzone",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.025 - Guai grossi al festival della canzone.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/67a38b87e9a7268f3515a8dbe33b153f"
+                }
+            ]
+        },
+        {
+            "file_id": "c48182549ea2726a075abba911825eca",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione"],
+            "title": "Addio poteri magici",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.026 - Addio poteri magici.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c48182549ea2726a075abba911825eca"
+                }
+            ]
+        },
+        {
+            "file_id": "f89a15ab8625ad34fc785c7dfd1986c1",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione"],
+            "title": "Alla stella piumata",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.027 - Alla stella piumata.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f89a15ab8625ad34fc785c7dfd1986c1"
+                }
+            ]
+        },
+        {
+            "file_id": "1b831fd06a079f03ccefc35e13974be9",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione"],
+            "title": "Il nuovo arrivato",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.028 - Il nuovo arrivato.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b831fd06a079f03ccefc35e13974be9"
+                }
+            ]
+        },
+        {
+            "file_id": "3c70ec112822f39ec9991b3cbd84dae6",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione"],
+            "title": "Panico sulla funivia",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.029 - Panico sulla funivia.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3c70ec112822f39ec9991b3cbd84dae6"
+                }
+            ]
+        },
+        {
+            "file_id": "07a1cc3efe77742e2156c07e811540e3",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione"],
+            "title": "Una lettera alla nonna",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.030 - Una lettera alla nonna.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07a1cc3efe77742e2156c07e811540e3"
+                }
+            ]
+        },
+        {
+            "file_id": "c312460d152de98aadf1f538de59ab06",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione"],
+            "title": "Il ballo che passione",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.031 - Il ballo che passione.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c312460d152de98aadf1f538de59ab06"
+                }
+            ]
+        },
+        {
+            "file_id": "b9126af0044018c6693165b3f4244099",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione"],
+            "title": "Il dolce di San Valentino",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.032 - Il dolce di San Valentino.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9126af0044018c6693165b3f4244099"
+                }
+            ]
+        },
+        {
+            "file_id": "648749534d7f649026cffcf2997e3162",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione"],
+            "title": "Lo starnuto di Nega",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.033 - Lo starnuto di Nega.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/648749534d7f649026cffcf2997e3162"
+                }
+            ]
+        },
+        {
+            "file_id": "845c2b22c7ea194a3154a8e4b62a4f17",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione"],
+            "title": "Joe Serpe al contrattacco",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.034 - Joe Serpe al contrattacco.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/845c2b22c7ea194a3154a8e4b62a4f17"
+                }
+            ]
+        },
+        {
+            "file_id": "6a9f16f31703b3ca0f01ec5aebfaa9b3",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione"],
+            "title": "Pentagramma una donna",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.035 - Pentagramma una donna.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a9f16f31703b3ca0f01ec5aebfaa9b3"
+                }
+            ]
+        },
+        {
+            "file_id": "647ef8485d7aea71f33a23d4f21e7e9a",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione"],
+            "title": "Il circo delle galassie 1985",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.036 - Il circo delle galassie 1985.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/647ef8485d7aea71f33a23d4f21e7e9a"
+                }
+            ]
+        },
+        {
+            "file_id": "409fdd8884d6c40bc8a858b8a6e662f6",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione"],
+            "title": "Gli occhi di Marion",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.037 - Gli occhi di Marion.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/409fdd8884d6c40bc8a858b8a6e662f6"
+                }
+            ]
+        },
+        {
+            "file_id": "ac634cc3c42446df14979ea771122e17",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione"],
+            "title": "Un club molto esclusivo",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.038 - Un club molto esclusivo.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac634cc3c42446df14979ea771122e17"
+                }
+            ]
+        },
+        {
+            "file_id": "94023958c5dea7db5b0a6cdaf73a54b2",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione"],
+            "title": "Ozilla il mostro marino",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.039 - Ozilla il mostro marino.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94023958c5dea7db5b0a6cdaf73a54b2"
+                }
+            ]
+        },
+        {
+            "file_id": "4d83af57498b4151fd2eebfd5dcbbe3a",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione"],
+            "title": "Crepes contro frittelle assortite",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.040 - Crepes contro frittelle assortite.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d83af57498b4151fd2eebfd5dcbbe3a"
+                }
+            ]
+        },
+        {
+            "file_id": "7230f442feeeda5bc2b9a1ca64156a4f",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione"],
+            "title": "Non studiare troppo Yu!",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.041 - Non studiare troppo Yu!.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7230f442feeeda5bc2b9a1ca64156a4f"
+                }
+            ]
+        },
+        {
+            "file_id": "b7169f79b3032328d7476b0b6965a9ff",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione"],
+            "title": "Creamy contro Yu",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.042 - Creamy contro Yu.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b7169f79b3032328d7476b0b6965a9ff"
+                }
+            ]
+        },
+        {
+            "file_id": "582afdb17a0dc3e645b2c2916046a4cc",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione"],
+            "title": "Corri Yu, corri",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.043 - Corri Yu, corri.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/582afdb17a0dc3e645b2c2916046a4cc"
+                }
+            ]
+        },
+        {
+            "file_id": "abaf8cfcfb70ef2d8dc913078d2f25bb",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione"],
+            "title": "S",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.044 - S.O.S..mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/abaf8cfcfb70ef2d8dc913078d2f25bb"
+                }
+            ]
+        },
+        {
+            "file_id": "1ac6b8b9fb2fa14ede57a9fbaf81acec",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione"],
+            "title": "Il bambino dai poteri soprannaturali",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.045 - Il bambino dai poteri soprannaturali.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ac6b8b9fb2fa14ede57a9fbaf81acec"
+                }
+            ]
+        },
+        {
+            "file_id": "2193474a8275340b2d73e16de0e4f916",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Animazione"],
+            "title": "Il pianista preferito di Creamy",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.046 - Il pianista preferito di Creamy.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2193474a8275340b2d73e16de0e4f916"
+                }
+            ]
+        },
+        {
+            "file_id": "86c85a4ad043b3cf3f08686baf739a99",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Animazione"],
+            "title": "Il primo bacio di Creamy",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.047 - Il primo bacio di Creamy.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/86c85a4ad043b3cf3f08686baf739a99"
+                }
+            ]
+        },
+        {
+            "file_id": "509e121b3454eaa614e0d584dd40c76d",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Animazione"],
+            "title": "Il primo appuntamento di Yu e Midori",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.048 - Il primo appuntamento di Yu e Midori.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/509e121b3454eaa614e0d584dd40c76d"
+                }
+            ]
+        },
+        {
+            "file_id": "4cd8dfb883944a3ac176d156a2e22f35",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Animazione"],
+            "title": "I tesori nascosti di Pentagramma",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.049 - I tesori nascosti di Pentagramma.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4cd8dfb883944a3ac176d156a2e22f35"
+                }
+            ]
+        },
+        {
+            "file_id": "3ef1291508d8ca0a5a00d2f27fcdbf16",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Animazione"],
+            "title": "Creamy scompare",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.050 - Creamy scompare.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ef1291508d8ca0a5a00d2f27fcdbf16"
+                }
+            ]
+        },
+        {
+            "file_id": "1fa378b2de72a9ec5f15a1c6233fdeac",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 51,
+            "genre": ["Animazione"],
+            "title": "\u00c8 la fine",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.051 - \u00c8 la fine.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1fa378b2de72a9ec5f15a1c6233fdeac"
+                }
+            ]
+        },
+        {
+            "file_id": "fe64a9a11e4d92c04c6f6ffe3eeeba7f",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "season": 1,
+            "episode": 52,
+            "genre": ["Animazione"],
+            "title": "L`ultimo concerto di Creamy",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/1.052 - L`ultimo concerto di Creamy.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fe64a9a11e4d92c04c6f6ffe3eeeba7f"
+                }
+            ]
+        },
+        {
+            "file_id": "7d47caf7a727e7d8f50ad261806fe847",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "genre": ["Animazione"],
+            "title": "Sigla finale",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/Sigla finale.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d47caf7a727e7d8f50ad261806fe847"
+                }
+            ]
+        },
+        {
+            "file_id": "d68fea36dee56ca4e6143c51822b89e6",
+            "tmdb_id": 35529,
+            "saga": "L'incantevole Creamy",
+            "genre": ["Animazione"],
+            "title": "Sigla iniziale",
+            "fname": "/Anime & Cartoni/L'incantevole Creamy [a35529]/Sigla iniziale.mp4",
+            "year": "1983",
+            "plot": "L'incantevole Creamy (\u9b54\u6cd5\u306e\u5929\u4f7f\u30af\u30ea\u30a3\u30df\u30fc\u30de\u30df Mah\u014d no tenshi Kur\u012bmi Mami, lett. \"L'angelo della magia Creamy Mami\") \u00e8 una serie televisiva anime di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo[1]. L'anime gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione.",
+            "actors": ["Kazuhiko Inoue", "Saeko Shimazu", "Kaneta Kimotsuki", "Mika Doi", "Sukekiyo Kameyama", "Takako Ohta", "Y\u016bko Mita", "Masahiro Anzai", "Yuu Mizushima", "J\u014dji Yanami", "Minoru Inaba", "Naoko Matsui", "Seiko Nakano", "Naomi Jinb\u00f4", "Akira Murayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d68fea36dee56ca4e6143c51822b89e6"
                 }
             ]
         }

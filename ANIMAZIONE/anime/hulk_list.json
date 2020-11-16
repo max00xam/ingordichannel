@@ -1,378 +1,616 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 6332,
-			"number": "1x1",
-			"saga": "L'Incredibile Hulk",
-			"title": "The Return of the Beast (1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b4e0617a79063524e093ce3e25eaa95a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x2",
-			"saga": "L'Incredibile Hulk",
-			"title": "The Return of the Beast (2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/add5e5eb298fd5816a3a2d234330b49b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x3",
-			"saga": "L'Incredibile Hulk",
-			"title": "Raw Power",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5e31728cad25cf9dee943882c864f521"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x4",
-			"saga": "L'Incredibile Hulk",
-			"title": "Helping Hand, Iron Fist",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1208b60de0df0aa7254e30875e4fca0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x5",
-			"saga": "L'Incredibile Hulk",
-			"title": "Innocent Blood",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65a41bc44eadf92b24bf615ccc552e7c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x6",
-			"saga": "L'Incredibile Hulk",
-			"title": "Man to Man, Beast to Beast",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d386050e8770bbd52afff1ec8d22ab62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x7",
-			"saga": "L'Incredibile Hulk",
-			"title": "Doomed",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/edcf1fbba9383df86fbe470ae3b92da9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x8",
-			"saga": "L'Incredibile Hulk",
-			"title": "Fantastic Fortitude",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/80fa3098afb617c089acdb058a4a5b38"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x9",
-			"saga": "L'Incredibile Hulk",
-			"title": "Mortal Bounds",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74cafc9c11a9a55004db91ac1cabb2a5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x10",
-			"saga": "L'Incredibile Hulk",
-			"title": "And the Wind Cries…Wendigo!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5d85c0ffd443a8a9a20966fd27e4c721"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x11",
-			"saga": "L'Incredibile Hulk",
-			"title": "Darkness and Light (1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fc7c778eb1e29a8f127380470406b8f3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x12",
-			"saga": "L'Incredibile Hulk",
-			"title": "Darkness and Light (2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/176ba530c6422f880560394af8104878"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "1x13",
-			"saga": "L'Incredibile Hulk",
-			"title": "Darkness and Light (3)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/746faf97fb5993cc467e0d7be6217200"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x01",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.1 - A Hulk of a Different Color",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c80e86f77a58715e81e9171b8e3e6e3b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x02",
-			"saga": "L'Incredibile Hulk",
-			"title": "Down Memory Lane",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/176d39674ec6aed9d7a06c7a14173648"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x03",
-			"saga": "L'Incredibile Hulk",
-			"title": "Mind Over Anti-Matter",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e3373f8495252117a911aefab8941d89"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x04",
-			"saga": "L'Incredibile Hulk",
-			"title": "They Call Me Mr. Fixit",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/256d18acb96199872eb508dd9e53ae8b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x05",
-			"saga": "L'Incredibile Hulk",
-			"title": "Fashion Warriors",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f45b6251f9af9dc6b4b259dc6eca6af1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x06",
-			"saga": "L'Incredibile Hulk",
-			"title": "Hollywood Rocks",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8b4a000a4056b598ce13b47877e9eb30"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x07",
-			"saga": "L'Incredibile Hulk",
-			"title": "The Lost Village",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1e4a2ad57888225516829be54c784b8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x08",
-			"saga": "L'Incredibile Hulk",
-			"title": "Mission Incredible",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c58646243c0465dc15755415da765fbf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x09",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.009",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cba5377e09d942282d3c8b3e47a1a294"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x10",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.010",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7a7b75d318fc7522a954d173578d1e3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x11",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.011",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/239af41aaa3d9aba0b4c9b0308421aa5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x12",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.012",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c3a025030af66a0c88e7aa5a3eaaa5d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x13",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.013",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/835559fe6ee3385a30f65c00537c9a3f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x14",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.014",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1612094d6303702f053ed9a39e60f878"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x15",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.015",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d90a70bd8a564a29becc9c4050989dc6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x16",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.016",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fc0a0bcbd3f54b19811e231c2236555e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x17",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.017",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c072a013713f5b16d7a2f237d61e107e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x18",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.018",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/45052594bda9907dcd024c7330f376f6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x19",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.019",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f93d93dc8b1ce3de66a9e0bb646b305"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x20",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.020",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd500e38591340c350c1826d3137dd19"
-				}
-			]
-		},
-		{
-			"tmdb_id": 6332,
-			"number": "2x21",
-			"saga": "L'Incredibile Hulk",
-			"title": "2.021",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c8726bf1f88e4818c788227dbe108bf"
-				}
-			]
-		}
+            "file_id": "e199b7fe40cb0c554eba707ca053d5a3",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "The Return of the Beast",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.001 - The Return of the Beast (1).mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e199b7fe40cb0c554eba707ca053d5a3"
+                }
+            ]
+        },
+        {
+            "file_id": "cebde4409d1c4d2a772f40af6a39a065",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "The Return of the Beast",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.002 - The Return of the Beast (2).mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cebde4409d1c4d2a772f40af6a39a065"
+                }
+            ]
+        },
+        {
+            "file_id": "0683d75996bc667ef57960c2fb6e2f10",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Raw Power",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.003 - Raw Power.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0683d75996bc667ef57960c2fb6e2f10"
+                }
+            ]
+        },
+        {
+            "file_id": "f2638225e2adc69c2aed9de3f040071b",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Helping Hand, Iron Fist",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.004 - Helping Hand, Iron Fist.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f2638225e2adc69c2aed9de3f040071b"
+                }
+            ]
+        },
+        {
+            "file_id": "e905fa93741d3fc1cbf6bee39984d686",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Innocent Blood",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.005 - Innocent Blood.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e905fa93741d3fc1cbf6bee39984d686"
+                }
+            ]
+        },
+        {
+            "file_id": "3ad3fd48831c6a9ebb76f7df4565c168",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Man to Man, Beast to Beast",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.006 - Man to Man, Beast to Beast.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ad3fd48831c6a9ebb76f7df4565c168"
+                }
+            ]
+        },
+        {
+            "file_id": "a2c22f3126b1d786af7c44036ef79474",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Doomed",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.007 - Doomed.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a2c22f3126b1d786af7c44036ef79474"
+                }
+            ]
+        },
+        {
+            "file_id": "38503ef82dcfe9f09fb90f19a4b6bc85",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Fantastic Fortitude",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.008 - Fantastic Fortitude.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38503ef82dcfe9f09fb90f19a4b6bc85"
+                }
+            ]
+        },
+        {
+            "file_id": "7f555d29fdc7fb6525680807b9bdd984",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Mortal Bounds",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.009 - Mortal Bounds.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f555d29fdc7fb6525680807b9bdd984"
+                }
+            ]
+        },
+        {
+            "file_id": "6138b7db17a3db1c8cf35a3e86997196",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "And the Wind Cries\u2026Wendigo!",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.010 - And the Wind Cries\u2026Wendigo!.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6138b7db17a3db1c8cf35a3e86997196"
+                }
+            ]
+        },
+        {
+            "file_id": "50a694f5d287ff9b0c5e9359af4905c9",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Darkness and Light",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.011 - Darkness and Light (1).mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50a694f5d287ff9b0c5e9359af4905c9"
+                }
+            ]
+        },
+        {
+            "file_id": "ead6df2632c343e53a9953e2e17e3dc4",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Darkness and Light",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.012 - Darkness and Light (2).mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ead6df2632c343e53a9953e2e17e3dc4"
+                }
+            ]
+        },
+        {
+            "file_id": "57d4c73792941a9c9f7d2aacbd2561ac",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "Darkness and Light",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/1.013 - Darkness and Light (3).mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57d4c73792941a9c9f7d2aacbd2561ac"
+                }
+            ]
+        },
+        {
+            "file_id": "2c3457785f4a1fb93ba8c92532753156",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.001.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.001.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c3457785f4a1fb93ba8c92532753156"
+                }
+            ]
+        },
+        {
+            "file_id": "96d549022d0c68a5d5f712678dbfa082",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.002.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.002.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96d549022d0c68a5d5f712678dbfa082"
+                }
+            ]
+        },
+        {
+            "file_id": "a6d3f993e8db6fab34e95a04a1129d87",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.003.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.003.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6d3f993e8db6fab34e95a04a1129d87"
+                }
+            ]
+        },
+        {
+            "file_id": "a0401aa54ef582ec8c08a4121b00c666",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.004.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.004.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0401aa54ef582ec8c08a4121b00c666"
+                }
+            ]
+        },
+        {
+            "file_id": "4935e94e2620343cfd7879478c501abc",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.005.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.005.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4935e94e2620343cfd7879478c501abc"
+                }
+            ]
+        },
+        {
+            "file_id": "eb0c9ac7a16cb69bd023fb3b06ce9a1c",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.006.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.006.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eb0c9ac7a16cb69bd023fb3b06ce9a1c"
+                }
+            ]
+        },
+        {
+            "file_id": "b7661d863d64b860c5c6e448aacddca9",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.007.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.007.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b7661d863d64b860c5c6e448aacddca9"
+                }
+            ]
+        },
+        {
+            "file_id": "955de005937a5f4be6fabf98eb0b77fb",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.008.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.008.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/955de005937a5f4be6fabf98eb0b77fb"
+                }
+            ]
+        },
+        {
+            "file_id": "e9e580a3b43b36585e1449bdd1b30ad5",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.009.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.009.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e9e580a3b43b36585e1449bdd1b30ad5"
+                }
+            ]
+        },
+        {
+            "file_id": "257e821b8bd55ae259df808172d1b16a",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.010.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.010.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/257e821b8bd55ae259df808172d1b16a"
+                }
+            ]
+        },
+        {
+            "file_id": "0c0a3362369570e984435009f9d03a4d",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.011.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.011.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c0a3362369570e984435009f9d03a4d"
+                }
+            ]
+        },
+        {
+            "file_id": "910b0ca3932699b5a9f8270d4cbdd1c9",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.012.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.012.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/910b0ca3932699b5a9f8270d4cbdd1c9"
+                }
+            ]
+        },
+        {
+            "file_id": "72a2b733ee0ae19d5665bcf4608c86b8",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.013.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.013.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/72a2b733ee0ae19d5665bcf4608c86b8"
+                }
+            ]
+        },
+        {
+            "file_id": "4089937908a35518c55a670bf3869e82",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.014.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.014.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4089937908a35518c55a670bf3869e82"
+                }
+            ]
+        },
+        {
+            "file_id": "867708553ace71ccdf17ed19a6c93873",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.015.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.015.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/867708553ace71ccdf17ed19a6c93873"
+                }
+            ]
+        },
+        {
+            "file_id": "aaeae6956c85ee0133770ea1b79ce52e",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.016.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.016.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aaeae6956c85ee0133770ea1b79ce52e"
+                }
+            ]
+        },
+        {
+            "file_id": "f25a3b5ba81731a484d9795685182ae8",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.017.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.017.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f25a3b5ba81731a484d9795685182ae8"
+                }
+            ]
+        },
+        {
+            "file_id": "99b33b6fbfa2a9377fc3798f240d3dbe",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.018.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.018.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/99b33b6fbfa2a9377fc3798f240d3dbe"
+                }
+            ]
+        },
+        {
+            "file_id": "72077b7182cf0c01fb677c9a6fc01c59",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.019.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.019.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/72077b7182cf0c01fb677c9a6fc01c59"
+                }
+            ]
+        },
+        {
+            "file_id": "bec2a8684b3cb392c241f91cff1b454a",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.020.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.020.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bec2a8684b3cb392c241f91cff1b454a"
+                }
+            ]
+        },
+        {
+            "file_id": "af5b7c42d6b2b710f1ee09c0e4171e83",
+            "tmdb_id": 6332,
+            "saga": "L'Incredibile Hulk",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure", "Dramma"],
+            "title": "2.021.mp4",
+            "fname": "/Anime & Cartoni/L'Incredibile Hulk (1996) [a6332]/2.021.mp4",
+            "year": "1996",
+            "plot": "L'incredibile Hulk\u00a0(The Incredible Hulk) \u00e8 una serie televisiva a\u00a0cartoni animati\u00a0basata sul\u00a0fumetto omonimo\u00a0della\u00a0Marvel Comics. La serie \u00e8 stata prodotta nel\u00a01996\u00a0dalla\u00a0Genesis Entertainment\u00a0e dai\u00a0Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di\u00a0Hulk\u00a0\u00e8 di\u00a0Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di\u00a0She-Hulk\u00a0e\u00a0Doc Samson, mentre ci sono numerose guest-star dall'universo\u00a0Marvel\u00a0tra i quali\u00a0Iron Man,\u00a0War Machine,\u00a0Thor,\u00a0Dottor Strange,\u00a0Ghost Rider\u00a0e persino\u00a0I Fantastici 4.",
+            "actors": ["Matt Frewer", "Mark Hamill", "Lou Ferrigno", "John Vernon", "Cree Summer", "Genie Francis", "Kevin Schon", "Luke Perry", "Michael Donovan", "Neal McDonough"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/af5b7c42d6b2b710f1ee09c0e4171e83"
+                }
+            ]
+        }
     ]
 }

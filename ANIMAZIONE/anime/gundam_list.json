@@ -1,642 +1,1144 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 21730,
-			"number": "0x5",
-			"saga": "Mobile Gundam Wing",
-			"title": "Endless Waltz 1 - Orbita Silenziosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e6053dcade0cea481acc4f259764a611"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x6",
-			"saga": "Mobile Gundam Wing",
-			"title": "Endless Waltz 2 - Operazione Meteora",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c166bfd8254a4f3d9694e4a58256120f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x7",
-			"saga": "Mobile Gundam Wing",
-			"title": "Endless Waltz 3 - Fino All`Eternità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e625d69cb5336071009af23849cd69c6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "SIGLA",
-			"saga": "Mobile Gundam Wing",
-			"title": "Sigla iniziale.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/35ee2ebc5e8d454ed873c428a342f979"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "SIGLA",
-			"saga": "Mobile Gundam Wing",
-			"title": "Sigla finale.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b168e6172bcf70947941016c6dff91c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x1",
-			"saga": "Mobile Gundam Wing",
-			"title": "Testimone della caduta di una stella",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/90c86415e180701485ad8b9cfbfa1df1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x2",
-			"saga": "Mobile Gundam Wing",
-			"title": "Attacco a sorpresa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/84e558bb546799cc8c84edd69127286e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x3",
-			"saga": "Mobile Gundam Wing",
-			"title": "Cinque Gundam sulla Terra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dd20e23f5889f0016fda80c2ef4c7cc1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x4",
-			"saga": "Mobile Gundam Wing",
-			"title": "Incubo alla base Vittoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/22a48e151ac10fd86f4348d05ff4247a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x5",
-			"saga": "Mobile Gundam Wing",
-			"title": "Il segreto di Relena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a2151463e35aa92d4e4355d66d52bac4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x6",
-			"saga": "Mobile Gundam Wing",
-			"title": "La sera della festa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76154627ca161f636997e829b740f4b5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x7",
-			"saga": "Mobile Gundam Wing",
-			"title": "Duplice inganno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9e9801432c1a19ed15226ebf849f96b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x8",
-			"saga": "Mobile Gundam Wing",
-			"title": "Faccia a faccia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9ee92a2d294ed69cdb97881bde448e7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x9",
-			"saga": "Mobile Gundam Wing",
-			"title": "Ritratto di un paese in rovina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a97ce69f31f540dc52e3b15fd8c107a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x10",
-			"saga": "Mobile Gundam Wing",
-			"title": "La resa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4fd6152999d33fa7cde8ab65bf8da6f2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x11",
-			"saga": "Mobile Gundam Wing",
-			"title": "L`imboscata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6033223e34a8e58a487f22450221caef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x12",
-			"saga": "Mobile Gundam Wing",
-			"title": "Incertezze",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76e1e66565286b364b85e2a2a407b00f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x13",
-			"saga": "Mobile Gundam Wing",
-			"title": "Le lacrime di Catherine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/076e79085cb7f25766fb79f5e3553aee"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x14",
-			"saga": "Mobile Gundam Wing",
-			"title": "La distruzione del Gundam",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6b2ed7062759a1472b8f6ad9ef145163"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x15",
-			"saga": "Mobile Gundam Wing",
-			"title": "Battaglia in Antartide",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b6d70e01a05b1527fb20a61075cc5b04"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x16",
-			"saga": "Mobile Gundam Wing",
-			"title": "Scontro di ideali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/09fe3813ed2385682a351d437ddad933"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x17",
-			"saga": "Mobile Gundam Wing",
-			"title": "Nemici in patria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8d422b86dee7933aabfa05af6bccecc3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x18",
-			"saga": "Mobile Gundam Wing",
-			"title": "Nemici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b5280d7d5d1b9afbb4fce1abedf15212"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x19",
-			"saga": "Mobile Gundam Wing",
-			"title": "Attacco alla piattaforma spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ca387d56d8edc556e543b53a1c2ebb9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x20",
-			"saga": "Mobile Gundam Wing",
-			"title": "Attacco alla Base Lunare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d3606606e70ee2c74e6a8f0765888bec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x21",
-			"saga": "Mobile Gundam Wing",
-			"title": "Lacrime tra le stelle",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3acfdfb7d68e0b5a81d4c31d6b59ded"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x22",
-			"saga": "Mobile Gundam Wing",
-			"title": "Battaglia per l`indipendenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0433b0533e8329d02745ba2c7b1a956c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x23",
-			"saga": "Mobile Gundam Wing",
-			"title": "La cattura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/df5db57373190cfe67203f57f09e7b38"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x24",
-			"saga": "Mobile Gundam Wing",
-			"title": "Un inaspettato nemico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9578662538693a777684430725167cf2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x25",
-			"saga": "Mobile Gundam Wing",
-			"title": "Un grido di rivolta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f12f75f6b6430c7528fd764792c0ce25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x26",
-			"saga": "Mobile Gundam Wing",
-			"title": "L`eterna fiamma della ribellione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a5b1f6ee779efceaba41d4db03e542f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x27",
-			"saga": "Mobile Gundam Wing",
-			"title": "Il valzer dei ricordi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ab48d3cf8ec5ab87feb8dde1587f249e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x28",
-			"saga": "Mobile Gundam Wing",
-			"title": "Tempo di bilanci",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c01e9d0348d150c4a5de9843502f4849"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x29",
-			"saga": "Mobile Gundam Wing",
-			"title": "L`altra meta` del cielo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5c635d016374467b61c11b03916ab2d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x30",
-			"saga": "Mobile Gundam Wing",
-			"title": "L`incontro con Relena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c12830d0470a6a42136d36d2b365146b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x31",
-			"saga": "Mobile Gundam Wing",
-			"title": "Il regno di cristallo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ad95ee22afd3ef772e871f879eace94"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x32",
-			"saga": "Mobile Gundam Wing",
-			"title": "Prova ad alto rischio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ecb3dc73dab49e986b6c6d4a242f626a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x33",
-			"saga": "Mobile Gundam Wing",
-			"title": "Sotto la maschera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e092cdca2a41811eee43385a14082e4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x34",
-			"saga": "Mobile Gundam Wing",
-			"title": "Una nuova prova",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d34fee0765e93f926b8b5c89a3cf6344"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x35",
-			"saga": "Mobile Gundam Wing",
-			"title": "Nuove speranze",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/780e82257b85e9086db1605fe86cfc93"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x36",
-			"saga": "Mobile Gundam Wing",
-			"title": "La decisione di Relena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b20db12b2d51ca641738455bb904161e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x37",
-			"saga": "Mobile Gundam Wing",
-			"title": "Ideali di pace",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5dd9de9a04eb9ae07a13fcdae207fdda"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x38",
-			"saga": "Mobile Gundam Wing",
-			"title": "L`incoronazione della regina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d8927232661a9054fe00c73d2468e954"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x39",
-			"saga": "Mobile Gundam Wing",
-			"title": "Il ritorno di Trowa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0480066f0e965e22fe8ffa53477f0588"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x40",
-			"saga": "Mobile Gundam Wing",
-			"title": "Un nuovo leader",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74de78ac24536fcc2525142c8d9d31e5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x41",
-			"saga": "Mobile Gundam Wing",
-			"title": "Battaglia alla piattaforma spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c1cbcee74c0e13c991319ab1d23deb7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x42",
-			"saga": "Mobile Gundam Wing",
-			"title": "Preparativi di guerra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b26530b5bbb38a79c8303610742ab3be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x43",
-			"saga": "Mobile Gundam Wing",
-			"title": "Obiettivo Il pianeta Terra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5eac80cf80338b4a7c57edb68c97a0ea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x44",
-			"saga": "Mobile Gundam Wing",
-			"title": "Formazione d`attacco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a76078434be0856c98e9dba228a13e0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x45",
-			"saga": "Mobile Gundam Wing",
-			"title": "Verso lo scontro finale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b81da5a783daa1238b42496b465e9bbd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x46",
-			"saga": "Mobile Gundam Wing",
-			"title": "Il rifiuto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/841ba83d1b9664fd27789adb22d41ba9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x47",
-			"saga": "Mobile Gundam Wing",
-			"title": "Collisione nello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/29ab6cdc345f36bc3df6b62e804524f8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x48",
-			"saga": "Mobile Gundam Wing",
-			"title": "Conto alla rovescia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1eca2b3ea3f6396bc697365f6229d3d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "1x49",
-			"saga": "Mobile Gundam Wing",
-			"title": "La vittoria finale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f56b21c5342267237e253fffec3cb598"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x0",
-			"saga": "Mobile Gundam Wing",
-			"title": "Extra 1.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c4aaec64c34abb1eae6fb7e22291d944"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x0",
-			"saga": "Mobile Gundam Wing",
-			"title": "Extra 2.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7a5076f4193c5970f21c91e2aec7b78"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x0",
-			"saga": "Mobile Gundam Wing",
-			"title": "Extra 3.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a21498e1d4b7d65ac6759c1c68a188e7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 21730,
-			"number": "0x0",
-			"saga": "Mobile Gundam Wing",
-			"title": "Extra 4.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b2472237e821a70a29223ce92353aa8"
-				}
-			]
-		}
+            "file_id": "c50533ea4af737ba90517a28ea78c59c",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 0,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Endless Waltz 1 - Orbita Silenziosa",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/0.005 - Endless Waltz 1 - Orbita Silenziosa.avi",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c50533ea4af737ba90517a28ea78c59c"
+                }
+            ]
+        },
+        {
+            "file_id": "08a016af2c22e75989bae6ff1639560e",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 0,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Endless Waltz 2 - Operazione Meteora",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/0.006 - Endless Waltz 2 - Operazione Meteora.avi",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/08a016af2c22e75989bae6ff1639560e"
+                }
+            ]
+        },
+        {
+            "file_id": "e151f78a10df3bc2018ae97cb54dd913",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 0,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Endless Waltz 3 - Fino All`Eternit\u00e0",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/0.007 - Endless Waltz 3 - Fino All`Eternit\u00e0.avi",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e151f78a10df3bc2018ae97cb54dd913"
+                }
+            ]
+        },
+        {
+            "file_id": "94ed42c89ebe6c5ad6908c685114ed65",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "00a sigla iniziale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00a sigla iniziale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94ed42c89ebe6c5ad6908c685114ed65"
+                }
+            ]
+        },
+        {
+            "file_id": "0447646c82c7e5d229def95f447cad1b",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "00b sigla finale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/00b sigla finale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0447646c82c7e5d229def95f447cad1b"
+                }
+            ]
+        },
+        {
+            "file_id": "18a9befaf4cfcf3da32ee9890bb6078d",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Testimone della caduta di una stella",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.001 - Testimone della caduta di una stella.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/18a9befaf4cfcf3da32ee9890bb6078d"
+                }
+            ]
+        },
+        {
+            "file_id": "0c8d27f36305049e084770b7addc55e5",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Attacco a sorpresa",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.002 - Attacco a sorpresa.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c8d27f36305049e084770b7addc55e5"
+                }
+            ]
+        },
+        {
+            "file_id": "9b32631c3408b35b74f218e05e846604",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Cinque Gundam sulla Terra",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.003 - Cinque Gundam sulla Terra.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9b32631c3408b35b74f218e05e846604"
+                }
+            ]
+        },
+        {
+            "file_id": "2e7dde2d2321c39caeaa6aa2fe225a88",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Incubo alla base Vittoria",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.004 - Incubo alla base Vittoria.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2e7dde2d2321c39caeaa6aa2fe225a88"
+                }
+            ]
+        },
+        {
+            "file_id": "2db381dd79e55b6b1bfc9e68651e7960",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il segreto di Relena",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.005 - Il segreto di Relena.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2db381dd79e55b6b1bfc9e68651e7960"
+                }
+            ]
+        },
+        {
+            "file_id": "7f5de68a8d1acc89ee0c3471a43a75ae",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La sera della festa",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.006 - La sera della festa.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f5de68a8d1acc89ee0c3471a43a75ae"
+                }
+            ]
+        },
+        {
+            "file_id": "3b43050f23eb1b6bc5bb3f1eb6a9db82",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Duplice inganno",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.007 - Duplice inganno.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b43050f23eb1b6bc5bb3f1eb6a9db82"
+                }
+            ]
+        },
+        {
+            "file_id": "b4cb2fcc4560ad7faa379131bdbd156c",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Faccia a faccia",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.008 - Faccia a faccia.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b4cb2fcc4560ad7faa379131bdbd156c"
+                }
+            ]
+        },
+        {
+            "file_id": "7d2fcae80fc0e8d267345afa33ce82c7",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ritratto di un paese in rovina",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.009 - Ritratto di un paese in rovina.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d2fcae80fc0e8d267345afa33ce82c7"
+                }
+            ]
+        },
+        {
+            "file_id": "95f932cab9c2f235d28169f384de98dc",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La resa",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.010 - La resa.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/95f932cab9c2f235d28169f384de98dc"
+                }
+            ]
+        },
+        {
+            "file_id": "28905aec5668e034139ff9194dbb913e",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`imboscata",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.011 - L`imboscata.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/28905aec5668e034139ff9194dbb913e"
+                }
+            ]
+        },
+        {
+            "file_id": "a71c409d074e4ab7e6d5d40c0d110ad6",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Incertezze",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.012 - Incertezze.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a71c409d074e4ab7e6d5d40c0d110ad6"
+                }
+            ]
+        },
+        {
+            "file_id": "ed47cfa74926acb20dce4973727895d2",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Le lacrime di Catherine",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.013 - Le lacrime di Catherine.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed47cfa74926acb20dce4973727895d2"
+                }
+            ]
+        },
+        {
+            "file_id": "74c7955031ef2072b56319d8e967fbce",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La distruzione del Gundam",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.014 - La distruzione del Gundam.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74c7955031ef2072b56319d8e967fbce"
+                }
+            ]
+        },
+        {
+            "file_id": "845a9a8f36f2bbeffbd8e56f393a41ac",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Battaglia in Antartide",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.015 - Battaglia in Antartide.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/845a9a8f36f2bbeffbd8e56f393a41ac"
+                }
+            ]
+        },
+        {
+            "file_id": "e8c7c5c408c27471cbb85e75545d07bc",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Scontro di ideali",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.016 - Scontro di ideali.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8c7c5c408c27471cbb85e75545d07bc"
+                }
+            ]
+        },
+        {
+            "file_id": "ad1ac6d2c0629a5d9e5b758ed066d53a",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nemici in patria",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.017 - Nemici in patria.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad1ac6d2c0629a5d9e5b758ed066d53a"
+                }
+            ]
+        },
+        {
+            "file_id": "788a62b4c60c711818f3558c210cf711",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nemici",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.018 - Nemici.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/788a62b4c60c711818f3558c210cf711"
+                }
+            ]
+        },
+        {
+            "file_id": "aac99fe707e912a73a304e8d540e85a0",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Attacco alla piattaforma spaziale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.019 - Attacco alla piattaforma spaziale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aac99fe707e912a73a304e8d540e85a0"
+                }
+            ]
+        },
+        {
+            "file_id": "12509145fb644c0963d9365bd5db8d49",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Attacco alla Base Lunare",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.020 - Attacco alla Base Lunare.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/12509145fb644c0963d9365bd5db8d49"
+                }
+            ]
+        },
+        {
+            "file_id": "a9ee33bbe59dacf8442fdd12dbdc50c3",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Lacrime tra le stelle",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.021 - Lacrime tra le stelle.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a9ee33bbe59dacf8442fdd12dbdc50c3"
+                }
+            ]
+        },
+        {
+            "file_id": "a9c0ed3e84c9f74ed298296af11b54c5",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Battaglia per l`indipendenza",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.022 - Battaglia per l`indipendenza.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a9c0ed3e84c9f74ed298296af11b54c5"
+                }
+            ]
+        },
+        {
+            "file_id": "89d79d5511d3064219529295daa4275c",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La cattura",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.023 - La cattura.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/89d79d5511d3064219529295daa4275c"
+                }
+            ]
+        },
+        {
+            "file_id": "791a5e593d4874e41db39593c63ea20b",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Un inaspettato nemico",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.024 - Un inaspettato nemico.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/791a5e593d4874e41db39593c63ea20b"
+                }
+            ]
+        },
+        {
+            "file_id": "d2599eaf0c8956c24d8cb58506cd6af7",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Un grido di rivolta",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.025 - Un grido di rivolta.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d2599eaf0c8956c24d8cb58506cd6af7"
+                }
+            ]
+        },
+        {
+            "file_id": "35f90c78d2ddc01f6d6d5530d0f32b77",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`eterna fiamma della ribellione",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.026 - L`eterna fiamma della ribellione.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/35f90c78d2ddc01f6d6d5530d0f32b77"
+                }
+            ]
+        },
+        {
+            "file_id": "684973e17854d18a6da368f7c2b15f96",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il valzer dei ricordi",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.027 - Il valzer dei ricordi.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/684973e17854d18a6da368f7c2b15f96"
+                }
+            ]
+        },
+        {
+            "file_id": "c3d746b60a787778c7c41f1b86299a7e",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Tempo di bilanci",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.028 - Tempo di bilanci.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c3d746b60a787778c7c41f1b86299a7e"
+                }
+            ]
+        },
+        {
+            "file_id": "3f11989b0a7797319e6e3e21264abf80",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`altra meta` del cielo",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.029 - L`altra meta` del cielo.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f11989b0a7797319e6e3e21264abf80"
+                }
+            ]
+        },
+        {
+            "file_id": "d5db78bd4b7df95bf79e35ce7bbbd784",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`incontro con Relena",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.030 - L`incontro con Relena.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d5db78bd4b7df95bf79e35ce7bbbd784"
+                }
+            ]
+        },
+        {
+            "file_id": "9cf04f9fc80aaafd6596bac005b07475",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il regno di cristallo",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.031 - Il regno di cristallo.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9cf04f9fc80aaafd6596bac005b07475"
+                }
+            ]
+        },
+        {
+            "file_id": "3f35fb9e9f908605e5fb9ca3a2124cc1",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Prova ad alto rischio",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.032 - Prova ad alto rischio.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f35fb9e9f908605e5fb9ca3a2124cc1"
+                }
+            ]
+        },
+        {
+            "file_id": "816efe58ee1891ecf97efa7029df7efc",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sotto la maschera",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.033 - Sotto la maschera.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/816efe58ee1891ecf97efa7029df7efc"
+                }
+            ]
+        },
+        {
+            "file_id": "246ecd3bb02657524f7894d33d3e6d15",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Una nuova prova",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.034 - Una nuova prova.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/246ecd3bb02657524f7894d33d3e6d15"
+                }
+            ]
+        },
+        {
+            "file_id": "bf862a37ccc008306ca6a6f7eccda8f6",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nuove speranze",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.035 - Nuove speranze.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bf862a37ccc008306ca6a6f7eccda8f6"
+                }
+            ]
+        },
+        {
+            "file_id": "999a99a94d43d50d4629e11ade7ae0f3",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La decisione di Relena",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.036 - La decisione di Relena.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/999a99a94d43d50d4629e11ade7ae0f3"
+                }
+            ]
+        },
+        {
+            "file_id": "96fa233d318b79618feece4e8bd34fd1",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ideali di pace",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.037 - Ideali di pace.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96fa233d318b79618feece4e8bd34fd1"
+                }
+            ]
+        },
+        {
+            "file_id": "c0e38d16f69e3da6c1bfc784ee9be2b9",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`incoronazione della regina",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.038 - L`incoronazione della regina.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c0e38d16f69e3da6c1bfc784ee9be2b9"
+                }
+            ]
+        },
+        {
+            "file_id": "2298eb387ec123aa3b63aaf5ff83db40",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il ritorno di Trowa",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.039 - Il ritorno di Trowa.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2298eb387ec123aa3b63aaf5ff83db40"
+                }
+            ]
+        },
+        {
+            "file_id": "6968dd1af9893abce88310b6d0485cb0",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Un nuovo leader",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.040 - Un nuovo leader.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6968dd1af9893abce88310b6d0485cb0"
+                }
+            ]
+        },
+        {
+            "file_id": "b6bbfdc3718345f814f6cbbe2fc180ec",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Battaglia alla piattaforma spaziale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.041 - Battaglia alla piattaforma spaziale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6bbfdc3718345f814f6cbbe2fc180ec"
+                }
+            ]
+        },
+        {
+            "file_id": "89ed7475a022478c064b6e15d3ccf8da",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Preparativi di guerra",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.042 - Preparativi di guerra.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/89ed7475a022478c064b6e15d3ccf8da"
+                }
+            ]
+        },
+        {
+            "file_id": "12fa483f3514c9badcf100b524d92504",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Obiettivo Il pianeta Terra",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.043 - Obiettivo Il pianeta Terra.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/12fa483f3514c9badcf100b524d92504"
+                }
+            ]
+        },
+        {
+            "file_id": "bfed5b93e5dece5653a7c93c27cd1b16",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Formazione d`attacco",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.044 - Formazione d`attacco.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bfed5b93e5dece5653a7c93c27cd1b16"
+                }
+            ]
+        },
+        {
+            "file_id": "0cefe4396bd9ff7e536a016d07a31d9f",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Verso lo scontro finale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.045 - Verso lo scontro finale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0cefe4396bd9ff7e536a016d07a31d9f"
+                }
+            ]
+        },
+        {
+            "file_id": "cfc4371ecf09464776b8da280fc871c7",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il rifiuto",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.046 - Il rifiuto.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cfc4371ecf09464776b8da280fc871c7"
+                }
+            ]
+        },
+        {
+            "file_id": "32332e5eaa0e019e779fedc8cbc24585",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Collisione nello spazio",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.047 - Collisione nello spazio.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/32332e5eaa0e019e779fedc8cbc24585"
+                }
+            ]
+        },
+        {
+            "file_id": "044f59701f07e89740084c1599fe027a",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Conto alla rovescia",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.048 - Conto alla rovescia.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/044f59701f07e89740084c1599fe027a"
+                }
+            ]
+        },
+        {
+            "file_id": "e09d6383853ba60b81578d5773318e48",
+            "tvdb_id": "79327",
+            "tmdb_id": 21730,
+            "saga": "Mobile Gundam Wing",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La vittoria finale",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/1.049 - La vittoria finale.mkv",
+            "year": "1995",
+            "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
+            "director": ["Masashi Ikeda", "Shinji Takamatsu"],
+            "actors": ["Akiko Yajima", "Toshihiko Seki", "Hikaru Midorikawa", "Ai Orikasa", "Ryuzou Ishino", "Takehito Koyasu", "Ryotaro Okiayu", "Chisa Yokoyama", "Sayuri", "Saori Sugimoto", "Yumi Touma", "Kae Araki", "Naoko Matsui", "Osamu Kato", "Hiroshi Ishida", "Minoru Inaba", "Osamu Ichikawa", "Akio Otsuka", "Shigeru Nakahara"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e09d6383853ba60b81578d5773318e48"
+                }
+            ]
+        },
+        {
+            "file_id": "ed640dbca562ca104423d54854c156b1",
+            "tvdb_id": "79327",
+            "tmdb_id": 2693,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Commedia"],
+            "title": "Extra 1",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/Extra 1.mkv",
+            "year": "2005",
+            "actors": ["Ricky Gervais", "Ashley Jensen", "Stephen Merchant", "Shaun Williamson", "Shaun Pye"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed640dbca562ca104423d54854c156b1"
+                }
+            ]
+        },
+        {
+            "file_id": "ec2406f28218bedb3b95eb3cd4285634",
+            "tvdb_id": "79327",
+            "tmdb_id": 2693,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Commedia"],
+            "title": "Extra 2",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/Extra 2.mkv",
+            "year": "2005",
+            "actors": ["Ricky Gervais", "Ashley Jensen", "Stephen Merchant", "Shaun Williamson", "Shaun Pye"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec2406f28218bedb3b95eb3cd4285634"
+                }
+            ]
+        },
+        {
+            "file_id": "9fb18c2c5470a28d65d80188e7ab17cf",
+            "tvdb_id": "79327",
+            "tmdb_id": 62102,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Commedia"],
+            "title": "Extra 3",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/Extra 3.mkv",
+            "year": "2004",
+            "actors": ["Christian Ehring"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9fb18c2c5470a28d65d80188e7ab17cf"
+                }
+            ]
+        },
+        {
+            "file_id": "e8df0de478a5d98bf0deabd4d054a88a",
+            "tvdb_id": "79327",
+            "tmdb_id": 2693,
+            "saga": "Mobile Gundam Wing",
+            "genre": ["Commedia"],
+            "title": "Extra 4",
+            "fname": "/Anime & Cartoni/Mobile Gundam Wing (1995) [b79327]/Extra 4.mkv",
+            "year": "2005",
+            "actors": ["Ricky Gervais", "Ashley Jensen", "Stephen Merchant", "Shaun Williamson", "Shaun Pye"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8df0de478a5d98bf0deabd4d054a88a"
+                }
+            ]
+        }
     ]
 }

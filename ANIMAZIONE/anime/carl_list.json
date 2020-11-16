@@ -1,169 +1,222 @@
 {
     "episodes_list": [
-        {
-            "tmdb_id": 438788,
-            "number": "1x1",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 1",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/309304552a007e34e9afe97d55f465bc"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x2",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 2",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/bb7a8d047eccd8658e82634eacd5e26e"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x3",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 3",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/3de4eb2152132dabf2bf199b2778e86e"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x1",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 1",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/4b45b78807a7446b08b363a6f6f8bb55"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x2",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 2",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/cc31ddbe92f6854927b5142d9cf19950"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x3",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 3",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/93b93f635a4348215be8af98b7aac915"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x4",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 4",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/b3fdb5b063a131b3316b4872df973ab7"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x5",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 5",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/1c01b97d45fbc54706a405719550d7b1"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "1x6",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 6",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/2ecc131b6a129793bd70238ff95d0a0c"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "2x1",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 1",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/5d472f0a5350530d415a3eec96e94a77"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "2x2",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 2",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/f4ec9bd8af0a3591a469ee6c70a00dc5"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "3x1",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 1",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/11eea6b126b3408c377a1f5bbf2887bd"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "3x2",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 2",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/30db7dead68ba91d061571889b4b5175"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "3x3",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 3",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/b780aca155b07845458a9a44dae7d476"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 438788,
-            "number": "3x4",
-            "saga": "Le incredibili storie di Carl Attrezzi",
-            "title": "Episodio 4",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/27e5cb56a3e8e4e64487e8a1cdd317ea"
-              }
-            ]
-          }
-    ]
+      {
+        "file_id": "c868daf35f77e059f268966c0ecd8f9e",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 2,
+        "genre": [],
+        "title": "1x02.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/1x02.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c868daf35f77e059f268966c0ecd8f9e"
+            }
+        ]
+    },
+    {
+        "file_id": "b1d555e9bfd65d67a79ffd295a4c4bbb",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 3,
+        "genre": [],
+        "title": "1x03.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/1x03.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/b1d555e9bfd65d67a79ffd295a4c4bbb"
+            }
+        ]
+    },
+    {
+        "file_id": "6a85d18be0caed76b338256eb9b5e58a",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "genre": [],
+        "title": "2x01.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x01.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6a85d18be0caed76b338256eb9b5e58a"
+            }
+        ]
+    },
+    {
+        "file_id": "ba110499970482eabcc32942b159b82e",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 2,
+        "genre": [],
+        "title": "2x02.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x02.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ba110499970482eabcc32942b159b82e"
+            }
+        ]
+    },
+    {
+        "file_id": "cb3dee25daf3ca5a928cc2bd038748e7",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 3,
+        "genre": [],
+        "title": "2x03.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x03.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cb3dee25daf3ca5a928cc2bd038748e7"
+            }
+        ]
+    },
+    {
+        "file_id": "45089b91acbfda507e64328f4a4aa047",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 4,
+        "genre": [],
+        "title": "2x04.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x04.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/45089b91acbfda507e64328f4a4aa047"
+            }
+        ]
+    },
+    {
+        "file_id": "1d890d20a926009f69db75359724fa84",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 5,
+        "genre": [],
+        "title": "2x05.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x05.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1d890d20a926009f69db75359724fa84"
+            }
+        ]
+    },
+    {
+        "file_id": "fc35fb06adf309d4a7c48749b882e937",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 6,
+        "genre": [],
+        "title": "2x06.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/2x06.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/fc35fb06adf309d4a7c48749b882e937"
+            }
+        ]
+    },
+    {
+        "file_id": "9380c100c3c1f6f3c97feae9b97680f1",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "genre": [],
+        "title": "3x01.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/3x01.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/9380c100c3c1f6f3c97feae9b97680f1"
+            }
+        ]
+    },
+    {
+        "file_id": "c9056253278645a1dd1594ea2cce47ab",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 2,
+        "genre": [],
+        "title": "3x02.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/3x02.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c9056253278645a1dd1594ea2cce47ab"
+            }
+        ]
+    },
+    {
+        "file_id": "e2cc5d274171cf8f546e3842eaa3dd71",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "genre": [],
+        "title": "4x01.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/4x01.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e2cc5d274171cf8f546e3842eaa3dd71"
+            }
+        ]
+    },
+    {
+        "file_id": "043da0582ae1684faa05768fcfdb0e46",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 2,
+        "genre": [],
+        "title": "4x02.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/4x02.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/043da0582ae1684faa05768fcfdb0e46"
+            }
+        ]
+    },
+    {
+        "file_id": "31056be96fbb9c32a7aa2a559b942e8d",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 3,
+        "genre": [],
+        "title": "4x03.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/4x03.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/31056be96fbb9c32a7aa2a559b942e8d"
+            }
+        ]
+    },
+    {
+        "file_id": "f3dbbf8b8f1e61883b5fa5728bc087ab",
+        "tmdb_id": "438788",
+        "saga": "Le incredibili storie di Carl Attrezzi",
+        "season": 1,
+        "episode": 4,
+        "genre": [],
+        "title": "4x04.Cars.Toons.@CartoonAnimeITA",
+        "fname": "/Anime & Cartoni/Le incredibili storie di Carl Attrezzi (2008) [a438788]/4x04.Cars.Toons.@CartoonAnimeITA.mp4.mp4",
+        "year": 2008,
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f3dbbf8b8f1e61883b5fa5728bc087ab"
+            }
+        ]
+    }
+  ]
 }

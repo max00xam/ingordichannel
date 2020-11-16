@@ -1,92 +1,148 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 46348,
-			"number": "1x1",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Pallavolo che passione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f84e2feee292705ed7c610c390c42dc8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x2",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Una ragazza in gamba",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9f161fe7c3b78f97ebf68a78ae459356"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x3",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "La ragazza misteriosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f38188352bb41844e901b8b87928e38c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x4",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Lotta fra due dive",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/80a9ecfa6838fcb7d19729c29e8f3aa9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x5",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Il nuovo allenatore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d860024da6a16d093e0983fb00d865d4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x6",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Pronte all'attacco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3a699a9bef6f45e41cf7d4d93cb9e99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x7",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Allenarsi in vacanza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3fce1008345f004ace40b5c665bf6acc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46348,
-			"number": "1x8",
-			"saga": "Mimì e la nazionale di pallavolo",
-			"title": "Il segreto della foglia cadente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/23b6dc2dd99e80d1217a3bf6265995bf"
-				}
-			]
-		} 
+            "file_id": "f83bc1e57f970cf3fbca7ddc0421898a",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Pallavolo che passione",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/001 - Pallavolo che passione.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f83bc1e57f970cf3fbca7ddc0421898a"
+                }
+            ]
+        },
+        {
+            "file_id": "e95c64e5730caa4176127b6d8b05702f",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Una ragazza in gamba",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/002 - Una ragazza in gamba.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e95c64e5730caa4176127b6d8b05702f"
+                }
+            ]
+        },
+        {
+            "file_id": "67051315b521aaac034aff2b496e25d3",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La ragazza misteriosa",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/003 - La ragazza misteriosa.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/67051315b521aaac034aff2b496e25d3"
+                }
+            ]
+        },
+        {
+            "file_id": "e676442f9a6cee6e3245a3d6324af1e7",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Lotta fra due dive",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/004 - Lotta fra due dive.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e676442f9a6cee6e3245a3d6324af1e7"
+                }
+            ]
+        },
+        {
+            "file_id": "31741fb6b4ab15b19cb656a02913670d",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Il nuovo allenatore",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/005 - Il nuovo allenatore.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31741fb6b4ab15b19cb656a02913670d"
+                }
+            ]
+        },
+        {
+            "file_id": "07d1d8fcc1107518be2c2e76462fc637",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Pronte all'attacco",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/006 - Pronte all'attacco.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07d1d8fcc1107518be2c2e76462fc637"
+                }
+            ]
+        },
+        {
+            "file_id": "3af9cdeb4919deb74c5f1dd5cb154b6f",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Allenarsi in vacanza",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/007 - Allenarsi in vacanza.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3af9cdeb4919deb74c5f1dd5cb154b6f"
+                }
+            ]
+        },
+        {
+            "file_id": "fdf2c4f56383578c73cd5b75edb7bbf6",
+            "tmdb_id": 46348,
+            "saga": "Mim\u00ec e la nazionale di pallavolo",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Il segreto della foglia cadente",
+            "fname": "/Anime & Cartoni/Mim\u00ec e la nazionale di pallavolo [a46348]/008 - Il segreto della foglia cadente.avi",
+            "year": "1969",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "actors": ["Sumie Sakai", "Kurumi Kobato", "Masahiko Murase", "Katsuji Mori", "Keiko Yamamoto", "Masako Ebisu", "Kazuko Sawada", "Reiko Mut\u00f4"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fdf2c4f56383578c73cd5b75edb7bbf6"
+                }
+            ]
+        } 
     ]
 }

@@ -1,545 +1,814 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 36664,
-			"number": "1x1",
-			"saga": "Georgie",
-			"title": "Il segreto del bracciale",
-            "plot":"Georgie vive felice la sua infanzia con i Butman, tuttavia il padre preannuncia la grande importanza del braccialetto che porta al polso, unico ricordo della madre scomparsa.",
+            "file_id": "ee7ebf53bda66b3b31d159cdb890f344",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione"],
+            "title": "Il segreto del bracciale",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.01 - Il segreto del bracciale.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/7f52612ce26dbf05c431fca7f4969f4a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x2",
-			"saga": "Georgie",
-			"title": "Tutti al lavoro!",
-            "plot":"Il signor Butmann promette ai figli di costruire una casetta dove far convivere i tre insieme. Su spinta della moglie, per\u00f2, abbandona i suoi propositi, temendo gli sviluppi negativi della convivenza tra i fratelli e la bambina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2176d6f6a4d117ad60565cce01f142d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x3",
-			"saga": "Georgie",
-			"title": "Sull'isola Lucertola",
-            "plot":"Approfittando di una giornata di sole, il signor Butmann porta i figli ad un picnic sull'isola Lucertola. Qui, sorpresi da un temporale violento, il padre \u00e8 costretto al pericoloso salvataggio di Georgie, finita nella canoa tra le acque impetuose del fiume.",
+                {
+                    "url": "http://51.77.159.233:30299/ee7ebf53bda66b3b31d159cdb890f344"
+                }
+            ]
+        },
+        {
+            "file_id": "d0fba20c5fb74b5269f91a847e190bbe",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione"],
+            "title": "Tutti al lavoro!",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.02 - Tutti al lavoro!.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/df6d2c7dd7c84ed13e671a160a3dae53"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x4",
-			"saga": "Georgie",
-			"title": "Papà muore",
-            "plot":"L'infortunio di papà Butman si rivela più serio di quanto lo stesso Kevin avesse immaginato. L'emorragia interna dovuta al colpo si rivela fatale in assenza di un medico nelle vicinanze.",
+                {
+                    "url": "http://51.77.159.233:30299/d0fba20c5fb74b5269f91a847e190bbe"
+                }
+            ]
+        },
+        {
+            "file_id": "d09cb4e0669ae1384c4f0ff07a2597ec",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione"],
+            "title": "Sull'isola Lucertola",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.03 - Sull'isola Lucertola.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/182926bb6f6fe6e4538b183158f85147"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x5",
-			"saga": "Georgie",
-			"title": "La nostra fattoria",
-            "plot":"Con la morte del marito, la signora Butmann è decisa a vendere la fattoria per trasferirsi in città. Georgie spinge i fratelli a rimboccarsi le maniche per dimostrarle che in tre sapranno badare agli animali.",
+                {
+                    "url": "http://51.77.159.233:30299/d09cb4e0669ae1384c4f0ff07a2597ec"
+                }
+            ]
+        },
+        {
+            "file_id": "b87021576902c8914cdd33c4ff33aabb",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione"],
+            "title": "Pap\u00e0 muore",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.04 - Pap\u00e0 muore.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/4ac54f4cf18b062c19deb7116fa2af93"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x6",
-			"saga": "Georgie",
-			"title": "Sogni",
-            "plot":"Abel sta prendendo coscienza della serietà del sentimento che nutre verso la ragazza che sente di non riuscire più a vivere come sorella. Esprime il desiderio di diventare un marinaio. La madre si oppone, timorosa di perderlo per sempre.",
+                {
+                    "url": "http://51.77.159.233:30299/b87021576902c8914cdd33c4ff33aabb"
+                }
+            ]
+        },
+        {
+            "file_id": "406729b4be2299eb6c709ed17adad181",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione"],
+            "title": "La nostra fattoria",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.05 - La nostra fattoria.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/bf7f42a3e637c4f6e766d0f6f3f5a87f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x7",
-			"saga": "Georgie",
-			"title": "L'attore girovago",
-            "plot":"Alla fattoria arriva un personaggio originale che viene ospitato per pochi giorni. Purtroppo la sua permanenza è macchiata dal furto del braccialetto di Georgie, necessario per pagarsi il biglietto e imbarcarsi. Dopo lunga ricerca, i fratelli riescono a trovarlo, perdonando l'autore del gesto e consentendogli di imbarcarsi ugualmente.",
+                {
+                    "url": "http://51.77.159.233:30299/406729b4be2299eb6c709ed17adad181"
+                }
+            ]
+        },
+        {
+            "file_id": "97065aab55f2b1b4a5208e06949170d4",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione"],
+            "title": "Sogni",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.06 - Sogni.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/dd988adab1c1e34860a213aa590cb78c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x8",
-			"saga": "Georgie",
-			"title": "Scuola ke passione",
-            "plot":"Abel viene coinvolto in una lite nella Chiesa del villaggio e per salvare la sorella dalla prepotenza dei ragazzi sfida il leader del gruppo: tra i due, dopo una movimentata lite, nasce un'inattesa amicizia.",
+                {
+                    "url": "http://51.77.159.233:30299/97065aab55f2b1b4a5208e06949170d4"
+                }
+            ]
+        },
+        {
+            "file_id": "873e16b5ba1b0b52d78feacf1d330cb0",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione"],
+            "title": "L'attore girovago",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.07 - L'attore girovago.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/3b919178be3b5463479715c5e86cb725"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x9",
-			"saga": "Georgie",
-			"title": "Il cambiamento di Abel",
-            "plot": "Nonostante le perplessità della madre, i fratelli cominciano l'avventura scolastica. La signora Butmann si confida con Kevin per sapere cosa sia meglio per Georgie: nel suo bene, le consente di andare a scuola con i fratelli. Intanto, Abel palesa un brusco cambiamento verso la sorella.",
+                {
+                    "url": "http://51.77.159.233:30299/873e16b5ba1b0b52d78feacf1d330cb0"
+                }
+            ]
+        },
+        {
+            "file_id": "1980a1d162b7645107432c80faf731d0",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione"],
+            "title": "Scuola ke passione",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.08 - Scuola ke passione.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/5c820826a186580c90dd032d080a9343"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x10",
-			"saga": "Georgie",
-			"title": "Un regalo per la mamma",
-            "plot": "I tre fratelli, ormai diventati grandi, organizzano una sorpresa per la madre, in occasione del suo compleanno. La madre rimane commossa di fronte alla dedizione che i figli dimostrano nei suoi confronti.",
+                {
+                    "url": "http://51.77.159.233:30299/1980a1d162b7645107432c80faf731d0"
+                }
+            ]
+        },
+        {
+            "file_id": "eac56990ea09348b30913cc66dda0a06",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione"],
+            "title": "Il cambiamento di Abel",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.09 - Il cambiamento di Abel.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/f37d20618c5351a324f52a554e96f326"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x11",
-			"saga": "Georgie",
-			"title": "Un visitatore inaspettato",
-            "plot": "I tre fratelli incrociano un artista che viene ospitato presso la fattoria. All'idea che possa ritrarre Georgie in uno dei suoi dipinti, Abel reagisce violentemente senza riuscire a mascherare la gelosia verso la ragazza.",
-            
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/412fbbf3b7c936da7d635db5e9ea4a7a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x12",
-			"saga": "Georgie",
-			"title": "La camera separata",
-            "plot": "Georgie è cresciuta, così la madre decide di separare la sua camera da qualla dei fratelli. All'iniziale sorpresa dei figli, segue la rassegnazione: dopo i primi timori della solitudine, anche la ragazza accetta la nuova situazione.",
+                {
+                    "url": "http://51.77.159.233:30299/eac56990ea09348b30913cc66dda0a06"
+                }
+            ]
+        },
+        {
+            "file_id": "66f6ec685ec640354b041b1c577929b3",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione"],
+            "title": "Un regalo per la mamma",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.10 - Un regalo per la mamma.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/8f2246b7f27dcc540f2d3909354a2d0d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x13",
-			"saga": "Georgie",
-			"title": "Abel è geloso",
-            "plot": "La gelosia che Abel prova verso la sorella è evidente agli occhi di chiunque lo circondi. Anche a scuola tutti si rendono conto che il legame che le dimostra ha qualcosa che va ben oltre il rapporto fraterno.",
+                {
+                    "url": "http://51.77.159.233:30299/66f6ec685ec640354b041b1c577929b3"
+                }
+            ]
+        },
+        {
+            "file_id": "6ea9e989c1cbcc953b5985be980746f8",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione"],
+            "title": "Un visitatore inaspettato",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.11 - Un visitatore inaspettato.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/163738089595ed27cad4af1f72570929"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x14",
-			"saga": "Georgie",
-			"title": "Voglia di crescere",
-            "plot": "Abel ha abbandonato gli atteggiamenti infantili e si comporta da persona adulta, anche se impulsivo. I fratelli se ne rendono conto e cercano di comprendere il suo desiderio di indipendenza e di libertà. Ma dietro i suoi propositi, in realta, si nasconde il fermo proposito di evitare la sorella, di fronte alla quale è incapace di indifferenza.",
+                {
+                    "url": "http://51.77.159.233:30299/6ea9e989c1cbcc953b5985be980746f8"
+                }
+            ]
+        },
+        {
+            "file_id": "160da67eebaf78f29557070cf5d94cf0",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione"],
+            "title": "La camera separata",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.12 - La camera separata.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/ac8b6c06846692fe093b14e2d2875cae"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x15",
-			"saga": "Georgie",
-			"title": "Primi turbamenti",
-            "plot": "Il conflitto che Abel vive, è noto al fratello e a Kevin. E' ormai nell'aria un conflitto interiore che vive il primo dei fratelli, combattuto tra l'esprimere liberamente i suoi sentimenti e il non sconvolgere la vita della sorella.",
+                {
+                    "url": "http://51.77.159.233:30299/160da67eebaf78f29557070cf5d94cf0"
+                }
+            ]
+        },
+        {
+            "file_id": "1ce971be06912cb656ae791051395f7e",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione"],
+            "title": "Abel \u00e8 geloso",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.13 - Abel \u00e8 geloso.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/94af73995e9ba152497efc5241704746"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x16",
-			"saga": "Georgie",
-			"title": "Il compleanno di Becky",
-            "plot": "Abel conosce la giovane Becky durante una galoppata a cavallo. Viene invitato a casa della facoltosa ragazza, per la quale prova una vaga attrazione. La festa in realtà è solo un'occasione per mettere in imbarazzo Georgie e screditarla pubblicamente. Abel si accorge della manovra e preferisce rinunciare per amore della sorella.",
+                {
+                    "url": "http://51.77.159.233:30299/1ce971be06912cb656ae791051395f7e"
+                }
+            ]
+        },
+        {
+            "file_id": "cfb3104e6f767fb2b2171fc7c7f4d80e",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "Voglia di crescere",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.14 - Voglia di crescere.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/62a613bd531bf9705022518fb4e70c9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x17",
-			"saga": "Georgie",
-			"title": "La bugia di Arthur",
-            "plot": "Dall'Inghilterra approda in Australia il dottor Skiffens, con il compito di cercare notizie della figlia del fratello Fred. Un intreccio di coincidenze lo porta ad incontrare Abel e Arthur, i quali, temendo di perdere la ragazza che amano, mentono sulle origini della giovane sorella.",
+                {
+                    "url": "http://51.77.159.233:30299/cfb3104e6f767fb2b2171fc7c7f4d80e"
+                }
+            ]
+        },
+        {
+            "file_id": "efad59a6d261882561e182286766e8ba",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione"],
+            "title": "Primi turbamenti",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.15 - Primi turbamenti.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/abc412c19376b164f03623798541eb69"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x18",
-			"saga": "Georgie",
-			"title": "Una amica per Lupp",
-            "plot": "Abel sente di non poter più riuscire a nascondere il proprio sentimento e solo la promessa fatta al fratello lo frena dal confessare la verità alla sorella. Il conflitto tra i fratelli diventa quasi insanabile e la madre, pienamente consapevole, studia la maniera per evitare conflitti.",
+                {
+                    "url": "http://51.77.159.233:30299/efad59a6d261882561e182286766e8ba"
+                }
+            ]
+        },
+        {
+            "file_id": "0bf36b97cb3b8521e76227db1eac9d03",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione"],
+            "title": "Il compleanno di Becky",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.16 - Il compleanno di Becky.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/6476cd6dc119a6426cd846418c53be14"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x19",
-			"saga": "Georgie",
-			"title": "Una difficile decisione",
-            "plot": "La prima alternativa che la signora Butmann escogita per separare i fratelli è quello di avallare l'adozione della ragazza ad opera di una donna, esperta nel cucito, che si offre di tenerla con sé. Per evitare di mostrare sentimenti nei suoi confronti, i fratelli tacciono sull'eventuale partenza della sorella, la quale rinuncia a distaccarsi dalla sua famiglia.",
+                {
+                    "url": "http://51.77.159.233:30299/0bf36b97cb3b8521e76227db1eac9d03"
+                }
+            ]
+        },
+        {
+            "file_id": "22d5196d3f6ad02050e2d03c9034dc24",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione"],
+            "title": "La bugia di Arthur",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.17 - La bugia di Arthur.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/f68d1323b6fd366eeb7fd49eb585266e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x20",
-			"saga": "Georgie",
-			"title": "Il futuro del capitano",
-            "plot": "Abel decide di imbarcarsi per trovare una via d'uscita alla delicata situazione che vive. Il suo viaggio è una fuga dalla verità su quanto sente per la donna che ama.",
+                {
+                    "url": "http://51.77.159.233:30299/22d5196d3f6ad02050e2d03c9034dc24"
+                }
+            ]
+        },
+        {
+            "file_id": "7cf27cd895620a39da541fb84b07f0ea",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione"],
+            "title": "Una amica per Lupp",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.18 - Una amica per Lupp.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/388a6dbcbe780dea742b1ed5f8c15561"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x21",
-			"saga": "Georgie",
-			"title": "Un incontro imbarazzante",
-            "plot": "Georgie si imbatte casualmente in un giovane in visita temporanea in Australia, Lowell J. Gray, mentre cavalca verso il fratello Arthur e nella circostanza si invaghisce del suo fare gentile e delicato. Alcuni fotogrammi dell'episodio vennero ritenuti poco adatti alla visione da parte del pubblico infantile cui era rivolto e furono tagliati: ritraggono Lowell spogliato involontariamente da Georgie.",
+                {
+                    "url": "http://51.77.159.233:30299/7cf27cd895620a39da541fb84b07f0ea"
+                }
+            ]
+        },
+        {
+            "file_id": "c3b05de4c151862c07f290b26a61aa99",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione"],
+            "title": "Una difficile decisione",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.19 - Una difficile decisione.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/7f624f2123fdec76753b03bb93c456cb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x22",
-			"saga": "Georgie",
-			"title": "Bentornato Abel",
-            "plot": "Abel si rende conto che la lontananza da Georgie ha peggiorato le cose e decide di tornare in patria per dichiararsi e svelare ogni cosa alla sorella. Intanto, ad attenderlo al porto, c'è la donna che lo ha amato prima di lasciarlo partire, Jessica, che malsopporta la presenza della sorella nella vita dell'uomo che ama.",
+                {
+                    "url": "http://51.77.159.233:30299/c3b05de4c151862c07f290b26a61aa99"
+                }
+            ]
+        },
+        {
+            "file_id": "fa3b72b4b922ca5db906e0d7dc4931d1",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione"],
+            "title": "Il futuro del capitano",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.20 - Il futuro del capitano.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/342baeebb0087f1f4268eb24308e959c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x23",
-			"saga": "Georgie",
-			"title": "La nuova ferrovia",
-            "plot": "Si apre la ferrovia vicino Sidney e i Butmann non mancano all'inaugurazione. Presente sul posto anche il governatore Duca Dangering con la nipote Elise ed il fidanzato di lei, proprio Lowell che l'accompagna in terra australiana.",
+                {
+                    "url": "http://51.77.159.233:30299/fa3b72b4b922ca5db906e0d7dc4931d1"
+                }
+            ]
+        },
+        {
+            "file_id": "e460a468d9500c238a96f28ef694bcfa",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione"],
+            "title": "Un incontro imbarazzante",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.21 - Un incontro imbarazzante.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/064528f9033cb180086b9f1bbbf5376c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x24",
-			"saga": "Georgie",
-			"title": "Il primo bacio",
-            "plot": "Gergie apprende dai giornali che è indetta una gara di boomerang, il cui premio potrebbe servire a Kevin, impossibilitato a curarsi con i suoi mezzi. La ragazza si iscrive spacciandosi per un ragazzo, Joe Butmann, ma il travestimento ha durata breve: il premio aggiuntivo al vincitore è un bacio della giovane Elise. Georgie confessa la sua identità e prende il premio da Lowell.",
+                {
+                    "url": "http://51.77.159.233:30299/e460a468d9500c238a96f28ef694bcfa"
+                }
+            ]
+        },
+        {
+            "file_id": "3bf477829bb44fec0adf6e394db79173",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione"],
+            "title": "Bentornato Abel",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.22 - Bentornato Abel.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/93c3c1cf1ae1e81e5d7c738ce1dda64a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x25",
-			"saga": "Georgie",
-			"title": "Una dolorosa scoperta",
-            "plot": "Georgie porta a Kevin il compenso incassato. In segno di gratitudine, l'anziano amico di famiglia le fà omaggio di un vecchio abito da sera della moglie scomparsa. Nell'indossarlo Georgie incontra il giovane Lowell fuggito dalla festa organizzata nella sua residenza per cercarla e dichiarare il suo amore. Intanto, Abel, alla ricerca della sorella, scopre con rammarico della relazione tra i due.",
+                {
+                    "url": "http://51.77.159.233:30299/3bf477829bb44fec0adf6e394db79173"
+                }
+            ]
+        },
+        {
+            "file_id": "ed734edd71148c0e8ef25a1c7d39637a",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione"],
+            "title": "La nuova ferrovia",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.23 - La nuova ferrovia.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/5464ea6fe068217fe47e84ed5f1d256d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x26",
-			"saga": "Georgie",
-			"title": "Notte tempestosa",
-            "plot": "La sera stessa del loro incontro, Lowell comunica alla ragazza che ama il suo prossimo rientro in patria. Un rientro utile a sciogliere il fidanzamento con la sua fidanzata. Promette un ritorno in Australia per restare e sposarla.",
+                {
+                    "url": "http://51.77.159.233:30299/ed734edd71148c0e8ef25a1c7d39637a"
+                }
+            ]
+        },
+        {
+            "file_id": "42dba60cdb389f0b970b859a3540060a",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione"],
+            "title": "Il primo bacio",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.24 - Il primo bacio.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/9ca84337957f55de7299bfd10578d352"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x27",
-			"saga": "Georgie",
-			"title": "Il segreto svelato",
-            "plot": "I sogni di Georgie durano poco. Al rientro dalla sua serata in compagnia, la attende la madre, furiosa per il suo atteggiamento verso l'uomo che ama. In preda all'esasperazione per una situazione ormai irreparabile, le confessa la verità sul suo passato, costringendola a lasciare la casa dov'è vissuta. Senza riferimenti e disperata, Georgie cade accidentalmente nel fiume e viene raccolta moribonda da Arthur, testimone parziale degli eventi. L'episodio è stato tagliato di alcuni frammenti che vedono Arthur nudo nello stesso letto della sorella per scaldarla (per ogni approfondimento si rimanda alla sezione Censuriamo la censura).",
+                {
+                    "url": "http://51.77.159.233:30299/42dba60cdb389f0b970b859a3540060a"
+                }
+            ]
+        },
+        {
+            "file_id": "0a529884bc5a39bab9a00b6d17b5650c",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione"],
+            "title": "Una dolorosa scoperta",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.25 - Una dolorosa scoperta.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/ecc086b1ccbb4011372bd3f6722e8f80"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x28",
-			"saga": "Georgie",
-			"title": "Rivali in amore",
-            "plot": "Al risveglio dalla brutta esperienza, Georgie chiede a Kevin di raccontarle ciò che sa sulla sua vicenda. Kevin ripercorre l'episodio del ritrovamento di 13 anni prima e svela quanto conosce sulla vera identità della giovane adolescente. Intanto, Abel approfitta della lontananza del fratello per liberare i sentimenti che teneva nascosti.",
+                {
+                    "url": "http://51.77.159.233:30299/0a529884bc5a39bab9a00b6d17b5650c"
+                }
+            ]
+        },
+        {
+            "file_id": "3f77ffe02b5041a5263a0ca099c7ef1f",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione"],
+            "title": "Notte tempestosa",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.26 - Notte tempestosa.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/3cbc46d9ab67124a6beabc6e1d871d6e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x29",
-			"saga": "Georgie",
-			"title": "Il lungo viaggio",
-            "plot": "Georgie si rende conto che restare in Australia non avrebbe senso. Abel le ha dichiarato il suo amore, Arthur vorrebbe fare lo stesso: per non creare conflitti e dissapori, decide di partire per Londra, dove spera di conoscere le proprie radici e di unirsi definitivamente al suo amato Lowell.",
+                {
+                    "url": "http://51.77.159.233:30299/3f77ffe02b5041a5263a0ca099c7ef1f"
+                }
+            ]
+        },
+        {
+            "file_id": "5e0e9119215bfce482d4344b2e817849",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione"],
+            "title": "Il segreto svelato",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.27 - Il segreto svelato.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/90370945ab46a72e882cd383f98376cc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x30",
-			"saga": "Georgie",
-			"title": "Alla ricerca del passato",
-            "plot": "Georgie conosce la difficile vita da mozzo, unico modo per imbarcarsi fingendosi un uomo. In nave, tra le presenze gradite, conosce il dottor Skiffens, che rientra in patria dopo averla invano cercata in Australia. Anche la giovane Catherine, invaghita del coraggioso Joe Butmann, le tiene compagnia ospitandola spesso nel suo alloggio.",
+                {
+                    "url": "http://51.77.159.233:30299/5e0e9119215bfce482d4344b2e817849"
+                }
+            ]
+        },
+        {
+            "file_id": "25bea3c6e2af2fd52b6c0121051825ef",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione"],
+            "title": "Rivali in amore",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.28 - Rivali in amore.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/5dd2b27053723e041630adee24c90004"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x31",
-			"saga": "Georgie",
-			"title": "Da mozzo a cameriere",
-            "plot": "Joe Butmann dimostra tutto il suo coraggio gettandosi in acqua per salvare Catherine caduta accidentalemente dall'imbarcazione. Ferita da uno squalo, Joe viene curata a bordo e la circostanza la avvicina al dottor Skiffens, che nota il braccialetto indossato dal mozzo. Per ricompensa al nobile gesto, viene trasferita nella sala dei nobili, come cameriere.",
+                {
+                    "url": "http://51.77.159.233:30299/25bea3c6e2af2fd52b6c0121051825ef"
+                }
+            ]
+        },
+        {
+            "file_id": "2a72fff6f59a8420ab0a6a38b0a3ea66",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione"],
+            "title": "Il lungo viaggio",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.29 - Il lungo viaggio.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/b2674b43afd45046e69a17fef4c70f62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x32",
-			"saga": "Georgie",
-			"title": "Tre navi, tre sogni",
-            "plot": "Abel non sa resistere all'idea di sapere lontana e indifesa la sua Georgie. Così si imbarca per cercarla e riportarla in patria. Intanto, a casa Butmann, Arthur deve fare i conti con la salute della madre, colta da infarto dopo la partenza dei due figli.",
+                {
+                    "url": "http://51.77.159.233:30299/2a72fff6f59a8420ab0a6a38b0a3ea66"
+                }
+            ]
+        },
+        {
+            "file_id": "26e1e36636bff9033f65c2c628ea8111",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione"],
+            "title": "Alla ricerca del passato",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.30 - Alla ricerca del passato .avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/4dccf44c13de673e4a073c19ce2ce68e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x33",
-			"saga": "Georgie",
-			"title": "Una terribile trappola",
-            "plot": "Joe Butmann accetta l'amicizia con il dottor Skiffens e decide di confidargli il segreto della sua indentità. Intanto, Ken, avvezzo a piccoli furti sulla nave, decide di liberarsi dello scomodo collega Joe inscenando un furto, di cui accusarlo. Per eliminarlo, decide di avvelenare il thé che gli è destinato, ma il tentativo fallisce: la tazza che lo contiene finisce a Skiffins, che muore prima di rivelare alla ritrovata Georgie il nome del suo vero padre.",
+                {
+                    "url": "http://51.77.159.233:30299/26e1e36636bff9033f65c2c628ea8111"
+                }
+            ]
+        },
+        {
+            "file_id": "1ebe4508fea1771ea0b4462440f25db2",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione"],
+            "title": "Da mozzo a cameriere",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.31 - Da mozzo a cameriere.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/d7e01b0af007e487bbfce2212ff439af"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x34",
-			"saga": "Georgie",
-			"title": "Finalmente a Londra",
-            "plot": "Approdata a Londra, Georgie deve provvedere a cercare un lavoro con cui sostentarsi. Nel mentre viene ospitata dai coniuge Barnes, genitori di Catherine, rimasti entusiasti per la sua genuinità. Intento Abel termina il suo viaggio verso l'Inghilterra, accompagnato dal pappagallo al quale insegna il nome della donna che ama che trovarla più facilmente.",
+                {
+                    "url": "http://51.77.159.233:30299/1ebe4508fea1771ea0b4462440f25db2"
+                }
+            ]
+        },
+        {
+            "file_id": "58db4ced67eaa26397c3cbeb87529037",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione"],
+            "title": "Tre navi, tre sogni",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.32 - Tre navi, tre sogni.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/d6758f77c3f02d0b6a412c114a527d76"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x35",
-			"saga": "Georgie",
-			"title": "Il sogno della nonna",
-            "plot": "Grazie all'aiuto della famiglia Barnes, Georgie può incontrare Lowell e riabbracciarlo dopo mesi di attesa. Ma i suoi sogni sembrano infrangersi contro una relatà più grande di lei: la nonna Gray desidera entrare nella nobiltà inglese e per farlo il nipote deve sposare Elise. Il giovane non trova il coraggio di confessare i suoi veri sentimenti e Georgie se ne rammarica.",
+                {
+                    "url": "http://51.77.159.233:30299/58db4ced67eaa26397c3cbeb87529037"
+                }
+            ]
+        },
+        {
+            "file_id": "ec5d5624fabbe850e540b48c35d72270",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione"],
+            "title": "Una terribile trappola",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.33 - Una terribile trappola.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/8d59c23ff197fb013bb9357dac3610e0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x36",
-			"saga": "Georgie",
-			"title": "Preparativi di nozze",
-            "plot": "Abel, arrivato a Londra, scopre dove si trova la sorella grazie all'aiuto della piccola fiammiferaia, Joy, che ha conosciuto al suo arrivo. Purtroppo, appena trovata la sorella, ha la spiacevole sorpresa di sapere che il suo cuore è occupato dal giovane Lowell. Georgie è entrata senza volerlo in un intrigo sentimentale-politico che vede al suo centro proprio l'uomo che ama, così decide di andare a fondo.",
+                {
+                    "url": "http://51.77.159.233:30299/ec5d5624fabbe850e540b48c35d72270"
+                }
+            ]
+        },
+        {
+            "file_id": "3337fda6ee1792d09413f7b8583a6fa7",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione"],
+            "title": "Finalmente a Londra",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.34 - Finalmente a Londra.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/813de989dce307ae7b9da6968a11dca7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x37",
-			"saga": "Georgie",
-			"title": "Delusioni per Elise",
-            "plot": "Nel loro incontro Abel ha compreso che la sorella è seriamente intenzionata a sposare l'uomo che ama, ma osteggia il matrimonio per le enormi differenze che esistono tra loro. Elise riceve la sconcertante verità sui sentimenti del promesso fidanzato e chiede l'aiuto dello zio per risolvere l'intrigo. Il duca, intanto, ha notato il bracciale al polso di Georgie ed intuisce l'enorme pericolo che corre se il suo sospetto dovesse trovare fondamento.",
+                {
+                    "url": "http://51.77.159.233:30299/3337fda6ee1792d09413f7b8583a6fa7"
+                }
+            ]
+        },
+        {
+            "file_id": "5afd38415010d1eeef594297e218876b",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione"],
+            "title": "Il sogno della nonna",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.35 - Il sogno della nonna.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/4405732a4937dd7414ff22718d44e515"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x38",
-			"saga": "Georgie",
-			"title": "Due nuovi amici",
-            "plot": "Georgie e Lowell nella loro prima fuga insieme fanno conoscenza casuale di Emma e Dick due giovani sposi che stanno festeggiando il loro matrimonio. Intanto Abel intuisce che Arthur si trova a Londra, dopo essere stato scambiato per lui ed essere stato aggredito da due loschi individui. Georgie, saputo che la famiglia Barnes è incaricata di organizzare le nozze per il matrimonio di Elise decide di lasciare la loro residenza.",
+                {
+                    "url": "http://51.77.159.233:30299/5afd38415010d1eeef594297e218876b"
+                }
+            ]
+        },
+        {
+            "file_id": "4161a9a0c06e19907f6dded3aa2772d4",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione"],
+            "title": "Preparativi di nozze",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.36 - Preparativi di nozze.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/1ddb5cd42384d6ac6c1ed97260671c4e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x39",
-			"saga": "Georgie",
-			"title": "Al ballo reale",
-            "plot": "Georgie riesce a trovare spazio nell'appartamento dei nuovi amici, ma ci sono pessime sorprese che l'attendono al ballo reale. Portatavi da Lowell, Elise approfitta della circostanza per confessarle che il suo bracciale appartiene al casato del conte Gerald, esiliato per il complotto contro la regina. Georgie al ballo incrocia Kein il figlio adottivo del duca, che mostra una somiglianza impressionante con Arthur. Il duca è riuscito a combinare l'incontro tra la regina e Lowell per aumentare le pressioni su di lui. Sembra tutto precipitare.",
+                {
+                    "url": "http://51.77.159.233:30299/4161a9a0c06e19907f6dded3aa2772d4"
+                }
+            ]
+        },
+        {
+            "file_id": "c64333be865537cf443d5d1653012b64",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione"],
+            "title": "Delusioni per Elise",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.37 - Delusioni per Elise.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/4703befb3fafeaab2c0a8b263a05131a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x40",
-			"saga": "Georgie",
-			"title": "Di nuovo in viaggio",
-            "plot": "Per evitare le pressioni di palazzo, Georgie e Lowell fuggono, braccati dagli uomini di Dangering. Intanto Abel scopre la condizione in cui si trova il fratello e promette a se stesso di liberarlo. Arthur è tenuto prigioniero dal duca per evitare che venga a galla un segreto di cui il ragazzo è venuto incidentalmente a conoscenza, ma non elimina per l'amore che gli nutre la figlia Maria.",
+                {
+                    "url": "http://51.77.159.233:30299/c64333be865537cf443d5d1653012b64"
+                }
+            ]
+        },
+        {
+            "file_id": "ae61b7152c9ed8affa0d89db19cafb33",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione"],
+            "title": "Due nuovi amici",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.38 - Due nuovi amici.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/5959983968f422a8e0208dc98dd090e5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x41",
-			"saga": "Georgie",
-			"title": "La forza della speranza",
-            "plot": "Georgie sa della malattia di Lowell e profonde ogni sacrificio pur di riuscire a farlo guarire. Purtroppo il suo lavoro non le consente i guadagni necessari all'intervento e decide che l'unico modo per salvarlo è quello di restituirlo alla famiglia di Elise, l'unica in grado di affrontare i costi dell'intervento.",
+                {
+                    "url": "http://51.77.159.233:30299/ae61b7152c9ed8affa0d89db19cafb33"
+                }
+            ]
+        },
+        {
+            "file_id": "f30fbe1f24ca85ce42cc363f1e8db2ae",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione"],
+            "title": "Al ballo reale",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.39 - Al ballo reale.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/8b62d300adcd2cb22eb933e6416c384b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x42",
-			"saga": "Georgie",
-			"title": "La prigionia di Arthur",
-            "plot": "Arthur è a conoscenza del complotto organizzato da Dangering per assassinare la regina, così è tenuto segregato per evitare che sveli il segreto. Abel sceglie di servirsi di ogni mezzo per liberarlo.",
+                {
+                    "url": "http://51.77.159.233:30299/f30fbe1f24ca85ce42cc363f1e8db2ae"
+                }
+            ]
+        },
+        {
+            "file_id": "52b1da27e3a8ae7f11cf9fd20e1350ef",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione"],
+            "title": "Di nuovo in viaggio",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.40 - Di nuovo in viaggio.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/4a1d5b4f8a6a788a8e67b2989dcc4b74"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x43",
-			"saga": "Georgie",
-			"title": "Un amore impossibile",
-            "plot": "Georgie decide di rinunciare all'amore per Lowell sommonistrandogli un sonnifero per restituirlo ad Elise. Intanto, Fritz Gerald, padre di Georgie è venuto in possesso del bracciale della figlia grazie alle ricerche del fidato Wilson e del quale lei si era privata per accumulare denaro per sopravvivere.",
+                {
+                    "url": "http://51.77.159.233:30299/52b1da27e3a8ae7f11cf9fd20e1350ef"
+                }
+            ]
+        },
+        {
+            "file_id": "85a751717de3afcded7b3658027ed2db",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione"],
+            "title": "La forza della speranza",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.41 - La forza della speranza.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/d1553b1bdd0fc8dddb91d5735e6a4cba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x44",
-			"saga": "Georgie",
-			"title": "Arthur in pericolo",
-            "plot": "Abel decide di chiedere il sostegno della sorella per liberare il fratello e tornare tutti e tre nella terra che li ha visti crescere. Anche Gerald, sulle tracce della figlia, è in ansia per il pericolo che sta correndo. L'incontro tra i due avviene fuggendo dai sicari del duca, in una delle scene più toccanti della serie intera.",
+                {
+                    "url": "http://51.77.159.233:30299/85a751717de3afcded7b3658027ed2db"
+                }
+            ]
+        },
+        {
+            "file_id": "68585a61f97f003b1918eca71c48b02c",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione"],
+            "title": "La prigionia di Arthur",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.42 - La prigionia di Arthur.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/945f636bce86092feca972ce91e962d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 36664,
-			"number": "1x45",
-			"saga": "Georgie",
-			"title": "Finalmente insieme",
-            "plot": "La liberazione di Arthur viene organizzata grazie alla collaborazione di Maria, disposta a tutto pur di salvare l'uomo che ama. Georgie può spiegare i motivi dell'addio a Lowell che nel frattempo è guarito. I fratelli si riuniscono e decidono di fare rientro nella terra che li ha visti crescere in serenità.",
+                {
+                    "url": "http://51.77.159.233:30299/68585a61f97f003b1918eca71c48b02c"
+                }
+            ]
+        },
+        {
+            "file_id": "41a32fad14f5700cedaea2395380433c",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione"],
+            "title": "Un amore impossibile",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.43 - Un amore impossibile.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
             "links": [
-				{
-					"url": "http://51.77.159.233:30299/c295e6eee2ec61a3647d680e3d1c43ff"
-				}
-			]
-		}
+                {
+                    "url": "http://51.77.159.233:30299/41a32fad14f5700cedaea2395380433c"
+                }
+            ]
+        },
+        {
+            "file_id": "fd52b120cbc21cc0aa32d0d1a56faf66",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione"],
+            "title": "Arthur in pericolo",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.44 - Arthur in pericolo.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fd52b120cbc21cc0aa32d0d1a56faf66"
+                }
+            ]
+        },
+        {
+            "file_id": "f463f49e9a1ac9686d263ebfa718e1e7",
+            "tmdb_id": 36664,
+            "saga": "Georgie",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione"],
+            "title": "Finalmente insieme",
+            "fname": "/Anime & Cartoni/Georgie [a36664]/1.45 - Finalmente insieme.avi",
+            "year": "1983",
+            "plot": "Georgie (\u30ec\u30c7\u30a3\u30b8\u30e7\u30fc\u30b8\u30a3\uff01) \u00e8 un anime del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "actors": ["Yuriko Yamamoto", "Hideyuki Hori", "Isao Nagahisa", "Reiko Kit\u014d", "Sakiko Tamagawa", "Eiko Hisamura", "Ky\u014dsuke Maki", "Miyuki Ueda", "Y\u00fbji Mitsuya", "Yasuko End\u014d", "Hirotaka Suzuoki", "Kei Tomiyama", "Mami Koyama", "Masaaki Tsukada", "Yu Shimaka", "Masane Tsukayama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f463f49e9a1ac9686d263ebfa718e1e7"
+                }
+            ]
+        }
     ]
 }

@@ -1,444 +1,684 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 140,
-			"number": "1x1",
-			"saga": "Martin Mystere",
-			"title": "L`uomo nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/92cd9e63d764c3b9789e4c5749465f84"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x2",
-			"saga": "Martin Mystere",
-			"title": "Il risveglio della regina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be287c38775fb338a0b2dcc3858ec210"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x3",
-			"saga": "Martin Mystere",
-			"title": "L`Amuleto dello Sciamano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c78b419f42ac1d1c0e0fb31ad17d841b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x4",
-			"saga": "Martin Mystere",
-			"title": "Lo Spirito del Lupo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3f092bd63a6162a44846e0cb45af8a0a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x5",
-			"saga": "Martin Mystere",
-			"title": "Il Drago del Tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e680a37ec225e965974bda0d0dbaef43"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x6",
-			"saga": "Martin Mystere",
-			"title": "Il Tesoro del Leviatano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cc5bbef83a2fa8c0b92f74706540b81b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x7",
-			"saga": "Martin Mystere",
-			"title": "La scatola del caos",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/05c8284339f40e23519753cc19948b5e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x8",
-			"saga": "Martin Mystere",
-			"title": "Il Regno degli Incubi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7e9e0209a6c1018c9e8e14c8f793ba51"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x9",
-			"saga": "Martin Mystere",
-			"title": "Il Mistero della Sirena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/98708573e4dd39c19caf17e27f64511a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x10",
-			"saga": "Martin Mystere",
-			"title": "Il Natale perfetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0629cc5343e59501190411915f08fe49"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x11",
-			"saga": "Martin Mystere",
-			"title": "Il Druido Oscuro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e96cc9ac4e10620d03889f9c07a81b94"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x12",
-			"saga": "Martin Mystere",
-			"title": "La Scuola Stregata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/20678e98946a51982b713bbbdfef6954"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x13",
-			"saga": "Martin Mystere",
-			"title": "Halloween",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5286b5963b9a0f87e33bc67d326c3861"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x14",
-			"saga": "Martin Mystere",
-			"title": "Nadù lo Spirito del Buio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/393cf4a805846b7fc6970d04711151b6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x15",
-			"saga": "Martin Mystere",
-			"title": "Una foto dal passato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/13bde4a974979a9ce77ab3eab2063522"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x16",
-			"saga": "Martin Mystere",
-			"title": "A Qualcuno Piace Freddo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8177749e38329a72afee92f36bb0c8c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x17",
-			"saga": "Martin Mystere",
-			"title": "Uno Strano Virus",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/faa882e8e149248098c1090eb3e292d4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x18",
-			"saga": "Martin Mystere",
-			"title": "La Vendetta del Sosia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52c20c2dba07cc868aadfd4771c4bba7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x19",
-			"saga": "Martin Mystere",
-			"title": "Java il Cavernicolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/84375eec9ed90a9656f7fcaa35f453c3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x20",
-			"saga": "Martin Mystere",
-			"title": "Il Mistero dell`Uomo Falena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/831f6ddb588bdc2b5314ce3ff09d864d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x21",
-			"saga": "Martin Mystere",
-			"title": "Campeggio da Incubo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5d06da678cb45c4192267c3061983cc9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x22",
-			"saga": "Martin Mystere",
-			"title": "L`Uomo Ratto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9a65ef358a9abe4deb825289ef350ef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x23",
-			"saga": "Martin Mystere",
-			"title": "Le Linee di Nasca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2083a78e1c69aa12fc6468c68822fe4f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x24",
-			"saga": "Martin Mystere",
-			"title": "L`Urlo della Foresta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/837019929099cb34f3b5830939cec1c9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x25",
-			"saga": "Martin Mystere",
-			"title": "Il Vapore Amazzonico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b181e0ca1b35980ab3c8c6ca72249489"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "1x26",
-			"saga": "Martin Mystere",
-			"title": "L`armata di pietra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d01633daeef5b3587d5a2097d06474f1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x1",
-			"saga": "Martin Mystere",
-			"title": "Billy Ganthar - Prima Parte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f501acc1614a44451e5759ebdf8fe4d3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x2",
-			"saga": "Martin Mystere",
-			"title": "Billy Ganthar - Seconda Parte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9054b01fe6849f45bac4648ca6dea86"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x3",
-			"saga": "Martin Mystere",
-			"title": "Java Recita Shakespeare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/56a4bf5366914310b9896235526c0471"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x4",
-			"saga": "Martin Mystere",
-			"title": "Il ritorno dei vampiri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e0a970d6d7b4ae9c672c59ede370216b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x5",
-			"saga": "Martin Mystere",
-			"title": "La Maledizione della Djini",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3b9077502de350fd7709f8205e5af4e5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x6",
-			"saga": "Martin Mystere",
-			"title": "Diana la Dura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2393398068b3fb2fa3adaea04f29b952"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x7",
-			"saga": "Martin Mystere",
-			"title": "La Baia della Marea Gialla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/234f006c7610ee1f9a648649f7bb1f45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x8",
-			"saga": "Martin Mystere",
-			"title": "Alpha Omega",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9c82bd17c9b4047fefe259c331e6921"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x9",
-			"saga": "Martin Mystere",
-			"title": "Martin Regista dell`Orrore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2eded4119ee49282051d28c167ebb414"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x10",
-			"saga": "Martin Mystere",
-			"title": "Il Potere dei Veggenti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75c0b2be3d67621397097e580e2bf0fa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x11",
-			"saga": "Martin Mystere",
-			"title": "Missione in Antartide",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c5ccf56207771d7d025155d91c2078f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x12",
-			"saga": "Martin Mystere",
-			"title": "Il Portale del Male - Prima parte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5546cfc119e600b24ad4de1c2ced84f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x13",
-			"saga": "Martin Mystere",
-			"title": "Il Portale del Male - Seconda parte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/557c7488356e0eeefdcaf550dfe4e711"
-				}
-			]
-		},
-		{
-			"tmdb_id": 140,
-			"number": "2x14",
-			"saga": "Martin Mystere",
-			"title": "Flashback",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/57a864f40152e3d6300a436c305197e2"
-				}
-			]
-		}
+            "file_id": "ec3dc421988cdb66d0fb49e216ea6008",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "L`uomo nero",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.001 - L`uomo nero.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec3dc421988cdb66d0fb49e216ea6008"
+                }
+            ]
+        },
+        {
+            "file_id": "1522c01ec846be508c298fe226293fc4",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il risveglio della regina",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.002 - Il risveglio della regina.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1522c01ec846be508c298fe226293fc4"
+                }
+            ]
+        },
+        {
+            "file_id": "1f212fb20ab8c662364defbcc98649db",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "L`Amuleto dello Sciamano",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.003 - L`Amuleto dello Sciamano.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1f212fb20ab8c662364defbcc98649db"
+                }
+            ]
+        },
+        {
+            "file_id": "2200c4aa12137323140b58b5c7eef97e",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Lo Spirito del Lupo",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.004 - Lo Spirito del Lupo.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2200c4aa12137323140b58b5c7eef97e"
+                }
+            ]
+        },
+        {
+            "file_id": "8fa64c8efddf2f1b8d378ed273ec9f7b",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Drago del Tempo",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.005 - Il Drago del Tempo.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8fa64c8efddf2f1b8d378ed273ec9f7b"
+                }
+            ]
+        },
+        {
+            "file_id": "333ceca9f82b2395d411e31cf5543b14",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Tesoro del Leviatano",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.006 - Il Tesoro del Leviatano.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/333ceca9f82b2395d411e31cf5543b14"
+                }
+            ]
+        },
+        {
+            "file_id": "8f69a5ab33921fdafc55b0ca85af9f3c",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "La scatola del caos",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.007 - La scatola del caos.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8f69a5ab33921fdafc55b0ca85af9f3c"
+                }
+            ]
+        },
+        {
+            "file_id": "ac64a1df32d2b13964fe45bd093ca474",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Regno degli Incubi",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.008 - Il Regno degli Incubi.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac64a1df32d2b13964fe45bd093ca474"
+                }
+            ]
+        },
+        {
+            "file_id": "aa7f615b60862323a3bbdd6d5dd45f07",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Mistero della Sirena",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.009 - Il Mistero della Sirena.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa7f615b60862323a3bbdd6d5dd45f07"
+                }
+            ]
+        },
+        {
+            "file_id": "6aab66bad6d859ef6d978b104d4058a0",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Natale perfetto",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.010 - Il Natale perfetto.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6aab66bad6d859ef6d978b104d4058a0"
+                }
+            ]
+        },
+        {
+            "file_id": "9a0c4ba3a1c2723886497cf29a0fde4f",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Druido Oscuro",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.011 - Il Druido Oscuro.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a0c4ba3a1c2723886497cf29a0fde4f"
+                }
+            ]
+        },
+        {
+            "file_id": "b31c50f467e973de8123578f92eed032",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "La Scuola Stregata",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.012 - La Scuola Stregata.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b31c50f467e973de8123578f92eed032"
+                }
+            ]
+        },
+        {
+            "file_id": "3191ac642c6a3ea778f4dca7dd35424f",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Halloween",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.013 - Halloween.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3191ac642c6a3ea778f4dca7dd35424f"
+                }
+            ]
+        },
+        {
+            "file_id": "63655279f503b2bf66f82a8a95e9bf17",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Nad\u00f9 lo Spirito del Buio",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.014 - Nad\u00f9 lo Spirito del Buio.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/63655279f503b2bf66f82a8a95e9bf17"
+                }
+            ]
+        },
+        {
+            "file_id": "e16eb8a155f001587ca7caf3766a602c",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Una foto dal passato",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.015 - Una foto dal passato.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e16eb8a155f001587ca7caf3766a602c"
+                }
+            ]
+        },
+        {
+            "file_id": "c215355673fc7b140460a8a555a6edb6",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "A Qualcuno Piace Freddo",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.016 - A Qualcuno Piace Freddo.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c215355673fc7b140460a8a555a6edb6"
+                }
+            ]
+        },
+        {
+            "file_id": "52800c68f85285787f5f7ff902b7142c",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Uno Strano Virus",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.017 - Uno Strano Virus.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52800c68f85285787f5f7ff902b7142c"
+                }
+            ]
+        },
+        {
+            "file_id": "6f44073a56c299fa0837de21a6b72fa6",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "La Vendetta del Sosia",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.018 - La Vendetta del Sosia.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6f44073a56c299fa0837de21a6b72fa6"
+                }
+            ]
+        },
+        {
+            "file_id": "424efb5d32ddc7054ab0e1e9eefd9854",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Java il Cavernicolo",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.019 - Java il Cavernicolo.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/424efb5d32ddc7054ab0e1e9eefd9854"
+                }
+            ]
+        },
+        {
+            "file_id": "6da3cd2cce1266a6c401b03c42d977da",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Mistero dell`Uomo Falena",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.020 - Il Mistero dell`Uomo Falena.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6da3cd2cce1266a6c401b03c42d977da"
+                }
+            ]
+        },
+        {
+            "file_id": "686c3f916f897e80f8d9e766e0eda960",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Campeggio da Incubo",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.021 - Campeggio da Incubo.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/686c3f916f897e80f8d9e766e0eda960"
+                }
+            ]
+        },
+        {
+            "file_id": "c235fe34b5c185ab7ff69bde1ebb8c3c",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "L`Uomo Ratto",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.022 - L`Uomo Ratto.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c235fe34b5c185ab7ff69bde1ebb8c3c"
+                }
+            ]
+        },
+        {
+            "file_id": "8d0eefd22db9ac8a6054244334e43423",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Le Linee di Nasca",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.023 - Le Linee di Nasca.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d0eefd22db9ac8a6054244334e43423"
+                }
+            ]
+        },
+        {
+            "file_id": "167bfda61d02f78825d1aaaef4fdf805",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "L`Urlo della Foresta",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.024 - L`Urlo della Foresta.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/167bfda61d02f78825d1aaaef4fdf805"
+                }
+            ]
+        },
+        {
+            "file_id": "c12a8f90c3d0a8bf40a7801b9e61441a",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Vapore Amazzonico",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.025 - Il Vapore Amazzonico.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c12a8f90c3d0a8bf40a7801b9e61441a"
+                }
+            ]
+        },
+        {
+            "file_id": "92255d7aef3afa005f4c98c1bf9208f6",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "L`armata di pietra",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/1.026 - L`armata di pietra.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/92255d7aef3afa005f4c98c1bf9208f6"
+                }
+            ]
+        },
+        {
+            "file_id": "68a192923118d6a1407a9bde475551d5",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Billy Ganthar - Prima Parte",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.001 - Billy Ganthar - Prima Parte.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/68a192923118d6a1407a9bde475551d5"
+                }
+            ]
+        },
+        {
+            "file_id": "1a78e39a04c20eb34fc83f61f3181c3a",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Billy Ganthar - Seconda Parte",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.002 - Billy Ganthar - Seconda Parte.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a78e39a04c20eb34fc83f61f3181c3a"
+                }
+            ]
+        },
+        {
+            "file_id": "117b896559e24b4289f49853660ff180",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Java Recita Shakespeare",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.003 - Java Recita Shakespeare.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/117b896559e24b4289f49853660ff180"
+                }
+            ]
+        },
+        {
+            "file_id": "ecb66623eddd70caa57c49e59ff233fd",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il ritorno dei vampiri",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.004 - Il ritorno dei vampiri.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ecb66623eddd70caa57c49e59ff233fd"
+                }
+            ]
+        },
+        {
+            "file_id": "c504aa262b777d0c3dbf2452f0f8ec70",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "La Maledizione della Djini",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.005 - La Maledizione della Djini.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c504aa262b777d0c3dbf2452f0f8ec70"
+                }
+            ]
+        },
+        {
+            "file_id": "87f735687aa3cd4c2cbf85b7aa6d2ace",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Diana la Dura",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.006 - Diana la Dura.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87f735687aa3cd4c2cbf85b7aa6d2ace"
+                }
+            ]
+        },
+        {
+            "file_id": "65ad91a9a3876ddedf3dad069a1886b6",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "La Baia della Marea Gialla",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.007 - La Baia della Marea Gialla.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/65ad91a9a3876ddedf3dad069a1886b6"
+                }
+            ]
+        },
+        {
+            "file_id": "35e76ea582c546c6013e05f42878261d",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Alpha Omega",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.008 - Alpha Omega.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/35e76ea582c546c6013e05f42878261d"
+                }
+            ]
+        },
+        {
+            "file_id": "0c11f16a872a74baddfdbce1162dd6a7",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Martin Regista dell`Orrore",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.009 - Martin Regista dell`Orrore.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c11f16a872a74baddfdbce1162dd6a7"
+                }
+            ]
+        },
+        {
+            "file_id": "5b87eb93cd0d65b9ff5fb6e493475aa3",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Potere dei Veggenti",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.010 - Il Potere dei Veggenti.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5b87eb93cd0d65b9ff5fb6e493475aa3"
+                }
+            ]
+        },
+        {
+            "file_id": "d4b5099e237bae5a1055773311a5f364",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Missione in Antartide",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.011 - Missione in Antartide.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d4b5099e237bae5a1055773311a5f364"
+                }
+            ]
+        },
+        {
+            "file_id": "05090580de73abff683e3bc0a8d927b9",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Portale del Male - Prima parte",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.012 - Il Portale del Male - Prima parte.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/05090580de73abff683e3bc0a8d927b9"
+                }
+            ]
+        },
+        {
+            "file_id": "b773fd8e59c64dfff5bafc9373210b68",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Il Portale del Male - Seconda parte",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.013 - Il Portale del Male - Seconda parte.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b773fd8e59c64dfff5bafc9373210b68"
+                }
+            ]
+        },
+        {
+            "file_id": "3b3a14c561d901598b9954692a263bbf",
+            "tmdb_id": 140,
+            "saga": "Martin Mystere",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione"],
+            "title": "Flashback",
+            "fname": "/Anime & Cartoni/Martin Mystere [a140]/2.014 - Flashback.avi",
+            "year": "2003",
+            "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b3a14c561d901598b9954692a263bbf"
+                }
+            ]
+        }
     ]
 }

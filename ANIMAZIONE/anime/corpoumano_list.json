@@ -1,340 +1,470 @@
 {
     "episodes_list": [
         {
-            "number":"1x1",
-            "saga":"Esplorando il corpo umano",
-            "title":"L'Origine della Vita",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316491.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "2d20481b341a3c8bb0f2b8b6df423f59",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "L'Origine della Vita",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.01 - L'Origine della Vita.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/98647a51940eba8be6c738bd6d909295"
+                    "url": "http://51.77.159.233:30299/2d20481b341a3c8bb0f2b8b6df423f59"
                 }
             ]
         },
         {
-            "number":"1x2",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Nascita",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316492.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "9c0ed539bfb00584885b868fd561ee38",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Nascita",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.02 - La Nascita.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/8b439ab5be8d3a464b652c630518f6a4"
+                    "url": "http://51.77.159.233:30299/9c0ed539bfb00584885b868fd561ee38"
                 }
             ]
         },
         {
-            "number":"1x3",
-            "saga":"Esplorando il corpo umano",
-            "title":"Le Sentinelle dell'Organismo",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316493.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "4a197392e57f2c72114324312f3d2a16",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Le Sentinelle dell'Organismo",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.03 - Le Sentinelle dell'Organismo.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/dd2039937744e69b8ad7d7feea20e6ef"
+                    "url": "http://51.77.159.233:30299/4a197392e57f2c72114324312f3d2a16"
                 }
             ]
         },
         {
-            "number":"1x4",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Midollo Osseo",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316494.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "a0912c01daf38c3cfee94f68c744aca1",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Midollo Osseo",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.04 - Il Midollo Osseo.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/8caf244632fab0df7d22a69dc248f00d"
+                    "url": "http://51.77.159.233:30299/a0912c01daf38c3cfee94f68c744aca1"
                 }
             ]
         },
         {
-            "number":"1x5",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Sangue",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316495.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "d3bd664158857ac9512c6365efe393cb",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Sangue",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.05 - Il Sangue.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/b041c7c5d8f569a3f9bf408f75a4a5a0"
+                    "url": "http://51.77.159.233:30299/d3bd664158857ac9512c6365efe393cb"
                 }
             ]
         },
         {
-            "number":"1x6",
-            "saga":"Esplorando il corpo umano",
-            "title":"Le Piastrine",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316496.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "78b377ed465e41bbb112ce93fe2dbae3",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Le Piastrine",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.06 - Le Piastrine.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/87bd9a14d8fcf0f0cdf07d627c6a3745"
+                    "url": "http://51.77.159.233:30299/78b377ed465e41bbb112ce93fe2dbae3"
                 }
             ]
         },
         {
-            "number":"1x7",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Cuore",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316497.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "ea0d90e37c2e828acfc55eee2836cb2c",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Cuore",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.07 - Il Cuore.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/5620cc8e9196ed19454fa57d1cae7103"
+                    "url": "http://51.77.159.233:30299/ea0d90e37c2e828acfc55eee2836cb2c"
                 }
             ]
         },
         {
-            "number":"1x8",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Respirazioe",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316498.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "9e01db6f508d301c18008bcb6bb98215",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Respirazioe",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.08 - La Respirazioe.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/a6b1a5a195c557427b7b66c31608c298"
+                    "url": "http://51.77.159.233:30299/9e01db6f508d301c18008bcb6bb98215"
                 }
             ]
         },
         {
-            "number":"1x9",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Cervello",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316499.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "7d7987fc64fa7ee46c80bad4008347d2",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Cervello",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.09 - Il Cervello.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/2e41e230d4b31643095aa8fa0f222e07"
+                    "url": "http://51.77.159.233:30299/7d7987fc64fa7ee46c80bad4008347d2"
                 }
             ]
         },
         {
-            "number":"1x10",
-            "saga":"Esplorando il corpo umano",
-            "title":"I Neuroni",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316500.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "d7032ba5afb5cdb55575090ecd469113",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "I Neuroni",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.10 - I Neuroni.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/1fe82a7316cb2d6c6aa14b3223dff282"
+                    "url": "http://51.77.159.233:30299/d7032ba5afb5cdb55575090ecd469113"
                 }
             ]
         },
         {
-            "number":"1x11",
-            "saga":"Esplorando il corpo umano",
-            "title":"L'Occhio",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316501.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "92bf191bebbd83ce14bef13686f3295d",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "L'Occhio",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.11 - L'Occhio.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/a0c5b9e9be7edba0b5a9a0dd67536c11"
+                    "url": "http://51.77.159.233:30299/92bf191bebbd83ce14bef13686f3295d"
                 }
             ]
         },
         {
-            "number":"1x12",
-            "saga":"Esplorando il corpo umano",
-            "title":"L'Orecchio",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316502.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "f08c3af86595a127e8b63ef4689962b2",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "L'Orecchio",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.12 - L'Orecchio.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/0a5270114936df2406b56c3d441b8e3e"
+                    "url": "http://51.77.159.233:30299/f08c3af86595a127e8b63ef4689962b2"
                 }
             ]
         },
         {
-            "number":"1x13",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Pelle",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316503.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "ad014134ff59a8bdf6d5c921a5416501",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Pelle",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.13 - La Pelle.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/b321776ed9b8b3cefe4a72e951d10069"
+                    "url": "http://51.77.159.233:30299/ad014134ff59a8bdf6d5c921a5416501"
                 }
             ]
         },
         {
-            "number":"1x14",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Bocca e i Denti",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316504.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "b3e7b3162fb40bdbd1c1fecf2b792ade",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Bocca e i Denti",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.14 - La Bocca e i Denti.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/095b58abcd5db7603c6f2436ad50ca8b"
+                    "url": "http://51.77.159.233:30299/b3e7b3162fb40bdbd1c1fecf2b792ade"
                 }
             ]
         },
         {
-            "number":"1x15",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Digestione",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316505.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "6001ebd9e99487d2afbe7301f4f9b066",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Digestione",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.15 - La Digestione.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/60cbb6cd8981ae59345fd145cd932677"
+                    "url": "http://51.77.159.233:30299/6001ebd9e99487d2afbe7301f4f9b066"
                 }
             ]
         },
         {
-            "number":"1x16",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Fegato",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316506.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "3a7dbdb349799b73ff2c042cd6f9252e",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Fegato",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.16 - Il Fegato.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/92889ab48cad110ec74944190cfde32c"
+                    "url": "http://51.77.159.233:30299/3a7dbdb349799b73ff2c042cd6f9252e"
                 }
             ]
         },
         {
-            "number":"1x17",
-            "saga":"Esplorando il corpo umano",
-            "title":"I Reni",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316507.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "c6bad96df2b05183e4552b31cc31a6a6",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "I Reni",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.17 - I Reni.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/f975242b20ff87c341a2676a1fa7cf04"
+                    "url": "http://51.77.159.233:30299/c6bad96df2b05183e4552b31cc31a6a6"
                 }
             ]
         },
         {
-            "number":"1x18",
-            "saga":"Esplorando il corpo umano",
-            "title":"Il Sistema Linfatico",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316508.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "a476b26d3b134f9e2de7027655af6c2c",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Il Sistema Linfatico",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.18 - Il Sistema Linfatico.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/7e44586647ee2e8cd5db43b7c45f5e4d"
+                    "url": "http://51.77.159.233:30299/a476b26d3b134f9e2de7027655af6c2c"
                 }
             ]
         },
         {
-            "number":"1x19",
-            "saga":"Esplorando il corpo umano",
-            "title":"Lo Scheletro",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316509.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "9e987dce9872798fa774c9087eded802",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Lo Scheletro",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.19 - Lo Scheletro.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/ecd3f7ac15490f1cad7ba837daddc124"
+                    "url": "http://51.77.159.233:30299/9e987dce9872798fa774c9087eded802"
                 }
             ]
         },
         {
-            "number":"1x20",
-            "saga":"Esplorando il corpo umano",
-            "title":"I Muscoli",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316510.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "d9166b38a940a563adc575187458b0a1",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "I Muscoli",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.20 - I Muscoli.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/7b4f15cb3e6d2b93272ac17fa5caed64"
+                    "url": "http://51.77.159.233:30299/d9166b38a940a563adc575187458b0a1"
                 }
             ]
         },
         {
-            "number":"1x21",
-            "saga":"Esplorando il corpo umano",
-            "title":"Guerra ai Microbi",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316511.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "b4605d12a3c06f9689986eaaba24ed79",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Guerra ai Microbi",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.21 - Guerra ai Microbi.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/34469cc4653c4a8b682b137a8ca282d7"
+                    "url": "http://51.77.159.233:30299/b4605d12a3c06f9689986eaaba24ed79"
                 }
             ]
         },
         {
-            "number":"1x22",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Vaccinazione",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316512.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "f0709dc9b646f9c75dccf0473cbdad5e",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Vaccinazione",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.22 - La Vaccinazione.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/6daceb7029a1aea3708181dd34076c61"
+                    "url": "http://51.77.159.233:30299/f0709dc9b646f9c75dccf0473cbdad5e"
                 }
             ]
         },
         {
-            "number":"1x23",
-            "saga":"Esplorando il corpo umano",
-            "title":"Gli Ormoni",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316513.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "5e31082fa38760ac4d597677f0941bd5",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Gli Ormoni",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.23 - Gli Ormoni.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/9206df69d770aa5ee3eb5dea72ba028b"
-				}
-            ]
-        },
-        {
-            "number":"1x24",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Catena della Vita",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316514.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
-                {
-                    "url": "http://51.77.159.233:30299/2336edb13f623fbc9749f206fc24b9c2"
+                    "url": "http://51.77.159.233:30299/5e31082fa38760ac4d597677f0941bd5"
                 }
             ]
         },
         {
-            "number":"1x25",
-            "saga":"Esplorando il corpo umano",
-            "title":"La Vita e il Sogno",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316515.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "d237d081b25cc0b0ef8de521d99a22ac",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Catena della Vita",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.24 - La Catena della Vita.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/f5ebc34de70fbda508681c393d9c7beb"
+                    "url": "http://51.77.159.233:30299/d237d081b25cc0b0ef8de521d99a22ac"
                 }
             ]
         },
         {
-            "number":"1x26",
-            "saga":"Esplorando il corpo umano",
-            "title":"Le Età dell'Uomo",
-            "genre":["Animation", "Children"],
-            "tumbnail":"https://api.thetvdb.com/episodes/79158/316516.jpg",
-            "dirctor":"Albert Barillé",
-            "links":[
+            "file_id": "c54d251aff1322f354e7a647b214cccb",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "La Vita e il Sogno",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.25 - La Vita e il Sogno.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
                 {
-                    "url": "http://51.77.159.233:30299/be65718fef21d9aa603a8a6788182544"
+                    "url": "http://51.77.159.233:30299/c54d251aff1322f354e7a647b214cccb"
+                }
+            ]
+        },
+        {
+            "file_id": "91d5ccccbc8587b67f94b36014780852",
+            "tmdb_id": 2632,
+            "saga": "Esplorando il corpo umano",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Famiglia", "Animazione", "Documentario"],
+            "title": "Le Et\u00e0 dell'Uomo",
+            "fname": "/Anime & Cartoni/Esplorando il corpo umano [a2632]/1.26 - Le Et\u00e0 dell'Uomo.mkv",
+            "year": "1987",
+            "plot": "Creata da\u00a0Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel\u00a01987\u00a0da\u00a0France 3\u00a0in\u00a0Francia\u00a0e nello stesso anno in\u00a0Svizzera\u00a0dalla\u00a0Radiotelevisione svizzera di lingua italiana. In\u00a0Italia\u00a0\u00e8 stato messo in onda su\u00a0Italia 1, su\u00a0Boing\u00a0e su\u00a0Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai\u00a0globuli bianchi\u00a0alle\u00a0vitamine, ai componenti del\u00a0DNA.",
+            "actors": ["Roger Carel", "Gilles Laurent", "Marie-Laure Beneston", "Alain Dorval", "Henry Djanik"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91d5ccccbc8587b67f94b36014780852"
                 }
             ]
         }  

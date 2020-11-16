@@ -1,290 +1,472 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 96080,
-			"number": "1x1",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "La figlia del Corsaro Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4a3b4b38609f579e350bafef52964f25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x2",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Nel carcere di Maracaibo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3c7ffaaf7af4e9a2fc7eebb0ff453119"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x3",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Matrimonio Improvvisato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a51c1c0aa792723631f112a89bf3a03"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x4",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Incendio a bordo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c945f1f146bec42fa07cdb9b049c1d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x5",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il terrore dei mari",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bd694d72a15c00aaa04fc4c40ed62975"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x6",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Paloma Grande",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/26280ed7b3b6fefa104ae95290c1dac9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x7",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Nel cuore del vulcano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03f813dccbfcf1628cbe0e71356ab772"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x8",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Attacco all`isola di Tortuga",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b4cb45e0ec49e2bb68a69837cd9d891"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x9",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "All`arrembaggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2eebf8f66a2b978ba11799b755143dc6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x10",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Naufragio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e91e842c18dd43e575368f82977792b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x11",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Festa mascherata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/452f5974b445830336eda64a4f7d7615"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x12",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Fuga nella giungla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e39c9d65819f3afe51089196a3aa00f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x13",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il covo dei pirati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f0e7c1eee3ddd9d8237c330caa9511ef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x14",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il castello stregato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83724de820a88ddfed8586d374566725"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x15",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il tesoro del marchese",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9bbdfca61f9b61c4efe824adbf5a7ad0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x16",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il segreto della piramide",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/68714ff96d3150caa90f419ba57b4903"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x17",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il traditore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d68c717fff52b3024da8b3605b917ba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x18",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "La cascata degli angeli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a0a6faaeb02d486005d57fecf3a67520"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x19",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "La maledizione del Corsaro Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ab5d9926260864e4de3ad4d76bf7197f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x20",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il tradimento di Natzul",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4519be9d12dae8b4fade4daced3c651c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x21",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "La scorciatoia segreta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd865fb6a0893e16397a39328bb45337"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x22",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Nell`occhio del ciclone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae92e260291974ec02b2fb9ab401f654"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x23",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "La Rosa nera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d0f92ba550dbadd7f66662e82bc64b7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x24",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Le isole gemelle",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1eca52f3196d325ef0c365611c49909c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x25",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Fantasmi e apparizioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/708399b5ecedc9027c0466db0716c8bf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 96080,
-			"number": "1x26",
-			"saga": "Jolanda la figlia del Corsaro Nero",
-			"title": "Il Corsaro Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1364ef14845b1c4e56a61c6b47e2f5d"
-				}
-			]
-		}
+            "file_id": "ff91089c01ac13b813b790787987c54a",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La figlia del Corsaro Nero",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.001 - La figlia del Corsaro Nero.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ff91089c01ac13b813b790787987c54a"
+                }
+            ]
+        },
+        {
+            "file_id": "0946d2d103462e57fe0969e6ef0b3379",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Nel carcere di Maracaibo",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.002 - Nel carcere di Maracaibo.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0946d2d103462e57fe0969e6ef0b3379"
+                }
+            ]
+        },
+        {
+            "file_id": "28f27b3c7bc82b7eca1e071ee483a3a0",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Matrimonio Improvvisato",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.003 - Matrimonio Improvvisato.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/28f27b3c7bc82b7eca1e071ee483a3a0"
+                }
+            ]
+        },
+        {
+            "file_id": "7928eeb57b7006e7f3602e96bb9008e8",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Incendio a bordo",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.004 - Incendio a bordo.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7928eeb57b7006e7f3602e96bb9008e8"
+                }
+            ]
+        },
+        {
+            "file_id": "4471f29b01957d8e76fa33a82e648ec7",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il terrore dei mari",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.005 - Il terrore dei mari.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4471f29b01957d8e76fa33a82e648ec7"
+                }
+            ]
+        },
+        {
+            "file_id": "73e7257769b8d0cc25b2b0aada77a6e5",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Paloma Grande",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.006 - Paloma Grande.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/73e7257769b8d0cc25b2b0aada77a6e5"
+                }
+            ]
+        },
+        {
+            "file_id": "128d31e883ebe3e7d3c339a1a7beb62e",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Nel cuore del vulcano",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.007 - Nel cuore del vulcano.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/128d31e883ebe3e7d3c339a1a7beb62e"
+                }
+            ]
+        },
+        {
+            "file_id": "9738f6074ca305405e91ad53713f1042",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Attacco all`isola di Tortuga",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.008 - Attacco all`isola di Tortuga.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9738f6074ca305405e91ad53713f1042"
+                }
+            ]
+        },
+        {
+            "file_id": "e7841c4b18364721af50c1e0d2dbaf02",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "All`arrembaggio",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.009 - All`arrembaggio.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e7841c4b18364721af50c1e0d2dbaf02"
+                }
+            ]
+        },
+        {
+            "file_id": "20a0aacbc15dc849e1481543e71e2229",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Naufragio",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.010 - Naufragio.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/20a0aacbc15dc849e1481543e71e2229"
+                }
+            ]
+        },
+        {
+            "file_id": "5d603c6876ee90404afb28ccf62eb609",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Festa mascherata",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.011 - Festa mascherata.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5d603c6876ee90404afb28ccf62eb609"
+                }
+            ]
+        },
+        {
+            "file_id": "064abe8bd16bb4f3ff06dac6c0a9dfb5",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Fuga nella giungla",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.012 - Fuga nella giungla.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/064abe8bd16bb4f3ff06dac6c0a9dfb5"
+                }
+            ]
+        },
+        {
+            "file_id": "a26d62525d4b2c47687de202f783782f",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il covo dei pirati",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.013 - Il covo dei pirati.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a26d62525d4b2c47687de202f783782f"
+                }
+            ]
+        },
+        {
+            "file_id": "d3b9bb38dbdae5b60ba455ee04406c82",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il castello stregato",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.014 - Il castello stregato.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3b9bb38dbdae5b60ba455ee04406c82"
+                }
+            ]
+        },
+        {
+            "file_id": "b1c64b7e8385d3801b33fb20238131f5",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il tesoro del marchese",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.015 - Il tesoro del marchese.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b1c64b7e8385d3801b33fb20238131f5"
+                }
+            ]
+        },
+        {
+            "file_id": "a4c9d7430133bf3d21712ab7b9caf6a7",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il segreto della piramide",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.016 - Il segreto della piramide.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4c9d7430133bf3d21712ab7b9caf6a7"
+                }
+            ]
+        },
+        {
+            "file_id": "3a5d0fd8e6631de69941ecb17edc349d",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il traditore",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.017 - Il traditore.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3a5d0fd8e6631de69941ecb17edc349d"
+                }
+            ]
+        },
+        {
+            "file_id": "c96c88499ae328aa7456649d7432c73b",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La cascata degli angeli",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.018 - La cascata degli angeli.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c96c88499ae328aa7456649d7432c73b"
+                }
+            ]
+        },
+        {
+            "file_id": "625c38213a81960b7dacf933840a24b8",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La maledizione del Corsaro Nero",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.019 - La maledizione del Corsaro Nero.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/625c38213a81960b7dacf933840a24b8"
+                }
+            ]
+        },
+        {
+            "file_id": "66690c7412e238fbc42ec6fe19be1a88",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il tradimento di Natzul",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.020 - Il tradimento di Natzul.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/66690c7412e238fbc42ec6fe19be1a88"
+                }
+            ]
+        },
+        {
+            "file_id": "5055692d80076acf9310bb54201f7b4a",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La scorciatoia segreta",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.021 - La scorciatoia segreta.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5055692d80076acf9310bb54201f7b4a"
+                }
+            ]
+        },
+        {
+            "file_id": "3a8896360d1276c035943e600fcca999",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Nell`occhio del ciclone",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.022 - Nell`occhio del ciclone.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3a8896360d1276c035943e600fcca999"
+                }
+            ]
+        },
+        {
+            "file_id": "3e953c9ab35d490ad309eae16e994bb1",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La Rosa nera",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.023 - La Rosa nera.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3e953c9ab35d490ad309eae16e994bb1"
+                }
+            ]
+        },
+        {
+            "file_id": "a6839a9c9dfa2cfe24da9ede142a855d",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Le isole gemelle",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.024 - Le isole gemelle.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6839a9c9dfa2cfe24da9ede142a855d"
+                }
+            ]
+        },
+        {
+            "file_id": "b535f733777cc2f42e98e7df7b846b5a",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Fantasmi e apparizioni",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.025 - Fantasmi e apparizioni.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b535f733777cc2f42e98e7df7b846b5a"
+                }
+            ]
+        },
+        {
+            "file_id": "5ca6ab10cab9db852f101522b221984b",
+            "tmdb_id": 96080,
+            "saga": "Jolanda la figlia del Corsaro Nero",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il Corsaro Nero",
+            "fname": "/Anime & Cartoni/Jolanda la figlia del Corsaro Nero [a96080]/1.026 - Il Corsaro Nero.mp4",
+            "year": "1999",
+            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "actors": ["M\u00f3nica Manjarrez", "Alejandro Illescas", "Jorge Santos"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ca6ab10cab9db852f101522b221984b"
+                }
+            ]
+        }
     ]
 }

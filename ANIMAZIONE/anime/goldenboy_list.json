@@ -1,81 +1,128 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 34105,
-			"number": "1x1",
+            "file_id": "7d116c6abd1f1b1814d015aa48de98b6",
+            "tmdb_id": 34105,
             "saga": "Golden Boy",
-			"title": "A scuola di computer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c0a33962fec36cabc4b8082b05703a8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "1x2",
-			"saga": "Golden Boy",
-			"title": "L'angelo della seduzione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2db8ad5f461b2d8893b32137ff5db753"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "1x3",
-			"saga": "Golden Boy",
-			"title": "Quando sboccia un primo amore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/971763ca3d6e89e9b65f296dc9934eb1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "1x4",
-			"saga": "Golden Boy",
-			"title": "Nuotare nelle acque selvagge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db7aa146da2d2b97f5bc13ba9af593e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "1x5",
-			"saga": "Golden Boy",
-			"title": "Gioventù senza freni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f2e9468979733f222a2fd111750c48fe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "1x6",
-			"saga": "Golden Boy",
-			"title": "I cartoni animati sono fantastici!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1db2feb15326e6122779ef58e711057c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 34105,
-			"number": "0x0",
-			"saga": "Golden Boy",
-			"title": "Anime & Cartoni/Golden Boy [a34105]/SIGLA Iniziale Golden Boy.mp4",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79bddec003bff673ab646226be5ed58f"
-				}
-			]
-		}
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Commedia"],
+            "title": "A scuola di computer",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.001 A scuola di computer.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d116c6abd1f1b1814d015aa48de98b6"
+                }
+            ]
+        },
+        {
+            "file_id": "0b1188051680dc8f9a14eec611584f73",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Commedia"],
+            "title": "L'angelo della seduzione",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.002  L'angelo della seduzione.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b1188051680dc8f9a14eec611584f73"
+                }
+            ]
+        },
+        {
+            "file_id": "4652939782ad294d3e412bf4ac14a49b",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Commedia"],
+            "title": "Quando sboccia un primo amore",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.003 Quando sboccia un primo amore.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4652939782ad294d3e412bf4ac14a49b"
+                }
+            ]
+        },
+        {
+            "file_id": "64d652919af2bee1e0931c10d20335da",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Commedia"],
+            "title": "Nuotare nelle acque selvagge",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.004 Nuotare nelle acque selvagge.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/64d652919af2bee1e0931c10d20335da"
+                }
+            ]
+        },
+        {
+            "file_id": "c5abc857d78e24624b16790e9fc5c73a",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Commedia"],
+            "title": "Giovent\u00f9 senza freni",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.005 Giovent\u00f9 senza freni.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c5abc857d78e24624b16790e9fc5c73a"
+                }
+            ]
+        },
+        {
+            "file_id": "58e6f938e07dc04e95cea59d341ccaaa",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Commedia"],
+            "title": "I cartoni animati sono fantastici!",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/1.006 I cartoni animati sono fantastici!.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/58e6f938e07dc04e95cea59d341ccaaa"
+                }
+            ]
+        },
+        {
+            "file_id": "8da34ef10a99ee12a9efb08c8e43965e",
+            "tmdb_id": 34105,
+            "saga": "Golden Boy",
+            "genre": ["Animazione", "Commedia"],
+            "title": "SIGLA Iniziale Golden Boy",
+            "fname": "/Anime & Cartoni/Golden Boy [a34105]/SIGLA Iniziale Golden Boy.mp4",
+            "year": "1995",
+            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "actors": ["Mitsuo Iwata", "Gor\u014d Naya", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Yuri Shiratori", "Kikuko Inoue", "Sakiko Tamagawa", "Mika Kanai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8da34ef10a99ee12a9efb08c8e43965e"
+                }
+            ]
+        }
     ]
 }

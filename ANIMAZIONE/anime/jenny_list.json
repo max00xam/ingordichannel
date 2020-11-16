@@ -1,92 +1,157 @@
 {
     "episodes_list": [
+        ,
         {
-			"tmdb_id": 46419,
-			"number": "1x1",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_01.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f718cb9729fb5afe8ed98727712c6d11"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x2",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_02.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/671a53e5aa985eb0ea7af199e9efd3cc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x3",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_03.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43b3b7930430044811e2301f4f2d58ea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x4",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_04.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5b4b9469e81b6d2545a3d721f4f68b3b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x5",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_05.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e14d6f1678a1d3e60177820b3f4917a2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x6",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_06.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b4fc35b95cc153626cb4c0b8ed875bf9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x7",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_07.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/512bad450d6a3789a8758d9e0b4127c7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 46419,
-			"number": "1x8",
-			"saga": "Jenny la tennista",
-			"title": "Anime & Cartoni/Jenny la tennista [a46419]/jenny_08.avi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cfdcb397a43b0a2238598c7209e6038f"
-				}
-			]
-		}
+            "file_id": "9d7db8d5930f6d631bb026800c4e3edb",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_01",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_01.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d7db8d5930f6d631bb026800c4e3edb"
+                }
+            ]
+        },
+        {
+            "file_id": "d96061ccb4c89ac43ebab7fc08fa6e9b",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_02",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_02.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d96061ccb4c89ac43ebab7fc08fa6e9b"
+                }
+            ]
+        },
+        {
+            "file_id": "60b53ff4d5e32e0f3f5de7f688e10d3f",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_03",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_03.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/60b53ff4d5e32e0f3f5de7f688e10d3f"
+                }
+            ]
+        },
+        {
+            "file_id": "57fd87b2c66a299f232d59918d146696",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_04",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_04.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57fd87b2c66a299f232d59918d146696"
+                }
+            ]
+        },
+        {
+            "file_id": "5a4dedef70c4b3b35eb7bec0442062eb",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_05",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_05.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a4dedef70c4b3b35eb7bec0442062eb"
+                }
+            ]
+        },
+        {
+            "file_id": "3e996ce3fa2c2cc33e28b943b09be926",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_06",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_06.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3e996ce3fa2c2cc33e28b943b09be926"
+                }
+            ]
+        },
+        {
+            "file_id": "397179cfcfae0cd0fac5c0a71d4b99bb",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_07",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_07.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/397179cfcfae0cd0fac5c0a71d4b99bb"
+                }
+            ]
+        },
+        {
+            "file_id": "657e5f79207b3912e967d23ec11af332",
+            "tmdb_id": 46419,
+            "saga": "Jenny la tennista",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Dramma", "Animazione"],
+            "title": "jenny_08",
+            "fname": "/Anime & Cartoni/Jenny la tennista [a46419]/jenny_08.avi",
+            "year": "1973",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento. Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "director": ["Osamu Dezaki"],
+            "actors": ["Nachi Nozawa", "Masako Ikeda", "Katsuji Mori", "Shinji Toyota", "Kazuyuki Sogabe", "Makoto Kousaka", "K\u00f4ji Nakata", "Toshiko Sawada", "Michihiro Ikemizu", "Masako Sugaya", "Yoshiko Ohta", "Kazuko Yanaga"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/657e5f79207b3912e967d23ec11af332"
+                }
+            ]
+        }
     ]
 }

@@ -1,373 +1,596 @@
 {
     "episodes_list": [
-        { 
+        {
+            "file_id": "d7646c368ad07f2db8f5e59098741daf",
             "tmdb_id": 31724,
-            "number": "1x1",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il giorno in cui nacque il demonio",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.01 - Il giorno in cui nacque il demonio.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/7da43b7bee61d80e8861b6ccea759beb"
+                    "url": "http://51.77.159.233:30299/d7646c368ad07f2db8f5e59098741daf"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "2a13b739634d1b6e0b40145e6c490c7a",
             "tmdb_id": 31724,
-            "number": "1x2",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il risveglio del cavaliere bianco",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.02 - Il risveglio del cavaliere bianco.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/ad2428a817878441f440c24d9e5816e3"
+                    "url": "http://51.77.159.233:30299/2a13b739634d1b6e0b40145e6c490c7a"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "1d02057b54676acf87b821f214ffe25e",
             "tmdb_id": 31724,
-            "number": "1x3",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il falso compagno di classe",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.03 - Il falso compagno di classe.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/0c317f13a7cf6d8dbdca20b34757a1d6"
+                    "url": "http://51.77.159.233:30299/1d02057b54676acf87b821f214ffe25e"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "edd9c8c321c2a028042787db2d9c4fd3",
             "tmdb_id": 31724,
-            "number": "1x4",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il Suo Nome E' Zero",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.04 - Il Suo Nome E' Zero.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/dc1e3e3efa6dfb2cc3696416baa741fe"
+                    "url": "http://51.77.159.233:30299/edd9c8c321c2a028042787db2d9c4fd3"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "20f01bb5478f6e577c6dbed2e0634748",
             "tmdb_id": 31724,
-            "number": "1x5",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "La Principessa e la Strega",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.05 - La Principessa e la Strega.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/23c9d086c8d75b2ef195a16d5aed053a"
+                    "url": "http://51.77.159.233:30299/20f01bb5478f6e577c6dbed2e0634748"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "4c00da477cfdfef9a07221e05d9bb38e",
             "tmdb_id": 31724,
-            "number": "1x6",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "La maschera rubata",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.06 - La maschera rubata.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/82bf09821b17203f44626548d1c6c624"
+                    "url": "http://51.77.159.233:30299/4c00da477cfdfef9a07221e05d9bb38e"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "6a58696933f0a11b48202aab59b2ebf4",
             "tmdb_id": 31724,
-            "number": "1x7",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Attacco a Cornelia",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.07 - Attacco a Cornelia.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/5603ad30f36dbdafd9685dc9393864de"
+                    "url": "http://51.77.159.233:30299/6a58696933f0a11b48202aab59b2ebf4"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "4cb3820f13adde8e737600a6f07b23b6",
             "tmdb_id": 31724,
-            "number": "1x8",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "L'ordine dei cavalieri neri",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.08 - L'ordine dei cavalieri neri.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/63ce959132fd7c9e771b009b90d2ca1a"
+                    "url": "http://51.77.159.233:30299/4cb3820f13adde8e737600a6f07b23b6"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "aaaed309a49b9b25266adfc2b0c09494",
             "tmdb_id": 31724,
-            "number": "1x9",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Refrain",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.09 - Refrain.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/c047b2caaef8e88d40cfc7cba11b24b5"
+                    "url": "http://51.77.159.233:30299/aaaed309a49b9b25266adfc2b0c09494"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "52936a27ebf1ce89730987db0cb40d95",
             "tmdb_id": 31724,
-            "number": "1x10",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "La Danza Del Loto Cremisi",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.10 - La Danza Del Loto Cremisi.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/c6faa22a967062cc11cbb10ea6f5a947"
+                    "url": "http://51.77.159.233:30299/52936a27ebf1ce89730987db0cb40d95"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "c1b02ad00208ed7307c20afd14097308",
             "tmdb_id": 31724,
-            "number": "1x11",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "La Disfida di Narita",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.11 - La Disfida di Narita.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/3a292f7929260c8cc727ad54a68698d6"
+                    "url": "http://51.77.159.233:30299/c1b02ad00208ed7307c20afd14097308"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "f649eccbfcdf9038b61392b70cea4c73",
             "tmdb_id": 31724,
-            "number": "1x12",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il Messo di Kyoto",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.12 - Il Messo di Kyoto.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/365559b9065350e9583b6cf809eaed0a"
+                    "url": "http://51.77.159.233:30299/f649eccbfcdf9038b61392b70cea4c73"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "b67f172d47bcb558af67d4d6a6704247",
             "tmdb_id": 31724,
-            "number": "1x13",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Nel Mirino di Shirley",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.13 - Nel Mirino di Shirley.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/d823884b790f940641c158d34ef50d80"
+                    "url": "http://51.77.159.233:30299/b67f172d47bcb558af67d4d6a6704247"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "eba60fe62a55fd57d5541926e2ded85d",
             "tmdb_id": 31724,
-            "number": "1x14",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Geass Contro Geass",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.14 - Geass Contro Geass.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/d94583cecf3b6958be645bc93781fd18"
+                    "url": "http://51.77.159.233:30299/eba60fe62a55fd57d5541926e2ded85d"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "90a1517426593a78b677b9fcb864c579",
             "tmdb_id": 31724,
-            "number": "1x15",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "L'Ammirazione di Mao",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.15 - L'Ammirazione di Mao.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/7d3aedfd3f6ed37c55d10db9f2bec54f"
+                    "url": "http://51.77.159.233:30299/90a1517426593a78b677b9fcb864c579"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "3ded10f9da2f4ac552dc510f51c015be",
             "tmdb_id": 31724,
-            "number": "1x16",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il Rapimento di Nunnally",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.16 - Il Rapimento di Nunnally.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/cf6828cf6b4d4c4c75ba90ad6a6f2896"
+                    "url": "http://51.77.159.233:30299/3ded10f9da2f4ac552dc510f51c015be"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "2355a2215c675efb820a7f0bb310b551",
             "tmdb_id": 31724,
-            "number": "1x17",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Cavaliere",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.17 - Cavaliere.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/52f12a824d84f70858f89e8f7485f15d"
+                    "url": "http://51.77.159.233:30299/2355a2215c675efb820a7f0bb310b551"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "d2082ec910e8e6a66f872ff412f61b17",
             "tmdb_id": 31724,
-            "number": "1x18",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Un ordine per Suzaku Kururugi",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.18 - Un ordine per Suzaku Kururugi.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4695d9efef2308c187809f258f1aa933"
+                    "url": "http://51.77.159.233:30299/d2082ec910e8e6a66f872ff412f61b17"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "c24c343f187def042a9c45c00c882d43",
             "tmdb_id": 31724,
-            "number": "1x19",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "L'isola degli dei",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.19 - L'isola degli dei.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4e9c3c9b319c6dbe74acef1f93df0e27"
+                    "url": "http://51.77.159.233:30299/c24c343f187def042a9c45c00c882d43"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "50fbeac8eda2fbd8698e59b8bda7ade9",
             "tmdb_id": 31724,
-            "number": "1x20",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il conflitto di Kyushu",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.20 - Il conflitto di Kyushu.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/a8006d7e5b0dbe96714b7e64ce440642"
+                    "url": "http://51.77.159.233:30299/50fbeac8eda2fbd8698e59b8bda7ade9"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "0c303b8e71264059aa3984bf1fb3bd55",
             "tmdb_id": 31724,
-            "number": "1x21",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Annuncio al festival scolastico",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.21 - Annuncio al festival scolastico.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/8bcad4b0a9d1de679f0df86c66bbfb61"
+                    "url": "http://51.77.159.233:30299/0c303b8e71264059aa3984bf1fb3bd55"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "fc4aec1c5cf862a64ba14c746d399e85",
             "tmdb_id": 31724,
-            "number": "1x22",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Euphie sporca di sangue",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.22 - Euphie sporca di sangue.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4b84e57e04211c4b9e3408519d5a7538"
+                    "url": "http://51.77.159.233:30299/fc4aec1c5cf862a64ba14c746d399e85"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "1f330b0c33ba5666ae76784d1d376deb",
             "tmdb_id": 31724,
-            "number": "1x23",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Almeno con tristezza",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.23 - Almeno con tristezza.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/0c566095174a46e12a33d69187795bef"
+                    "url": "http://51.77.159.233:30299/1f330b0c33ba5666ae76784d1d376deb"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "ebc1bb25619a13116419adfb197de91b",
             "tmdb_id": 31724,
-            "number": "1x24",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Lo stage della caduta",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.24 - Lo stage della caduta.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/1cb3f394d57b66f2e12eeb41e5a7a4ac"
+                    "url": "http://51.77.159.233:30299/ebc1bb25619a13116419adfb197de91b"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "1f3f128f4c9f44a08ebc19b5ab60505a",
             "tmdb_id": 31724,
-            "number": "1x25",
             "saga": "Code Geass - Lelouch of the Rebellion",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Zero",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/1.25 - Zero.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4eb68f3809a3ffcdc8999ca61f838e47"
+                    "url": "http://51.77.159.233:30299/1f3f128f4c9f44a08ebc19b5ab60505a"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "4ee16e91a53f0d73d7c9553fd26c646b",
             "tmdb_id": 31724,
-            "number": "OAV 12",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 22.25.avi",
-            "plot":"La fase 22.25 è l'ottavo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato durante l'episodio 22. È un flashback in cui Nunnally ricorda un incidente che ha coinvolto una delle tavole commemorative di sua madre, quando lei e Lelouch vivevano ancora con la famiglia imperiale britannica.",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 22.25",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 22.25.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/d81c1db1ee617f1fc9d03af33cf0e170"
+                    "url": "http://51.77.159.233:30299/4ee16e91a53f0d73d7c9553fd26c646b"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "5144d28bcb3fff54e5a6db2038d49508",
             "tmdb_id": 31724,
-            "number": "OAV 13",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 23.95.avi",
-            "plot":"Stage 23.95 è il nono film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato prima dell'episodio 24, rivelando i pensieri e i sospetti di Suzaku su Lelouch mentre si prepara alla battaglia.",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 23.95",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 23.95.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/5d72df28813fdd40ad1823293b1080ad"
+                    "url": "http://51.77.159.233:30299/5144d28bcb3fff54e5a6db2038d49508"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "42c94d6ac4bc4bdb64d7bf6810343a29",
             "tmdb_id": 31724,
-            "number": "OAV 6",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 3.25.avi",
-            "plot":"La fase 3.25 è il secondo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato poco dopo l'episodio 3. Presenta una conversazione tra le donne del Consiglio studentesco dell'Accademia di Ashford nel bagno.",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 3.25",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 3.25.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/e517068e9026d5db16f37b55cf53ff68"
+                    "url": "http://51.77.159.233:30299/42c94d6ac4bc4bdb64d7bf6810343a29"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "f938b602df97f67b8641119b672170d0",
             "tmdb_id": 31724,
-            "number": "OAV 9",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 4.33.avi",
-            "plot":"La fase 4.33 è il quinto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato prima dell'episodio 4. Presenta una conversazione tra Geremia e Villetta sul passato di Geremia e le sue ambizioni.",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 4.33",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 4.33.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/16390bac4e71961128de95fe2375d462"
+                    "url": "http://51.77.159.233:30299/f938b602df97f67b8641119b672170d0"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "5b07ec4b83092bfb6a6595ec46be9f36",
             "tmdb_id": 31724,
-            "number": "OAV 7",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 6.75.avi",
-            "plot":"La fase 6.75 è il terzo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 6. Presenta una conversazione tra Suzaku e Rivalz sul passato di Suzaku prima di frequentare la Ashford Academy.",
+            "season": 1,
+            "episode": 75,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 6.75",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 6.75.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4edd3207ea5d88f04f03642971ca8319"
+                    "url": "http://51.77.159.233:30299/5b07ec4b83092bfb6a6595ec46be9f36"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "64d66358451d8e72f908104687a69efb",
             "tmdb_id": 31724,
-            "number": "OAV 10",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 8.75.avi",
-            "plot":"La fase 8.75 è il sesto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 8. Presenta la Principessa Cornelia ed Eufemia nel resort sulla spiaggia del Principe Clodoveo con i membri dell'Accademia di Ashford presenti anche come turisti.",
+            "season": 1,
+            "episode": 75,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 8.75",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 8.75.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/58383e9355b5be1f22a247f656f60025"
+                    "url": "http://51.77.159.233:30299/64d66358451d8e72f908104687a69efb"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "3341af6c77a18bad3b6b847cf30d3e25",
             "tmdb_id": 31724,
-            "number": "OAV 11",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 9.33.avi",
-            "plot":"La fase 9.33 è il settimo film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 9. Questo è il Festival dell'inversione del ruolo di genere dell'Ashford Academy.",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 9.33",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 9.33.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/f4a174871eca253d7ea1a0f88e4a0816"
+                    "url": "http://51.77.159.233:30299/3341af6c77a18bad3b6b847cf30d3e25"
                 }
             ]
         },
-        { 
+        {
+            "file_id": "0f20c4a609f1e5552bfcd9d59e6840d4",
             "tmdb_id": 31724,
-            "number": "OAV 8",
             "saga": "Code Geass - Lelouch of the Rebellion",
-            "title": "Code Geass Picture Drama: Stage 9.75.avi",
-            "plot":"La fase 9.75 è il quarto film drammatico di Code Geass: Lelouch of the Rebellion. È ambientato dopo l'episodio 9. Presenta una conversazione all'ora di cena tra Lelouch, Nunnally e Sayoko su C.C ..",
+            "season": 1,
+            "episode": 75,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Code Geass Picture Drama: Stage 9.75",
+            "fname": "/Anime & Cartoni/Code Geass - Lelouch of the Rebellion [a31724]/Code Geass Picture Drama: Stage 9.75.avi",
+            "year": "2006",
+            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "actors": ["Jun Fukuyama", "Takahiro Sakurai", "Yukana", "Ami Koshimizu"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/65a32db463675af8222210e6ca834d35"
+                    "url": "http://51.77.159.233:30299/0f20c4a609f1e5552bfcd9d59e6840d4"
                 }
             ]
         }

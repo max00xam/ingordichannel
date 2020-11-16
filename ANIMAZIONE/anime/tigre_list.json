@@ -1,1522 +1,2488 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 25114,
-			"number": "1x1",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Demone Giallo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a944327603429d8d1344b3ff896673af"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x2",
-			"saga": "L'Uomo Tigre",
-			"title": "La fuga di Kenta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/84a70d27ae10015a6082611fea5297df"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x3",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Ritorno Di Naoto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/73c038c0ab1b50aacd269354c1046fdb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x4",
-			"saga": "L'Uomo Tigre",
-			"title": "La Legge Della Tana Delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d0ce3859a5e9c9f0d70151bf0edead5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x5",
-			"saga": "L'Uomo Tigre",
-			"title": "Uomo Tigre Sfida Mister X",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2d3f73a9004df940f0bb1226e2f32586"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x6",
-			"saga": "L'Uomo Tigre",
-			"title": "Pitone Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b7c88eff57e1dba85c522ca2152168b9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x7",
-			"saga": "L'Uomo Tigre",
-			"title": "Incontro Leale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/57fd6ab99398c9f1dae5aacb459964d1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x8",
-			"saga": "L'Uomo Tigre",
-			"title": "La Trappola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/605c9b458c04a11109522daf99e48f23"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x9",
-			"saga": "L'Uomo Tigre",
-			"title": "L'uomo Gorilla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4982f42a6a0ca483cd7db894edd507ab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x10",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Colpo Del Ponte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71aa5809832a0761769eb26ecc2f98b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x11",
-			"saga": "L'Uomo Tigre",
-			"title": "Lega Mondiale Professionisti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/84a1ead14e48c6501e7d635c9ff8509a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x12",
-			"saga": "L'Uomo Tigre",
-			"title": "Una Buona Ragione Per Vincere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/151e00117bfce5b9796bf079512d7a64"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x13",
-			"saga": "L'Uomo Tigre",
-			"title": "Stella Di Teschio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/42d7b9431275ab20553489e4afc63f61"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x14",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Ricatto Di Mister X",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2af18b44ddf1e8e05d1cbe3bd680f486"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x15",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Televisore Rotto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6c95500ad5a0e8537097a303ccf5c0e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x16",
-			"saga": "L'Uomo Tigre",
-			"title": "La Prima Sconfitta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/05e54c62726e4879804ed2db071eb5c4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x17",
-			"saga": "L'Uomo Tigre",
-			"title": "Una Tigre Non Fugge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/732ab1842c84736fa1d758778808e8f7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x18",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Confronto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fb36e9593bc51601e755cf5f303dce4a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x19",
-			"saga": "L'Uomo Tigre",
-			"title": "Due Ore Prima Del Match",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7fbee00ec3bfcdfec29bf2e94899b11c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x20",
-			"saga": "L'Uomo Tigre",
-			"title": "L'ombra Di Tana Delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/572e6795e2c01c7c348f27dedbd81eb9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x21",
-			"saga": "L'Uomo Tigre",
-			"title": "La Vendetta Di Fang Il Rosso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d11b87a6ba8f90a99d7b35f15d2eb8c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x22",
-			"saga": "L'Uomo Tigre",
-			"title": "Una Speranza Per Domani",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e3efd16e436434ffa09a3545902284a8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x23",
-			"saga": "L'Uomo Tigre",
-			"title": "L Uomo Tigre Rischia La Vita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/27238d3de187d5ad702aed8a63e9737b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x24",
-			"saga": "L'Uomo Tigre",
-			"title": "I Lottatori Mascherati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40a5d17051e4a8e05ca3570e3027f000"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x25",
-			"saga": "L'Uomo Tigre",
-			"title": "Maschera D Oro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3e3caa8b2365dea8454937fba1e163ba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x26",
-			"saga": "L'Uomo Tigre",
-			"title": "Grande Zebra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b267961f3390a8720d82d08b034b30a5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x27",
-			"saga": "L'Uomo Tigre",
-			"title": "Attento Uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b09b4b2b8b79faeddfbd75806f8763bd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x28",
-			"saga": "L'Uomo Tigre",
-			"title": "La Tana Delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1f2be75ef103e5c3b8987cd1da404066"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x29",
-			"saga": "L'Uomo Tigre",
-			"title": "La Sfida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/13cb6cb69e3adbb6588565a577cb9545"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x30",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Grande Lottatore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/674ce7dbb2c43ec2fee005dd639da093"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x31",
-			"saga": "L'Uomo Tigre",
-			"title": "L Allenamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4daea50328fc43d4a8afc1de76d30e99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x32",
-			"saga": "L'Uomo Tigre",
-			"title": "Mossa Vincente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/30fa443462d547872d648d05cda245c3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x33",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Grande Incontro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b3a055888c546c0ca71fe00f2b8baa28"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x34",
-			"saga": "L'Uomo Tigre",
-			"title": "Ragazzi Nella Tana Delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5abd6729b0e1fc937c562bd8f9fadd21"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x35",
-			"saga": "L'Uomo Tigre",
-			"title": "La Strada Del Campione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4cc18f1b608476832093b3c945128a5e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x36",
-			"saga": "L'Uomo Tigre",
-			"title": "Campionati Di Lotta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74a45e9308ee1b5c95e488ca0aa0a953"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x37",
-			"saga": "L'Uomo Tigre",
-			"title": "L Uomo Delle Nevi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a35c62a049b2774eb7e9d1e12946e6a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x38",
-			"saga": "L'Uomo Tigre",
-			"title": "I Campionati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3eebff50a8a3c8ff52ebb26e216a4927"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x39",
-			"saga": "L'Uomo Tigre",
-			"title": "La Vittoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a6e17b47464ffb5f9a0be8bbcd25ea1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x40",
-			"saga": "L'Uomo Tigre",
-			"title": "Tigre Immortale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ec45094924ec91e6f6be486c542d4a73"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x41",
-			"saga": "L'Uomo Tigre",
-			"title": "Maschera Di Morte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d18c1dde40e275f04e9b09bfcee3369e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x42",
-			"saga": "L'Uomo Tigre",
-			"title": "Lo Spirito Di Un Guerriero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3fd5e309b42a43f2eca0335801470aba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x43",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Lottatore Malvagio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbeeb6128991719b3e0072bac7c14d58"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x44",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Rimorso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03f448b283f4f46a88b1253dd93c7c7a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x45",
-			"saga": "L'Uomo Tigre",
-			"title": "La Nuova Maschera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4045c2a741449b54bd0cffa63eb5aea3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x46",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Piccolo Lottatore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/99cb3b3d09377a747f3900009e4ae2d3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x47",
-			"saga": "L'Uomo Tigre",
-			"title": "Re Giungla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2587bdf30cf3f50ceacd2b93ec759159"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x48",
-			"saga": "L'Uomo Tigre",
-			"title": "Tigre Contro Kamikaze",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a0c699c741fb8c09adaf20eb7738113"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x49",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Ritorno Dell'uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62c1db815541ba6ac258f33b1586a0a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x50",
-			"saga": "L'Uomo Tigre",
-			"title": "Ricordo Di Hiroshima",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd6f4dfea83ce1a4d1df6de876d91b55"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x51",
-			"saga": "L'Uomo Tigre",
-			"title": "Difendiamo Il Titolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d93110a7226121a2ceb9ce626919bfe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x52",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Campionato Mondiale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7202326953b0692af77e8fd4685d0e0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x53",
-			"saga": "L'Uomo Tigre",
-			"title": "I Fratelli Miracolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e30bb5b34b9695693e200f1538a29d5d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x54",
-			"saga": "L'Uomo Tigre",
-			"title": "Benvenuta Micro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0e6a3c384b6c7252f25dfc8af522e35b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x55",
-			"saga": "L'Uomo Tigre",
-			"title": "Citta Inquinate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1f72598dd7f83401ace08bdaf127d2da"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x56",
-			"saga": "L'Uomo Tigre",
-			"title": "Popo Africa il principe dell Oscurita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5910a13d47db08cb3a051f809bd33eed"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x57",
-			"saga": "L'Uomo Tigre",
-			"title": "Avversario Imbattibile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a828d807e360c58130452f528253da85"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x58",
-			"saga": "L'Uomo Tigre",
-			"title": "L Incontro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5313f9c728539c7fc4745147eb4b9ab3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x59",
-			"saga": "L'Uomo Tigre",
-			"title": "Uno Sfidante",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d89e3a5e83ec2943f272dfdc19089f35"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x60",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Dottor Granky",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9afe35a88827fa358083157c53c9e02b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x61",
-			"saga": "L'Uomo Tigre",
-			"title": "La Giusta Strada",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/88a200288779458669065f6c52229612"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x62",
-			"saga": "L'Uomo Tigre",
-			"title": "L Incubo Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/542a6ffce630fae5bd1ae88c941f0365"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x63",
-			"saga": "L'Uomo Tigre",
-			"title": "Joe L Americano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0378b662d8f83312d46053693972bddc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x64",
-			"saga": "L'Uomo Tigre",
-			"title": "È Natale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e224d5a3decbdc4e52d914aa5771c125"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x65",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Vero Campione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/598439bd6d54710c07947088a766f37f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x66",
-			"saga": "L'Uomo Tigre",
-			"title": "La Paura Di Tana delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d3816f95fe12dae1f6b4ca4ae0760c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x67",
-			"saga": "L'Uomo Tigre",
-			"title": "L Altra Faccia Di Uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbc51eea571e06868bd6535a549485d5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x68",
-			"saga": "L'Uomo Tigre",
-			"title": "Demone Giallo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e46a25f3309647752f58684d41ffa0b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x69",
-			"saga": "L'Uomo Tigre",
-			"title": "La Sfida Di Junker",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d89cded367cbd0f1593dbde23bc1da08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x70",
-			"saga": "L'Uomo Tigre",
-			"title": "Uno Strano Incontro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fe89b0bbe10b9fcca65b0e060af8f980"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x71",
-			"saga": "L'Uomo Tigre",
-			"title": "Re Giaguaro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/33d9fa8f1028bfe04028058254c8e919"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x72",
-			"saga": "L'Uomo Tigre",
-			"title": "La Forza Di Daigo Daimon",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c694d2dfa672ec9684a79feaa85cf9c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x73",
-			"saga": "L'Uomo Tigre",
-			"title": "L'ultima Risorsa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fd5d2099f932ee4e486848274d7c0aa6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x74",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Terzo Traditore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bf119a749989285d1d5786e59c7bb3cf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x75",
-			"saga": "L'Uomo Tigre",
-			"title": "La grande fuga",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/863dea09efdaf35deef0db0f56a5c3fc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x76",
-			"saga": "L'Uomo Tigre",
-			"title": "Una Terribile Sfida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d68d9de5679d43aadb43a2ef2e9b570e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x77",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Grande Match",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e269711e9181a8c8745ec9eacd535e4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x78",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Duello All Ultimo Sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da488503f49e278ebe81a251388485c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x79",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Capo Della Tana",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bb230ba9e82baf39df1856a13aaa8e15"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x80",
-			"saga": "L'Uomo Tigre",
-			"title": "Due Grandi Amici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1b47202618e0ea32ae498f7617b16db"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x81",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Nuovo Lottatore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/df122fc4a1f6163eec9eb84ddb695aa3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x82",
-			"saga": "L'Uomo Tigre",
-			"title": "Combattimento Disperato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/328831f8c6844c4ac519baf474e37041"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x83",
-			"saga": "L'Uomo Tigre",
-			"title": "La Nuova Famiglia Di Micro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ad1cff445e03a6d77820d0bb94e4035"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x84",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Garofano Bianco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/df1e83d22ccb6d5152cca6cb539b0dab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x85",
-			"saga": "L'Uomo Tigre",
-			"title": "Caccia Mortale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/476f64ab28b63da01324b2855a96e591"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x86",
-			"saga": "L'Uomo Tigre",
-			"title": "Diavolo Pazzo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40264677d5b06e920acab9fe2e719a51"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x87",
-			"saga": "L'Uomo Tigre",
-			"title": "Caccia A Uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3d077ca1122752868245eae528ca9ab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x88",
-			"saga": "L'Uomo Tigre",
-			"title": "La Nuvola Di Fuoco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/98779dfb4a96d00e0b60d2e23423992c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x89",
-			"saga": "L'Uomo Tigre",
-			"title": "La Felicita Di Yoshibo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/41959061a8203e015bdd026137b1e709"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x90",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Texano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5b0a2445e517430307fbe17419ca363f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x91",
-			"saga": "L'Uomo Tigre",
-			"title": "La Tela Del Ragno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be9ad7967117e17c6dd420d1ccac232c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x92",
-			"saga": "L'Uomo Tigre",
-			"title": "Mistero Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b2ff6124fe4a56c8403793cf3f1d525"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x93",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Consiglio Prezioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4cb3369f9410afc4e5dc7c0253e33a5f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x94",
-			"saga": "L'Uomo Tigre",
-			"title": "L Onore Dell Uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52ea7f418eb0c458ceb7ca217c145b6f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x95",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Piranha",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/380be7cf10e6e5cfeab58c28d7673cf0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x96",
-			"saga": "L'Uomo Tigre",
-			"title": "Chi E L Uomo Tigre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/37848b54230bf41e0f157eedbff7e87a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x97",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Lottatore Eccezionale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/950872ce42e1698e10237dbc41ca848b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x98",
-			"saga": "L'Uomo Tigre",
-			"title": "Terrore Di Combattere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ea358f965a7f2ae5678d1041e5dc9f8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x99",
-			"saga": "L'Uomo Tigre",
-			"title": "Lupo Solitario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e165f475a609d2237c3297ea9411ba70"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x100",
-			"saga": "L'Uomo Tigre",
-			"title": "La Famiglia Di Yoshibo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2d811822b5f473fcbcddb7d4717040f6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x101",
-			"saga": "L'Uomo Tigre",
-			"title": "La Sconfitta Di Ken",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c7e54bb31b77df38b9af17358fd3103"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x102",
-			"saga": "L'Uomo Tigre",
-			"title": "Il trionfo della verita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f18fd9b82583fa280be44286f0985fd9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x103",
-			"saga": "L'Uomo Tigre",
-			"title": "Un Mortale Tranello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/28edb119dd2343a0e3248a644b996cb5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x104",
-			"saga": "L'Uomo Tigre",
-			"title": "Il Fatidico Incontro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d4339ab4a85ba740917e11f833fda320"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "1x105",
-			"saga": "L'Uomo Tigre",
-			"title": "La Disfatta Di Tana Delle Tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e0e7aa9a8a3bc59c112a24262b7e4efe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x1",
-			"saga": "L'Uomo Tigre",
-			"title": "Giuramento sul ring",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa88009d999178c79501d2b9426b64a3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x2",
-			"saga": "L'Uomo Tigre",
-			"title": "Un degno successore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d48a677ad1c999a02c16c153e1f78c0a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x3",
-			"saga": "L'Uomo Tigre",
-			"title": "Giù la maschera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1efb7b13cc433e2ce6877448a68b6b92"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x4",
-			"saga": "L'Uomo Tigre",
-			"title": "Un combattimento leale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de53da90dab1e133fa943f0c1a3fb3a8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x5",
-			"saga": "L'Uomo Tigre",
-			"title": "I ragazzi scomparsi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/858fe9b1ac3029dff2232a90a63c079a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x6",
-			"saga": "L'Uomo Tigre",
-			"title": "Un patto solenne",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/052574865c30df3b5882c226c06c64be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x7",
-			"saga": "L'Uomo Tigre",
-			"title": "La piramide delle tigri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8db6dadb139b60d9bcbaf439ce710c76"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x8",
-			"saga": "L'Uomo Tigre",
-			"title": "Duello all`ultimo sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4a0f8929ab1f00f5c34b0c6f47c6c204"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x9",
-			"saga": "L'Uomo Tigre",
-			"title": "La vittoria dell`intelligenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b830b3ade849ebc3d5235325164674bb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x10",
-			"saga": "L'Uomo Tigre",
-			"title": "La sfida dell`uomo di ferro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6fb9a75820aa4887f55d35f6df7c2470"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x11",
-			"saga": "L'Uomo Tigre",
-			"title": "Una legge spietata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/763eed6f38c22a535474b30e61eebb80"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x12",
-			"saga": "L'Uomo Tigre",
-			"title": "Sparvieri infernali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e72bb16905ccf55421792bf45cd0baeb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x13",
-			"saga": "L'Uomo Tigre",
-			"title": "Allenamento di baseball",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11666e179db19790f19c5d382cb5779b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x14",
-			"saga": "L'Uomo Tigre",
-			"title": "La cintura delle piramidi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ee5b3dc4bac98d16fe0addc95b894430"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x15",
-			"saga": "L'Uomo Tigre",
-			"title": "Tigre-Inoki contro sparvieri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9f8e268edca05c973f8dfc0cab4b4ab1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x16",
-			"saga": "L'Uomo Tigre",
-			"title": "La minaccia di Hassan",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ea31d18c27d324e590d97c6024385e78"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x17",
-			"saga": "L'Uomo Tigre",
-			"title": "La grande sfida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c2682d67bfc06287ed25127981872eec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x18",
-			"saga": "L'Uomo Tigre",
-			"title": "Per un secondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b505a01230570cd542f449a7a73b2aa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x19",
-			"saga": "L'Uomo Tigre",
-			"title": "Il tradimento di Argenta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e3e21434e1409ceb5e3293cc1c091adb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x20",
-			"saga": "L'Uomo Tigre",
-			"title": "Una grande amicizia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7244ae94940e59063ab9f77fdfa203b0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x21",
-			"saga": "L'Uomo Tigre",
-			"title": "Il valore dello sport",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9adc9ed0b11caf602501099e35dc415a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x22",
-			"saga": "L'Uomo Tigre",
-			"title": "Bronzo azzurro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8d27b2ef1048423b57e721ba2bee376"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x23",
-			"saga": "L'Uomo Tigre",
-			"title": "La sfida di Butcher",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83da5a5fbfd9788e8ec2661c5abd5db1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x24",
-			"saga": "L'Uomo Tigre",
-			"title": "Il grande Butcher",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/674befdd6cabd31e6977d204eded7062"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x25",
-			"saga": "L'Uomo Tigre",
-			"title": "Due campioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4cb50f0d6be14a04f3949766f99d527d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x26",
-			"saga": "L'Uomo Tigre",
-			"title": "Il pazzo Stan Hansen",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/61413630853b5b56f56867e1372f1474"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x27",
-			"saga": "L'Uomo Tigre",
-			"title": "Viva la libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/60579569a2cacef65998632d527e6230"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x28",
-			"saga": "L'Uomo Tigre",
-			"title": "Il terribile Puma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a326feda6f359dfe78f4fec94d383c69"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x29",
-			"saga": "L'Uomo Tigre",
-			"title": "Re Killium",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db020597f7b7192d5b89f44fffe40a3c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x30",
-			"saga": "L'Uomo Tigre",
-			"title": "Scontro reale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/686f777c0d393689991ada7860c5a919"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x31",
-			"saga": "L'Uomo Tigre",
-			"title": "Sei contro uno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9df8c70f7e4d7e884fb5309c93abb2fd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x32",
-			"saga": "L'Uomo Tigre",
-			"title": "Joe Forte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/46cc2322488a24abb8db9dc601efc2d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 25114,
-			"number": "2x33",
-			"saga": "L'Uomo Tigre",
-			"title": "Scontro finale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f8ddade2afe09c6278292513d23f19fd"
-				}
-			]
-		}
+            "file_id": "3eb61404f53cfa9ba72e4f760e998f02",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Demone Giallo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.001 - Il Demone Giallo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3eb61404f53cfa9ba72e4f760e998f02"
+                }
+            ]
+        },
+        {
+            "file_id": "7b3b29702fb4f7e867ea4a4fa48d62e0",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La fuga di Kenta",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.002 - La fuga di Kenta.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b3b29702fb4f7e867ea4a4fa48d62e0"
+                }
+            ]
+        },
+        {
+            "file_id": "f1f83ac4361fa077567ab5ca70e529bd",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Ritorno Di Naoto",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.003 - Il Ritorno Di Naoto.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f1f83ac4361fa077567ab5ca70e529bd"
+                }
+            ]
+        },
+        {
+            "file_id": "31bdaed7ddee61a3f0937da4a425d156",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Legge Della Tana Delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.004 - La Legge Della Tana Delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31bdaed7ddee61a3f0937da4a425d156"
+                }
+            ]
+        },
+        {
+            "file_id": "8ca926d0b2650d009b57c9ba0683f85e",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Uomo Tigre Sfida Mister X",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.005 - Uomo Tigre Sfida Mister X.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ca926d0b2650d009b57c9ba0683f85e"
+                }
+            ]
+        },
+        {
+            "file_id": "23da51e5929bc7f9ef233c2bb7733383",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Pitone Nero",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.006 - Pitone Nero.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23da51e5929bc7f9ef233c2bb7733383"
+                }
+            ]
+        },
+        {
+            "file_id": "a2160ab92b37cb806891e2889dc7fa2c",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Incontro Leale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.007 - Incontro Leale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a2160ab92b37cb806891e2889dc7fa2c"
+                }
+            ]
+        },
+        {
+            "file_id": "603a45b8ad5d2a40259af791a35ce499",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Trappola",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.008 - La Trappola.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/603a45b8ad5d2a40259af791a35ce499"
+                }
+            ]
+        },
+        {
+            "file_id": "069d62a97b99f7956b3734d4bd31ee63",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L'uomo Gorilla",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.009 - L'uomo Gorilla.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/069d62a97b99f7956b3734d4bd31ee63"
+                }
+            ]
+        },
+        {
+            "file_id": "15befd3e17f09fe31233b77d2f74036b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Colpo Del Ponte",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.010 - Il Colpo Del Ponte.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/15befd3e17f09fe31233b77d2f74036b"
+                }
+            ]
+        },
+        {
+            "file_id": "5121d7385d833e8afab8b772e54400ef",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Lega Mondiale Professionisti",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.011 - Lega Mondiale Professionisti.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5121d7385d833e8afab8b772e54400ef"
+                }
+            ]
+        },
+        {
+            "file_id": "11759b6f39da269141f4ea687fc41192",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una Buona Ragione Per Vincere",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.012 - Una Buona Ragione Per Vincere.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11759b6f39da269141f4ea687fc41192"
+                }
+            ]
+        },
+        {
+            "file_id": "62c03067af1a9aaf83648755621b523b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Stella Di Teschio",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.013 - Stella Di Teschio.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/62c03067af1a9aaf83648755621b523b"
+                }
+            ]
+        },
+        {
+            "file_id": "9345a2ce6cb535cfa3b804b9b42ceaf4",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Ricatto Di Mister X",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.014 - Il Ricatto Di Mister X.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9345a2ce6cb535cfa3b804b9b42ceaf4"
+                }
+            ]
+        },
+        {
+            "file_id": "bca6ec680f55ea65bb34a28b21d2d3ff",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Televisore Rotto",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.015 - Il Televisore Rotto.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bca6ec680f55ea65bb34a28b21d2d3ff"
+                }
+            ]
+        },
+        {
+            "file_id": "8ea07a41977ce2619d1710551cf2c6d2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Prima Sconfitta",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.016 - La Prima Sconfitta.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ea07a41977ce2619d1710551cf2c6d2"
+                }
+            ]
+        },
+        {
+            "file_id": "7211c7b54b1d50f655dac93d08b41795",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una Tigre Non Fugge",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.017 - Una Tigre Non Fugge.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7211c7b54b1d50f655dac93d08b41795"
+                }
+            ]
+        },
+        {
+            "file_id": "80e640b26cf279980a02256d8824202a",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Confronto",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.018 - Il Confronto.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80e640b26cf279980a02256d8824202a"
+                }
+            ]
+        },
+        {
+            "file_id": "c40a650e00200c9827c08b7d4efeb0b6",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Due Ore Prima Del Match",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.019 - Due Ore Prima Del Match.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c40a650e00200c9827c08b7d4efeb0b6"
+                }
+            ]
+        },
+        {
+            "file_id": "7c0f441208477277b9c3aa4be56e2e3a",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L'ombra Di Tana Delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.020 - L'ombra Di Tana Delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7c0f441208477277b9c3aa4be56e2e3a"
+                }
+            ]
+        },
+        {
+            "file_id": "efddd52f3981189f7c36228c51aaa915",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Vendetta Di Fang Il Rosso",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.021 - La Vendetta Di Fang Il Rosso.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/efddd52f3981189f7c36228c51aaa915"
+                }
+            ]
+        },
+        {
+            "file_id": "53ea90c3c7f93c600a379b3a331d2ce3",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una Speranza Per Domani",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.022 - Una Speranza Per Domani.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53ea90c3c7f93c600a379b3a331d2ce3"
+                }
+            ]
+        },
+        {
+            "file_id": "ef29b12be66529358529eb450c04ba97",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Uomo Tigre Rischia La Vita",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.023 - L Uomo Tigre Rischia La Vita.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef29b12be66529358529eb450c04ba97"
+                }
+            ]
+        },
+        {
+            "file_id": "c325fc76f5e46793db394f2d0489edad",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Dramma"],
+            "title": "I Lottatori Mascherati",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.024 - I Lottatori Mascherati.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c325fc76f5e46793db394f2d0489edad"
+                }
+            ]
+        },
+        {
+            "file_id": "11e1c8d6965c2aa97a4d35ad5d1da25f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Maschera D Oro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.025 - Maschera D Oro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11e1c8d6965c2aa97a4d35ad5d1da25f"
+                }
+            ]
+        },
+        {
+            "file_id": "7a3f1377fc1d1733f2c499148515c4ec",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Grande Zebra",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.026 - Grande Zebra.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a3f1377fc1d1733f2c499148515c4ec"
+                }
+            ]
+        },
+        {
+            "file_id": "cc5b7c9d0fa252109e8188403054236e",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Attento Uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.027 - Attento Uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cc5b7c9d0fa252109e8188403054236e"
+                }
+            ]
+        },
+        {
+            "file_id": "0fef5f3e482c1ab421871d2737a99a64",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Tana Delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.028 - La Tana Delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0fef5f3e482c1ab421871d2737a99a64"
+                }
+            ]
+        },
+        {
+            "file_id": "d66f37d8ada339413611443ac44f84b1",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Sfida",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.029 - La Sfida.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d66f37d8ada339413611443ac44f84b1"
+                }
+            ]
+        },
+        {
+            "file_id": "071e256d0919e764ae771c1edee68b95",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Grande Lottatore",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.030 - Un Grande Lottatore.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/071e256d0919e764ae771c1edee68b95"
+                }
+            ]
+        },
+        {
+            "file_id": "f2172ae470cf631884cece1eabd615a2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Allenamento",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.031 - L Allenamento.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f2172ae470cf631884cece1eabd615a2"
+                }
+            ]
+        },
+        {
+            "file_id": "4f3ebcec9d641d040e8fbe8922e921e4",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Mossa Vincente",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.032 - Mossa Vincente.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f3ebcec9d641d040e8fbe8922e921e4"
+                }
+            ]
+        },
+        {
+            "file_id": "2528df22afa71fbdab614a32a7029338",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Grande Incontro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.033 - Il Grande Incontro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2528df22afa71fbdab614a32a7029338"
+                }
+            ]
+        },
+        {
+            "file_id": "aac30f8d0f254a7b9bea33c873444ebf",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Ragazzi Nella Tana Delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.034 - Ragazzi Nella Tana Delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aac30f8d0f254a7b9bea33c873444ebf"
+                }
+            ]
+        },
+        {
+            "file_id": "2a0a85cfc3f6920b97495de16f0347c7",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Strada Del Campione",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.035 - La Strada Del Campione.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a0a85cfc3f6920b97495de16f0347c7"
+                }
+            ]
+        },
+        {
+            "file_id": "8f5ac415499c2da6d05f3eec7172e2c2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Campionati Di Lotta",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.036 - Campionati Di Lotta.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8f5ac415499c2da6d05f3eec7172e2c2"
+                }
+            ]
+        },
+        {
+            "file_id": "74f39426037dc4dc6cd5cb9a6bcc485b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Uomo Delle Nevi",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.037 - L Uomo Delle Nevi.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74f39426037dc4dc6cd5cb9a6bcc485b"
+                }
+            ]
+        },
+        {
+            "file_id": "8de0b4ea32eb29ce01eb5404e3553e8b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione", "Dramma"],
+            "title": "I Campionati",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.038 - I Campionati.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8de0b4ea32eb29ce01eb5404e3553e8b"
+                }
+            ]
+        },
+        {
+            "file_id": "5b8fb536e10332b287742d0732038397",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Vittoria",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.039 - La Vittoria.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5b8fb536e10332b287742d0732038397"
+                }
+            ]
+        },
+        {
+            "file_id": "42cc02489d6b601731b3fa4f17e74676",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Tigre Immortale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.040 - Tigre Immortale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/42cc02489d6b601731b3fa4f17e74676"
+                }
+            ]
+        },
+        {
+            "file_id": "d5b02106ae49c7ecb697f9d9c70e334e",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Maschera Di Morte",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.041 - Maschera Di Morte.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d5b02106ae49c7ecb697f9d9c70e334e"
+                }
+            ]
+        },
+        {
+            "file_id": "6eb62f1b45aee896ba84287a4afd27e2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Lo Spirito Di Un Guerriero",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.042 - Lo Spirito Di Un Guerriero.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6eb62f1b45aee896ba84287a4afd27e2"
+                }
+            ]
+        },
+        {
+            "file_id": "89536a548cef1f8394f28ed88005e3de",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Lottatore Malvagio",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.043 - Il Lottatore Malvagio.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/89536a548cef1f8394f28ed88005e3de"
+                }
+            ]
+        },
+        {
+            "file_id": "3112cf05424a916ecc40fe6397c8e7b9",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Rimorso",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.044 - Il Rimorso.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3112cf05424a916ecc40fe6397c8e7b9"
+                }
+            ]
+        },
+        {
+            "file_id": "246a341231207b012af10814859a0d08",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Nuova Maschera",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.045 - La Nuova Maschera.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/246a341231207b012af10814859a0d08"
+                }
+            ]
+        },
+        {
+            "file_id": "ea6f6642bb89123908c85c46d8791a27",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Piccolo Lottatore",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.046 - Il Piccolo Lottatore.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea6f6642bb89123908c85c46d8791a27"
+                }
+            ]
+        },
+        {
+            "file_id": "8a08c5e2a381c6a165f2885b08acc121",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Re Giungla",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.047 - Re Giungla.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a08c5e2a381c6a165f2885b08acc121"
+                }
+            ]
+        },
+        {
+            "file_id": "d2f2b4ec12fd1ce37fa606c6b7d7cae0",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Tigre Contro Kamikaze",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.048 - Tigre Contro Kamikaze.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d2f2b4ec12fd1ce37fa606c6b7d7cae0"
+                }
+            ]
+        },
+        {
+            "file_id": "b9d4acea18e7f500449dcdb2fb42c8b2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Ritorno Dell'uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.049 - Il Ritorno Dell'uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9d4acea18e7f500449dcdb2fb42c8b2"
+                }
+            ]
+        },
+        {
+            "file_id": "5f8ab1c690d63537a4e2c3f21dfbb568",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Ricordo Di Hiroshima",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.050 - Ricordo Di Hiroshima.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5f8ab1c690d63537a4e2c3f21dfbb568"
+                }
+            ]
+        },
+        {
+            "file_id": "1b8d654d9118c4d7a5b6c92c7ebe016f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 51,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Difendiamo Il Titolo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.051 - Difendiamo Il Titolo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b8d654d9118c4d7a5b6c92c7ebe016f"
+                }
+            ]
+        },
+        {
+            "file_id": "bc1a0099664c5a13ac7a008d6d33e5b1",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 52,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Campionato Mondiale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.052 - Il Campionato Mondiale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bc1a0099664c5a13ac7a008d6d33e5b1"
+                }
+            ]
+        },
+        {
+            "file_id": "e79c6f65e4b281d862d59cc393f62e6d",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 53,
+            "genre": ["Animazione", "Dramma"],
+            "title": "I Fratelli Miracolo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.053 - I Fratelli Miracolo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e79c6f65e4b281d862d59cc393f62e6d"
+                }
+            ]
+        },
+        {
+            "file_id": "70e1eb4bf7010d1312e26ed54dc181bc",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 54,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Benvenuta Micro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.054 - Benvenuta Micro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70e1eb4bf7010d1312e26ed54dc181bc"
+                }
+            ]
+        },
+        {
+            "file_id": "2477900eb9f4ad33df204b293898bef3",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 55,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Citta Inquinate",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.055 - Citta Inquinate.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2477900eb9f4ad33df204b293898bef3"
+                }
+            ]
+        },
+        {
+            "file_id": "48e1fcc45857f6898327706575983290",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 56,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Popo Africa il principe dell Oscurita",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.056 -  Popo Africa il principe dell Oscurita.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/48e1fcc45857f6898327706575983290"
+                }
+            ]
+        },
+        {
+            "file_id": "d151698ac63d2e4fa87c2bc320227724",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 57,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Avversario Imbattibile",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.057 - Avversario Imbattibile.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d151698ac63d2e4fa87c2bc320227724"
+                }
+            ]
+        },
+        {
+            "file_id": "62bc1e25e1369832d07d62e1caa83ae4",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 58,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Incontro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.058 - L Incontro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/62bc1e25e1369832d07d62e1caa83ae4"
+                }
+            ]
+        },
+        {
+            "file_id": "4fa731681adb8d2ec9503e46c999345c",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 59,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Uno Sfidante",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.059 - Uno Sfidante.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4fa731681adb8d2ec9503e46c999345c"
+                }
+            ]
+        },
+        {
+            "file_id": "340b483d5957ee3d97a78ce02e9d712f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 60,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Dottor Granky",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.060 - Il Dottor Granky.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/340b483d5957ee3d97a78ce02e9d712f"
+                }
+            ]
+        },
+        {
+            "file_id": "5136f1f1e8e35e687a6d7e86bac34da2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 61,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Giusta Strada",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.061 - La Giusta Strada.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5136f1f1e8e35e687a6d7e86bac34da2"
+                }
+            ]
+        },
+        {
+            "file_id": "c8712cc321533eba0301f7f8f0e62244",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 62,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Incubo Nero",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.062 - L Incubo Nero.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c8712cc321533eba0301f7f8f0e62244"
+                }
+            ]
+        },
+        {
+            "file_id": "830f791af9ace0aecb1f02bab4471186",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 63,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Joe L Americano",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.063 - Joe L Americano.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/830f791af9ace0aecb1f02bab4471186"
+                }
+            ]
+        },
+        {
+            "file_id": "fdb3da6ba3537da3d018f92803157965",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 64,
+            "genre": ["Animazione", "Dramma"],
+            "title": "\u00c8 Natale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.064 - \u00c8 Natale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fdb3da6ba3537da3d018f92803157965"
+                }
+            ]
+        },
+        {
+            "file_id": "e8403ebeb494d1d0803d016bfe65339e",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 65,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Vero Campione",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.065 - Il Vero Campione.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8403ebeb494d1d0803d016bfe65339e"
+                }
+            ]
+        },
+        {
+            "file_id": "8bef553eb521e0aa2e7725ebe10013a4",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 66,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Paura Di Tana delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.066 - La Paura Di Tana delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8bef553eb521e0aa2e7725ebe10013a4"
+                }
+            ]
+        },
+        {
+            "file_id": "127166ecbf0d1f7d6506e243db726542",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 67,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Altra Faccia Di Uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.067 - L Altra Faccia Di Uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/127166ecbf0d1f7d6506e243db726542"
+                }
+            ]
+        },
+        {
+            "file_id": "5db53968fdd21248913eec17c5891be9",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 68,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Demone Giallo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.068 - Demone Giallo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5db53968fdd21248913eec17c5891be9"
+                }
+            ]
+        },
+        {
+            "file_id": "8bd413c4a03dc825835f6d958ed723a6",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 69,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Sfida Di Junker",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.069 - La Sfida Di Junker.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8bd413c4a03dc825835f6d958ed723a6"
+                }
+            ]
+        },
+        {
+            "file_id": "50f7b4d41a844e64875ba07e69c1e87f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 70,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Uno Strano Incontro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.070 - Uno Strano Incontro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50f7b4d41a844e64875ba07e69c1e87f"
+                }
+            ]
+        },
+        {
+            "file_id": "d12b976914e5e638e698c97d1dbdce4f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 71,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Re Giaguaro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.071 - Re Giaguaro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d12b976914e5e638e698c97d1dbdce4f"
+                }
+            ]
+        },
+        {
+            "file_id": "a4bd127d99a3ad927ef48c3d509d6ae9",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 72,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Forza Di Daigo Daimon",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.072 - La Forza Di Daigo Daimon.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4bd127d99a3ad927ef48c3d509d6ae9"
+                }
+            ]
+        },
+        {
+            "file_id": "0099111379575d109395d57c70cc76db",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 73,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L'ultima Risorsa",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.073 - L'ultima Risorsa.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0099111379575d109395d57c70cc76db"
+                }
+            ]
+        },
+        {
+            "file_id": "53b39c32daace004c57a40f1f2edffdb",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 74,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Terzo Traditore",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.074 - Il Terzo Traditore.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53b39c32daace004c57a40f1f2edffdb"
+                }
+            ]
+        },
+        {
+            "file_id": "065806bed0e244f9bbdc8f6a094103b6",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 75,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La grande fuga",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.075 - La grande fuga.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/065806bed0e244f9bbdc8f6a094103b6"
+                }
+            ]
+        },
+        {
+            "file_id": "4afd40c226657a83b60475f2058c32f7",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 76,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una Terribile Sfida",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.076 - Una Terribile Sfida.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4afd40c226657a83b60475f2058c32f7"
+                }
+            ]
+        },
+        {
+            "file_id": "01d95c02a5687f1956143b6ef9ddde60",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 77,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Grande Match",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.077 - Il Grande Match.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/01d95c02a5687f1956143b6ef9ddde60"
+                }
+            ]
+        },
+        {
+            "file_id": "fe9d566200dea2c3160ccd04bfbf27d0",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 78,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Duello All Ultimo Sangue",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.078 - Un Duello All Ultimo Sangue.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fe9d566200dea2c3160ccd04bfbf27d0"
+                }
+            ]
+        },
+        {
+            "file_id": "1f9dcdf392239191cd2d86bbbb858c4f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 79,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Capo Della Tana",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.079 - Il Capo Della Tana.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1f9dcdf392239191cd2d86bbbb858c4f"
+                }
+            ]
+        },
+        {
+            "file_id": "a920222211b29409ba0ff7607eb19c8c",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 80,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Due Grandi Amici",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.080 - Due Grandi Amici.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a920222211b29409ba0ff7607eb19c8c"
+                }
+            ]
+        },
+        {
+            "file_id": "c48bc56df1abcc17ca521fe94568466b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 81,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Nuovo Lottatore",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.081 - Un Nuovo Lottatore.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c48bc56df1abcc17ca521fe94568466b"
+                }
+            ]
+        },
+        {
+            "file_id": "4a56a24868d00361057892a019da80ff",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 82,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Combattimento Disperato",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.082 - Combattimento Disperato.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4a56a24868d00361057892a019da80ff"
+                }
+            ]
+        },
+        {
+            "file_id": "5e13d2f2e9d0f719e0106ee89896ad1b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 83,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Nuova Famiglia Di Micro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.083 - La Nuova Famiglia Di Micro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5e13d2f2e9d0f719e0106ee89896ad1b"
+                }
+            ]
+        },
+        {
+            "file_id": "b3ec3a6b214365a4dac138f59797eef8",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 84,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Garofano Bianco",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.084 - Il Garofano Bianco.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b3ec3a6b214365a4dac138f59797eef8"
+                }
+            ]
+        },
+        {
+            "file_id": "184ab9ac29e6c74c136583990bc3d187",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 85,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Caccia Mortale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.085 - Caccia Mortale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/184ab9ac29e6c74c136583990bc3d187"
+                }
+            ]
+        },
+        {
+            "file_id": "f0f8e6c7f7681453621ba324eaa0df65",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 86,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Diavolo Pazzo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.086 - Diavolo Pazzo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0f8e6c7f7681453621ba324eaa0df65"
+                }
+            ]
+        },
+        {
+            "file_id": "558e0bcee275813ffff27bcf09f86a5d",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 87,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Caccia A Uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.087 - Caccia A Uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/558e0bcee275813ffff27bcf09f86a5d"
+                }
+            ]
+        },
+        {
+            "file_id": "a96e9ba098b1a06dcac8174dd79c73bb",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 88,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Nuvola Di Fuoco",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.088 - La Nuvola Di Fuoco.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a96e9ba098b1a06dcac8174dd79c73bb"
+                }
+            ]
+        },
+        {
+            "file_id": "d6278a71d38e725892ca98e04c798524",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 89,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Felicita Di Yoshibo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.089 - La Felicita Di Yoshibo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d6278a71d38e725892ca98e04c798524"
+                }
+            ]
+        },
+        {
+            "file_id": "15f0f4a725c4739bc9ed3e9510388538",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 90,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Texano",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.090 - Il Texano.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/15f0f4a725c4739bc9ed3e9510388538"
+                }
+            ]
+        },
+        {
+            "file_id": "b08132b7c7a57e4989f59f4c52aac2d5",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 91,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Tela Del Ragno",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.091 - La Tela Del Ragno.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b08132b7c7a57e4989f59f4c52aac2d5"
+                }
+            ]
+        },
+        {
+            "file_id": "96ac55e38906e6876a70a1c6eda14fe9",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 92,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Mistero Nero",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.092 - Mistero Nero.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96ac55e38906e6876a70a1c6eda14fe9"
+                }
+            ]
+        },
+        {
+            "file_id": "4f29fc920daa6d063a3d93e3eb8463c7",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 93,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Consiglio Prezioso",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.093 - Un Consiglio Prezioso.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f29fc920daa6d063a3d93e3eb8463c7"
+                }
+            ]
+        },
+        {
+            "file_id": "f41e042221bc234ead94bb1765729349",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 94,
+            "genre": ["Animazione", "Dramma"],
+            "title": "L Onore Dell Uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.094 - L Onore Dell Uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f41e042221bc234ead94bb1765729349"
+                }
+            ]
+        },
+        {
+            "file_id": "cf2ac3878eba3106e7a68e21f2a8a892",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 95,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Piranha",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.095 - Il Piranha.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf2ac3878eba3106e7a68e21f2a8a892"
+                }
+            ]
+        },
+        {
+            "file_id": "03a758e175f0155afa0686843a0f21eb",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 96,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Chi E L Uomo Tigre",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.096 - Chi E L Uomo Tigre.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03a758e175f0155afa0686843a0f21eb"
+                }
+            ]
+        },
+        {
+            "file_id": "93a6ae289f97a553e5b1d53ff455157b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 97,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Lottatore Eccezionale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.097 - Un Lottatore Eccezionale.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93a6ae289f97a553e5b1d53ff455157b"
+                }
+            ]
+        },
+        {
+            "file_id": "0c4256385b2babfbc6b7e980024a1d05",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 98,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Terrore Di Combattere",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.098 - Terrore Di Combattere.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c4256385b2babfbc6b7e980024a1d05"
+                }
+            ]
+        },
+        {
+            "file_id": "9ce8471bbbfe1904a1529e8bab36e16d",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 99,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Lupo Solitario",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.099 - Lupo Solitario.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ce8471bbbfe1904a1529e8bab36e16d"
+                }
+            ]
+        },
+        {
+            "file_id": "7a9ea7674dbfb131264c82a940f69974",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 100,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Famiglia Di Yoshibo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.100 - La Famiglia Di Yoshibo.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a9ea7674dbfb131264c82a940f69974"
+                }
+            ]
+        },
+        {
+            "file_id": "589764e2955ed3b9d8e42b85af5c3722",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 101,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Sconfitta Di Ken",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.101 - La Sconfitta Di Ken.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/589764e2955ed3b9d8e42b85af5c3722"
+                }
+            ]
+        },
+        {
+            "file_id": "e2e58230d758d4e9e87776a0c79c921f",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 102,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il trionfo della verita",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.102 - Il trionfo della verita.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2e58230d758d4e9e87776a0c79c921f"
+                }
+            ]
+        },
+        {
+            "file_id": "9ecb03ffcb7e7fc6d404efb966f15271",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 103,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un Mortale Tranello",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.103 - Un Mortale Tranello.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ecb03ffcb7e7fc6d404efb966f15271"
+                }
+            ]
+        },
+        {
+            "file_id": "f0553705352c10591cb3f468a439dbaa",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 104,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il Fatidico Incontro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.104 - Il Fatidico Incontro.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0553705352c10591cb3f468a439dbaa"
+                }
+            ]
+        },
+        {
+            "file_id": "38ae35cef9e168f9fba7a4b0f8a7e4d9",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 1,
+            "episode": 105,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La Disfatta Di Tana Delle Tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/1.105 - La Disfatta Di Tana Delle Tigri.avi",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38ae35cef9e168f9fba7a4b0f8a7e4d9"
+                }
+            ]
+        },
+        {
+            "file_id": "281af80165a17cd3a34c3a9182a14598",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Giuramento sul ring",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.001 - Giuramento sul ring.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/281af80165a17cd3a34c3a9182a14598"
+                }
+            ]
+        },
+        {
+            "file_id": "01f55ec05ffa45adcc0168332aca90b2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un degno successore",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.002 - Un degno successore.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/01f55ec05ffa45adcc0168332aca90b2"
+                }
+            ]
+        },
+        {
+            "file_id": "d9c2a1bc82ae104afa6c7002ae513c84",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Gi\u00f9 la maschera",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.003 - Gi\u00f9 la maschera.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9c2a1bc82ae104afa6c7002ae513c84"
+                }
+            ]
+        },
+        {
+            "file_id": "22de74fe782a5ef139d7b07c04b53e9b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un combattimento leale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.004 - Un combattimento leale.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/22de74fe782a5ef139d7b07c04b53e9b"
+                }
+            ]
+        },
+        {
+            "file_id": "bda7f25795ae7017848bacc3701b5323",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Dramma"],
+            "title": "I ragazzi scomparsi",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.005 - I ragazzi scomparsi.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bda7f25795ae7017848bacc3701b5323"
+                }
+            ]
+        },
+        {
+            "file_id": "ded76b177a386e5b13ac826b4e32b3e2",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un patto solenne",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.006 - Un patto solenne.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ded76b177a386e5b13ac826b4e32b3e2"
+                }
+            ]
+        },
+        {
+            "file_id": "535ee90105f23f556244527e66e5037e",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La piramide delle tigri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.007 - La piramide delle tigri.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/535ee90105f23f556244527e66e5037e"
+                }
+            ]
+        },
+        {
+            "file_id": "bacbbbccf11efd5400dd384863a00f9a",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Duello all`ultimo sangue",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.008 - Duello all`ultimo sangue.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bacbbbccf11efd5400dd384863a00f9a"
+                }
+            ]
+        },
+        {
+            "file_id": "9ca75b23e85ad5885e42405c1a2727ae",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La vittoria dell`intelligenza",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.009 - La vittoria dell`intelligenza.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ca75b23e85ad5885e42405c1a2727ae"
+                }
+            ]
+        },
+        {
+            "file_id": "405083ab271f2e95387064eb45773e26",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La sfida dell`uomo di ferro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.010 - La sfida dell`uomo di ferro.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/405083ab271f2e95387064eb45773e26"
+                }
+            ]
+        },
+        {
+            "file_id": "d450c21720b08484d0e7781129fdcdbf",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una legge spietata",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.011 - Una legge spietata.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d450c21720b08484d0e7781129fdcdbf"
+                }
+            ]
+        },
+        {
+            "file_id": "ac0d5b244f7bc9a01cdc3435af5a7fe6",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Sparvieri infernali",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.012 - Sparvieri infernali.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac0d5b244f7bc9a01cdc3435af5a7fe6"
+                }
+            ]
+        },
+        {
+            "file_id": "410565f023ea6661081743b210a88838",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Allenamento di baseball",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.013 - Allenamento di baseball.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/410565f023ea6661081743b210a88838"
+                }
+            ]
+        },
+        {
+            "file_id": "d8bd3a92bd113cb69adaabd7e931ae6c",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La cintura delle piramidi",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.014 - La cintura delle piramidi.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d8bd3a92bd113cb69adaabd7e931ae6c"
+                }
+            ]
+        },
+        {
+            "file_id": "6855596e543d842f7b9b003554be80d8",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Tigre-Inoki contro sparvieri",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.015 - Tigre-Inoki contro sparvieri.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6855596e543d842f7b9b003554be80d8"
+                }
+            ]
+        },
+        {
+            "file_id": "cdfa138a98362f0d436d5d517c78c9d5",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La minaccia di Hassan",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.016 - La minaccia di Hassan.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cdfa138a98362f0d436d5d517c78c9d5"
+                }
+            ]
+        },
+        {
+            "file_id": "9938c06fcffacedf1218377b29fe93bd",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La grande sfida",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.017 - La grande sfida.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9938c06fcffacedf1218377b29fe93bd"
+                }
+            ]
+        },
+        {
+            "file_id": "e0a56c2b1aab290cddff40b53922fcca",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Per un secondo",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.018 - Per un secondo.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e0a56c2b1aab290cddff40b53922fcca"
+                }
+            ]
+        },
+        {
+            "file_id": "dcc3d3a0ff227a4da093303188338288",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il tradimento di Argenta",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.019 - Il tradimento di Argenta.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcc3d3a0ff227a4da093303188338288"
+                }
+            ]
+        },
+        {
+            "file_id": "57940196c1fe43c42b5dc3cae6dbe3d5",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una grande amicizia",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.020 - Una grande amicizia.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57940196c1fe43c42b5dc3cae6dbe3d5"
+                }
+            ]
+        },
+        {
+            "file_id": "74069b291ac7443f6a6fddbfccf3bce0",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il valore dello sport",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.021 - Il valore dello sport.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74069b291ac7443f6a6fddbfccf3bce0"
+                }
+            ]
+        },
+        {
+            "file_id": "96a3e01febb925818f7259d1da99ed67",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Bronzo azzurro",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.022 - Bronzo azzurro.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96a3e01febb925818f7259d1da99ed67"
+                }
+            ]
+        },
+        {
+            "file_id": "8ae8d3823130d8e84ce9f82f507dc066",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La sfida di Butcher",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.023 - La sfida di Butcher.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ae8d3823130d8e84ce9f82f507dc066"
+                }
+            ]
+        },
+        {
+            "file_id": "e907537070698b874a7ab0a9a06d96ac",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il grande Butcher",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.024 - Il grande Butcher.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e907537070698b874a7ab0a9a06d96ac"
+                }
+            ]
+        },
+        {
+            "file_id": "a62363f36df75b329774ecacb9005d92",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Due campioni",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.025 - Due campioni.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a62363f36df75b329774ecacb9005d92"
+                }
+            ]
+        },
+        {
+            "file_id": "57a5381e236879309ca1d7eca67f2259",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il pazzo Stan Hansen",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.026 - Il pazzo Stan Hansen.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57a5381e236879309ca1d7eca67f2259"
+                }
+            ]
+        },
+        {
+            "file_id": "43bb805a5bece862a3d321d04dc8ac7a",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Viva la libert\u00e0",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.027 - Viva la libert\u00e0.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43bb805a5bece862a3d321d04dc8ac7a"
+                }
+            ]
+        },
+        {
+            "file_id": "980735bd01f76c028a503eed81bead87",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 28,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il terribile Puma",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.028 - Il terribile Puma.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/980735bd01f76c028a503eed81bead87"
+                }
+            ]
+        },
+        {
+            "file_id": "cb80147727afa546966ee001ae21546b",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 29,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Re Killium",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.029 - Re Killium.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cb80147727afa546966ee001ae21546b"
+                }
+            ]
+        },
+        {
+            "file_id": "aa3f6ce2d89b03f8fcbdc7bd495025fc",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 30,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Scontro reale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.030 - Scontro reale.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa3f6ce2d89b03f8fcbdc7bd495025fc"
+                }
+            ]
+        },
+        {
+            "file_id": "1ca5d1aaaa8ad6af04007da6061858aa",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 31,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Sei contro uno",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.031 - Sei contro uno.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ca5d1aaaa8ad6af04007da6061858aa"
+                }
+            ]
+        },
+        {
+            "file_id": "2f96ace71b02c1eeb0d6211fc8d438a1",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 32,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Joe Forte",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.032 - Joe Forte.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f96ace71b02c1eeb0d6211fc8d438a1"
+                }
+            ]
+        },
+        {
+            "file_id": "ef6d2329f663427f22dbbb76026d46cf",
+            "tmdb_id": 25114,
+            "saga": "L'Uomo Tigre",
+            "season": 2,
+            "episode": 33,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Scontro finale",
+            "fname": "/Anime & Cartoni/L'Uomo Tigre (1969) [a25114]/2.033 - Scontro finale.mp4",
+            "year": "1969",
+            "plot": "Un lottatore sfida l'organizzazione criminale che lo ha reso famoso.",
+            "actors": ["Kei Tomiyama", "Katsuji Mori", "Chisato Nakajima", "Keiichi Noda"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef6d2329f663427f22dbbb76026d46cf"
+                }
+            ]
+        }
     ]
 }

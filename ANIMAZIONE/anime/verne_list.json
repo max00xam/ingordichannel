@@ -1,124 +1,202 @@
 {
     "episodes_list": [
         {
-			"number": "1x1",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Il giro del mondo in 80 giorni (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f2a70b596d83c41650000a97b9ea6b43"
-				}
-			]
-		},
-		{
-			"number": "1x2",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Il giro del mondo in 80 giorni (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dcdd64756a89ffce18c98c9e4eb0f0f9"
-				}
-			]
-		},
-		{
-			"number": "1x3",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Viaggio al centro della terra (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9fe38861cf1ae18b75edd4ae3b85fd94"
-				}
-			]
-		},
-		{
-			"number": "1x4",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Viaggio al centro della terra (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6c6080f4d41446a3c35060ce6afd644b"
-				}
-			]
-		},
-		{
-			"number": "1x5",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Cesar Cascabel (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ccb1e39d5d5a77dded46083bbb1d72c5"
-				}
-			]
-		},
-		{
-			"number": "1x6",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "Cesar Cascabel (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0968cbaf4bf611d75471203bac80c90d"
-				}
-			]
-		},
-		{
-			"number": "1x7",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "La Jangada (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5e1e9e9d89b3847e81d62c40bc6979ac"
-				}
-			]
-		},
-		{
-			"number": "1x8",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "La Jangada (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b37c36c953f6ab95363a75f798861baa"
-				}
-			]
-		},
-		{
-			"number": "1x9",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "L'isola misteriosa (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8a0c2a5fa8e8966cff4abc26c2ac9726"
-				}
-			]
-		},
-		{
-			"number": "1x10",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "L'isola misteriosa (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6038e878adefc92206ac1e6f46e6cf20"
-				}
-			]
-		},
-		{
-			"number": "1x11",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "La stella del sud (parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/45e2a22f81b1623d9cbe8c8324dfcc5f"
-				}
-			]
-		},
-		{
-			"number": "1x12",
-			"saga": "I viaggi di Giulio Verne",
-			"title": "La stella del sud (parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3dc859760dc4944c564464062bdba077"
-				}
-			]
-		}
+            "file_id": "f446e8bb92e4ed66c0b1ea44cccebc2e",
+            "tmdb_id": 20580,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma", "Action & Adventure"],
+            "title": "Il giro del mondo in 80 giorni",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.01 - Il giro del mondo in 80 giorni (parte 1).avi",
+            "year": "1989",
+            "plot": "Libero adattamento del capolavoro d'avventura di Verne, che vede un eccentrico Lord inglese dell800 (Brosnan) intraprendere per scommessa un giro del mondo, accompagnato dal suo maggiordomo (Idle) ed inseguito da un ispettore di polizia (Ustinov) che lo crede un malfattore. Produzione ad ampio respiro, molto ricca e spettacolare, coloratissima e divertente.",
+            "director": [],
+            "actors": ["Pierce Brosnan", "Eric Idle", "Peter Ustinov", "Jack Klugman", "Julia Nickson", "Ian McNeice", "James Sikking", "Lee Remick", "Patrick Macnee", "Robert Morley", "Robert Wagner", "Anna Massey", "Christopher Lee", "Darren McGavin", "Stephen Nichols", "Henry Gibson", "Simon Ward", "Jill St. John", "Roddy McDowall", "Arielle Dombasle", "John Hillerman", "John Mills", "Pernell Roberts"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f446e8bb92e4ed66c0b1ea44cccebc2e"
+                }
+            ]
+        },
+        {
+            "file_id": "fd9deea281e39a80e20b8cff24112b12",
+            "tmdb_id": 20580,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma", "Action & Adventure"],
+            "title": "Il giro del mondo in 80 giorni",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.02 - Il giro del mondo in 80 giorni (parte 2).avi",
+            "year": "1989",
+            "plot": "Libero adattamento del capolavoro d'avventura di Verne, che vede un eccentrico Lord inglese dell800 (Brosnan) intraprendere per scommessa un giro del mondo, accompagnato dal suo maggiordomo (Idle) ed inseguito da un ispettore di polizia (Ustinov) che lo crede un malfattore. Produzione ad ampio respiro, molto ricca e spettacolare, coloratissima e divertente.",
+            "director": [],
+            "actors": ["Pierce Brosnan", "Eric Idle", "Peter Ustinov", "Jack Klugman", "Julia Nickson", "Ian McNeice", "James Sikking", "Lee Remick", "Patrick Macnee", "Robert Morley", "Robert Wagner", "Anna Massey", "Christopher Lee", "Darren McGavin", "Stephen Nichols", "Henry Gibson", "Simon Ward", "Jill St. John", "Roddy McDowall", "Arielle Dombasle", "John Hillerman", "John Mills", "Pernell Roberts"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fd9deea281e39a80e20b8cff24112b12"
+                }
+            ]
+        },
+        {
+            "file_id": "9a5b17a020efeff6317dda2dd094cf1b",
+            "tmdb_id": 46459,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Viaggio al centro della terra",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.03 - Viaggio al centro della terra (parte 1).avi",
+            "year": "1999",
+            "plot": "",
+            "director": ["George T. Miller"],
+            "actors": ["Treat Williams", "Jeremy London", "Tushka Bergen", "Hugh Keays-Byrne", "Bryan Brown", "Petra Yared"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a5b17a020efeff6317dda2dd094cf1b"
+                }
+            ]
+        },
+        {
+            "file_id": "9068d4a3d844d99e48a0ca21c96fe5c0",
+            "tmdb_id": 46459,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Viaggio al centro della terra",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.04 - Viaggio al centro della terra (parte 2).avi",
+            "year": "1999",
+            "plot": "",
+            "director": ["George T. Miller"],
+            "actors": ["Treat Williams", "Jeremy London", "Tushka Bergen", "Hugh Keays-Byrne", "Bryan Brown", "Petra Yared"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9068d4a3d844d99e48a0ca21c96fe5c0"
+                }
+            ]
+        },
+        {
+            "file_id": "7b157b14745f1eec7314b1e39d20a1f7",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 5,
+            "title": "Cesar Cascabel",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.05 - Cesar Cascabel (parte 1).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b157b14745f1eec7314b1e39d20a1f7"
+                }
+            ]
+        },
+        {
+            "file_id": "c0c0552cfa83f7123ccc5532b754b744",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 6,
+            "title": "Cesar Cascabel",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.06 - Cesar Cascabel (parte 2).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c0c0552cfa83f7123ccc5532b754b744"
+                }
+            ]
+        },
+        {
+            "file_id": "8a94351898589b3bccf774f259da7101",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 7,
+            "title": "La Jangada",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.07 - La Jangada (parte 1).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a94351898589b3bccf774f259da7101"
+                }
+            ]
+        },
+        {
+            "file_id": "8654498eabd198bf5df51546a2dca346",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 8,
+            "title": "La Jangada",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.08 - La Jangada (parte 2).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8654498eabd198bf5df51546a2dca346"
+                }
+            ]
+        },
+        {
+            "file_id": "e0861e13f8f2dc0ea458a0bfe34c317a",
+            "tmdb_id": 72644,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy"],
+            "title": "L'isola misteriosa",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.09 - L'isola misteriosa (parte 1).avi",
+            "year": "2005",
+            "plot": "Un gruppo di soldati nordisti imprigionati riesce a fuggire grazie a una mongolfiera. Finiranno su un'isola non segnata dalle mappe, che cela al suo interno terrificanti presenze...",
+            "director": ["Russell Mulcahy"],
+            "actors": ["Kyle MacLachlan", "Gabrielle Anwar", "Vinnie Jones", "Omar Gooding", "Patrick Stewart", "Danielle Calvert", "Jason Durr", "Roy Marsden", "Chris Larkin", "Dom Hetrakul", "Nate Harrison", "Geoffrey Giuliano", "Banjong Siriwattanawong", "Daniel O'Neill", "Dean Alexandrou", "Ken Streutker", "Chad Dylan Markowitz", "Tanapol Chuksrida", "Nophand Boonyai", "Daniel J. Molnas", "Tharinee Songkiatthana", "Trungta Kositchimongkol", "Gregory T. Eismin", "Byron Bishop", "Tom Mison"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e0861e13f8f2dc0ea458a0bfe34c317a"
+                }
+            ]
+        },
+        {
+            "file_id": "8bf3343157e0c4e95458ad557adb3a51",
+            "tmdb_id": 72644,
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy"],
+            "title": "L'isola misteriosa",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.10 - L'isola misteriosa (parte 2).avi",
+            "year": "2005",
+            "plot": "Un gruppo di soldati nordisti imprigionati riesce a fuggire grazie a una mongolfiera. Finiranno su un'isola non segnata dalle mappe, che cela al suo interno terrificanti presenze...",
+            "director": ["Russell Mulcahy"],
+            "actors": ["Kyle MacLachlan", "Gabrielle Anwar", "Vinnie Jones", "Omar Gooding", "Patrick Stewart", "Danielle Calvert", "Jason Durr", "Roy Marsden", "Chris Larkin", "Dom Hetrakul", "Nate Harrison", "Geoffrey Giuliano", "Banjong Siriwattanawong", "Daniel O'Neill", "Dean Alexandrou", "Ken Streutker", "Chad Dylan Markowitz", "Tanapol Chuksrida", "Nophand Boonyai", "Daniel J. Molnas", "Tharinee Songkiatthana", "Trungta Kositchimongkol", "Gregory T. Eismin", "Byron Bishop", "Tom Mison"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8bf3343157e0c4e95458ad557adb3a51"
+                }
+            ]
+        },
+        {
+            "file_id": "e71f7e0fd67a6cf0d74f6f98c778aad7",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 11,
+            "title": "La stella del sud",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.11 - La stella del sud (parte 1).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e71f7e0fd67a6cf0d74f6f98c778aad7"
+                }
+            ]
+        },
+        {
+            "file_id": "aa716d30b61d956c7f61350795072193",
+            "saga": "I viaggi di Giulio Verne",
+            "season": 1,
+            "episode": 12,
+            "title": "La stella del sud",
+            "fname": "/Anime & Cartoni/I viaggi di Giulio Verne [b]/1.12 - La stella del sud (parte 2).avi",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa716d30b61d956c7f61350795072193"
+                }
+            ]
+        }
     ]
 }

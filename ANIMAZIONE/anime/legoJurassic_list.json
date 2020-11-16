@@ -1,160 +1,225 @@
 {
     "episodes_list": [
-       {
-			"tmdb_id": 93895,
-			"number": "1x1",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Missione Decisiva!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/405289360ae36d19453627462fae29b1"
-				}
-			]
-		},
 		{
-			"tmdb_id": 93895,
-			"number": "1x2",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Carica!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/0544f4c3700383f82a60279df2c148bb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x3",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Il terrificante ibrido!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/040c19ae81c558c19394845854a42e8c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x4",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Emergenza Pteranodonti!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/62d05b2a341c6297519d881c1d7df4ca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x5",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Corrente e pericoli!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/87a2d1271aa47c921bf725826aa5f6b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x6",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Dinosauro in fuga",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/a081ccb87d9d7867e89f2f595381e43a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x7",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Pesca notturna",
-			"links": [
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/ce76e7436050f2db24e296a7b211f365"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x8",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Vento di promozione!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/32cdfe6730a1c6bb0f54198717c784e7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x9",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Haunted and Hunted!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/076c7160d7d8ef70724454ae5010c128"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x10",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "To the Extreme!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/3db94df500789c3644c4dc504348810c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x11",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Symptoms!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/0a60924ec4eaab2d332f3a3e142a34b6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x12",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "Under the Volcano!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/c6d3db29e781d9bef519e719407b08a7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 93895,
-			"number": "1x13",
-			"saga": "LEGO Jurassic World: Legend of Isla Nublar",
-			"title": "The Monsters and the Mech!",
-			"links":[
-				{
-                    "quality": "HD",
-					"url": "http://51.77.159.233:30299/c86a7d0633968409da74db538cc38ef6"
-				}
-			]
-		} 
+            "file_id": "7a1a147dd8ae8a513a789511311596ae",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Missione Decisiva!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.001 - Missione Decisiva!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a1a147dd8ae8a513a789511311596ae"
+                }
+            ]
+        },
+        {
+            "file_id": "9ad0a8d761ee466361855bae0511d51e",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Carica!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.002 - Carica!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ad0a8d761ee466361855bae0511d51e"
+                }
+            ]
+        },
+        {
+            "file_id": "7c2df7b47a15d711c6e8e7bccd10dc5a",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Il terrificante ibrido!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.003 - Il terrificante ibrido!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7c2df7b47a15d711c6e8e7bccd10dc5a"
+                }
+            ]
+        },
+        {
+            "file_id": "13498cb0201087e62e36421739cf2a2b",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Emergenza Pteranodonti!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.004 - Emergenza Pteranodonti!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/13498cb0201087e62e36421739cf2a2b"
+                }
+            ]
+        },
+        {
+            "file_id": "ce069ac37f9fc429f04f43b9eccadf59",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Corrente e pericoli!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.005 - Corrente e pericoli!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ce069ac37f9fc429f04f43b9eccadf59"
+                }
+            ]
+        },
+        {
+            "file_id": "44eb2f1d8c150d05b0ca2bbc40f4b4a6",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Dinosauro in fuga",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.006 - Dinosauro in fuga.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/44eb2f1d8c150d05b0ca2bbc40f4b4a6"
+                }
+            ]
+        },
+        {
+            "file_id": "27faccb1fc17de557146360e8ba2fa78",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Pesca notturna",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.007 - Pesca notturna.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/27faccb1fc17de557146360e8ba2fa78"
+                }
+            ]
+        },
+        {
+            "file_id": "a874f21e3af1e1ae38afb8c8f48dd144",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Vento di promozione!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.008 - Vento di promozione!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a874f21e3af1e1ae38afb8c8f48dd144"
+                }
+            ]
+        },
+        {
+            "file_id": "5c7367804d30e9371033e169bc7693af",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Haunted and Hunted!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.009 - Haunted and Hunted!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c7367804d30e9371033e169bc7693af"
+                }
+            ]
+        },
+        {
+            "file_id": "62386b130cced806dfa9ce0d6cc52492",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "To the Extreme!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.010 - To the Extreme!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/62386b130cced806dfa9ce0d6cc52492"
+                }
+            ]
+        },
+        {
+            "file_id": "f69648be77b1879bb22230fd9461c855",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Symptoms!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.011 - Symptoms!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f69648be77b1879bb22230fd9461c855"
+                }
+            ]
+        },
+        {
+            "file_id": "32b29b4434f5697a9dc98bce8b45f62f",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "Under the Volcano!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.012 - Under the Volcano!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/32b29b4434f5697a9dc98bce8b45f62f"
+                }
+            ]
+        },
+        {
+            "file_id": "2727f46e413d03d8349e2afa6debe6ae",
+            "tmdb_id": 93895,
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure", "Famiglia", "Kids", "Sci-Fi & Fantasy"],
+            "title": "The Monsters and the Mech!",
+            "fname": "/Anime & Cartoni/LEGO Jurassic World: Legend of Isla Nublar (2019) [a93895]/1.013 - The Monsters and the Mech!.mkv",
+            "year": "2019",
+            "actors": ["Britt McKillip", "Ian Hanlin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2727f46e413d03d8349e2afa6debe6ae"
+                }
+            ]
+        } 
     ]
 }

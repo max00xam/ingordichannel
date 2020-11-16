@@ -1,156 +1,213 @@
 {
     "episodes_list": [
         {
-            "number":"1x1",
-            "saga":"Ano Hana",
-            "title":"I superbuster della pace",
-            "plot":"L'apparizione del fantasma della compagna di giochi Menma lascia scosso il giovane Jinta, il protagonista della serie.",
-            "genre":["Animation", "Anime", "Drama", "Fantasy"],
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "a0dfc4105b6c1614481a7405cfb27d70",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "I superbuster della pace",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.01 - I superbuster della pace.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/f575fc885596732fff445b8966614289"
+                    "url": "http://51.77.159.233:30299/a0dfc4105b6c1614481a7405cfb27d70"
                 }
             ]
         },
         {
-            "number": "1x2",
-            "saga":"Ano Hana",
-            "title":"La valorosa Menma",
-            "plot":"Jinta informa Poppo che Menma gli è apparsa chiedendogli di realizzare il suo desiderio e da buon amico lo consiglia.",
-            "genre":["Animation", "Anime", "Drama", "Fantasy" ],
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "0b6309f6ab07b6b4371c0c1b0a52ef68",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "La valorosa Menma",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.02 - La valorosa Menma.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/a3a9622b38a2cded3db60d1c281baf35"
+                    "url": "http://51.77.159.233:30299/0b6309f6ab07b6b4371c0c1b0a52ef68"
                 }
             ]
         },
         {
-            "number":"1x3",
-            "saga":"Ano Hana",
-            "title":"Il circolo cerchiamo Menma",
-            "plot":"Jinta decide di tornare a scuola, convinto che quello sia il desiderio di Menma, mantenendo cos\u00ec la promessa fatta ad Anaru.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083699.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "61fe11f278514793247b25d2f8e56d52",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Il circolo cerchiamo Menma",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.03 - Il circolo cerchiamo Menma.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/fe0711fb4219a8ccf58007fcb209f5b5"
+                    "url": "http://51.77.159.233:30299/61fe11f278514793247b25d2f8e56d52"
                 }
             ]
         },
         {
-            "number":"1x4",
-            "saga":"Ano Hana",
-            "title":"Il vestito bianco con un fiocchetto",
-            "plot":"Yukiatsu informa Jinta e gli amici di aver visto Menma. Jinta nutre dei sospetti, ma segue gli altri alla scoperta della verit\u00e0.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083700.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "f39b54eb0a0145a1d6415ac2ac953176",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Il vestito bianco con un fiocchetto",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.04 - Il vestito bianco con un fiocchetto.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/5d26ee017a93ad728df5e842cbea15d5"
+                    "url": "http://51.77.159.233:30299/f39b54eb0a0145a1d6415ac2ac953176"
                 }
             ]
         },
         {
-            "number":"1x5",
-            "saga":"Ano Hana",
-            "title":"Il tunnel",
-            "plot":"Quando Yukiatsu si traveste fingendosi lo spirito di Menma e sconcertando gli amici, Jinta cerca di parlare al ragazzo.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083701.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "a1424b47584a76aa9a1e0f1cb6a0adcf",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Il tunnel",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.05 - Il tunnel.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/cb27e57e29d173a97143d52770407fc1"
+                    "url": "http://51.77.159.233:30299/a1424b47584a76aa9a1e0f1cb6a0adcf"
                 }
             ]
         },
         {
-            "number":"1x6",
-            "saga":"Ano Hana",
-            "title":"Dimenticami ma non dimenticarmi",
-            "plot":"Jinta decide di andare a scuola per aiutare Menma a raggiungere il Nirvana, ma la compagna teme che il suo atteggiamento spaventi gli studenti.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083702.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "8422fc9e2e7798d774a97e7a54ac0372",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Dimenticami ma non dimenticarmi",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.06 - Dimenticami ma non dimenticarmi.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/c5349019ff13bb21405562e844d86dd6"
+                    "url": "http://51.77.159.233:30299/8422fc9e2e7798d774a97e7a54ac0372"
                 }
             ]
         },
         {
-            "number":"1x7",
-            "saga":"Ano Hana",
-            "title":"Il vero desiderio",
-            "plot":"Anaru fugge di casa e si nasconde, ma Jinta le fa presente che non pu\u00f2 marinare la scuola n\u00e9 scappare per sempre, costringendola a una decisione.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083703.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "87e432a91a06df444e6c20d51ee83497",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Il vero desiderio",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.07 - Il vero desiderio.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/d982eaf620f8aa110a5300291bcc0ca4"
+                    "url": "http://51.77.159.233:30299/87e432a91a06df444e6c20d51ee83497"
                 }
             ]
         },
         {
-            "number":"1x8",
-            "saga":"Ano Hana",
-            "title":"I wonder",
-            "plot":"Il padre di Menma si oppone al lancio dei fuochi d'artificio, ma Jinta cerca di convincere la madre per realizzare il desiderio della figlia.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083704.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "2bdfa3d70782eeb1ed40151f470d430e",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "I wonder",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.08 - I wonder.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/2f457064007bff1a68fb6dcdb8172b5d"
+                    "url": "http://51.77.159.233:30299/2bdfa3d70782eeb1ed40151f470d430e"
                 }
             ]
         },
         {
-            "number":"1x9",
-            "saga":"Ano Hana",
-            "title":"Tutti e Menma",
-            "plot":"Anaru e gli altri si convincono dell'esistenza di Menma quando si vedono servire il pane che preparava. Yukiatsu, intanto, prova sentimenti contrastanti.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083705.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "494d83fd7da669f6f77374e783c13d24",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Tutti e Menma",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.09 - Tutti e Menma.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/aa0e940d39d872f5ce7e91f57b9d1cd1"
+                    "url": "http://51.77.159.233:30299/494d83fd7da669f6f77374e783c13d24"
                 }
             ]
         },
         {
-            "number":"1x10",
-            "saga":"Ano Hana",
-            "title":"Fuochi d'artificio",
-            "plot":"Il desiderio di Menma sta per avverarsi, ma mentre si raccoglie in preghiera davanti a un altare buddista nota che le sue mani sono trasparenti...",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083706.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "061411b03c9b00a73d8839998f27d742",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Fuochi d'artificio",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.10 - Fuochi d'artificio.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/45038dd258b399d6c9b5743ac862e6f9"
+                    "url": "http://51.77.159.233:30299/061411b03c9b00a73d8839998f27d742"
                 }
             ]
         },
         {
-            "number":"1x11",
-            "saga":"Ano Hana",
-            "title":"Il fiore sbocciato quell'estate",
-            "plot":"Jinta è sbalordito dopo l'esplosione dei fuochi d'artificio. L'imbarazzo regna tra i Super Busters della Pace. Satoshi, che non sa nulla, \u00e8 soddisfatto della giornata.",
-            "genre":["Animation","Anime","Drama","Fantasy"],
-            "tumbnail":"https://api.thetvdb.com/episodes/247958/4083707.jpg",
-            "dirctor":"Nagai Tatsuyuki",
-            "links":[
+            "file_id": "758cc348f310f7f8a75f5249e3868406",
+            "tmdb_id": 39434,
+            "saga": "Ano Hana",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Dramma", "Mistero"],
+            "title": "Il fiore sbocciato quell'estate",
+            "fname": "/Anime & Cartoni/Ano Hana [a39434]/1.11 - Il fiore sbocciato quell'estate.flv",
+            "year": "2011",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "director": ["Tatsuyuki Nagai"],
+            "actors": ["Saori Hayami", "Miyu Irino", "Ai Kayano", "Haruka Tomatsu", "Takayuki Kondo", "Takahiro Sakurai", "Kaoru Mizuhara", "Yui Makino", "Mitsuru Ogata", "Fuyuka Ono", "Makoto Yasumura", "Kaoru Mizuhara", "Mutsumi Tamura", "Asami Seto", "Aki Toyosaki", "Sayaka Ohara", "Yasuhiro Mamiya"],
+            "links": [
                 {
-                    "url":"http://51.77.159.233:30299/a0855dba00d88029c39f93d3f4f1c2a7"
+                    "url": "http://51.77.159.233:30299/758cc348f310f7f8a75f5249e3868406"
                 }
             ]
         }
-]
+    ]
 }

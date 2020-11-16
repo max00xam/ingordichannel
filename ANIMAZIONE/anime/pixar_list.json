@@ -1,169 +1,286 @@
 {
     "episodes_list": [
-        {
-            "tvdb_id": 81251,
-            "number": "1997x1",
-            "saga": "I corti Pixar",
-            "title": "La partita di Geri",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/b5a269adaa5353587201a5b3372c5544"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2000x1",
-            "saga": "I corti Pixar",
-            "title": "Pennuti spennati",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/17ec9765f83291473b8f3b42c81a8bee"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2004x1",
-            "saga": "I corti Pixar",
-            "title": "L`agnello rimbalzello",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/aef3368bc53555ef3e701015b8698ab2"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2005x2",
-            "saga": "I corti Pixar",
-            "title": "One Man Band",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/ca8d4dd6c19816374ccc1fe8f122cc89"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2006x1",
-            "saga": "I corti Pixar",
-            "title": "Stu - Anche un alieno può sbagliare",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/0fbb3437a182c3ba9bcc19d8b63ea495"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2008x1",
-            "saga": "I corti Pixar",
-            "title": "Presto",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/f7e590798b53c8d7fff00f2746395733"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2009x1",
-            "saga": "I corti Pixar",
-            "title": "Parzialmente nuvoloso",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/3b1afbc52e732bde445a974cc3500a79"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2010x2",
-            "saga": "I corti Pixar",
-            "title": "Quando il Giorno incontra la Notte",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/55c237d921d5f79da7a58934c9872c22"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2011x1",
-            "saga": "I corti Pixar",
-            "title": "La Luna",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/c6cd1664b6675229e8a0758e3cf6435e"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2013x1",
-            "saga": "I corti Pixar",
-            "title": "L`ombrello blu",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/25618ed0cb13daa8643df3523b0902bf"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2014x3",
-            "saga": "I corti Pixar",
-            "title": "Lava",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/dc806a92efd7052a758a57ea3c4a46a6"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2015x1",
-            "saga": "I corti Pixar",
-            "title": "Il super team di Sanjay",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/22664c0a58ae9365e7760e5e24898b9e"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2016x1",
-            "saga": "I corti Pixar",
-            "title": "Piper",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/da1b42e59faac4af7a0323b0e257e903"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2017x2",
-            "saga": "I corti Pixar",
-            "title": "Lou",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/4a28d21c1b7898cb41051dc71918fd13"
-              }
-            ]
-          },
-          {
-            "tvdb_id": 81251,
-            "number": "2018x1",
-            "saga": "I corti Pixar",
-            "title": "Bao",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/fd32b831c7ad5b0bc990354811598765"
-              }
-            ]
-          }
-    ]
+      {
+        "file_id": "c3b54deb5e531ee499fced6bbdffc146",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "La partita di Geri",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/1997.001 - La partita di Geri.mp4",
+        "year": 1997,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c3b54deb5e531ee499fced6bbdffc146"
+            }
+        ]
+    },
+    {
+        "file_id": "4f4d84c854f010386b69718bdbf3a005",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "Pennuti spennati",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2000.001 - Pennuti spennati.mp4",
+        "year": 2000,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/4f4d84c854f010386b69718bdbf3a005"
+            }
+        ]
+    },
+    {
+        "file_id": "5b47c1bcd3a2b539cb2157dca7c3beca",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "L`agnello rimbalzello",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2004.001 - L`agnello rimbalzello.mp4",
+        "year": 2004,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5b47c1bcd3a2b539cb2157dca7c3beca"
+            }
+        ]
+    },
+    {
+        "file_id": "7b98e1df86a56f9c76207e84a73b5cb2",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 2,
+        "title": "One Man Band",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2005.002 - One Man Band.mp4",
+        "year": 2005,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7b98e1df86a56f9c76207e84a73b5cb2"
+            }
+        ]
+    },
+    {
+        "file_id": "b84ebdf472d3b1c02974fa28fe4f4930",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "Stu - Anche un alieno pu\u00f2 sbagliare",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2006.001 - Stu - Anche un alieno pu\u00f2 sbagliare.mp4",
+        "year": 2006,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/b84ebdf472d3b1c02974fa28fe4f4930"
+            }
+        ]
+    },
+    {
+        "file_id": "e63aac9d01daa0cb95d5bdc9586e727c",
+        "tvdb_id": "81251",
+        "tmdb_id": 14519,
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "genre": ["Commedia", "Dramma"],
+        "title": "Presto",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2008.001 - Presto.mp4",
+        "year": "2008",
+        "plot": "",
+        "actors": ["Colin Buchanan", "Paul Haigh", "Caroline Catz", "Adrian Hood", "Alistair McGowan", "Tony Marshall", "Kate Gartside", "David MacCreedy", "Keiran Flynn", "Carolyn Pickles", "Holliday Grainger", "Ozzie Yue", "Angela Lonsdale", "Oliver Cotton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e63aac9d01daa0cb95d5bdc9586e727c"
+            }
+        ]
+    },
+    {
+        "file_id": "87885c346f0da2b43dac7ed0df2922c6",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "Parzialmente nuvoloso",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2009.001 - Parzialmente nuvoloso.mp4",
+        "year": 2009,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/87885c346f0da2b43dac7ed0df2922c6"
+            }
+        ]
+    },
+    {
+        "file_id": "7b873d14bac6fa67e54391e0db5dae44",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 2,
+        "title": "Quando il Giorno incontra la Notte",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2010.002 - Quando il Giorno incontra la Notte.mp4",
+        "year": 2010,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7b873d14bac6fa67e54391e0db5dae44"
+            }
+        ]
+    },
+    {
+        "file_id": "84d2ddc78ca0a815fcaddcd11ea0ce20",
+        "tvdb_id": "81251",
+        "tmdb_id": 79251,
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "La Luna",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2011.001 - La Luna.mp4",
+        "year": "2011",
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/84d2ddc78ca0a815fcaddcd11ea0ce20"
+            }
+        ]
+    },
+    {
+        "file_id": "483ba96034bef4cb0af74f1bd9a3d982",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "L`ombrello blu",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2013.001 - L`ombrello blu.mp4",
+        "year": 2013,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/483ba96034bef4cb0af74f1bd9a3d982"
+            }
+        ]
+    },
+    {
+        "file_id": "711d8c158c1f5f611cf56968fa44d8cf",
+        "tvdb_id": "81251",
+        "tmdb_id": 36607,
+        "saga": "I corti Pixar",
+        "episode": 3,
+        "genre": ["Animazione", "Commedia"],
+        "title": "Lava",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2014.003 - Lava.mp4",
+        "year": "2017",
+        "plot": "",
+        "director": ["Federico Vitali"],
+        "actors": [],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/711d8c158c1f5f611cf56968fa44d8cf"
+            }
+        ]
+    },
+    {
+        "file_id": "d4bfa9e073fda42ac9687ee7dea826e7",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "title": "Il super team di Sanjay",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2015.001 - Il super team di Sanjay.mp4",
+        "year": 2015,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d4bfa9e073fda42ac9687ee7dea826e7"
+            }
+        ]
+    },
+    {
+        "file_id": "5d04722e65900c3c580a210472865fd8",
+        "tvdb_id": "81251",
+        "tmdb_id": 14946,
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "genre": ["Sci-Fi & Fantasy", "Animazione"],
+        "title": "Piper",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2016.001 - Piper.mp4",
+        "year": "2016",
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5d04722e65900c3c580a210472865fd8"
+            }
+        ]
+    },
+    {
+        "file_id": "3663c8263a941d57614e580a5ceb22a9",
+        "tvdb_id": "81251",
+        "tmdb_id": 480,
+        "saga": "I corti Pixar",
+        "episode": 2,
+        "genre": ["Commedia", "Dramma"],
+        "title": "Lou",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2017.002 - Lou.mp4",
+        "year": "2017",
+        "plot": "",
+        "actors": ["Edward Asner", "Nancy Marchand", "Robert Walden", "Mason Adams", "Linda Kelsey", "Jack Bannon", "Daryl Anderson", "Laurence Haddon", "Rebecca Balding", "Thomas Carter"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/3663c8263a941d57614e580a5ceb22a9"
+            }
+        ]
+    },
+    {
+        "file_id": "8ddab4a8557dbf1f7857bbce448cfeb3",
+        "tvdb_id": "81251",
+        "tmdb_id": 44063,
+        "saga": "I corti Pixar",
+        "episode": 1,
+        "genre": ["Sci-Fi & Fantasy"],
+        "title": "Bao",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/2018.001 - Bao.mp4",
+        "year": "2018",
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/8ddab4a8557dbf1f7857bbce448cfeb3"
+            }
+        ]
+    },
+    {
+        "file_id": "b4858c9b8ac37b7bf0e80698cf3fb032",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "title": "Il Primo Appuntamento Di Riley",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/Il Primo Appuntamento Di Riley [Corto] (2015).mp4",
+        "year": 2015,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/b4858c9b8ac37b7bf0e80698cf3fb032"
+            }
+        ]
+    },
+    {
+        "file_id": "aec7a02b093f2b187e6cc6526f422f3b",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "title": "Knick Knack",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/Knick Knack [Corto] (1989).mp4",
+        "year": 1989,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/aec7a02b093f2b187e6cc6526f422f3b"
+            }
+        ]
+    },
+    {
+        "file_id": "21e13b4ab56b35d74eed21435a5ecdb6",
+        "tvdb_id": "81251",
+        "saga": "I corti Pixar",
+        "title": "Party Central",
+        "fname": "/Anime & Cartoni/I corti Pixar (1984) [b81251]/Party Central (2013).mp4",
+        "year": 2013,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/21e13b4ab56b35d74eed21435a5ecdb6"
+            }
+        ]
+    }
+  ]
 }

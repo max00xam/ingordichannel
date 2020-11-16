@@ -1,719 +1,1174 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 18131,
-			"number": "1x1",
-			"saga": "Ghostbusters",
-			"title": "Figlio di Acchiappafantasmi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5731909c8d2c3371616f57c9e0b80513"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x2",
-			"saga": "Ghostbusters",
-			"title": "Paura Attorno alla Tavola Rotonda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b3d580fbe56add93db6300a25fa82b62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x3",
-			"saga": "Ghostbusters",
-			"title": "La Maledizione del Faraone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a07d5c22c3b109c144129b637a0408e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x4",
-			"saga": "Ghostbusters",
-			"title": "Il Segreto di Mastodon Valley",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/edf2480fccb861dbe1f9a683f8504686"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x5",
-			"saga": "Ghostbusters",
-			"title": "Missione Salvare il Futuro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/301ab075a7ab91b28bd52f7fdac7760f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x6",
-			"saga": "Ghostbusters",
-			"title": "Stufato di Strega",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5f4878bff9870b6bbbe7b0a4b4832875"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x7",
-			"saga": "Ghostbusters",
-			"title": "Mia cara Mummia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f195e39c1f4728a4e12149cc0b3c0009"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x8",
-			"saga": "Ghostbusters",
-			"title": "Pazzo Museo delle Cere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d2d585236bbc2c57976d59f1ed0d20a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x9",
-			"saga": "Ghostbusters",
-			"title": "Statue of Liberty",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a00871e3eeb6680a87d5a7558109594"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x10",
-			"saga": "Ghostbusters",
-			"title": "The Ransom of Eddie Spenser",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8541607b4e3a50d9559a0335892dff1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x11",
-			"saga": "Ghostbusters",
-			"title": "Eddie Takes Charge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6b7bc5261e8b4104758b0faf3d4cbd7c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x12",
-			"saga": "Ghostbusters",
-			"title": "The Great Ghost Gorilla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/012e0f27a0e970cc5f952bd7de57de36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x13",
-			"saga": "Ghostbusters",
-			"title": "A Friend in Need",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/687a58c84969fcb27f4b3c3669ecad89"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x14",
-			"saga": "Ghostbusters",
-			"title": "No Mo` Snow",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cfa7660e70d74a63ccf7d5835d486688"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x15",
-			"saga": "Ghostbusters",
-			"title": "Prime Evil`s Good Deed",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f4d5f8fc9aff7498cfdbd329640790c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x16",
-			"saga": "Ghostbusters",
-			"title": "Cyman`s Revenge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8b2e9a4057d5cb1d525b33cd76397ef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x17",
-			"saga": "Ghostbusters",
-			"title": "The Headless Horseman Caper",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bab23119434276f0da3f94fa785d8015"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x18",
-			"saga": "Ghostbusters",
-			"title": "Banish That Banshee",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/15432c32cf4566d50bd373db4614874f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x19",
-			"saga": "Ghostbusters",
-			"title": "Rollerghoster",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1fa8b82d69703e11967d3872c1eb1798"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x20",
-			"saga": "Ghostbusters",
-			"title": "He Went Brataway",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3435e65e94393bd87f8dc115ea2211da"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x21",
-			"saga": "Ghostbusters",
-			"title": "The Looking-Glass Warrior",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a532ca4bddbdf95556503c1f2456edf9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x22",
-			"saga": "Ghostbusters",
-			"title": "Rock e raggi laser",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0f7554ccdd124d7bf615a9b46ee7f1fe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x23",
-			"saga": "Ghostbusters",
-			"title": "Runaway Choo Choo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/15e4061d426b38d192c33db4c50a1fb1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x24",
-			"saga": "Ghostbusters",
-			"title": "Dynamite Dinosaurs",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f27e6a6a6505fdb719247967c92286b8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x25",
-			"saga": "Ghostbusters",
-			"title": "Ghostbunglers",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e31b70a18078c149e6f1880a6280046f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x26",
-			"saga": "Ghostbusters",
-			"title": "My Present to the Future",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93832090aebd168af75e3c5d3c2143f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x27",
-			"saga": "Ghostbusters",
-			"title": "The Beastly Buggy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1e42f7cc7a485a7d3a43c572e0cad041"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x28",
-			"saga": "Ghostbusters",
-			"title": "Belfry Leads the Way",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bf5db001fd05fc41e6f27d19603d8974"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x29",
-			"saga": "Ghostbusters",
-			"title": "The Battle for Ghost Command",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/56e66e74b6cc3aa1a85cf50a64b61a49"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x30",
-			"saga": "Ghostbusters",
-			"title": "Going Ape",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0193347ffd52ed21ddfce228101320a0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x31",
-			"saga": "Ghostbusters",
-			"title": "The Haunting of Gizmo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d31dc20bc0afd814c4ba57af2d027d42"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x32",
-			"saga": "Ghostbusters",
-			"title": "Ghostnappers",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3a01be38a6fc2e361f16dcca4f1e4f17"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x33",
-			"saga": "Ghostbusters",
-			"title": "Inside Out",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a603f6014d5d51dd1c76340432cba420"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x34",
-			"saga": "Ghostbusters",
-			"title": "The Sleeping Dragon",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fbc877694d2f141165d033cd833b304f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x35",
-			"saga": "Ghostbusters",
-			"title": "The Phantom of the Big Apple",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d4bab33950eea79afdeffc5aee9339e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x36",
-			"saga": "Ghostbusters",
-			"title": "Shades of Dracula",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f6d3b0dd1a08eaff45b90ef9412ebdc5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x37",
-			"saga": "Ghostbusters",
-			"title": "Outlaw In-Laws",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8139bd85d5bf17bb4a644a326472674f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x38",
-			"saga": "Ghostbusters",
-			"title": "Our Buddy Fuddy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/85dc8bd181dd17ae5b547ba8a5b7d505"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x39",
-			"saga": "Ghostbusters",
-			"title": "Train to Doom-De-Doom-Doom",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/85771c83e0ace964c590002fac7d5380"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x40",
-			"saga": "Ghostbusters",
-			"title": "The Princess and the Troll",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae336585c17966d70472f34ac4734cb8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x41",
-			"saga": "Ghostbusters",
-			"title": "Second Chance",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8670154d02e9a05910289334a14d1949"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x42",
-			"saga": "Ghostbusters",
-			"title": "Tracy Come Back",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bb53c5035b170521f87dd440f3c1edac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x43",
-			"saga": "Ghostbusters",
-			"title": "Doggone Werewolf",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c594c16fae09a8028d4290b37c146162"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x44",
-			"saga": "Ghostbusters",
-			"title": "That`s No Alien",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/32533c3264797d2b14bbe46ecd75a5b0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x45",
-			"saga": "Ghostbusters",
-			"title": "Scareplane",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f2094379097122e64ac750b9d211c775"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x46",
-			"saga": "Ghostbusters",
-			"title": "The Ghost of Don Quixote",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2dc53c842f7918d120a2298fde23f363"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x47",
-			"saga": "Ghostbusters",
-			"title": "The White Whale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ba4fbc4e7d4ca5c4b7a628f51e196f18"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x48",
-			"saga": "Ghostbusters",
-			"title": "Whither Why",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6b3b7f0e78ce231061411392022ab473"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x49",
-			"saga": "Ghostbusters",
-			"title": "Knight of Terror",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a424ca22ccd4584d1220453dcd92a512"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x50",
-			"saga": "Ghostbusters",
-			"title": "The Girl Who Cried Vampire",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/689d9992fe3757470a46bfd8e5787979"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x51",
-			"saga": "Ghostbusters",
-			"title": "Little Big Bat",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a4627e38d505aa1d9f91dfa103144780"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x52",
-			"saga": "Ghostbusters",
-			"title": "Really Roughing It",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0657068f876dab3591197ca1845b3826"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x53",
-			"saga": "Ghostbusters",
-			"title": "The Bad Old Days",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/046420aeb4581e80781128f85e908d85"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x54",
-			"saga": "Ghostbusters",
-			"title": "The Curse of the Diamond of Gloom",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40f3bb0270e8ff5e6d6d717c661470c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x55",
-			"saga": "Ghostbusters",
-			"title": "The Bind That Ties",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d49a0fb563299c1c3ff4af4f3860018c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x56",
-			"saga": "Ghostbusters",
-			"title": "Like Father, Like Son",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1d3433f13fb0704725acefefdc616378"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x57",
-			"saga": "Ghostbusters",
-			"title": "The Fourth Ghostbuster",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de3022e22209149e89e33629bd9d8177"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x58",
-			"saga": "Ghostbusters",
-			"title": "Country Cousin",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/98b34f01826524559a96cfd979dbac3c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x59",
-			"saga": "Ghostbusters",
-			"title": "A Cold Winter`s Night",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bdd7880557fd72bdc13c04760036e93d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x60",
-			"saga": "Ghostbusters",
-			"title": "Father Knows Beast",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b35dbf4eb43549d04ac5e7b30ac5d9fb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x61",
-			"saga": "Ghostbusters",
-			"title": "Back to the Past",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/10b0923b1acbc492032b5afdd4bd268a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x62",
-			"saga": "Ghostbusters",
-			"title": "Pretend Friends",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6e99fabba19f4d5747dc5b7fe6ca1bb1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x63",
-			"saga": "Ghostbusters",
-			"title": "The Haunted Painting",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/650ebfc5d087ba18166f9ae739db8590"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x64",
-			"saga": "Ghostbusters",
-			"title": "Maze Caves",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae20e7819fd1b8d737607ad6cec2278a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 18131,
-			"number": "1x65",
-			"saga": "Ghostbusters",
-			"title": "The Way You Are",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f83b4aa8afdcfe68e9213b03647c15c8"
-				}
-			]
-		}
+            "file_id": "0ccef14dace96039bb3d62bd078459bc",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Figlio di Acchiappafantasmi",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.001 - Figlio di Acchiappafantasmi.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0ccef14dace96039bb3d62bd078459bc"
+                }
+            ]
+        },
+        {
+            "file_id": "669b4057a717987273090e02712073ad",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Paura Attorno alla Tavola Rotonda",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.002 - Paura Attorno alla Tavola Rotonda.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/669b4057a717987273090e02712073ad"
+                }
+            ]
+        },
+        {
+            "file_id": "8ebdab55e5e958964fc4f6fb5a891954",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Mistero", "Animazione"],
+            "title": "La Maledizione del Faraone",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.003 - La Maledizione del Faraone.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ebdab55e5e958964fc4f6fb5a891954"
+                }
+            ]
+        },
+        {
+            "file_id": "b933a07a4785c29be12e6fd2e4553a6b",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Il Segreto di Mastodon Valley",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.004 - Il Segreto di Mastodon Valley.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b933a07a4785c29be12e6fd2e4553a6b"
+                }
+            ]
+        },
+        {
+            "file_id": "57888266004c84609b0426013027eb15",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Missione Salvare il Futuro",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.005 - Missione Salvare il Futuro.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57888266004c84609b0426013027eb15"
+                }
+            ]
+        },
+        {
+            "file_id": "e57d0c168ed67892b8770c2eff590f5c",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Stufato di Strega",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.006 - Stufato di Strega.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e57d0c168ed67892b8770c2eff590f5c"
+                }
+            ]
+        },
+        {
+            "file_id": "2a7ddd359f0532f5bdd822639b82d039",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Mia cara Mummia",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.007 - Mia cara Mummia.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a7ddd359f0532f5bdd822639b82d039"
+                }
+            ]
+        },
+        {
+            "file_id": "8acd9b35e8e36b2513ed05679749a0eb",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Pazzo Museo delle Cere",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.008 - Pazzo Museo delle Cere.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8acd9b35e8e36b2513ed05679749a0eb"
+                }
+            ]
+        },
+        {
+            "file_id": "9db0c6d73097c283fe23e077df2032c1",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Statue of Liberty",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.009 - Statue of Liberty.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9db0c6d73097c283fe23e077df2032c1"
+                }
+            ]
+        },
+        {
+            "file_id": "b0c42f5143e4faaf18df9a7ef00c95e1",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Ransom of Eddie Spenser",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.010 - The Ransom of Eddie Spenser.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b0c42f5143e4faaf18df9a7ef00c95e1"
+                }
+            ]
+        },
+        {
+            "file_id": "873953373d279a80cd13c7323ccfcea4",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Eddie Takes Charge",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.011 - Eddie Takes Charge.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/873953373d279a80cd13c7323ccfcea4"
+                }
+            ]
+        },
+        {
+            "file_id": "bc04a9895a64a3678daa7b464ece8a4a",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Great Ghost Gorilla",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.012 - The Great Ghost Gorilla.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bc04a9895a64a3678daa7b464ece8a4a"
+                }
+            ]
+        },
+        {
+            "file_id": "5a1dedadbd92037f82a6a3c9bc202ab7",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Mistero", "Animazione"],
+            "title": "A Friend in Need",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.013 - A Friend in Need.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a1dedadbd92037f82a6a3c9bc202ab7"
+                }
+            ]
+        },
+        {
+            "file_id": "e2a9b01a87c8331bf81aeae57e699e63",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Mistero", "Animazione"],
+            "title": "No Mo` Snow",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.014 - No Mo` Snow.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2a9b01a87c8331bf81aeae57e699e63"
+                }
+            ]
+        },
+        {
+            "file_id": "62273b38542a7ff014071bd74764e826",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Prime Evil`s Good Deed",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.015 - Prime Evil`s Good Deed.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/62273b38542a7ff014071bd74764e826"
+                }
+            ]
+        },
+        {
+            "file_id": "7f9316f1b88c850e22b54596e8d2ca1e",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Cyman`s Revenge",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.016 - Cyman`s Revenge.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f9316f1b88c850e22b54596e8d2ca1e"
+                }
+            ]
+        },
+        {
+            "file_id": "527dd46cf8bbb44405414847935840b9",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Headless Horseman Caper",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.017 - The Headless Horseman Caper.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/527dd46cf8bbb44405414847935840b9"
+                }
+            ]
+        },
+        {
+            "file_id": "542d0b934e39da6aa79590f1d4b3e482",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Banish That Banshee",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.018 - Banish That Banshee.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/542d0b934e39da6aa79590f1d4b3e482"
+                }
+            ]
+        },
+        {
+            "file_id": "8d2ef332694b263d78bc139a1fed6da2",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Rollerghoster",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.019 - Rollerghoster.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d2ef332694b263d78bc139a1fed6da2"
+                }
+            ]
+        },
+        {
+            "file_id": "6dc15d07e7f812666b577b131653178c",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Mistero", "Animazione"],
+            "title": "He Went Brataway",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.020 - He Went Brataway.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6dc15d07e7f812666b577b131653178c"
+                }
+            ]
+        },
+        {
+            "file_id": "94cd3e5bb84051b332f6a69f28c54dc1",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Looking-Glass Warrior",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.021 - The Looking-Glass Warrior.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94cd3e5bb84051b332f6a69f28c54dc1"
+                }
+            ]
+        },
+        {
+            "file_id": "d2c94eca98b41b479087867eba516b70",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Rock e raggi laser",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.022 - Rock e raggi laser.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d2c94eca98b41b479087867eba516b70"
+                }
+            ]
+        },
+        {
+            "file_id": "b6a7cb8efff0a3773ca0777781bf3c77",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Runaway Choo Choo",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.023 - Runaway Choo Choo.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6a7cb8efff0a3773ca0777781bf3c77"
+                }
+            ]
+        },
+        {
+            "file_id": "9c875c6a5f41026f80babded7590c9de",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Dynamite Dinosaurs",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.024 - Dynamite Dinosaurs.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9c875c6a5f41026f80babded7590c9de"
+                }
+            ]
+        },
+        {
+            "file_id": "80b88c19a861298c57ba15b750c7e59d",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Ghostbunglers",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.025 - Ghostbunglers.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80b88c19a861298c57ba15b750c7e59d"
+                }
+            ]
+        },
+        {
+            "file_id": "ed0f29f8127e2d693abb4f447b214531",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Mistero", "Animazione"],
+            "title": "My Present to the Future",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.026 - My Present to the Future.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed0f29f8127e2d693abb4f447b214531"
+                }
+            ]
+        },
+        {
+            "file_id": "f129dc89fdf806f4bb7c62b561719873",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Beastly Buggy",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.027 - The Beastly Buggy.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f129dc89fdf806f4bb7c62b561719873"
+                }
+            ]
+        },
+        {
+            "file_id": "002c9047697214c9e9a24b24c8a97fd9",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Belfry Leads the Way",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.028 - Belfry Leads the Way.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/002c9047697214c9e9a24b24c8a97fd9"
+                }
+            ]
+        },
+        {
+            "file_id": "decb79ce91c25c693f7b12e7fbba0972",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Battle for Ghost Command",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.029 - The Battle for Ghost Command.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/decb79ce91c25c693f7b12e7fbba0972"
+                }
+            ]
+        },
+        {
+            "file_id": "27ae24fcf4213b1bb0f702e9fb871875",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Going Ape",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.030 - Going Ape.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/27ae24fcf4213b1bb0f702e9fb871875"
+                }
+            ]
+        },
+        {
+            "file_id": "961a4d6cf56fde818e6a78657c42eaa3",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Haunting of Gizmo",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.031 - The Haunting of Gizmo.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/961a4d6cf56fde818e6a78657c42eaa3"
+                }
+            ]
+        },
+        {
+            "file_id": "a340af69855cb88c9b444bd7eead4421",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Ghostnappers",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.032 - Ghostnappers.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a340af69855cb88c9b444bd7eead4421"
+                }
+            ]
+        },
+        {
+            "file_id": "109d73a67085082cfd6f922d46ac380a",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Inside Out",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.033 - Inside Out.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/109d73a67085082cfd6f922d46ac380a"
+                }
+            ]
+        },
+        {
+            "file_id": "bac31b6e0536c681f1bd02162da84247",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Sleeping Dragon",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.034 - The Sleeping Dragon.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bac31b6e0536c681f1bd02162da84247"
+                }
+            ]
+        },
+        {
+            "file_id": "26a4b170ff79905ae8b179da2a0ed2bd",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Phantom of the Big Apple",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.035 - The Phantom of the Big Apple.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/26a4b170ff79905ae8b179da2a0ed2bd"
+                }
+            ]
+        },
+        {
+            "file_id": "cd00eb98268e058c05fbb2d8c5356170",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Shades of Dracula",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.036 - Shades of Dracula.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd00eb98268e058c05fbb2d8c5356170"
+                }
+            ]
+        },
+        {
+            "file_id": "5ad7cb2b13221a5a68be541695ef1222",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Outlaw In-Laws",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.037 - Outlaw In-Laws.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ad7cb2b13221a5a68be541695ef1222"
+                }
+            ]
+        },
+        {
+            "file_id": "e6e73cbc956671de6861bb6d43fc90b8",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Our Buddy Fuddy",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.038 - Our Buddy Fuddy.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e6e73cbc956671de6861bb6d43fc90b8"
+                }
+            ]
+        },
+        {
+            "file_id": "6a4a1d53394130ba7d05d19a45652d4d",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Train to Doom-De-Doom-Doom",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.039 - Train to Doom-De-Doom-Doom.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a4a1d53394130ba7d05d19a45652d4d"
+                }
+            ]
+        },
+        {
+            "file_id": "8a0063087b1c5e851230dd3fe9cd7e6c",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Princess and the Troll",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.040 - The Princess and the Troll.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a0063087b1c5e851230dd3fe9cd7e6c"
+                }
+            ]
+        },
+        {
+            "file_id": "040efaf7937fa4fd6611d9c6ead2936f",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Second Chance",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.041 - Second Chance.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/040efaf7937fa4fd6611d9c6ead2936f"
+                }
+            ]
+        },
+        {
+            "file_id": "7a889de37f9a189749a8d8a827ed527e",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Tracy Come Back",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.042 - Tracy Come Back.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a889de37f9a189749a8d8a827ed527e"
+                }
+            ]
+        },
+        {
+            "file_id": "2008990b21925aa0189ba374754c68a4",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Doggone Werewolf",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.043 - Doggone Werewolf.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2008990b21925aa0189ba374754c68a4"
+                }
+            ]
+        },
+        {
+            "file_id": "f2e406c0409b4420e21165e6778a45ab",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Mistero", "Animazione"],
+            "title": "That`s No Alien",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.044 - That`s No Alien.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f2e406c0409b4420e21165e6778a45ab"
+                }
+            ]
+        },
+        {
+            "file_id": "4116bd28241be36e7b1adee522aa5213",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Scareplane",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.045 - Scareplane.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4116bd28241be36e7b1adee522aa5213"
+                }
+            ]
+        },
+        {
+            "file_id": "c7ae67e36ba755bc93ecb43fe47e3b38",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Ghost of Don Quixote",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.046 - The Ghost of Don Quixote.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c7ae67e36ba755bc93ecb43fe47e3b38"
+                }
+            ]
+        },
+        {
+            "file_id": "cac8eafdfde3d3871636eca1ad95324a",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The White Whale",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.047 - The White Whale.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cac8eafdfde3d3871636eca1ad95324a"
+                }
+            ]
+        },
+        {
+            "file_id": "81aa4cf63f995e3632ce089af3c92235",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Whither Why",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.048 - Whither Why.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81aa4cf63f995e3632ce089af3c92235"
+                }
+            ]
+        },
+        {
+            "file_id": "47a7be788005d3d1615126fb0629bc6c",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Knight of Terror",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.049 - Knight of Terror.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/47a7be788005d3d1615126fb0629bc6c"
+                }
+            ]
+        },
+        {
+            "file_id": "73242ff334c05f4e4616a3ac08155ff4",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Girl Who Cried Vampire",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.050 - The Girl Who Cried Vampire.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/73242ff334c05f4e4616a3ac08155ff4"
+                }
+            ]
+        },
+        {
+            "file_id": "4bf1003dedce38c87fa0184b233a7813",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 51,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Little Big Bat",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.051 - Little Big Bat.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4bf1003dedce38c87fa0184b233a7813"
+                }
+            ]
+        },
+        {
+            "file_id": "80f96bb792766072d5662ed2e41af044",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 52,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Really Roughing It",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.052 - Really Roughing It.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80f96bb792766072d5662ed2e41af044"
+                }
+            ]
+        },
+        {
+            "file_id": "2331a9d335cc9055ca981efb9ce43d74",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 53,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Bad Old Days",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.053 - The Bad Old Days.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2331a9d335cc9055ca981efb9ce43d74"
+                }
+            ]
+        },
+        {
+            "file_id": "eeee010c19ddb5dc08267f2b57e1f5a0",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 54,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Curse of the Diamond of Gloom",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.054 - The Curse of the Diamond of Gloom.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eeee010c19ddb5dc08267f2b57e1f5a0"
+                }
+            ]
+        },
+        {
+            "file_id": "9be97c348a533a2cb01bc752b87e1085",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 55,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Bind That Ties",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.055 - The Bind That Ties.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9be97c348a533a2cb01bc752b87e1085"
+                }
+            ]
+        },
+        {
+            "file_id": "4b5a1ce9956ff47247e8a43865e8f796",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 56,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Like Father, Like Son",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.056 - Like Father, Like Son.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b5a1ce9956ff47247e8a43865e8f796"
+                }
+            ]
+        },
+        {
+            "file_id": "fbb7d01f3623feaf2555156453f8a640",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 57,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Fourth Ghostbuster",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.057 - The Fourth Ghostbuster.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fbb7d01f3623feaf2555156453f8a640"
+                }
+            ]
+        },
+        {
+            "file_id": "15d217e1e07c1a6376830c3c9c2d9cf1",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 58,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Country Cousin",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.058 - Country Cousin.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/15d217e1e07c1a6376830c3c9c2d9cf1"
+                }
+            ]
+        },
+        {
+            "file_id": "6cc768bedc94abbcce8f27b09608471c",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 59,
+            "genre": ["Mistero", "Animazione"],
+            "title": "A Cold Winter`s Night",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.059 - A Cold Winter`s Night.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6cc768bedc94abbcce8f27b09608471c"
+                }
+            ]
+        },
+        {
+            "file_id": "9f20d40a62984df1345879e6f9e83d14",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 60,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Father Knows Beast",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.060 - Father Knows Beast.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f20d40a62984df1345879e6f9e83d14"
+                }
+            ]
+        },
+        {
+            "file_id": "e24e6402b241947f56c4b97726eb4d89",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 61,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Back to the Past",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.061 - Back to the Past.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e24e6402b241947f56c4b97726eb4d89"
+                }
+            ]
+        },
+        {
+            "file_id": "eb59417223c7416663dcea19ae3079fa",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 62,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Pretend Friends",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.062 - Pretend Friends.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eb59417223c7416663dcea19ae3079fa"
+                }
+            ]
+        },
+        {
+            "file_id": "147dbb089b417278c733baedfa808113",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 63,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Haunted Painting",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.063 - The Haunted Painting.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/147dbb089b417278c733baedfa808113"
+                }
+            ]
+        },
+        {
+            "file_id": "1a7eacf6d2c9825c6e6fac38f67544fc",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 64,
+            "genre": ["Mistero", "Animazione"],
+            "title": "Maze Caves",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.064 - Maze Caves.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a7eacf6d2c9825c6e6fac38f67544fc"
+                }
+            ]
+        },
+        {
+            "file_id": "2d79200fb76e096637cff2a6205da64f",
+            "tmdb_id": 18131,
+            "saga": "Ghostbusters",
+            "season": 1,
+            "episode": 65,
+            "genre": ["Mistero", "Animazione"],
+            "title": "The Way You Are",
+            "fname": "/Anime & Cartoni/Ghostbusters (1986) [a18131]/1.065 - The Way You Are.mkv",
+            "year": "1986",
+            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "actors": ["Lou Scheimer", "Alan Oppenheimer", "Pat Fraley", "Susan Blu", "Linda Gary", "Erika Scheimer", "Peter Cullen"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d79200fb76e096637cff2a6205da64f"
+                }
+            ]
+        }
     ]
 }
