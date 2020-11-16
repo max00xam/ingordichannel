@@ -1,628 +1,940 @@
 {
     "episodes_list": [
         {
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x1",
-			"saga": "Sissi",
-			"title": "Il ritorno di papà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3cb2742163304bd3f5db2d1526cfd339"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x2",
-			"saga": "Sissi",
-			"title": "Primi batticuori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9bb44b12153a732e90875faedb915cbc"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x3",
-			"saga": "Sissi",
-			"title": "Una visita inattesa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b2cad4f2aca20561bbe0ca731df9aff4"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x4",
-			"saga": "Sissi",
-			"title": "Un ladruncolo a Possi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae2b469c120127324319f60dac832a2f"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x5",
-			"saga": "Sissi",
-			"title": "Helena,la terribile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1955904811d860a43f090a99f93321c8"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x6",
-			"saga": "Sissi",
-			"title": "Il momento del commiato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e3b6b5b0cc5d09c4aaca78b6fb48280"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x7",
-			"saga": "Sissi",
-			"title": "Cogliere le occasioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7e7aff6713c572bb3a1a0614fbb5346"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x8",
-			"saga": "Sissi",
-			"title": "Lo strano uomo dei boschi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/89753fe7ac2c9721b9839c587aaf56a3"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x9",
-			"saga": "Sissi",
-			"title": "La vendetta di Arkas",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76d12cbd8008c488268a9d9a2060bf3c"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x10",
-			"saga": "Sissi",
-			"title": "Il bacio di Innsbruck",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/99e5ef2f8acb90e93a7282d1fc7edf40"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x11",
-			"saga": "Sissi",
-			"title": "Il rifiuto dei genitori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/09b8357dc26a15f58ab50cfe89309302"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x12",
-			"saga": "Sissi",
-			"title": "La lettera di Franz",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/51b96e85c498bbc48b13a9cd6252c479"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x13",
-			"saga": "Sissi",
-			"title": "Il ballo di fidanzamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be7c94f924e5c3a637ce807586d9dd35"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x14",
-			"saga": "Sissi",
-			"title": "Incontri mancati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e8a374196a0f38f54f35d1f8f400c66"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x15",
-			"saga": "Sissi",
-			"title": "Primi passi a corte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6526852f684fe0d240d959adda2eeb3"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x16",
-			"saga": "Sissi",
-			"title": "La gabbia dorata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11426317042327bff80695e138b2004f"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x17",
-			"saga": "Sissi",
-			"title": "Il circo Zaniouchka",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4866865cdef386518cd6a05ec7e59c69"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x18",
-			"saga": "Sissi",
-			"title": "Lo specchio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f2d51c10f655bc9fb8edfcb319aeee7"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x19",
-			"saga": "Sissi",
-			"title": "Un Natale movimentato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c7d64ba97e6784a0aabbaae90de1a5a"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x20",
-			"saga": "Sissi",
-			"title": "Prigioniera nella fortezza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/095098817acc9d5b455bb430aecd3030"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x21",
-			"saga": "Sissi",
-			"title": "Una corsa contro il tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/35930c7f7601c9dce2e9b4e3f3a1f50f"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x22",
-			"saga": "Sissi",
-			"title": "Sissi se ne va",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae5638ebc32f1de63f6d639f38d114cb"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x23",
-			"saga": "Sissi",
-			"title": "Chi ha rubato Tempest",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1ef5e32a01107d45543e1a3b2f6bb29d"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x24",
-			"saga": "Sissi",
-			"title": "In corsa per la vittoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9a2c19b4af659abdd102a3be9617d68"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x25",
-			"saga": "Sissi",
-			"title": "Una gita pericolosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/273fd843bfaf983267730494156bc571"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x26",
-			"saga": "Sissi",
-			"title": "Sommossa a Vienna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b2bc3c6c99c276e879286e13d5c453b"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x27",
-			"saga": "Sissi",
-			"title": "La tiara è sparita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a10100a359e51b1bda5fe202098c264a"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x28",
-			"saga": "Sissi",
-			"title": "Alto tradimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43dbc9201c9209fb46491315b7e9a944"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x29",
-			"saga": "Sissi",
-			"title": "Addio per sempre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4810f7aa97d2cbd0d93c496ff21a2447"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x30",
-			"saga": "Sissi",
-			"title": "Lunga vita a Erszebet",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1d60bb4f335ff02c281abb1fe564c00"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x31",
-			"saga": "Sissi",
-			"title": "Gelosia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1ddf38e56288e43694e1ad64b15e87b7"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x32",
-			"saga": "Sissi",
-			"title": "Addio a Budapest",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5dbc8e0cf6ff0f224c384527f7ed3e58"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x33",
-			"saga": "Sissi",
-			"title": "Un’asta per Possi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/141cb9cd536cc94323f9ddc4e68ddd99"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x34",
-			"saga": "Sissi",
-			"title": "Sissi a Parigi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c162ca0264e2e444c15074f1735460e"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x35",
-			"saga": "Sissi",
-			"title": "Momenti difficili",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e749ac3c5ccb80fed291649858789f12"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x36",
-			"saga": "Sissi",
-			"title": "L’amazzone misteriosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d42a960c3ad162e5396f694fe7c4217a"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x37",
-			"saga": "Sissi",
-			"title": "Nascondino a Schönnbrunn",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a525ae1e8a57e433e2f443da158abc0"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x38",
-			"saga": "Sissi",
-			"title": "Un viaggio pericoloso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12fa991729de1a868c5f83d227e9d966"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x39",
-			"saga": "Sissi",
-			"title": "Il segreto svelato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0728060291cd57971bb054cfdf1d6346"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x40",
-			"saga": "Sissi",
-			"title": "L`isola di Ahriman",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/08fb76a6a36ea4efea19f64811826594"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x41",
-			"saga": "Sissi",
-			"title": "In mezzo alla tempesta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/478cb59781716e2ec813b8cf49644368"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x42",
-			"saga": "Sissi",
-			"title": "La pace in pericolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/990f5c40695638e850a6a8c928f8da81"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x43",
-			"saga": "Sissi",
-			"title": "Gli inganni di Zottornick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8164efd2e452b9d6ec2b32e344534273"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x44",
-			"saga": "Sissi",
-			"title": "Un attacco a tradimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/191d33a6c83bbc5a30eef5776c18bc74"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x45",
-			"saga": "Sissi",
-			"title": "Un perfido consigliere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bc66e204bb098bf6f947185b178c00dc"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x46",
-			"saga": "Sissi",
-			"title": "Una questione di protocollo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6fafe9001ef659bef01b7bc48188c36c"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x47",
-			"saga": "Sissi",
-			"title": "Il sogno di Tommy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4f6930c403ca5e09a813da578aa74412"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x48",
-			"saga": "Sissi",
-			"title": "Una festa al castello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/46f3f6e48795e1ede665a261ae1cb3d9"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x49",
-			"saga": "Sissi",
-			"title": "Due gocce d`acqua",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eb7d0b9b8bda364e02d202ea0f12c013"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x50",
-			"saga": "Sissi",
-			"title": "Il principe Fritz",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/adfabf870053a02465810f7c7a875261"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x51",
-			"saga": "Sissi",
-			"title": "Un doppio inganno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c5dcc0a0bdc88ab6dac86904a84291e5"
-				}
-			]
-		},
-		{
-			"tvdb_id": -1,
-			"tmdb_id": 35073,
-			"number": "1x52",
-			"saga": "Sissi",
-			"title": "L`amore vince sempre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3f8ee3dc7a38a742a989730badbed57d"
-				}
-			]
-		}
+            "file_id": "83427f4b25fe4459fad507f5f9f891fe",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione"],
+            "title": "Il ritorno di pap\u00e0",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.001 - Il ritorno di pap\u00e0.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/83427f4b25fe4459fad507f5f9f891fe"
+                }
+            ]
+        },
+        {
+            "file_id": "384760691693bfced3cd1fabf69a90d2",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione"],
+            "title": "Primi batticuori",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.002 - Primi batticuori.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/384760691693bfced3cd1fabf69a90d2"
+                }
+            ]
+        },
+        {
+            "file_id": "9805cdf90609259638d129325cea05b9",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione"],
+            "title": "Una visita inattesa",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.003 - Una visita inattesa.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9805cdf90609259638d129325cea05b9"
+                }
+            ]
+        },
+        {
+            "file_id": "ea147aecf4b77979959d1096a5e95e0f",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione"],
+            "title": "Un ladruncolo a Possi",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.004 - Un ladruncolo a Possi.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea147aecf4b77979959d1096a5e95e0f"
+                }
+            ]
+        },
+        {
+            "file_id": "ed6baba6e7daa7c0e89b9e7eb57538a2",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione"],
+            "title": "Helena,la terribile",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.005 - Helena,la terribile.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed6baba6e7daa7c0e89b9e7eb57538a2"
+                }
+            ]
+        },
+        {
+            "file_id": "4b0156637272a38e45ea938ab31868ee",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione"],
+            "title": "Il momento del commiato",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.006 - Il momento del commiato.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b0156637272a38e45ea938ab31868ee"
+                }
+            ]
+        },
+        {
+            "file_id": "ef6d64629b06266e24254147680dd6e4",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione"],
+            "title": "Cogliere le occasioni",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.007 - Cogliere le occasioni.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef6d64629b06266e24254147680dd6e4"
+                }
+            ]
+        },
+        {
+            "file_id": "f0c3136a2deed00ccf0216cd1e3bf0ea",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione"],
+            "title": "Lo strano uomo dei boschi",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.008 - Lo strano uomo dei boschi.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0c3136a2deed00ccf0216cd1e3bf0ea"
+                }
+            ]
+        },
+        {
+            "file_id": "961871caaa6af2ede6062c6a77ae8e3e",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione"],
+            "title": "La vendetta di Arkas",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.009 - La vendetta di Arkas.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/961871caaa6af2ede6062c6a77ae8e3e"
+                }
+            ]
+        },
+        {
+            "file_id": "155889402fd0528fdb1e622dd6c5d2f2",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione"],
+            "title": "Il bacio di Innsbruck",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.010 - Il bacio di Innsbruck.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/155889402fd0528fdb1e622dd6c5d2f2"
+                }
+            ]
+        },
+        {
+            "file_id": "43a3e678554f4adc3ee4f12c3f1f7099",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione"],
+            "title": "Il rifiuto dei genitori",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.011 - Il rifiuto dei genitori.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43a3e678554f4adc3ee4f12c3f1f7099"
+                }
+            ]
+        },
+        {
+            "file_id": "6efca72430b9bbac1ebf02841eb82aed",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione"],
+            "title": "La lettera di Franz",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.012 - La lettera di Franz.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6efca72430b9bbac1ebf02841eb82aed"
+                }
+            ]
+        },
+        {
+            "file_id": "9a051bc1a7b7fcd922aab5f16cf8faad",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione"],
+            "title": "Il ballo di fidanzamento",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.013 - Il ballo di fidanzamento.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a051bc1a7b7fcd922aab5f16cf8faad"
+                }
+            ]
+        },
+        {
+            "file_id": "f9d8df01cf066f8689461f696f054ac4",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "Incontri mancati",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.014 - Incontri mancati.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f9d8df01cf066f8689461f696f054ac4"
+                }
+            ]
+        },
+        {
+            "file_id": "e8a3b32d7851dd2e755df1f2fdb12d70",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione"],
+            "title": "Primi passi a corte",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.015 - Primi passi a corte.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8a3b32d7851dd2e755df1f2fdb12d70"
+                }
+            ]
+        },
+        {
+            "file_id": "da0ed82ac700bdd0f1f931c61c8fe473",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione"],
+            "title": "La gabbia dorata",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.016 - La gabbia dorata.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da0ed82ac700bdd0f1f931c61c8fe473"
+                }
+            ]
+        },
+        {
+            "file_id": "22f5698fd0aec5e308d52c00ff19d5b1",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione"],
+            "title": "Il circo Zaniouchka",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.017 - Il circo Zaniouchka.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/22f5698fd0aec5e308d52c00ff19d5b1"
+                }
+            ]
+        },
+        {
+            "file_id": "43c0c2e132666392a75809b948095ff2",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione"],
+            "title": "Lo specchio",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.018 - Lo specchio.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43c0c2e132666392a75809b948095ff2"
+                }
+            ]
+        },
+        {
+            "file_id": "0a971f2e2217cb3bc316e7026f39528d",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione"],
+            "title": "Un Natale movimentato",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.019 - Un Natale movimentato.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0a971f2e2217cb3bc316e7026f39528d"
+                }
+            ]
+        },
+        {
+            "file_id": "7a631ebbcfe276f30a29183901cc69ae",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione"],
+            "title": "Prigioniera nella fortezza",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.020 - Prigioniera nella fortezza.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a631ebbcfe276f30a29183901cc69ae"
+                }
+            ]
+        },
+        {
+            "file_id": "adb377776770b2780cda1e7598ee801a",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione"],
+            "title": "Una corsa contro il tempo",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.021 - Una corsa contro il tempo.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/adb377776770b2780cda1e7598ee801a"
+                }
+            ]
+        },
+        {
+            "file_id": "34e07c4ec74dcfe792f6a074605a39de",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione"],
+            "title": "Sissi se ne va",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.022 - Sissi se ne va.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34e07c4ec74dcfe792f6a074605a39de"
+                }
+            ]
+        },
+        {
+            "file_id": "0a0fc25d5e5a3108e8c30cc10342e648",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione"],
+            "title": "Chi ha rubato Tempest",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.023 - Chi ha rubato Tempest.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0a0fc25d5e5a3108e8c30cc10342e648"
+                }
+            ]
+        },
+        {
+            "file_id": "f1858f851976af95c4c50d29c2e927c8",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione"],
+            "title": "In corsa per la vittoria",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.024 - In corsa per la vittoria.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f1858f851976af95c4c50d29c2e927c8"
+                }
+            ]
+        },
+        {
+            "file_id": "9b1ab5170a469419fccfbfe1ed04a2f2",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione"],
+            "title": "Una gita pericolosa",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.025 - Una gita pericolosa.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9b1ab5170a469419fccfbfe1ed04a2f2"
+                }
+            ]
+        },
+        {
+            "file_id": "7ce23306b14e0a30450ee9e94415a4f0",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione"],
+            "title": "Sommossa a Vienna",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.026 - Sommossa a Vienna.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7ce23306b14e0a30450ee9e94415a4f0"
+                }
+            ]
+        },
+        {
+            "file_id": "cbca63ed04a33473dc23bf51ed1a8334",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione"],
+            "title": "La tiara \u00e8 sparita",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.027 - La tiara \u00e8 sparita.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cbca63ed04a33473dc23bf51ed1a8334"
+                }
+            ]
+        },
+        {
+            "file_id": "f79f840203389a8eda98816c7afd32c5",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione"],
+            "title": "Alto tradimento",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.028 - Alto tradimento.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f79f840203389a8eda98816c7afd32c5"
+                }
+            ]
+        },
+        {
+            "file_id": "0487188f1eb3d78b0bfd5026c906d3c3",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione"],
+            "title": "Addio per sempre",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.029 - Addio per sempre.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0487188f1eb3d78b0bfd5026c906d3c3"
+                }
+            ]
+        },
+        {
+            "file_id": "955b174bfaeed82bbce6b2e42a629492",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione"],
+            "title": "Lunga vita a Erszebet",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.030 - Lunga vita a Erszebet.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/955b174bfaeed82bbce6b2e42a629492"
+                }
+            ]
+        },
+        {
+            "file_id": "79d9c06649ac504f4ae006419b634d32",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione"],
+            "title": "Gelosia",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.031 - Gelosia.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/79d9c06649ac504f4ae006419b634d32"
+                }
+            ]
+        },
+        {
+            "file_id": "f35425dad4cca5151188c9a4024a25d8",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione"],
+            "title": "Addio a Budapest",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.032 - Addio a Budapest.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f35425dad4cca5151188c9a4024a25d8"
+                }
+            ]
+        },
+        {
+            "file_id": "75de92e2ec89d5988a4811bd55185341",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione"],
+            "title": "Un\u2019asta per Possi",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.033 - Un\u2019asta per Possi.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/75de92e2ec89d5988a4811bd55185341"
+                }
+            ]
+        },
+        {
+            "file_id": "5b4a0a1c91225c3cd8332e0276a3a6bb",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione"],
+            "title": "Sissi a Parigi",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.034 - Sissi a Parigi.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5b4a0a1c91225c3cd8332e0276a3a6bb"
+                }
+            ]
+        },
+        {
+            "file_id": "50fa104ada1cb27bf0ac57171b1b2100",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione"],
+            "title": "Momenti difficili",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.035 - Momenti difficili.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50fa104ada1cb27bf0ac57171b1b2100"
+                }
+            ]
+        },
+        {
+            "file_id": "f8c2dd9baf02f14be524963df757eb22",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione"],
+            "title": "L\u2019amazzone misteriosa",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.036 - L\u2019amazzone misteriosa.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f8c2dd9baf02f14be524963df757eb22"
+                }
+            ]
+        },
+        {
+            "file_id": "e813cf2ea5c6dd1ee59410275036c2c4",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione"],
+            "title": "Nascondino a Sch\u00f6nnbrunn",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.037 - Nascondino a Sch\u00f6nnbrunn.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e813cf2ea5c6dd1ee59410275036c2c4"
+                }
+            ]
+        },
+        {
+            "file_id": "877b085de516dceaae6d6bccf22119ae",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione"],
+            "title": "Un viaggio pericoloso",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.038 - Un viaggio pericoloso.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/877b085de516dceaae6d6bccf22119ae"
+                }
+            ]
+        },
+        {
+            "file_id": "29d9440bf766b9c5a30ec6cb165d3cab",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione"],
+            "title": "Il segreto svelato",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.039 - Il segreto svelato.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/29d9440bf766b9c5a30ec6cb165d3cab"
+                }
+            ]
+        },
+        {
+            "file_id": "93998911e7336447fe860f10659d2537",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione"],
+            "title": "L`isola di Ahriman",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.040 - L`isola di Ahriman.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93998911e7336447fe860f10659d2537"
+                }
+            ]
+        },
+        {
+            "file_id": "0b221501158298510107f854d34d95e5",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione"],
+            "title": "In mezzo alla tempesta",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.041 - In mezzo alla tempesta.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b221501158298510107f854d34d95e5"
+                }
+            ]
+        },
+        {
+            "file_id": "a56bc7e49979a5169683af8746bf49a3",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione"],
+            "title": "La pace in pericolo",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.042 - La pace in pericolo.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a56bc7e49979a5169683af8746bf49a3"
+                }
+            ]
+        },
+        {
+            "file_id": "d751978cf085cceb062b901667af7c7b",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione"],
+            "title": "Gli inganni di Zottornick",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.043 - Gli inganni di Zottornick.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d751978cf085cceb062b901667af7c7b"
+                }
+            ]
+        },
+        {
+            "file_id": "25d8ebc99f863000001abcc819e4ac5a",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione"],
+            "title": "Un attacco a tradimento",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.044 - Un attacco a tradimento.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/25d8ebc99f863000001abcc819e4ac5a"
+                }
+            ]
+        },
+        {
+            "file_id": "883dadff133943f4920e8a827f26f3b1",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione"],
+            "title": "Un perfido consigliere",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.045 - Un perfido consigliere.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/883dadff133943f4920e8a827f26f3b1"
+                }
+            ]
+        },
+        {
+            "file_id": "a8329cb98901ec7cc233f060e68f55ba",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Animazione"],
+            "title": "Una questione di protocollo",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.046 - Una questione di protocollo.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8329cb98901ec7cc233f060e68f55ba"
+                }
+            ]
+        },
+        {
+            "file_id": "634c52dda2cff9717a21f1e04dbfd3c7",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Animazione"],
+            "title": "Il sogno di Tommy",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.047 - Il sogno di Tommy.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/634c52dda2cff9717a21f1e04dbfd3c7"
+                }
+            ]
+        },
+        {
+            "file_id": "e2bcad8853c75eb8d135e16c0366e60e",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Animazione"],
+            "title": "Una festa al castello",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.048 - Una festa al castello.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2bcad8853c75eb8d135e16c0366e60e"
+                }
+            ]
+        },
+        {
+            "file_id": "c7cedf8fc02a76fd1afb4aa649b3aa45",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Animazione"],
+            "title": "Due gocce d`acqua",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.049 - Due gocce d`acqua.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c7cedf8fc02a76fd1afb4aa649b3aa45"
+                }
+            ]
+        },
+        {
+            "file_id": "99d68af6918f96d6052dffe646377c81",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Animazione"],
+            "title": "Il principe Fritz",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.050 - Il principe Fritz.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/99d68af6918f96d6052dffe646377c81"
+                }
+            ]
+        },
+        {
+            "file_id": "5c2f93867f987dcc118b6b590cfdfdf4",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 51,
+            "genre": ["Animazione"],
+            "title": "Un doppio inganno",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.051 - Un doppio inganno.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c2f93867f987dcc118b6b590cfdfdf4"
+                }
+            ]
+        },
+        {
+            "file_id": "e2605efbc3133621eac9052276bc8175",
+            "tmdb_id": 35073,
+            "saga": "Sissi",
+            "season": 1,
+            "episode": 52,
+            "genre": ["Animazione"],
+            "title": "L`amore vince sempre",
+            "fname": "/Anime & Cartoni/Sissi [a35073]/1.052 - L`amore vince sempre.mp4",
+            "year": "1997",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "actors": ["Mich\u00e8le Lituac", "Olivier Destrez", "Elisabeth Fargeot", "Francine Laine", "Georges Lycan", "Franck Tordjman", "Daniel Beretta", "Blanche Ravalec", "Marie-Martine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2605efbc3133621eac9052276bc8175"
+                }
+            ]
+        }
     ]
 }

@@ -1,147 +1,251 @@
 {
-    "episodes_list": [
+  "episodes_list": [
         {
+            "file_id": "23a09984f961b6be06f102376c87a9ae",
             "tmdb_id": 43887,
-            "number": "0x1",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": "sigla",
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Sigla",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/0.001 - Sigla.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/48d4eac3510b0665d9df98ac91a98e25"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/23a09984f961b6be06f102376c87a9ae"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "a87685273d2508bce7b101f5cc8469b8",
             "tmdb_id": 43887,
-            "number": "1x1",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Guerra a due",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.001 - Guerra a due.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/2ba49a2a94951a9bd4ada8ad30e36efb"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/a87685273d2508bce7b101f5cc8469b8"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "58135ba55689811c6dc5f9f8300a4347",
             "tmdb_id": 43887,
-            "number": "1x2",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Gundam nella giungla",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.002 - Gundam nella giungla.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/300ce4055245f65167bfbab224759658"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/58135ba55689811c6dc5f9f8300a4347"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "cc15f6ba6358e0e6761a313e34bee4b3",
             "tmdb_id": 43887,
-            "number": "1x3",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il tempo limite della fiducia",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.003 - Il tempo limite della fiducia.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/1b3949c044646289eb73f601a46b5f84"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/cc15f6ba6358e0e6761a313e34bee4b3"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "7d7c0c4a797fe9b9080e46b3c10b5bb2",
             "tmdb_id": 43887,
-            "number": "1x4",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il diavolo sopra la testa",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.004 - Il diavolo sopra la testa.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/837ab7af567d2468a60a80b77b341374"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/7d7c0c4a797fe9b9080e46b3c10b5bb2"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "6698139152fe6b45cb0edc08c33b333b",
             "tmdb_id": 43887,
-            "number": "1x5",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Ordine di attesa violato",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.005 - Ordine di attesa violato.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/b9abe8ffe47b4849420cf7a79015033e"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/6698139152fe6b45cb0edc08c33b333b"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "486e9db589eb6b609a639cdd1e6cf0e0",
             "tmdb_id": 43887,
-            "number": "1x6",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Fronte nella sabbia rovente",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.006 - Fronte nella sabbia rovente.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/9f553fd741ec765e3d49a28dd4076c4a"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/486e9db589eb6b609a639cdd1e6cf0e0"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "4519a7b3d6e9304982e77abb329ef7e1",
             "tmdb_id": 43887,
-            "number": "1x7",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Incontrarsi di nuovo",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.007 - Incontrarsi di nuovo.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/4123f75a02eefbeee5693bd13ccd1589"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/4519a7b3d6e9304982e77abb329ef7e1"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "6faa0eb298e7b6da2d56c64984d060c8",
             "tmdb_id": 43887,
-            "number": "1x8",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Il dovere militare e l`ideale",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.008 - Il dovere militare e l`ideale.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/833977d8a5eb372fdbc37a049e267de6"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/6faa0eb298e7b6da2d56c64984d060c8"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "29c92e9d3dbf241257314e7a8f9317b1",
             "tmdb_id": 43887,
-            "number": "1x9",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "La prima linea",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.009 - La prima linea.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/1009f7133242bc7231158e57b0e04dc1"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/29c92e9d3dbf241257314e7a8f9317b1"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "6084cf777e659361c5d28404b7fa7ee6",
             "tmdb_id": 43887,
-            "number": "1x10",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
-            "title": "La montagna trema (parte prima)",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La montagna trema",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.010 - La montagna trema (parte prima).mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/1b95cf21959cba8e43817be725c4ee4e"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/6084cf777e659361c5d28404b7fa7ee6"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "843c36657116b508aa30164871b12923",
             "tmdb_id": 43887,
-            "number": "1x11",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
-            "title": "La montagna trema (parte seconda)",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La montagna trema",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.011 - La montagna trema (parte seconda).mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/6240904853e4275a62f452d13af281ea"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/843c36657116b508aa30164871b12923"
+                }
             ]
-          },
-          {
+        },
+        {
+            "file_id": "1a7006710a290cdf1e4becb055a46a17",
             "tmdb_id": 43887,
-            "number": "1x12",
             "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Dramma", "Sci-Fi & Fantasy"],
             "title": "L`ultima risorsa",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam: The 08th MS Team (1996) [a43887]/1.012 - L`ultima risorsa.mkv",
+            "year": "1996",
+            "plot": "",
+            "director": ["Umanosuke Iida", "Takeyuki Kanda"],
+            "actors": ["Nobuyuki Hiyama", "Kikuko Inoue", "Tesshou Genda", "Mami Koyama", "Keiji Fujiwara", "Hiro Yuuki", "Osamu Ichikawa", "Show Hayami", "Chinami Nishimura", "Ky\u014dnosuke Kami", "Yuzuru Fujimoto", "Ichir\u014d Nagai"],
             "links": [
-              {
-                "url": "http://51.77.159.233:30299/c1b468d117669f4637316e50ff9c5ed3"
-              }
+                {
+                    "url": "http://51.77.159.233:30299/1a7006710a290cdf1e4becb055a46a17"
+                }
             ]
-          }
+        }
     ]
 }

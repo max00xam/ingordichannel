@@ -1,147 +1,238 @@
 {
-    "episodes_list": [
-        {
-            "tmdb_id": 72677,
-            "number": "1x1",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Il furto del Gundam",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/4c757cff79ee0ec50690b68bb0997aef"
-              }
-            ]
-          },
+  "episodes_list": [
+    {
+      "file_id": "38af491d3f94ba80488dbef48121f8e2",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 1,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Il furto del Gundam",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.001 - Il furto del Gundam.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
           {
-            "tmdb_id": 72677,
-            "number": "1x2",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Inseguimento senza fine",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/c26a5f6961d333f4c60ac14a73225591"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x3",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "La sortita dell`Albion",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/4496ddc77d747e0e4bb2e22baa69a815"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x4",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Battaglia nel deserto",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/30fd4c59a527d2366d12ac1d8bbad22f"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x5",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Gundam, verso un mare di stelle",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/4344ed8a3b66e031a19e267dd6527629"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x6",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Il guerriero di Von Braun",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/ab79e41b2cdba5e607230fe45fc64f88"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x7",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Con le splendenti fiamme blu",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/c3530f58730452988e37edd93ada7ba6"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x8",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Intrighi nello spazio",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/60895969010ec2bf9475f3e1bf59b7c8"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x9",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "L`incubo di Solomon",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/6fc9ef2b4d126d94bb962b9df0711d5c"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x10",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Zone di guerra in collisione",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/d5f9979bbcac0de7b71f988c9c5a30aa"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x11",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "La Vie en Rose",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/fd1428547eefcd7845e53e8d49b49f5a"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x12",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Assalto al punto di non ritorno",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/682785e19cc0f7aeaa627dab9f6eb58b"
-              }
-            ]
-          },
-          {
-            "tmdb_id": 72677,
-            "number": "1x13",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
-            "title": "Imperversa la tempesta",
-            "links": [
-              {
-                "url": "http://51.77.159.233:30299/acde6017b187bd47e6e78d1eb7c4f74c"
-              }
-            ]
+              "url": "http://51.77.159.233:30299/38af491d3f94ba80488dbef48121f8e2"
           }
+      ]
+  },
+  {
+      "file_id": "9b2223e9b23d9d61c0549f1e8131424e",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 2,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Inseguimento senza fine",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.002 - Inseguimento senza fine.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/9b2223e9b23d9d61c0549f1e8131424e"
+          }
+      ]
+  },
+  {
+      "file_id": "fb727286cb2614c140064134c2ee8d3f",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 3,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "La sortita dell`Albion",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.003 - La sortita dell`Albion.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/fb727286cb2614c140064134c2ee8d3f"
+          }
+      ]
+  },
+  {
+      "file_id": "6eff549ec756dccf97670fd6d0974058",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 4,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Battaglia nel deserto",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.004 - Battaglia nel deserto.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/6eff549ec756dccf97670fd6d0974058"
+          }
+      ]
+  },
+  {
+      "file_id": "183ebee8ad6f6613de0bd366ea260e12",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 5,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Gundam, verso un mare di stelle",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.005 - Gundam, verso un mare di stelle.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/183ebee8ad6f6613de0bd366ea260e12"
+          }
+      ]
+  },
+  {
+      "file_id": "e6ece339eb02e84b3a6bb4befc360329",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 6,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Il guerriero di Von Braun",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.006 - Il guerriero di Von Braun.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/e6ece339eb02e84b3a6bb4befc360329"
+          }
+      ]
+  },
+  {
+      "file_id": "b7e1e3aa5faf24f4172ecb00f27609a5",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 7,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Con le splendenti fiamme blu",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.007 - Con le splendenti fiamme blu.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/b7e1e3aa5faf24f4172ecb00f27609a5"
+          }
+      ]
+  },
+  {
+      "file_id": "b3e7fbaf47fcd2ee5ba7b2c841343847",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 8,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Intrighi nello spazio",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.008 - Intrighi nello spazio.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/b3e7fbaf47fcd2ee5ba7b2c841343847"
+          }
+      ]
+  },
+  {
+      "file_id": "63efe6e07d4b931d58c785dc662cfdaf",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 9,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "L`incubo di Solomon",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.009 - L`incubo di Solomon.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/63efe6e07d4b931d58c785dc662cfdaf"
+          }
+      ]
+  },
+  {
+      "file_id": "72c6ad825a9827d5b7a7276ab3be5cf7",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 10,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Zone di guerra in collisione",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.010 - Zone di guerra in collisione.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/72c6ad825a9827d5b7a7276ab3be5cf7"
+          }
+      ]
+  },
+  {
+      "file_id": "e8a1796de30366f7160a689b16d7de55",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 11,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "La Vie en Rose",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.011 - La Vie en Rose.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/e8a1796de30366f7160a689b16d7de55"
+          }
+      ]
+  },
+  {
+      "file_id": "7b0bb643383ac6c3dbe3aac5f73647f9",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 12,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Assalto al punto di non ritorno",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.012 - Assalto al punto di non ritorno.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/7b0bb643383ac6c3dbe3aac5f73647f9"
+          }
+      ]
+  },
+  {
+      "file_id": "e2aa9dd3f95f742302183dbb8d243939",
+      "tmdb_id": 72677,
+      "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+      "season": 1,
+      "episode": 13,
+      "genre": ["Sci-Fi & Fantasy"],
+      "title": "Imperversa la tempesta",
+      "fname": "/Anime & Cartoni/Mobile Suit Gundam 0083: Stardust Memory (1991) [a72677]/1.013 - Imperversa la tempesta.mkv",
+      "year": "1991",
+      "plot": "",
+      "actors": ["Ryou Horikawa", "Akio Otsuka", "Rei Sakuma", "Kiyoshi Kobayashi", "Mari Mashiba"],
+      "links": [
+          {
+              "url": "http://51.77.159.233:30299/e2aa9dd3f95f742302183dbb8d243939"
+          }
+      ]
+  }
     ]
 }

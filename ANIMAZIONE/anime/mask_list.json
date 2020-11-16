@@ -1,0 +1,976 @@
+{
+    "episodes_list": [
+        {
+            "file_id": "f738fc045b6a8ae7e9ea421cf6282889",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Essere o non essere The Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.001 - Essere o non essere The Mask (prima parte).mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f738fc045b6a8ae7e9ea421cf6282889"
+                }
+            ]
+        },
+        {
+            "file_id": "ffe807f3fa770f4d08d8a6fa0887b410",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Essere o non essere The Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.002 - Essere o non essere The Mask (seconda parte).mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ffe807f3fa770f4d08d8a6fa0887b410"
+                }
+            ]
+        },
+        {
+            "file_id": "17e2822640379151c49ac2984570fd75",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La folle corsa di Baby Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.003 - La folle corsa di Baby Mask.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/17e2822640379151c49ac2984570fd75"
+                }
+            ]
+        },
+        {
+            "file_id": "bccd0c179c7cbd1be04076a28f0de87e",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La coppia terribile",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.004 - La coppia terribile.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bccd0c179c7cbd1be04076a28f0de87e"
+                }
+            ]
+        },
+        {
+            "file_id": "a0629453e99d4240164f16c9ed2b6b68",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La maschera sorella",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.005 - La maschera sorella.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0629453e99d4240164f16c9ed2b6b68"
+                }
+            ]
+        },
+        {
+            "file_id": "24f8f1565984a61cfd2619414419c890",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Il ladro delle ombre",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.006 - Il ladro delle ombre.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/24f8f1565984a61cfd2619414419c890"
+                }
+            ]
+        },
+        {
+            "file_id": "02b26621040c3a33362c18473104f95d",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Due cuori solitari",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.007 - Due cuori solitari.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/02b26621040c3a33362c18473104f95d"
+                }
+            ]
+        },
+        {
+            "file_id": "fba869a023d3eb0050a1f2e0d9bbb917",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Ballo in maschera",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.008 - Ballo in maschera.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fba869a023d3eb0050a1f2e0d9bbb917"
+                }
+            ]
+        },
+        {
+            "file_id": "ce0f17a0fe7a4ad3e1798defdb908440",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Le fatiche di Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.009 - Le fatiche di Mask.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ce0f17a0fe7a4ad3e1798defdb908440"
+                }
+            ]
+        },
+        {
+            "file_id": "31ee7b08bbde5bd47cd8ed7a8052662f",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Votate The Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.010 - Votate The Mask.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31ee7b08bbde5bd47cd8ed7a8052662f"
+                }
+            ]
+        },
+        {
+            "file_id": "f649595ae482b7bfd71bd18375096a3b",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Il Video veleno",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.011 - Il Video veleno.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f649595ae482b7bfd71bd18375096a3b"
+                }
+            ]
+        },
+        {
+            "file_id": "0def64c0d800b1d9266fc80bcdfd34ba",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "L`accalappiacani",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.012 - L`accalappiacani.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0def64c0d800b1d9266fc80bcdfd34ba"
+                }
+            ]
+        },
+        {
+            "file_id": "a0667b847e20874169344e0a2691b321",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La notte di Halloween",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.013 - La notte di Halloween.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0667b847e20874169344e0a2691b321"
+                }
+            ]
+        },
+        {
+            "file_id": "8d086892a5201bb1d620a6be1637805f",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Un Natale impossibile",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.014 - Un Natale impossibile.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d086892a5201bb1d620a6be1637805f"
+                }
+            ]
+        },
+        {
+            "file_id": "1fca0308b7bc4ba81111fd0b11a585ba",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Due Facce per The Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/1.015 - Due Facce per The Mask.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1fca0308b7bc4ba81111fd0b11a585ba"
+                }
+            ]
+        },
+        {
+            "file_id": "861288d27fc39e2b558cc91463750938",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Commedia nell`ere",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.001 - Commedia nell`ere.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/861288d27fc39e2b558cc91463750938"
+                }
+            ]
+        },
+        {
+            "file_id": "6caa06ecf7859bcd3456611c5ff3830d",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Suona per il verde",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.002 - Suona per il verde.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6caa06ecf7859bcd3456611c5ff3830d"
+                }
+            ]
+        },
+        {
+            "file_id": "ff3db9afb4fe321f0d592d8e5715bd0a",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Vola come una piuma",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.003 - Vola come una piuma.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ff3db9afb4fe321f0d592d8e5715bd0a"
+                }
+            ]
+        },
+        {
+            "file_id": "4b24c4df4ee1136c8cf73795fbc508c5",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Il pesce mascherato",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.004 - Il pesce mascherato.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b24c4df4ee1136c8cf73795fbc508c5"
+                }
+            ]
+        },
+        {
+            "file_id": "bc46ca4b6953949ea2849b356fa90551",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Rapina al centro commerciale",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.005 - Rapina al centro commerciale.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bc46ca4b6953949ea2849b356fa90551"
+                }
+            ]
+        },
+        {
+            "file_id": "a1c7337620dd9bea8eababb8a4f2d65b",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Viaggio in televisione",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.006 - Viaggio in televisione.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a1c7337620dd9bea8eababb8a4f2d65b"
+                }
+            ]
+        },
+        {
+            "file_id": "f4e66ff7f691df92b47061e8f9dab804",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La griglia della maschera",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.007 - La griglia della maschera.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4e66ff7f691df92b47061e8f9dab804"
+                }
+            ]
+        },
+        {
+            "file_id": "7f3549b6221d5feff7aa81a2052ff435",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Battaglia di dinosauri",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.008 - Battaglia di dinosauri.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f3549b6221d5feff7aa81a2052ff435"
+                }
+            ]
+        },
+        {
+            "file_id": "1d9ef7b915a3295a8685ccef923c65bd",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "I ritratti",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.009 - I ritratti.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d9ef7b915a3295a8685ccef923c65bd"
+                }
+            ]
+        },
+        {
+            "file_id": "263f71b946a00fc2653ec395fd4aa076",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Ogni genere di maschera",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.010 - Ogni genere di maschera.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/263f71b946a00fc2653ec395fd4aa076"
+                }
+            ]
+        },
+        {
+            "file_id": "cf2541993b1b117f8a764098e23c04be",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Sul verde",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.011 - Sul verde.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf2541993b1b117f8a764098e23c04be"
+                }
+            ]
+        },
+        {
+            "file_id": "ac382e9e1760c1c729c209b7ac4040b5",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "L`uomo impantanato",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.012 - L`uomo impantanato.avi",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac382e9e1760c1c729c209b7ac4040b5"
+                }
+            ]
+        },
+        {
+            "file_id": "a00d7974da5e0092480353a5b4227a11",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Quello che va da ogni parte",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.013 - Quello che va da ogni parte.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a00d7974da5e0092480353a5b4227a11"
+                }
+            ]
+        },
+        {
+            "file_id": "6d63468aa686ae00d92f1f691ffa7870",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La grandine della maschera",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.014 - La grandine della maschera.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d63468aa686ae00d92f1f691ffa7870"
+                }
+            ]
+        },
+        {
+            "file_id": "a51f3b6ac7eeb4cc4fbae17645b57db4",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Potere del suggerimento",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.015 - Potere del suggerimento.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a51f3b6ac7eeb4cc4fbae17645b57db4"
+                }
+            ]
+        },
+        {
+            "file_id": "a4256d926685c2cefd02e4052f1ac5e7",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Mask va a Washington",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.016 - Mask va a Washington.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4256d926685c2cefd02e4052f1ac5e7"
+                }
+            ]
+        },
+        {
+            "file_id": "51dd828bce716d7cfb1e7ffbd99fb6e5",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Pioggia di terrore",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.017 - Pioggia di terrore.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/51dd828bce716d7cfb1e7ffbd99fb6e5"
+                }
+            ]
+        },
+        {
+            "file_id": "ef7e3705ca340de1585af6636f74c195",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La madre dei cofani",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.018 - La madre dei cofani.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef7e3705ca340de1585af6636f74c195"
+                }
+            ]
+        },
+        {
+            "file_id": "756128199bfe50f2610a49f632aee499",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Ape o non ape",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.019 - Ape o non ape.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/756128199bfe50f2610a49f632aee499"
+                }
+            ]
+        },
+        {
+            "file_id": "5063d51c25dca552be885b462442c1df",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Pozione d`amore",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.020 - Pozione d`amore.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5063d51c25dca552be885b462442c1df"
+                }
+            ]
+        },
+        {
+            "file_id": "e538dcbee46a47424b1ba6ad37c2953e",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La maschera fredda",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.021 - La maschera fredda.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e538dcbee46a47424b1ba6ad37c2953e"
+                }
+            ]
+        },
+        {
+            "file_id": "5fe3d4cfd9e4d039e36e5c888c41fa86",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La malattia di Broadway",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.022 - La malattia di Broadway.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5fe3d4cfd9e4d039e36e5c888c41fa86"
+                }
+            ]
+        },
+        {
+            "file_id": "0e90c01bb2ac4801b6c284353c58001c",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Le maschere del sapere",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.023 - Le maschere del sapere.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0e90c01bb2ac4801b6c284353c58001c"
+                }
+            ]
+        },
+        {
+            "file_id": "7be3bb2a511accc2d278745e0e740daa",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La maschera del futuro",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.024 - La maschera del futuro.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7be3bb2a511accc2d278745e0e740daa"
+                }
+            ]
+        },
+        {
+            "file_id": "a948386f505bf1af7a7c2a7b0b62b440",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Il sigillo del fato",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.025 - Il sigillo del fato.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a948386f505bf1af7a7c2a7b0b62b440"
+                }
+            ]
+        },
+        {
+            "file_id": "094ce9ac2e2c2bc382ed2ddac4761f0a",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La maschera verde degli angeli Wanna",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.026 - La maschera verde degli angeli Wanna.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/094ce9ac2e2c2bc382ed2ddac4761f0a"
+                }
+            ]
+        },
+        {
+            "file_id": "77277d422e76e6219abd302c2eb72a63",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "L`ammutinamento dei cacciatori",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.027 - L`ammutinamento dei cacciatori.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/77277d422e76e6219abd302c2eb72a63"
+                }
+            ]
+        },
+        {
+            "file_id": "aaf6d3017163e8114a800e2d838378fe",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 28,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La convenzione del cattivo",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.028 - La convenzione del cattivo.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aaf6d3017163e8114a800e2d838378fe"
+                }
+            ]
+        },
+        {
+            "file_id": "7bffa0f3e91a37d95c1c2de3abe9eb11",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 29,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Il mare verde",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.029 - Il mare verde.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7bffa0f3e91a37d95c1c2de3abe9eb11"
+                }
+            ]
+        },
+        {
+            "file_id": "b5e5d84475a4353d1965a6bfb9e4127b",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 2,
+            "episode": 30,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Una sfida per Mask",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/2.030 - Una sfida per Mask.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5e5d84475a4353d1965a6bfb9e4127b"
+                }
+            ]
+        },
+        {
+            "file_id": "96f0b87070c87b93c4a7acfb1a931aa5",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La magia",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.001 - La magia.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96f0b87070c87b93c4a7acfb1a931aa5"
+                }
+            ]
+        },
+        {
+            "file_id": "6c8ccd7a767b11cacfc62b9ae92f943a",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Piccolo grande Mask ENG",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.002 - Piccolo grande Mask ENG.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c8ccd7a767b11cacfc62b9ae92f943a"
+                }
+            ]
+        },
+        {
+            "file_id": "fb67a12ee45aac2cad1b66105c7b3806",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Un viaggio fantastico",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.003 - Un viaggio fantastico.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fb67a12ee45aac2cad1b66105c7b3806"
+                }
+            ]
+        },
+        {
+            "file_id": "0acf784583edc7db68e2be8380de6041",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "L`oro viene fra noi",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.004 - L`oro viene fra noi.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0acf784583edc7db68e2be8380de6041"
+                }
+            ]
+        },
+        {
+            "file_id": "b6d11077a93303de410da7e17f08522a",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Avere un moccio",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.005 - Avere un moccio.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6d11077a93303de410da7e17f08522a"
+                }
+            ]
+        },
+        {
+            "file_id": "b4538ec59e15483db46e5bdd0b36a1b6",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "La crociera del mistero",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.006 - La crociera del mistero.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b4538ec59e15483db46e5bdd0b36a1b6"
+                }
+            ]
+        },
+        {
+            "file_id": "849ee11dcca5006b589fbf2caefa3b3f",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Gli assegni stolti",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.007 - Gli assegni stolti.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/849ee11dcca5006b589fbf2caefa3b3f"
+                }
+            ]
+        },
+        {
+            "file_id": "271898d09bcb6a1fb8991c563832f3b7",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "I maiali domineranno la terra",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.008 - I maiali domineranno la terra.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/271898d09bcb6a1fb8991c563832f3b7"
+                }
+            ]
+        },
+        {
+            "file_id": "ef0e432dbb0ba82fe9afc52fa9fb3505",
+            "tmdb_id": 9957,
+            "saga": "The Mask The Animated Series",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione"],
+            "title": "Ace Ventura ed io",
+            "fname": "/Anime & Cartoni/The Mask The Animated Series (1995) [a9957]/3.009 - Ace Ventura ed io.mp4",
+            "year": "1995",
+            "plot": "",
+            "actors": ["Jim Cummings", "Rob Paulsen", "Neil Ross", "Mark L. Taylor"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef0e432dbb0ba82fe9afc52fa9fb3505"
+                }
+            ]
+        }
+    ]
+}

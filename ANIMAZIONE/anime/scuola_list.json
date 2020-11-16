@@ -1,697 +1,1138 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 5645,
-			"number": "1x1",
-			"saga": "Scuola di polizia",
-			"title": "La banda dei clown",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/542064b95f44006c741607550bc77230"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x2",
-			"saga": "Scuola di polizia",
-			"title": "Cani d`assalto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/faf09cef135180d74c3f35a773ebe292"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x3",
-			"saga": "Scuola di polizia",
-			"title": "Il fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0df94294f4cc3d6f3ea07a2f23ea12f0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x4",
-			"saga": "Scuola di polizia",
-			"title": "Poliziotti robot",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d205b7f6d9c31ea529d0d75f5463f16"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x5",
-			"saga": "Scuola di polizia",
-			"title": "Missione in Inghilterra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eb8b9bdd2d962f50cbabeedd8d6df5b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x6",
-			"saga": "Scuola di polizia",
-			"title": "Incidente all`opera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f0a2b6a7cbce27b536fb0fec5c8edf9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x7",
-			"saga": "Scuola di polizia",
-			"title": "Tanto oro quanto pesa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/07e2626b1918591203f2600a72323239"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x8",
-			"saga": "Scuola di polizia",
-			"title": "Nozze contrastate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/00e9de48e9a3f7cf8396efae92db7378"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x9",
-			"saga": "Scuola di polizia",
-			"title": "Alla conquista del West",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65e1e9bb5e58bd6642d34a2247e3921c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x10",
-			"saga": "Scuola di polizia",
-			"title": "Operazione Egitto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7b0e4cb5959227734232e07acd826c3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x11",
-			"saga": "Scuola di polizia",
-			"title": "La vendetta di Testadura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e5d208d3cceb2845725daedb0d41027"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x12",
-			"saga": "Scuola di polizia",
-			"title": "Chiamatemi il dottore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9493e46a1c0ee702b0b4d5eba23f62a2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x13",
-			"saga": "Scuola di polizia",
-			"title": "Rapine sull`autostrada",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5c86d5d8c78afd4cb83f4927cb312715"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x14",
-			"saga": "Scuola di polizia",
-			"title": "La fattura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a99471b029a6da0eacc3897383f1fa3b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x15",
-			"saga": "Scuola di polizia",
-			"title": "Ciak, azione, sbirri!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a8d9582baaf7a2691f35d50f58a48cf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x16",
-			"saga": "Scuola di polizia",
-			"title": "Il campo estivo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40b4094ff84d73c808ab7d62d547914d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x17",
-			"saga": "Scuola di polizia",
-			"title": "Stato ipnotico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/70e6c0a041bebcd006c0bdb711ff6e33"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x18",
-			"saga": "Scuola di polizia",
-			"title": "Scontro tra bande",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4eb804e524dbd0a94edf319f1bc2e16b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x19",
-			"saga": "Scuola di polizia",
-			"title": "Gli astro sbirri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/696cda1ba788aded2b3cd44707ec06c6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x20",
-			"saga": "Scuola di polizia",
-			"title": "Il fratello di Sweetchuck",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ea90c951e9c904de1dbb454c4353bbe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x21",
-			"saga": "Scuola di polizia",
-			"title": "Guaio a Chinatown",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8d4a9c7711044831ded5058499c4af37"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x22",
-			"saga": "Scuola di polizia",
-			"title": "Gli sballati del surf",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cad052a6648f395838bfefdd03586068"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x23",
-			"saga": "Scuola di polizia",
-			"title": "Nove scapoli e un bebè",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2de147470e8b13cc88ff0c3be7a0b720"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x24",
-			"saga": "Scuola di polizia",
-			"title": "Il pesce perduto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d4ca09b61de9ee5f32b03439580a54cf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x25",
-			"saga": "Scuola di polizia",
-			"title": "L`uomo dai mille volti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6509200e283bc8821d3eba4f9dc5b72b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "1x26",
-			"saga": "Scuola di polizia",
-			"title": "I baby agenti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f74fb28a9f464994dd9e3737d7727e3d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x1",
-			"saga": "Scuola di polizia",
-			"title": "Professor Jekyll and Gangster Hyde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/01cf3b0ec4aee826050f5efa7804fe9d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x2",
-			"saga": "Scuola di polizia",
-			"title": "Operation Big House",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83d13226e67176f6a8afd77536905069"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x3",
-			"saga": "Scuola di polizia",
-			"title": "Ship of Jewels",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ffc78314f6e813ecbc1ddbf866d4aead"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x4",
-			"saga": "Scuola di polizia",
-			"title": "Zillion Dollar Zed",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65445dbfb2404f0e68e387a14250bdb2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x5",
-			"saga": "Scuola di polizia",
-			"title": "The Comic Book Caper",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b159db66b89a6a47b43df8633682056"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x6",
-			"saga": "Scuola di polizia",
-			"title": "The Monkey Trial",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8cc8412400eee5c6fcd0bac7dbfc1832"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x7",
-			"saga": "Scuola di polizia",
-			"title": "Rolling for Dollars",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/69381b193c368a214e358b185af8497d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x8",
-			"saga": "Scuola di polizia",
-			"title": "K-9 Corps and the Peking Pooch",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f106cd9fbcb9fbc7cc0d90bbc0a754a4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x9",
-			"saga": "Scuola di polizia",
-			"title": "Santa with a Badge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/704148cab8c2711a00246ad7b70cde2d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x10",
-			"saga": "Scuola di polizia",
-			"title": "Suitable for Framing",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c8066543c9282799a7c806339139bf6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x11",
-			"saga": "Scuola di polizia",
-			"title": "Rock Around the Cops",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1582846be5da176ab0b1c10f4f96dc94"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x12",
-			"saga": "Scuola di polizia",
-			"title": "Prince and the Copper",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a8cb6f5cbc6f5f3d55be709e11aac28d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x13",
-			"saga": "Scuola di polizia",
-			"title": "Now You Steal It, Now You Don`t",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e01761fd4e5bf8600121e905860af127"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x14",
-			"saga": "Scuola di polizia",
-			"title": "Mad Maxine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40c3268ec85186dd96144dff1e3d2491"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x15",
-			"saga": "Scuola di polizia",
-			"title": "Trading Disgraces",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62d5f6eebfcb1b50b5c5587097ab8874"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x16",
-			"saga": "Scuola di polizia",
-			"title": "Champ",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/100ec417448a1ad3e96bd3b597dead9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x17",
-			"saga": "Scuola di polizia",
-			"title": "Wheels of Fortune",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c789e097b0602cd45cb91a8c0c0e4ec4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x18",
-			"saga": "Scuola di polizia",
-			"title": "The Wolf Who Cried Boy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be2d1cc74548a077bc56260f0e065475"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x19",
-			"saga": "Scuola di polizia",
-			"title": "Snow Job",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a301d52cf7949772267cfd35d28928c7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x20",
-			"saga": "Scuola di polizia",
-			"title": "A Bad Knight for Tackleberry",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40c4e023f1df90b62d805000bb6c330b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x21",
-			"saga": "Scuola di polizia",
-			"title": "Supercop Sweetchuck",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1f720fecf1d810d812db6c204fb8407"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x22",
-			"saga": "Scuola di polizia",
-			"title": "Deja Voodoo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71ce26bf50c64b7e0767fdc11373af81"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x23",
-			"saga": "Scuola di polizia",
-			"title": "Flights of the Bumbling Blues",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a96492e57401668886ed299692c587c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x24",
-			"saga": "Scuola di polizia",
-			"title": "Big Burger",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3feefe3db0255e2f2f0cbd3477789732"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x25",
-			"saga": "Scuola di polizia",
-			"title": "Fat City",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/018aa3d1fe0e254c660673166a4dfcbb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x26",
-			"saga": "Scuola di polizia",
-			"title": "Elementary, My Dear Coppers!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/27cb8bb8b3d556aca23e62853a728b62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x27",
-			"saga": "Scuola di polizia",
-			"title": "Dr",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7842eb24f2dd5abc89c611d884d55645"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x28",
-			"saga": "Scuola di polizia",
-			"title": "The Hillbilly Blues",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0ab6c2c1f53a489b7bc1721eceb93aa7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x29",
-			"saga": "Scuola di polizia",
-			"title": "Survival of the Fattest",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ddf42daa1c6924b5a1dd6e1a0360652c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x30",
-			"saga": "Scuola di polizia",
-			"title": "The Junkman Ransoms the Ozone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1988de71077a5e723117a569b5915edb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x31",
-			"saga": "Scuola di polizia",
-			"title": "Grads on Tour",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9ac8d5302c3f19dc4fc32cffecbd9a52"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x32",
-			"saga": "Scuola di polizia",
-			"title": "Like Coppers, Like Son",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83384ee3fd106e827a8601db95422dd0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x33",
-			"saga": "Scuola di polizia",
-			"title": "Ten Little Cops",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8ee3afb622a287ba4a8abbf8864d72ab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x34",
-			"saga": "Scuola di polizia",
-			"title": "Big Top Cops",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/506dd1ee62e4d3170dbb86debe540a96"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x35",
-			"saga": "Scuola di polizia",
-			"title": "Alpine K-9s",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8717fba71ad29b8afd4729fcf19ee2e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x36",
-			"saga": "Scuola di polizia",
-			"title": "The Legend of Robin Good",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b0496e94752b270cffd54b4cd5380155"
-				}
-			]
-		},
-		{
-			"tmdb_id": 5645,
-			"number": "2x37",
-			"saga": "Scuola di polizia",
-			"title": "Hawaii Nine-0",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5ad6cd835a128974fb79e4837aaaf6f9"
-				}
-			]
-		}
+            "file_id": "ed3bd16b803b679f085fecc2c57b72a4",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione"],
+            "title": "La banda dei clown",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.001 - La banda dei clown.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed3bd16b803b679f085fecc2c57b72a4"
+                }
+            ]
+        },
+        {
+            "file_id": "046677cad8c5fcbdc740d2d636f8096a",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione"],
+            "title": "Cani d`assalto",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.002 - Cani d`assalto.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/046677cad8c5fcbdc740d2d636f8096a"
+                }
+            ]
+        },
+        {
+            "file_id": "31e2d5db42a875b0ba48e0d428d64490",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione"],
+            "title": "Il fantasma",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.003 - Il fantasma.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31e2d5db42a875b0ba48e0d428d64490"
+                }
+            ]
+        },
+        {
+            "file_id": "6aa48a2bd9a58d16446c323b20e4292b",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione"],
+            "title": "Poliziotti robot",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.004 - Poliziotti robot.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6aa48a2bd9a58d16446c323b20e4292b"
+                }
+            ]
+        },
+        {
+            "file_id": "d5fa5441b7beb0490974f1c72a78c43d",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione"],
+            "title": "Missione in Inghilterra",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.005 - Missione in Inghilterra.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d5fa5441b7beb0490974f1c72a78c43d"
+                }
+            ]
+        },
+        {
+            "file_id": "37b2fdb25bdabf6d4180cc43b9fee824",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione"],
+            "title": "Incidente all`opera",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.006 - Incidente all`opera.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/37b2fdb25bdabf6d4180cc43b9fee824"
+                }
+            ]
+        },
+        {
+            "file_id": "608a7bc9e00133ee1cbb17a801148a2f",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione"],
+            "title": "Tanto oro quanto pesa",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.007 - Tanto oro quanto pesa.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/608a7bc9e00133ee1cbb17a801148a2f"
+                }
+            ]
+        },
+        {
+            "file_id": "55e35555007a866f5a8acd52e2492d97",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione"],
+            "title": "Nozze contrastate",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.008 - Nozze contrastate.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/55e35555007a866f5a8acd52e2492d97"
+                }
+            ]
+        },
+        {
+            "file_id": "517a2e9c0a12de85d5bd1c16c22019a9",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione"],
+            "title": "Alla conquista del West",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.009 - Alla conquista del West.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/517a2e9c0a12de85d5bd1c16c22019a9"
+                }
+            ]
+        },
+        {
+            "file_id": "66cf87b6d544273f677ae30a4421951a",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione"],
+            "title": "Operazione Egitto",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.010 - Operazione Egitto.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/66cf87b6d544273f677ae30a4421951a"
+                }
+            ]
+        },
+        {
+            "file_id": "3c0efe61f4620a22793c14abf7228bc0",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione"],
+            "title": "La vendetta di Testadura",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.011 - La vendetta di Testadura.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3c0efe61f4620a22793c14abf7228bc0"
+                }
+            ]
+        },
+        {
+            "file_id": "47cef5fd613571ad4afc454bf3c0861e",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione"],
+            "title": "Chiamatemi il dottore",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.012 - Chiamatemi il dottore.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/47cef5fd613571ad4afc454bf3c0861e"
+                }
+            ]
+        },
+        {
+            "file_id": "543ee27839ea73c2ac02527c1d73342c",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione"],
+            "title": "Rapine sull`autostrada",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.013 - Rapine sull`autostrada.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/543ee27839ea73c2ac02527c1d73342c"
+                }
+            ]
+        },
+        {
+            "file_id": "1617a446df104050664e42deed2de902",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "La fattura",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.014 - La fattura.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1617a446df104050664e42deed2de902"
+                }
+            ]
+        },
+        {
+            "file_id": "af31b29f41c65a117e0ee0016dfec4b4",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione"],
+            "title": "Ciak, azione, sbirri!",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.015 - Ciak, azione, sbirri!.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/af31b29f41c65a117e0ee0016dfec4b4"
+                }
+            ]
+        },
+        {
+            "file_id": "f13319071f98468f2b5d0499fbf1b67e",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione"],
+            "title": "Il campo estivo",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.016 - Il campo estivo.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f13319071f98468f2b5d0499fbf1b67e"
+                }
+            ]
+        },
+        {
+            "file_id": "165471c66940dae5881e9c3a3f6024c4",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione"],
+            "title": "Stato ipnotico",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.017 - Stato ipnotico.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/165471c66940dae5881e9c3a3f6024c4"
+                }
+            ]
+        },
+        {
+            "file_id": "fb22bf2cd3781b00c87a18f44fcbcbc3",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione"],
+            "title": "Scontro tra bande",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.018 - Scontro tra bande.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fb22bf2cd3781b00c87a18f44fcbcbc3"
+                }
+            ]
+        },
+        {
+            "file_id": "981a48d8aae472509e8479ba89b4465c",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione"],
+            "title": "Gli astro sbirri",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.019 - Gli astro sbirri.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/981a48d8aae472509e8479ba89b4465c"
+                }
+            ]
+        },
+        {
+            "file_id": "36ef7277363a786411b125f3cd92bc08",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione"],
+            "title": "Il fratello di Sweetchuck",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.020 - Il fratello di Sweetchuck.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/36ef7277363a786411b125f3cd92bc08"
+                }
+            ]
+        },
+        {
+            "file_id": "2f522f0b7df763ce28f0193b633604c4",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione"],
+            "title": "Guaio a Chinatown",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.021 - Guaio a Chinatown.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f522f0b7df763ce28f0193b633604c4"
+                }
+            ]
+        },
+        {
+            "file_id": "bcce0d1847e99db03e906a84f0d4094b",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione"],
+            "title": "Gli sballati del surf",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.022 - Gli sballati del surf.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bcce0d1847e99db03e906a84f0d4094b"
+                }
+            ]
+        },
+        {
+            "file_id": "4261474f7537408a5f25f250b1918253",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione"],
+            "title": "Nove scapoli e un beb\u00e8",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.023 - Nove scapoli e un beb\u00e8.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4261474f7537408a5f25f250b1918253"
+                }
+            ]
+        },
+        {
+            "file_id": "60951a2d49b8b894ec57b3581dc6c857",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione"],
+            "title": "Il pesce perduto",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.024 - Il pesce perduto.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/60951a2d49b8b894ec57b3581dc6c857"
+                }
+            ]
+        },
+        {
+            "file_id": "03f18ad2eda8a87d9fc3c90abf975877",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione"],
+            "title": "L`uomo dai mille volti",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.025 - L`uomo dai mille volti.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03f18ad2eda8a87d9fc3c90abf975877"
+                }
+            ]
+        },
+        {
+            "file_id": "839a215b0d904ada8c706979755d8548",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione"],
+            "title": "I baby agenti",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/1.026 - I baby agenti.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/839a215b0d904ada8c706979755d8548"
+                }
+            ]
+        },
+        {
+            "file_id": "10d38a7a957b1c9d00f2e21c156c58f5",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione"],
+            "title": "Professor Jekyll and Gangster Hyde",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.001 - Professor Jekyll and Gangster Hyde.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10d38a7a957b1c9d00f2e21c156c58f5"
+                }
+            ]
+        },
+        {
+            "file_id": "09b8ca23503fa06399157c0a538cdd93",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione"],
+            "title": "Operation Big House",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.002 - Operation Big House.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/09b8ca23503fa06399157c0a538cdd93"
+                }
+            ]
+        },
+        {
+            "file_id": "c9b25818324eec63d042292f487e6293",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione"],
+            "title": "Ship of Jewels",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.003 - Ship of Jewels.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c9b25818324eec63d042292f487e6293"
+                }
+            ]
+        },
+        {
+            "file_id": "a02a3bfbb844cc0b368665d941e24de6",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione"],
+            "title": "Zillion Dollar Zed",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.004 - Zillion Dollar Zed.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a02a3bfbb844cc0b368665d941e24de6"
+                }
+            ]
+        },
+        {
+            "file_id": "8c3b921137455aa7b9d4bb7bd0ebc2d4",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione"],
+            "title": "The Comic Book Caper",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.005 - The Comic Book Caper.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c3b921137455aa7b9d4bb7bd0ebc2d4"
+                }
+            ]
+        },
+        {
+            "file_id": "9a9acc0b32d95288c04a027c3c6987fc",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione"],
+            "title": "The Monkey Trial",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.006 - The Monkey Trial.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a9acc0b32d95288c04a027c3c6987fc"
+                }
+            ]
+        },
+        {
+            "file_id": "d7416269c073e397adfd6c00de0e4ba6",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione"],
+            "title": "Rolling for Dollars",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.007 - Rolling for Dollars.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d7416269c073e397adfd6c00de0e4ba6"
+                }
+            ]
+        },
+        {
+            "file_id": "f77d338c1c09b2875a8ed2283a344204",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione"],
+            "title": "K-9 Corps and the Peking Pooch",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.008 - K-9 Corps and the Peking Pooch.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f77d338c1c09b2875a8ed2283a344204"
+                }
+            ]
+        },
+        {
+            "file_id": "04cf1c9dd5cdb0d43c9ae0b725122c2d",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione"],
+            "title": "Santa with a Badge",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.009 - Santa with a Badge.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/04cf1c9dd5cdb0d43c9ae0b725122c2d"
+                }
+            ]
+        },
+        {
+            "file_id": "d9d58e0b03b2a4379e6a403e8fd7f613",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione"],
+            "title": "Suitable for Framing",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.010 - Suitable for Framing.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9d58e0b03b2a4379e6a403e8fd7f613"
+                }
+            ]
+        },
+        {
+            "file_id": "539463d8cb3266d225525d808e11af8c",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione"],
+            "title": "Rock Around the Cops",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.011 - Rock Around the Cops.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/539463d8cb3266d225525d808e11af8c"
+                }
+            ]
+        },
+        {
+            "file_id": "afc15bf1f7430d7aac702d30a8ef5a98",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Animazione"],
+            "title": "Prince and the Copper",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.012 - Prince and the Copper.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/afc15bf1f7430d7aac702d30a8ef5a98"
+                }
+            ]
+        },
+        {
+            "file_id": "8467e4f47253a67182143dd0dc95f840",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Animazione"],
+            "title": "Now You Steal It, Now You Don`t",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.013 - Now You Steal It, Now You Don`t.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8467e4f47253a67182143dd0dc95f840"
+                }
+            ]
+        },
+        {
+            "file_id": "600dc4490cd0c18503a3ccc4de0d3726",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "Mad Maxine",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.014 - Mad Maxine.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/600dc4490cd0c18503a3ccc4de0d3726"
+                }
+            ]
+        },
+        {
+            "file_id": "16d7de1df493843374e6146e6c0ad265",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Animazione"],
+            "title": "Trading Disgraces",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.015 - Trading Disgraces.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/16d7de1df493843374e6146e6c0ad265"
+                }
+            ]
+        },
+        {
+            "file_id": "967abcd3daa7be3527266a118e953f54",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Animazione"],
+            "title": "Champ",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.016 - Champ.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/967abcd3daa7be3527266a118e953f54"
+                }
+            ]
+        },
+        {
+            "file_id": "a4316a8e44752dad6454680cfac72966",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Animazione"],
+            "title": "Wheels of Fortune",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.017 - Wheels of Fortune.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4316a8e44752dad6454680cfac72966"
+                }
+            ]
+        },
+        {
+            "file_id": "e61df20111078c2507acf985b65b263b",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Animazione"],
+            "title": "The Wolf Who Cried Boy",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.018 - The Wolf Who Cried Boy.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e61df20111078c2507acf985b65b263b"
+                }
+            ]
+        },
+        {
+            "file_id": "fd38063b022a6e86b6e253abbc12b9d0",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Animazione"],
+            "title": "Snow Job",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.019 - Snow Job.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fd38063b022a6e86b6e253abbc12b9d0"
+                }
+            ]
+        },
+        {
+            "file_id": "b3200c96c2b1394a7f877ded15773a1c",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Animazione"],
+            "title": "A Bad Knight for Tackleberry",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.020 - A Bad Knight for Tackleberry.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b3200c96c2b1394a7f877ded15773a1c"
+                }
+            ]
+        },
+        {
+            "file_id": "194c51963429c7a326f797054485b007",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Animazione"],
+            "title": "Supercop Sweetchuck",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.021 - Supercop Sweetchuck.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/194c51963429c7a326f797054485b007"
+                }
+            ]
+        },
+        {
+            "file_id": "622478468c6caae5d17aa99f482e8a8e",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Animazione"],
+            "title": "Deja Voodoo",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.022 - Deja Voodoo.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/622478468c6caae5d17aa99f482e8a8e"
+                }
+            ]
+        },
+        {
+            "file_id": "ad92c93fe00057614dfdb4e59e621873",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Animazione"],
+            "title": "Flights of the Bumbling Blues",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.023 - Flights of the Bumbling Blues.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad92c93fe00057614dfdb4e59e621873"
+                }
+            ]
+        },
+        {
+            "file_id": "df1890f8ded5e13705acee288621fdab",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Animazione"],
+            "title": "Big Burger",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.024 - Big Burger.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/df1890f8ded5e13705acee288621fdab"
+                }
+            ]
+        },
+        {
+            "file_id": "ffc4381262282106a4323594cadd2589",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Animazione"],
+            "title": "Fat City",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.025 - Fat City.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ffc4381262282106a4323594cadd2589"
+                }
+            ]
+        },
+        {
+            "file_id": "52597e355088a93d28d91192bfc44eb3",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Animazione"],
+            "title": "Elementary, My Dear Coppers!",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.026 - Elementary, My Dear Coppers!.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52597e355088a93d28d91192bfc44eb3"
+                }
+            ]
+        },
+        {
+            "file_id": "a462111d070b76424893d43fd0b4cdd0",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Animazione"],
+            "title": "Dr",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.027 - Dr. Deadstone, I Presume.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a462111d070b76424893d43fd0b4cdd0"
+                }
+            ]
+        },
+        {
+            "file_id": "3e1eb764649644e1226eaac1f2eb8d23",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 28,
+            "genre": ["Animazione"],
+            "title": "The Hillbilly Blues",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.028 - The Hillbilly Blues.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3e1eb764649644e1226eaac1f2eb8d23"
+                }
+            ]
+        },
+        {
+            "file_id": "b320f5365218d8020d714bea764a0c65",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 29,
+            "genre": ["Animazione"],
+            "title": "Survival of the Fattest",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.029 - Survival of the Fattest.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b320f5365218d8020d714bea764a0c65"
+                }
+            ]
+        },
+        {
+            "file_id": "be26f1969a302d41bb37ed3626a5d570",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 30,
+            "genre": ["Animazione"],
+            "title": "The Junkman Ransoms the Ozone",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.030 - The Junkman Ransoms the Ozone.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be26f1969a302d41bb37ed3626a5d570"
+                }
+            ]
+        },
+        {
+            "file_id": "5416481eab52055a5a71e9b3a7ebe309",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 31,
+            "genre": ["Animazione"],
+            "title": "Grads on Tour",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.031 - Grads on Tour.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5416481eab52055a5a71e9b3a7ebe309"
+                }
+            ]
+        },
+        {
+            "file_id": "4d6c5bb1491668164e34865e49ad2930",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 32,
+            "genre": ["Animazione"],
+            "title": "Like Coppers, Like Son",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.032 - Like Coppers, Like Son.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d6c5bb1491668164e34865e49ad2930"
+                }
+            ]
+        },
+        {
+            "file_id": "a8cbb1f4f9f8e421f81b75c2238cfb39",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 33,
+            "genre": ["Animazione"],
+            "title": "Ten Little Cops",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.033 - Ten Little Cops.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8cbb1f4f9f8e421f81b75c2238cfb39"
+                }
+            ]
+        },
+        {
+            "file_id": "680119160d77dce73a7e11d2013d7470",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 34,
+            "genre": ["Animazione"],
+            "title": "Big Top Cops",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.034 - Big Top Cops.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/680119160d77dce73a7e11d2013d7470"
+                }
+            ]
+        },
+        {
+            "file_id": "45237ad1778fbe66d552c72a2d245861",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 35,
+            "genre": ["Animazione"],
+            "title": "Alpine K-9s",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.035 - Alpine K-9s.mp4",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/45237ad1778fbe66d552c72a2d245861"
+                }
+            ]
+        },
+        {
+            "file_id": "0f9c151f53b72ff61a71cae0788ff031",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 36,
+            "genre": ["Animazione"],
+            "title": "The Legend of Robin Good",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.036 - The Legend of Robin Good.avi",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f9c151f53b72ff61a71cae0788ff031"
+                }
+            ]
+        },
+        {
+            "file_id": "dc4ee12546275b112cd585e83d7e1b4e",
+            "tmdb_id": 5645,
+            "saga": "Scuola di polizia",
+            "season": 2,
+            "episode": 37,
+            "genre": ["Animazione"],
+            "title": "Hawaii Nine-0",
+            "fname": "/Anime & Cartoni/Scuola di polizia (1988) [a5645]/2.037 - Hawaii Nine-0.avi",
+            "year": "1988",
+            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia.  La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "actors": ["Noam Zylberman", "Howard Morris", "Elizabeth Hanna", "Dan Hennessey", "Denise Pidgeon", "Greg Morton", "Len Carlson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dc4ee12546275b112cd585e83d7e1b4e"
+                }
+            ]
+        }
     ]
 }

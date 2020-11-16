@@ -1,290 +1,472 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 3661,
-			"number": "1x1",
-			"saga": "Team Galaxy",
-			"title": "Brett al comando",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4fb70b905db64d27d40c1b08d0f2f0ff"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x2",
-			"saga": "Team Galaxy",
-			"title": "Un allievo `promettente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/78c10131164aca9a62a32f2f8fcb2d93"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x3",
-			"saga": "Team Galaxy",
-			"title": "Viva Las Venus",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76f60763fdbb721ed60f5197409daf98"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x4",
-			"saga": "Team Galaxy",
-			"title": "Il cervello di Brett",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6249c8ec8bff65cd8a355570fcc33deb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x5",
-			"saga": "Team Galaxy",
-			"title": "Miss Cosmos",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/635cb306aff948ebf07b1a1e4fed86ac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x6",
-			"saga": "Team Galaxy",
-			"title": "Un cucciolo per Yoko",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b7d8443e6f20a3fc4104e885c128307b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x7",
-			"saga": "Team Galaxy",
-			"title": "Sempre sempre sempre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b83ffb7087998cd6d4bba23f25d063d9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x8",
-			"saga": "Team Galaxy",
-			"title": "Occhio all’occhio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e18d94433683ae6e64b5d49eb85d6cca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x9",
-			"saga": "Team Galaxy",
-			"title": "Sequestro intergalattico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7aea5fe0693814e1390f5f245080693a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x10",
-			"saga": "Team Galaxy",
-			"title": "Una pozione per Brett",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ab41b05563e297f050ac2cae8d467f9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x11",
-			"saga": "Team Galaxy",
-			"title": "Pirati spaziali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1758d05aca54d2586513dfc705321db"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x12",
-			"saga": "Team Galaxy",
-			"title": "Missione subacquea",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0feabcfcee76c916ca68faef5057d672"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x13",
-			"saga": "Team Galaxy",
-			"title": "Conferenza intergalattica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ad6768cfec07865f7664e85a818061fa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x14",
-			"saga": "Team Galaxy",
-			"title": "Lunatica-mente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8b1df8a0955c169061fdc8df83c79a4a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x15",
-			"saga": "Team Galaxy",
-			"title": "Surf sulle comete",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bbf30c6b2e871a1d9ec4d7d5bca531d4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x16",
-			"saga": "Team Galaxy",
-			"title": "Ultra virus",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1f10975f06a8f42e806f3779839eefb8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x17",
-			"saga": "Team Galaxy",
-			"title": "Game over",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/740089fa1f1ee3ec62dfd233c357c502"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x18",
-			"saga": "Team Galaxy",
-			"title": "Un’amica per Starletta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/153cffb637da0a359b8cae8fdd4499d7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x19",
-			"saga": "Team Galaxy",
-			"title": "Api aliene",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e75cb8fbe1f3f7beb71fd849de2bd7ab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x20",
-			"saga": "Team Galaxy",
-			"title": "Crisi cosmica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3c77e3c6b996c43f6d375a36437d6288"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x21",
-			"saga": "Team Galaxy",
-			"title": "Pensare in grande",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bb92b88534f1748fc9483482e30fbf54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x22",
-			"saga": "Team Galaxy",
-			"title": "Fluffy contro Buster",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/820c7f0059a792907d3966e8ed29b85c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x23",
-			"saga": "Team Galaxy",
-			"title": "Doppio Brett",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3c8206391d4aca8ae56b8f0c4f26565a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x24",
-			"saga": "Team Galaxy",
-			"title": "Il circo delle stelle (prima parte)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d0fcb20b2e0ff4f52b8139681817c2df"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x25",
-			"saga": "Team Galaxy",
-			"title": "Il circo delle stelle (seconda parte)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7e62c8a10b6ddc1871a660a796ac3acf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 3661,
-			"number": "1x26",
-			"saga": "Team Galaxy",
-			"title": "Il circo delle stelle (terza parte)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8419e669655c60496c8e415210c51a4"
-				}
-			]
-		} 
+            "file_id": "27c4e606d217cf3a76ee3739eff1cc55",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Brett al comando",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.001 - Brett al comando.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/27c4e606d217cf3a76ee3739eff1cc55"
+                }
+            ]
+        },
+        {
+            "file_id": "fd4c2417403c252b7efef429a273f82d",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un allievo `promettente",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.002 - Un allievo `promettente.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fd4c2417403c252b7efef429a273f82d"
+                }
+            ]
+        },
+        {
+            "file_id": "b89fe524229699ba4b4b500af85b9574",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Viva Las Venus",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.003 - Viva Las Venus.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b89fe524229699ba4b4b500af85b9574"
+                }
+            ]
+        },
+        {
+            "file_id": "f08952f90bdc0620d96d4997c1167d38",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il cervello di Brett",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.004 - Il cervello di Brett.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f08952f90bdc0620d96d4997c1167d38"
+                }
+            ]
+        },
+        {
+            "file_id": "fb36312ecdaaff2b987d0e742b0448b3",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Miss Cosmos",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.005 - Miss Cosmos.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fb36312ecdaaff2b987d0e742b0448b3"
+                }
+            ]
+        },
+        {
+            "file_id": "f579c9d6a11b9ffc2424c396c15a6fd0",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un cucciolo per Yoko",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.006 - Un cucciolo per Yoko.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f579c9d6a11b9ffc2424c396c15a6fd0"
+                }
+            ]
+        },
+        {
+            "file_id": "3cf0927b9b087b2ea945b4e95803ab5b",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Sempre sempre sempre",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.007 - Sempre sempre sempre.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cf0927b9b087b2ea945b4e95803ab5b"
+                }
+            ]
+        },
+        {
+            "file_id": "c54db5f60234bf15db5f1a286069e24c",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Occhio all\u2019occhio",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.008 - Occhio all\u2019occhio.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c54db5f60234bf15db5f1a286069e24c"
+                }
+            ]
+        },
+        {
+            "file_id": "1cb556df803d82b273b03fce37676fe3",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Sequestro intergalattico",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.009 - Sequestro intergalattico.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1cb556df803d82b273b03fce37676fe3"
+                }
+            ]
+        },
+        {
+            "file_id": "372248ae7f3f13303ece8df4f23bc54d",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Una pozione per Brett",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.010 - Una pozione per Brett.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/372248ae7f3f13303ece8df4f23bc54d"
+                }
+            ]
+        },
+        {
+            "file_id": "6ec353c94d6f5b452201a00ed58afe48",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Pirati spaziali",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.011 - Pirati spaziali.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ec353c94d6f5b452201a00ed58afe48"
+                }
+            ]
+        },
+        {
+            "file_id": "781eedf374e659c2c79faeb1ee6a67d4",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Missione subacquea",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.012 - Missione subacquea.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/781eedf374e659c2c79faeb1ee6a67d4"
+                }
+            ]
+        },
+        {
+            "file_id": "1745e62369bf4b41cd443f2318bfa415",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Conferenza intergalattica",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.013 - Conferenza intergalattica.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1745e62369bf4b41cd443f2318bfa415"
+                }
+            ]
+        },
+        {
+            "file_id": "9993aed91aab6bad71a6717700a49916",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Lunatica-mente",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.014 - Lunatica-mente.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9993aed91aab6bad71a6717700a49916"
+                }
+            ]
+        },
+        {
+            "file_id": "2f8a2458a4ca1e9fbb9bf3f81e1ba499",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Surf sulle comete",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.015 - Surf sulle comete.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f8a2458a4ca1e9fbb9bf3f81e1ba499"
+                }
+            ]
+        },
+        {
+            "file_id": "78540eeea4b6d32ea4aaa7e535447b6a",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Ultra virus",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.016 - Ultra virus.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/78540eeea4b6d32ea4aaa7e535447b6a"
+                }
+            ]
+        },
+        {
+            "file_id": "dca9a7ca2cc5890ee2e5b437ab908864",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Game over",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.017 - Game over.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dca9a7ca2cc5890ee2e5b437ab908864"
+                }
+            ]
+        },
+        {
+            "file_id": "24f9851bb98293dd98334a55181e2391",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Un\u2019amica per Starletta",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.018 - Un\u2019amica per Starletta.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/24f9851bb98293dd98334a55181e2391"
+                }
+            ]
+        },
+        {
+            "file_id": "87826c09e04b0757d1e02180550b2167",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Api aliene",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.019 - Api aliene.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87826c09e04b0757d1e02180550b2167"
+                }
+            ]
+        },
+        {
+            "file_id": "7c6020d66b50a48bd6e7ef4d268d96c0",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Crisi cosmica",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.020 - Crisi cosmica.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7c6020d66b50a48bd6e7ef4d268d96c0"
+                }
+            ]
+        },
+        {
+            "file_id": "7ffa2ae644ede0243c515359f5f311ff",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Pensare in grande",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.021 - Pensare in grande.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7ffa2ae644ede0243c515359f5f311ff"
+                }
+            ]
+        },
+        {
+            "file_id": "2bb9c45b4f94d0ca89ca524d9c076261",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Fluffy contro Buster",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.022 - Fluffy contro Buster.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2bb9c45b4f94d0ca89ca524d9c076261"
+                }
+            ]
+        },
+        {
+            "file_id": "80cea682017a4f9f6f48708859bb10fd",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Doppio Brett",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.023 - Doppio Brett.avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80cea682017a4f9f6f48708859bb10fd"
+                }
+            ]
+        },
+        {
+            "file_id": "6ba004871ffa426662679cc41dee42f3",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il circo delle stelle",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.024 - Il circo delle stelle (prima parte).avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ba004871ffa426662679cc41dee42f3"
+                }
+            ]
+        },
+        {
+            "file_id": "3820a6577b91bb5559a81beff9b2415a",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il circo delle stelle",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.025 - Il circo delle stelle (seconda parte).avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3820a6577b91bb5559a81beff9b2415a"
+                }
+            ]
+        },
+        {
+            "file_id": "bf8d2016643fd1cb1382750f6b72a1eb",
+            "tmdb_id": 3661,
+            "saga": "Team Galaxy",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il circo delle stelle",
+            "fname": "/Anime & Cartoni/Team Galaxy [a3661]/1.026 - Il circo delle stelle (terza parte).avi",
+            "year": "2006",
+            "plot": "",
+            "actors": ["Tabitha St. Germain", "Kirby Morrow", "Katie Griffin", "Cathy Weseluck", "Brian Dobson", "Sam Vincent", "Kathleen Barr"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bf8d2016643fd1cb1382750f6b72a1eb"
+                }
+            ]
+        } 
     ]
 }

@@ -1,92 +1,156 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 45500,
-			"number": "0x0",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "Gundam Unicorn - EX100 Years of Solitude",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/270348e0e123de7b7b14e76d4aa265a9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x1",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "Day of the Unicorn",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fbfad070f8ee02ef58b9412572b80097"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x2",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "The Second Coming of Char",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a15ca8b3cc42e5e8fe38a6bb03b0e8e0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x3",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "The Ghost of Laplace",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b2810be1b66e35b49222d62a456baaa7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x4",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "At the Bottom of the Gravity Well",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/78d78aa8fc3e736ddf1548f04ab748e7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x5",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "The Black Unicorn",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cf9c67bfa4ac3b400dcca956d0b4f0bc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x6",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "Two Worlds, Two Tomorrows",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/157cf2472ff6715d9333c3ed111422b2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 45500,
-			"number": "1x7",
-			"saga": "Mobile Suit Gundam Unicorn",
-			"title": "Over the Rainbow",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9815b70e4575d6f68d998ec823321a28"
-				}
-			]
-		}
+            "file_id": "5182de04f5910b51a84d6527d0e8fe5a",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 0,
+            "episode": 0,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "Gundam Unicorn - EX100 Years of Solitude",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/0.000 - Gundam Unicorn - EX100 Years of Solitude.mp4",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5182de04f5910b51a84d6527d0e8fe5a"
+                }
+            ]
+        },
+        {
+            "file_id": "b85521bbc8cd26217e994110c4cd41a2",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "Day of the Unicorn",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.001 - Day of the Unicorn.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b85521bbc8cd26217e994110c4cd41a2"
+                }
+            ]
+        },
+        {
+            "file_id": "f0e3b65fafb35ab22c9a7a3efe52b48a",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "The Second Coming of Char",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.002 - The Second Coming of Char.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0e3b65fafb35ab22c9a7a3efe52b48a"
+                }
+            ]
+        },
+        {
+            "file_id": "11b4bf411f0c8b2d5654422e1e0f6a33",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "The Ghost of Laplace",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.003 - The Ghost of Laplace.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11b4bf411f0c8b2d5654422e1e0f6a33"
+                }
+            ]
+        },
+        {
+            "file_id": "e8437b620d5d010de4b1e322489375c7",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "At the Bottom of the Gravity Well",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.004 - At the Bottom of the Gravity Well.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8437b620d5d010de4b1e322489375c7"
+                }
+            ]
+        },
+        {
+            "file_id": "6d0b7e28361b7398bd2328f0210f8834",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "The Black Unicorn",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.005 - The Black Unicorn.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d0b7e28361b7398bd2328f0210f8834"
+                }
+            ]
+        },
+        {
+            "file_id": "4aaba616c1a3d559739ec799bb2f0bb0",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "Two Worlds, Two Tomorrows",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.006 - Two Worlds, Two Tomorrows.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4aaba616c1a3d559739ec799bb2f0bb0"
+                }
+            ]
+        },
+        {
+            "file_id": "5c35de4bff937d5863b9dc5cbf238061",
+            "tmdb_id": 45500,
+            "saga": "Mobile Suit Gundam Unicorn",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Azione", "Commedia", "Fantascienza"],
+            "title": "Over the Rainbow",
+            "fname": "/Anime & Cartoni/Mobile Suit Gundam Unicorn (2010) [a45500]/1.007 - Over the Rainbow.avi",
+            "year": "2004",
+            "plot": "",
+            "director": ["Soi Cheang", "Joe Ma"],
+            "actors": ["Charlene Choi", "Ronald Cheng", "Qin Hailu"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c35de4bff937d5863b9dc5cbf238061"
+                }
+            ]
+        }
     ]
 }

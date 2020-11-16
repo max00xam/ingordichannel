@@ -1,212 +1,361 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 42509,
-			"number": "1x1",
-			"saga": "Steins;Gate",
-			"title": "Prologo dell`inizio e della fine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/14f5d921df607cec431d42aabcd3bbfd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x2",
-			"saga": "Steins;Gate",
-			"title": "Paranoia da spostamenti temporali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ef515b65476e2b9086d17cf2efdac61"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x3",
-			"saga": "Steins;Gate",
-			"title": "Paranoia da realtà parallele",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c49e8321fe84ad7aae8ab689fccd7d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x4",
-			"saga": "Steins;Gate",
-			"title": "Rendez-vous di collisioni di impossibili teorie erranti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53abf6326997690ea5f00d4793577052"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x9",
-			"saga": "Steins;Gate",
-			"title": "Omeostasi di un`illusione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/400eacbe1432277507cb603a5abb0613"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x10",
-			"saga": "Steins;Gate",
-			"title": "Omeostasi di una vita insieme",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1d2d65ce4cf67eb7d0224019bc8de31"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x11",
-			"saga": "Steins;Gate",
-			"title": "Dogma della frontiera spazio-tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/314391ec02f964b0c75cb734246fd137"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x12",
-			"saga": "Steins;Gate",
-			"title": "Dogma del limite statico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e175af574dc93aef614f68f5b515c35"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x13",
-			"saga": "Steins;Gate",
-			"title": "Necrosi metafisica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/70dc5fa678704fd1fcc14f25980f496c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x14",
-			"saga": "Steins;Gate",
-			"title": "Necrosi fisica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6bdf6377292202c753857e5bb1a0637f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x15",
-			"saga": "Steins;Gate",
-			"title": "Necrosi di un anello morente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3f09e6f3dc6b1f1679b07a531be05a4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x16",
-			"saga": "Steins;Gate",
-			"title": "Necrosi dell`irreversibilità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b2765629d7abd14f5db865a3840442ed"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x17",
-			"saga": "Steins;Gate",
-			"title": "Complesso di un`immagine virtuale distorta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a97d84a0f135967624bb40792a39f5b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x19",
-			"saga": "Steins;Gate",
-			"title": "Apoptosi di una catena infinita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1ce77d3cc71d13ef6b68f881902b69d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x20",
-			"saga": "Steins;Gate",
-			"title": "Apoptosi del grido di rancore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/39c58dd91d2fa125ad299ccc56be9678"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x21",
-			"saga": "Steins;Gate",
-			"title": "Meltdown del principio di casualità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aa6be7a054790d72a3e13de014b57c9a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x23",
-			"saga": "Steins;Gate",
-			"title": "Lo Steins Gate di frontiera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8b47e884a36a6d088b24ba806e3b63cc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 42509,
-			"number": "1x24",
-			"saga": "Steins;Gate",
-			"title": "Prologo della fine e dell`inizio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/66c745cafb7558adc398a54bf52611ce"
-				}
-			]
-		},
-        {
+            "file_id": "2229a589cf7c89a5aea8be5108af78e6",
             "tmdb_id": 42509,
-            "number": "OAV 1",
             "saga": "Steins;Gate",
-            "title": "Poriomania Egoistica",
-            "plot": "La storia è ambientata pochi mesi dopo l'ultima scena della serie televisiva. In una giornata tranquilla ad Akihabara, Okabe e gli altri membri del laboratorio vengono invitati da Faris in America. Mayuri e gli altri stanno pianificando di riunirsi con Kurisu, che era tornato in un laboratorio americano. Pochi giorni dopo, lo scienziato pazzo di Okabe, Hououin Kyouma, arriva da solo all'aeroporto di Los Angeles, dove potrebbe fare il primo passo per guidare il mondo nel caos.",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Prologo dell`inizio e della fine",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.001 - Prologo dell`inizio e della fine.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/49b485e762169cf41d73a60d0bd07e3b"
+                    "url": "http://51.77.159.233:30299/2229a589cf7c89a5aea8be5108af78e6"
+                }
+            ]
+        },
+        {
+            "file_id": "8d5657f6a78984a0ce5d8751588eacfa",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Paranoia da spostamenti temporali",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.002 - Paranoia da spostamenti temporali.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d5657f6a78984a0ce5d8751588eacfa"
+                }
+            ]
+        },
+        {
+            "file_id": "f5b51d6a28c9b71148a6fed307cf4868",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Paranoia da realt\u00e0 parallele",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.003 - Paranoia da realt\u00e0 parallele.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f5b51d6a28c9b71148a6fed307cf4868"
+                }
+            ]
+        },
+        {
+            "file_id": "197620b880c8f95286f1091ed8f3c583",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Rendez-vous di collisioni di impossibili teorie erranti",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.004 - Rendez-vous di collisioni di impossibili teorie erranti.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/197620b880c8f95286f1091ed8f3c583"
+                }
+            ]
+        },
+        {
+            "file_id": "cf89cd7f251d0c50f479e9f3f4a0e236",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Omeostasi di un`illusione",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.009 - Omeostasi di un`illusione.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf89cd7f251d0c50f479e9f3f4a0e236"
+                }
+            ]
+        },
+        {
+            "file_id": "9e7ba00b3d64eaf2fb0ed9850c7d7438",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Omeostasi di una vita insieme",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.010 - Omeostasi di una vita insieme.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9e7ba00b3d64eaf2fb0ed9850c7d7438"
+                }
+            ]
+        },
+        {
+            "file_id": "75a6ffe08b2c3246661b3f1751768d2e",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Dogma della frontiera spazio-tempo",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.011 - Dogma della frontiera spazio-tempo.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/75a6ffe08b2c3246661b3f1751768d2e"
+                }
+            ]
+        },
+        {
+            "file_id": "3f36d90a619445546dc7dad267e74002",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Dogma del limite statico",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.012 - Dogma del limite statico.avi",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f36d90a619445546dc7dad267e74002"
+                }
+            ]
+        },
+        {
+            "file_id": "e560114a57b5c30ac577d92760fbe63f",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Necrosi metafisica",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.013 - Necrosi metafisica.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e560114a57b5c30ac577d92760fbe63f"
+                }
+            ]
+        },
+        {
+            "file_id": "4eda48eb4176acf72be0dee9f776d20f",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Necrosi fisica",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.014 - Necrosi fisica.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4eda48eb4176acf72be0dee9f776d20f"
+                }
+            ]
+        },
+        {
+            "file_id": "0beb51506a061e0f37d98340a04078b9",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Necrosi di un anello morente",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.015 - Necrosi di un anello morente.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0beb51506a061e0f37d98340a04078b9"
+                }
+            ]
+        },
+        {
+            "file_id": "43f07b299ff4572c211e9f82166358e8",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Necrosi dell`irreversibilit\u00e0",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.016 - Necrosi dell`irreversibilit\u00e0.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43f07b299ff4572c211e9f82166358e8"
+                }
+            ]
+        },
+        {
+            "file_id": "3441938220ea8a2eda7bced89e91b36f",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Complesso di un`immagine virtuale distorta",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.017 - Complesso di un`immagine virtuale distorta.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3441938220ea8a2eda7bced89e91b36f"
+                }
+            ]
+        },
+        {
+            "file_id": "07ae993f5c3d7725ffdb8205485e6614",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Apoptosi di una catena infinita",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.019 - Apoptosi di una catena infinita.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07ae993f5c3d7725ffdb8205485e6614"
+                }
+            ]
+        },
+        {
+            "file_id": "4fa113271b478e316ea21d9904ece97d",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Apoptosi del grido di rancore",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.020 - Apoptosi del grido di rancore.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4fa113271b478e316ea21d9904ece97d"
+                }
+            ]
+        },
+        {
+            "file_id": "19d31d4826b0552b2c00c38e9c9dbaa4",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Meltdown del principio di casualit\u00e0",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.021 - Meltdown del principio di casualit\u00e0.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19d31d4826b0552b2c00c38e9c9dbaa4"
+                }
+            ]
+        },
+        {
+            "file_id": "913841b144f4999eed612b2fc076f83a",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Lo Steins Gate di frontiera",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.023 - Lo Steins Gate di frontiera.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/913841b144f4999eed612b2fc076f83a"
+                }
+            ]
+        },
+        {
+            "file_id": "74d5c081f4eb67ec5164d94516300a57",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "Prologo della fine e dell`inizio",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/1.024 - Prologo della fine e dell`inizio.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74d5c081f4eb67ec5164d94516300a57"
+                }
+            ]
+        },
+        {
+            "file_id": "2f2c1b51fcb5592e938bb323f89eb2ea",
+            "tmdb_id": 42509,
+            "saga": "Steins;Gate",
+            "genre": ["Action & Adventure", "Animazione", "Mistero", "Sci-Fi & Fantasy", "Commedia", "Dramma"],
+            "title": "steins_gate_25_OAV",
+            "fname": "/Anime & Cartoni/Steins;Gate [a42509]/steins_gate_25_OAV.mp4",
+            "year": "2011",
+            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "director": ["Takuya Sato"],
+            "actors": ["Kana Hanazawa", "Mamoru Miyano", "Y\u016b Kobayashi", "Tomokazu Seki", "Haruko Momoi", "Yukari Tamura", "Asami Imai"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f2c1b51fcb5592e938bb323f89eb2ea"
                 }
             ]
         }

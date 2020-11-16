@@ -1,290 +1,472 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 35409,
-			"number": "1x1",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "L`eroe che viene dal sole",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52d530f260f054a127a95d004fe084f2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x2",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Waldaster il furfante",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f73e1c089e899ff000b675ebaebabe0c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x3",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il cacciatore ombra dello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/efae10b68ef3826957fde2eb408b4279"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x4",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "I cavalieri dello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e69987e2527a7afab5a295f8b38495c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x5",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Asteroidi all`attacco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/56151bc3705e07911b85f3350d437cb7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x6",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Le strane formiche lunari",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6b203c6f856d5a6a177c13564b3e190"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x7",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Nave spaziale K-432",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d9c8d9bdf9332a1d639171451806d65"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x8",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "L`erba carnivora",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/186cdf678af18eb33400ecce5d4f0413"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x9",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il samurai dello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9ab9c59d05263d92b7aba37631a370c7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x10",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il Pegas di Waldaster",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d60094187549d6b66667b5473be5396"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x11",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "L`astronave smarrita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2fb0906a3fb848a1ba2fdb3cb7b54dc3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x12",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "L`armata dei robot",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/97eddced57a3ca88f74c4e42aa26bc77"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x13",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Battaglia disperata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4150e34b2150b919b382946447cbe503"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x14",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Obiettivo distruggere l`umanità!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7db63c63935a9fcbd3586d36fba6c9b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x15",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il pianeta sconfinato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a0d7975c186bdf315090c63016d81b8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x16",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "I microuomini",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/61247338468e77257581888b43b1fbb1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x17",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "L`uccello spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/725ff957de73647bd5d73bcf8ac169be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x18",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Teklancia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d78d3e40e02c31d695407c8466ce3c2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x19",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il paese spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/073dc04630138dae3c28ce2ed6fd14e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x20",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il robot spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62e6808454e4d36b6fcea645261d2d76"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x21",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "La ragazza dell`avventura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62b35b12cd88142e902ac780f3d783cb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x22",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Andro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/919716a4a32a2e490b5c81bcc5393c26"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x23",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Tre colpi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d14b9129909b28bc89965d5e68e0aadd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x24",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Il meccanismo occulto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/92c42d65368bd1fb229ca4697af15625"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x25",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "La sfida del piccolo eroe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3db186b44186a08935ef8541d4adfa08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35409,
-			"number": "1x26",
-			"saga": "Tekkaman - Il Cavaliere Dello Spazio",
-			"title": "Tekkaman il vincitore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6989c0f51a534d137c72a4ee6d92f13"
-				}
-			]
-		}
+            "file_id": "f24cc6836588a95893b15d154aadc383",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`eroe che viene dal sole",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.001 - L`eroe che viene dal sole.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f24cc6836588a95893b15d154aadc383"
+                }
+            ]
+        },
+        {
+            "file_id": "498fbbc43ae01b0bc5c980a60f52316a",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Waldaster il furfante",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.002 - Waldaster il furfante.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/498fbbc43ae01b0bc5c980a60f52316a"
+                }
+            ]
+        },
+        {
+            "file_id": "44682508f3618cafd1231f0ca3d7a76d",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il cacciatore ombra dello spazio",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.003 - Il cacciatore ombra dello spazio.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/44682508f3618cafd1231f0ca3d7a76d"
+                }
+            ]
+        },
+        {
+            "file_id": "f3106b702c76a80e085393e5a40793c8",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "I cavalieri dello spazio",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.004 - I cavalieri dello spazio.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f3106b702c76a80e085393e5a40793c8"
+                }
+            ]
+        },
+        {
+            "file_id": "fcdaf5918675581f63358208b76fbd30",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Asteroidi all`attacco",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.005 - Asteroidi all`attacco.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fcdaf5918675581f63358208b76fbd30"
+                }
+            ]
+        },
+        {
+            "file_id": "10ec7b137f79b0b134e105d82b16fee5",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Le strane formiche lunari",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.006 - Le strane formiche lunari.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10ec7b137f79b0b134e105d82b16fee5"
+                }
+            ]
+        },
+        {
+            "file_id": "14e88ef7438e153e0c6da49e61786837",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Nave spaziale K-432",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.007 - Nave spaziale K-432.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14e88ef7438e153e0c6da49e61786837"
+                }
+            ]
+        },
+        {
+            "file_id": "597bbeff23788abb0655854a4876bc43",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`erba carnivora",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.008 - L`erba carnivora.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/597bbeff23788abb0655854a4876bc43"
+                }
+            ]
+        },
+        {
+            "file_id": "0ed29ff58ff8f62610c1cc6c979db003",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il samurai dello spazio",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.009 - Il samurai dello spazio.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0ed29ff58ff8f62610c1cc6c979db003"
+                }
+            ]
+        },
+        {
+            "file_id": "b5edc28b0296dea0ba491a2d0e00635d",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il Pegas di Waldaster",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.010 - Il Pegas di Waldaster.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5edc28b0296dea0ba491a2d0e00635d"
+                }
+            ]
+        },
+        {
+            "file_id": "11154884536877358f704a0c7d3cb19e",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`astronave smarrita",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.011 - L`astronave smarrita.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11154884536877358f704a0c7d3cb19e"
+                }
+            ]
+        },
+        {
+            "file_id": "4e31a94a13f3869dedbdf6e61a55be8c",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`armata dei robot",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.012 - L`armata dei robot.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4e31a94a13f3869dedbdf6e61a55be8c"
+                }
+            ]
+        },
+        {
+            "file_id": "d1f8016ef12a8a6994ea4f5a2e03ba9f",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Battaglia disperata",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.013 - Battaglia disperata.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1f8016ef12a8a6994ea4f5a2e03ba9f"
+                }
+            ]
+        },
+        {
+            "file_id": "c5616be45a9be88bbc0c7bad1b76c910",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Obiettivo distruggere l`umanit\u00e0!",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.014 - Obiettivo distruggere l`umanit\u00e0!.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c5616be45a9be88bbc0c7bad1b76c910"
+                }
+            ]
+        },
+        {
+            "file_id": "8c1c871d4469a9636599951f7a51495f",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il pianeta sconfinato",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.015 - Il pianeta sconfinato.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c1c871d4469a9636599951f7a51495f"
+                }
+            ]
+        },
+        {
+            "file_id": "fabc844ec6be0b24d5be9643acbaa4d0",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "I microuomini",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.016 - I microuomini.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fabc844ec6be0b24d5be9643acbaa4d0"
+                }
+            ]
+        },
+        {
+            "file_id": "91ee9e53e8b1e77fc82ce47a77547761",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "L`uccello spaziale",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.017 - L`uccello spaziale.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91ee9e53e8b1e77fc82ce47a77547761"
+                }
+            ]
+        },
+        {
+            "file_id": "2396cbe2c147ead6d4dd03ec838b1d53",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Teklancia",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.018 - Teklancia.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2396cbe2c147ead6d4dd03ec838b1d53"
+                }
+            ]
+        },
+        {
+            "file_id": "36b0d318c46ece2659b8ddef475b883b",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il paese spaziale",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.019 - Il paese spaziale.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/36b0d318c46ece2659b8ddef475b883b"
+                }
+            ]
+        },
+        {
+            "file_id": "452a21e8dda4b3fe14595a2db6d16666",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il robot spaziale",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.020 - Il robot spaziale.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/452a21e8dda4b3fe14595a2db6d16666"
+                }
+            ]
+        },
+        {
+            "file_id": "c02fa7d8960dfb6988ae024d699f29e3",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La ragazza dell`avventura",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.021 - La ragazza dell`avventura.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c02fa7d8960dfb6988ae024d699f29e3"
+                }
+            ]
+        },
+        {
+            "file_id": "ee40b31af450245b1f67050b30fbd590",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Andro",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.022 - Andro.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ee40b31af450245b1f67050b30fbd590"
+                }
+            ]
+        },
+        {
+            "file_id": "60c8c83fbb05d9112521262db80c8ade",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Tre colpi",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.023 - Tre colpi.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/60c8c83fbb05d9112521262db80c8ade"
+                }
+            ]
+        },
+        {
+            "file_id": "0366081d830d8d583404884a568d8462",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Il meccanismo occulto",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.024 - Il meccanismo occulto.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0366081d830d8d583404884a568d8462"
+                }
+            ]
+        },
+        {
+            "file_id": "9b8c29a25528fce00d3e0443fdd5afa0",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "La sfida del piccolo eroe",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.025 - La sfida del piccolo eroe.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9b8c29a25528fce00d3e0443fdd5afa0"
+                }
+            ]
+        },
+        {
+            "file_id": "6a2344629287b4ac94e82d696cfb2b5d",
+            "tmdb_id": 35409,
+            "saga": "Tekkaman - Il Cavaliere Dello Spazio",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Action & Adventure"],
+            "title": "Tekkaman il vincitore",
+            "fname": "/Anime & Cartoni/Tekkaman - Il Cavaliere Dello Spazio [a35409]/1.026 - Tekkaman il vincitore.mkv",
+            "year": "1975",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "actors": ["Kazue Komiya", "Miyuki Ueda", "Katsuji Mori", "Kenji Utsumi", "Yasuo Yamada", "Junpei Takiguchi", "Kan Tokumaru", "Takeshi Kuwabara", "Shinji Nakae"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a2344629287b4ac94e82d696cfb2b5d"
+                }
+            ]
+        }
     ]
 }

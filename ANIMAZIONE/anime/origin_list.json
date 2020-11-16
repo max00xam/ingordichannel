@@ -1,70 +1,118 @@
 {
     "episodes_list": [
       {
+        "file_id": "c286662a274101d34298615066a5e83e",
         "tmdb_id": 74549,
-        "number": "0x1",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 1,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 1 - Casval dagli occhi blu",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.001 - OVA 1 - Casval dagli occhi blu.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/0de33006bec09c747f0d25cb10d17dfc"
-          }
+            {
+                "url": "http://51.77.159.233:30299/c286662a274101d34298615066a5e83e"
+            }
         ]
-      },
-      {
+    },
+    {
+        "file_id": "b9d1140d9c20dd6dd19cbf95f43354ee",
         "tmdb_id": 74549,
-        "number": "0x2",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 2,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 2 - Il dispiacere di Artesia",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.002 - OVA 2 - Il dispiacere di Artesia.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/d152504eefa2287fde00822f2faf531e"
-          }
+            {
+                "url": "http://51.77.159.233:30299/b9d1140d9c20dd6dd19cbf95f43354ee"
+            }
         ]
-      },
-      {
+    },
+    {
+        "file_id": "f31e01ee9b412b8f3af522dc386ae225",
         "tmdb_id": 74549,
-        "number": "0x3",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 3,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 3 - L`alba della ribellione",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.003 - OVA 3 - L`alba della ribellione.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/6e55a5ff8a3f54815fef1dd02fb08fde"
-          }
+            {
+                "url": "http://51.77.159.233:30299/f31e01ee9b412b8f3af522dc386ae225"
+            }
         ]
-      },
-      {
+    },
+    {
+        "file_id": "eacd2d08462bb623b308d5f27c7e32eb",
         "tmdb_id": 74549,
-        "number": "0x4",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 4,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 4 - La vigilia del destino",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.004 - OVA 4 - La vigilia del destino.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/445ae92c17cb16dda5beb2f5db8040f4"
-          }
+            {
+                "url": "http://51.77.159.233:30299/eacd2d08462bb623b308d5f27c7e32eb"
+            }
         ]
-      },
-      {
+    },
+    {
+        "file_id": "347f84a96b229e16683eaea9ed2f9395",
         "tmdb_id": 74549,
-        "number": "0x5",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 5,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 5 - La battaglia di Loum",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.005 - OVA 5 - La battaglia di Loum.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/4ab5fee51cef7098502906a70e72abf1"
-          }
+            {
+                "url": "http://51.77.159.233:30299/347f84a96b229e16683eaea9ed2f9395"
+            }
         ]
-      },
-      {
+    },
+    {
+        "file_id": "6bb18b763dcb978bee82589045d389b9",
         "tmdb_id": 74549,
-        "number": "0x6",
         "saga": "Mobile Suit Gundam - The Origin",
+        "season": "OAV",
+        "episode": 6,
+        "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure", "Dramma"],
         "title": "OVA 6 - La nascita della Cometa Rossa",
+        "fname": "/Anime & Cartoni/Mobile Suit Gundam - The Origin (2015) [a74549]/0.006 - OVA 6 - La nascita della Cometa Rossa.mkv",
+        "year": "2015",
+        "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+        "director": ["Yoshikazu Yasuhiko", "Takashi Imanishi"],
+        "actors": ["Mayumi Tanaka", "Megumi Han", "Jin Urayama", "Banjou Ginga", "Shinshu Fuji", "Akeno Watanabe", "Eizou Tsuda", "Ayumi Tsunematsu", "Miyuki Sawashiro", "Chafurin", "Kazuya Ichij\u014d", "Toshihide Tsuchiya", "Ayumi Fujimura", "T\u014dru Furuya", "Kenta Miyake", "Shuuichi Ikeda"],
         "links": [
-          {
-            "url": "http://51.77.159.233:30299/36426a72bcdd8a269e3edb37ed64c28b"
-          }
+            {
+                "url": "http://51.77.159.233:30299/6bb18b763dcb978bee82589045d389b9"
+            }
         ]
-      }
-    ]
+    }
+  ]
 }

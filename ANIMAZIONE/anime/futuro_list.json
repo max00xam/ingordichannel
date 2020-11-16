@@ -1,268 +1,436 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 4745,
-			"number": "1x1",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/01.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/466e6cc5d7e3adc8d2bc4ef37eeb4923"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x2",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/02.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b35809608225f91b6b199c3ea36e60bf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x3",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/03.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ec0448491d2768f68359af80ca6f320"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x4",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/04.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d359bb9b192a9ff19dadc28d65a33335"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x5",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/05.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03533e285982068f79742be59895af4d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x6",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/06.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d56c98de62d249cb598a94132a0dfad"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x7",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/07.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3672a0ab9dda9ec1642fda4bf8fdbc91"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x8",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/08.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8027512cc33375de645bb814c93c0642"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x9",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/09.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/64573b325f5c955f51c4767fd900049c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x10",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/10.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f916179c89092c125a24cbf13ba76782"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x11",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/11.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/29630481d15587c9f5c196ad80f0b171"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x12",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/12.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b5a4116a789c5ffe44d3a267b7cc3d19"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x13",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/13.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/661102fc90d7184415a7e6196257cf2b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x14",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/14.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0fb610915a9cfee9d5621f7ccba61228"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x15",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/15.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8ea913e3539d7432095a0e85105d151"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x16",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/16.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c26d31b8768375d43eb06d79c0dd332f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x17",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/17.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ce958842910a78a0694bb9d5a6d21088"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x18",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/18.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bdc284ff55575cae437526d4e43c54ec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x19",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/19.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2d6ff04ffcf8feb5b752f1745a6eeb2c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x20",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/20.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ac46d70fe702924a80aafde13553f24c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x21",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/21.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/594a5b2d980d046547e0e8accbf88396"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x22",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/22.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8098f6247b87cb3cfc0de19766e00298"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x23",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/23.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/139c5af6b25b66707633beb59c6a54c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 4745,
-			"number": "1x24",
-			"saga": "Ritorno al Futuro",
-			"title": "Anime & Cartoni/Ritorno al Futuro [a4745]/24.Ritorno.Al.Futuro.@CartoonAnimeITA.mkv",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8aa717aa165fe3118bce93715e10a821"
-				}
-			]
-		}
+            "file_id": "d0022d0e56f5a3edb8ddc74b4b6aec39",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Fratelli",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.001 - Fratelli.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d0022d0e56f5a3edb8ddc74b4b6aec39"
+                }
+            ]
+        },
+        {
+            "file_id": "98beb86a813e16957e9ed0b37a8ba300",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Le vacanze",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.002 - Le vacanze.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/98beb86a813e16957e9ed0b37a8ba300"
+                }
+            ]
+        },
+        {
+            "file_id": "f4bae17e4f4d1c4d1e002adcb51d07dc",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "UN salto nel passato",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.003 - UN salto nel passato.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4bae17e4f4d1c4d1e002adcb51d07dc"
+                }
+            ]
+        },
+        {
+            "file_id": "b47e6e719466c711bce5b53e8a88498f",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "L`incantesimo",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.004 - L`incantesimo.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b47e6e719466c711bce5b53e8a88498f"
+                }
+            ]
+        },
+        {
+            "file_id": "e3eedd4a05661d84afd2e1372f36e2b6",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Gladiatori romani",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.005 - Gladiatori romani.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e3eedd4a05661d84afd2e1372f36e2b6"
+                }
+            ]
+        },
+        {
+            "file_id": "68dafd93ea30dbb29b6e82e8c4bda5c1",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Va a quel paese",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.006 - Va a quel paese.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/68dafd93ea30dbb29b6e82e8c4bda5c1"
+                }
+            ]
+        },
+        {
+            "file_id": "cd2909f5f440f297064c484f52e3537d",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "L`avventura di Einstein",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.007 - L`avventura di Einstein.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd2909f5f440f297064c484f52e3537d"
+                }
+            ]
+        },
+        {
+            "file_id": "377af91958ccef1906706ad0f4c4c804",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Viaggio nella leggenda",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.008 - Viaggio nella leggenda.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/377af91958ccef1906706ad0f4c4c804"
+                }
+            ]
+        },
+        {
+            "file_id": "750de167f956963adf5cd6ab7d2a15cf",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "L`astronave ad energia solare",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.009 - L`astronave ad energia solare.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/750de167f956963adf5cd6ab7d2a15cf"
+                }
+            ]
+        },
+        {
+            "file_id": "2a028ae453a8a3210f5d4cf60ccbd231",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Cercando il Natale",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.010 - Cercando il Natale.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a028ae453a8a3210f5d4cf60ccbd231"
+                }
+            ]
+        },
+        {
+            "file_id": "49a506d9f8ca3498625a7d0d2b42b72f",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "A pesca",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.011 - A pesca.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/49a506d9f8ca3498625a7d0d2b42b72f"
+                }
+            ]
+        },
+        {
+            "file_id": "d8ae9639566d2b933e029784db165e02",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "In pensione",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.012 - In pensione.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d8ae9639566d2b933e029784db165e02"
+                }
+            ]
+        },
+        {
+            "file_id": "6459302416a6577388e39ac5c275a99e",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "I genitori di Clara",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/1.013 - I genitori di Clara.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6459302416a6577388e39ac5c275a99e"
+                }
+            ]
+        },
+        {
+            "file_id": "9507d73d2d32ff0d162e5e4063ef9e76",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Mac the Black",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.001 - Mac the Black.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9507d73d2d32ff0d162e5e4063ef9e76"
+                }
+            ]
+        },
+        {
+            "file_id": "bf8027cbd5489212287e97c0f155e1d3",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Doc Brown contro Mr",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.002 - Doc Brown contro Mr. Wisdom.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bf8027cbd5489212287e97c0f155e1d3"
+                }
+            ]
+        },
+        {
+            "file_id": "76e2dca21659c818b7c3200c99f55201",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Un atto legale poco legale",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.003 - Un atto legale poco legale.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/76e2dca21659c818b7c3200c99f55201"
+                }
+            ]
+        },
+        {
+            "file_id": "03ee7268e067048fddc7a06330a6b347",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Il soldato semplice Marty McFly",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.004 - Il soldato semplice Marty McFly.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03ee7268e067048fddc7a06330a6b347"
+                }
+            ]
+        },
+        {
+            "file_id": "1d5ffec0deb3b8d0215a1966f996bb7e",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Il nuovo amico di Verne",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.005 - Il nuovo amico di Verne.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d5ffec0deb3b8d0215a1966f996bb7e"
+                }
+            ]
+        },
+        {
+            "file_id": "7a5d099a5ba0d974843060d14848b5e1",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Bravelord e il Deomone Monstrux",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.006 - Bravelord e il Deomone Monstrux.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a5d099a5ba0d974843060d14848b5e1"
+                }
+            ]
+        },
+        {
+            "file_id": "3ae6ae2c3c9f83bb38edd2a5bde4f0b3",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "L`albero dei soldi",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.007 - L`albero dei soldi.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ae6ae2c3c9f83bb38edd2a5bde4f0b3"
+                }
+            ]
+        },
+        {
+            "file_id": "2ed5219a1ae3e560687920c5e6bf70b9",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Verne vuole cambiare nome",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.008 - Verne vuole cambiare nome.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ed5219a1ae3e560687920c5e6bf70b9"
+                }
+            ]
+        },
+        {
+            "file_id": "89c9b5a80029f4dc2fecc66abf268c97",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Black-out a Hill Valley",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.009 - Black-out a Hill Valley.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/89c9b5a80029f4dc2fecc66abf268c97"
+                }
+            ]
+        },
+        {
+            "file_id": "db5921181f353ebadf477bcf5291890c",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Papi \u00e8 un alieno",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.010 - Papi \u00e8 un alieno.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/db5921181f353ebadf477bcf5291890c"
+                }
+            ]
+        },
+        {
+            "file_id": "fce2f5e8416cf061a2fc5acd2ddd001c",
+            "tmdb_id": 4745,
+            "saga": "Ritorno al Futuro",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "title": "Super Doc",
+            "fname": "/Anime & Cartoni/Ritorno al Futuro (1991) [a4745]/2.011 - Super Doc.mkv",
+            "year": "1991",
+            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
+            "actors": ["Mary Steenburgen", "David Kaufman", "Dan Castellaneta", "Josh Keaton", "Danny Mann", "Bill Nye", "Christopher Lloyd", "Cathy Cavadini"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fce2f5e8416cf061a2fc5acd2ddd001c"
+                }
+            ]
+        }
     ]
 }

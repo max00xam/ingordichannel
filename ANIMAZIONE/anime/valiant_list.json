@@ -1,719 +1,1174 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 529,
-			"number": "1x1",
-			"saga": "Prince Valiant",
-			"title": "The Dream",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9559db45205400885150d838fdd27a48"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x2",
-			"saga": "Prince Valiant",
-			"title": "The Journey",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e47ce321b085788ad63bd663a20a7912"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x3",
-			"saga": "Prince Valiant",
-			"title": "The Blacksmith`s Daughter",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c267d5d28866ecbc0b90a55e411b8026"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x4",
-			"saga": "Prince Valiant",
-			"title": "The Kidnapping",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43c3cbc893abcdea3ffc8f0d98ebdaf5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x5",
-			"saga": "Prince Valiant",
-			"title": "The Trust",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/234031833b6a809d194c3da1cdfa50a0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x6",
-			"saga": "Prince Valiant",
-			"title": "The Finding of Camelot",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/721e929182255ec6249020a21b600a96"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x7",
-			"saga": "Prince Valiant",
-			"title": "The Gift",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f11ae213058abe6694c301132b800b5e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x8",
-			"saga": "Prince Valiant",
-			"title": "The Singing Sword",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/73a442cc95bf574d0fdf48ea11ea928f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x9",
-			"saga": "Prince Valiant",
-			"title": "The Trust Betrayed",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8814dee894ee241cd47126db8856dee5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x10",
-			"saga": "Prince Valiant",
-			"title": "The Secret of Perilous Garde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e7659cf5d96bf348feb982cc545a6ebd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x11",
-			"saga": "Prince Valiant",
-			"title": "The Return",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a4b170b6a7bed4ec3e750ac263b493b7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x12",
-			"saga": "Prince Valiant",
-			"title": "The Visitor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/487dbe0499d9fe2a67641a355a65ee96"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x13",
-			"saga": "Prince Valiant",
-			"title": "The Awakening",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7953d3d612d40cbfa85c759603c52fd4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x14",
-			"saga": "Prince Valiant",
-			"title": "The Guardian",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3b3cac3c2c6b90d5a664b314cbdb7924"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x15",
-			"saga": "Prince Valiant",
-			"title": "The Trap",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c647fd578eb0268047c68b86258e74a9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x16",
-			"saga": "Prince Valiant",
-			"title": "The Turn of the Wheel",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a651291aca214450dc7343ddb8b30b36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x17",
-			"saga": "Prince Valiant",
-			"title": "The Competitor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b13ec9e87ad97b5bdd83a587f5f1f05d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x18",
-			"saga": "Prince Valiant",
-			"title": "The Road Back",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6c6cd1f06faf1c2a138defb3c36d0c05"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x19",
-			"saga": "Prince Valiant",
-			"title": "The Fist of Iron",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43d27b81513bea560026eb71f5613246"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x20",
-			"saga": "Prince Valiant",
-			"title": "The Waif",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dea618467051283343b99db39b7f3267"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x21",
-			"saga": "Prince Valiant",
-			"title": "The Dawn of Darkness",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/17cc4920fa8bec48937a08389b600881"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x22",
-			"saga": "Prince Valiant",
-			"title": "The Battle of Greystone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/444853027a5686c699a7de30d42cb7d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x23",
-			"saga": "Prince Valiant",
-			"title": "The Reunion",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e3c08ba9175bc6149e00ab30fb19707a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x24",
-			"saga": "Prince Valiant",
-			"title": "The Choice",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/acd332aaec2a6fc6bd381283fc4a4f39"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x25",
-			"saga": "Prince Valiant",
-			"title": "The Triumph",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7d40c5e0aead32e8a8b45b8978f061f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "1x26",
-			"saga": "Prince Valiant",
-			"title": "The Dream Come True",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9f805d14b8ed203e53207741d8dda3fe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x1",
-			"saga": "Prince Valiant",
-			"title": "The Lost",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/97feb7b8d76ed850567df26ea5c1440b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x2",
-			"saga": "Prince Valiant",
-			"title": "The Beggar",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/21b57f2941e96c098dac16f49b8042f8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x3",
-			"saga": "Prince Valiant",
-			"title": "The Black Rose",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0307e2b4ba7a7c34a756007a962991c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x4",
-			"saga": "Prince Valiant",
-			"title": "The Deception",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8765a512f27da0c7e458a77266f59061"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x5",
-			"saga": "Prince Valiant",
-			"title": "The Cursed",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/766ab68d21e8b07047e04ca6c81ad379"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x6",
-			"saga": "Prince Valiant",
-			"title": "The Flute",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f242aadd9e971bc439418116bc4ae6bb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x7",
-			"saga": "Prince Valiant",
-			"title": "The Color of Honor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d5852975f300a1f3933ee30ef43ad32"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x8",
-			"saga": "Prince Valiant",
-			"title": "The Traitor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3922df60294e42f76db60dcf0054a65b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x9",
-			"saga": "Prince Valiant",
-			"title": "The Tree",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5546f77270b185258075cf9fc59922bc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x10",
-			"saga": "Prince Valiant",
-			"title": "The Crossbow",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ce75c2362fff22af58df790eaf3bf7e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x11",
-			"saga": "Prince Valiant",
-			"title": "The Lesson Twice Learned",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0262eeec713eedaae32d79b4f6e7057d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x12",
-			"saga": "Prince Valiant",
-			"title": "The Princess Aleta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ce096f613c870990f612e94e8aa9d3ca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x13",
-			"saga": "Prince Valiant",
-			"title": "The Voyage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e9210fbbcb8c05057ba93ef53874f7bf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x14",
-			"saga": "Prince Valiant",
-			"title": "Mordred`s Return",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/36244af890a3403632d8e3d64ac43dfe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x15",
-			"saga": "Prince Valiant",
-			"title": "The Rescue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a4db38e992c608bd3466bd7b6c97d134"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x16",
-			"saga": "Prince Valiant",
-			"title": "The Parting",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5981a381086518eede602302829b5ed0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x17",
-			"saga": "Prince Valiant",
-			"title": "Peace on Earth",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/900a49aa8856c59da3b707b0050d1e7b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x18",
-			"saga": "Prince Valiant",
-			"title": "Empty Justice",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3fca956c18210e0a480828fac9d172d3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x19",
-			"saga": "Prince Valiant",
-			"title": "The Rival",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/acfd58b7e7cf0af1151789ac9f79ee7b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x20",
-			"saga": "Prince Valiant",
-			"title": "The Walls of Tyranny",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b52cea513ac8cb2ed271fd65c238bfba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x21",
-			"saga": "Prince Valiant",
-			"title": "The Jubilee",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/04a7b7acdd36680466fb6bf9d83494d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x22",
-			"saga": "Prince Valiant",
-			"title": "The Treaty",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/81de888941d6c5efaad13cb4b5ea535c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x23",
-			"saga": "Prince Valiant",
-			"title": "The Blackest Poison",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b57c03d2ff3c774c38a137dc6c3ce7f3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x24",
-			"saga": "Prince Valiant",
-			"title": "The Hero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a10742bc875241250e256b113592a959"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x25",
-			"saga": "Prince Valiant",
-			"title": "The Vision",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e17c6328f0a8f377ea4472b38af71f5d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x26",
-			"saga": "Prince Valiant",
-			"title": "The Shadows of Destiny",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11694a38c284f4c671f129bcd9643a85"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x27",
-			"saga": "Prince Valiant",
-			"title": "The Eyes of the Serpent",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d99f1b5353a97cedc65bfe011df5c0de"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x28",
-			"saga": "Prince Valiant",
-			"title": "The Spirit of Valor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8d277403f71937db49764e58b953a1d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x29",
-			"saga": "Prince Valiant",
-			"title": "The Aurora",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11f1a587025c5f79cfb297df31675257"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x30",
-			"saga": "Prince Valiant",
-			"title": "The Burning Bridge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ad692d0aca73c47d606082356bff157c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x31",
-			"saga": "Prince Valiant",
-			"title": "The Sage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6c21dd6de605dfdfa6da0160cc7fa956"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x32",
-			"saga": "Prince Valiant",
-			"title": "The Song of Valor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de0503a5112b674687fd140c1c6def7e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x33",
-			"saga": "Prince Valiant",
-			"title": "The Ring of Truth",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/00e9508eb81fe53f0fc4c76d0917b322"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x34",
-			"saga": "Prince Valiant",
-			"title": "A Light in the Dark",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/016a33b0c7aea2d5e9e1bbb72f85cf71"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x35",
-			"saga": "Prince Valiant",
-			"title": "The Ghost",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c32c4e761bdb857b54af76759ab3258"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x36",
-			"saga": "Prince Valiant",
-			"title": "A New Dawn",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8cd5c025600878ca003ac3ff0d993828"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x37",
-			"saga": "Prince Valiant",
-			"title": "The Death of Arthur",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/92af139ea190a41037ed1bb1eb8b4d40"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x38",
-			"saga": "Prince Valiant",
-			"title": "The Gathering Storm",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a92017df33333c9c742290e39dcea555"
-				}
-			]
-		},
-		{
-			"tmdb_id": 529,
-			"number": "2x39",
-			"saga": "Prince Valiant",
-			"title": "The Hinge of Fate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c6a99a4fb87cf94384fed3077bccddf"
-				}
-			]
-		} 
+            "file_id": "653a52cc810c73e02125b8804cfe544b",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Dream",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.001 - The Dream.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/653a52cc810c73e02125b8804cfe544b"
+                }
+            ]
+        },
+        {
+            "file_id": "c0feb54e86a14b8018092b415212c54c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Journey",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.002 - The Journey.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c0feb54e86a14b8018092b415212c54c"
+                }
+            ]
+        },
+        {
+            "file_id": "954f17e98abb957b7dbd19eab6146514",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Blacksmith`s Daughter",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.003 - The Blacksmith`s Daughter.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/954f17e98abb957b7dbd19eab6146514"
+                }
+            ]
+        },
+        {
+            "file_id": "fdafefbcfff537afe1e3267deef9e436",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Kidnapping",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.004 - The Kidnapping.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fdafefbcfff537afe1e3267deef9e436"
+                }
+            ]
+        },
+        {
+            "file_id": "5133b93171b3950a873a3254f48b37b4",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Trust",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.005 - The Trust.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5133b93171b3950a873a3254f48b37b4"
+                }
+            ]
+        },
+        {
+            "file_id": "742947cb30f4850fa1e9f5d5d1de6bd3",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Finding of Camelot",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.006 - The Finding of Camelot.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/742947cb30f4850fa1e9f5d5d1de6bd3"
+                }
+            ]
+        },
+        {
+            "file_id": "8cc5ae3559e6818f0d912bac93c77e72",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Gift",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.007 - The Gift.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8cc5ae3559e6818f0d912bac93c77e72"
+                }
+            ]
+        },
+        {
+            "file_id": "8cce65ffb0a78f6e55da627459e6f29a",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Singing Sword",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.008 - The Singing Sword.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8cce65ffb0a78f6e55da627459e6f29a"
+                }
+            ]
+        },
+        {
+            "file_id": "b89575f0473fba54b6f9d18a1fd0f97c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Trust Betrayed",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.009 - The Trust Betrayed.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b89575f0473fba54b6f9d18a1fd0f97c"
+                }
+            ]
+        },
+        {
+            "file_id": "f45d016102d3b09fcb2c6d3ddf376c9c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Secret of Perilous Garde",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.010 - The Secret of Perilous Garde.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f45d016102d3b09fcb2c6d3ddf376c9c"
+                }
+            ]
+        },
+        {
+            "file_id": "57c5433b0a9ce23e8c66a4b9f37dfda6",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Return",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.011 - The Return.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57c5433b0a9ce23e8c66a4b9f37dfda6"
+                }
+            ]
+        },
+        {
+            "file_id": "b29ae43fc299cf904f502c0eb01b7b9b",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Visitor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.012 - The Visitor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b29ae43fc299cf904f502c0eb01b7b9b"
+                }
+            ]
+        },
+        {
+            "file_id": "d2cbfe4b72375eeda5e60602efa0c3c4",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Awakening",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.013 - The Awakening.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d2cbfe4b72375eeda5e60602efa0c3c4"
+                }
+            ]
+        },
+        {
+            "file_id": "acc2ead12d0cd14d89c363cbd1844839",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Guardian",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.014 - The Guardian.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/acc2ead12d0cd14d89c363cbd1844839"
+                }
+            ]
+        },
+        {
+            "file_id": "1b9766879ec707a2e6967c0bcea8575f",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Trap",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.015 - The Trap.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b9766879ec707a2e6967c0bcea8575f"
+                }
+            ]
+        },
+        {
+            "file_id": "c46f245bdafb1ca06b94e8471539fbb8",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Turn of the Wheel",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.016 - The Turn of the Wheel.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c46f245bdafb1ca06b94e8471539fbb8"
+                }
+            ]
+        },
+        {
+            "file_id": "52ade5654adab7bfbb2f1d1a3d7958df",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Competitor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.017 - The Competitor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52ade5654adab7bfbb2f1d1a3d7958df"
+                }
+            ]
+        },
+        {
+            "file_id": "088484bd01dbf152e5feda80e3bd856a",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Road Back",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.018 - The Road Back.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/088484bd01dbf152e5feda80e3bd856a"
+                }
+            ]
+        },
+        {
+            "file_id": "da73e6a97f4375fee89256c8069107e7",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Fist of Iron",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.019 - The Fist of Iron.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da73e6a97f4375fee89256c8069107e7"
+                }
+            ]
+        },
+        {
+            "file_id": "808747ffa065fa8dfbc729c6aac68e5e",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Waif",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.020 - The Waif.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/808747ffa065fa8dfbc729c6aac68e5e"
+                }
+            ]
+        },
+        {
+            "file_id": "5a92b1fee8e7cb244d3481db3487dbe9",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Dawn of Darkness",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.021 - The Dawn of Darkness.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a92b1fee8e7cb244d3481db3487dbe9"
+                }
+            ]
+        },
+        {
+            "file_id": "56a1f9045c6d5b1e055384b5a1326249",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Battle of Greystone",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.022 - The Battle of Greystone.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/56a1f9045c6d5b1e055384b5a1326249"
+                }
+            ]
+        },
+        {
+            "file_id": "e7f2bd760c68c7d15e8bacbd038cc54e",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Reunion",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.023 - The Reunion.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e7f2bd760c68c7d15e8bacbd038cc54e"
+                }
+            ]
+        },
+        {
+            "file_id": "eeddde0f8bf1010c2c19db1672461d26",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Choice",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.024 - The Choice.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eeddde0f8bf1010c2c19db1672461d26"
+                }
+            ]
+        },
+        {
+            "file_id": "625dd131b236b8d2114b924beef92313",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Triumph",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.025 - The Triumph.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/625dd131b236b8d2114b924beef92313"
+                }
+            ]
+        },
+        {
+            "file_id": "0558fe04c8445bae38e1ec5a6f42abdf",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Dream Come True",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/1.026 - The Dream Come True.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0558fe04c8445bae38e1ec5a6f42abdf"
+                }
+            ]
+        },
+        {
+            "file_id": "ab91d4817d81fa3d61f1af9408bae092",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Lost",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.001 - The Lost.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab91d4817d81fa3d61f1af9408bae092"
+                }
+            ]
+        },
+        {
+            "file_id": "0fea133ae600ecbd6d691d6fd132dd29",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Beggar",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.002 - The Beggar.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0fea133ae600ecbd6d691d6fd132dd29"
+                }
+            ]
+        },
+        {
+            "file_id": "ea7cd7e25bada061f3f434ded217613e",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Black Rose",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.003 - The Black Rose.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea7cd7e25bada061f3f434ded217613e"
+                }
+            ]
+        },
+        {
+            "file_id": "56f85730b3f16d435e38adb5824bae72",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Deception",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.004 - The Deception.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/56f85730b3f16d435e38adb5824bae72"
+                }
+            ]
+        },
+        {
+            "file_id": "ec142c27d5155bf3ebb3c80c0f812ca9",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Cursed",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.005 - The Cursed.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec142c27d5155bf3ebb3c80c0f812ca9"
+                }
+            ]
+        },
+        {
+            "file_id": "f0c35add24d54ac114ee505524816a19",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Flute",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.006 - The Flute.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0c35add24d54ac114ee505524816a19"
+                }
+            ]
+        },
+        {
+            "file_id": "ef0cc55a33d1e528f3c57a52f95648d2",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Color of Honor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.007 - The Color of Honor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef0cc55a33d1e528f3c57a52f95648d2"
+                }
+            ]
+        },
+        {
+            "file_id": "c792fc2bfc56e001841722c806a11b93",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Traitor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.008 - The Traitor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c792fc2bfc56e001841722c806a11b93"
+                }
+            ]
+        },
+        {
+            "file_id": "943912f90a72406f7490a017b9f84890",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Tree",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.009 - The Tree.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/943912f90a72406f7490a017b9f84890"
+                }
+            ]
+        },
+        {
+            "file_id": "6a36206b747259d35dfe777c1a082ebf",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Crossbow",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.010 - The Crossbow.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a36206b747259d35dfe777c1a082ebf"
+                }
+            ]
+        },
+        {
+            "file_id": "9973323f18381d8fb569b27b88e7e34c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Lesson Twice Learned",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.011 - The Lesson Twice Learned.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9973323f18381d8fb569b27b88e7e34c"
+                }
+            ]
+        },
+        {
+            "file_id": "5ab5b9224c2d44b116113c6535a927d7",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Princess Aleta",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.012 - The Princess Aleta.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ab5b9224c2d44b116113c6535a927d7"
+                }
+            ]
+        },
+        {
+            "file_id": "fddf4b23f5d71beec003b27893cc8d83",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Voyage",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.013 - The Voyage.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fddf4b23f5d71beec003b27893cc8d83"
+                }
+            ]
+        },
+        {
+            "file_id": "a61f972a73550e226e64401020dfcf04",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Mordred`s Return",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.014 - Mordred`s Return.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a61f972a73550e226e64401020dfcf04"
+                }
+            ]
+        },
+        {
+            "file_id": "14e23cd93fa08dd4bd27063500f436b7",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Rescue",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.015 - The Rescue.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14e23cd93fa08dd4bd27063500f436b7"
+                }
+            ]
+        },
+        {
+            "file_id": "10d1e4afc27646a23bdd0d0768e0c1c8",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Parting",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.016 - The Parting.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10d1e4afc27646a23bdd0d0768e0c1c8"
+                }
+            ]
+        },
+        {
+            "file_id": "3c9b3eed740adb342f06ee62dccd04d2",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Peace on Earth",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.017 - Peace on Earth.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3c9b3eed740adb342f06ee62dccd04d2"
+                }
+            ]
+        },
+        {
+            "file_id": "b05bcde2e9de71614ac2f6c9abb352d6",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Empty Justice",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.018 - Empty Justice.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b05bcde2e9de71614ac2f6c9abb352d6"
+                }
+            ]
+        },
+        {
+            "file_id": "76d75902b1e9e01b465f396e530137c2",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Rival",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.019 - The Rival.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/76d75902b1e9e01b465f396e530137c2"
+                }
+            ]
+        },
+        {
+            "file_id": "729b78e13855dff998eacb1ea8a214ba",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Walls of Tyranny",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.020 - The Walls of Tyranny.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/729b78e13855dff998eacb1ea8a214ba"
+                }
+            ]
+        },
+        {
+            "file_id": "a6e4ec2aba193d2a9534ec4b901b5813",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Jubilee",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.021 - The Jubilee.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6e4ec2aba193d2a9534ec4b901b5813"
+                }
+            ]
+        },
+        {
+            "file_id": "8d655550581422d436722f8a7b68ba6a",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Treaty",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.022 - The Treaty.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d655550581422d436722f8a7b68ba6a"
+                }
+            ]
+        },
+        {
+            "file_id": "4c3cd4779bd5152056e788b4c8f8c96a",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Blackest Poison",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.023 - The Blackest Poison.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c3cd4779bd5152056e788b4c8f8c96a"
+                }
+            ]
+        },
+        {
+            "file_id": "e6ada2b8bf3edaa6780d60765c32651c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Hero",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.024 - The Hero.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e6ada2b8bf3edaa6780d60765c32651c"
+                }
+            ]
+        },
+        {
+            "file_id": "8689482eba176869006ecdadbace5174",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Vision",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.025 - The Vision.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8689482eba176869006ecdadbace5174"
+                }
+            ]
+        },
+        {
+            "file_id": "c038ae830921bd7562f90637fa555001",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Shadows of Destiny",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.026 - The Shadows of Destiny.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c038ae830921bd7562f90637fa555001"
+                }
+            ]
+        },
+        {
+            "file_id": "0b64a34c2b2d106415942f037d39853f",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Eyes of the Serpent",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.027 - The Eyes of the Serpent.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b64a34c2b2d106415942f037d39853f"
+                }
+            ]
+        },
+        {
+            "file_id": "8a7c8bc8860814700fc8ff41fbf2ff70",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 28,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Spirit of Valor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.028 - The Spirit of Valor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a7c8bc8860814700fc8ff41fbf2ff70"
+                }
+            ]
+        },
+        {
+            "file_id": "19e449349859988d9e1528dda2decaf7",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 29,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Aurora",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.029 - The Aurora.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19e449349859988d9e1528dda2decaf7"
+                }
+            ]
+        },
+        {
+            "file_id": "6964127bc4678685b8124580be61187f",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 30,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Burning Bridge",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.030 - The Burning Bridge.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6964127bc4678685b8124580be61187f"
+                }
+            ]
+        },
+        {
+            "file_id": "4aea761f0e6b4e15764b74205a20c886",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 31,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Sage",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.031 - The Sage.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4aea761f0e6b4e15764b74205a20c886"
+                }
+            ]
+        },
+        {
+            "file_id": "326bfaf693d1965f47f5fb5145b9faf0",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 32,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Song of Valor",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.032 - The Song of Valor.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/326bfaf693d1965f47f5fb5145b9faf0"
+                }
+            ]
+        },
+        {
+            "file_id": "d8e53c2fd2268c4e0b850d67a81e76aa",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 33,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Ring of Truth",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.033 - The Ring of Truth.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d8e53c2fd2268c4e0b850d67a81e76aa"
+                }
+            ]
+        },
+        {
+            "file_id": "cc06cb1b4056583ef4019c01c0f86f13",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 34,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "A Light in the Dark",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.034 - A Light in the Dark.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cc06cb1b4056583ef4019c01c0f86f13"
+                }
+            ]
+        },
+        {
+            "file_id": "4c69c166dbc00226506a011fd347354d",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 35,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Ghost",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.035 - The Ghost.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c69c166dbc00226506a011fd347354d"
+                }
+            ]
+        },
+        {
+            "file_id": "01a80e13226537523042618b28d6aead",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 36,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "A New Dawn",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.036 - A New Dawn.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/01a80e13226537523042618b28d6aead"
+                }
+            ]
+        },
+        {
+            "file_id": "8b7f487cf73087e72b67a994c2a2da00",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 37,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Death of Arthur",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.037 - The Death of Arthur.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8b7f487cf73087e72b67a994c2a2da00"
+                }
+            ]
+        },
+        {
+            "file_id": "2886ed7bf27cde58cbe695b4951ec04d",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 38,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Gathering Storm",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.038 - The Gathering Storm.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2886ed7bf27cde58cbe695b4951ec04d"
+                }
+            ]
+        },
+        {
+            "file_id": "6ad61b44f4699b1581628de1a0597a1c",
+            "tmdb_id": 529,
+            "saga": "Prince Valiant",
+            "season": 2,
+            "episode": 39,
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "The Hinge of Fate",
+            "fname": "/Anime & Cartoni/Prince Valiant (1991) [a529]/2.039 - The Hinge of Fate.mkv",
+            "year": "1991",
+            "plot": "",
+            "actors": ["Efrem Zimbalist Jr.", "Alan Oppenheimer", "Michael Horton", "James Avery", "Samantha Eggar", "Noelle North", "Tim Curry", "Robby Benson"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ad61b44f4699b1581628de1a0597a1c"
+                }
+            ]
+        }
     ]
 }

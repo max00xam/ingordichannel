@@ -53,7 +53,7 @@
             "year": "1980",
             "tmdb_id": "66251",
             "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/carl_list.json"
+            "url": "/ANIMAZIONE/anime/carletto_list.json"
         },
         {
             "plot": "Ryo Saeba \u00e8 un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si trover\u00e0 costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicit\u00e0.",
@@ -271,6 +271,15 @@
             "url": "/ANIMAZIONE/anime/ken_list.json"
         },
         {
+            "plot": "La serie \u00e8 un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+            "title": "Ken il guerriero: Le origini del mito",
+            "saga": "Ken il guerriero: Le origini del mito",
+            "year": "2006",
+            "tmdb_id": "68203",
+            "genre": ["Animazione"," Azione & Avventura"],
+            "url": "/ANIMAZIONE/anime/mito_list.json"
+        },
+        {
             "plot": "L'incredibile Hulk (The Incredible Hulk) \u00e8 una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie \u00e8 stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk \u00e8 di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
             "title": "L'Incredibile Hulk",
             "saga": "L'Incredibile Hulk",
@@ -301,6 +310,7 @@
             "title": "L'ultimo dei Mohicani",
             "saga": "L'ultimo dei Mohicani",
             "year": "2004",
+            "tvdb_id": "272328",
             "genre": ["Avventura"," Animazione"],
             "fanart": "/ANIMAZIONE/IMMAGINI/mohicani_fanart.jpg",
             "thumbnail": "/ANIMAZIONE/IMMAGINI/mohicani.jpg",
@@ -330,7 +340,7 @@
             "year": "1984",
             "tmdb_id": "438788",
             "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/pixar_list.json"
+            "url": "/ANIMAZIONE/anime/carl_list.json"
         },
         {
             "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
@@ -395,6 +405,15 @@
             "url": "/ANIMAZIONE/anime/0083_list.json"
         },
         {
+            "plot": "Il mondo abitato dall'umanità non è più costituito dalla sola Terra, ma si è allargato all'intera Sfera Terrestre, comprensiva della Luna e di sette aree situate intorno ai punti di Lagrange dell'orbita lunare chiamate Side, in cui orbitano centinaia di \"isole spaziali\", enormi cilindri artificiali contenenti habitat adatti alla vita. Anno 0079 UC: il Principato di Zeon, situato in Side 3, dichiara la sua secessione dalla Federazione Terrestre, scatenando un violento conflitto, noto come Guerra di un anno, che infurierà su ogni continente della Terra ed in quasi ogni colonia spaziale e insediamento lunare. Zeon è inizialmente avvantaggiato dall'uso di un rivoluzionario tipo di arma, il mobile suit, un robot corazzato di aspetto antropomorfo pilotato da un essere umano. Quando una squadra di mobile suit di Zeon in ricognizione, disobbedendo agli ordini ricevuti, attacca la colonia di Side 7, gli abitanti di quest'ultima vengono a conoscenza della risposta della Federazione a questa nuova arma: il mobile suit Gundam. Con l'aiuto dei soldati federali superstiti della corazzata da trasporto Base Bianca, l'equipaggio di profughi inizia un'avventura che porterà un pugno di loro a cambiare il corso della guerra.",
+            "title": "Mobile Suit Z Gundam",
+            "saga": "Mobile Suit Z Gundam",
+            "year": "1985",
+            "tmdb_id": "21731",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/zgundam_list.json"
+        },
+        {
             "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
             "title": "Piccoli Problemi di Cuore ",
             "saga": "Piccoli Problemi di Cuore ",
@@ -410,6 +429,15 @@
             "year": "1991",
             "genre": ["Animazione"," Azione & Avventura"," Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/valiant_list.json"
+        },
+        {
+            "plot": "L'accademia Hachimitsu è un liceo femminile d'élite di Tokyo caratterizzato da severe regole di comportamento, tra cui quella del divieto di frequentare maschi. All'inizio della serie, la scuola decide però di aprire i cancelli anche ai ragazzi mantenendo lo stesso regolamento e, con loro stupore, i nuovi studenti di sesso opposto si rivelano essere solo cinque. L'avventura di Kiyoshi Fujino, Takehito \"Gakuto\" Morokuzu, Shingo Wakamoto, Jōji \"Joe\" Nezu e Reiji \"André\" Andō finisce male quando il gruppo viene scoperto mentre spia i bagni femminili. I cinque vengono puniti con un mese di \"prigionia\" e lavori forzati dalla severa associazione studentesca segreta della scuola; in alternativa viene offerta solo l'espulsione.",
+            "title": "Prison School",
+            "saga": "Prison School",
+            "year": "2015",
+            "tmdb_id": "64706",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/_list.json"
         },
         {
             "plot": "Ranma Saotome e il padre Genma sono due esperti di arti marziali che tornano in Giappone dopo un lungo periodo trascorso in Cina per allenarsi. Per continuare la tradizione di famiglia, Genma ha combinato per il figlio un matrimonio con una delle figlie di Tendo, suo grande amico e anch'egli maestro di arti marziali. La scelta ricade sulla pi\u00f9 piccola, Akane, che di sposarsi non vuole saperne affatto. Le cose si complicano quando si scopre che Ranma e suo padre sono vittime di una maledizione: ogni volta che si bagnano con l'acqua fredda si trasformano, rispettivamente, in una ragazza dai capelli rossi e in un panda!",
@@ -436,15 +464,6 @@
             "year": "1991",
             "genre": ["Animazione"," Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/futuro_list.json"
-        },
-        {
-            "plot": "Le avventure di Doc e del giovane Marty continuano, in compagnia di Clara e i ragazzini Giulio e Verne, sempre alle prese con Biff, per altri viaggi nel tempo.",
-            "title": "Ritorno al Futuro",
-            "saga": "Ritorno al Futuro",
-            "year": "1991",
-            "tmdb_id": "4745",
-            "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/ritorno_list.json"
         },
         {
             "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan \u00e8 pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
@@ -499,6 +518,15 @@
             "tmdb_id": "35409",
             "genre": ["Animazione"," Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/tekkaman_list.json"
+        },
+        {
+            "plot": "Questo spettacolo è basato sul film di successo su un ragazzo normale che trova una maschera incantata. Quando indossa la maschera, diventa un supereroe totalmente pazzo che combatte il crimine e fa un'enorme produzione di se stesso. Può far cambiare istantaneamente i suoi vestiti, cambiare forma di una parte del corpo, tirare fuori qualsiasi cosa dalle sue tasche, ecc. Ogni volta che Ipkiss indossa la maschera, non ci sono regole.",
+            "title": "The Mask The Animated Series",
+            "saga": "The Mask The Animated Series",
+            "year": "1995",
+            "tmdb_id": "9957",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/_list.json"
         },
         {
             "plot": "The Real Ghostbusters \u00e8 una serie televisiva animata americana derivata dal franchise Ghostbusters. La serie \u00e8 andata in onda dal 1986 al 1991 ed \u00e8 stata prodotta da Columbia Pictures Television, DiC Enterprises e Coca-Cola Telecommunications. \"The Real\" \u00e8 stato aggiunto al titolo dopo una disputa con Filmation e le sue propriet\u00e0 Ghost Busters. La serie continua le avventure degli investigatori del paranormale Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, la loro segretaria Janine Melnitz e il loro fantasma mascotte Slimer. C'erano anche due fumetti in corso di Real Ghostbusters, uno pubblicato mensilmente da Now Comics negli Stati Uniti e l'altro pubblicato settimanalmente dalla Marvel Comics nel Regno Unito, e una popolare linea di giocattoli prodotta da Kenner.",

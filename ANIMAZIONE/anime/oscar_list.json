@@ -1,433 +1,1084 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 32676,
-			"number": "1x1",
-			"saga": "Lady Oscar",
-			"title": "La grande scelta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53c002590207e8deef9c096359248992"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x3",
-			"saga": "Lady Oscar",
-			"title": "Un triste presagio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b50bc65f5fc6a67ce9cc5b967f27756"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x4",
-			"saga": "Lady Oscar",
-			"title": "L`intrigo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1210b16442e72e4f178d9f1034b0bef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x5",
-			"saga": "Lady Oscar",
-			"title": "La rivincita della contessa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/feaef38f84a53d6d7fa93f4221231cb3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x6",
-			"saga": "Lady Oscar",
-			"title": "La congiura sventata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c305b521e5170ad4968e19e059c0f10"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x7",
-			"saga": "Lady Oscar",
-			"title": "Una notte a Parigi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5580c59655dee69d479753cd38f47bac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x8",
-			"saga": "Lady Oscar",
-			"title": "L`incidente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/72158392e72674b1f0af63a533ae0716"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x9",
-			"saga": "Lady Oscar",
-			"title": "La morte di Luigi XV",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1dd44d8e2416a4aad0f8c12b7e8c8826"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x10",
-			"saga": "Lady Oscar",
-			"title": "L`incoronazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71f34385a6788190684f366631a2f35e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x11",
-			"saga": "Lady Oscar",
-			"title": "Maria Antonietta regina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/08d62fb555cda5cf5ae3254638bf03dc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x12",
-			"saga": "Lady Oscar",
-			"title": "I capricci di Maria Antonietta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b8c711ccb1307f84aaf9556241c43c8e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x13",
-			"saga": "Lady Oscar",
-			"title": "Le catene della poverta`",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/26683be4b6bbb145d51a8da377a7ad4f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x14",
-			"saga": "Lady Oscar",
-			"title": "La contessa di Polignac",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/60c2af3e20aed159043112538cf10ce1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x15",
-			"saga": "Lady Oscar",
-			"title": "La menzogna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65a39f284a6fe0c8d7df3410fe805212"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x16",
-			"saga": "Lady Oscar",
-			"title": "Rosalie a palazzo Jarjayes",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/664edda50c31fb5050aeb219fd9bbbd7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x17",
-			"saga": "Lady Oscar",
-			"title": "Rosalie a corte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f2840e98b4f23bf2627c1b4dd8fd7566"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x18",
-			"saga": "Lady Oscar",
-			"title": "Il ritorno di Fersen",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd4c719926bbe1e7ca61cfd7f39879b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x19",
-			"saga": "Lady Oscar",
-			"title": "Un matrimonio imposto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/188d83bc5b4398d1045971c676a0ce5a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x20",
-			"saga": "Lady Oscar",
-			"title": "Un amore impossibile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2f4e8970b9b2fbabe2edefe156d7f7b2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x21",
-			"saga": "Lady Oscar",
-			"title": "La sosia della regina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/459e34663fa59c2367e887309a9a38be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x22",
-			"saga": "Lady Oscar",
-			"title": "Lo scandalo della collana",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ccff9da781fe96cb46c9ae80e402b193"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x23",
-			"saga": "Lady Oscar",
-			"title": "Il processo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d0939ab6459553d6dc5371cd5f302c4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x24",
-			"saga": "Lady Oscar",
-			"title": "Una fuga misteriosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c6e65a97f1928bbf306ae3402d39acc6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x25",
-			"saga": "Lady Oscar",
-			"title": "Cuore di donna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1b79ebe92285e8f4125108bf2f3a6240"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x26",
-			"saga": "Lady Oscar",
-			"title": "Il cavaliere nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9cf3629687e282f0d1995f67fb10e35c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x27",
-			"saga": "Lady Oscar",
-			"title": "Un rischio calcolato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da0461acc95ed077d38aba07f0918feb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x28",
-			"saga": "Lady Oscar",
-			"title": "Un innamorato respinto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f9662ffce64bddfd20d10da6287da950"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x29",
-			"saga": "Lady Oscar",
-			"title": "Una nuova vita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7882189d98e591ffc5768881c3051b1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x30",
-			"saga": "Lady Oscar",
-			"title": "La sfida di Oscar",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1438f12f33d66ca00b22bc8fd4649282"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x31",
-			"saga": "Lady Oscar",
-			"title": "La rabbia popolare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eada9ca57ce2214a82932712f47d8368"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x32",
-			"saga": "Lady Oscar",
-			"title": "Nemici del popolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0ecb4b0c687df6ebebde829ba3f80deb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x33",
-			"saga": "Lady Oscar",
-			"title": "Gli ultimi splendori di Versailles",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9b52db3b8062d4875155884c7443bdcd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x34",
-			"saga": "Lady Oscar",
-			"title": "Robespierre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/af7da3455fc9b212cad079d17bbfba77"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x35",
-			"saga": "Lady Oscar",
-			"title": "Accusa di tradimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7096d051f55a1b33afc15496469b04bc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x36",
-			"saga": "Lady Oscar",
-			"title": "La fame a Parigi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/341b0809f5ecf3091a3b47a569dc5b9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x37",
-			"saga": "Lady Oscar",
-			"title": "La voce della liberta`",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/622e4b1c65f903aab2be28f8b3a867d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x38",
-			"saga": "Lady Oscar",
-			"title": "Divampa la rivoluzione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dc1e926b46eceaba09f5f1a17fbcb54b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x39",
-			"saga": "Lady Oscar",
-			"title": "Addio Andre`",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c025f1bfe6bfeff437f69ea11fbdb06"
-				}
-			]
-		},
-		{
-			"tmdb_id": 32676,
-			"number": "1x40",
-			"saga": "Lady Oscar",
-			"title": "14 luglio 1789",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/639849714e17480984571b0d5f0fd856"
-				}
-			]
-		}
+            "file_id": "7e97d926b0caf5b1d2de49d8a1f63b4c",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La grande scelta",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.001 - La grande scelta.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e97d926b0caf5b1d2de49d8a1f63b4c"
+                }
+            ]
+        },
+        {
+            "file_id": "a0e610933d5f4d7b4c9a7af9cd114fcc",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Un triste presagio",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.003 - Un triste presagio.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0e610933d5f4d7b4c9a7af9cd114fcc"
+                }
+            ]
+        },
+        {
+            "file_id": "d294e0d1c30db3c2b21068ef9c2dac99",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma", "Animazione"],
+            "title": "L`intrigo",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.004 - L`intrigo.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d294e0d1c30db3c2b21068ef9c2dac99"
+                }
+            ]
+        },
+        {
+            "file_id": "06538fc0fb999125726ad93e43ffc40c",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La rivincita della contessa",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.005 - La rivincita della contessa.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/06538fc0fb999125726ad93e43ffc40c"
+                }
+            ]
+        },
+        {
+            "file_id": "e86752631712f69d0095b4cce198ceb8",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La congiura sventata",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.006 - La congiura sventata.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e86752631712f69d0095b4cce198ceb8"
+                }
+            ]
+        },
+        {
+            "file_id": "82f2027ea2389b5086899a533719d0c4",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Una notte a Parigi",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.007 - Una notte a Parigi.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82f2027ea2389b5086899a533719d0c4"
+                }
+            ]
+        },
+        {
+            "file_id": "ee41ee67b116904aa0dfcd0d150d9dcd",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Dramma", "Animazione"],
+            "title": "L`incidente",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.008 - L`incidente.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ee41ee67b116904aa0dfcd0d150d9dcd"
+                }
+            ]
+        },
+        {
+            "file_id": "e393e7a596a866a4081d8a39f5140703",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La morte di Luigi XV",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.009 - La morte di Luigi XV.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e393e7a596a866a4081d8a39f5140703"
+                }
+            ]
+        },
+        {
+            "file_id": "191d9379185ff6a139e53cd86e21bd6c",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Dramma", "Animazione"],
+            "title": "L`incoronazione",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.010 - L`incoronazione.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/191d9379185ff6a139e53cd86e21bd6c"
+                }
+            ]
+        },
+        {
+            "file_id": "7a8bd7f37016d09444fc90a557001c80",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Maria Antonietta regina",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.011 - Maria Antonietta regina.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a8bd7f37016d09444fc90a557001c80"
+                }
+            ]
+        },
+        {
+            "file_id": "87a3a5e60c7dda4bf9a082f0dedcbeac",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Dramma", "Animazione"],
+            "title": "I capricci di Maria Antonietta",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.012 - I capricci di Maria Antonietta.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87a3a5e60c7dda4bf9a082f0dedcbeac"
+                }
+            ]
+        },
+        {
+            "file_id": "1b4f0c57ffb9a3a807d1f5c631071c57",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Le catene della poverta`",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.013 - Le catene della poverta`.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b4f0c57ffb9a3a807d1f5c631071c57"
+                }
+            ]
+        },
+        {
+            "file_id": "2f9788c47f93feff3be9731dea989c53",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La contessa di Polignac",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.014 - La contessa di Polignac.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f9788c47f93feff3be9731dea989c53"
+                }
+            ]
+        },
+        {
+            "file_id": "7e54cf21bcee265100a183e3a16f2494",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La menzogna",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.015 - La menzogna.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e54cf21bcee265100a183e3a16f2494"
+                }
+            ]
+        },
+        {
+            "file_id": "f11abd69933baa3169f0cf458b31bf63",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Rosalie a palazzo Jarjayes",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.016 - Rosalie a palazzo Jarjayes.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f11abd69933baa3169f0cf458b31bf63"
+                }
+            ]
+        },
+        {
+            "file_id": "1e770d4323629f02940968a4a7b19e7c",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Rosalie a corte",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.017 - Rosalie a corte.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e770d4323629f02940968a4a7b19e7c"
+                }
+            ]
+        },
+        {
+            "file_id": "de84b3f5ffb15be64916fc7f07dd9c33",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Il ritorno di Fersen",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.018 - Il ritorno di Fersen.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de84b3f5ffb15be64916fc7f07dd9c33"
+                }
+            ]
+        },
+        {
+            "file_id": "433a84b20ccb8a1cb23c290605c1a651",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Un matrimonio imposto",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.019 - Un matrimonio imposto.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/433a84b20ccb8a1cb23c290605c1a651"
+                }
+            ]
+        },
+        {
+            "file_id": "336d0478e59582fd36ba684579c683e8",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Un amore impossibile",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.020 - Un amore impossibile.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/336d0478e59582fd36ba684579c683e8"
+                }
+            ]
+        },
+        {
+            "file_id": "e586e1bcd75ab3838d6cb24581124ea8",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La sosia della regina",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.021 - La sosia della regina.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e586e1bcd75ab3838d6cb24581124ea8"
+                }
+            ]
+        },
+        {
+            "file_id": "19001b11bed4d5b6e2357ab637e6e015",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Lo scandalo della collana",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.022 - Lo scandalo della collana.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19001b11bed4d5b6e2357ab637e6e015"
+                }
+            ]
+        },
+        {
+            "file_id": "db3aa0198139a40e8f8642529d39ddfe",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Il processo",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.023 - Il processo.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/db3aa0198139a40e8f8642529d39ddfe"
+                }
+            ]
+        },
+        {
+            "file_id": "bec298e902e000e4a12b93e7c3a6ea63",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Una fuga misteriosa",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.024 - Una fuga misteriosa.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bec298e902e000e4a12b93e7c3a6ea63"
+                }
+            ]
+        },
+        {
+            "file_id": "2aceb6e4c6d03d757cef630c07e0d449",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Cuore di donna",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.025 - Cuore di donna.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2aceb6e4c6d03d757cef630c07e0d449"
+                }
+            ]
+        },
+        {
+            "file_id": "4c70afcf01bb3d6c5a9ff72b2e96ed15",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Il cavaliere nero",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.026 - Il cavaliere nero.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c70afcf01bb3d6c5a9ff72b2e96ed15"
+                }
+            ]
+        },
+        {
+            "file_id": "a3a0ec5a119379071f0fd8e3eba1964e",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Un rischio calcolato",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.027 - Un rischio calcolato.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a3a0ec5a119379071f0fd8e3eba1964e"
+                }
+            ]
+        },
+        {
+            "file_id": "50629d58921c84188daf13c9d1633b27",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Un innamorato respinto",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.028 - Un innamorato respinto.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50629d58921c84188daf13c9d1633b27"
+                }
+            ]
+        },
+        {
+            "file_id": "5417fcfb35634b12c5c916c58eb97657",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Una nuova vita",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.029 - Una nuova vita.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5417fcfb35634b12c5c916c58eb97657"
+                }
+            ]
+        },
+        {
+            "file_id": "4d267c15619aac4dc2f039e2b6fcaed1",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La sfida di Oscar",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.030 - La sfida di Oscar.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d267c15619aac4dc2f039e2b6fcaed1"
+                }
+            ]
+        },
+        {
+            "file_id": "ecce48de0bb2638420dba20b2c5090fc",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La rabbia popolare",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.031 - La rabbia popolare.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ecce48de0bb2638420dba20b2c5090fc"
+                }
+            ]
+        },
+        {
+            "file_id": "17f2b64d21b26d4843e60b1514a712c6",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Nemici del popolo",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.032 - Nemici del popolo.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/17f2b64d21b26d4843e60b1514a712c6"
+                }
+            ]
+        },
+        {
+            "file_id": "8c25e99fee618ad8c8533a4e1c596f40",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Gli ultimi splendori di Versailles",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.033 - Gli ultimi splendori di Versailles.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c25e99fee618ad8c8533a4e1c596f40"
+                }
+            ]
+        },
+        {
+            "file_id": "4753b884369dd6929ee5eeeefc8e746c",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Robespierre",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.034 - Robespierre.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4753b884369dd6929ee5eeeefc8e746c"
+                }
+            ]
+        },
+        {
+            "file_id": "996d8eb6dbe873ac6efc0073c68a2765",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Accusa di tradimento",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.035 - Accusa di tradimento.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/996d8eb6dbe873ac6efc0073c68a2765"
+                }
+            ]
+        },
+        {
+            "file_id": "701b6f3c7b5ee39178f305243f62ae34",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La fame a Parigi",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.036 - La fame a Parigi.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/701b6f3c7b5ee39178f305243f62ae34"
+                }
+            ]
+        },
+        {
+            "file_id": "aca6f688d27ba25c417426eb2188e460",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Dramma", "Animazione"],
+            "title": "La voce della liberta`",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.037 - La voce della liberta`.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aca6f688d27ba25c417426eb2188e460"
+                }
+            ]
+        },
+        {
+            "file_id": "63e73ea745a34a66c478f95adae48666",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Divampa la rivoluzione",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.038 - Divampa la rivoluzione.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/63e73ea745a34a66c478f95adae48666"
+                }
+            ]
+        },
+        {
+            "file_id": "4b56cbfbbb948a9c954e7147b43a6e6e",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Dramma", "Animazione"],
+            "title": "Addio Andre`",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.039 - Addio Andre`.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b56cbfbbb948a9c954e7147b43a6e6e"
+                }
+            ]
+        },
+        {
+            "file_id": "294ff286ed9d54040c2cb41c8ab3d803",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Dramma", "Animazione"],
+            "title": "14 luglio 1789",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/1.040 - 14 luglio 1789.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/294ff286ed9d54040c2cb41c8ab3d803"
+                }
+            ]
+        },
+        {
+            "file_id": "787b6499af0e1f882694c29b3e99636d",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma", "Animazione"],
+            "title": "L'arrivo di Maria Antonietta   vers2",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/Lady Oscar - 02 - L'arrivo di Maria Antonietta [dvdmux, x264, ac3 ita jap, sub ita] [M72] vers2.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/787b6499af0e1f882694c29b3e99636d"
+                }
+            ]
+        },
+        {
+            "file_id": "576114e98c63b5faad38c4ebfacbd7bd",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_01",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_01.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/576114e98c63b5faad38c4ebfacbd7bd"
+                }
+            ]
+        },
+        {
+            "file_id": "63e0e8b8201550b4169e2a50f930cb5f",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_02",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_02.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/63e0e8b8201550b4169e2a50f930cb5f"
+                }
+            ]
+        },
+        {
+            "file_id": "b6544f4d3f517434f500e61d46871156",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_03",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_03.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6544f4d3f517434f500e61d46871156"
+                }
+            ]
+        },
+        {
+            "file_id": "ec7c4f9a1368f6b1e87ae48c4ff72e82",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_04",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_04.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec7c4f9a1368f6b1e87ae48c4ff72e82"
+                }
+            ]
+        },
+        {
+            "file_id": "dc9db6fdd5b85dbac0ebe9c99f9275bf",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_05",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_05.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dc9db6fdd5b85dbac0ebe9c99f9275bf"
+                }
+            ]
+        },
+        {
+            "file_id": "d131d6fba0ea1e49fef9b9c0141df5d6",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_06",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_06.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d131d6fba0ea1e49fef9b9c0141df5d6"
+                }
+            ]
+        },
+        {
+            "file_id": "dbc7dd34224ada7cdd06bb345a779abb",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_07",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_07.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dbc7dd34224ada7cdd06bb345a779abb"
+                }
+            ]
+        },
+        {
+            "file_id": "6c89781dafe0e9beaed4c6075b9a5fd9",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_08",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_08.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c89781dafe0e9beaed4c6075b9a5fd9"
+                }
+            ]
+        },
+        {
+            "file_id": "7c48c64bf9afbaa8e8bf318abe9d00b3",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_09",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_09.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7c48c64bf9afbaa8e8bf318abe9d00b3"
+                }
+            ]
+        },
+        {
+            "file_id": "4fb9a55e1ad38c9737b0198ec5f1b98b",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_10",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_10.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4fb9a55e1ad38c9737b0198ec5f1b98b"
+                }
+            ]
+        },
+        {
+            "file_id": "08cd83cbc46108e5f336e732a326fe59",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_11",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_11.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/08cd83cbc46108e5f336e732a326fe59"
+                }
+            ]
+        },
+        {
+            "file_id": "669eb9435e4b27f817f5e9c2a9007f57",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_12",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_12.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/669eb9435e4b27f817f5e9c2a9007f57"
+                }
+            ]
+        },
+        {
+            "file_id": "577df8d8a8835925d9efce25fdef3abf",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_13",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_13.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/577df8d8a8835925d9efce25fdef3abf"
+                }
+            ]
+        },
+        {
+            "file_id": "774124beb9621a855d48cea6f9a46b31",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_14",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_14.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/774124beb9621a855d48cea6f9a46b31"
+                }
+            ]
+        },
+        {
+            "file_id": "9d34eeed433c8e1d2c8c5cd3860d3438",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_15",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_15.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d34eeed433c8e1d2c8c5cd3860d3438"
+                }
+            ]
+        },
+        {
+            "file_id": "ae42d0f224e17937b2ab8ffbca711267",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_16",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_16.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ae42d0f224e17937b2ab8ffbca711267"
+                }
+            ]
+        },
+        {
+            "file_id": "b13fa0c17ccdc805292e42ccadabaa33",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_17",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_17.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b13fa0c17ccdc805292e42ccadabaa33"
+                }
+            ]
+        },
+        {
+            "file_id": "35e793b7dff78718be4d22dbc78a5904",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_18",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_18.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/35e793b7dff78718be4d22dbc78a5904"
+                }
+            ]
+        },
+        {
+            "file_id": "dca07074041358c6d3540a6222ce03e7",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_19",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_19.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dca07074041358c6d3540a6222ce03e7"
+                }
+            ]
+        },
+        {
+            "file_id": "3c5723f99e006decc494e35fc94f4a6d",
+            "tmdb_id": 32676,
+            "saga": "Lady Oscar",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Dramma", "Animazione"],
+            "title": "lady_oscar_20",
+            "fname": "/Anime & Cartoni/Lady Oscar [a32676]/lady_oscar_20.avi",
+            "year": "1979",
+            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara (\u30d9\u30eb\u3070\u3089). La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "actors": ["Nachi Nozawa", "Keaton Yamada", "Yoshito Yasuhara", "Rihoko Yoshida", "Reiko Tajima"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3c5723f99e006decc494e35fc94f4a6d"
+                }
+            ]
+        }
     ]
 }

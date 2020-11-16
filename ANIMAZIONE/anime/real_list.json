@@ -1,1544 +1,2524 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 2286,
-			"number": "1x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "I fantasmi sono tra noi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ba30b0fc80516f5c690d2f11a9dc3cb2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Mastro Scintilla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/784100befbd68c77c06876db17926374"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La casa stregata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5fad32ab6043b7e8e86f3f0ecd079e8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Torna a casa, Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/876ef9f08b3ff2839cd78eb4e06429f3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Nani magici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1368adf2721c5f42b9c68acc16304a9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Viene il Babau",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e962f5686b67ed0d87118d331fc469e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Uomo del sonno, fammi sognare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/77319f4ee90f36bb93061def33f1f216"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Halloween per sempre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a434144d91cdfebf3de79205a78116f2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x9",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`eroe torna a casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c3dd8ca65fad416ee2f9485f3144acd4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x10",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Avventura in aereo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/50c7841a3e30b4f9de15ed1458f11840"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x11",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Amico Fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d53d340337ca082837763f0bf2b5b82"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x12",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un mestiere difficile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/861bbc2102769f3be68bdae8e9608f41"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "1x13",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "I fantasmi di Natale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/972f35414e1e0771b33a9ea5e6750679"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Le particelle miracolose",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1d7e282c1a1b8138212034732aeceb99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Uno, cento, mille Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5f592a77659d41272d30fcafa813b88e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La fine del mondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/274345b6fe9a14ff28b93558c3987aa4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Fumetti che passione!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/30c602d26a7b4b32e6be7d65d15a8a0e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Mi chiamano signor Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8da38b301669ca464a931221d75f19d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un povero fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/96330b72a88d2ccdda2704395c68c39d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`arbitro misterioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a29fe41ef22133db7e356b3b61346690"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Montagne russe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74bfdd87921a79702d4a7bead8488718"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x9",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Cartoni troppo animati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1d89d090b39b69ff5cfb3288218f05e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x10",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La fattoria dei morti viventi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c1bc6f7895e755d64a8bac158e499748"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x11",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Alchimia vincente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a421e2292b0570ac5f407403ca31b9e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x12",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un super-spettro a New York",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5674809a9f34229b12f54ded03f7a508"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x13",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`armadio del mistero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a94c9f06bc77ee9d21060f83fedd578"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x14",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Spettri ricchi e famosi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/85305ea13f2cc592ff706da960240598"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x15",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il drago di Egon",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76410866c7e03f481e0076d513e3a6e7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x16",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Non c`è pace tra i vampiri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/693ad650ae02a8cf8cec4dd151d3e2c2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x17",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il castello stregato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4ac9d643f5f774dc063bbaace30a2194"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x18",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un lunghissimo addio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d0ce41a8e50f182c870de9d075df6539"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x19",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il demone ibernato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/68925a81b8c7ae88aa3e9ba0f90975c4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x20",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Chi ha paura dello spettro cattivo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7ffffc7808a22f5dbb1be1a239ac708b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x21",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il cavaliere misterioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9793ab89038e785098c3d018c299ff68"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x22",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La balena bianca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3da1a03b40f9af0f4b17994270555542"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x23",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Mister miliardo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/415dac111dce488f3a7259ed86a3eb73"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x24",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Victor, il fantasmino felice",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c56dd97086e2dde5626caa267c6563ac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x25",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il prigioniero verde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5fddedce24014826bd37c2941dc3d8f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x26",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Polli alla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de9829700ee71c3079d7427240a1eb3b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x27",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Riga dritto papà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/270e0cb9fa5a2eb74a4cac706be84391"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x28",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La banda del buco nel muro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cac4118d1c4372b18087c824bbe89db0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x29",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Squadra anticrimine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/826ef02e1a21b8e6936e56ce302abc94"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x30",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Viaggio a Parigi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd9522613c704d4ccf55be750a377cd1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x31",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Paura all`opera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a7e391f2241dce848b83e0d25e9ec56c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x32",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un libro pericoloso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8c18acd2d6a147765acacf8a78400662"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x33",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un rock indiavolato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8ce8761cc884baa17d3a3ab96e97cad0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x34",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il goblin con la faccia di cane",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/07a1a76321d5cafe3468d12723e9bd34"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x35",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Dieci piccoli indiani",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5b3125f379d125b3af96f762b40e8ef1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x36",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il giorno del tacchino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/31a8b9e93834276e9826443cbdecdd54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x37",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il Cavaliere senza testa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa08a4d1d2f5dfa2475321a75b18dded"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x38",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Non aprire quella porta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93472170af2c8228e63212bf60c54527"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x39",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Le pietre fischianti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9f39623282597f5b8d63f6aaf30c11ba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x40",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La porta parlante",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/46b685d0907330e57f0155db300dcdab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x41",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il medium pasticcione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/591a2cc48c2a65a7ecdac19be43f01d5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x42",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Spettri Pirati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/01130db0d7da8fa839c60d43b726d85f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x43",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il codice del west",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1521145b8010152b5780ed730200b8c2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x44",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Lo zio Ciro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a1ca9e4b118b04cf9f726929319829e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x45",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Vacanza scozzese",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79291477b0b3abc6e44985b25f22a7d9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x46",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La notte di San Patrizio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8d7c0906bebdc6a4551fdd7a95c946d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x47",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un fantasma nello spazio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f45e72068cbe7b8e3faa6bedd63d184"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x48",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il sigillo magico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/47e16de1ab2e14ce7d7535adf95a7b1f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x49",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La corsa del diavolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/70b545c5c165ca1459dd71a053a4444c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x50",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il geranio stregato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/46bdfbc8d43a00376030258fc2f9aa0d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x51",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il drago verde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e74ee60c43cb9777c18c366fcf285d9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x52",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`ultimo treno per l`oblio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a0cbdeb7552c4268326c94eb8927ad5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x53",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il pilastro misterioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3efb65baed75ee7be787558d636e26fc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x54",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "A carnevale ogni spettro vale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c9ab0c1aedb42eaacd83258f9e8c7d0c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x55",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Spirito goliardico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5c15f1ec5323f39a08ac8cad0661cd91"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x56",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il cavaliere di ferro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/50ad95b3a50eb48e34c406f095aca0ae"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x57",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il deodorante antispettro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae6c568cb5c9f308bd46d4c86f44b9d9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x58",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Fantasmi a congresso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d1a31b4034e33f368665141a517419e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x59",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Sfasciacarrozze",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43063989a359f9a79b6ca75bc7f1e329"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x60",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il Diavolo nel fondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c541bcb9af660a21b74fff8c4fcdba4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x61",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Ciak! motore, fantasmi!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa89a7f41b5ae764907d985671ff203d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x62",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Attenti ai giornalisti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2837d10bd9ab7333d292d973322fbfb5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x63",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Lo spirito televisivo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1bba12370c8021493df869a19eb75df2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x64",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Appesi ad un filo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ec6642e2407e2a191a2cdb5f7c960f9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "2x65",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`ultimo vampiro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/abfd81532077821475d58b7733b7a4b9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La piccola orfanella",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/80424852e6f9377cd9a334dd7962e83d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il mondo è una giungla",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/31017cba209eb1cbca99e1a386975100"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Scambio Di Cervelli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bfd65d9b85f2e7c2bfc4246ec6e46a4f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Chi ha paura del Babau",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d37caa162da52ac4821f7a21d3ff4ca1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "C`era una volta Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e59a5804ff69a895477f4733fc1dd306"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Le due facce del fantasmino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/61153572ecc453a9b0203b7474cfa91a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un gigante dal cuore di zucchero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6f0b9fb17b2930f16b9681ab6b2d0466"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La vendetta del Grande Cocomero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ab84ba0b592a21e180ef4b72de5521e5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x9",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Casa dolce casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8c6c50b00fad88ed6fe4b6136829907b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x10",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Io e mio fratello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/08a7ab0f660e2892ab4d7569e278d223"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x11",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Una strana creatura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9ec7873ab9bb8ec251d194a62ce38d1c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x12",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il fantasma burlone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/527fb3f40a909032ffbc6532511d2708"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "3x13",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Paura al chiaro di luna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c5ca6f4acff03ea14e927ef3c481c14"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un bel gioco dura poco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d2017431bd9519f8e177db93b69a5e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Gli acchiappafantasmi acchiappati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6138265f1b0b9b92dc9e6732cce80329"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La notte dei polli mannari",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cf3bcbd13c44cdf566a2c78b09edf26a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Catastrofe a New York",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c5226e05d7b0adfa6cb70d73994d77d5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un robot fuorilegge",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/460b95a780a339701b140576b6af1adb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "In cerca di emozioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b54cb54169ad90dd28491d2c4f2121f9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il vecchio villaggio indiano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b8c6909063dd59b232c71ecedabeb129"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "4x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Oggetti smarriti in vendita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c163d00a98d7972cb67cea62a03a7f99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Qualcosa bolle in pentola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1400fd639063fcf63639ad9e3b244603"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Tre uomini e un bebè",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b5a6e1b863dc2e12bfc7427277911b2d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Elementare mio caro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ec285562b2beeefcb774cea4da78ae8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Se fossi uno stregone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03f093b57fda4c83131a7e30aff9bd3a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Soci melmosi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1f72dcce82d0fd7c8ac893d6207da68"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Destino crudele",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c0ac475917f67d0b2ee7029842aba0f0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Prigionieri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/291280bb455702e36ea6d08948c6668d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "In diretta dalla tomba di Al Capone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b488783b0f3da142222a13ee598d7cd8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x9",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Evviva la festa di Halloween",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e77fd3780daaea3d3a7d45b0914d53f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x10",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Peter super uomo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/022966643e7e6752c8b6a655270b3f7c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x11",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Lo specchio magico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ac0e14d72da4c7e586c511d47894ace8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x12",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Fantasmi in vacanza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/490f3a81af675895a81b1f61669a46d4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x13",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il drago fatato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8c04752625df6354de49031f1f8b8c05"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x14",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il gatto dei desideri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6062386cc1c5ce3d2f3ca2c6a3f30d25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x15",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un incantesimo per Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f6ece59df6815e97e30076a812acbf50"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x16",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Finché morte non ci separi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52e5ac1d4442d921570b29a997f6745b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x17",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Ritorno al passato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fd4caca6201b50675065e46f43e54c91"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x18",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il rapimento di Slimer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/881df123a6a833b8881d609c8d28c053"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x19",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La vendetta del re dei fantasmi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4fd42b4d2e542fa05d471bf34e84593c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x20",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Una trappola difettosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aeed6302c6a06457e10fb03171871d45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "5x21",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Slimer lascia la scia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e41cd8f7d803571623cdfa41bac1fbd4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La fatina buona",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1222dd96a26ac3959290e99a4d266b79"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Una strana dimensione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6eb9989277ee4beeb9a6eb943261cd2b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Il mondo dei fantasmi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/564a45d2e9b635313aa82e2f7e0bdf39"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La casa infernale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db541e721a39b0d605d9546c229c4e08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x5",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La pattuglia verde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aae6191aa4bde3979b54248d558a0910"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x6",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Lo spettro spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8a6ef5523db9cb21b512e9e60332d03c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x7",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Fantasmi da salvare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/99a93f7647fa8f647d8244610444dc49"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x8",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Viaggio in Russia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/69d70522bbe78e67d8832e6ca22ad843"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x9",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Uno scienziato pazzo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/856338a999a1d7d6a462834457808cd6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x10",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "La macchina della memoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1bd59e7c11c387592056f631f74b03ad"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x11",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Gran Prix mortale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bdf79912dd90238ea07f9c96d7deb5d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x12",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Ospiti inattesi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9bee09b5b7991fdeec8bc8358c82e5ca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x13",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Sammy K il furetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0cba8c2e400059b3f465ee26ab57aa44"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x14",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Amici per la pelle",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5650e961ae6fade6b8627261b09bc581"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x15",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Un compleanno da ricordare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/becde04127957e5186506c56a9aec5d7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "6x16",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "I magnifici cinque",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03918afa4511381a3b468064656d9a35"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "7x1",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Spedizione in Messico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c08d399c41fe91772efcf09e566af4e8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "7x2",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "Fantasmi nel sacco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2a0475771b49dd7a85866ccdc6d94eca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "7x3",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "SOS da Tokyo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f07d798de485b78a28150fe78eba88db"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2286,
-			"number": "7x4",
-			"saga": "The Real Ghostbusters - I veri acchiappafantasmi",
-			"title": "L`invasione degli insetti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5cc7cf97df34ccf2bef997e01f88f3f0"
-				}
-			]
-		}
+            "file_id": "950883ddc94bdf1a2d2169fb2fc128a2",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "I fantasmi sono tra noi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.001 - I fantasmi sono tra noi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/950883ddc94bdf1a2d2169fb2fc128a2"
+                }
+            ]
+        },
+        {
+            "file_id": "4137e46fa92a42aa6332955338eb7c27",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Mastro Scintilla",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.002 - Mastro Scintilla.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4137e46fa92a42aa6332955338eb7c27"
+                }
+            ]
+        },
+        {
+            "file_id": "7d5e0b4122aaf557206b3621513124ed",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La casa stregata",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.003 - La casa stregata.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d5e0b4122aaf557206b3621513124ed"
+                }
+            ]
+        },
+        {
+            "file_id": "d106c0c3c9ade2e8ddc9fa4cfd65a806",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Torna a casa, Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.004 - Torna a casa, Slimer.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d106c0c3c9ade2e8ddc9fa4cfd65a806"
+                }
+            ]
+        },
+        {
+            "file_id": "6bdfd181f7a6b7f43be9d1d0bd95b4eb",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Nani magici",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.005 - Nani magici.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6bdfd181f7a6b7f43be9d1d0bd95b4eb"
+                }
+            ]
+        },
+        {
+            "file_id": "20471e7f4b88884867bc800cb014b607",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Viene il Babau",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.006 - Viene il Babau.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/20471e7f4b88884867bc800cb014b607"
+                }
+            ]
+        },
+        {
+            "file_id": "65d2d2ca13c5e042a945c801304d2a56",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Uomo del sonno, fammi sognare",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.007 - Uomo del sonno, fammi sognare.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/65d2d2ca13c5e042a945c801304d2a56"
+                }
+            ]
+        },
+        {
+            "file_id": "3b3229f59e1f1c674b17d230e9e34176",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Halloween per sempre",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.008 - Halloween per sempre.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b3229f59e1f1c674b17d230e9e34176"
+                }
+            ]
+        },
+        {
+            "file_id": "e7f7c5ab196ac342e519d289bae4b304",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`eroe torna a casa",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.009 - L`eroe torna a casa.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e7f7c5ab196ac342e519d289bae4b304"
+                }
+            ]
+        },
+        {
+            "file_id": "4e915d4476f755e49909c000a77d005e",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Avventura in aereo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.010 - Avventura in aereo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4e915d4476f755e49909c000a77d005e"
+                }
+            ]
+        },
+        {
+            "file_id": "5c8659f5f6369c7151b0484ae1a33f79",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Amico Fantasma",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.011 - Amico Fantasma.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c8659f5f6369c7151b0484ae1a33f79"
+                }
+            ]
+        },
+        {
+            "file_id": "a7a19546ed33f3483eae3d81c3019e63",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un mestiere difficile",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.012 - Un mestiere difficile.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a7a19546ed33f3483eae3d81c3019e63"
+                }
+            ]
+        },
+        {
+            "file_id": "8a1214909e9ef29f9ab2aa2b521716d5",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "I fantasmi di Natale",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/1.013 - I fantasmi di Natale.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a1214909e9ef29f9ab2aa2b521716d5"
+                }
+            ]
+        },
+        {
+            "file_id": "043646b43d45526968752ab9e3d95ba0",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Le particelle miracolose",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.001 - Le particelle miracolose.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/043646b43d45526968752ab9e3d95ba0"
+                }
+            ]
+        },
+        {
+            "file_id": "088a7b6738151412eb71ca9e334ae096",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Uno, cento, mille Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.002 - Uno, cento, mille Slimer.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/088a7b6738151412eb71ca9e334ae096"
+                }
+            ]
+        },
+        {
+            "file_id": "7b9fc21a248f5962189ba50cf7773e0a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La fine del mondo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.003 - La fine del mondo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b9fc21a248f5962189ba50cf7773e0a"
+                }
+            ]
+        },
+        {
+            "file_id": "6ef7a2de9b809073d4fa22bbcd2c2554",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Fumetti che passione!",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.004 - Fumetti che passione!.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ef7a2de9b809073d4fa22bbcd2c2554"
+                }
+            ]
+        },
+        {
+            "file_id": "220d82254a294a48e1938c20821e1ced",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Mi chiamano signor Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.005 - Mi chiamano signor Slimer.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/220d82254a294a48e1938c20821e1ced"
+                }
+            ]
+        },
+        {
+            "file_id": "037936343328c22b92392cdf2e4506b3",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un povero fantasma",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.006 - Un povero fantasma.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/037936343328c22b92392cdf2e4506b3"
+                }
+            ]
+        },
+        {
+            "file_id": "7674d28a05ded8bf1348212fc74cf8fc",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`arbitro misterioso",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.007 - L`arbitro misterioso.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7674d28a05ded8bf1348212fc74cf8fc"
+                }
+            ]
+        },
+        {
+            "file_id": "87c983086cd8acb7dc69f7c41f3a9626",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Montagne russe",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.008 - Montagne russe.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87c983086cd8acb7dc69f7c41f3a9626"
+                }
+            ]
+        },
+        {
+            "file_id": "9c67fed27a933b82ce021c3b6d2bede8",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Cartoni troppo animati",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.009 - Cartoni troppo animati.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9c67fed27a933b82ce021c3b6d2bede8"
+                }
+            ]
+        },
+        {
+            "file_id": "25dae4fb12974f82ad408149827a24ac",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La fattoria dei morti viventi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.010 - La fattoria dei morti viventi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/25dae4fb12974f82ad408149827a24ac"
+                }
+            ]
+        },
+        {
+            "file_id": "2fd4b13e4bf0757bfc9c51e121818a3c",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Alchimia vincente",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.011 - Alchimia vincente.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2fd4b13e4bf0757bfc9c51e121818a3c"
+                }
+            ]
+        },
+        {
+            "file_id": "5e28439517067ec0481e47b89b45bb58",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un super-spettro a New York",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.012 - Un super-spettro a New York.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5e28439517067ec0481e47b89b45bb58"
+                }
+            ]
+        },
+        {
+            "file_id": "e73d0d98c69bf08ff1467820ec34f10f",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`armadio del mistero",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.013 - L`armadio del mistero.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e73d0d98c69bf08ff1467820ec34f10f"
+                }
+            ]
+        },
+        {
+            "file_id": "40f2d1adaae3c82989f5a4775882b248",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Spettri ricchi e famosi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.014 - Spettri ricchi e famosi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/40f2d1adaae3c82989f5a4775882b248"
+                }
+            ]
+        },
+        {
+            "file_id": "d976483b0d1a1f968e91c6128b0b06a6",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il drago di Egon",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.015 - Il drago di Egon.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d976483b0d1a1f968e91c6128b0b06a6"
+                }
+            ]
+        },
+        {
+            "file_id": "dfb08b8f28ddac587d45b6a4e5a79707",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Non c`\u00e8 pace tra i vampiri",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.016 - Non c`\u00e8 pace tra i vampiri.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dfb08b8f28ddac587d45b6a4e5a79707"
+                }
+            ]
+        },
+        {
+            "file_id": "c857a3d706066db8c1ad856810f229f4",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il castello stregato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.017 - Il castello stregato.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c857a3d706066db8c1ad856810f229f4"
+                }
+            ]
+        },
+        {
+            "file_id": "154ac1f7e2ac69c25e3e22dd5a2949ad",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un lunghissimo addio",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.018 - Un lunghissimo addio.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/154ac1f7e2ac69c25e3e22dd5a2949ad"
+                }
+            ]
+        },
+        {
+            "file_id": "81a279dd7294610f32667ffd22b3736a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il demone ibernato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.019 - Il demone ibernato.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81a279dd7294610f32667ffd22b3736a"
+                }
+            ]
+        },
+        {
+            "file_id": "d14a5a5c34b244288c67a06a6eec343c",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Chi ha paura dello spettro cattivo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.020 - Chi ha paura dello spettro cattivo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d14a5a5c34b244288c67a06a6eec343c"
+                }
+            ]
+        },
+        {
+            "file_id": "8c11cf7beac5872939d68e0bb14f4dd2",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il cavaliere misterioso",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.021 - Il cavaliere misterioso.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c11cf7beac5872939d68e0bb14f4dd2"
+                }
+            ]
+        },
+        {
+            "file_id": "79c420e2b800bf8765a82c662b1a57f6",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La balena bianca",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.022 - La balena bianca.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/79c420e2b800bf8765a82c662b1a57f6"
+                }
+            ]
+        },
+        {
+            "file_id": "a7a5faf6f5c7248e53feac19abb831b5",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Mister miliardo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.023 - Mister miliardo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a7a5faf6f5c7248e53feac19abb831b5"
+                }
+            ]
+        },
+        {
+            "file_id": "74a51f54a619e056a8a6d30f1ca8280b",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Victor, il fantasmino felice",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.024 - Victor, il fantasmino felice.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74a51f54a619e056a8a6d30f1ca8280b"
+                }
+            ]
+        },
+        {
+            "file_id": "87562cb5f8922ca302c534b4e159068b",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il prigioniero verde",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.025 - Il prigioniero verde.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/87562cb5f8922ca302c534b4e159068b"
+                }
+            ]
+        },
+        {
+            "file_id": "02a75d75380323f60b3670d9092153f4",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Polli alla",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.026 - Polli alla... diavolo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/02a75d75380323f60b3670d9092153f4"
+                }
+            ]
+        },
+        {
+            "file_id": "f185c976c2729a78ccc1cf91619d8bdd",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Riga dritto pap\u00e0",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.027 - Riga dritto pap\u00e0.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f185c976c2729a78ccc1cf91619d8bdd"
+                }
+            ]
+        },
+        {
+            "file_id": "72494f979741387f0b14827dddc54fe7",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 28,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La banda del buco nel muro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.028 - La banda del buco nel muro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/72494f979741387f0b14827dddc54fe7"
+                }
+            ]
+        },
+        {
+            "file_id": "2dd8ec7670c3e585a9fad7630ca1b76a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 29,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Squadra anticrimine",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.029 - Squadra anticrimine.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2dd8ec7670c3e585a9fad7630ca1b76a"
+                }
+            ]
+        },
+        {
+            "file_id": "de83e516db384875d13edc31fb83f574",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 30,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Viaggio a Parigi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.030 - Viaggio a Parigi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de83e516db384875d13edc31fb83f574"
+                }
+            ]
+        },
+        {
+            "file_id": "8f9e19ba2e53dc8b7cf72adf93c3d10d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 31,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Paura all`opera",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.031 - Paura all`opera.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8f9e19ba2e53dc8b7cf72adf93c3d10d"
+                }
+            ]
+        },
+        {
+            "file_id": "3bf095fe765b5b770ce152aac841f8f0",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 32,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un libro pericoloso",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.032 - Un libro pericoloso.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3bf095fe765b5b770ce152aac841f8f0"
+                }
+            ]
+        },
+        {
+            "file_id": "70503d6a4dd0f53208b414f7da940324",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 33,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un rock indiavolato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.033 - Un rock indiavolato.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70503d6a4dd0f53208b414f7da940324"
+                }
+            ]
+        },
+        {
+            "file_id": "31fb12f115fd86a3cd89c09c39761bfb",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 34,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il goblin con la faccia di cane",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.034 - Il goblin con la faccia di cane.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31fb12f115fd86a3cd89c09c39761bfb"
+                }
+            ]
+        },
+        {
+            "file_id": "f6f0a4e679d40751d54378abc3055779",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 35,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Dieci piccoli indiani",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.035 - Dieci piccoli indiani.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f6f0a4e679d40751d54378abc3055779"
+                }
+            ]
+        },
+        {
+            "file_id": "f03c3bdeb48acb50feb0e52e903161df",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 36,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il giorno del tacchino",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.036 - Il giorno del tacchino.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f03c3bdeb48acb50feb0e52e903161df"
+                }
+            ]
+        },
+        {
+            "file_id": "dcf8b4b837e9e822581d1dfc495d4921",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 37,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il Cavaliere senza testa",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.037 - Il Cavaliere senza testa.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcf8b4b837e9e822581d1dfc495d4921"
+                }
+            ]
+        },
+        {
+            "file_id": "d28eda9a901ffe91c514f078ff3ac07d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 38,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Non aprire quella porta",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.038 - Non aprire quella porta.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d28eda9a901ffe91c514f078ff3ac07d"
+                }
+            ]
+        },
+        {
+            "file_id": "b50a972b911cb3bdb090cfb2ec1aa7d6",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 39,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Le pietre fischianti",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.039 - Le pietre fischianti.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b50a972b911cb3bdb090cfb2ec1aa7d6"
+                }
+            ]
+        },
+        {
+            "file_id": "6562339f1f66b33a4952e17a00037901",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 40,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La porta parlante",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.040 - La porta parlante.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6562339f1f66b33a4952e17a00037901"
+                }
+            ]
+        },
+        {
+            "file_id": "0ef324e29b1c79b4a51177c28e664790",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 41,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il medium pasticcione",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.041 - Il medium pasticcione.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0ef324e29b1c79b4a51177c28e664790"
+                }
+            ]
+        },
+        {
+            "file_id": "f5cdc6d44a479c0ba5a85d187fd7e527",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 42,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Spettri Pirati",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.042 - Spettri Pirati.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f5cdc6d44a479c0ba5a85d187fd7e527"
+                }
+            ]
+        },
+        {
+            "file_id": "6a97bd64a3b4a26e65bed29832a0cb19",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 43,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il codice del west",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.043 - Il codice del west.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a97bd64a3b4a26e65bed29832a0cb19"
+                }
+            ]
+        },
+        {
+            "file_id": "73533d97c8a5fcef384837444a97b64f",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 44,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Lo zio Ciro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.044 - Lo zio Ciro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/73533d97c8a5fcef384837444a97b64f"
+                }
+            ]
+        },
+        {
+            "file_id": "77e99e09b2b416511ce21c9a71c14b64",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 45,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Vacanza scozzese",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.045 - Vacanza scozzese.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/77e99e09b2b416511ce21c9a71c14b64"
+                }
+            ]
+        },
+        {
+            "file_id": "26488235855f5207f5d500e22e39e565",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 46,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La notte di San Patrizio",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.046 - La notte di San Patrizio.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/26488235855f5207f5d500e22e39e565"
+                }
+            ]
+        },
+        {
+            "file_id": "5ebcf899de54d03cf580c9c0198e8b9c",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 47,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un fantasma nello spazio",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.047 - Un fantasma nello spazio.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ebcf899de54d03cf580c9c0198e8b9c"
+                }
+            ]
+        },
+        {
+            "file_id": "6f15d317d45b605bd536cb3d6712f372",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 48,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il sigillo magico",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.048 - Il sigillo magico.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6f15d317d45b605bd536cb3d6712f372"
+                }
+            ]
+        },
+        {
+            "file_id": "98e5cc75012e2f7d815fa6eb444b2942",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 49,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La corsa del diavolo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.049 - La corsa del diavolo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/98e5cc75012e2f7d815fa6eb444b2942"
+                }
+            ]
+        },
+        {
+            "file_id": "50c22d506cf0a9b09911b528305cd808",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 50,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il geranio stregato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.050 - Il geranio stregato.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50c22d506cf0a9b09911b528305cd808"
+                }
+            ]
+        },
+        {
+            "file_id": "f76afefe16d10c30cd3df20825d825b0",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 51,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il drago verde",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.051 - Il drago verde.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f76afefe16d10c30cd3df20825d825b0"
+                }
+            ]
+        },
+        {
+            "file_id": "3adfba5f6d61b3be51bdb2fe99f734ca",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 52,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`ultimo treno per l`oblio",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.052 - L`ultimo treno per l`oblio.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3adfba5f6d61b3be51bdb2fe99f734ca"
+                }
+            ]
+        },
+        {
+            "file_id": "2209189ed44216d3dc8f95d2cc7d71e8",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 53,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il pilastro misterioso",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.053 - Il pilastro misterioso.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2209189ed44216d3dc8f95d2cc7d71e8"
+                }
+            ]
+        },
+        {
+            "file_id": "5f3ed8b2179b6d86eabf3332c714b013",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 54,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "A carnevale ogni spettro vale",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.054 - A carnevale ogni spettro vale.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5f3ed8b2179b6d86eabf3332c714b013"
+                }
+            ]
+        },
+        {
+            "file_id": "46e33d823cb270fedc85b44b01b7707f",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 55,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Spirito goliardico",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.055 - Spirito goliardico.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/46e33d823cb270fedc85b44b01b7707f"
+                }
+            ]
+        },
+        {
+            "file_id": "93a50c549819a47268b30f38f4b4dc22",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 56,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il cavaliere di ferro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.056 - Il cavaliere di ferro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93a50c549819a47268b30f38f4b4dc22"
+                }
+            ]
+        },
+        {
+            "file_id": "016ba36ec1bb3beea6de448ae920500e",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 57,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il deodorante antispettro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.057 - Il deodorante antispettro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/016ba36ec1bb3beea6de448ae920500e"
+                }
+            ]
+        },
+        {
+            "file_id": "5393d3b37aba82a2eba3a2355474f734",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 58,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Fantasmi a congresso",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.058 - Fantasmi a congresso.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5393d3b37aba82a2eba3a2355474f734"
+                }
+            ]
+        },
+        {
+            "file_id": "431aee07ad61c80fb8ce5cb1e23e6424",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 59,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Sfasciacarrozze",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.059 - Sfasciacarrozze.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/431aee07ad61c80fb8ce5cb1e23e6424"
+                }
+            ]
+        },
+        {
+            "file_id": "2c2bd1a8168bb869e0b846a8935e741d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 60,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il Diavolo nel fondo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.060 - Il Diavolo nel fondo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c2bd1a8168bb869e0b846a8935e741d"
+                }
+            ]
+        },
+        {
+            "file_id": "e67df5fe255a03785fbb8d44de74cd26",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 61,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Ciak! motore, fantasmi!",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.061 - Ciak! motore, fantasmi!.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e67df5fe255a03785fbb8d44de74cd26"
+                }
+            ]
+        },
+        {
+            "file_id": "71f895bb905bca713dfc3b2e5702f9fe",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 62,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Attenti ai giornalisti",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.062 - Attenti ai giornalisti.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/71f895bb905bca713dfc3b2e5702f9fe"
+                }
+            ]
+        },
+        {
+            "file_id": "e9a7cb65a59a1fe118ed6a52d5826084",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 63,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Lo spirito televisivo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.063 - Lo spirito televisivo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e9a7cb65a59a1fe118ed6a52d5826084"
+                }
+            ]
+        },
+        {
+            "file_id": "16f246f0ba1a53bc01cca7e2c44433a4",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 64,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Appesi ad un filo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.064 - Appesi ad un filo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/16f246f0ba1a53bc01cca7e2c44433a4"
+                }
+            ]
+        },
+        {
+            "file_id": "b51502675fb5c3eefc875d07e9ebda1a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 2,
+            "episode": 65,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`ultimo vampiro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/2.065 - L`ultimo vampiro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b51502675fb5c3eefc875d07e9ebda1a"
+                }
+            ]
+        },
+        {
+            "file_id": "a5c5e750d4d50fcb14b9c3033427b227",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La piccola orfanella",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.001 - La piccola orfanella.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a5c5e750d4d50fcb14b9c3033427b227"
+                }
+            ]
+        },
+        {
+            "file_id": "e7eb3c4afc62dd29f834d671b0db587f",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il mondo \u00e8 una giungla",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.002 - Il mondo \u00e8 una giungla.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e7eb3c4afc62dd29f834d671b0db587f"
+                }
+            ]
+        },
+        {
+            "file_id": "dfcd54c8db9bea3e1c4f0b4fabfcbbf7",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Scambio Di Cervelli",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.003 - Scambio Di Cervelli.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dfcd54c8db9bea3e1c4f0b4fabfcbbf7"
+                }
+            ]
+        },
+        {
+            "file_id": "a619b3cd91af648dc9651d5e2e3aeb02",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Chi ha paura del Babau",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.004 - Chi ha paura del Babau.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a619b3cd91af648dc9651d5e2e3aeb02"
+                }
+            ]
+        },
+        {
+            "file_id": "ab200f83e7cb9c9dff09788123a6f709",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "C`era una volta Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.005 - C`era una volta Slimer.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab200f83e7cb9c9dff09788123a6f709"
+                }
+            ]
+        },
+        {
+            "file_id": "384e03b2c73a68ea33c93af1d4a5cfaf",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Le due facce del fantasmino",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.006 - Le due facce del fantasmino.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/384e03b2c73a68ea33c93af1d4a5cfaf"
+                }
+            ]
+        },
+        {
+            "file_id": "cbf465eb2763cc99ef11a2899a0c037a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un gigante dal cuore di zucchero",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.007 - Un gigante dal cuore di zucchero.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cbf465eb2763cc99ef11a2899a0c037a"
+                }
+            ]
+        },
+        {
+            "file_id": "ed25d0c20eab469486d10ff3dead3bef",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La vendetta del Grande Cocomero",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.008 - La vendetta del Grande Cocomero.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed25d0c20eab469486d10ff3dead3bef"
+                }
+            ]
+        },
+        {
+            "file_id": "26a92adac9db6fb9294738e44069f697",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Casa dolce casa",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.009 - Casa dolce casa.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/26a92adac9db6fb9294738e44069f697"
+                }
+            ]
+        },
+        {
+            "file_id": "a134e8b8dbb7a55c0c9218c9311d3191",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Io e mio fratello",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.010 - Io e mio fratello.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a134e8b8dbb7a55c0c9218c9311d3191"
+                }
+            ]
+        },
+        {
+            "file_id": "2d94b0f05a45ff9db03aead188842934",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Una strana creatura",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.011 - Una strana creatura.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d94b0f05a45ff9db03aead188842934"
+                }
+            ]
+        },
+        {
+            "file_id": "44b7706ee0c836f96cf7685ab6eed5aa",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il fantasma burlone",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.012 - Il fantasma burlone.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/44b7706ee0c836f96cf7685ab6eed5aa"
+                }
+            ]
+        },
+        {
+            "file_id": "fb4d38d72b3fb3093b099027a492dd76",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Paura al chiaro di luna",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/3.013 - Paura al chiaro di luna.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fb4d38d72b3fb3093b099027a492dd76"
+                }
+            ]
+        },
+        {
+            "file_id": "ddef4417dd2a3fd1bf3df193bb358125",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un bel gioco dura poco",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.001 - Un bel gioco dura poco.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ddef4417dd2a3fd1bf3df193bb358125"
+                }
+            ]
+        },
+        {
+            "file_id": "f42f3be89ea6ee63d51cab50a92d5541",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Gli acchiappafantasmi acchiappati",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.002 - Gli acchiappafantasmi acchiappati.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f42f3be89ea6ee63d51cab50a92d5541"
+                }
+            ]
+        },
+        {
+            "file_id": "907ce6bb1ece135eddc699328f96b3c9",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La notte dei polli mannari",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.003 - La notte dei polli mannari.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/907ce6bb1ece135eddc699328f96b3c9"
+                }
+            ]
+        },
+        {
+            "file_id": "b30a5cd91f39c1e47c36e8a514fe63a6",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Catastrofe a New York",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.004 - Catastrofe a New York.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b30a5cd91f39c1e47c36e8a514fe63a6"
+                }
+            ]
+        },
+        {
+            "file_id": "8dce1d2c273d6a99a416e071b0657649",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un robot fuorilegge",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.005 - Un robot fuorilegge.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8dce1d2c273d6a99a416e071b0657649"
+                }
+            ]
+        },
+        {
+            "file_id": "f449d2673b9e57c71f633380186ec5ea",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "In cerca di emozioni",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.006 - In cerca di emozioni.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f449d2673b9e57c71f633380186ec5ea"
+                }
+            ]
+        },
+        {
+            "file_id": "5d2065955054ab3a051dbca69981f5a9",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il vecchio villaggio indiano",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.007 - Il vecchio villaggio indiano.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5d2065955054ab3a051dbca69981f5a9"
+                }
+            ]
+        },
+        {
+            "file_id": "55eaa77bccbe6d78f365cc8151cb7139",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Oggetti smarriti in vendita",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/4.008 - Oggetti smarriti in vendita.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/55eaa77bccbe6d78f365cc8151cb7139"
+                }
+            ]
+        },
+        {
+            "file_id": "9234a123e98444c437e84f82f7ea9a0d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Qualcosa bolle in pentola",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.001 - Qualcosa bolle in pentola.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9234a123e98444c437e84f82f7ea9a0d"
+                }
+            ]
+        },
+        {
+            "file_id": "b9cca23352ad3eb1b53be7804160c0a8",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Tre uomini e un beb\u00e8",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.002 - Tre uomini e un beb\u00e8.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9cca23352ad3eb1b53be7804160c0a8"
+                }
+            ]
+        },
+        {
+            "file_id": "7871d32c4d9d7975cb99c65ec733b524",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Elementare mio caro",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.003 - Elementare mio caro.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7871d32c4d9d7975cb99c65ec733b524"
+                }
+            ]
+        },
+        {
+            "file_id": "2fc33895d9e980e3d8af31c3c4798ad0",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Se fossi uno stregone",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.004 - Se fossi uno stregone.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2fc33895d9e980e3d8af31c3c4798ad0"
+                }
+            ]
+        },
+        {
+            "file_id": "ac01a8d04bc91e03ae3bd76f3674698e",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Soci melmosi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.005 - Soci melmosi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac01a8d04bc91e03ae3bd76f3674698e"
+                }
+            ]
+        },
+        {
+            "file_id": "558402b83f2c551e7df683f5d5b41940",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Destino crudele",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.006 - Destino crudele.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/558402b83f2c551e7df683f5d5b41940"
+                }
+            ]
+        },
+        {
+            "file_id": "d9172eb092ce7d0716a2bfba17e27028",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Prigionieri",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.007 - Prigionieri.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d9172eb092ce7d0716a2bfba17e27028"
+                }
+            ]
+        },
+        {
+            "file_id": "323db9898aa8792245f706cfcfb844f2",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "In diretta dalla tomba di Al Capone",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.008 - In diretta dalla tomba di Al Capone.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/323db9898aa8792245f706cfcfb844f2"
+                }
+            ]
+        },
+        {
+            "file_id": "c1e8939dd388b6df9092b8453f5197cc",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Evviva la festa di Halloween",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.009 - Evviva la festa di Halloween.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c1e8939dd388b6df9092b8453f5197cc"
+                }
+            ]
+        },
+        {
+            "file_id": "a7075169fcd80e884bafc9526a779ec2",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Peter super uomo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.010 - Peter super uomo.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a7075169fcd80e884bafc9526a779ec2"
+                }
+            ]
+        },
+        {
+            "file_id": "359f018be6ee15d55351f0608a8e9376",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Lo specchio magico",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.011 - Lo specchio magico.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/359f018be6ee15d55351f0608a8e9376"
+                }
+            ]
+        },
+        {
+            "file_id": "560aa48780d4e811912f76089d3205f2",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Fantasmi in vacanza",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.012 - Fantasmi in vacanza.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/560aa48780d4e811912f76089d3205f2"
+                }
+            ]
+        },
+        {
+            "file_id": "0426f9141421a2ec400bd58b6fcd7051",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il drago fatato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.013 - Il drago fatato.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0426f9141421a2ec400bd58b6fcd7051"
+                }
+            ]
+        },
+        {
+            "file_id": "a239985ab7626d4776855066695f0f28",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il gatto dei desideri",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.014 - Il gatto dei desideri.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a239985ab7626d4776855066695f0f28"
+                }
+            ]
+        },
+        {
+            "file_id": "f3a4ea57c0f120b92bbea67af64950bf",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un incantesimo per Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.015 - Un incantesimo per Slimer.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f3a4ea57c0f120b92bbea67af64950bf"
+                }
+            ]
+        },
+        {
+            "file_id": "31fee74ee07070d91483143ec06d328b",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Finch\u00e9 morte non ci separi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.016 - Finch\u00e9 morte non ci separi.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31fee74ee07070d91483143ec06d328b"
+                }
+            ]
+        },
+        {
+            "file_id": "dee9c2a7b69c26cf1b76df04471c9be8",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Ritorno al passato",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.017 - Ritorno al passato.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dee9c2a7b69c26cf1b76df04471c9be8"
+                }
+            ]
+        },
+        {
+            "file_id": "166d75312a853bafd0b6005bd2c95096",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il rapimento di Slimer",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.018 - Il rapimento di Slimer.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/166d75312a853bafd0b6005bd2c95096"
+                }
+            ]
+        },
+        {
+            "file_id": "2994938abe80d8bbfd77ac7c194afe71",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La vendetta del re dei fantasmi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.019 - La vendetta del re dei fantasmi.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2994938abe80d8bbfd77ac7c194afe71"
+                }
+            ]
+        },
+        {
+            "file_id": "6b9ac5f5e720ece3381a76f1b889cef8",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Una trappola difettosa",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.020 - Una trappola difettosa.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6b9ac5f5e720ece3381a76f1b889cef8"
+                }
+            ]
+        },
+        {
+            "file_id": "30e0c595e18aab8c40edd01a9ef3352a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 5,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Slimer lascia la scia",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/5.021 - Slimer lascia la scia.mkv",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/30e0c595e18aab8c40edd01a9ef3352a"
+                }
+            ]
+        },
+        {
+            "file_id": "acbf6215b5b30821a8854f830c72aa06",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La fatina buona",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.001 - La fatina buona.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/acbf6215b5b30821a8854f830c72aa06"
+                }
+            ]
+        },
+        {
+            "file_id": "8996ea71dcd186a5f91647ce8bf8a41d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Una strana dimensione",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.002 - Una strana dimensione.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8996ea71dcd186a5f91647ce8bf8a41d"
+                }
+            ]
+        },
+        {
+            "file_id": "044a2116bb622ba92953f1dd9e175a76",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Il mondo dei fantasmi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.003 - Il mondo dei fantasmi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/044a2116bb622ba92953f1dd9e175a76"
+                }
+            ]
+        },
+        {
+            "file_id": "bd95067142c19061f77443c7ff8ebf1d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La casa infernale",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.004 - La casa infernale.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bd95067142c19061f77443c7ff8ebf1d"
+                }
+            ]
+        },
+        {
+            "file_id": "0347942c4713d1d425786c6790fd88da",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La pattuglia verde",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.005 - La pattuglia verde.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0347942c4713d1d425786c6790fd88da"
+                }
+            ]
+        },
+        {
+            "file_id": "5ea7c0c95fdc02090b6b87b5708e00e4",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Lo spettro spaziale",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.006 - Lo spettro spaziale.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ea7c0c95fdc02090b6b87b5708e00e4"
+                }
+            ]
+        },
+        {
+            "file_id": "7e6220b82e4fb32b35599b7880e3cc4a",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Fantasmi da salvare",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.007 - Fantasmi da salvare.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e6220b82e4fb32b35599b7880e3cc4a"
+                }
+            ]
+        },
+        {
+            "file_id": "fee792f7b46cf157ccbf6860b921ea86",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Viaggio in Russia",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.008 - Viaggio in Russia.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fee792f7b46cf157ccbf6860b921ea86"
+                }
+            ]
+        },
+        {
+            "file_id": "85df8f48c61684b3012b8977d52bf028",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Uno scienziato pazzo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.009 - Uno scienziato pazzo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85df8f48c61684b3012b8977d52bf028"
+                }
+            ]
+        },
+        {
+            "file_id": "07e6993362434265ee4c65ed8de14f4d",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "La macchina della memoria",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.010 - La macchina della memoria.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07e6993362434265ee4c65ed8de14f4d"
+                }
+            ]
+        },
+        {
+            "file_id": "56d0fe31de635f9900ea1e87f002ef03",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Gran Prix mortale",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.011 - Gran Prix mortale.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/56d0fe31de635f9900ea1e87f002ef03"
+                }
+            ]
+        },
+        {
+            "file_id": "a0708bf84c5d01ac177e17c69cc17b98",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Ospiti inattesi",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.012 - Ospiti inattesi.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0708bf84c5d01ac177e17c69cc17b98"
+                }
+            ]
+        },
+        {
+            "file_id": "6c4ab3373e561948c94ae53d6661d726",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Sammy K il furetto",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.013 - Sammy K il furetto.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c4ab3373e561948c94ae53d6661d726"
+                }
+            ]
+        },
+        {
+            "file_id": "5ef39685f1ae8979e3fae65b8aa87804",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Amici per la pelle",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.014 - Amici per la pelle.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ef39685f1ae8979e3fae65b8aa87804"
+                }
+            ]
+        },
+        {
+            "file_id": "0125ba0bbf8e089f55a6752f694585c4",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Un compleanno da ricordare",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.015 - Un compleanno da ricordare.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0125ba0bbf8e089f55a6752f694585c4"
+                }
+            ]
+        },
+        {
+            "file_id": "3d0fd2d6794b7417ce6c23c1b5028acf",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 6,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "I magnifici cinque",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/6.016 - I magnifici cinque.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3d0fd2d6794b7417ce6c23c1b5028acf"
+                }
+            ]
+        },
+        {
+            "file_id": "68af9c93ddcb2462f817bb2d9261e702",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 7,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Spedizione in Messico",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/7.001 - Spedizione in Messico.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/68af9c93ddcb2462f817bb2d9261e702"
+                }
+            ]
+        },
+        {
+            "file_id": "4cbfd058a75bfbaf2831b189a8fcd343",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 7,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "Fantasmi nel sacco",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/7.002 - Fantasmi nel sacco.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4cbfd058a75bfbaf2831b189a8fcd343"
+                }
+            ]
+        },
+        {
+            "file_id": "3af2c82a46c7673fd8b62527ff4da44b",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 7,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "SOS da Tokyo",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/7.003 - SOS da Tokyo.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3af2c82a46c7673fd8b62527ff4da44b"
+                }
+            ]
+        },
+        {
+            "file_id": "1e40ad4c921e34e908d0626ce0ca5c1b",
+            "tmdb_id": 2286,
+            "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
+            "season": 7,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "title": "L`invasione degli insetti",
+            "fname": "/Anime & Cartoni/The Real Ghostbusters - I veri acchiappafantasmi (1986) [a2286]/7.004 - L`invasione degli insetti.mp4",
+            "year": "1986",
+            "plot": "",
+            "actors": ["Arsenio Hall", "Dave Coulier", "Kath Soucie", "Buster Jones", "Rodger Bumpass"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e40ad4c921e34e908d0626ce0ca5c1b"
+                }
+            ]
+        }
     ]
 }

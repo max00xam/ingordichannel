@@ -1,254 +1,432 @@
 {
     "episodes_list": [
         {
-			"number": "1x1",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Guerra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/22beb0a353a7b5be0f0ee3a55831c6ae"
-				}
-			]
-		},
-		{
-			"number": "1x2",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Magua",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ebb2ca5cdf4ff34a6a27536bef0d7d5d"
-				}
-			]
-		},
-		{
-			"number": "1x4",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Nootka",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ad7ae4b60868d60f6c1690f2707e450c"
-				}
-			]
-		},
-		{
-			"number": "1x5",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L’Estate Indiana",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5cac2601d6b01a60dace697bde74586f"
-				}
-			]
-		},
-		{
-			"number": "1x6",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L’Agguato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2279ebd6f0b5befe138400ff6aa62910"
-				}
-			]
-		},
-		{
-			"number": "1x7",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L'Alce Nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3f28d8cb680ba0414e0e97166207ba0f"
-				}
-			]
-		},
-		{
-			"number": "1x8",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L'Armata Fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8965007a142b4788bca04e7f47b0b08c"
-				}
-			]
-		},
-		{
-			"number": "1x9",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Fattoria dei Quaccheri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/56fe427e6e9b070ad26d2628d4a14f87"
-				}
-			]
-		},
-		{
-			"number": "1x10",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Il Cimitero Indiano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/16142c39f57268683fed0b3ead8afb98"
-				}
-			]
-		},
-		{
-			"number": "1x11",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Il Francese",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/562828f8257cfcd00c4b37ed7a53bb9a"
-				}
-			]
-		},
-		{
-			"number": "1x12",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Fort Henry",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9d255b8d231a813787cdcff8df2cbbc6"
-				}
-			]
-		},
-		{
-			"number": "1x13",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Staffetta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1457dedc29230d569292fd951dcf8942"
-				}
-			]
-		},
-		{
-			"number": "1x14",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Il Massacro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/219876eee7cebb448abd3b2a1fac7506"
-				}
-			]
-		},
-		{
-			"number": "1x15",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L’Isolotto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/16210bf88b4a6bd48ad94b837a0b9397"
-				}
-			]
-		},
-		{
-			"number": "1x16",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Fuga di Magua",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8693da42dff83fcc0bba582958cca786"
-				}
-			]
-		},
-		{
-			"number": "1x17",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Ticonderoga",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a6608d1a167f865ddb5dd2e6f0b33aa"
-				}
-			]
-		},
-		{
-			"number": "1x18",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Trappola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ad2054d6a19e939a79c7af5bd27947b"
-				}
-			]
-		},
-		{
-			"number": "1x19",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "I Due Stregoni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/94f712caceb9b03a8a1bde1273397660"
-				}
-			]
-		},
-		{
-			"number": "1x20",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Testa Nera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/023f7cd08eb91f41d7e4a5315850408e"
-				}
-			]
-		},
-		{
-			"number": "1x21",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Taverna di Dupont",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/29fcb830a78c98433615b8c9a24fc422"
-				}
-			]
-		},
-		{
-			"number": "1x22",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "Inferno Bianco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aa98db712c5182e9e716562d84a94e7e"
-				}
-			]
-		},
-		{
-			"number": "1x23",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "I Due Orsi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b7620a8d7e4cce39fa0ad7f4403db8eb"
-				}
-			]
-		},
-		{
-			"number": "1x24",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Sfida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7486de9e0b0246b1fec07778440406e7"
-				}
-			]
-		},
-		{
-			"number": "1x25",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "La Tartaruga Blu_cut",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da3d977e3ded015782352782974b65dc"
-				}
-			]
-		},
-		{
-			"number": "1x26",
-			"saga": "L'ultimo dei Mohicani",
-			"title": "L’Ultimo Dei Mohicani",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f84dc19de123d9063f0ee7160f422d24"
-				}
-			]
-		}
+            "file_id": "6175e3a45c1f2e2a5ab3d92a16b824d6",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Guerra",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.01 - La Guerra.avi",
+            "year": "2020",
+            "plot": "La serie, tratta da una storia vera, racconta il difficile ritorno alla vita di un gruppo di bambini e ragazzi che, usciti dai campi di concentramento nazisti, dovranno riprendere in mano le proprie esistenze, riscoprendo i concetti di futuro e speranza.",
+            "director": [],
+            "actors": ["Michele Riondino", "Isabella Ragonese", "Valerio Binasco", "Andrea Bosca"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6175e3a45c1f2e2a5ab3d92a16b824d6"
+                }
+            ]
+        },
+        {
+            "file_id": "380b343e3aea6e431f2f22021778cac1",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Magua",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.02 - Magua.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/380b343e3aea6e431f2f22021778cac1"
+                }
+            ]
+        },
+        {
+            "file_id": "619ca894d92dd80743d025c83d01fa32",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Nootka",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.04 - Nootka.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/619ca894d92dd80743d025c83d01fa32"
+                }
+            ]
+        },
+        {
+            "file_id": "29bb9d59309e817c0d96777e0fbd4a49",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L\u2019Estate Indiana",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.05 - L\u2019Estate Indiana.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/29bb9d59309e817c0d96777e0fbd4a49"
+                }
+            ]
+        },
+        {
+            "file_id": "3069527c4911659834f2c9581788d406",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L\u2019Agguato",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.06 - L\u2019Agguato.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3069527c4911659834f2c9581788d406"
+                }
+            ]
+        },
+        {
+            "file_id": "246d6793fde33657a7a11c72427908b9",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L'Alce Nero",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.07 - L'Alce Nero.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/246d6793fde33657a7a11c72427908b9"
+                }
+            ]
+        },
+        {
+            "file_id": "e544a7403aa56f91e42eb46f662ce680",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L'Armata Fantasma",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.08 - L'Armata Fantasma.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e544a7403aa56f91e42eb46f662ce680"
+                }
+            ]
+        },
+        {
+            "file_id": "0d285086deb757c5f5e4fc19a634c720",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Fattoria dei Quaccheri",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.09 - La Fattoria dei Quaccheri.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0d285086deb757c5f5e4fc19a634c720"
+                }
+            ]
+        },
+        {
+            "file_id": "a41a3f0a15c325bc15d14d677be3b53f",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Il Cimitero Indiano",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.10 - Il Cimitero Indiano.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a41a3f0a15c325bc15d14d677be3b53f"
+                }
+            ]
+        },
+        {
+            "file_id": "3c08d039b296d7c8534b183b74bad67e",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Il Francese",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.11 - Il Francese.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3c08d039b296d7c8534b183b74bad67e"
+                }
+            ]
+        },
+        {
+            "file_id": "7827a372a9bf67afd687d6a6d423ad85",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Fort Henry",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.12 - Fort Henry.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7827a372a9bf67afd687d6a6d423ad85"
+                }
+            ]
+        },
+        {
+            "file_id": "b5610897d505ded93521d54d9a8885ff",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Staffetta",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.13 - La Staffetta.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5610897d505ded93521d54d9a8885ff"
+                }
+            ]
+        },
+        {
+            "file_id": "7f04c49d0cf7ee61633c491e1dc9dec9",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Il Massacro",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.14 - Il Massacro.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f04c49d0cf7ee61633c491e1dc9dec9"
+                }
+            ]
+        },
+        {
+            "file_id": "3f3370eb1feb11827e09fc460f633efc",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L\u2019Isolotto",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.15 - L\u2019Isolotto.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f3370eb1feb11827e09fc460f633efc"
+                }
+            ]
+        },
+        {
+            "file_id": "6b20f7cb9e6e730f08706ada85726d30",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Fuga di Magua",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.16 - La Fuga di Magua.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6b20f7cb9e6e730f08706ada85726d30"
+                }
+            ]
+        },
+        {
+            "file_id": "120f551881ca7552e46f94746c11d3d3",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Ticonderoga",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.17 - Ticonderoga.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/120f551881ca7552e46f94746c11d3d3"
+                }
+            ]
+        },
+        {
+            "file_id": "aadd6a60500d4710da3d85224471de43",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Trappola",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.18 - La Trappola.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aadd6a60500d4710da3d85224471de43"
+                }
+            ]
+        },
+        {
+            "file_id": "f49281a13e9a2298677923917730f78c",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Avventura", "Animazione"],
+            "title": "I Due Stregoni",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.19 - I Due Stregoni.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f49281a13e9a2298677923917730f78c"
+                }
+            ]
+        },
+        {
+            "file_id": "f9ba286bf4674e86d225baa6f20a0618",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Testa Nera",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.20 - Testa Nera.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f9ba286bf4674e86d225baa6f20a0618"
+                }
+            ]
+        },
+        {
+            "file_id": "84cfffb91278618db1ddeedf066fd997",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Taverna di Dupont",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.21 - La Taverna di Dupont.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/84cfffb91278618db1ddeedf066fd997"
+                }
+            ]
+        },
+        {
+            "file_id": "04cd2967ae33d6e5f945dec5b4dbf265",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Avventura", "Animazione"],
+            "title": "Inferno Bianco",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.22 - Inferno Bianco.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/04cd2967ae33d6e5f945dec5b4dbf265"
+                }
+            ]
+        },
+        {
+            "file_id": "ee098e30578eaa0e4e24a3841342e6cd",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Avventura", "Animazione"],
+            "title": "I Due Orsi",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.23 - I Due Orsi.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ee098e30578eaa0e4e24a3841342e6cd"
+                }
+            ]
+        },
+        {
+            "file_id": "c81f153fe364b25f705fb7bbfb979568",
+            "tvdb_id": "272328",
+            "tmdb_id": 86266,
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Sfida",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.24 - La Sfida.avi",
+            "year": "2019",
+            "plot": "Gabriele Bonci, il \"pizza hero\" di Roma, raggiunger\u00e0 in ogni puntata una diversa citt\u00e0 italiana, assagger\u00e0 i migliori prodotti di 3 forni e sceglier\u00e0 i 2 pi\u00f9 talentuosi che si scontreranno in una sfida creativa all\u2019ultimo impasto.",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c81f153fe364b25f705fb7bbfb979568"
+                }
+            ]
+        },
+        {
+            "file_id": "3bedfb8cf715331bd4d477e97df30a17",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Avventura", "Animazione"],
+            "title": "La Tartaruga Blu_cut",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.25 - La Tartaruga Blu_cut.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3bedfb8cf715331bd4d477e97df30a17"
+                }
+            ]
+        },
+        {
+            "file_id": "38d3a7d8b72e8a3670a4ea66c8fa85db",
+            "tvdb_id": "272328",
+            "saga": "L'ultimo dei Mohicani",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Avventura", "Animazione"],
+            "title": "L\u2019Ultimo Dei Mohicani",
+            "fname": "/Anime & Cartoni/L'ultimo dei Mohicani [b272328]/1.26 - L\u2019Ultimo Dei Mohicani.avi",
+            "year": "2004",
+            "plot": "",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38d3a7d8b72e8a3670a4ea66c8fa85db"
+                }
+            ]
+        }
     ]
 }

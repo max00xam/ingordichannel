@@ -1,13 +1,16 @@
 {
     "episodes_list": [
         {
+            "file_id": "bac659812e3de910998c2be11e8b84f8",
             "tmdb_id": 96435,
-            "number": "1x1",
             "saga": "Sandokan - La tigre ruggisce ancora",
             "title": "La tigre del rajah",
+            "fname": "/Anime & Cartoni/Sandokan - La tigre ruggisce ancora [a96435]/01 - La tigre del rajah.avi",
+            "year": "2001",
+            "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan \u00e8 pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/520983a0c3cddf1b0ed12cc0cee1a561"
+                    "url": "http://51.77.159.233:30299/bac659812e3de910998c2be11e8b84f8"
                 }
             ]
         }

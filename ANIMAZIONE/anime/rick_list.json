@@ -1,400 +1,652 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 60625,
-			"number": "1x1",
-			"saga": "Rick and Morty",
-			"title": "I semi della discordia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/afc40f07aaa977ed2190c31bdf6b4328"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x2",
-			"saga": "Rick and Morty",
-			"title": "Evoluzione canina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e7da088fa71ef8761b7e87575b2bd684"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x3",
-			"saga": "Rick and Morty",
-			"title": "Il Parco di anatomia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4562a40242313e1e9aee35843cbd336b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x4",
-			"saga": "Rick and Morty",
-			"title": "M",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/48b19cdbeefebdb0eb595651a5fb7298"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x5",
-			"saga": "Rick and Morty",
-			"title": "La tribù dei Miguardi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/27c36ceba5cb6d7c34bdc691e085e219"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x6",
-			"saga": "Rick and Morty",
-			"title": "Febbre d`amore n°9",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4a82ab60d2f97991250fb6b045a40f09"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x7",
-			"saga": "Rick and Morty",
-			"title": "Morty Junior",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0e98cf6dc91be141853ae3337d5fc1da"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x8",
-			"saga": "Rick and Morty",
-			"title": "Vite alternative",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eebeac50135bf865e4a956fe6b373b38"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x9",
-			"saga": "Rick and Morty",
-			"title": "Qualcosa di Rick-istro sta per accadere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8d54e74f179bcc6670b9de112a39bb7f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x10",
-			"saga": "Rick and Morty",
-			"title": "Incontri ravvicinati del Rick-Tipo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ba1c3b39e1d4977ef8b5678a5cf83190"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "1x11",
-			"saga": "Rick and Morty",
-			"title": "Ricksky business",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e5ddf68ad2698d9f438a39ef2d45ffcc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x1",
-			"saga": "Rick and Morty",
-			"title": "Nelle pieghe del tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b4eb919a010988f7fd65755e6bb8f47f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x2",
-			"saga": "Rick and Morty",
-			"title": "Puzza di mezzanotte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9bb2ef5ae01697c1d9d0251c3651036f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x3",
-			"saga": "Rick and Morty",
-			"title": "Assimilazione auto erotica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d07bd535473b38c082b2a556887d1f9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x4",
-			"saga": "Rick and Morty",
-			"title": "Total Rickall",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/68577559117462d657960bcb1f7675a8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x5",
-			"saga": "Rick and Morty",
-			"title": "Sbrachiamoci insieme",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/848b72a130a5e17963c4a0eca4b64069"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x6",
-			"saga": "Rick and Morty",
-			"title": "S",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3b49a26cebade1535d9f8b855d54145c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x7",
-			"saga": "Rick and Morty",
-			"title": "Mini-Rick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1ed5ec3a653707de35584f93b1aa52f6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x8",
-			"saga": "Rick and Morty",
-			"title": "Tv via cavo interdimensionale 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2a6387df283a4b5621ff287f0f6f9e2c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x9",
-			"saga": "Rick and Morty",
-			"title": "La notte dello sfogo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3a89831758afeb2e128a2ce6c22efaf8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "2x10",
-			"saga": "Rick and Morty",
-			"title": "Il mio squanch matrimonio alieno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/67dd8c49f5a7c323d219305317ad2f25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x1",
-			"saga": "Rick and Morty",
-			"title": "Le ali della Rick-libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/196cec69529ea17a338c5a3d07066188"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x2",
-			"saga": "Rick and Morty",
-			"title": "Al Rick-inseguimento della pietra verdet",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d69ba412e3d78da8f9bc7b7ebca7f169"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x3",
-			"saga": "Rick and Morty",
-			"title": "Cetriolo Rick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ffc2536acd896085bce9c0b4cbc053b1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x4",
-			"saga": "Rick and Morty",
-			"title": "Difensori 3 Il ritorno di Finimondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e75a64b61811f0b82244087fee220172"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x5",
-			"saga": "Rick and Morty",
-			"title": "La cospirazione del turbine vorticoso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9009cf004442cc13f0776b7f68944ec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x6",
-			"saga": "Rick and Morty",
-			"title": "Rickposo e tranquillità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/87077a90300862dbca93926ea35dc86b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x7",
-			"saga": "Rick and Morty",
-			"title": "A Ricklantide",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d4686583b3be97f9b3a91c33ea42235a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x8",
-			"saga": "Rick and Morty",
-			"title": "Gli spappamente di Morty",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1e333616f37d909a736624636034c3a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x9",
-			"saga": "Rick and Morty",
-			"title": "L`ABC di Beth",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6928e136fe3d4fb1adaca914a8c8cb6d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "3x10",
-			"saga": "Rick and Morty",
-			"title": "Il Rickchurian Mortydate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4748d8f6362b6513d45382272c0d3885"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "4x1",
-			"saga": "Rick and Morty",
-			"title": "Edge of ToMorty senza Rick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2236c1da4f33bcc9b6ad8f9911bd4f93"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "4x2",
-			"saga": "Rick and Morty",
-			"title": "Il vecchio e il water",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/680025b6b52ebd815647d140f588e428"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "4x3",
-			"saga": "Rick and Morty",
-			"title": "Qualcuno volò sul nido di Morty",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6b1acb576815cdf1efa49d912532de8f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "4x4",
-			"saga": "Rick and Morty",
-			"title": "Rick and Morty - Unità vittime speciali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4daa38bcc4793ed68c5a3e8cd1af9d9b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60625,
-			"number": "4x5",
-			"saga": "Rick and Morty",
-			"title": "Battleserpe Galactica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/445588003c300df74acebbe33125eb9f"
-				}
-			]
-		}
+            "file_id": "3eddd1c8ba2515747f13e05e7bb71673",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "I semi della discordia",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.001 - I semi della discordia.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3eddd1c8ba2515747f13e05e7bb71673"
+                }
+            ]
+        },
+        {
+            "file_id": "ba0ba8dda46abe33a9708b2d4debb302",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Evoluzione canina",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.002 - Evoluzione canina.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ba0ba8dda46abe33a9708b2d4debb302"
+                }
+            ]
+        },
+        {
+            "file_id": "a2d425ad718ff69477477898804133f2",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Il Parco di anatomia",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.003 - Il Parco di anatomia.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a2d425ad718ff69477477898804133f2"
+                }
+            ]
+        },
+        {
+            "file_id": "e6fad5d775776461b02f79962d601ee3",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "M",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.004 - M. Night Shyam-alieni.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e6fad5d775776461b02f79962d601ee3"
+                }
+            ]
+        },
+        {
+            "file_id": "c29e43d69e7d5e918011b742091ecc58",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "La trib\u00f9 dei Miguardi",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.005 - La trib\u00f9 dei Miguardi.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c29e43d69e7d5e918011b742091ecc58"
+                }
+            ]
+        },
+        {
+            "file_id": "5b966acff7a92aa1d2ec53cf153f6a33",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Febbre d`amore n\u00b09",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.006 - Febbre d`amore n\u00b09.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5b966acff7a92aa1d2ec53cf153f6a33"
+                }
+            ]
+        },
+        {
+            "file_id": "6a8611d2796eb8b0d6d707a099b67dae",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Morty Junior",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.007 - Morty Junior.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a8611d2796eb8b0d6d707a099b67dae"
+                }
+            ]
+        },
+        {
+            "file_id": "dcfc661742e4dc360737a150061f651f",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Vite alternative",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.008 - Vite alternative.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcfc661742e4dc360737a150061f651f"
+                }
+            ]
+        },
+        {
+            "file_id": "03a01cd7164460b295de82cade881212",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Qualcosa di Rick-istro sta per accadere",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.009 - Qualcosa di Rick-istro sta per accadere.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03a01cd7164460b295de82cade881212"
+                }
+            ]
+        },
+        {
+            "file_id": "318289ddf0ed63e30ea374e05e0e894e",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Incontri ravvicinati del Rick-Tipo",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.010 - Incontri ravvicinati del Rick-Tipo.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/318289ddf0ed63e30ea374e05e0e894e"
+                }
+            ]
+        },
+        {
+            "file_id": "e3494cf1cb6838de2724e2fe9e7983d3",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Ricksky business",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/1.011 - Ricksky business.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e3494cf1cb6838de2724e2fe9e7983d3"
+                }
+            ]
+        },
+        {
+            "file_id": "cb56ea685df307836188626fee5e7532",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Nelle pieghe del tempo",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.001 - Nelle pieghe del tempo.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cb56ea685df307836188626fee5e7532"
+                }
+            ]
+        },
+        {
+            "file_id": "6acb91ebabe31ccc9fd3460c39e1e08e",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Puzza di mezzanotte",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.002 - Puzza di mezzanotte.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6acb91ebabe31ccc9fd3460c39e1e08e"
+                }
+            ]
+        },
+        {
+            "file_id": "c28df7d1410c6ca5a9afc9a3d5146938",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Assimilazione auto erotica",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.003 - Assimilazione auto erotica.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c28df7d1410c6ca5a9afc9a3d5146938"
+                }
+            ]
+        },
+        {
+            "file_id": "071b921fac68ce75f56167c9f03f4443",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Total Rickall",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.004 - Total Rickall.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/071b921fac68ce75f56167c9f03f4443"
+                }
+            ]
+        },
+        {
+            "file_id": "08f49d929ca43ca578de901f01d419e8",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Sbrachiamoci insieme",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.005 - Sbrachiamoci insieme.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/08f49d929ca43ca578de901f01d419e8"
+                }
+            ]
+        },
+        {
+            "file_id": "0859e784bc5577556fafabf558588caf",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "S",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.006 - S.P.Q.R. sono pazzi questi Ricks.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0859e784bc5577556fafabf558588caf"
+                }
+            ]
+        },
+        {
+            "file_id": "1d46d635ccef6b0863019948559cd7fd",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Mini-Rick",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.007 - Mini-Rick.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d46d635ccef6b0863019948559cd7fd"
+                }
+            ]
+        },
+        {
+            "file_id": "0a48dda235fbf9031e58af37e2117d4f",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Tv via cavo interdimensionale 2",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.008 - Tv via cavo interdimensionale 2.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0a48dda235fbf9031e58af37e2117d4f"
+                }
+            ]
+        },
+        {
+            "file_id": "5e418e2fbd64789269cc6a554075a954",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "La notte dello sfogo",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.009 - La notte dello sfogo.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5e418e2fbd64789269cc6a554075a954"
+                }
+            ]
+        },
+        {
+            "file_id": "85780c84640708011b477a59cc346e4f",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Il mio squanch matrimonio alieno",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/2.010 - Il mio squanch matrimonio alieno.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85780c84640708011b477a59cc346e4f"
+                }
+            ]
+        },
+        {
+            "file_id": "66330f287093254b015fb0a1bf73599f",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Le ali della Rick-libert\u00e0",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.001 - Le ali della Rick-libert\u00e0.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/66330f287093254b015fb0a1bf73599f"
+                }
+            ]
+        },
+        {
+            "file_id": "4c5e0399a7a73ff52c03b4dff1049df9",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Al Rick-inseguimento della pietra verdet",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.002 - Al Rick-inseguimento della pietra verdet.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c5e0399a7a73ff52c03b4dff1049df9"
+                }
+            ]
+        },
+        {
+            "file_id": "bb8f63c7854de6e7e214ed975e44c24b",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Cetriolo Rick",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.003 - Cetriolo Rick.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bb8f63c7854de6e7e214ed975e44c24b"
+                }
+            ]
+        },
+        {
+            "file_id": "946eb8a18c9a042bf700284049841c6a",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Difensori 3 Il ritorno di Finimondo",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.004 - Difensori 3 Il ritorno di Finimondo.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/946eb8a18c9a042bf700284049841c6a"
+                }
+            ]
+        },
+        {
+            "file_id": "0b33615498d2e243d7985eae8fe31685",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "La cospirazione del turbine vorticoso",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.005 - La cospirazione del turbine vorticoso.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b33615498d2e243d7985eae8fe31685"
+                }
+            ]
+        },
+        {
+            "file_id": "bf95acb3d8095330e28340147cd0f8ed",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Rickposo e tranquillit\u00e0",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.006 - Rickposo e tranquillit\u00e0.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bf95acb3d8095330e28340147cd0f8ed"
+                }
+            ]
+        },
+        {
+            "file_id": "1d9511d23d9f976861588b6c0bda1a7d",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "A Ricklantide",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.007 - A Ricklantide.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d9511d23d9f976861588b6c0bda1a7d"
+                }
+            ]
+        },
+        {
+            "file_id": "7118e0bd001dba2d41d1d935814433cc",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Gli spappamente di Morty",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.008 - Gli spappamente di Morty.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7118e0bd001dba2d41d1d935814433cc"
+                }
+            ]
+        },
+        {
+            "file_id": "b237f297b722cee45464e7e7cd89dc62",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "L`ABC di Beth",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.009 - L`ABC di Beth.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b237f297b722cee45464e7e7cd89dc62"
+                }
+            ]
+        },
+        {
+            "file_id": "dc5f3d4a1283987456a3de4f5c8d2fa4",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Il Rickchurian Mortydate",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/3.010 - Il Rickchurian Mortydate.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dc5f3d4a1283987456a3de4f5c8d2fa4"
+                }
+            ]
+        },
+        {
+            "file_id": "9d46979fd50675ed52703dbb17b739ff",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Edge of ToMorty senza Rick",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/4.001 - Edge of ToMorty senza Rick.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d46979fd50675ed52703dbb17b739ff"
+                }
+            ]
+        },
+        {
+            "file_id": "01b6cb935e608c52d4fc8e44398f5268",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Il vecchio e il water",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/4.002 - Il vecchio e il water.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/01b6cb935e608c52d4fc8e44398f5268"
+                }
+            ]
+        },
+        {
+            "file_id": "988abb0e0d45fedce6a7aa21b51e296c",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Qualcuno vol\u00f2 sul nido di Morty",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/4.003 - Qualcuno vol\u00f2 sul nido di Morty.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/988abb0e0d45fedce6a7aa21b51e296c"
+                }
+            ]
+        },
+        {
+            "file_id": "4be77ef0b4f58a7669160f0564ab2e1b",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Rick and Morty - Unit\u00e0 vittime speciali",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/4.004 - Rick and Morty - Unit\u00e0 vittime speciali.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4be77ef0b4f58a7669160f0564ab2e1b"
+                }
+            ]
+        },
+        {
+            "file_id": "cd9b3fd49d3225f92cd18cc06051ff97",
+            "tmdb_id": 60625,
+            "saga": "Rick and Morty",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure", "Crime", "Mistero"],
+            "title": "Battleserpe Galactica",
+            "fname": "/Anime & Cartoni/Rick and Morty (2013) [a60625]/4.005 - Battleserpe Galactica.mkv",
+            "year": "2013",
+            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "actors": ["Justin Roiland", "Chris Parnell", "Spencer Grammer", "Sarah Chalke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd9b3fd49d3225f92cd18cc06051ff97"
+                }
+            ]
+        }
     ]
 }

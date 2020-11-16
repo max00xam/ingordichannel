@@ -1,899 +1,1372 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 35507,
-			"number": "1x1",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Caro diario mi presento!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f7f96fc8cdae1a2545b584ff35a880be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x2",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Un bacio rubato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3a1a1e2f70df1abd5b72ef84bce2f4f8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x3",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Pomeriggio con Yuri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/037ee8b5d7571785cc57ea4c8408af73"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x4",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La confessione di Ginta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/31dd51d2460d5e49024e44975fe284b0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x5",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La leggenda del medaglione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/95961c1f47f796207140b22b39d314c9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x6",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La scommessa di William",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a83d846deebf8bb40c9b63b306a6649"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x7",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Tutti in gita!",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e130aae91c68def9d17ce25beb12b16"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x8",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Fragranza di un adulto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b5479cde375984c1cb895a8c94cce28"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x9",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Gara di saldi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7528eb3d44c9c7d9b0ba45a9045d9656"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x10",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Un tenero week-end",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9dda3366da5b4595966cf6df79fc17ac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x11",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Festa di compleanno con William e company",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9dafeb2c77d8dd1aa90bea954c5e94df"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x12",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Una scelta difficile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f743b5100f560dddb3785b223db53b6e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x13",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Amore e amicizia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9e0c4da61be5c8ddf8a70e5f4547d08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x14",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Guerra in amore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9988b11845d43afc52d84ab35867d9b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x15",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il lungo addio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/367c39ed7195f40228d6b9f59819fb79"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x16",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Decisioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/80686b5fd53314d215feb7eecd267a7d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x17",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La separazione di Meiko",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d2f4bee52c65acef4d3f2533390df741"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x18",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La direzione dell`amore di Yuu",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/e4845fc8ef22258221d62971fe1d6844"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x19",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Alex combina-guai",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/1d45952c88c988dd939aaafacccca08f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x20",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La maratona",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/1b8e2e19a99da0c7bcd4587da3f6f8be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x21",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Steve non molla!",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/7d36748a46f76c7a0371864e15b0f5b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x22",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Pomeriggio al cinema",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/33168b3335a0bbbec2aaa35d9ba4da19"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x23",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Dove sei, papà",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/f073c813832bc0af75a74cd14468fe88"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x24",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Di nuovo insieme",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/24fbe3929145c193f8be850c4e69013f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x25",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Ti voglio bene",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/8c22ac248b31c041f4f2585b53849178"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x26",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Nubi all`orizzonte",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/dc0f5a641ea62d8d90de57782f91bb23"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x27",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Fragile come la felicità",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/7e244fb3b7b332431a2f7174586ff43c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x28",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Al lavoro!",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/6091d9a6ffcfa99e94465bf7bcaaf891"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x29",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il medaglione non c`è più!",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/3636ad43c167fd3d8bdc81ff4eb11af1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x30",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Studiamo insieme",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/09bb0bd92ef2ba1ef34b99f494cfe568"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x31",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La canzone di Yuri",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/c0a1cf607da0a29b88ea4b1cc03d6265"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x32",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Amore al festival scolastico",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/13f969608a012a15e102a08f02f7cbb3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x33",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Amore perduto",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/5ebbe9b1767b5fdc5e9270c0de9d199d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x34",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Premonizione di rottura",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/70095d746c51bc77a3358b3e4c8d5a24"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x35",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Possibilità d`incontro",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/fd47f2d3c655490408789d2f5795a20b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x36",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Sono sola",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/866fba2ee247adcf21b3b728a2c1ccee"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x37",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Riconciliazione piena di lacrime",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/1310a100045b9109b2c6bc962c51308c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x38",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "I sentimenti di Anju",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/fd28bab5a75ba868dae00003f4e642f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x39",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Un amore amaro",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/82dcbbc4a60219321af7d96971d294a4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x40",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Una notte santa",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/7827e170d060d8365a57a3e14ab07086"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x41",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La mattina degli amanti",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/f70f543c6994f8cca565625a83a88e88"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x42",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Quest`anno nuova trama d`amore",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/ed8d86e5b70cf328749f082ab5b47981"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x43",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Gita sugli sci",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/58c34442e3d6a61c47f236067b470a57"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x44",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il nostro futuro",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/77b4d3f169c81ebd16d4b03685798e9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x45",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il ripensamento di Meiko",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/46af2946ad614cea0f4d668070274b40"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x46",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "A Hiroshima al tuo fianco",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/f2ca8117dab39098232f7c1e678f5ded"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x47",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Coppia sulla spiaggia",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/5ecf8d15296cf77bf4651a25e33eba4e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x48",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il sapore del cioccolato",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/6f8978c7584d285f9ab6919bd7b3972e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x49",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La forma dell`amore",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/ab5923bef5bf2608b80bda15b18ec2fc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x50",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Arriva lo studente straniero dello scambio",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/1f5e53c85f9cfc205dc2f8f9f1681952"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x51",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Triangolo d`amore",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/986fca550006cbe1e66b7ff9d4060da7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x52",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Prendendo una decisione al chiaro di luna",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/988db12c9c6b5e1c02ecec33e6ffe990"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x53",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Creando un ricordo",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/bb0719d8c96a60b68bb7f87c59049be1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x54",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La nuova vita",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/a72b289f9f34796f42c64c96853279eb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x56",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Possibilità d`incontro",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/69d93f3bbb5a3c36aea353481bb63821"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x57",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La strada incerta dell`amore",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/3bab897c3490d796b7cbf688b6416773"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x58",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il tono di una confessione d`amore",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/807b02996e65d9e3778f19010f03dae1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x59",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Un weekend complicato",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/5f475ebbbd41ea820c1bc06f50a1ce05"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x60",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il mio amore è lontano",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/d55cc81adc979e1559fb8811906213d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x61",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La trappola a New York",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/6bec3dd5a966e4920c121fd1744461c7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x62",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Addio",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/cbe499c4dbb46cd3419cba16c47df675"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x63",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Trattenendo le lacrime",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/3b368c80a117ff2354b874f0236b2298"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x64",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Un problema di coppia",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/87666feeada52ed046bf1ae53d54d32a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x65",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La ferma decisione",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/e8d0b35151baadd158bd68843d98dec2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x66",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "La nuova scelta",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/7808ea73c39f31982ba431c5c012c80b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x67",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Amici",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/9380a3531da4d60922c76b822866c658"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x68",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Amanti indecisi",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/255f81ee6ad3041014796a475af5020b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x69",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Il coraggio di amare",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/fa0b423452e057ac66e7e23691888734"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x70",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Sono a casa",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/22eed4d90868deb36a9b95fb36789cdb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x71",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Una notte di stelle e di Luna",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/5542af215f5a5fe186c66d8a87afb9e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x72",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Mezzo fratello e sorella",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/8525305079e94b3fa28dbd3de1e381e0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x73",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Separazione",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/141e7daa72ac86f783fa1524e42ec480"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x74",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Una scatola di ricordi",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/9a58b90b22f85f51a6c14baa4a94e1c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x75",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Fratello e sorella",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/78f06138e2b7066fa2c3d72032860d08"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "1x76",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Partenza",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/ac7abb2661fd97fb2ab2408b7f22541c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 35507,
-			"number": "0x1",
-			"saga": "Piccoli Problemi di Cuore",
-			"title": "Quel giorno a casa di Yū",
-			"links": [
-				{
-					"quality": "SD audio non completamente in ITA",
-					"url": "http://51.77.159.233:30299/dc66fe997be907815cf3bdde98ab62ff"
-				}
-			]
-		}
+            "file_id": "3918c7b042f2cb2b44e6cc67b337fa85",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": "OAV",
+            "episode": 1,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Quel giorno a casa di Y\u016b",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/0.001 - Quel giorno a casa di Y\u016b.mkv",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3918c7b042f2cb2b44e6cc67b337fa85"
+                }
+            ]
+        },
+        {
+            "file_id": "0934f50857d1eb396bdc488431446de7",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Caro diario mi presento!",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.001 - Caro diario mi presento!.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0934f50857d1eb396bdc488431446de7"
+                }
+            ]
+        },
+        {
+            "file_id": "ef469f5ff1c8b54335f4cd5d2d9e4cfe",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un bacio rubato",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.002 - Un bacio rubato.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef469f5ff1c8b54335f4cd5d2d9e4cfe"
+                }
+            ]
+        },
+        {
+            "file_id": "48e88b5e17f6440ace86f8678608d2a1",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Pomeriggio con Yuri",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.003 - Pomeriggio con Yuri.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/48e88b5e17f6440ace86f8678608d2a1"
+                }
+            ]
+        },
+        {
+            "file_id": "1566d5eebf7d3c3c43369161d619f401",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La confessione di Ginta",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.004 - La confessione di Ginta.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1566d5eebf7d3c3c43369161d619f401"
+                }
+            ]
+        },
+        {
+            "file_id": "c0d40324c03751ecdd3d13b115665605",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La leggenda del medaglione",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.005 - La leggenda del medaglione.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c0d40324c03751ecdd3d13b115665605"
+                }
+            ]
+        },
+        {
+            "file_id": "f7b5cca56a8564ef0cc6d56c52905a0c",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La scommessa di William",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.006 - La scommessa di William.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f7b5cca56a8564ef0cc6d56c52905a0c"
+                }
+            ]
+        },
+        {
+            "file_id": "136c6addeef95b810a7bf4b414d1a746",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Tutti in gita!",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.007 - Tutti in gita!.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/136c6addeef95b810a7bf4b414d1a746"
+                }
+            ]
+        },
+        {
+            "file_id": "1531d453984ca5af46460f377b0c6193",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Fragranza di un adulto",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.008 - Fragranza di un adulto.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1531d453984ca5af46460f377b0c6193"
+                }
+            ]
+        },
+        {
+            "file_id": "07aaa85c3d788b195a06e93ba01b139d",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Gara di saldi",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.009 - Gara di saldi.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07aaa85c3d788b195a06e93ba01b139d"
+                }
+            ]
+        },
+        {
+            "file_id": "ccbef0908491f6e0d75426a6e5746e4f",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un tenero week-end",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.010 - Un tenero week-end.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ccbef0908491f6e0d75426a6e5746e4f"
+                }
+            ]
+        },
+        {
+            "file_id": "47bdc66bea23643634955c664a648787",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Festa di compleanno con William e company",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.011 - Festa di compleanno con William e company.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/47bdc66bea23643634955c664a648787"
+                }
+            ]
+        },
+        {
+            "file_id": "e5952b681aa6b94a9a022e969fb34547",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una scelta difficile",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.012 - Una scelta difficile.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e5952b681aa6b94a9a022e969fb34547"
+                }
+            ]
+        },
+        {
+            "file_id": "6378aba9298389a051f19a0c94fb2e78",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Amore e amicizia",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.013 - Amore e amicizia.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6378aba9298389a051f19a0c94fb2e78"
+                }
+            ]
+        },
+        {
+            "file_id": "002b10cd083b6807170c4d38cb97f63a",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Guerra in amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.014 - Guerra in amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/002b10cd083b6807170c4d38cb97f63a"
+                }
+            ]
+        },
+        {
+            "file_id": "5caa740dccfb91e0c2a8d7e5a6c86254",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il lungo addio",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.015 - Il lungo addio.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5caa740dccfb91e0c2a8d7e5a6c86254"
+                }
+            ]
+        },
+        {
+            "file_id": "2b5297430ec7e67426c1b2750dc27c8c",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Decisioni",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.016 - Decisioni.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2b5297430ec7e67426c1b2750dc27c8c"
+                }
+            ]
+        },
+        {
+            "file_id": "73470af23baff31553e95d587c43c0e0",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La separazione di Meiko",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.017 - La separazione di Meiko.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/73470af23baff31553e95d587c43c0e0"
+                }
+            ]
+        },
+        {
+            "file_id": "b4b565d9a47b8e5bb1981ba144c324a3",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La direzione dell`amore di Yuu",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.018 - La direzione dell`amore di Yuu.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b4b565d9a47b8e5bb1981ba144c324a3"
+                }
+            ]
+        },
+        {
+            "file_id": "47dcf333ca47e9db5094d61f1689e524",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Alex combina-guai",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.019 - Alex combina-guai.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/47dcf333ca47e9db5094d61f1689e524"
+                }
+            ]
+        },
+        {
+            "file_id": "a6cf8c7f88ca32a7b0316d6d38a973f5",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La maratona",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.020 - La maratona.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6cf8c7f88ca32a7b0316d6d38a973f5"
+                }
+            ]
+        },
+        {
+            "file_id": "af5944d5bcd279c50e483b9a57935b26",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Steve non molla!",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.021 - Steve non molla!.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/af5944d5bcd279c50e483b9a57935b26"
+                }
+            ]
+        },
+        {
+            "file_id": "baee46d685901010bd2ceb42d2e96281",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Pomeriggio al cinema",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.022 - Pomeriggio al cinema.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/baee46d685901010bd2ceb42d2e96281"
+                }
+            ]
+        },
+        {
+            "file_id": "5dd1f659b914504bb9c4f4865c4bfc58",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Dove sei, pap\u00e0",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.023 - Dove sei, pap\u00e0.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5dd1f659b914504bb9c4f4865c4bfc58"
+                }
+            ]
+        },
+        {
+            "file_id": "6821b99227c6db93ee0eb7e0cb77beaa",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Di nuovo insieme",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.024 - Di nuovo insieme.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6821b99227c6db93ee0eb7e0cb77beaa"
+                }
+            ]
+        },
+        {
+            "file_id": "3b2d5bf1e92aafc2f2c364fe11e09561",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Ti voglio bene",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.025 - Ti voglio bene.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b2d5bf1e92aafc2f2c364fe11e09561"
+                }
+            ]
+        },
+        {
+            "file_id": "ea79c3a03831c7087e5eb097f86dac48",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Nubi all`orizzonte",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.026 - Nubi all`orizzonte.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea79c3a03831c7087e5eb097f86dac48"
+                }
+            ]
+        },
+        {
+            "file_id": "feb3e6a2b819dacd63629a6962d75209",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 27,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Fragile come la felicit\u00e0",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.027 - Fragile come la felicit\u00e0.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/feb3e6a2b819dacd63629a6962d75209"
+                }
+            ]
+        },
+        {
+            "file_id": "b2ed46db0620d69969dbe6caea58a641",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 28,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Al lavoro!",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.028 - Al lavoro!.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b2ed46db0620d69969dbe6caea58a641"
+                }
+            ]
+        },
+        {
+            "file_id": "149e36e6bf789120f6cc49b31e008442",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 29,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il medaglione non c`\u00e8 pi\u00f9!",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.029 - Il medaglione non c`\u00e8 pi\u00f9!.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/149e36e6bf789120f6cc49b31e008442"
+                }
+            ]
+        },
+        {
+            "file_id": "61b9d9a60b30adb0d5b6b61e29e47835",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 30,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Studiamo insieme",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.030 - Studiamo insieme.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/61b9d9a60b30adb0d5b6b61e29e47835"
+                }
+            ]
+        },
+        {
+            "file_id": "59af03953451ce939fa361cff3c31045",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 31,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La canzone di Yuri",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.031 - La canzone di Yuri.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/59af03953451ce939fa361cff3c31045"
+                }
+            ]
+        },
+        {
+            "file_id": "bfafa7ba241e868e06177e6ea81077f5",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 32,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Amore al festival scolastico",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.032 - Amore al festival scolastico.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bfafa7ba241e868e06177e6ea81077f5"
+                }
+            ]
+        },
+        {
+            "file_id": "3f266666b9ffc650b9104dfbf1515aaf",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 33,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Amore perduto",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.033 - Amore perduto.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f266666b9ffc650b9104dfbf1515aaf"
+                }
+            ]
+        },
+        {
+            "file_id": "bb24644d6daf21b5a584694550fceaf6",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 34,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Premonizione di rottura",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.034 - Premonizione di rottura.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bb24644d6daf21b5a584694550fceaf6"
+                }
+            ]
+        },
+        {
+            "file_id": "8d6243c4316dcd132226f56d24e74b96",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 35,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Possibilit\u00e0 d`incontro",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.035 - Possibilit\u00e0 d`incontro.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d6243c4316dcd132226f56d24e74b96"
+                }
+            ]
+        },
+        {
+            "file_id": "00a9786ebff51fdbcca275efb75ec821",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 36,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Sono sola",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.036 - Sono sola.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/00a9786ebff51fdbcca275efb75ec821"
+                }
+            ]
+        },
+        {
+            "file_id": "d6f7410f4927fdbfb8f72186043f23d9",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 37,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Riconciliazione piena di lacrime",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.037 - Riconciliazione piena di lacrime.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d6f7410f4927fdbfb8f72186043f23d9"
+                }
+            ]
+        },
+        {
+            "file_id": "0b35d7998acc9acff9c214ffa003fcf4",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 38,
+            "genre": ["Animazione", "Dramma"],
+            "title": "I sentimenti di Anju",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.038 - I sentimenti di Anju.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b35d7998acc9acff9c214ffa003fcf4"
+                }
+            ]
+        },
+        {
+            "file_id": "d847906c521cf5fca9bbdfc6f988f107",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 39,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un amore amaro",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.039 - Un amore amaro.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d847906c521cf5fca9bbdfc6f988f107"
+                }
+            ]
+        },
+        {
+            "file_id": "93b5508c7cd50c245be4019cb10efe74",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 40,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una notte santa",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.040 - Una notte santa.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93b5508c7cd50c245be4019cb10efe74"
+                }
+            ]
+        },
+        {
+            "file_id": "0592ff035eb3f34f44caf5c35cb00776",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 41,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La mattina degli amanti",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.041 - La mattina degli amanti.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0592ff035eb3f34f44caf5c35cb00776"
+                }
+            ]
+        },
+        {
+            "file_id": "fa5a47cc6217a1f8f9fe6bc1890e84ae",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 42,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Quest`anno nuova trama d`amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.042 - Quest`anno nuova trama d`amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fa5a47cc6217a1f8f9fe6bc1890e84ae"
+                }
+            ]
+        },
+        {
+            "file_id": "d69f408093adf69801ff97a6ffdf5ff9",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 43,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Gita sugli sci",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.043 - Gita sugli sci.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d69f408093adf69801ff97a6ffdf5ff9"
+                }
+            ]
+        },
+        {
+            "file_id": "e9e84a0f51b656ee6738e130a63dbf4d",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 44,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il nostro futuro",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.044 - Il nostro futuro.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e9e84a0f51b656ee6738e130a63dbf4d"
+                }
+            ]
+        },
+        {
+            "file_id": "8c540b76178d44da231a5670c3a5800f",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 45,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il ripensamento di Meiko",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.045 - Il ripensamento di Meiko.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c540b76178d44da231a5670c3a5800f"
+                }
+            ]
+        },
+        {
+            "file_id": "8f2dfcfc8d45be9bf528298fff673611",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 46,
+            "genre": ["Animazione", "Dramma"],
+            "title": "A Hiroshima al tuo fianco",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.046 - A Hiroshima al tuo fianco.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8f2dfcfc8d45be9bf528298fff673611"
+                }
+            ]
+        },
+        {
+            "file_id": "bedf2aac7254e1f6fa1868e2fbc2628b",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 47,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Coppia sulla spiaggia",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.047 - Coppia sulla spiaggia.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bedf2aac7254e1f6fa1868e2fbc2628b"
+                }
+            ]
+        },
+        {
+            "file_id": "15726437c3790a2d92bf9a80546800cc",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 48,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il sapore del cioccolato",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.048 - Il sapore del cioccolato.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/15726437c3790a2d92bf9a80546800cc"
+                }
+            ]
+        },
+        {
+            "file_id": "6fc552dc39745e2e18a48050771e1474",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 49,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La forma dell`amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.049 - La forma dell`amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6fc552dc39745e2e18a48050771e1474"
+                }
+            ]
+        },
+        {
+            "file_id": "8056a18068406645e69e5a8798af579e",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 50,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Arriva lo studente straniero dello scambio",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.050 - Arriva lo studente straniero dello scambio.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8056a18068406645e69e5a8798af579e"
+                }
+            ]
+        },
+        {
+            "file_id": "d0c745a4d140dd9752cc16c7bef17a64",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 51,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Triangolo d`amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.051 - Triangolo d`amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d0c745a4d140dd9752cc16c7bef17a64"
+                }
+            ]
+        },
+        {
+            "file_id": "10f3d69d94da0429e65980bf75fb1eb9",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 52,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Prendendo una decisione al chiaro di luna",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.052 - Prendendo una decisione al chiaro di luna.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10f3d69d94da0429e65980bf75fb1eb9"
+                }
+            ]
+        },
+        {
+            "file_id": "ea0b40f9204bf3e975d222242dc88bf0",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 53,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Creando un ricordo",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.053 - Creando un ricordo.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea0b40f9204bf3e975d222242dc88bf0"
+                }
+            ]
+        },
+        {
+            "file_id": "e3e81e591600e7f2174f2fcf2afcc9a6",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 54,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La nuova vita",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.054 - La nuova vita.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e3e81e591600e7f2174f2fcf2afcc9a6"
+                }
+            ]
+        },
+        {
+            "file_id": "6339e411c6cabcf4d8c6bf6846c4da9e",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 56,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Possibilit\u00e0 d`incontro",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.056 - Possibilit\u00e0 d`incontro.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6339e411c6cabcf4d8c6bf6846c4da9e"
+                }
+            ]
+        },
+        {
+            "file_id": "5bbcb81872025afca7b445d6922ad724",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 57,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La strada incerta dell`amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.057 - La strada incerta dell`amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5bbcb81872025afca7b445d6922ad724"
+                }
+            ]
+        },
+        {
+            "file_id": "49a6adec1515bcf2661502e10965d25e",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 58,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il tono di una confessione d`amore",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.058 - Il tono di una confessione d`amore.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/49a6adec1515bcf2661502e10965d25e"
+                }
+            ]
+        },
+        {
+            "file_id": "fdc577e6cd5abe68b2eff729ce945605",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 59,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un weekend complicato",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.059 - Un weekend complicato.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fdc577e6cd5abe68b2eff729ce945605"
+                }
+            ]
+        },
+        {
+            "file_id": "d8ccae87c1d268977a517b663d5dd15b",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 60,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il mio amore \u00e8 lontano",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.060 - Il mio amore \u00e8 lontano.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d8ccae87c1d268977a517b663d5dd15b"
+                }
+            ]
+        },
+        {
+            "file_id": "3666291de74ff28060a3584284612978",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 61,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La trappola a New York",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.061 - La trappola a New York.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3666291de74ff28060a3584284612978"
+                }
+            ]
+        },
+        {
+            "file_id": "940878db0d4a82b3df1bda8181cc659e",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 62,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Addio",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.062 - Addio.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/940878db0d4a82b3df1bda8181cc659e"
+                }
+            ]
+        },
+        {
+            "file_id": "9a8f0206a4eefc0b9b72af6043c719e6",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 63,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Trattenendo le lacrime",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.063 - Trattenendo le lacrime.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a8f0206a4eefc0b9b72af6043c719e6"
+                }
+            ]
+        },
+        {
+            "file_id": "b20ecc071376986fd77587cfb79ddbdf",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 64,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Un problema di coppia",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.064 - Un problema di coppia.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b20ecc071376986fd77587cfb79ddbdf"
+                }
+            ]
+        },
+        {
+            "file_id": "b7fb92fcf0334a56e0a06840ef14d63d",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 65,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La ferma decisione",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.065 - La ferma decisione.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b7fb92fcf0334a56e0a06840ef14d63d"
+                }
+            ]
+        },
+        {
+            "file_id": "45840fb4202bf13235975be524b415cd",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 66,
+            "genre": ["Animazione", "Dramma"],
+            "title": "La nuova scelta",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.066 - La nuova scelta.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/45840fb4202bf13235975be524b415cd"
+                }
+            ]
+        },
+        {
+            "file_id": "6274edbaec71e918aa7254c0e9dde183",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 67,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Amici",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.067 - Amici.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6274edbaec71e918aa7254c0e9dde183"
+                }
+            ]
+        },
+        {
+            "file_id": "f20b0d1f652f7fa8a3d3efa9e6b23b3f",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 68,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Amanti indecisi",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.068 - Amanti indecisi.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f20b0d1f652f7fa8a3d3efa9e6b23b3f"
+                }
+            ]
+        },
+        {
+            "file_id": "356c4dc78eeceb1cc6f5e4619419f2c2",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 69,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Il coraggio di amare",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.069 - Il coraggio di amare.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/356c4dc78eeceb1cc6f5e4619419f2c2"
+                }
+            ]
+        },
+        {
+            "file_id": "265220841f2650a3c436cfb75456972e",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 70,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Sono a casa",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.070 - Sono a casa.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/265220841f2650a3c436cfb75456972e"
+                }
+            ]
+        },
+        {
+            "file_id": "f29cf28aeef3c02aceb9a23522abd357",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 71,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una notte di stelle e di Luna",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.071 - Una notte di stelle e di Luna.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f29cf28aeef3c02aceb9a23522abd357"
+                }
+            ]
+        },
+        {
+            "file_id": "09b31d8024e9852171449802279e0f67",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 72,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Mezzo fratello e sorella",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.072 - Mezzo fratello e sorella.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/09b31d8024e9852171449802279e0f67"
+                }
+            ]
+        },
+        {
+            "file_id": "78a1d3a226defb1fe2d831c084efb9ad",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 73,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Separazione",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.073 - Separazione.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/78a1d3a226defb1fe2d831c084efb9ad"
+                }
+            ]
+        },
+        {
+            "file_id": "7624be5400de193628f726ea814f2066",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 74,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Una scatola di ricordi",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.074 - Una scatola di ricordi.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7624be5400de193628f726ea814f2066"
+                }
+            ]
+        },
+        {
+            "file_id": "84386ed1c1b4663b77850bbce7b356d7",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 75,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Fratello e sorella",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.075 - Fratello e sorella.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/84386ed1c1b4663b77850bbce7b356d7"
+                }
+            ]
+        },
+        {
+            "file_id": "83bc0a8905b8eeefe4afb1f0b8a8d45d",
+            "tmdb_id": 35507,
+            "saga": "Piccoli Problemi di Cuore",
+            "season": 1,
+            "episode": 76,
+            "genre": ["Animazione", "Dramma"],
+            "title": "Partenza",
+            "fname": "/Anime & Cartoni/Piccoli Problemi di Cuore [a35507]/1.076 - Partenza.avi",
+            "year": "1994",
+            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "actors": ["Mariko Kouda", "Ryotaro Okiayu", "Wakana Yamazaki", "Jun'ichi Kanemaru", "Akira Ishida", "Shin'ichir\u00f4 \u00d4ta", "Aya Hisakawa", "Tooru Furuya", "Kazunari Tanaka", "Sakura Tange", "Hikaru Midorikawa", "Toshiyuki Morikawa", "Yuka Koyama"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/83bc0a8905b8eeefe4afb1f0b8a8d45d"
+                }
+            ]
+        }
     ]
 }
