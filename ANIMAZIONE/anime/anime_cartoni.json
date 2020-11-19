@@ -65,15 +65,6 @@
             "url": "/ANIMAZIONE/anime/city_list.json"
         },
         {
-            "plot": "\u00c8 passato un anno dal fallimento della Black Rebellion e dalla presunta morte di Zero. La Britannia ha assegnato all'area 11 uno status educativo correttivo, in cui Elevens \u00e8 un esempio di forza bruta, per cercare di prevenire eventuali attacchi futuri e reprimere i pensieri ribelli. Lelouch un ignaro studente di liceo, all'oscuro del suo passato ribelle come Zero, incontra una misteriosa donna nota come C.C., che riesce a fargli recuperare la memoria. Recuperati i suoi ricordi e l'uso del Geass distrugge i suoi assalitori e si dichiara ancora una volta Zero,decidendo di finire ci\u00f2 che aveva iniziato.",
-            "title": "Code Geass - Lelouch of the Rebellion R2",
-            "saga": "Code Geass - Lelouch of the Rebellion R2",
-            "year": "2008",
-            "thumbnail": "/ANIMAZIONE/anime/codeR2.jpg",
-            "genre": ["Azione e Avventura"," Animazione"," Drammatico"," Fantascienza & Fantasia"],
-            "url": "/ANIMAZIONE/anime/geassr2_list.json"
-        },
-        {
             "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
             "title": "Code Geass - Lelouch of the Rebellion",
             "saga": "Code Geass - Lelouch of the Rebellion",
@@ -81,6 +72,15 @@
             "tmdb_id": "31724",
             "genre": ["Azione e Avventura"," Animazione"," Drammatico"," Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/geass_list.json"
+        },
+        {
+            "plot": "\u00c8 passato un anno dal fallimento della Black Rebellion e dalla presunta morte di Zero. La Britannia ha assegnato all'area 11 uno status educativo correttivo, in cui Elevens \u00e8 un esempio di forza bruta, per cercare di prevenire eventuali attacchi futuri e reprimere i pensieri ribelli. Lelouch un ignaro studente di liceo, all'oscuro del suo passato ribelle come Zero, incontra una misteriosa donna nota come C.C., che riesce a fargli recuperare la memoria. Recuperati i suoi ricordi e l'uso del Geass distrugge i suoi assalitori e si dichiara ancora una volta Zero,decidendo di finire ci\u00f2 che aveva iniziato.",
+            "title": "Code Geass - Lelouch of the Rebellion R2",
+            "saga": "Code Geass - Lelouch of the Rebellion R2",
+            "year": "2008",
+            "thumbnail": "/ANIMAZIONE/anime/codeR2.jpg",
+            "genre": ["Azione e Avventura"," Animazione"," Drammatico"," Fantascienza & Fantasia"],
+            "url": "/ANIMAZIONE/anime/geassr2_list.json"
         },
         {
             "plot": "La storia si svolge cinque anni dopo gli avvenimenti di Dragon Ball Z, e si conclude a 40 anni dal primo incontro tra Goku e Bulma, con Goku ormai cinquantaduenne. La storia inizia con il ritorno di Goku dall'allenamento con Ub, reincarnazione del Majin Bu originale, con cui il sayan era partito alla fine della serie Z. Tornato bambino a causa di un desiderio mal formulato da parte di Pilaf a Red Shenron, Goku vive nuove avventure in compagnia della nipote Pan e di Trunks e affronta nuovi nemici per garantire la pace sulla Terra.",
@@ -169,7 +169,7 @@
             "year": "1994",
             "tmdb_id": "5402",
             "genre": ["Kids", "Documentario", "Animazione", "Famiglia"],
-            "url": "/ANIMAZIONE/anime/_list.json"
+            "url": "/ANIMAZIONE/anime/uoimini_list.json"
         },
         {
             "plot": "I Puffi (The Smurfs) \u00e8 una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esord\u00ec nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata \u00e8 diventata molto popolare ed \u00e8 stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",

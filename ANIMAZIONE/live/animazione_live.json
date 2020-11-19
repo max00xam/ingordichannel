@@ -1,5 +1,5 @@
 {
-    "tvshows_list": 
+    "tvshows_list":[
         {
         "plot": "",
         "title": "",
@@ -9,6 +9,5 @@
         "genre":[""],
         "url": "/ANIMAZIONE/film/_list.json"
         }
-}
     ]
 }
