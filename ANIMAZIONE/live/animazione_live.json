@@ -8,6 +8,108 @@
         "tmdb_id": "",
         "genre":[""],
         "url": "/ANIMAZIONE/film/_list.json"
+        },
+        {
+            "file_id": "f39e1d508ed8cef3f06529bc880f02b7",
+            "tmdb_id": 420426,
+            "saga": "LiveAction",
+            "genre": ["Azione", "Fantasy", "Avventura"],
+            "title": "Bleach",
+            "fname": "/Film anime/LiveAction/Bleach (2018).mkv",
+            "year": "2018",
+            "plot": "La trasposizione in live-action basato sul famoso manga giapponese. La storia \u00e8 incentrata su Ichigo Kurosaki, un quindicenne in grado di vedere i fantasmi. Un giorno, mentre \u00e8 attaccato da uno spirito maligno, hollow, viene salvato da Rukia, uno shinigami (dio della morte ndr.) che ha il compito di proteggere gli esseri umani dagli attacchi degli hollow.",
+            "director": ["Shinsuke Sato"],
+            "actors": ["Sota Fukushi", "Hana Sugisaki", "Ryo Yoshizawa", "Erina Mano", "Yu Koyanagi", "Taichi Saotome", "Miyavi", "Seiichi Tanabe", "Masami Nagasawa", "Yosuke Eguchi"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f39e1d508ed8cef3f06529bc880f02b7"
+                }
+            ]
+        },
+        {
+            "file_id": "4404dc1645488d8555d49d72bf6fbd94",
+            "tmdb_id": 351460,
+            "saga": "LiveAction",
+            "genre": ["Fantasy", "Horror", "Thriller"],
+            "title": "Death Note",
+            "fname": "/Film anime/LiveAction/Death Note (2017).mkv",
+            "year": "2017",
+            "plot": "Grazie al ritrovamento di un quaderno soprannaturale che dona a chi lo possiede il potere di uccidere chiunque, uno studente inizia una strenua lotta contro il Male con l'intento di governare il mondo come se fosse un Dio benevolo. Ma il suo tentativo viene osteggiato dalle indagini di un detective solitario che far\u00e0 di tutto per fermarlo.",
+            "director": ["Adam Wingard"],
+            "actors": ["Nat Wolff", "Lakeith Stanfield", "Willem Dafoe", "Margaret Qualley", "Shea Whigham", "Paul Nakauchi", "Jason Liles", "Michael Shamus Wiles", "Artin John", "David S. Jung", "Tony Ali", "Christopher Britton", "Masi Oka", "Matthew Kevin Anderson", "Barbara Beall", "Lia Lam", "Christian Sloan", "Jessica McLeod", "Cole Vigue", "Olena Medwid", "Paul McGillion", "Eileen Pedde", "Fraser Corbett", "Natalie Moon", "Ash Lee", "Albert Nicholas", "Al Miro", "Arlina Rodr\u00edguez", "Chris Webb", "Michelle Kim", "Colin Corrigan", "Sarah Ziolkowski", "Jack Ettlinger", "Michelle Choi-Lee", "Scott Seol", "Beau Han Bridge", "Jesse Irving", "Anousha Alamian", "Jesse Stretch", "Artur Stofel", "Shayan Moallef", "DaeYoung Danny Kim", "Anup Sehdev", "Juanpaolo Mercado", "Kyle Donaldson", "Dawn Chubai", "Addison Gosselin"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4404dc1645488d8555d49d72bf6fbd94"
+                }
+            ]
+        },
+        {
+            "file_id": "8f96617149eabcad629fb9ded5e1c71a",
+            "tmdb_id": 351460,
+            "saga": "LiveAction",
+            "genre": [],
+            "title": "Death Note",
+            "fname": "/Film anime/LiveAction/Death Note (FHD 2017).mkv",
+            "year": "2017",
+            "plot": "Grazie al ritrovamento di un quaderno soprannaturale che dona a chi lo possiede il potere di uccidere chiunque, uno studente inizia una strenua lotta contro il Male con l'intento di governare il mondo come se fosse un Dio benevolo. Ma il suo tentativo viene osteggiato dalle indagini di un detective solitario che far\u00e0 di tutto per fermarlo.",
+            "director": [],
+            "actors": [],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8f96617149eabcad629fb9ded5e1c71a"
+                }
+            ]
+        },
+        {
+            "file_id": "feedc0fcd1bc8a1ab9ce8085bb8dcf53",
+            "tmdb_id": 334376,
+            "saga": "LiveAction",
+            "genre": ["Fantascienza", "Animazione"],
+            "title": "Ghost.in.the.Shell..",
+            "fname": "/Film anime/LiveAction/Ghost.in.the.Shell.(2017).[BDRip.1080p.-.AC3.iTA.eNG].mkv",
+            "year": "2015",
+            "plot": "In un prossimo futuro, la tecnologia ha ormai saldamente affondato le sue radici nella societ\u00e0.  Gli impianti cibernetici sono largamente diffusi e i robot godono delle stesse libert\u00e0 degli esseri umani, e tutti sono collegati grazie al proprio Ghost attraverso i flussi dati della rete. Il maggiore Motoko Kusanagi e la Sezione di Pubblica Sicurezza 9 devono fronteggiare una lotta continua contro la nuova generazione di terroristi tecnologici e di cyber-hacker. Ma le cose prendono una piega diversa quando Motoko viene coinvolta in un caso che coinvolge un hacker soprannominato Fire Starter! A causa sua, Motoko finir\u00e0 col tuffarsi sempre pi\u00f9 profondamente nella realt\u00e0 senza limiti della rete\u2026",
+            "director": ["Kazuchika Kise", "Kazuya Nomura"],
+            "actors": ["Maaya Sakamoto", "Kenichir\u014d Matsuda", "Kazuya Nakai", "Ikkyuu Juku", "Kenji Nojima", "Mayumi Asano", "Megumi Han", "Miyuki Sawashiro", "Mugihito", "Shunsuke Sakuya"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/feedc0fcd1bc8a1ab9ce8085bb8dcf53"
+                }
+            ]
+        },
+        {
+            "file_id": "81cc764e4278fa4aa1c02cf4556c7fe5",
+            "tmdb_id": 334376,
+            "saga": "LiveAction",
+            "genre": ["Fantascienza", "Animazione"],
+            "title": "Ghost.in.the.Shell",
+            "fname": "/Film anime/LiveAction/Ghost.in.the.Shell.mkv",
+            "year": "2015",
+            "plot": "In un prossimo futuro, la tecnologia ha ormai saldamente affondato le sue radici nella societ\u00e0.  Gli impianti cibernetici sono largamente diffusi e i robot godono delle stesse libert\u00e0 degli esseri umani, e tutti sono collegati grazie al proprio Ghost attraverso i flussi dati della rete. Il maggiore Motoko Kusanagi e la Sezione di Pubblica Sicurezza 9 devono fronteggiare una lotta continua contro la nuova generazione di terroristi tecnologici e di cyber-hacker. Ma le cose prendono una piega diversa quando Motoko viene coinvolta in un caso che coinvolge un hacker soprannominato Fire Starter! A causa sua, Motoko finir\u00e0 col tuffarsi sempre pi\u00f9 profondamente nella realt\u00e0 senza limiti della rete\u2026",
+            "director": ["Kazuchika Kise", "Kazuya Nomura"],
+            "actors": ["Maaya Sakamoto", "Kenichir\u014d Matsuda", "Kazuya Nakai", "Ikkyuu Juku", "Kenji Nojima", "Mayumi Asano", "Megumi Han", "Miyuki Sawashiro", "Mugihito", "Shunsuke Sakuya"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81cc764e4278fa4aa1c02cf4556c7fe5"
+                }
+            ]
+        },
+        {
+            "file_id": "0580ad6236be2a05e595b9c2fe17e019",
+            "tmdb_id": 454626,
+            "saga": "LiveAction",
+            "genre": ["Azione", "Fantascienza", "Commedia", "Famiglia"],
+            "title": "Sonic - Il film",
+            "fname": "/Film anime/LiveAction/Sonic - Il film (2020).mkv",
+            "year": "2020",
+            "plot": "Sonic trascina Tom Wachowski, uno sceriffo del Montana,  in un viaggio attraverso il paese per recuperare i suoi favolosi anelli d'oro prima che il dottor Ivo Robotnik possa reclamarli per s\u00e9 stesso.",
+            "director": ["Jeff Fowler"],
+            "actors": ["Ben Schwartz", "James Marsden", "Jim Carrey", "Tika Sumpter", "Natasha Rothwell", "Adam Pally", "Lee Majdoub", "Neal McDonough", "Tom Butler", "Frank C. Turner", "Melody Nosipho Niemann", "Shannon Chan-Kent", "Brad Kelly", "Elfina Luk", "Garry Chalk", "Michael Hogan", "Peter Bryant", "Jeremy Arnold", "Jeanie Cloutier", "Emma Oliver", "Bailey Skodje", "Dean Petriw", "Jeff Sanca", "Lisa Chandler", "Chris Gailus", "Bethel Lee", "Anthony Santiago", "Jeremiah Oh", "Charles Heffernan", "Terence Kelly", "Sean Campbell", "Scott Patey", "Sandy Robson", "Andrea Marcum", "Benjamin Valic", "Donna Jay Fulks", "Colleen O'Shaughnessey", "Nicholas Dohy", "Debs Howard", "Leanne Lapp", "Nadeen Lightbody", "John Specogna", "Steve Warky Nunez", "Breanna Watkins"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0580ad6236be2a05e595b9c2fe17e019"
+                }
+            ]
         }
     ]
 }

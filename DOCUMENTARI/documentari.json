@@ -1,365 +1,2424 @@
 {
   "movies_list": [
-    {
-      "plot": "Da dove tutto ebbe inizio. Il video che non solo ha ridefinito la cultura automobilistica, ma ha trasformato i media automobilistici stessi. Nessun CGI o filmati accelerati da trovare - solo la vera guida nata dalle abilità di guida di Ken Block. Questo è il video che ha lanciato un impero e ha generato innumerevoli imitatori. Questa è Gymkhana.",
-      "title": "DC SHOES: KEN BLOCK GYMKHANA 1 PRACTICE",
-      "year": "2008",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-1.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=rs-jAImScms",
-          "quality":"HD"
-        }
-      ]
+      {
+        "plot": "Da dove tutto ebbe inizio. Il video che non solo ha ridefinito la cultura automobilistica, ma ha trasformato i media automobilistici stessi. Nessun CGI o filmati accelerati da trovare - solo la vera guida nata dalle abilità di guida di Ken Block. Questo è il video che ha lanciato un impero e ha generato innumerevoli imitatori. Questa è Gymkhana.",
+        "title": "DC SHOES: KEN BLOCK GYMKHANA 1 PRACTICE",
+        "year": "2008",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-1.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=rs-jAImScms",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Sulla scia del successo del primo video di Gymkhana Practice che ha attirato l'attenzione di oltre 20 milioni di spettatori in tutto il mondo, il video TWO di Gymkhana porta le informazioni al livello successivo. A differenza di altri infomercials, questo vende i prodotti con grande azione, cinematografia e una drammatica performance di guida - e, nessuno stereotipato lancinatore informale di formaggio! Prodotto appositamente per commercializzare la prima collezione Rally TeamWorks di Blocks, il nuovo video è pieno di fantastiche acrobazie di guida, sorprese, esplosioni e un'apparizione ospite da parte del pilota del team DC, Rob Dyrdek. Girato al porto di Los Angeles, aspettatevi un piacere per gli sport motoristici non-stop mentre Block inizia il nuovissimo percorso in una Subaru Impreza WRX STI personalizzata e ad alte prestazioni. Visita dcshoes.com/gymkhanatwo per ulteriori foto e informazioni sul video ad alte prestazioni e Blocks Collection Teamworks completa",
+        "title": "DC SHOES: KEN BLOCK GYMKHANA 2 THE INFOMERCIAL",
+        "year": "2009",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-2.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=HQ7R_buZPSo",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Scattata a sud di Parigi, in Francia, a Linas all'Autodromo di Linas - Montléry, questa pista ovale di 1,58 miglia, costruita nel 1924, presenta sponde ripide di 51 gradi, che sono più del doppio dell'inclinazione standard della maggior parte degli ovali NASCAR. Scelto da Ken per questo motivo specifico, il sistema bancario a rampa si è rivelato una sfida unica ed eccitante. La fisica di guida per le acrobazie eseguite era totalmente sconosciuta fino a quando Ken non ha tentato le manovre durante le riprese.",
+        "title": "KEN BLOCK'S GYMKHANA 3, PART 2; ULTIMATE PLAYGROUND; L'AUTODROME, FRANCE",
+        "year": "2010",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-3.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?time_continue=6&v=4TshFWSsrn8",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":" Gymkhana 4 supera lo stile di alta produzione di Gymkhana 2 con effetti ancora più spettacolari girati nel backstage di Universal Studios, California. Girato per cinque giorni, il regista Ben Conrad (Zombieland e 30 Seconds or Less) e il suo team Logan offre una produzione di calibro di Hollywood completa di articoli pirotecnici, acrobazie enormi e una miriade di trucchi incredibili. Con gli squali robotici, gli zombi squilibrati e una cammeo esilarante dei ragazzi di Epic Meal Time, Ken Block e il suo Hybrid FunctionHoon Vehicle (H.F.H.V.) riuniscono la magia di Hollywood e gymkhana.",
+        "title": "KEN BLOCK'S GYMKHANA 4; THE HOLLYWOOD MEGAMERCIAL",
+        "year": "2011",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-4.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=btViXvIDsi0",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Girato per le strade di San Francisco, in California, Gymkhana 5 si concentra su un'azione di guida veloce, grezza e precisa. Girato per quattro giorni, il regista Ben Conrad e il suo team sono tornati a lavorare alla loro seconda produzione Gymkhana e hanno consegnato l'intera città di San Francisco come parco giochi personale di Ken Block. DC Shoes ha anche fornito il collega atleta DC e l'amico di lunga data Ken Block, Travis Pastrana, per fare un'apparizione cameo sulla sua dirtbike, e S.F. residente Jake Phelps della fama di Thrasher Magazine fa anche un cameo mentre Block hoons S.F. nella sua più incredibile Gymkhana di sempre.",
+        "title": "KEN BLOCK'S GYMKHANA 5: ULTIMATE URBAN PLAYGROUND; SAN FRANCISCO",
+        "year": "2012",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-5.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?time_continue=4&v=LuDN2bCIyus",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Per i gioco Need For Speed Ken Block, come consulente di gare, ha realizzato il corso GRID Gymkhana per eccellenza, un parco giochi per mostrare la velocità, il divertimento e l'azione esaltante della guida. Ciò significa ostacoli completamente nuovi che aiutano ad aumentare la difficoltà per Block di padroneggiare nella sua auto da corsa Ford Fiesta ST RX43 2013, tra cui le manovre intorno a una palla da demolizione in movimento e lo scorrimento attraverso l'apertura stretta nei lati dei container. Block ha anche aggiunto elementi di videogiochi da Need for Speed Rivals. Guarda mentre esegue più salti, va alla deriva intorno a Lamborghini Aventadors ed elude i poliziotti della contea di Redview a tema videogioco su Segway nel suo stile unico. Puoi quasi sentire l'odore della bruciatura della gomma mentre strappa questo incredibile percorso. Quindi sedetevi e godetevi il viaggio.",
+        "title": "NEED FOR SPEED: KEN BLOCK'S GYMKHANA 6 - ULTIMATE GYMKHANA GRID COURSE",
+        "year": "2013",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-6.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?time_continue=8&v=WUO-lPubXeI",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Hoonigan, Ford e Need For Speed presentano con orgoglio Gymkhana SEVEN di Ken Block; Wild in the Streets: Los Angeles.",
+        "title": "KEN BLOCK'S GYMKHANA 7: WILD IN THE STREETS OF LOS ANGELES",
+        "year": "2014",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-7.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=5qanlirrRWs",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Ken Block si supera in questo ottavo appuntamento ambientato a tra le strade di Dubai, dove esegue spettacolari esibizioni e bloca un'intera città!",
+        "title": "KEN BLOCK'S ULTIMATE EXOTIC PLAYGROUND IN DUBAI | GYMKHANA 8 | FORD PERFORMANCE",
+        "year": "2016",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-8.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?time_continue=4&v=_hf6ke1-i3E",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Gymkhana NINE: Raw Industrial Playground. Questo video ritorna alle radici del franchise virale di oltre 550 milioni di visualizzazioni di HHIC Ken Block con un'azione di guida pura e pura al centro della scena. Protagonista è la sua Ford Focus RS RX da oltre 600 cavalli con cui compete nel campionato mondiale Rallycross FIA.",
+        "title": "KEN BLOCK'S GYMKHANA 9: RAW INDUSTRIAL PLAYGROUND",
+        "year": "2016",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-9.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=_bkX5VkZg8U",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "plot":"Ken Block e Hoonigan sono lieti di presentare l'ultimo e più grande progetto video di Block della sua carriera, Gymkhana TEN: Ultimate Tire Slaying Tour. Ora disponibile su YouTube in tutto il mondo dopo una finestra di esclusività di 10 giorni su Amazon Prime Video, nell'ambito del documentario di Block: The Gymkhana Files",
+        "title": "KEN BLOCK'S GYMKHANA 10: THE ULTIMATE TIRE SLAYING TOUR",
+        "year": "2018",
+        "persone":"Ken Block",
+        "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-10.jpg",
+        "casa": "Gymkhana",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=m_KBvP0_8Tc",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "The Red Discovery - AVM Episode corto 1",
+        "year": "18-11-2017",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-1.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=sVhWjSKywAQ",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "La sfida delle costruzioni- AVM episodio corto 2",
+        "year": "18-12-2017",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-2.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=J_PRXuovweE",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "La Montagna Russa - AVM Cortometraggio Episodio 3",
+        "year": "18-01-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-3.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=cPWPAjYb5eI",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Potions - Animation vs. Minecraft Shorts Ep. 4",
+        "year": "18-02-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-4.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=KXgaSaME-Ms",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Note Blocks - Animation vs. Minecraft Shorts Ep. 5 (music by AaronGrooves)",
+        "year": "18-03-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-5.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=c9DrryMw248",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Command Blocks - AVM Shorts Episode 6",
+        "year": "18-04-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-6.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=y5zW1c30MGQ",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "PvP - Animation vs. Minecraft Shorts Ep. 7",
+        "year": "18-05-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-7.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=z2sRTaa9lZU",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "The Nether - Animation vs. Minecraft Shorts Episode 8",
+        "year": "18-06-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-8.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=E7x2pH6yiL4",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Villagers - Animation vs. Minecraft Shorts Ep. 9",
+        "year": "18-07-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-9.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=_fPhQLM4Iac",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "The End - Animation vs. Minecraft Shorts Ep. 10",
+        "year": "19-09-2018",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-10.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=wkedWWxRABM",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "SkyBlock - Animation vs. Minecraft Shorts Il Regno dei Delfini - AVM Shorts Episodio 13",
+        "year": "29-01-2019",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-11.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=WTPt07NO61A",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "TNT Land - Animation vs. Minecraft Shorts Ep. 12",
+        "year": "04-04-2019",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-12.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=O3JPzQYJTZk",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Il Regno dei Delfini - AVM Shorts Episodio 13",
+        "year": "11-05-2019",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-13.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=zRD4-cl9_OU",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Cave Spider Roller Coaster - Animation vs. Minecraft Shorts Ep. 14",
+        "year": "21-09-2019",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-14.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=pCBP4M08ndE",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Animation vs. Minecraft Shorts Season 1 - All Episodes (1-14)",
+        "year": "23-11-2019",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-15.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=sHFeuBlBUos",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Note Block Battle - Animation vs. Minecraft Shorts Ep 16 (Music by AaronGrooves)",
+        "year": "14-03-2020",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-16.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://www.youtube.com/watch?v=c0egcErkap0",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "title": "Build Battle - Animation vs. Minecraft Shorts Ep. 17",
+        "year": "11 apr 2020",
+        "persone":"Alan Becker",
+        "poster": "/DOCUMENTARI/IMMAGINI/avm-17.jpg",
+        "casa": "Animation Vs Minecraft",
+        "links": [
+          {
+            "url": "https://youtu.be/WDQ60JGcxkw",
+            "quality":"HD"
+          }
+        ]
+      },
+      {
+        "file_id": "1681546157487edc81990bc68d0e00c9",
+        "genre": ["Documentario"],
+        "title": "8 Bit Generation The Commodore Wars",
+        "fname": "/Documentari/8 Bit Generation The Commodore Wars (2016).mp4",
+        "year": 2016,
+        "plot": "Quando Jack Tramiel ha inventato Commodore negli anni '70, ha immaginato l'utilizzo dei computer per le masse e non solo per le classi agiate. Spingendo la rivoluzione della tecnologia del PC e combattendo giganti come Apple e IBM, Commodore è diventato un nome familiare cambiando il modo in cui interagire, creare e giocare con i computer. Dall'avvento dei giochi innovativi Atari e Tetris all'evoluzione del design tecnologico contemporaneo, 8-Bit Generation si immerge nella storia del computer per utilizzo casalingo.",
+        "director": [],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1681546157487edc81990bc68d0e00c9"
+            }
+        ]
     },
     {
-      "plot":"Sulla scia del successo del primo video di Gymkhana Practice che ha attirato l'attenzione di oltre 20 milioni di spettatori in tutto il mondo, il video TWO di Gymkhana porta le informazioni al livello successivo. A differenza di altri infomercials, questo vende i prodotti con grande azione, cinematografia e una drammatica performance di guida - e, nessuno stereotipato lancinatore informale di formaggio! Prodotto appositamente per commercializzare la prima collezione Rally TeamWorks di Blocks, il nuovo video è pieno di fantastiche acrobazie di guida, sorprese, esplosioni e un'apparizione ospite da parte del pilota del team DC, Rob Dyrdek. Girato al porto di Los Angeles, aspettatevi un piacere per gli sport motoristici non-stop mentre Block inizia il nuovissimo percorso in una Subaru Impreza WRX STI personalizzata e ad alte prestazioni. Visita dcshoes.com/gymkhanatwo per ulteriori foto e informazioni sul video ad alte prestazioni e Blocks Collection Teamworks completa",
-      "title": "DC SHOES: KEN BLOCK GYMKHANA 2 THE INFOMERCIAL",
-      "year": "2009",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-2.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=HQ7R_buZPSo",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "f35a68c6245ca04857a0484791202e9d",
+        "tmdb_id": 69250,
+        "genre": ["Dramma"],
+        "title": "Albert Einstein",
+        "fname": "/Documentari/Albert Einstein.mp4",
+        "year": "1984",
+        "plot": "Albert Einstein - La storia della vita di un genio racconta l'entusiasmante storia della vita di uno scienziato impegnato. È il primo adattamento cinematografico della biografia di Albert Einstein (1879-1955) fino ad oggi. La serie in quattro parti prodotta nel 1984 inizia nel 1882 con Albert di tre anni che viene portato dal medico dai suoi genitori preoccupati. Pensano che sia arretrato. Durante i suoi giorni di scuola, tuttavia, il ragazzo si è rivelato estremamente curioso, ma anche testardo, straordinariamente sensibile e molto sensibile a qualsiasi forma di autorità. A giudizio del regista, è un bambino senza disciplina e ordine. Significativa anche un'altra opinione che Albert sentì da un professore qualche anno dopo: “Purtroppo non diventerai mai un ricercatore. Hai troppa immaginazione per quello! “La ricca produzione franco-tedesca affascina fin dal primo minuto. Mentre le fasi della vita di uno dei più grandi geni del 20 ° secolo formano la cornice esterna, lo spettatore conosce l'affascinante personalità e la persona Albert Einstein. Sotto la direzione di Lazare Iglésis, l'attore inglese Ronald Pickup riesce a ritrarre Einstein in modo autentico. Il truccatore e premio Oscar Christopher Tucker (noto per il trucco di Star Wars e The Elephant Man) supporta l'aspetto con il viso sempre abbinato. lo spettatore conosce l'affascinante personalità e la persona Albert Einstein. Sotto la direzione di Lazare Iglésis, l'attore inglese Ronald Pickup riesce a ritrarre Einstein in modo autentico. Il truccatore e premio Oscar Christopher Tucker (noto per il trucco di Star Wars e The Elephant Man) supporta l'aspetto con il viso sempre abbinato. lo spettatore conosce l'affascinante personalità e la persona Albert Einstein. Sotto la direzione di Lazare Iglésis, l'attore inglese Ronald Pickup riesce a ritrarre Einstein in modo autentico. Il truccatore e premio Oscar Christopher Tucker (noto per il trucco di Star Wars e The Elephant Man) supporta l'aspetto con il viso sempre abbinato.",
+        "director": ["Lazare Iglesis"],
+        "actors": ["Jacqueline Staup", "Ronald Pickup", "Anny Romand", "Marie Dubois"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f35a68c6245ca04857a0484791202e9d"
+            }
+        ]
     },
     {
-      "plot":"Scattata a sud di Parigi, in Francia, a Linas all'Autodromo di Linas - Montléry, questa pista ovale di 1,58 miglia, costruita nel 1924, presenta sponde ripide di 51 gradi, che sono più del doppio dell'inclinazione standard della maggior parte degli ovali NASCAR. Scelto da Ken per questo motivo specifico, il sistema bancario a rampa si è rivelato una sfida unica ed eccitante. La fisica di guida per le acrobazie eseguite era totalmente sconosciuta fino a quando Ken non ha tentato le manovre durante le riprese.",
-      "title": "KEN BLOCK'S GYMKHANA 3, PART 2; ULTIMATE PLAYGROUND; L'AUTODROME, FRANCE",
-      "year": "2010",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-3.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?time_continue=6&v=4TshFWSsrn8",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "af18938deb59c4ef70a4d6547af9868a",
+        "genre": ["Documentario"],
+        "title": "Alchimia simboli nascosti",
+        "fname": "/Documentari/Alchimia simboli nascosti.mp4",
+        "year": 2020,
+        "plot": "Quando muore Maometto nel seicentotrentadue dopo Cristo la religione islamica domina il medio oriente. Meno di cent’anni piu’ tardi i mussulmani attraversano lo stretto di Gibilterra e conquistano la Spagna la cultura e la civiltà araba si diffondono in tutta Europa assieme all’arte appresa dagli egizi  l’alchimia.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/af18938deb59c4ef70a4d6547af9868a"
+            }
+        ]
     },
     {
-      "plot":" Gymkhana 4 supera lo stile di alta produzione di Gymkhana 2 con effetti ancora più spettacolari girati nel backstage di Universal Studios, California. Girato per cinque giorni, il regista Ben Conrad (Zombieland e 30 Seconds or Less) e il suo team Logan offre una produzione di calibro di Hollywood completa di articoli pirotecnici, acrobazie enormi e una miriade di trucchi incredibili. Con gli squali robotici, gli zombi squilibrati e una cammeo esilarante dei ragazzi di Epic Meal Time, Ken Block e il suo Hybrid FunctionHoon Vehicle (H.F.H.V.) riuniscono la magia di Hollywood e gymkhana.",
-      "title": "KEN BLOCK'S GYMKHANA 4; THE HOLLYWOOD MEGAMERCIAL",
-      "year": "2011",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-4.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=btViXvIDsi0",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "cbea15ba1290d7acb807ff0bcaecf885",
+        "genre": ["Documentario"],
+        "title": "Alieni e vita nel sistema solare",
+        "fname": "/Documentari/Alieni e vita nel sistema solare.mp4",
+        "year": 2020,
+        "plot": "Quasi quarant’anni dopo che l’uomo ha camminato per la prima volta sulla luna l’uomo cerca uno sguardo nuovo a uno dei più grandi misteri della scienza. Esistono forme di vita oltre la Terra? I mondi bizzarri e infernali del nostro sistema solare potrebbero forse ospitare o evolvere la biologia aliena? E la Terra stessa fornisce una road map per le risposte a queste domande secolari. Ci avventuriamo nelle regioni più strane ed estreme della Terra per scoprire indizi sull’evoluzione dell’universo. Dalla Death Valley, in California, ai ghiacciai del Cile; dai duri climi desertici dell’Africa ai lussureggianti paesaggi marini dei Caraibi, i migliori astrobiologi e astrofisici del mondo esaminano la documentazione geologica e l’influenza biologica delle forme di vita che hanno creato e continuano a sostenere la vita sulla Terra. Questo potrebbe rispondere alla profonda domanda se la vita è possibile nel nostro universo o oltre?",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cbea15ba1290d7acb807ff0bcaecf885"
+            }
+        ]
     },
     {
-      "plot":"Girato per le strade di San Francisco, in California, Gymkhana 5 si concentra su un'azione di guida veloce, grezza e precisa. Girato per quattro giorni, il regista Ben Conrad e il suo team sono tornati a lavorare alla loro seconda produzione Gymkhana e hanno consegnato l'intera città di San Francisco come parco giochi personale di Ken Block. DC Shoes ha anche fornito il collega atleta DC e l'amico di lunga data Ken Block, Travis Pastrana, per fare un'apparizione cameo sulla sua dirtbike, e S.F. residente Jake Phelps della fama di Thrasher Magazine fa anche un cameo mentre Block hoons S.F. nella sua più incredibile Gymkhana di sempre.",
-      "title": "KEN BLOCK'S GYMKHANA 5: ULTIMATE URBAN PLAYGROUND; SAN FRANCISCO",
-      "year": "2012",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-5.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?time_continue=4&v=LuDN2bCIyus",
-          "quality":"HD"
-        }
-      ]
+        "tmdb_id": "492963",
+        "file_id": "e1f594e1d626ca8fd6e50b810f1d7993",
+        "genre": ["Documentario"],
+        "title": "American Moon",
+        "fname": "/Documentari/American Moon.mp4",
+        "year": 2017,
+        "plot": "L'ultimo documentario di Massimo Mazzucco. Sono 50 anni che si discute sulla veridicità dei viaggi lunari. Questo film finalmente riunisce, in un'opera unica, tutte le migliori argomentazioni a favore degli allunaggi e tutte le argomentazioni contrarie, comprese alcune prove mai presentate prima. Al film partecipano inoltre diversi fotografi professionisti di livello mondiale, che offrono la loro analisi tecnica sulle fotografie delle missioni Apollo. Vengono così chiarite una volta per tutte le varie questioni dibattute nel corso dei decenni, dalla assenza di stelle nelle fotografie fino alla direzione delle ombre, dalla questione delle pellicole esposte alle radiazioni, fino al tipo di illuminazione utilizzata per scattare le storiche immagini dell'uomo sulla luna.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e1f594e1d626ca8fd6e50b810f1d7993"
+            }
+        ]
     },
     {
-      "plot":"Per i gioco Need For Speed Ken Block, come consulente di gare, ha realizzato il corso GRID Gymkhana per eccellenza, un parco giochi per mostrare la velocità, il divertimento e l'azione esaltante della guida. Ciò significa ostacoli completamente nuovi che aiutano ad aumentare la difficoltà per Block di padroneggiare nella sua auto da corsa Ford Fiesta ST RX43 2013, tra cui le manovre intorno a una palla da demolizione in movimento e lo scorrimento attraverso l'apertura stretta nei lati dei container. Block ha anche aggiunto elementi di videogiochi da Need for Speed Rivals. Guarda mentre esegue più salti, va alla deriva intorno a Lamborghini Aventadors ed elude i poliziotti della contea di Redview a tema videogioco su Segway nel suo stile unico. Puoi quasi sentire l'odore della bruciatura della gomma mentre strappa questo incredibile percorso. Quindi sedetevi e godetevi il viaggio.",
-      "title": "NEED FOR SPEED: KEN BLOCK'S GYMKHANA 6 - ULTIMATE GYMKHANA GRID COURSE",
-      "year": "2013",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-6.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?time_continue=8&v=WUO-lPubXeI",
-          "quality":"HD"
-        }
-      ]
+      "tmdb_id": "97690",
+      "file_id": "3d9633dcc0985b340fbf89cafb821fd2",
+      "genre": ["Documentario"],
+      "title": "Anonymous l'esercito degli hacktivisti",
+      "fname": "/Documentari/Anonymous l'esercito degli hacktivisti.mp4",
+      "year": 2012,
+        "plot": "La storia del movimento che sta sconvolgendo l’ordine e il controllo politico internazionale, minacciando le corporation e proponendo un nuovo concetto di movimentismo internazionale attraverso la Rete. Dalla genesi, nel 2003, tra i post di 4chan, fino al supporto agli attivisti tunisini ed egiziani durante la primavera araba, passando per le azioni ai danni di Scientology e Paypal, e al fiancheggiamento di Wikileaks, ANONYMOUS, attraverso la voce degli stessi hacktivisti, fornisce una lettura di alcuni degli eventi chiave della nostra storia recente che nessun organo di informazione ufficiale approverebbe.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/3d9633dcc0985b340fbf89cafb821fd2"
+            }
+        ]
     },
     {
-      "plot":"Hoonigan, Ford e Need For Speed presentano con orgoglio Gymkhana SEVEN di Ken Block; Wild in the Streets: Los Angeles.",
-      "title": "KEN BLOCK'S GYMKHANA 7: WILD IN THE STREETS OF LOS ANGELES",
-      "year": "2014",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-7.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=5qanlirrRWs",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "996eef460c2dab15722883ce67948874",
+        "genre": ["Documentario"],
+        "title": "Apocalisse la sposa la bestia e Babilonia",
+        "fname": "/Documentari/Apocalisse la sposa la bestia e Babilonia.mp4",
+        "year": -1,
+        "plot": "Una Sposa, un bambino e un dragone a prima vista potrebbero sembrare gli ingredienti di una storia paurosa infatti le scene spaventose che avete appena visto fanno parte di una profezia vera e potente rivelata all’apostolo Giovanni quasi duemila anni fa e cosa viene detto in questa profezia? Nel libro dell’apocalisse 12,10 si Parla di qualcosa Che è già accaduto migliaia di anni fa o descrive cose che accadranno nel prossimo futuro? e cosa rappresentano la donna il bambino è il drago seguiteci ci addentreremo In un mondo che pochi hanno visto ma di cui tutti siamo fatti Apocalisse la sposa la bestia e Babilonia.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/996eef460c2dab15722883ce67948874"
+            }
+        ]
     },
     {
-      "plot":"Ken Block si supera in questo ottavo appuntamento ambientato a tra le strade di Dubai, dove esegue spettacolari esibizioni e bloca un'intera città!",
-      "title": "KEN BLOCK'S ULTIMATE EXOTIC PLAYGROUND IN DUBAI | GYMKHANA 8 | FORD PERFORMANCE",
-      "year": "2016",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-8.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?time_continue=4&v=_hf6ke1-i3E",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "3351ba4762f9c5d370564177189613f1",
+        "genre": ["Documentario"],
+        "title": "Apocalisse preistorica",
+        "fname": "/Documentari/Apocalisse preistorica.mp4",
+        "year": -1,
+        "plot": "100000 anni fa la terra popolata da 1000000 di esseri umani. Eppure si ipotizza che sia stato un ristretto gruppo di individui a dare origine alla moderna civiltà. All’incirca 70000 anni fa qualcosa è accaduto qualcosa di grande qualcosa di terrificante. Ma cosa è potuto accadere? La civiltà del ventunesimo secolo rischia forse lo stesso terrificante destino?",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/3351ba4762f9c5d370564177189613f1"
+            }
+        ]
     },
     {
-      "plot":"Gymkhana NINE: Raw Industrial Playground. Questo video ritorna alle radici del franchise virale di oltre 550 milioni di visualizzazioni di HHIC Ken Block con un'azione di guida pura e pura al centro della scena. Protagonista è la sua Ford Focus RS RX da oltre 600 cavalli con cui compete nel campionato mondiale Rallycross FIA.",
-      "title": "KEN BLOCK'S GYMKHANA 9: RAW INDUSTRIAL PLAYGROUND",
-      "year": "2016",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-9.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=_bkX5VkZg8U",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "36e8fd49d4e1068997ea56b2653cf117",
+        "genre": ["Documentario"],
+        "title": "Apollo missione Luna",
+        "fname": "/Documentari/Apollo missione Luna.mp4",
+        "year": -1,
+        "plot": "Questo ducumentario ripercorre i momenti chiave del programma spaziale Apollo della NASA e ricostruisce l’obiettivo americano di atterrare sulla Luna prima del 1970. Concepito durante la presidenza di Dwight Eisenhower e condotto dalla NASA, Apollo prese il via dopo che il Presidente John Kennedy dichiarò nel 1961 che far “atterrare un uomo sulla Luna” entro la fine del decennio rientrava tra gli obiettivi della Nazione.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/36e8fd49d4e1068997ea56b2653cf117"
+            }
+        ]
     },
     {
-      "plot":"Ken Block e Hoonigan sono lieti di presentare l'ultimo e più grande progetto video di Block della sua carriera, Gymkhana TEN: Ultimate Tire Slaying Tour. Ora disponibile su YouTube in tutto il mondo dopo una finestra di esclusività di 10 giorni su Amazon Prime Video, nell'ambito del documentario di Block: The Gymkhana Files",
-      "title": "KEN BLOCK'S GYMKHANA 10: THE ULTIMATE TIRE SLAYING TOUR",
-      "year": "2018",
-      "persone":"Ken Block",
-      "poster": "/DOCUMENTARI/IMMAGINI/GYMKHANA-10.jpg",
-      "casa": "Gymkhana",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=m_KBvP0_8Tc",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "4632797278964330be63cd6b7b5a0dce",
+        "genre": ["Documentario"],
+        "title": "Archeologia Proibita",
+        "fname": "/Documentari/Archeologia Proibita.mkv",
+        "year": -1,
+        "plot": "Documentario History Channel Antichi misteri antiche profezie un viaggio attorno al mondo cercando di trovare spiegazioni ad alcuni oggetti e costruzioni che solo tecnologie moderne potrebbero relizzare invece hanno oltre 10.000 anni come è possibile? Oggetti e ritrovamenti che le teorie dell’archeologia classica non possono spiegare. Dissonanza cognitiva tra i ritrovamenti e le teorie attuali.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/4632797278964330be63cd6b7b5a0dce"
+            },
+            {
+              "url": "http://51.77.159.233:30299/d7a04f4a6460a39d8d5fcee120b9c8e5"
+          }
+        ]
     },
     {
-      "title": "The Red Discovery - AVM Episode corto 1",
-      "year": "18-11-2017",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-1.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=sVhWjSKywAQ",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "689f9d119994d176371b3d4b4582c5c7",
+        "genre": ["Documentario"],
+        "title": "Asteroidi contro dinosauri - La grande estinzione",
+        "fname": "/Documentari/Asteroidi contro dinosauri - La grande estinzione.mp4",
+        "year": -1,
+        "plot": "Circa 66 milioni di anni fa i dinosauri, padroni incontrastati del pianeta Terra per 200 milioni di anni, scomparvero improvvisamente. Per spiegare le reali cause dell'estinzione di massa del Cretaceo sono state formulate diverse ipotesi, la più famosa delle quali è la Teoria dell'Impatto. Nel 1979, il premio Nobel per la fisica Luis Álvarez, suo figlio Walter e Frank Asaro misurarono in alcuni strati geologici, risalenti al limite K-T (abbreviazione per Cretaceo-Terziario), vicini a Gubbio, la presenza di una concentrazione insolita di iridio. L'iridio è un elemento chimico piuttosto raro sulla Terra ma comune nelle meteoriti. Essi avanzarono quindi l'ipotesi che l'estinzione di massa fosse stata provocata dall'urto di un gigantesco un meteorite con il pianeta. Questa ipotesi ebbe conferma soltanto all'inizio degli anni novanta, quando venne scoperta un'enorme struttura circolare, il cratere di Chicxulub parzialmente sommerso, situata nella penisola dello Yucatán, , presso Mérida in Messico. Lo studio di questo cratere ha portato alla conclusione che il meteorite con un diametro di almeno 10 km,  avrebbe colpito la Terra alla velocità di circa 30 km/s, scatenando all'impatto un'energia pari a 10.000 volte quella di tutte le bombe nucleari ai tempi della guerra fredda. L'impatto dell'asteroide sulla costa deve aver provocato giganteschi tsunami, Inoltre l'asteroide impattò in uno strato di gesso che provocò un aerosol di anidride solforosa in grado di oscurare la luce del Sole, ed inoltre  provocò ingenti piogge acide che risultarono letali per la vegetazione, il plancton e gli organismi che costruiscono un guscio calcareo come i molluschi. L'ipotesi dell'impatto da asteroide oggi è accettata dalla maggior parte dei paleontologi, anche se questa non è ritenuta la sola e unica causa dell'estinzione dei dinosauri. La cosa significativa di che questo immane disastro, è che permise ai piccoli mammiferi esistenti allora di prendere il posto dei dinosauri troppo specializzati e di dominare il mondo per i successivi 65 milioni di anni, fino ad arrivare a noi.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/689f9d119994d176371b3d4b4582c5c7"
+            }
+        ]
     },
     {
-      "title": "La sfida delle costruzioni- AVM episodio corto 2",
-      "year": "18-12-2017",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-2.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=J_PRXuovweE",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "9337ad40b2890767d82e9e0c07c3c6c2",
+        "genre": ["Documentario"],
+        "title": "Asteroidi e comete",
+        "fname": "/Documentari/Asteroidi e comete.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/9337ad40b2890767d82e9e0c07c3c6c2"
+            }
+        ]
     },
     {
-      "title": "La Montagna Russa - AVM Cortometraggio Episodio 3",
-      "year": "18-01-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-3.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=cPWPAjYb5eI",
-          "quality":"HD"
-        }
-      ]
+      "tmdb_id": "97690",
+        "file_id": "7624ed317d23f76ffc9c9659b669ad09",
+        "genre": ["Documentario"],
+        "title": "AstroSamantha la donna dei record nello spazio",
+        "fname": "/Documentari/AstroSamantha la donna dei record nello spazio.mp4",
+        "year": 2016,
+        "plot": "La voce dell’attore Giancarlo Giannini ci accompagna negli ultimi tre anni della vita di Samantha Cristoforetti, astronauta dell’Agenzia Spaziale Europea protagonista della seconda missione di lunga durata dell’Agenzia Spaziale Italiana (ASI). Un’avventura formidabile vissuta dalla protagonista e dal suo team, documentata dal giornalista e autore di reportage Gianluca Cerasola che racconta le diverse fasi di preparazione alla missione, l’arrivo nello spazio e l’emozionante rientro a casa di Samantha. Il film svela al grande pubblico una versione inedita della donna detentrice del record europeo di permanenza nello spazio, che con la sua impresa è diventata un simbolo di coraggio e determinazione.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7624ed317d23f76ffc9c9659b669ad09"
+            }
+        ]
     },
     {
-      "title": "Potions - Animation vs. Minecraft Shorts Ep. 4",
-      "year": "18-02-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-4.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=KXgaSaME-Ms",
-          "quality":"HD"
-        }
-      ]
+      "tmdb_id": "284470",
+        "file_id": "d09879b251bc8fa0a352abe7dc330e5e",
+        "genre": ["Documentario"],
+        "title": "Atari - Game Over",
+        "fname": "/Documentari/Atari - Game Over.mp4",
+        "year": 2014,
+        "plot": "Alamogordo New Messico una cittadina di 30000 abitanti in cui sembra concentrarsi un numero insolitamente alto di avvenimenti strani. un numero insolitamente. E’ vicina al luogo in cui è stata sperimentata la prima bomba atomica e anche il posto in cui riposa Hem il primo scimpanzé anzi il primo americano ad andare nello spazio ed è qui che un uomo ha infranto il record di velocità su slitta a razzo un’impresa ammirevole ma anche piuttosto bizzarra. Ma più che per questo la fama di Alamogordo è legata prevalentemente alla sua discarica perché a quanto pare è lì che la Atari ha sepolto ET il videogioco più brutto della storia.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d09879b251bc8fa0a352abe7dc330e5e"
+            }
+        ]
     },
     {
-      "title": "Note Blocks - Animation vs. Minecraft Shorts Ep. 5 (music by AaronGrooves)",
-      "year": "18-03-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-5.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=c9DrryMw248",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "e0d1d013d5e075760bf515abab1a120b",
+        "genre": ["Documentario"],
+        "title": "Atlantide la civilt\u00e0 perduta",
+        "fname": "/Documentari/Atlantide la civilt\u00e0 perduta.mp4",
+        "year": -1,
+        "plot": "Atlantide il leggendario continente scomparso nel profondo degli abissi, l’esempio più eclatante di come l’uomo sia arrivato a un passo dal realizzare il paradiso sulla terra, ma lo splendore di Atlantide non era destinato a durare. Travolta da un cataclisma senza precedenti accompagnato da un bagliore che la terra non aveva mai visto prima, l’intera isola esplose sprofondando nell’oblio portando con se il proprio popolo e la propria storia. E’ possibile che Atlantide sia veramente esistita?.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e0d1d013d5e075760bf515abab1a120b"
+            }
+        ]
     },
     {
-      "title": "Command Blocks - AVM Shorts Episode 6",
-      "year": "18-04-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-6.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=y5zW1c30MGQ",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "3fa889cf4280b786bec04a7c137141c6",
+        "genre": ["Documentario"],
+        "title": "Atlantide mito e realt\u00e0",
+        "fname": "/Documentari/Atlantide mito e realt\u00e0.mp4",
+        "year": -1,
+        "plot": "Secondo la leggenda prima che nascessero le grandi civiltà viveva un popolo estremamente evoluto e tecnologicamente avanzato, abitava un isola continente chiamata Atlantide, fino a quando improvvisamente scomparve. Leggenda o realtà?, duemilatrecento anni dopo il primo racconto di questa storia si cercano ancora le prove che Atlantide e il suo misterioso popolo siano veramente esistiti.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/3fa889cf4280b786bec04a7c137141c6"
+            }
+        ]
     },
     {
-      "title": "PvP - Animation vs. Minecraft Shorts Ep. 7",
-      "year": "18-05-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-7.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=z2sRTaa9lZU",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "e4d2264649423ad5d102c821dd6808f6",
+        "genre": ["Documentario"],
+        "title": "Chi ha paura dei buchi neri",
+        "fname": "/Documentari/Chi ha paura dei buchi neri.mp4",
+        "year": -1,
+        "plot": "Nello spazio si cela qualcosa di molto inquietante, qualcosa di cosi enorme da poter inghiottire un intera stella.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e4d2264649423ad5d102c821dd6808f6"
+            }
+        ]
     },
     {
-      "title": "The Nether - Animation vs. Minecraft Shorts Episode 8",
-      "year": "18-06-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-8.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=E7x2pH6yiL4",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "9575057dcd0c658bcccb946a7700d513",
+        "genre": ["Documentario"],
+        "title": "Dimensioni invisibili",
+        "fname": "/Documentari/Dimensioni invisibili.mp4",
+        "year": -1,
+        "plot": "Documentari Dimensioni invisibili streaming L’idea che un altra dimensione, oltre le tre  che conosciamo, possa celarsi agli occhi di tutti noi, è al centro di una delle più interessanti e importanti ricerche scientifiche del momento.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/9575057dcd0c658bcccb946a7700d513"
+            }
+        ]
     },
     {
-      "title": "Villagers - Animation vs. Minecraft Shorts Ep. 9",
-      "year": "18-07-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-9.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=_fPhQLM4Iac",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "c9d6cac0170ec1860e4003d74d870f85",
+        "genre": ["Documentario"],
+        "title": "Galileo - Il padre della scienza moderna",
+        "fname": "/Documentari/Galileo - Il padre della scienza moderna.mp4",
+        "year": -1,
+        "plot": "Documentari Galileo Il Padre Della Scienza Moderna",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c9d6cac0170ec1860e4003d74d870f85"
+            }
+        ]
     },
     {
-      "title": "The End - Animation vs. Minecraft Shorts Ep. 10",
-      "year": "19-09-2018",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-10.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=wkedWWxRABM",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "e438f2604167d67d1b2f1e58ed5eaa34",
+        "genre": ["Documentario"],
+        "title": "I detectives dei Faraoni",
+        "fname": "/Documentari/I detectives dei Faraoni.mp4",
+        "year": -1,
+        "plot": "Uno dei misteri che avvolgono la storia della civiltà egiziana è quello della sua nascita nessun archeologo Infatti fino ad oggi è riuscito a scoprire l’origine della popolazione egizia possiamo Tuttavia azzardare un’ipotesi circa 10000 anni fa la crescente desertificazione del Sahara dovette spingere i cacciatori Nomadi delle regioni centrali di questo deserto verso la valle del Nilo e del Delta. Qui svilupparono l’agricoltura L’allevamento e la pesca coltivavano frumento e orzo addomesticarono Capre e buoi dalle lunghe corna.  Questi abitanti erano divisi in tribù ciascuno con la sua divinità spesso rappresentata da un animale totem l’ibis il leone il coccodrillo il babbuino…",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e438f2604167d67d1b2f1e58ed5eaa34"
+            }
+        ]
     },
     {
-      "title": "SkyBlock - Animation vs. Minecraft Shorts Il Regno dei Delfini - AVM Shorts Episodio 13",
-      "year": "29-01-2019",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-11.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=WTPt07NO61A",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "aa2df2d08c77de418a32595e861bbb8d",
+        "genre": ["Documentario"],
+        "title": "I protocolli dei Savi Anziani di Sion",
+        "fname": "/Documentari/I protocolli dei Savi Anziani di Sion.mp4",
+        "year": -1,
+        "plot": "I Protocolli dei Savi di Sion o degli Anziani di Sion o dei savi Anziani di Sion sono un falso documentale creato dall’Ochrana, la polizia segreta zarista, con l’intento di diffondere l’odio verso gli ebrei nell’Impero russo. Fu realizzato nei primi anni del XX secolo nella Russia imperiale, in forma di documento segreto attribuito a una fantomatica cospirazione ebraica e massonica il cui obiettivo sarebbe impadronirsi del mondo.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/aa2df2d08c77de418a32595e861bbb8d"
+            }
+        ]
     },
     {
-      "title": "TNT Land - Animation vs. Minecraft Shorts Ep. 12",
-      "year": "04-04-2019",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-12.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=O3JPzQYJTZk",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "30ad52db44097f350e97b6bf6ba79e32",
+        "genre": ["Documentario"],
+        "title": "I segreti del sottosuolo",
+        "fname": "/Documentari/I segreti del sottosuolo.mp4",
+        "year": -1,
+        "plot": "Stiamo per cominciare un immaginario viaggio sotterraneo attorno al nostro pianeta, un veicolo di telerilevamento indagherà a fondo nella crosta terrestre, questo misterioso strato di roccia è tutto ciò che ci protegge dal mantello incandescente sottostante.E’ un mondo segreto e affascinante che solo oggi iniziamo a comprendere, è strutturato come una biblioteca dell’ antico Egitto di cui abbiamo appena scoperto l’ingresso.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/30ad52db44097f350e97b6bf6ba79e32"
+            }
+        ]
     },
     {
-      "title": "Il Regno dei Delfini - AVM Shorts Episodio 13",
-      "year": "11-05-2019",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-13.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=zRD4-cl9_OU",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "6fd17aaf337fe24091e6b34183cbadbd",
+        "genre": ["Documentario"],
+        "title": "I segreti del tempio di Gerusalemme",
+        "fname": "/Documentari/I segreti del tempio di Gerusalemme.mp4",
+        "year": -1,
+        "plot": "Un tema costante nelle profezie bibliche è che un giorno il Tempio costruito da Salomone risorgerà più grande e splendido di prima. Allora avrà inizio un processo che porterà alla restaurazione dell’Ordine delle Origini. John Michell, lavorando sul sito archeologico del Tempio, studiandone le dimensioni e il rapporto con la pianta dell’antica Gerusalemme, decifra un “messaggio” capace di cambiare la vita di chi saprà comprenderlo.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6fd17aaf337fe24091e6b34183cbadbd"
+            }
+        ]
     },
     {
-      "title": "Cave Spider Roller Coaster - Animation vs. Minecraft Shorts Ep. 14",
-      "year": "21-09-2019",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-14.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=pCBP4M08ndE",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "182233363800639d1b164d961ed026bd",
+        "genre": ["Documentario"],
+        "title": "Il Codex Gigas la Bibbia del Diavolo",
+        "fname": "/Documentari/Il Codex Gigas la Bibbia del Diavolo.mp4",
+        "year": -1,
+        "plot": "Il Codex Gigas (in italiano: Libro Gigante) è il più grande manoscritto medioevale esistente al mondo. S’ipotizza sia stato creato nel monastero benedettino di Podlažice in Boemia (ora nella Repubblica Ceca): la sua realizzazione si colloca nel primo trentennio del XIII secolo. Nel 1648, durante la Guerra dei trent’anni, l’opera fu presa dall’esercito svedese come bottino di guerra ed è ora conservata presso la Biblioteca nazionale svedese a Stoccolma.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/182233363800639d1b164d961ed026bd"
+            }
+        ]
     },
     {
-      "title": "Animation vs. Minecraft Shorts Season 1 - All Episodes (1-14)",
-      "year": "23-11-2019",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-15.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=sHFeuBlBUos",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "fbc6555bc1418f1df0028d2905692ff5",
+        "genre": ["Documentario"],
+        "title": "Il Santo Graal",
+        "fname": "/Documentari/Il Santo Graal.mp4",
+        "year": -1,
+        "plot": "Sono stato inviato qui da un ordine segreto inglese al quale apparteneva all’epoca sono stato incaricato di trovare il luogo doveun confraternita si estinse nel medioevo. Il Santo Graal Il medioevo una sfida e una crisi senza uguali per la chiesa una guerra sanguinosa e brutale a lungo dimenticata è un castello lontano di difficile accesso nel sud della Francia. Scena di una tragedia Monsegùr: un momento magico La mattina del 21 giugno il solstizio d’estate le notti più lasciano spazio a Mattinate più lunghe in questo momento privilegiato Il sole sorge su Monségur e i suoi primi raggi penetrano all’interno del Castello. Montsegur l’ultimo Rifugio dei pericolosi avversari del cattolicesimo per alcuni tempio del sole per altri Castello del Graal. Questo spiega la presenza di ricerca è solo una copia Poi Simbolo di un altro grande segreto la ricerca di qualcos’altro è il mistero principale dell’alto medioevo per alcuni è il Santo Graal altri parlano di un tesoro nascosto per me è solo un oggetto L’Arca dell’Alleanza…",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/fbc6555bc1418f1df0028d2905692ff5"
+            }
+        ]
     },
     {
-      "title": "Note Block Battle - Animation vs. Minecraft Shorts Ep 16 (Music by AaronGrooves)",
-      "year": "14-03-2020",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-16.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://www.youtube.com/watch?v=c0egcErkap0",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "6ff4ec617545fc0c4e2f91866b19d130",
+        "genre": ["Documentario"],
+        "title": "Il Vangelo di Giuda",
+        "fname": "/Documentari/Il Vangelo di Giuda.mp4",
+        "year": -1,
+        "plot": "Il Vangelo di Giuda è un vangelo gnostico ed apocrifo che riporta alcune conversazioni tra Gesù e l’apostolo Giuda Iscariota, trascritte non da Giuda stesso, ma da cristiani gnostici seguaci di Gesù. Questo vangelo è riportato in un manoscritto in lingua copta risalente all’inizio del IV secolo; è stato suggerito che la versione copta sia la traduzione di un’edizione più antica in lingua greca, ma non c’è accordo tra gli studiosi su questo punto. Il Vangelo di Giuda fu composto tra il 130 e il 170 circa; la datazione si basa sulla maturità della teologia contenutavi, sul fatto che presume la conoscenza dei vangeli canonici e sulla testimonianza di Ireneo di Lione. Perduto per 1600 anni, un manoscritto, il Codex Tchacos, è stato ritrovato presso una caverna a Minya (Egitto) nel 1978, e dopo diverse peripezie è stato restaurato a partire dal 2001. Nel 2006 è stata pubblicata la prima traduzione a cura della National Geographic Society.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6ff4ec617545fc0c4e2f91866b19d130"
+            }
+        ]
     },
     {
-      "title": "Build Battle - Animation vs. Minecraft Shorts Ep. 17",
-      "year": "11 apr 2020",
-      "persone":"Alan Becker",
-      "poster": "/DOCUMENTARI/IMMAGINI/avm-17.jpg",
-      "casa": "Animation Vs Minecraft",
-      "links": [
-        {
-          "url": "https://youtu.be/WDQ60JGcxkw",
-          "quality":"HD"
-        }
-      ]
+        "file_id": "f8536377efd1b5104d83837eab140ffd",
+        "genre": ["Documentario"],
+        "title": "Il Vangelo di Hitler",
+        "fname": "/Documentari/Il Vangelo di Hitler.mp4",
+        "year": -1,
+        "plot": "Queste sono le SS e questo è un rito religioso pagano basato sulle loro idee contorte quello nazista non era un partito politico come lo intendiamo noi ma un culto in cui facevo il lavaggio del cervello. Gli storici non si sono voluti addentrare in questo nel cervello della bestia  il culto delle SS sogna di creare un mondo antico e sinistro in cui superuomini Ariani possiedono poteri e le razze inferiori sono loro schiave in cui gli Dei Pagani sono venerati con il sangue è il potere del Sacro Graal viene imbrigliato per distruggere i nemici. Oggi a noi sembra decisamente eccentrico  Ma credeteci perché le persone credono all’incredibile dal loro quartiere generale le SS cercano In Tibet e i resti delle Magiche armi da guerra dei loro antenati per dimostrare che sono la razza dominante e che il loro legittimo destino è governare il mondo condussero una delle operazioni militari migliori del mondo ma erano persone psicopatiche non avevano bisogno di prove scientifiche per ciò in cui credevano sono passati 70 anni da quando Adolf Hitler e i suoi seguaci hanno diffuso la loro malvagità nel mondo è arrivato il momento di aprire il Vangelo di Hitler…",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f8536377efd1b5104d83837eab140ffd"
+            }
+        ]
+    },
+    {
+        "file_id": "fd5952e27f10e75a466388d8d548eefa",
+        "genre": ["Documentario"],
+        "title": "Il codice Da Vinci - La vera storia",
+        "fname": "/Documentari/Il codice Da Vinci - La vera storia.mp4",
+        "year": 2006,
+        "plot": "Una leggenda narra che dopo la morte di Gesù un gruppo di rifugiati in fuga dalla terrasanta sbarcò sulle coste della Francia. La storia racconta che tra i rifugiati ci fossero anche alcuni discepoli di Gesù, Lazzaro riportato in vita con un miracolo e Maria Maddalena tra gli altri",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/fd5952e27f10e75a466388d8d548eefa"
+            }
+        ]
+    },
+    {
+        "file_id": "f3540a0f7f7f7fb863029155ea00d96d",
+        "genre": ["Documentario"],
+        "title": "Il luogo pi\u00f9 segreto al mondo",
+        "fname": "/Documentari/Il luogo pi\u00f9 segreto al mondo.mp4",
+        "year": -1,
+        "plot": "“È stata un’intensa manifestazione di colore, come una sinfonia umana, non la dimenticherò mai, me lo porterò nella tomba questo lamento, una cosa tremenda”. All’inizio del 2003, il fotoreporter Philip Blenkinsop fa una tragica scoperta nel cuore della giungla, si imbatte nel cosidetto esercito segreto della CIA, abbandonato da decenni nella zona speciale di Xaisomboum, nel Laos. Dodicimila veterani, con le loro donne e i loro bambini, si scontrano con le truppe comuniste del Laos da ormai 30 anni, ora vogliono solo andarsene. Nella storia della guerra aerea il Laos è il paese più bombardato al mondo. Negli anni ’60 e ’70 divenne il modello della guerra del XXI secolo. Dal 1960 al 1975 la CIA conduce una guerra clandestina nel Laos, parallela a quella nel Vietnam.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f3540a0f7f7f7fb863029155ea00d96d"
+            }
+        ]
+    },
+    {
+        "file_id": "d67cbfcea8d8ef68dac0a4806d6e9dd2",
+        "genre": ["Documentario"],
+        "title": "Il sangue di Cristo",
+        "fname": "/Documentari/Il sangue di Cristo.mp4",
+        "year": -1,
+        "plot": "Sono i segni di un uomo Crocifisso venerato da una Chiesa in Spagna coperto da quello che sembra sangue si tratta forse delle vesti che coprivano il viso di Cristo dopo la sua morte un disco con sovraimpressi dei simboli misteriosi che avrebbero richiesto una tecnologia molto più avanzata per quel tempo Chi è l’autore del disco e quali segreti sono nascosti nel suo codice?",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d67cbfcea8d8ef68dac0a4806d6e9dd2"
+            }
+        ]
+    },
+    {
+        "file_id": "978682dd1feccdc1ea96a04de09dc75b",
+        "genre": ["Documentario"],
+        "title": "L'enigma di Harwa",
+        "fname": "/Documentari/L'enigma di Harwa.mp4",
+        "year": -1,
+        "plot": "Harwa fu un misterioso personaggio vissuto in Egitto tra la fine dell’ VIII e l’ inizio del VII secolo avanti Cristo, durante la XXV dinastia. Misterioso per tanti motivi e innanzitutto perché, pur non essendo un faraone, venne rappresentato con in mano il flagello e lo scettro, simboli di regalità. Ebbe in effetti un immenso potere.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/978682dd1feccdc1ea96a04de09dc75b"
+            }
+        ]
+    },
+    {
+        "file_id": "039647cbc60da095a60b4004973ded2e",
+        "genre": ["Documentario"],
+        "title": "L'uomo che vide l'infinito",
+        "fname": "/Documentari/L'uomo che vide l'infinito.mp4",
+        "year": -1,
+        "plot": "Basato sulla biografia L’uomo che vide l’infinito – Linteressante e curiosa seppur breve vita  di Srinivasa Ramanujan, genio della matematica scritta da Robert Kaningel  nel 1991, si racconta la storia vera di Srinivasa Ramanjan, un matematico che dopo essere cresciuto in povertà a Madras,una città in India, ottiene l’ammissione all’unniversità di Cambridge durante la grande guerra, dove diventa un pioniere nelle teorie matematiche sotto la guida del suo professore e mentore,G.H.Hardy",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/039647cbc60da095a60b4004973ded2e"
+            }
+        ]
+    },
+    {
+      "tmdb_id":"2622",
+        "file_id": "6363e225e8eef283535841229f9e7262",
+        "genre": ["Documentario"],
+        "title": "La Storia dell'Universo - 3x01 - Alla Velocit\u00e0 della Luce",
+        "fname": "/Documentari/La Storia dell'Universo - 3x01 - Alla Velocit\u00e0 della Luce.mp4",
+        "year": 2008,
+        "plot": "Nei viaggi spaziali si dice che le prime 50 miglia e le ultime 50 miglia siano le più pericolose. Guarda come una singola scintilla all'interno di un veicolo spaziale o un micrometeoroide largo meno di un pollice che colpisce una stazione spaziale può trasformare una missione di routine in un incubo letale. Man mano che le missioni si allungano, avventurandosi su Marte e oltre, i potenziali disastri diventeranno solo più grandi. Cosa accadrebbe se un veicolo spaziale si avventurasse troppo vicino a un buco nero o venisse colpito da un lampo di raggi gamma?",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6363e225e8eef283535841229f9e7262"
+            }
+        ]
+    },
+    {
+        "file_id": "5168beba4d89e182383f283450fa9caa",
+        "genre": ["Documentario"],
+        "title": "Libro perduto Nostradamus",
+        "fname": "/Documentari/Libro perduto Nostradamus.mp4",
+        "year": -1,
+        "plot": "Dimenticato per 400 anni negli archivi della Biblioteca Centrale di Roma, il Libro Perduto di Nostradamus e’ una raccolta di acquerelli recati in dono al papa Urbano VIII dal figlio di Nostradamus ed attribuiti al celebre indovino. In esso vi sono chiari riferimenti ad una possibile fine del mondo ed a gravi sconvolgimenti. Fantasia o premonizione?",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5168beba4d89e182383f283450fa9caa"
+            }
+        ]
+    },
+    {
+        "file_id": "c16051c720e9cf35d76dcd31bf5bdbc7",
+        "genre": ["Documentario"],
+        "title": "Missione su Venere",
+        "fname": "/Documentari/Missione su Venere.mp4",
+        "year": -1,
+        "plot": "Il nostro pianeta potrebbe essere in pericolo, un giorno un disastro naturale, o provocato dall’uomo, potrebbe rendere impossibile la vita sulla Terra. Se non potremo vivere qui, allora, dove andremo? La missione del dottor Basil Singer, fisico e costruttore di Robot, è quella di trovare una nuova dimora per la specie umana. Ricorrerà a quanto di meglio offre la scienza, per identificare un luogo, nello spazio, dove poter vivere e quali pericoli e avventure, dovranno affrontare i pionieri dello Spazio. Quattro coraggiosi astronauti si preparano al viaggio più pericoloso della loro vita, 42 milioni di chilometri verso un mondo rovente e acido, partono alla volta di Venere, il gemello cattivo della Terra.",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c16051c720e9cf35d76dcd31bf5bdbc7"
+            }
+        ]
+    },
+    {
+        "file_id": "1ce81b9dbcef164b3c32b76b3da1506d",
+        "genre": ["Documentario"],
+        "title": "Mondi alieni",
+        "fname": "/Documentari/Mondi alieni.mp4",
+        "year": -1,
+        "plot": "La su nell’immensità dello spazio ci sono pianeti più strani di quanto uno scrittore di fantascienza possa immaginare, per la prima volta nella storia gli scienziati stanno scoprendo mondi al i là del nostro sistema solare, posti dove il ghiaccio è caldo e la pioggia è fatta di ferro .",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1ce81b9dbcef164b3c32b76b3da1506d"
+            }
+        ]
+    },
+    {
+        "file_id": "7798914f13aba0fe8ffef117d819dd10",
+        "genre": ["Documentario"],
+        "title": "Satelliti per l'esplorazione della Terra",
+        "fname": "/Documentari/Satelliti per l'esplorazione della Terra.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7798914f13aba0fe8ffef117d819dd10"
+            }
+        ]
+    },
+    {
+        "file_id": "085807f7428be2092381a57d77985f01",
+        "genre": ["Documentario"],
+        "title": "Storia dell'Alchimia la pietra filosofale",
+        "fname": "/Documentari/Storia dell'Alchimia la pietra filosofale.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/085807f7428be2092381a57d77985f01"
+            }
+        ]
+    },
+    {
+        "file_id": "bc64ca8cb0de253dad9ec0d29bc58a2b",
+        "genre": ["Documentario"],
+        "title": "Straordinario su Ges\u00f9 - Il vero cristianesimo sepolto dalla chiesa",
+        "fname": "/Documentari/Straordinario su Ges\u00f9 - Il vero cristianesimo sepolto dalla chiesa.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/bc64ca8cb0de253dad9ec0d29bc58a2b"
+            }
+        ]
+    },
+    {
+        "file_id": "d1d5150a39eddac7544377bdf006a902",
+        "genre": ["Documentario"],
+        "title": "",
+        "fname": "/Documentari/Viaggio alla scoperta del cervello.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d1d5150a39eddac7544377bdf006a902"
+            }
+        ]
+    },
+    {
+        "file_id": "1753edb33f590c62ea7957b0db80cb8e",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080309",
+        "fname": "/Documentari/Art Attack/080309.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1753edb33f590c62ea7957b0db80cb8e"
+            }
+        ]
+    },
+    {
+        "file_id": "81a7e3d043006672186792f6f838429a",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080316",
+        "fname": "/Documentari/Art Attack/080316.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/81a7e3d043006672186792f6f838429a"
+            }
+        ]
+    },
+    {
+        "file_id": "37a0d769358c0af5524b6e299074c6ef",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080330",
+        "fname": "/Documentari/Art Attack/080330.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/37a0d769358c0af5524b6e299074c6ef"
+            }
+        ]
+    },
+    {
+        "file_id": "5138703ef851264ddf888f32930f2ce2",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080406",
+        "fname": "/Documentari/Art Attack/080406.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5138703ef851264ddf888f32930f2ce2"
+            }
+        ]
+    },
+    {
+        "file_id": "a9be9a26ee3316ff43e86fc026b58f0c",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080413",
+        "fname": "/Documentari/Art Attack/080413.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/a9be9a26ee3316ff43e86fc026b58f0c"
+            }
+        ]
+    },
+    {
+        "file_id": "cfc12e5c8639800e61ff56dada07c1c0",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080420",
+        "fname": "/Documentari/Art Attack/080420.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cfc12e5c8639800e61ff56dada07c1c0"
+            }
+        ]
+    },
+    {
+        "file_id": "8d791aff156d88edac2b41bcec7f8fcb",
+        "tmdb_id": 1780,
+        "saga": "Art Attack",
+        "genre": ["Documentario"],
+        "title": "080504",
+        "fname": "/Documentari/Art Attack/080504.avi",
+        "year": "1990",
+        "plot": "",
+        "director": [],
+        "actors": ["Neil Buchanan"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/8d791aff156d88edac2b41bcec7f8fcb"
+            }
+        ]
+    },
+    {
+        "file_id": "b993299e96269dcdcd164b28f17bc64a",
+        "saga": "E-learning",
+        "genre": ["Documentario"],
+        "title": "La fondazione di Roma",
+        "fname": "/Documentari/E-learning/La fondazione di Roma.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/b993299e96269dcdcd164b28f17bc64a"
+            }
+        ]
+    },
+    {
+        "file_id": "06efa090d4c66798756788514cdb0256",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.001 - Un pianeta",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.001 - Un pianeta.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/06efa090d4c66798756788514cdb0256"
+            }
+        ]
+    },
+    {
+        "file_id": "763a0534c501f5fc26b58820c7862316",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.002 - Mondi congelati",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.002 - Mondi congelati.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/763a0534c501f5fc26b58820c7862316"
+            }
+        ]
+    },
+    {
+        "file_id": "1e5bb9a9686d1b6f35d9427ce549cab6",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.003 - Giungle",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.003 - Giungle.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1e5bb9a9686d1b6f35d9427ce549cab6"
+            }
+        ]
+    },
+    {
+        "file_id": "aad474000f8bd42214085ffc95c6026d",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.004 - Acque costiere",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.004 - Acque costiere.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/aad474000f8bd42214085ffc95c6026d"
+            }
+        ]
+    },
+    {
+        "file_id": "002c8ff6670c73c6d9df61ea115cda52",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.005 - Dai deserti alle praterie",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.005 - Dai deserti alle praterie.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/002c8ff6670c73c6d9df61ea115cda52"
+            }
+        ]
+    },
+    {
+        "file_id": "007209887a423f1605710afc83418ad0",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.006 - Mare aperto",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.006 - Mare aperto.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/007209887a423f1605710afc83418ad0"
+            }
+        ]
+    },
+    {
+        "file_id": "1ebd235e7d5afffb4683c1e5151b3dea",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.007 - Acqua dolce",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.007 - Acqua dolce.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1ebd235e7d5afffb4683c1e5151b3dea"
+            }
+        ]
+    },
+    {
+        "file_id": "f9592f5b9f7d202e1f6e7e97070cc87e",
+        "saga": "Il nostro pianeta   {Netflix}",
+        "genre": ["Documentario"],
+        "title": "1.008 - Foreste",
+        "fname": "/Documentari/Il nostro pianeta (2019) [83880] {Netflix}/1.008 - Foreste.mkv",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f9592f5b9f7d202e1f6e7e97070cc87e"
+            }
+        ]
+    },
+    {
+        "file_id": "bd8ee11480ef96c5df6dbe2f34951a94",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x01 Mary Shelley",
+        "fname": "/Documentari/Le profezie della fantascienza/1x01 Mary Shelley.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/bd8ee11480ef96c5df6dbe2f34951a94"
+            }
+        ]
+    },
+    {
+        "file_id": "90438225eb72420f3a1430ea6fd61f72",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x02 Philip K. Dick",
+        "fname": "/Documentari/Le profezie della fantascienza/1x02 Philip K. Dick.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/90438225eb72420f3a1430ea6fd61f72"
+            }
+        ]
+    },
+    {
+        "file_id": "f6f24b565d62334a457b77a222ac1c63",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x03 Isaac Asimov",
+        "fname": "/Documentari/Le profezie della fantascienza/1x03 Isaac Asimov.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f6f24b565d62334a457b77a222ac1c63"
+            }
+        ]
+    },
+    {
+        "file_id": "7a4e2aa89c322fc6ae77a133715e8b2e",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x04 H.G. Wells",
+        "fname": "/Documentari/Le profezie della fantascienza/1x04 H.G. Wells.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7a4e2aa89c322fc6ae77a133715e8b2e"
+            }
+        ]
+    },
+    {
+        "file_id": "32fb25b3fe71b63195b56268eb1cb93f",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x05 George Lucas",
+        "fname": "/Documentari/Le profezie della fantascienza/1x05 George Lucas.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/32fb25b3fe71b63195b56268eb1cb93f"
+            }
+        ]
+    },
+    {
+        "file_id": "d5cfcc29dfddfc92bd219a7f62c59389",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x06 Robert Heinlein",
+        "fname": "/Documentari/Le profezie della fantascienza/1x06 Robert Heinlein.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d5cfcc29dfddfc92bd219a7f62c59389"
+            }
+        ]
+    },
+    {
+        "file_id": "c37acfd87d7bf557f757163c6d123599",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x07 Jules Verne",
+        "fname": "/Documentari/Le profezie della fantascienza/1x07 Jules Verne.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c37acfd87d7bf557f757163c6d123599"
+            }
+        ]
+    },
+    {
+        "file_id": "cc1acff5481f5937d3e1b5690e2768b6",
+        "saga": "Le profezie della fantascienza",
+        "genre": ["Documentario"],
+        "title": "1x08 Artur C. Clark",
+        "fname": "/Documentari/Le profezie della fantascienza/1x08 Artur C. Clark.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cc1acff5481f5937d3e1b5690e2768b6"
+            }
+        ]
+    },
+    {
+        "file_id": "744a2418b9b06dc38007aad885dec360",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.01 - Che cosa accadde prima dell'inizio",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.01 - Che cosa accadde prima dell'inizio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/744a2418b9b06dc38007aad885dec360"
+            }
+        ]
+    },
+    {
+        "file_id": "5deca4ac8e6a073955b71a8854d45001",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.02 - Siamo soli",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.02 - Siamo soli.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5deca4ac8e6a073955b71a8854d45001"
+            }
+        ]
+    },
+    {
+        "file_id": "5ef8caf1fe2b6611d8c5fe4fc90f6427",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.03 - Si pu\u00f2 viaggiare nel tempo",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.03 - Si pu\u00f2 viaggiare nel tempo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5ef8caf1fe2b6611d8c5fe4fc90f6427"
+            }
+        ]
+    },
+    {
+        "file_id": "f796e731b528c58c17531d559f8bda5b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.04 - Come siamo arrivati fin qui",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.04 - Come siamo arrivati fin qui.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f796e731b528c58c17531d559f8bda5b"
+            }
+        ]
+    },
+    {
+        "file_id": "daba18b1bfd7b653d5c6ba9605a4d7a7",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.05 - Di cosa siamo fatti",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.05 - Di cosa siamo fatti.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/daba18b1bfd7b653d5c6ba9605a4d7a7"
+            }
+        ]
+    },
+    {
+        "file_id": "23acf99b898e9fdd18d5014e0cdf7d65",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.06 - L'enigma dei buchi neri",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.06 - L'enigma dei buchi neri.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/23acf99b898e9fdd18d5014e0cdf7d65"
+            }
+        ]
+    },
+    {
+        "file_id": "c102e805d90c356f087f14df621a5a9d",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.07 - Oltre il buio",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.07 - Oltre il buio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c102e805d90c356f087f14df621a5a9d"
+            }
+        ]
+    },
+    {
+        "file_id": "cf2660f0a7baf880e8e7825ef9739d1b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "1.08 - Esiste un Creatore",
+        "fname": "/Documentari/Morgan Freeman Science Show/1.08 - Esiste un Creatore.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cf2660f0a7baf880e8e7825ef9739d1b"
+            }
+        ]
+    },
+    {
+        "file_id": "5542fe8917965d2e4f3f42ef03127e10",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.01 - C'\u00e8 vita dopo la morte",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.01 - C'\u00e8 vita dopo la morte.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5542fe8917965d2e4f3f42ef03127e10"
+            }
+        ]
+    },
+    {
+        "file_id": "fd58a6da4bae63876861099385e8d3b6",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.02 - Esistono i confini dell'universo",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.02 - Esistono i confini dell'universo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/fd58a6da4bae63876861099385e8d3b6"
+            }
+        ]
+    },
+    {
+        "file_id": "ea4f5a9c162788b21cd2c86536545a3b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.03 - Il tempo esiste davvero",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.03 - Il tempo esiste davvero.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ea4f5a9c162788b21cd2c86536545a3b"
+            }
+        ]
+    },
+    {
+        "file_id": "6166714310f69c7b35b73fb9ea36600b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.04 - Esistono pi\u00f9 di tre dimensioni",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.04 - Esistono pi\u00f9 di tre dimensioni.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6166714310f69c7b35b73fb9ea36600b"
+            }
+        ]
+    },
+    {
+        "file_id": "509c4cb41eaf21e01790d9a11f1a86b5",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.05 - Esiste un sesto senso",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.05 - Esiste un sesto senso.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/509c4cb41eaf21e01790d9a11f1a86b5"
+            }
+        ]
+    },
+    {
+        "file_id": "1e242b54ea61b6d036cb253e4673a56e",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.06 - Universi paralleli",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.06 - Universi paralleli.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1e242b54ea61b6d036cb253e4673a56e"
+            }
+        ]
+    },
+    {
+        "file_id": "3b3e431ddbaf4ef39285d20876c97512",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.07 - Come funziona l'universo",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.07 - Come funziona l'universo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/3b3e431ddbaf4ef39285d20876c97512"
+            }
+        ]
+    },
+    {
+        "file_id": "0af195c74f26ab9bd632aa1a229e649b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.08 - Si pu\u00f2 viaggiare pi\u00f9 veloci della luce",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.08 - Si pu\u00f2 viaggiare pi\u00f9 veloci della luce.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/0af195c74f26ab9bd632aa1a229e649b"
+            }
+        ]
+    },
+    {
+        "file_id": "006da4f517e537d95e010b8e180251b9",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.09 - Si pu\u00f2 vivere per sempre",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.09 - Si pu\u00f2 vivere per sempre.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/006da4f517e537d95e010b8e180251b9"
+            }
+        ]
+    },
+    {
+        "file_id": "d2e02bb3161dc84d912526411b5e127b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "2.10 - Che aspetto hanno gli alieni",
+        "fname": "/Documentari/Morgan Freeman Science Show/2.10 - Che aspetto hanno gli alieni.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d2e02bb3161dc84d912526411b5e127b"
+            }
+        ]
+    },
+    {
+        "file_id": "ef25c7684c983f2eaccc7f6a0fc84608",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.01 - Sopravviveremo al primo contatto alieno",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.01 - Sopravviveremo al primo contatto alieno.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ef25c7684c983f2eaccc7f6a0fc84608"
+            }
+        ]
+    },
+    {
+        "file_id": "f7591b4d6d6c68b67f16f6195d3f64d7",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.02 - Esiste una razza superiore",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.02 - Esiste una razza superiore.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f7591b4d6d6c68b67f16f6195d3f64d7"
+            }
+        ]
+    },
+    {
+        "file_id": "a97e9ed7cceda20df1cfe01c46d298a3",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.03 - L'Universo \u00e8 un organismo vivente",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.03 - L'Universo \u00e8 un organismo vivente.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/a97e9ed7cceda20df1cfe01c46d298a3"
+            }
+        ]
+    },
+    {
+        "file_id": "167235e7f894da03b4fa34fd610fe946",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.04 - Cosa ci rende quello che siamo",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.04 - Cosa ci rende quello che siamo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/167235e7f894da03b4fa34fd610fe946"
+            }
+        ]
+    },
+    {
+        "file_id": "650e0ee17fbf51221d6951ec13241e8f",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.05 - Cos'\u00e8 il nulla",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.05 - Cos'\u00e8 il nulla.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/650e0ee17fbf51221d6951ec13241e8f"
+            }
+        ]
+    },
+    {
+        "file_id": "6c093ba8fb74f643649f22531c275875",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.06 - \u00c8 possibile far risorgere i morti",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.06 - \u00c8 possibile far risorgere i morti.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6c093ba8fb74f643649f22531c275875"
+            }
+        ]
+    },
+    {
+        "file_id": "e614c9730dbbc58be776f642f55bd889",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.07 - \u00c8 possibile eliminare il male",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.07 - \u00c8 possibile eliminare il male.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e614c9730dbbc58be776f642f55bd889"
+            }
+        ]
+    },
+    {
+        "file_id": "0c2ce97521aac98e0d9aabfc9f1ac3f0",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.08 - I misteri del subconscio",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.08 - I misteri del subconscio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/0c2ce97521aac98e0d9aabfc9f1ac3f0"
+            }
+        ]
+    },
+    {
+        "file_id": "ebbe3bdded1e4be47780ad6b52811e75",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.09 - Dio \u00e8 stato inventato dall'uomo",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.09 - Dio \u00e8 stato inventato dall'uomo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ebbe3bdded1e4be47780ad6b52811e75"
+            }
+        ]
+    },
+    {
+        "file_id": "f56b45001ac4625556f092fc40372626",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "3.10 - L'eternit\u00e0 avr\u00e0 fine",
+        "fname": "/Documentari/Morgan Freeman Science Show/3.10 - L'eternit\u00e0 avr\u00e0 fine.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f56b45001ac4625556f092fc40372626"
+            }
+        ]
+    },
+    {
+        "file_id": "6dbfa6254af4a1b15da9b69a3db3f76d",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.01 - Come pensano gli alieni",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.01 - Come pensano gli alieni.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/6dbfa6254af4a1b15da9b69a3db3f76d"
+            }
+        ]
+    },
+    {
+        "file_id": "8857ffca37c3249a86916a5519eedb1a",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.02 - Potremmo sopravvivere alla morte del Sole",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.02 - Potremmo sopravvivere alla morte del Sole.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/8857ffca37c3249a86916a5519eedb1a"
+            }
+        ]
+    },
+    {
+        "file_id": "29cca1d45b7964e016f5f1efa0ca9175",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.03 - I robot saranno il futuro dell'evoluzione umana",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.03 - I robot saranno il futuro dell'evoluzione umana.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/29cca1d45b7964e016f5f1efa0ca9175"
+            }
+        ]
+    },
+    {
+        "file_id": "5f5f037ab96ba821dcac73d470d62ee7",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.04 - Quando \u00e8 iniziata la vita",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.04 - Quando \u00e8 iniziata la vita.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5f5f037ab96ba821dcac73d470d62ee7"
+            }
+        ]
+    },
+    {
+        "file_id": "103b7379d97f6bf3509f521a3f84a857",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.05 - Hackeraggio mentale",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.05 - Hackeraggio mentale.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/103b7379d97f6bf3509f521a3f84a857"
+            }
+        ]
+    },
+    {
+        "file_id": "047bd1be73ed11da663c4c55485a0e13",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.06 - La realt\u00e0 \u00e8 reale",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.06 - La realt\u00e0 \u00e8 reale.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/047bd1be73ed11da663c4c55485a0e13"
+            }
+        ]
+    },
+    {
+        "file_id": "7a8a096331c808f40d92cca19e25c317",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.07 - Pensiero libero",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.07 - Pensiero libero.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/7a8a096331c808f40d92cca19e25c317"
+            }
+        ]
+    },
+    {
+        "file_id": "54ddfc32d2c22fa7d814e0c30340afb4",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.08 - La particella di Dio",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.08 - La particella di Dio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/54ddfc32d2c22fa7d814e0c30340afb4"
+            }
+        ]
+    },
+    {
+        "file_id": "31628d8822c1b0b29c0fe686752f90c0",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.09 - Dio e l'evoluzione",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.09 - Dio e l'evoluzione.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/31628d8822c1b0b29c0fe686752f90c0"
+            }
+        ]
+    },
+    {
+        "file_id": "4dcae1af5e109b6b6c11e6d5b9e24ac1",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "4.10 - Il sesso del futuro",
+        "fname": "/Documentari/Morgan Freeman Science Show/4.10 - Il sesso del futuro.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/4dcae1af5e109b6b6c11e6d5b9e24ac1"
+            }
+        ]
+    },
+    {
+        "file_id": "2b2e026e02b2ec77487e349b440f20c2",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.01 - Quando ha avuto origine il tempo",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.01 - Quando ha avuto origine il tempo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/2b2e026e02b2ec77487e349b440f20c2"
+            }
+        ]
+    },
+    {
+        "file_id": "4ab760e582c4b68c099288022e3ca680",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.02 - La gravit\u00e0 \u00e8 un'illusione",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.02 - La gravit\u00e0 \u00e8 un'illusione.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/4ab760e582c4b68c099288022e3ca680"
+            }
+        ]
+    },
+    {
+        "file_id": "c4ea301296c8bbb3e7bfeff0f90299a6",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.03 - Esiste la fortuna",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.03 - Esiste la fortuna.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c4ea301296c8bbb3e7bfeff0f90299a6"
+            }
+        ]
+    },
+    {
+        "file_id": "0058d56b8a95000a33e56ccd1918cc72",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.04 - Cosa pensa l'Oceano",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.04 - Cosa pensa l'Oceano.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/0058d56b8a95000a33e56ccd1918cc72"
+            }
+        ]
+    },
+    {
+        "file_id": "cbac540c732e37e01ac467a87f11e2dc",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.05 - Diventeremo come Dio",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.05 - Diventeremo come Dio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cbac540c732e37e01ac467a87f11e2dc"
+            }
+        ]
+    },
+    {
+        "file_id": "e91b710af012cb0a832b9a312343b137",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.06 - La materia oscura",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.06 - La materia oscura.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e91b710af012cb0a832b9a312343b137"
+            }
+        ]
+    },
+    {
+        "file_id": "0bebaae412c0f15195c569ec2254fdb8",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.07 - Il super potere",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.07 - Il super potere.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/0bebaae412c0f15195c569ec2254fdb8"
+            }
+        ]
+    },
+    {
+        "file_id": "f560700bd97e0aefd903a8908f75d71e",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.08 - Dio \u00e8 un concetto alieno",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.08 - Dio \u00e8 un concetto alieno.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f560700bd97e0aefd903a8908f75d71e"
+            }
+        ]
+    },
+    {
+        "file_id": "5805fb8d2f3e9b5ebaac9233bf5898d9",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.09 - La povert\u00e0 \u00e8 genetica",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.09 - La povert\u00e0 \u00e8 genetica.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5805fb8d2f3e9b5ebaac9233bf5898d9"
+            }
+        ]
+    },
+    {
+        "file_id": "36572ca406f77caa803103348b88d38e",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "5.10 - \u00c8 possibile un'Apocalisse zombie",
+        "fname": "/Documentari/Morgan Freeman Science Show/5.10 - \u00c8 possibile un'Apocalisse zombie.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/36572ca406f77caa803103348b88d38e"
+            }
+        ]
+    },
+    {
+        "file_id": "144e313cb78b22e1a4908d390cfe3f65",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.01 - Gli alieni sono tra di noi",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.01 - Gli alieni sono tra di noi.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/144e313cb78b22e1a4908d390cfe3f65"
+            }
+        ]
+    },
+    {
+        "file_id": "c17854730885813e11112f8d3884ccba",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.02 - Viviamo dentro Matrix",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.02 - Viviamo dentro Matrix.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c17854730885813e11112f8d3884ccba"
+            }
+        ]
+    },
+    {
+        "file_id": "c1d652e844fc5e1a1037cb3055852c8e",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.03 - Siamo bigotti",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.03 - Siamo bigotti.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c1d652e844fc5e1a1037cb3055852c8e"
+            }
+        ]
+    },
+    {
+        "file_id": "8151fea1bdab0009304b1fe1ec864769",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.04 - Perch\u00e9 mentiamo",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.04 - Perch\u00e9 mentiamo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/8151fea1bdab0009304b1fe1ec864769"
+            }
+        ]
+    },
+    {
+        "file_id": "81ec9b0b8fa8986600aa0b569a6fdb37",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.05 - Si pu\u00f2 tornare indietro nel tempo",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.05 - Si pu\u00f2 tornare indietro nel tempo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/81ec9b0b8fa8986600aa0b569a6fdb37"
+            }
+        ]
+    },
+    {
+        "file_id": "c0e9e2bf4c55d9277ed4eaf4d929bbee",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "6.06 - Perch\u00e9 esistiamo",
+        "fname": "/Documentari/Morgan Freeman Science Show/6.06 - Perch\u00e9 esistiamo.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/c0e9e2bf4c55d9277ed4eaf4d929bbee"
+            }
+        ]
+    },
+    {
+        "file_id": "ec1dba5c17a14d88d993b242cfb18740",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.01 - Privacy, addio",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.01 - Privacy, addio.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ec1dba5c17a14d88d993b242cfb18740"
+            }
+        ]
+    },
+    {
+        "file_id": "cf805fc2ee3ee88a29629bf58352579c",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.02 - Si pu\u00f2 ingannare la morte",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.02 - Si pu\u00f2 ingannare la morte.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/cf805fc2ee3ee88a29629bf58352579c"
+            }
+        ]
+    },
+    {
+        "file_id": "50950f04caba126c62f0322db2c62dbf",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.03 - Esistono pi\u00f9 di due sessi",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.03 - Esistono pi\u00f9 di due sessi.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/50950f04caba126c62f0322db2c62dbf"
+            }
+        ]
+    },
+    {
+        "file_id": "1b75035d8148399f602d4d70b522fb47",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.04 - Addio alle armi",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.04 - Addio alle armi.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/1b75035d8148399f602d4d70b522fb47"
+            }
+        ]
+    },
+    {
+        "file_id": "e45b4795df26630b534bc9f17c0dd76b",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.05 - C'\u00e8 un genio in ognuno di noi",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.05 - C'\u00e8 un genio in ognuno di noi.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e45b4795df26630b534bc9f17c0dd76b"
+            }
+        ]
+    },
+    {
+        "file_id": "ad1c900c95db1b748e9bb1b5ea0d2afc",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.06 - La forza \u00e8 con noi",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.06 - La forza \u00e8 con noi.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ad1c900c95db1b748e9bb1b5ea0d2afc"
+            }
+        ]
+    },
+    {
+        "file_id": "123dd727c7063b0dbd03c0a404ff5ae7",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.07 - Come pensa un terrorista",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.07 - Come pensa un terrorista.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/123dd727c7063b0dbd03c0a404ff5ae7"
+            }
+        ]
+    },
+    {
+        "file_id": "d2b62a6da400317f61526087705bee36",
+        "tmdb_id": 32900,
+        "saga": "Morgan Freeman Science Show",
+        "genre": ["Documentario"],
+        "title": "7.08 - Possiamo controllare il Pianeta",
+        "fname": "/Documentari/Morgan Freeman Science Show/7.08 - Possiamo controllare il Pianeta.mp4",
+        "year": "2010",
+        "plot": "E' una serie di documentari dedicati ai misteri dell'universo, presentati da Morgan Freeman e trasmessi negli Stati Uniti da Science nel giugno 2009. Narrata dalla voce dell'attore, la serie si interroga sui buchi neri, i viaggi nel tempo e la possibilit\u00e0 di forme di vita extraterrestri.\n\nNell'edizione italiana della prima stagione alla voce di Morgan Freeman \u00e8 sovrapposta quella di Renato Mori, suo doppiatore abituale, mentre nella seconda gli subentra Michele Gammino.",
+        "director": [],
+        "actors": ["Morgan Freeman"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/d2b62a6da400317f61526087705bee36"
+            }
+        ]
+    },
+    {
+        "file_id": "f6fc730ddf0279b9f275492db6c6c766",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.01 - Il ritorno del T-Rex",
+        "fname": "/Documentari/Prehistoric Park/1.01 - Il ritorno del T-Rex.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/f6fc730ddf0279b9f275492db6c6c766"
+            }
+        ]
+    },
+    {
+        "file_id": "16f54044ab42295bd3e49592cdda34a4",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.02 - La femmina di mammouth",
+        "fname": "/Documentari/Prehistoric Park/1.02 - La femmina di mammouth.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/16f54044ab42295bd3e49592cdda34a4"
+            }
+        ]
+    },
+    {
+        "file_id": "ed25765d977c2423d7d248121db2a241",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.03 - Gli uccelli preistorici",
+        "fname": "/Documentari/Prehistoric Park/1.03 - Gli uccelli preistorici.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/ed25765d977c2423d7d248121db2a241"
+            }
+        ]
+    },
+    {
+        "file_id": "b0a265c38ae8c4ef5846c7e9f8c5fe02",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.04 - L'antenato della tigre",
+        "fname": "/Documentari/Prehistoric Park/1.04 - L'antenato della tigre.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/b0a265c38ae8c4ef5846c7e9f8c5fe02"
+            }
+        ]
+    },
+    {
+        "file_id": "e01f7c8536733209df3969ce6c991161",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.05 - Insetti giganteschi",
+        "fname": "/Documentari/Prehistoric Park/1.05 - Insetti giganteschi.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/e01f7c8536733209df3969ce6c991161"
+            }
+        ]
+    },
+    {
+        "file_id": "325ff93b0048d0b60d960b168380e21a",
+        "tmdb_id": 788,
+        "saga": "Prehistoric Park",
+        "genre": ["Sci-Fi & Fantasy", "Action & Adventure", "Famiglia"],
+        "title": "1.06 - Il coccodrillo gigante",
+        "fname": "/Documentari/Prehistoric Park/1.06 - Il coccodrillo gigante.mp4",
+        "year": "2006",
+        "plot": "",
+        "director": [],
+        "actors": ["Nigel Marven", "David Jason", "Saba Douglas-Hamilton"],
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/325ff93b0048d0b60d960b168380e21a"
+            }
+        ]
+    },
+    {
+        "file_id": "5e45eeee357c2bbf5f783d04aed25d2f",
+        "saga": "da modificare",
+        "genre": ["Documentario"],
+        "title": "ivrea guerra delle arancie",
+        "fname": "/Documentari/da modificare/ivrea guerra delle arancie.mp4",
+        "year": -1,
+        "plot": "",
+        "links": [
+            {
+                "url": "http://51.77.159.233:30299/5e45eeee357c2bbf5f783d04aed25d2f"
+            }
+        ]
     }
     ]
   }
