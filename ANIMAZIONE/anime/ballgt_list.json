@@ -1,6 +1,25 @@
 {
     "episodes_list": [
         {
+            "file_id": "1faafd707a2beb7282923d0141a338e9",
+            "tmdb_id": 12697,
+            "saga": "Dragon Ball GT",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Sci-Fi & Fantasy"],
+            "title": "Esistono altre sette sfere del drago!",
+            "fname": "/Anime & Cartoni/Dragon Ball GT (1996) [a12697]/1.001 - Esistono altre sette sfere del drago!.avi",
+            "year": "1996",
+            "plot": "La storia si svolge cinque anni dopo\u00a0gli avvenimenti di\u00a0Dragon Ball Z, e si conclude a 40 anni dal primo incontro tra Goku e Bulma, con Goku ormai cinquantaduenne. La storia inizia con il ritorno di Goku dall'allenamento con Ub, reincarnazione del Majin Bu\u00a0originale, con cui il sayan\u00a0era partito alla fine della serie\u00a0Z. Tornato bambino a causa di un desiderio mal formulato da parte di Pilaf\u00a0a Red Shenron, Goku vive nuove avventure in compagnia della nipote\u00a0Pan\u00a0e di Trunks\u00a0e affronta nuovi nemici per garantire la pace sulla Terra.",
+            "director": ["Osamu Kasai", "Minoru Okazaki"],
+            "actors": ["Masako Nozawa", "Bin Shimada", "Atsushi Kisaichi", "Takeshi Kusao", "Ryou Horikawa", "Toshio Furukawa", "Miki It\u014d", "Hiromi Tsuru", "Y\u016bko Minaguchi", "Mayumi Tanaka", "Daisuke Gouri", "J\u014dji Yanami"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1faafd707a2beb7282923d0141a338e9"
+                }
+            ]
+        },
+        {
             "file_id": "bcbdd8ae950a7b853bc6799d8587c06e",
             "tmdb_id": 12697,
             "saga": "Dragon Ball GT",
