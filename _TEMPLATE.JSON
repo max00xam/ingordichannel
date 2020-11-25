@@ -1,0 +1,14 @@
+ {
+    "sort": true,
+    "tvshows_list": [
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/_list.json"
+        },
+    ]
+}
