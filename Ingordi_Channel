@@ -2,12 +2,12 @@
   "channel_name": "INGORDI CHANNEL 2.0",
   "plot": "Ingordi Channel, è un Community Channel di Kodi On Demand, gestito da italiani.",
   "fanart":"/Immagini/ingordi_fanart.jpg",
-  "thumbnail": "/Immagini/ingordi_thumbnail.jpg",
+  "thumbnail": "/Immagini/ingordi_thumbnail.png",
   "menu": [
     {
       "title": "Live TV",
       "link": "/canali.json",
-      "thumbnail": "/Immagini/canali.png"
+      "thumbnail": "/Immagini/canali.jpg"
     },
     {
       "title": "Film",
