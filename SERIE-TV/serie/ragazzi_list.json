@@ -1,367 +1,565 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 41583,
-			"number": "1x1",
-			"saga": "I ragazzi della 3c",
-			"title": "La sfida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3db1647d8cda784b692cf29669d7bb1c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x2",
-			"saga": "I ragazzi della 3c",
-			"title": "Chicco a Superstrike",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e01553062050e250ae84fd0b76fc60a7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x3",
-			"saga": "I ragazzi della 3c",
-			"title": "Le elezioni scolastiche",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e0301a5c838f63d5d222711fb2504278"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x4",
-			"saga": "I ragazzi della 3c",
-			"title": "Tutti al mare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83dad81876d11c1004a50f08e8bf1e45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x5",
-			"saga": "I ragazzi della 3c",
-			"title": "Andiamo a vivere da soli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7bb9a5a9e44a138285e0f2a94c73aa88"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x6",
-			"saga": "I ragazzi della 3c",
-			"title": "Il giornalino di classe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52022ff086a8e0a6baf58f482ef0c09f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x7",
-			"saga": "I ragazzi della 3c",
-			"title": "La recita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9384956b8ea4eaec33d356fa349cd95"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x8",
-			"saga": "I ragazzi della 3c",
-			"title": "Buon Natale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4751e1303eeafe430f0cac885aeaf11f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x9",
-			"saga": "I ragazzi della 3c",
-			"title": "Voglio morire",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3db26ad002c319af5ea79fa792da1785"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x10",
-			"saga": "I ragazzi della 3c",
-			"title": "La festa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e94e9693c2228e313c2be3b63f46ae5e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "1x11",
-			"saga": "I ragazzi della 3c",
-			"title": "Rossella`s baby",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b02c47c184617ac0da4fc4ec21c19f9a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x1",
-			"saga": "I ragazzi della 3c",
-			"title": "La settimana bianca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/08b8ed3aaeca10470da6807753e73736"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x2",
-			"saga": "I ragazzi della 3c",
-			"title": "Ciak si gira",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/02584e71d63e3978bfb753a9e14c93b2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x3",
-			"saga": "I ragazzi della 3c",
-			"title": "Il derby",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a05a62c3a24af4d7b9edb622cb19b41"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x4",
-			"saga": "I ragazzi della 3c",
-			"title": "Il mistero della merendina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/520807ff29fb8dd26a7cf7184d76c0d3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x5",
-			"saga": "I ragazzi della 3c",
-			"title": "A carnevale ogni scherzo vale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d1c2ff1a40906401a13b6d5006e75cd5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x6",
-			"saga": "I ragazzi della 3c",
-			"title": "Corso di sopravvivenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e615839c669fbf9015db7e9c0c00fe3b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x7",
-			"saga": "I ragazzi della 3c",
-			"title": "Gli evasi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c493a6c27fa215cfca9aae6435d8725"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x8",
-			"saga": "I ragazzi della 3c",
-			"title": "War games",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12e189f4b87c9837a7476cdd0d38c887"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x9",
-			"saga": "I ragazzi della 3c",
-			"title": "Il professore cerca casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f6a0e6b441b5a2846c3a8fb5f9a61184"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x10",
-			"saga": "I ragazzi della 3c",
-			"title": "Scuola guida",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0fa836246b5b3252eb82bf643a2efabe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "2x11",
-			"saga": "I ragazzi della 3c",
-			"title": "Gli esami di maturità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e0f4412c49e1f53fcb1588269ac48e95"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x1",
-			"saga": "I ragazzi della 3c",
-			"title": "Vacanze al mare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e4c8c153be2c737ab2718bda59c7bde2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x2",
-			"saga": "I ragazzi della 3c",
-			"title": "Alla ricerca del bronzino perduto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbf38a97d0fb186c44b79d531fcf99a4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x3",
-			"saga": "I ragazzi della 3c",
-			"title": "Colpo grosso al Liceo Leopardi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3ae5915f0b7c7700f08654fefe398178"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x4",
-			"saga": "I ragazzi della 3c",
-			"title": "Tele 3ª C",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8be75f6cdc961e193f83693219e3f8b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x5",
-			"saga": "I ragazzi della 3c",
-			"title": "La casa magica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5332eb142f208138cb4bec957825dbca"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x6",
-			"saga": "I ragazzi della 3c",
-			"title": "La sfilata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d86f4d31c81d22a706f44526f62d50a9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x7",
-			"saga": "I ragazzi della 3c",
-			"title": "Il baby",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c091f3da4f21344c16eeb5422231d0ea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x8",
-			"saga": "I ragazzi della 3c",
-			"title": "Il sosia di Bruno Sacchi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/df2f6b8adea91ba187785f44484f0cfb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x9",
-			"saga": "I ragazzi della 3c",
-			"title": "Daniele e Rossella si lasciano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8244680013ab3208d9eb9f8c1952fad7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x10",
-			"saga": "I ragazzi della 3c",
-			"title": "Il fidanzamento di Bruno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5da06ca1bb24bf14d9cec098179cfa8d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 41583,
-			"number": "3x11",
-			"saga": "I ragazzi della 3c",
-			"title": "Dieci anni dopo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e0009306fdc6be2ab9e3cfa050701ad8"
-				}
-			]
-		}
+            "file_id": "74b50a61c320f1868a0c315371428299",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "La sfida",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.001 - La sfida.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/74b50a61c320f1868a0c315371428299"
+                }
+            ]
+        },
+        {
+            "file_id": "f957723fe955faf21bd97aa858089835",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Chicco a Superstrike",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.002 - Chicco a Superstrike.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f957723fe955faf21bd97aa858089835"
+                }
+            ]
+        },
+        {
+            "file_id": "a70182834506431d42944afbdbc681f5",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Le elezioni scolastiche",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.003 - Le elezioni scolastiche.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a70182834506431d42944afbdbc681f5"
+                }
+            ]
+        },
+        {
+            "file_id": "2d3ac6a93958ca95e1d1210732f602d7",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Tutti al mare",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.004 - Tutti al mare.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d3ac6a93958ca95e1d1210732f602d7"
+                }
+            ]
+        },
+        {
+            "file_id": "6c52f490952a002530581867315813eb",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "Andiamo a vivere da soli",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.005 - Andiamo a vivere da soli.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c52f490952a002530581867315813eb"
+                }
+            ]
+        },
+        {
+            "file_id": "d6c02e10a3948881058155ad8b05d301",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Il giornalino di classe",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.006 - Il giornalino di classe.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d6c02e10a3948881058155ad8b05d301"
+                }
+            ]
+        },
+        {
+            "file_id": "596b73f6143ac7c68c8317080ff1f3bf",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "La recita",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.007 - La recita.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/596b73f6143ac7c68c8317080ff1f3bf"
+                }
+            ]
+        },
+        {
+            "file_id": "1fd6e6a4103eaac1a3b01060abf0840e",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Buon Natale",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.008 - Buon Natale.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1fd6e6a4103eaac1a3b01060abf0840e"
+                }
+            ]
+        },
+        {
+            "file_id": "e65a2fc57f32f9b588ff16939a615e9a",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Voglio morire",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.009 - Voglio morire.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e65a2fc57f32f9b588ff16939a615e9a"
+                }
+            ]
+        },
+        {
+            "file_id": "9d3adaaba85f6a9961700c919fb76179",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "La festa",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.010 - La festa.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d3adaaba85f6a9961700c919fb76179"
+                }
+            ]
+        },
+        {
+            "file_id": "f0e2ff26256afe1e558891a0647e5e40",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Rossella`s baby",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/1.011 - Rossella`s baby.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0e2ff26256afe1e558891a0647e5e40"
+                }
+            ]
+        },
+        {
+            "file_id": "a67317fad6810c6f77b9cff4cafe8d8e",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "La settimana bianca",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.001 - La settimana bianca.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a67317fad6810c6f77b9cff4cafe8d8e"
+                }
+            ]
+        },
+        {
+            "file_id": "6db728bcdae889a0318a0a4ecdf503dc",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Ciak si gira",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.002 - Ciak si gira.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6db728bcdae889a0318a0a4ecdf503dc"
+                }
+            ]
+        },
+        {
+            "file_id": "ab219628d28c57a71f50fba345e7b772",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Il derby",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.003 - Il derby.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab219628d28c57a71f50fba345e7b772"
+                }
+            ]
+        },
+        {
+            "file_id": "91df840569b9a84585ccfaac7201f1bb",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Il mistero della merendina",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.004 - Il mistero della merendina.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91df840569b9a84585ccfaac7201f1bb"
+                }
+            ]
+        },
+        {
+            "file_id": "5c39e8cb738e9b5ad8dd9c9f5f33ad4e",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "A carnevale ogni scherzo vale",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.005 - A carnevale ogni scherzo vale.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c39e8cb738e9b5ad8dd9c9f5f33ad4e"
+                }
+            ]
+        },
+        {
+            "file_id": "b3869d6f6b0b7dcf67f0e0985cf03e4c",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Corso di sopravvivenza",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.006 - Corso di sopravvivenza.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b3869d6f6b0b7dcf67f0e0985cf03e4c"
+                }
+            ]
+        },
+        {
+            "file_id": "a7d15ac11379b49d968420abff3d6de3",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Gli evasi",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.007 - Gli evasi.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a7d15ac11379b49d968420abff3d6de3"
+                }
+            ]
+        },
+        {
+            "file_id": "883002a58cb90d2d9e2c0e04424a00f4",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "War games",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.008 - War games.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/883002a58cb90d2d9e2c0e04424a00f4"
+                }
+            ]
+        },
+        {
+            "file_id": "e8e0342738bda6d10012bc8154047f72",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Il professore cerca casa",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.009 - Il professore cerca casa.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8e0342738bda6d10012bc8154047f72"
+                }
+            ]
+        },
+        {
+            "file_id": "38a3bfdaf5bc515b602916258e611fec",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Scuola guida",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.010 - Scuola guida.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38a3bfdaf5bc515b602916258e611fec"
+                }
+            ]
+        },
+        {
+            "file_id": "5df2d23af5fa18eed3356a8fc6ad5e88",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Gli esami di maturit\u00e0",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/2.011 - Gli esami di maturit\u00e0.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5df2d23af5fa18eed3356a8fc6ad5e88"
+                }
+            ]
+        },
+        {
+            "file_id": "2c4061ffec4db3f21d3f1d84ed0aa207",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Vacanze al mare",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.001 - Vacanze al mare.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2c4061ffec4db3f21d3f1d84ed0aa207"
+                }
+            ]
+        },
+        {
+            "file_id": "4588b8fbd5a53f0bbf4e439da1acbfdf",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Alla ricerca del bronzino perduto",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.002 - Alla ricerca del bronzino perduto.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4588b8fbd5a53f0bbf4e439da1acbfdf"
+                }
+            ]
+        },
+        {
+            "file_id": "7a8fbc1984d2469005ab710246570a51",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Colpo grosso al Liceo Leopardi",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.003 - Colpo grosso al Liceo Leopardi.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a8fbc1984d2469005ab710246570a51"
+                }
+            ]
+        },
+        {
+            "file_id": "33bd1c06e72e4b17378add5de074539d",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Tele 3\u00aa C",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.004 - Tele 3\u00aa C.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/33bd1c06e72e4b17378add5de074539d"
+                }
+            ]
+        },
+        {
+            "file_id": "a733a2a3d00e830196fe27789c744dee",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "La casa magica",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.005 - La casa magica.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a733a2a3d00e830196fe27789c744dee"
+                }
+            ]
+        },
+        {
+            "file_id": "9f4d287aa1d5da238d5b0e7697b3a766",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "La sfilata",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.006 - La sfilata.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f4d287aa1d5da238d5b0e7697b3a766"
+                }
+            ]
+        },
+        {
+            "file_id": "550c28dd539a061187620cac4ee7e1e8",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Il baby",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.007 - Il baby.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/550c28dd539a061187620cac4ee7e1e8"
+                }
+            ]
+        },
+        {
+            "file_id": "875bf115b6f7d59c19197bdbb71abad6",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Il sosia di Bruno Sacchi",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.008 - Il sosia di Bruno Sacchi.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/875bf115b6f7d59c19197bdbb71abad6"
+                }
+            ]
+        },
+        {
+            "file_id": "4f5efd07019841ff657759e9eda15688",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Daniele e Rossella si lasciano",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.009 - Daniele e Rossella si lasciano.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f5efd07019841ff657759e9eda15688"
+                }
+            ]
+        },
+        {
+            "file_id": "509459ff87eef5ef50a4b788d695e9be",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Il fidanzamento di Bruno",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.010 - Il fidanzamento di Bruno.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/509459ff87eef5ef50a4b788d695e9be"
+                }
+            ]
+        },
+        {
+            "file_id": "1f9df39db9c530cb69c7a6acf95d2c96",
+            "tmdb_id": 41583,
+            "saga": "I ragazzi della 3c",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Dieci anni dopo",
+            "fname": "/SerieTV/I ragazzi della 3c (1987) [a41583]/3.011 - Dieci anni dopo.mkv",
+            "year": "1987",
+            "actors": ["Sharon Gusberti", "Fabrizio Bracconeri", "Renato Cesti\u00e8", "Stefania Dadda", "Fabio Ferrari", "Giacomo Rosselli", "Claudia Vegliante", "Francesca Ventura"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1f9df39db9c530cb69c7a6acf95d2c96"
+                }
+            ]
+        }
     ]
 }

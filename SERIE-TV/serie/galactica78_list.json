@@ -1,233 +1,591 @@
 {
     "episodes_list": [
         {
-            "tvdb_id": 71173,
-            "number": "1x1-3",
-            "saga": "Galactica 1978",
+            "file_id": "70d21d60f3851a3d141f2b5f93e2d1b2",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 1-3,
+            "genre": ["Dramma"],
             "title": "Saga of a Star World",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.01-03 - Saga of a Star World.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/a0f75f82a6e97d288e441ce7792bc57a"
+                    "url": "http://51.77.159.233:30299/70d21d60f3851a3d141f2b5f93e2d1b2"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x4",
-            "saga": "Galactica 1978",
-            "title": "Kobol, il pianeta delle antiche leggende (prima parte)",
+            "file_id": "ae5cd979f4739153094f650d494f9fbf",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Kobol, il pianeta delle antiche leggende",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.04 - Kobol, il pianeta delle antiche leggende (prima parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/0833721cedd2d769e7d56f98985285e4"
+                    "url": "http://51.77.159.233:30299/ae5cd979f4739153094f650d494f9fbf"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x4",
-            "saga": "Galactica 1978",
-            "title": "Kobol, il pianeta delle antiche leggende (seconda parte)",
+            "file_id": "8f7ee10824ae232731a315e345809bac",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Kobol, il pianeta delle antiche leggende",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.04 - Kobol, il pianeta delle antiche leggende (seconda parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/4fa20d4790db4ad1ad6adf4aea2f78d2"
+                    "url": "http://51.77.159.233:30299/8f7ee10824ae232731a315e345809bac"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x6",
-            "saga": "Galactica 1978",
+            "file_id": "3edc54f07e43248858a576e7381b5212",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma"],
             "title": "Occhio Rosso",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.06 - Occhio Rosso.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/40b0329171c523b5492fe76a2352e0ff"
+                    "url": "http://51.77.159.233:30299/3edc54f07e43248858a576e7381b5212"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x7",
-            "saga": "Galactica 1978",
+            "file_id": "cb26cfacabcc0947a8d4d499b3206c5f",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma"],
             "title": "La stirpe dei peccatori",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.07 - La stirpe dei peccatori.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/1e76abbd7567c9707f1af9a6ec9b7a5d"
+                    "url": "http://51.77.159.233:30299/cb26cfacabcc0947a8d4d499b3206c5f"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x8",
-            "saga": "Galactica 1978",
-            "title": "Zero, il pianeta dei ghiacci eterni (prima parte)",
+            "file_id": "29f8c5324f61292d792c276be1aecdbe",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Zero, il pianeta dei ghiacci eterni",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.08 - Zero, il pianeta dei ghiacci eterni (prima parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/729704b967c6199740fbfea71f0c07f3"
+                    "url": "http://51.77.159.233:30299/29f8c5324f61292d792c276be1aecdbe"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x9",
-            "saga": "Galactica 1978",
-            "title": "Zero, il pianeta dei ghiacci eterni (seconda parte)",
+            "file_id": "05863bbd4e83fc1d901c26615e0e1f79",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "Zero, il pianeta dei ghiacci eterni",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.09 - Zero, il pianeta dei ghiacci eterni (seconda parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/8a1bcf44357938400595ef66c20f5a59"
+                    "url": "http://51.77.159.233:30299/05863bbd4e83fc1d901c26615e0e1f79"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x10",
-            "saga": "Galactica 1978",
+            "file_id": "5bd13daf0550bbddd1f8407622eae818",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Dramma"],
             "title": "I magnifici guerrieri",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.10 - I magnifici guerrieri.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/305570b3e7256451e9fcd0d8e75c2eab"
+                    "url": "http://51.77.159.233:30299/5bd13daf0550bbddd1f8407622eae818"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x11",
-            "saga": "Galactica 1978",
+            "file_id": "d53b6a9d94bb7b146e80235eb268b842",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Dramma"],
             "title": "I guerrieri del domani",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.11 - I guerrieri del domani.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/91c108ffa9ee72f27a5013087a05180a"
+                    "url": "http://51.77.159.233:30299/d53b6a9d94bb7b146e80235eb268b842"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x12",
-            "saga": "Galactica 1978",
+            "file_id": "42f45b75e9da6bc6ebb0e546b9a0e9aa",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Dramma"],
             "title": "The Living Legend - Part I",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.12 - The Living Legend - Part I.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/e5231585acfc3fa488ede4c0a44d43c4"
+                    "url": "http://51.77.159.233:30299/42f45b75e9da6bc6ebb0e546b9a0e9aa"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x13",
-            "saga": "Galactica 1978",
+            "file_id": "b447915a08be966ab0c9c56ed733c397",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Dramma"],
             "title": "The Living Legend - Part II",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.13 - The Living Legend - Part II.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/18239b316c80e2931b7754b1d826d621"
+                    "url": "http://51.77.159.233:30299/b447915a08be966ab0c9c56ed733c397"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x14",
-            "saga": "Galactica 1978",
+            "file_id": "20f8ec5c1e9426326b3d8c5dd092bb0d",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Dramma"],
             "title": "Fiamme nello spazio",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.14 - Fiamme nello spazio.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/ca6a60a8fbdc0171551c0382344b9cd6"
+                    "url": "http://51.77.159.233:30299/20f8ec5c1e9426326b3d8c5dd092bb0d"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x15",
-            "saga": "Galactica 1978",
-            "title": "Guerra tra Bene e Male (prima parte)",
+            "file_id": "713e27dbd27f1e9e01a5abea867aec41",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Dramma"],
+            "title": "Guerra tra Bene e Male",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.15 - Guerra tra Bene e Male (prima parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/20191ee0bb1932948f8fbd219ac13992"
+                    "url": "http://51.77.159.233:30299/713e27dbd27f1e9e01a5abea867aec41"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x16",
-            "saga": "Galactica 1978",
-            "title": "Guerra tra Bene e Male (seconda parte)",
+            "file_id": "84b4041cc3bf7f17497e7e26353c4020",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Dramma"],
+            "title": "Guerra tra Bene e Male",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.16 - Guerra tra Bene e Male (seconda parte).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/705b050402a0cebb29f0aad3bff4848a"
+                    "url": "http://51.77.159.233:30299/84b4041cc3bf7f17497e7e26353c4020"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x17",
-            "saga": "Galactica 1978",
+            "file_id": "8f84133fba6347d55212c3a86be6c9be",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Dramma"],
             "title": "I normanni",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.17 - I normanni.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/990ceb2ab0f37b618a24e0fbb5f67032"
+                    "url": "http://51.77.159.233:30299/8f84133fba6347d55212c3a86be6c9be"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x18",
-            "saga": "Galactica 1978",
+            "file_id": "f5abcdb979bcfc151676aa89a374b919",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Dramma"],
             "title": "Scorpion sotto accusa",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.18 - Scorpion sotto accusa.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/eda8c3053e67b13c1f4dd384e6ac6715"
+                    "url": "http://51.77.159.233:30299/f5abcdb979bcfc151676aa89a374b919"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x20",
-            "saga": "Galactica 1978",
+            "file_id": "b562cca1d4117da2c61947ffdb4bf990",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Dramma"],
             "title": "I sopravvissuti di Gea",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.19-20 - I sopravvissuti di Gea.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/932a0bcae2b898d69c842249d50eeb66"
+                    "url": "http://51.77.159.233:30299/b562cca1d4117da2c61947ffdb4bf990"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x21",
-            "saga": "Galactica 1978",
+            "file_id": "276392cd5ff53546e5f152b204bb4f66",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Dramma"],
             "title": "La fuga di Baltar",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.21 - La fuga di Baltar.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/e106ae9bbffe25913d1bfd71f1594350"
+                    "url": "http://51.77.159.233:30299/276392cd5ff53546e5f152b204bb4f66"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x22",
-            "saga": "Galactica 1978",
+            "file_id": "bddfc8e6f72f4f5da0f2da35ee333f15",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Dramma"],
             "title": "Uno sguardo alla Terra",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.22 - Uno sguardo alla Terra.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/11b61b731b8796a95177abadd0b10e07"
+                    "url": "http://51.77.159.233:30299/bddfc8e6f72f4f5da0f2da35ee333f15"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x23",
-            "saga": "Galactica 1978",
+            "file_id": "5558515cd65fbaf69eb99371da976e6f",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Dramma"],
             "title": "Catturate il Celestra",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.23 - Catturate il Celestra.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/91a9caeaa0779a3e7c0214e9a7a5708f"
+                    "url": "http://51.77.159.233:30299/5558515cd65fbaf69eb99371da976e6f"
                 }
             ]
         },
         {
-            "tvdb_id": 71173,
-            "number": "1x24",
-            "saga": "Galactica 1978",
+            "file_id": "8476c6f2ab72dfac78014b22746a0a93",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Dramma"],
             "title": "Messaggio dallo spazio tempo",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/1.24 - Messaggio dallo spazio tempo.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/365cc1c60ccf1ea8fddbd621e476e5f1"
+                    "url": "http://51.77.159.233:30299/8476c6f2ab72dfac78014b22746a0a93"
+                }
+            ]
+        },
+        {
+            "file_id": "c6fa63ca84794fbe1b03733a9ed63a47",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Inseguimento nella quarta dimensione",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.01 - Inseguimento nella quarta dimensione (parte 1).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c6fa63ca84794fbe1b03733a9ed63a47"
+                }
+            ]
+        },
+        {
+            "file_id": "963226c7307ea541670a17af211f0871",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "Inseguimento nella quarta dimensione",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.02 - Inseguimento nella quarta dimensione (parte 2).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/963226c7307ea541670a17af211f0871"
+                }
+            ]
+        },
+        {
+            "file_id": "e5f06cac83a28dc575bd2977cf868fea",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Inseguimento nella quarta dimensione",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.03 - Inseguimento nella quarta dimensione (parte 3).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e5f06cac83a28dc575bd2977cf868fea"
+                }
+            ]
+        },
+        {
+            "file_id": "57a4f2f080fe06ddde7766c9d8f8b84d",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "I Super Scout",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.04 - I Super Scout (parte 1).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57a4f2f080fe06ddde7766c9d8f8b84d"
+                }
+            ]
+        },
+        {
+            "file_id": "7b084590ecfee8a31bface6f18b2b620",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "I Super Scout",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.05 - I Super Scout (parte 2).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b084590ecfee8a31bface6f18b2b620"
+                }
+            ]
+        },
+        {
+            "file_id": "18bf14786f0bfb3a4ba953ea6c70385c",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Baseball spaziale",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.06 - Baseball spaziale.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/18bf14786f0bfb3a4ba953ea6c70385c"
+                }
+            ]
+        },
+        {
+            "file_id": "d3a01e058432efc379b1d2ee60115a2c",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Cyloni a New York",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.07 - Cyloni a New York (parte 1).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3a01e058432efc379b1d2ee60115a2c"
+                }
+            ]
+        },
+        {
+            "file_id": "efccb4befe1ebfb078aabd9bad571767",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Cyloni a New York",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.08 - Cyloni a New York (parte 2).avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/efccb4befe1ebfb078aabd9bad571767"
+                }
+            ]
+        },
+        {
+            "file_id": "b22c4315a16908feb8ae5fbd8819cfb3",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "Braccianti spaziali",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.09 - Braccianti spaziali.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b22c4315a16908feb8ae5fbd8819cfb3"
+                }
+            ]
+        },
+        {
+            "file_id": "f63eacdd7e85a5a40b8c438026319fb0",
+            "imdb_id": -1,
+            "tvdb_id": "71173",
+            "tmdb_id": 1972,
+            "saga": "Battlestar Galactica",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Dramma"],
+            "title": "Bentornato Scorpion",
+            "fname": "/SerieTV/Battlestar Galactica (serie classica) [b71173]/2.10 - Bentornato Scorpion.avi",
+            "year": "2004",
+            "actors": ["Edward James Olmos", "Mary McDonnell", "Jamie Bamber", "Katee Sackhoff", "James Callis", "Tricia Helfer", "Tahmoh Penikett", "Grace Park", "Michael Hogan", "Aaron Douglas"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f63eacdd7e85a5a40b8c438026319fb0"
                 }
             ]
         }

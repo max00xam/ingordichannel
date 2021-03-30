@@ -1,699 +1,1058 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 1396,
-			"number": "1x1",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Questione di chimica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6984062c28aebc4b343b5d18e4131cbb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x2",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Senza ritorno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0258dfadded610f7afa2fa2371e7b9ad"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x3",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Coseguenze radicali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/073c2a0928651e3bfb5ab06c286c7792"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x4",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Una malattia scomoda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e68583a1a453b55dfb2c22e3b69e3a7d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x5",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Materia grigia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65101c45019f131dac1a252136fdab7d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x6",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Un pugno di mosche",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/06016fa29da1e73148aaa4627cbb283f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "1x7",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Vendetta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9156ff2f163f6227d3c83bfdeee1ae9c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x1",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Tutto cambia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/23140a20447566b835748cf80a949be0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x2",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Grigliato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12c34bc2d52c189c0d9b638e746805cb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x3",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Punto da un`ape morta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7eca758f552cfec1217459301fa67426"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x4",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Giù",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c4f0a1de3bd80e060e23b13b149e2887"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x5",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Una pistola per Jesse",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a426facbea918a721cb50f5097776830"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x6",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Una lezione indimenticabile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cdf2db3cc0a8e6e3334018294b5a8a99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x7",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Nero e azzurro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03d5a7948cfe05fca5d421d6df47c34a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x8",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Conviene chiamare Saul",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5fa6d522c8195635361daf6eeb35ed03"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x9",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "4 giorni fuori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/64b7a0633145845118795d357cb0bbb3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x10",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Game Over",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d15f78e8ccbb07d364d55871c5f4e470"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x11",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Mandala",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4ab6b349a07fd0ddc78618c140904ae9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x12",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Phoenix",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/668b1b1ffb53ef3698f235a58ab594e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "2x13",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Albuquerque",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b7dd27bf7b1353eea09d48dd82f9df28"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x1",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Ora basta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/01bf48fa0cce7bfa1f159ca755fb186f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x2",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Cavallo senza nome",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/127cfa2f8f64988cf4570f6058e58321"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x3",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Tradimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fedfcb829c0d2e0ea48252cfe1a59308"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x4",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Luce verde",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/694764530b8c9dcc4ded93bb0784a3af"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x5",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Di più",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/34391b12f343aafeb41b58a63db599e5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x6",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Al tramonto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ab792aafd674d42dfc97d2a010f7026c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x7",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Un minuto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/46eea10365ddb472628f9dabac415e14"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x8",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Ti vedo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/656b573754fac3d8f34cffbee2f52db1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x9",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Atmosfere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3940efd1b01b07862b637156d5560813"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x10",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Caccia grossa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/00a3be259f5b68fa4b7cebcb73170fbb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x11",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Scrupoli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d3d109495d4e217fdb935dd6afee02c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x12",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Mezze misure",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b67bfdbdadbd3aa985a88f2340ad004"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "3x13",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Niente mezze misure",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9b38de9191eac9c46394595f6ea7334d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x1",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Il taglierino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1e429823bd534c01f085f533d511fd20"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x2",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Calibro 38",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd54c6cf5fba0b3e065ec8d3fa8a743a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x3",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Casa aperta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f186089d911a324b79053fce0d7d3d6e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x4",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "La versione di Skyler",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f651778d0a3c3da6d6742903d1c76ddd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x5",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "L`autolavaggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/22bf6557d5e15381d6d2199c991fdf9e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x6",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Messi all`angolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/38ac609f551e45b6a06935a873112250"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x7",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Un cane difficile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/63ccffffe06fd8c5d7e3aa2777e1b593"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x8",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Fratelli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/39e4a8cb58aeea0e8417c6bd90be54ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x9",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Cimici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/94faacbf7032c8e64aa26faf1c92d4de"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x10",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Alla salute",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/576f8a54f6aabdb57a88cf58aba26ebe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x11",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Nuove identità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a76dd1f27f5bb134e110a0bd73b1f1d7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x12",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Cercando vendetta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/652fd971d39ed3e451dbed78804a9486"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "4x13",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Fine della storia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f953091b516dd69bcc7ec7082e9de6be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x1",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Vivi libero o muori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d2e767b74a70f0a3ba77b2319786818d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x2",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "L`affare tedesco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/72bf7c0f48c244824d60f0e7b112bccb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x3",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Indennità di rischio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fce8490f6ad79af95b2f377befad830d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x4",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Un ambiente migliore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0a6620013fc5c225d7ac3e54399ecf4d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x5",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Rapina al treno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/80699b6d1eac82dfa73514056650fad3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x6",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Buonuscita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b4f9ce2689e04d73bc3f8cf52690607"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x7",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Di` il mio nome",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d872431f36efe56ffd1b4d6b86d25eee"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x8",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Volare alto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c25cba77293c92d430a3c29ac53b94cd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x9",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Denaro insanguinato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d313420f0f67bb748d05d7949a6f8c83"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x10",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Questioni di famiglia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da7a7a7e1f294d90e225312ebadffbaa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x11",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Confessioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bc33cae166a20d693d58a2c263e957f3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x12",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Cane rabbioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/11708672e3fea14b05d7f59cf669818c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x13",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Riserva indiana",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3434c59688f5da73055f728af2e19c61"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x14",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Declino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f25b94280b0ba0303043204f138c124"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x15",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Tutto torna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a8ffab83f4b3ad42c0ea779017a22d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1396,
-			"number": "5x16",
-			"saga": "Breaking Bad - Reazioni collaterali",
-			"title": "Felina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/524ce396875a4ff95a2d807180827ede"
-				}
-			]
+            "file_id": "09e94a58d53a34727e4ddf50356e89ef",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Questione di chimica",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.001 - Questione di chimica.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/09e94a58d53a34727e4ddf50356e89ef"
+                }
+            ]
         },
         {
-			"tmdb_id": 559969,
-			"number": "Film",
-			"saga": "Breaking Bad - Reazioni collaterali",
-            "title": "El Camino - Il film di Breaking Bad",
-            "plot": "Il fuggitivo Jesse Pinkman tenta di sfuggire al suo passato. Scritto e diretto dall'autore di \"Breaking Bad\" Vince Gilligan, con Aaron Paul.",
-			"year": "2019",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/de94bc64b01cae45f2ccde450cdc91b5"
-				}
-			]
+            "file_id": "fe995f37751a414b21f88e9bce090418",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "Senza ritorno",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.002 - Senza ritorno.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fe995f37751a414b21f88e9bce090418"
+                }
+            ]
+        },
+        {
+            "file_id": "8ac24093c2fdd011192cd32c042ec9ef",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Coseguenze radicali",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.003 - Coseguenze radicali.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ac24093c2fdd011192cd32c042ec9ef"
+                }
+            ]
+        },
+        {
+            "file_id": "3d47fb278f624357644ed2ec327e02f6",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Una malattia scomoda",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.004 - Una malattia scomoda.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3d47fb278f624357644ed2ec327e02f6"
+                }
+            ]
+        },
+        {
+            "file_id": "719200d3775bd374e574dc4114ed5ed0",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "Materia grigia",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.005 - Materia grigia.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/719200d3775bd374e574dc4114ed5ed0"
+                }
+            ]
+        },
+        {
+            "file_id": "81627d3a0b23001988431ad372fcf92b",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Un pugno di mosche",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.006 - Un pugno di mosche.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81627d3a0b23001988431ad372fcf92b"
+                }
+            ]
+        },
+        {
+            "file_id": "f306c9f6b7afd3995404902bb449fc76",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Vendetta",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/1.007 - Vendetta.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f306c9f6b7afd3995404902bb449fc76"
+                }
+            ]
+        },
+        {
+            "file_id": "9b03d3416e86c73b14ce7a260c0e02f0",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Tutto cambia",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.001 - Tutto cambia.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9b03d3416e86c73b14ce7a260c0e02f0"
+                }
+            ]
+        },
+        {
+            "file_id": "94336d2763d4b57336d8941d4d688823",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "Grigliato",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.002 - Grigliato.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94336d2763d4b57336d8941d4d688823"
+                }
+            ]
+        },
+        {
+            "file_id": "88dc89e380825462393112275b5c2dac",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Punto da un`ape morta",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.003 - Punto da un`ape morta.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/88dc89e380825462393112275b5c2dac"
+                }
+            ]
+        },
+        {
+            "file_id": "9677ac828ef44717124f4ecf908eba54",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Gi\u00f9",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.004 - Gi\u00f9.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9677ac828ef44717124f4ecf908eba54"
+                }
+            ]
+        },
+        {
+            "file_id": "e807399d380a31df20a75043df9d187a",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "Una pistola per Jesse",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.005 - Una pistola per Jesse.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e807399d380a31df20a75043df9d187a"
+                }
+            ]
+        },
+        {
+            "file_id": "3e92a047475b8e213a9468987882768d",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Una lezione indimenticabile",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.006 - Una lezione indimenticabile.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3e92a047475b8e213a9468987882768d"
+                }
+            ]
+        },
+        {
+            "file_id": "866e9083406842ecc5894465c3467964",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Nero e azzurro",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.007 - Nero e azzurro.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/866e9083406842ecc5894465c3467964"
+                }
+            ]
+        },
+        {
+            "file_id": "733d5a237979290a3e93903923919ff3",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Conviene chiamare Saul",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.008 - Conviene chiamare Saul.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/733d5a237979290a3e93903923919ff3"
+                }
+            ]
+        },
+        {
+            "file_id": "b6c103305cfd7f5c50406d7582a3eb99",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "4 giorni fuori",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.009 - 4 giorni fuori.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6c103305cfd7f5c50406d7582a3eb99"
+                }
+            ]
+        },
+        {
+            "file_id": "512d9141ff6534cc066727f21579e52a",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Dramma"],
+            "title": "Game Over",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.010 - Game Over.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/512d9141ff6534cc066727f21579e52a"
+                }
+            ]
+        },
+        {
+            "file_id": "538db7fded8c529ff0af2129cc0e94e5",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Dramma"],
+            "title": "Mandala",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.011 - Mandala.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/538db7fded8c529ff0af2129cc0e94e5"
+                }
+            ]
+        },
+        {
+            "file_id": "ca194be50718a8c7acbf38e08fb879a6",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Dramma"],
+            "title": "Phoenix",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.012 - Phoenix.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ca194be50718a8c7acbf38e08fb879a6"
+                }
+            ]
+        },
+        {
+            "file_id": "7e06011097d403ce559bc0134dd3cccc",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Dramma"],
+            "title": "Albuquerque",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/2.013 - Albuquerque.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e06011097d403ce559bc0134dd3cccc"
+                }
+            ]
+        },
+        {
+            "file_id": "b61cb5ffe35be35e29244bf1503512b3",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Ora basta",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.001 - Ora basta.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b61cb5ffe35be35e29244bf1503512b3"
+                }
+            ]
+        },
+        {
+            "file_id": "b4774bbd69ca369c2870968ffcc7fb94",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "Cavallo senza nome",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.002 - Cavallo senza nome.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b4774bbd69ca369c2870968ffcc7fb94"
+                }
+            ]
+        },
+        {
+            "file_id": "83ebec723d8410c41c45f0518b3e2758",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Tradimento",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.003 - Tradimento.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/83ebec723d8410c41c45f0518b3e2758"
+                }
+            ]
+        },
+        {
+            "file_id": "7c1ef1e13d77f5733cdbfb628b391a99",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Luce verde",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.004 - Luce verde.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7c1ef1e13d77f5733cdbfb628b391a99"
+                }
+            ]
+        },
+        {
+            "file_id": "5eb03034516d06cc9b97fa69279effc4",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "Di pi\u00f9",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.005 - Di pi\u00f9.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5eb03034516d06cc9b97fa69279effc4"
+                }
+            ]
+        },
+        {
+            "file_id": "694157e946fe27a85a7fea9629b0cdd2",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Al tramonto",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.006 - Al tramonto.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/694157e946fe27a85a7fea9629b0cdd2"
+                }
+            ]
+        },
+        {
+            "file_id": "4c57bae1602fa543500cf12f2a5489c0",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Un minuto",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.007 - Un minuto.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c57bae1602fa543500cf12f2a5489c0"
+                }
+            ]
+        },
+        {
+            "file_id": "b9cb1a4e3fcc16544bb980332c3c8dec",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Ti vedo",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.008 - Ti vedo.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9cb1a4e3fcc16544bb980332c3c8dec"
+                }
+            ]
+        },
+        {
+            "file_id": "5ff17778f6a8020db520212a70de9b50",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "Atmosfere",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.009 - Atmosfere.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ff17778f6a8020db520212a70de9b50"
+                }
+            ]
+        },
+        {
+            "file_id": "6bb46a7ae4dc322a192cd7ebdb701d0f",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Dramma"],
+            "title": "Caccia grossa",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.010 - Caccia grossa.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6bb46a7ae4dc322a192cd7ebdb701d0f"
+                }
+            ]
+        },
+        {
+            "file_id": "e82ccfe9454af5e46a0ac367b25d7965",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Dramma"],
+            "title": "Scrupoli",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.011 - Scrupoli.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e82ccfe9454af5e46a0ac367b25d7965"
+                }
+            ]
+        },
+        {
+            "file_id": "7d0eb9ba5df89ca4001624eea4bce1bf",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Dramma"],
+            "title": "Mezze misure",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.012 - Mezze misure.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d0eb9ba5df89ca4001624eea4bce1bf"
+                }
+            ]
+        },
+        {
+            "file_id": "d973692cc7f3e58da63cc1ef1444a03f",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Dramma"],
+            "title": "Niente mezze misure",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/3.013 - Niente mezze misure.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d973692cc7f3e58da63cc1ef1444a03f"
+                }
+            ]
+        },
+        {
+            "file_id": "050f0bf1f563011eb2a5f4ad0a3492a7",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Il taglierino",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.001 - Il taglierino.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/050f0bf1f563011eb2a5f4ad0a3492a7"
+                }
+            ]
+        },
+        {
+            "file_id": "7f4528caa30257b40281910c5a39ec91",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "Calibro 38",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.002 - Calibro 38.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f4528caa30257b40281910c5a39ec91"
+                }
+            ]
+        },
+        {
+            "file_id": "9773ee16af0f8099390c280da31f79b4",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Casa aperta",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.003 - Casa aperta.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9773ee16af0f8099390c280da31f79b4"
+                }
+            ]
+        },
+        {
+            "file_id": "6c6b572a51292032d1a3c764c6c63e09",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "La versione di Skyler",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.004 - La versione di Skyler.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c6b572a51292032d1a3c764c6c63e09"
+                }
+            ]
+        },
+        {
+            "file_id": "f71a0ad64fc282f036a8394482277b6f",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "L`autolavaggio",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.005 - L`autolavaggio.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f71a0ad64fc282f036a8394482277b6f"
+                }
+            ]
+        },
+        {
+            "file_id": "7897ae0aa3ce46b5e2de09e91a603ae2",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Messi all`angolo",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.006 - Messi all`angolo.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7897ae0aa3ce46b5e2de09e91a603ae2"
+                }
+            ]
+        },
+        {
+            "file_id": "8ddb63a44ac02b81724db311871fc777",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Un cane difficile",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.007 - Un cane difficile.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ddb63a44ac02b81724db311871fc777"
+                }
+            ]
+        },
+        {
+            "file_id": "7cb907507c706bee54d0fb036a64ddbd",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Fratelli",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.008 - Fratelli.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7cb907507c706bee54d0fb036a64ddbd"
+                }
+            ]
+        },
+        {
+            "file_id": "4efac1e2cca55d76d6b2ba4ccc44d4e0",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "Cimici",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.009 - Cimici.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4efac1e2cca55d76d6b2ba4ccc44d4e0"
+                }
+            ]
+        },
+        {
+            "file_id": "82cbe5d2d5603e0b8b688d7132cebb86",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Dramma"],
+            "title": "Alla salute",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.010 - Alla salute.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82cbe5d2d5603e0b8b688d7132cebb86"
+                }
+            ]
+        },
+        {
+            "file_id": "2ab47ddc71e778a517d485d1327f0d25",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 11,
+            "genre": ["Dramma"],
+            "title": "Nuove identit\u00e0",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.011 - Nuove identit\u00e0.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ab47ddc71e778a517d485d1327f0d25"
+                }
+            ]
+        },
+        {
+            "file_id": "4afafc12145607e53d6e734ca370939b",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 12,
+            "genre": ["Dramma"],
+            "title": "Cercando vendetta",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.012 - Cercando vendetta.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4afafc12145607e53d6e734ca370939b"
+                }
+            ]
+        },
+        {
+            "file_id": "50aeaec2dbb60f3e91050aa815ffc404",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 4,
+            "episode": 13,
+            "genre": ["Dramma"],
+            "title": "Fine della storia",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/4.013 - Fine della storia.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50aeaec2dbb60f3e91050aa815ffc404"
+                }
+            ]
+        },
+        {
+            "file_id": "1a4777509c2ab11dca7905383521f751",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Vivi libero o muori",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.001 - Vivi libero o muori.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a4777509c2ab11dca7905383521f751"
+                }
+            ]
+        },
+        {
+            "file_id": "fc840251e6280781e3e906ccbc947f88",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Dramma"],
+            "title": "L`affare tedesco",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.002 - L`affare tedesco.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fc840251e6280781e3e906ccbc947f88"
+                }
+            ]
+        },
+        {
+            "file_id": "91f918b64d18a915b567e8b4d8043c2d",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Dramma"],
+            "title": "Indennit\u00e0 di rischio",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.003 - Indennit\u00e0 di rischio.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91f918b64d18a915b567e8b4d8043c2d"
+                }
+            ]
+        },
+        {
+            "file_id": "72a7b02819db020f00aae30ff3983ebd",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Dramma"],
+            "title": "Un ambiente migliore",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.004 - Un ambiente migliore.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/72a7b02819db020f00aae30ff3983ebd"
+                }
+            ]
+        },
+        {
+            "file_id": "285926f4076b122650279a5b5fcd6c91",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Dramma"],
+            "title": "Rapina al treno",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.005 - Rapina al treno.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/285926f4076b122650279a5b5fcd6c91"
+                }
+            ]
+        },
+        {
+            "file_id": "918f3d939dd404ab5b90debc2bd2a0fe",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Dramma"],
+            "title": "Buonuscita",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.006 - Buonuscita.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/918f3d939dd404ab5b90debc2bd2a0fe"
+                }
+            ]
+        },
+        {
+            "file_id": "9efc51135bf5f120e3959b685a5f85b3",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Dramma"],
+            "title": "Di` il mio nome",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.007 - Di` il mio nome.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9efc51135bf5f120e3959b685a5f85b3"
+                }
+            ]
+        },
+        {
+            "file_id": "1851ef73f90a7ba2b17077d65468f5ad",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Dramma"],
+            "title": "Volare alto",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.008 - Volare alto.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1851ef73f90a7ba2b17077d65468f5ad"
+                }
+            ]
+        },
+        {
+            "file_id": "ea6ce670fbd9048a9ededff4c065401f",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Dramma"],
+            "title": "Denaro insanguinato",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.009 - Denaro insanguinato.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea6ce670fbd9048a9ededff4c065401f"
+                }
+            ]
+        },
+        {
+            "file_id": "a809d3d993723fcdbb740701303de35a",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Dramma"],
+            "title": "Questioni di famiglia",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.010 - Questioni di famiglia.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a809d3d993723fcdbb740701303de35a"
+                }
+            ]
+        },
+        {
+            "file_id": "9d76f9baf84479d101545048a67b0be5",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 11,
+            "genre": ["Dramma"],
+            "title": "Confessioni",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.011 - Confessioni.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d76f9baf84479d101545048a67b0be5"
+                }
+            ]
+        },
+        {
+            "file_id": "fa98fbbe479627e9763f4f3608aae4ab",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 12,
+            "genre": ["Dramma"],
+            "title": "Cane rabbioso",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.012 - Cane rabbioso.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fa98fbbe479627e9763f4f3608aae4ab"
+                }
+            ]
+        },
+        {
+            "file_id": "8deb9b3b6b2ec58155a2811c7abd50c4",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 13,
+            "genre": ["Dramma"],
+            "title": "Riserva indiana",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.013 - Riserva indiana.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8deb9b3b6b2ec58155a2811c7abd50c4"
+                }
+            ]
+        },
+        {
+            "file_id": "d0c1e88bdad0ca9914c3f7bf35fb66b2",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 14,
+            "genre": ["Dramma"],
+            "title": "Declino",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.014 - Declino.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d0c1e88bdad0ca9914c3f7bf35fb66b2"
+                }
+            ]
+        },
+        {
+            "file_id": "aa97311034deb04d30388967b49b4e66",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 15,
+            "genre": ["Dramma"],
+            "title": "Tutto torna",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.015 - Tutto torna.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa97311034deb04d30388967b49b4e66"
+                }
+            ]
+        },
+        {
+            "file_id": "1294334deb85bb6d03fc1be92c214669",
+            "tmdb_id": 1396,
+            "saga": "Breaking Bad - Reazioni collaterali",
+            "season": 5,
+            "episode": 16,
+            "genre": ["Dramma"],
+            "title": "Felina",
+            "fname": "/SerieTV/Breaking Bad - Reazioni collaterali (2008) [a1396]/5.016 - Felina.mp4",
+            "year": "2008",
+            "actors": ["Bryan Cranston", "Aaron Paul", "Anna Gunn", "Dean Norris", "Betsy Brandt", "RJ Mitte", "Bob Odenkirk", "Jonathan Banks"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1294334deb85bb6d03fc1be92c214669"
+                }
+            ]
         }
     ]
 }

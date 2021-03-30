@@ -1,675 +1,1046 @@
 {
     "episodes_list": [
         {
-			"tvdb_id": 71635,
-			"number": "1x1",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Informer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d26b13f3060180d553e52bc60cdaeef5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x2",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Hold That Tiger",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8ea4304ac1dfa29da56302c2b71c4334"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x3",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Kommandant of the Year",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bd4b3c96fa8d82b358d65807987a03ca"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x4",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Late Inspector General",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8a6e2c85bf4ece64c51ff8d752cb6b2b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x5",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Flight of the Valkyrie",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a5003ecfb0d93b3e8eeb6316b9c9261b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x6",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Prisoner`s Prisoner",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e637c47bdc1f4727d443d8cc000c67f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x7",
-			"saga": "Gli Eroi di Hogan",
-			"title": "German Bridge is Falling Down",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f480d63b87521efc1327b7e9df9ff789"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x8",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Movies Are Your Best Escape",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa450ee08b54b80eb722ae678cefe26a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x9",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Go Light on the Heavy Water",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/719d08ca45656f4e78c39774e55ba9eb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x10",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Top Hat, White Tie and Bomb Sights",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbb3459d8b2468c617e3381bc6db8691"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x11",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Happiness is a Warm Sergeant",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a914e29885b0a60d6636bed970213fae"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x12",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Scientist",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5617108ba39aa623badc79e5c0e83a71"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x13",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Hogan`s Hofbrau",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f584a168ce67ba1741969d32f8df5fa2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x14",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Oil for the Lamps of Hogan",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7412b54d9d1f8a208b08a626f9235a5e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x15",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Reservations Are Required",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bb5f86c9f2016b9cbdfef46205270f68"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x16",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Anchors Aweigh, Men of Stalag 13",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fe502f6d5875d5600b68b0a3aff88f2b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x17",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Happy Birthday, Adolf",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ce81c3ff93f7d42a7e71c1c2c04897fc"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x18",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Gold Rush",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ef2ac24223d47d2dd02d225f76f178f0"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x20",
-			"saga": "Gli Eroi di Hogan",
-			"title": "It Takes a Thief",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/813e0c53113ab2623467cd57c4f41b1a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x21",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Great Impersonation",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4a72eae7b43cc62263ffc888e5b6c135"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x22",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Pizza Parlor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d0f0f0311e22922227621ac4a8b48ee2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x23",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The 43rd, a Moving Story",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3468a8bc09e34fa72d923657efa7f5e8"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x24",
-			"saga": "Gli Eroi di Hogan",
-			"title": "How to Cook a German Goose by Radar",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd8061b5c4de46f69f2b87afef71c9e2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x25",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Psychic Kommandant",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/763c45c3d87db6fc8ee5b942489e3944"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x26",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Prince from the Phone Company",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6c4b4f399fd624fd28e9b8fead11ba4"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x27",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Safecracker Suite",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c8985a51d3328c31b0280b3996c4357"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x28",
-			"saga": "Gli Eroi di Hogan",
-			"title": "I Look Better in Basic Black",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c14740c3f31d280c32519d21c9d5ef2f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x29",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Assassin",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ff718cc261b3f06fbfc0a0779582092"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x30",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Cupid Comes to Stalag 13",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5d8c5029dfd5cc25e99b425d3edf74f9"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x31",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Flame Grows Higher",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7bfc8801a7097ce7c744d3d04e730e9e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "1x32",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Request Permission to Escape",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1b1b1859d1dbfcaebaede04e856a5d6"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x1",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Hogan Gives a Birthday Party",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eea8c32617801d7744114c15700411ed"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x2",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Schultz Brigade",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3aea17dceb6360e1f74c26545eed7ec5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x3",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Diamonds in the Rough",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e5dc30620e4cdf3096dd1ef8f7f39070"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x4",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Operation Briefcase",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/77d18fef635352559cb97624aa53fbc3"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x5",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Battle of Stalag 13",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ab9d1cc5ea8fb0c75dc07ce89c9bee7"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x6",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Rise and Fall of Sergeant Schultz",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a5a3713c2283f3fb42cbb84d88e4692e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x7",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Hogan Springs",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c2ace3eed576929b537c244e9a22ca86"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x8",
-			"saga": "Gli Eroi di Hogan",
-			"title": "A Klink, a Bomb and a Short Fuse",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/14ecb9065f1bb92a0f2337b0cbbe39b9"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x9",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Tanks for the Memory",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/73071b46331f3062417fbded6f704611"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x10",
-			"saga": "Gli Eroi di Hogan",
-			"title": "A Tiger Hunt in Paris (1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c7748fc871bd601e7a84e55f5064ac7"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x11",
-			"saga": "Gli Eroi di Hogan",
-			"title": "A Tiger Hunt in Paris (2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4ab75f1def05a1a31004eef2b88a6e29"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x12",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Will the Real Adolf Please Stand Up",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/153df178032f60bdd2eed12a071f4928"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x13",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Don`t Forget to Write",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e4b7409dba85c43b964928a605f53835"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x14",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Klink`s Rocket",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a64ad1b8c515d6c2313fd3ff1c7f1c9c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x15",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Information Please",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b74989313f7c26b3c9b02ddf8f51735d"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x16",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Art for Hogan`s Sake",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/21e49640cb49a7495cb3e94665a97ff6"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x17",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The General Swap",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a8e9b9ce964954c715dbd6dd350cd29"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x18",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Great Brinksmeyer Robbery",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a839f31e6468656537656f51b0ba239"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x19",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Praise the Führer and Pass the Ammunition",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b6e7ebdb4da376d2cca0fa883391dc5b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x20",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Hogan and the Lady Doctor",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7e1fb1498c97dedc1d1d25d01c12734b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x21",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Swing Shift",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/57a5ce89d1432e1296c7af4d14c97a11"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x22",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Heil Klink",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a6a6630f99675c5fb9d6952e4eedfc52"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x23",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Everyone Has a Brother-in-Law",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/938c1876e54d186f488766e0c463fbeb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x24",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Killer Klink",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d78b57219ed1f3354757c549e4b54ac"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x25",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Reverend Kommandant Klink",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/584d0d3fb8ec0ca9edbf538eaec00a06"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x26",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Most Escape-Proof Prison Camp I`ve Ever Escaped From",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7e6d2538a7c08cb2cdd8a2ea71d3f78"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x27",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Tower",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bcf26b6835b23d5deb7a45b44242dfab"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x28",
-			"saga": "Gli Eroi di Hogan",
-			"title": "Colonel Klink`s Secret Weapon",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/10fa618319e86f49994b5f26557053e9"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x29",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Top Secret Top Coat",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c8bd5505d7008ba4e036c7a3172f30d6"
-				}
-			]
-		},
-		{
-			"tvdb_id": 71635,
-			"number": "2x30",
-			"saga": "Gli Eroi di Hogan",
-			"title": "The Reluctant Target",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a1420c6a995a938814e6b10285403a3b"
-				}
-			]
-		}
+            "file_id": "1149c9ba382a42fe2b6c3dd95a1c1e48",
+            "tvdb_id": "71635",
+            "tmdb_id": 28572,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 1,
+            "title": "The Informer",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.001 - The Informer.avi",
+            "year": "1966",
+            "actors": [],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1149c9ba382a42fe2b6c3dd95a1c1e48"
+                }
+            ]
+        },
+        {
+            "file_id": "6dc019406a3a4dfce3c67797ecbf377f",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 2,
+            "title": "Hold That Tiger",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.002 - Hold That Tiger.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6dc019406a3a4dfce3c67797ecbf377f"
+                }
+            ]
+        },
+        {
+            "file_id": "17235dca06a60402bd73d75a7cc8b526",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 3,
+            "title": "Kommandant of the Year",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.003 - Kommandant of the Year.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/17235dca06a60402bd73d75a7cc8b526"
+                }
+            ]
+        },
+        {
+            "file_id": "3b5d6c083774ec7ce453d2c0086d2382",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 4,
+            "title": "The Late Inspector General",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.004 - The Late Inspector General.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b5d6c083774ec7ce453d2c0086d2382"
+                }
+            ]
+        },
+        {
+            "file_id": "b3a8c23076746cf813bdf6ef043c2774",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 5,
+            "title": "The Flight of the Valkyrie",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.005 - The Flight of the Valkyrie.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b3a8c23076746cf813bdf6ef043c2774"
+                }
+            ]
+        },
+        {
+            "file_id": "242caa7312b75380c0ed7764143ca366",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 6,
+            "title": "The Prisoner`s Prisoner",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.006 - The Prisoner`s Prisoner.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/242caa7312b75380c0ed7764143ca366"
+                }
+            ]
+        },
+        {
+            "file_id": "077a1a655b224217e9ff0719b010c4de",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 7,
+            "title": "German Bridge is Falling Down",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.007 - German Bridge is Falling Down.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/077a1a655b224217e9ff0719b010c4de"
+                }
+            ]
+        },
+        {
+            "file_id": "ddc49711cacbd1e27460dcd711aface8",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 8,
+            "title": "Movies Are Your Best Escape",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.008 - Movies Are Your Best Escape.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ddc49711cacbd1e27460dcd711aface8"
+                }
+            ]
+        },
+        {
+            "file_id": "85d5838b9879c15277cff118440b01b3",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 9,
+            "title": "Go Light on the Heavy Water",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.009 - Go Light on the Heavy Water.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85d5838b9879c15277cff118440b01b3"
+                }
+            ]
+        },
+        {
+            "file_id": "911076e468fa3b3f3c947a353418287a",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 10,
+            "title": "Top Hat, White Tie and Bomb Sights",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.010 - Top Hat, White Tie and Bomb Sights.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/911076e468fa3b3f3c947a353418287a"
+                }
+            ]
+        },
+        {
+            "file_id": "1d4151062056b6f01d103f15b075e999",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 11,
+            "title": "Happiness is a Warm Sergeant",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.011 - Happiness is a Warm Sergeant.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d4151062056b6f01d103f15b075e999"
+                }
+            ]
+        },
+        {
+            "file_id": "f5e019b62bffa57a3fa9733f3059605c",
+            "tvdb_id": "71635",
+            "tmdb_id": 49688,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Documentario"],
+            "title": "The Scientist",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.012 - The Scientist.avi",
+            "year": "2010",
+            "actors": [],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f5e019b62bffa57a3fa9733f3059605c"
+                }
+            ]
+        },
+        {
+            "file_id": "a6ba52753f89fc849e49aeff14240f64",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 13,
+            "title": "Hogan`s Hofbrau",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.013 - Hogan`s Hofbrau.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6ba52753f89fc849e49aeff14240f64"
+                }
+            ]
+        },
+        {
+            "file_id": "85d5661d10a1c5e65d14044362ef7eba",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 14,
+            "title": "Oil for the Lamps of Hogan",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.014 - Oil for the Lamps of Hogan.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85d5661d10a1c5e65d14044362ef7eba"
+                }
+            ]
+        },
+        {
+            "file_id": "0f950ca0ca8b2366bf031c94caafd2d9",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 15,
+            "title": "Reservations Are Required",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.015 - Reservations Are Required.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f950ca0ca8b2366bf031c94caafd2d9"
+                }
+            ]
+        },
+        {
+            "file_id": "537b59c9beb196c10a45268f7c9cd4ae",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 16,
+            "title": "Anchors Aweigh, Men of Stalag 13",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.016 - Anchors Aweigh, Men of Stalag 13.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/537b59c9beb196c10a45268f7c9cd4ae"
+                }
+            ]
+        },
+        {
+            "file_id": "94c6a5e923f34be4cfdc8183cc9885dd",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 17,
+            "title": "Happy Birthday, Adolf",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.017 - Happy Birthday, Adolf.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94c6a5e923f34be4cfdc8183cc9885dd"
+                }
+            ]
+        },
+        {
+            "file_id": "45196dae6f1979da2eb1dfe3281ae583",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 18,
+            "title": "The Gold Rush",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.018 - The Gold Rush.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/45196dae6f1979da2eb1dfe3281ae583"
+                }
+            ]
+        },
+        {
+            "file_id": "8ae7fe6321d44b4bc3bd504daeea4b55",
+            "tvdb_id": "71635",
+            "tmdb_id": 10496,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Dramma"],
+            "title": "It Takes a Thief",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.020 - It Takes a Thief... Sometimes.avi",
+            "year": "1968",
+            "actors": ["Robert Wagner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ae7fe6321d44b4bc3bd504daeea4b55"
+                }
+            ]
+        },
+        {
+            "file_id": "a9d97de3a4671fea0b26b9e80653d5cf",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 21,
+            "title": "The Great Impersonation",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.021 - The Great Impersonation.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a9d97de3a4671fea0b26b9e80653d5cf"
+                }
+            ]
+        },
+        {
+            "file_id": "3776bc723aa0fa5b4d35d686a6301e0e",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 22,
+            "title": "The Pizza Parlor",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.022 - The Pizza Parlor.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3776bc723aa0fa5b4d35d686a6301e0e"
+                }
+            ]
+        },
+        {
+            "file_id": "ea223ecaa669289c278b3949227e70b6",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 23,
+            "title": "The 43rd, a Moving Story",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.023 - The 43rd, a Moving Story.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea223ecaa669289c278b3949227e70b6"
+                }
+            ]
+        },
+        {
+            "file_id": "b1bea187d21ccc75aac52d67e8eeb312",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 24,
+            "title": "How to Cook a German Goose by Radar",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.024 - How to Cook a German Goose by Radar.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b1bea187d21ccc75aac52d67e8eeb312"
+                }
+            ]
+        },
+        {
+            "file_id": "8cef8ef8b89575301afe13b3ee771e6e",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 25,
+            "title": "Psychic Kommandant",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.025 - Psychic Kommandant.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8cef8ef8b89575301afe13b3ee771e6e"
+                }
+            ]
+        },
+        {
+            "file_id": "b4c3fced86b610590ee443d9d50948d5",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 26,
+            "title": "The Prince from the Phone Company",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.026 - The Prince from the Phone Company.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b4c3fced86b610590ee443d9d50948d5"
+                }
+            ]
+        },
+        {
+            "file_id": "b16f518b5c72adf964a51d90310e2d9a",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 27,
+            "title": "The Safecracker Suite",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.027 - The Safecracker Suite.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b16f518b5c72adf964a51d90310e2d9a"
+                }
+            ]
+        },
+        {
+            "file_id": "d1ac3e50be20616ae104a2ef319b3b31",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 28,
+            "title": "I Look Better in Basic Black",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.028 - I Look Better in Basic Black.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1ac3e50be20616ae104a2ef319b3b31"
+                }
+            ]
+        },
+        {
+            "file_id": "b46c5ba69a6fb9c6690d1a4fd8f82057",
+            "tvdb_id": "71635",
+            "tmdb_id": 97098,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 29,
+            "title": "The Assassin",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.029 - The Assassin.avi",
+            "year": "1991",
+            "actors": ["Ken Watanabe", "Kunie Tanaka", "Isao Hashizume", "Jun Miho"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b46c5ba69a6fb9c6690d1a4fd8f82057"
+                }
+            ]
+        },
+        {
+            "file_id": "92266e6eef92e5a78a99d27515ddd1b2",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 30,
+            "title": "Cupid Comes to Stalag 13",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.030 - Cupid Comes to Stalag 13.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/92266e6eef92e5a78a99d27515ddd1b2"
+                }
+            ]
+        },
+        {
+            "file_id": "3bd7654f49429b7b94b2e4aa4c21922e",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 31,
+            "title": "The Flame Grows Higher",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.031 - The Flame Grows Higher.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3bd7654f49429b7b94b2e4aa4c21922e"
+                }
+            ]
+        },
+        {
+            "file_id": "292d7f87f2fc0443a01d4d101ad1ce87",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 1,
+            "episode": 32,
+            "title": "Request Permission to Escape",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.032 - Request Permission to Escape.avi",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/292d7f87f2fc0443a01d4d101ad1ce87"
+                }
+            ]
+        },
+        {
+            "file_id": "7a92c968f01b1af173b3c8f48efbfbbe",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 1,
+            "title": "Hogan Gives a Birthday Party",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.001 - Hogan Gives a Birthday Party.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a92c968f01b1af173b3c8f48efbfbbe"
+                }
+            ]
+        },
+        {
+            "file_id": "19842a1eb6feed02c75899107df102a4",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 2,
+            "title": "The Schultz Brigade",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.002 - The Schultz Brigade.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19842a1eb6feed02c75899107df102a4"
+                }
+            ]
+        },
+        {
+            "file_id": "1d19394a7a167465aff6d16910b8f719",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 3,
+            "title": "Diamonds in the Rough",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.003 - Diamonds in the Rough.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d19394a7a167465aff6d16910b8f719"
+                }
+            ]
+        },
+        {
+            "file_id": "49654f94086bb4a01f4064e7f4fd4659",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 4,
+            "title": "Operation Briefcase",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.004 - Operation Briefcase.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/49654f94086bb4a01f4064e7f4fd4659"
+                }
+            ]
+        },
+        {
+            "file_id": "543f90688cdc5b9885ce30868b7d031a",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 5,
+            "title": "The Battle of Stalag 13",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.005 - The Battle of Stalag 13.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/543f90688cdc5b9885ce30868b7d031a"
+                }
+            ]
+        },
+        {
+            "file_id": "c4b0fa188d41b42629fbc32bf35d03f2",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 6,
+            "title": "The Rise and Fall of Sergeant Schultz",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.006 - The Rise and Fall of Sergeant Schultz.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c4b0fa188d41b42629fbc32bf35d03f2"
+                }
+            ]
+        },
+        {
+            "file_id": "f98dd0a7ca5d64b7728996afa0ea8eb4",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 7,
+            "title": "Hogan Springs",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.007 - Hogan Springs.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f98dd0a7ca5d64b7728996afa0ea8eb4"
+                }
+            ]
+        },
+        {
+            "file_id": "1cce45e761cfaef6c3afeb43b8be809d",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 8,
+            "title": "A Klink, a Bomb and a Short Fuse",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.008 - A Klink, a Bomb and a Short Fuse.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1cce45e761cfaef6c3afeb43b8be809d"
+                }
+            ]
+        },
+        {
+            "file_id": "9ecf1d3e529dbc03cfdc908245a35ba2",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 9,
+            "title": "Tanks for the Memory",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.009 - Tanks for the Memory.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ecf1d3e529dbc03cfdc908245a35ba2"
+                }
+            ]
+        },
+        {
+            "file_id": "f542d2bd388a27e63eb35d9683f97105",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 10,
+            "title": "A Tiger Hunt in Paris",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.010 - A Tiger Hunt in Paris (1).mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f542d2bd388a27e63eb35d9683f97105"
+                }
+            ]
+        },
+        {
+            "file_id": "9a7f6059e1921584f0afd3104b5659dc",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 11,
+            "title": "A Tiger Hunt in Paris",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.011 - A Tiger Hunt in Paris (2).mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a7f6059e1921584f0afd3104b5659dc"
+                }
+            ]
+        },
+        {
+            "file_id": "f72a73edcd2d2df914fcaeee689b7963",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 12,
+            "title": "Will the Real Adolf Please Stand Up",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.012 - Will the Real Adolf Please Stand Up.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f72a73edcd2d2df914fcaeee689b7963"
+                }
+            ]
+        },
+        {
+            "file_id": "f8c210bcd65e1ae965d73c2352e2507f",
+            "tvdb_id": "71635",
+            "tmdb_id": 29621,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "Don`t Forget to Write",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.013 - Don`t Forget to Write.mp4",
+            "year": -1,
+            "actors": [],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f8c210bcd65e1ae965d73c2352e2507f"
+                }
+            ]
+        },
+        {
+            "file_id": "aa20d9747513f8f7f64e5b453a5979ed",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 14,
+            "title": "Klink`s Rocket",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.014 - Klink`s Rocket.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa20d9747513f8f7f64e5b453a5979ed"
+                }
+            ]
+        },
+        {
+            "file_id": "6eb458ac002e849389612ed676130191",
+            "tvdb_id": "71635",
+            "tmdb_id": 32068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 15,
+            "title": "Information Please",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.015 - Information Please.mp4",
+            "year": -1,
+            "actors": [],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6eb458ac002e849389612ed676130191"
+                }
+            ]
+        },
+        {
+            "file_id": "84adb390e5628d7631428044166bc6c5",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 16,
+            "title": "Art for Hogan`s Sake",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.016 - Art for Hogan`s Sake.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/84adb390e5628d7631428044166bc6c5"
+                }
+            ]
+        },
+        {
+            "file_id": "0de0d95a60146debd42b606034dc6965",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 17,
+            "title": "The General Swap",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.017 - The General Swap.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0de0d95a60146debd42b606034dc6965"
+                }
+            ]
+        },
+        {
+            "file_id": "ef29af5a205466b20186ebebe113ac03",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 18,
+            "title": "The Great Brinksmeyer Robbery",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.018 - The Great Brinksmeyer Robbery.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef29af5a205466b20186ebebe113ac03"
+                }
+            ]
+        },
+        {
+            "file_id": "4eb750b7ab1185a9f92ad7101a9cd802",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 19,
+            "title": "Praise the F\u00fchrer and Pass the Ammunition",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.019 - Praise the F\u00fchrer and Pass the Ammunition.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4eb750b7ab1185a9f92ad7101a9cd802"
+                }
+            ]
+        },
+        {
+            "file_id": "4ee56fb3dee815eb8fc54feffcbf23c4",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 20,
+            "title": "Hogan and the Lady Doctor",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.020 - Hogan and the Lady Doctor.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4ee56fb3dee815eb8fc54feffcbf23c4"
+                }
+            ]
+        },
+        {
+            "file_id": "69442103cce75ab6873ed625856aa80a",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 21,
+            "title": "The Swing Shift",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.021 - The Swing Shift.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/69442103cce75ab6873ed625856aa80a"
+                }
+            ]
+        },
+        {
+            "file_id": "e3900219b5ba9e223a9e9bc297379a7b",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 22,
+            "title": "Heil Klink",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.022 - Heil Klink.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e3900219b5ba9e223a9e9bc297379a7b"
+                }
+            ]
+        },
+        {
+            "file_id": "f001e5ea6786defc3cd74ab12d4b63b7",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 23,
+            "title": "Everyone Has a Brother-in-Law",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.023 - Everyone Has a Brother-in-Law.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f001e5ea6786defc3cd74ab12d4b63b7"
+                }
+            ]
+        },
+        {
+            "file_id": "12426473920f2e9074c15d919df04a61",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 24,
+            "title": "Killer Klink",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.024 - Killer Klink.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/12426473920f2e9074c15d919df04a61"
+                }
+            ]
+        },
+        {
+            "file_id": "47760eb5035f4abc9b1271ab4361b301",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 25,
+            "title": "Reverend Kommandant Klink",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.025 - Reverend Kommandant Klink.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/47760eb5035f4abc9b1271ab4361b301"
+                }
+            ]
+        },
+        {
+            "file_id": "f20b97b4c4bf6bd6c4e0b5a1d04a7502",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 26,
+            "title": "The Most Escape-Proof Prison Camp I`ve Ever Escaped From",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.026 - The Most Escape-Proof Prison Camp I`ve Ever Escaped From.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f20b97b4c4bf6bd6c4e0b5a1d04a7502"
+                }
+            ]
+        },
+        {
+            "file_id": "41d7e0e0ca9e5bcd528172bae09e90bd",
+            "tvdb_id": "71635",
+            "tmdb_id": 70721,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 27,
+            "genre": ["Dramma", "War & Politics"],
+            "title": "The Tower",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.027 - The Tower.mp4",
+            "year": "2018",
+            "director": ["Ali Selim", "John Dahl", "Craig Zisk", "Michael Slovis", "Alex Gibney"],
+            "actors": ["Jeff Daniels", "Tahar Rahim", "Peter Sarsgaard", "Wrenn Schmidt", "Bill Camp", "Louis Cancelmi", "Jamie Neumann", "Sullivan Jones", "Ella Rae Peck", "Annie Parisse", "Virginia Kull", "Michael Stuhlbarg", "Alec Baldwin", "Yul Vazquez", "Dhaffer L'Abidine"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/41d7e0e0ca9e5bcd528172bae09e90bd"
+                }
+            ]
+        },
+        {
+            "file_id": "9469e9a22b2cf19971d839522d45fd96",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 28,
+            "title": "Colonel Klink`s Secret Weapon",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.028 - Colonel Klink`s Secret Weapon.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9469e9a22b2cf19971d839522d45fd96"
+                }
+            ]
+        },
+        {
+            "file_id": "0150a690e3be63960456ca121b68471c",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 29,
+            "title": "The Top Secret Top Coat",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.029 - The Top Secret Top Coat.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0150a690e3be63960456ca121b68471c"
+                }
+            ]
+        },
+        {
+            "file_id": "72ec09230c20df4fbe3eb3ba9388fab9",
+            "tvdb_id": "71635",
+            "tmdb_id": 4068,
+            "saga": "Gli Eroi di Hogan",
+            "season": 2,
+            "episode": 30,
+            "title": "The Reluctant Target",
+            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.030 - The Reluctant Target.mp4",
+            "year": "1965",
+            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/72ec09230c20df4fbe3eb3ba9388fab9"
+                }
+            ]
+        }
     ]
 }

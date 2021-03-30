@@ -1,554 +1,854 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 60059,
-			"number": "1x1",
-			"saga": "Better Call Saul",
-			"title": "Uno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0314b329663e4afc89e5c03359c2fbec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x2",
-			"saga": "Better Call Saul",
-			"title": "Mijo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53803f4bbb8a62f2a95c57c1bfd9d65e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x3",
-			"saga": "Better Call Saul",
-			"title": "Nacho",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f692fcbf695a156b8ba6b983f08f392e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x4",
-			"saga": "Better Call Saul",
-			"title": "Eroe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53a6fab0858b82b2d0c06c79e977bf43"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x5",
-			"saga": "Better Call Saul",
-			"title": "Il pastorello delle Alpi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a396778a8be9145576d4d6478a76714a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x6",
-			"saga": "Better Call Saul",
-			"title": "Poliziotti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74c2a8c3caeaf855e9e84294b13fa4fc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x7",
-			"saga": "Better Call Saul",
-			"title": "Bingo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/48b1ab8bfc624f08d45414ef1674c078"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x8",
-			"saga": "Better Call Saul",
-			"title": "RICO",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c3dce5102ab6eefa7a0bca3a3166117a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x9",
-			"saga": "Better Call Saul",
-			"title": "Pimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6420a8a11aacddca0ba3a8e44e623d94"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "1x10",
-			"saga": "Better Call Saul",
-			"title": "Marco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fb341b7c5e424f250279479f7810de9b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x1",
-			"saga": "Better Call Saul",
-			"title": "Cambiamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1dfff96b869424eabd22eb71342fdd25"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x2",
-			"saga": "Better Call Saul",
-			"title": "La torta della luna piena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0f4e7118375fff541a82bfdb1a84ec0e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x3",
-			"saga": "Better Call Saul",
-			"title": "Amarillo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52822fecdaa8f5bd1caecd1f2afadbfe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x4",
-			"saga": "Better Call Saul",
-			"title": "Senza guanti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c9004c419873f2a7e0dd585da7226cac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x5",
-			"saga": "Better Call Saul",
-			"title": "Rebecca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/007137bf3d482b90d45c19c2b2c144bb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x6",
-			"saga": "Better Call Saul",
-			"title": "Bali Ha`i",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7221124a8cfb8f4ea5a35cb00b76ad97"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x7",
-			"saga": "Better Call Saul",
-			"title": "Gonfiabile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a3d74130b1e8ec30a91c47f6a5cb2f47"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x8",
-			"saga": "Better Call Saul",
-			"title": "Fifi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/56760234ee52ae2a80a0a0e8bf5147d3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x9",
-			"saga": "Better Call Saul",
-			"title": "Inchiodato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ea7379b4c7fe1ffb67d9f83e7648830e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "2x10",
-			"saga": "Better Call Saul",
-			"title": "Klick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/00a20e521a61dc1cc1294bb95a13a278"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x1",
-			"saga": "Better Call Saul",
-			"title": "Mabel",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7db88cebcca173e4a2a1dd61596c1f77"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x2",
-			"saga": "Better Call Saul",
-			"title": "Testimone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bbb79ecb9b2ffb4cfaa7096d7e8bd952"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x3",
-			"saga": "Better Call Saul",
-			"title": "Costi irrecuperabili",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5bde8dff2f75486e72eb7475a3be0392"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x4",
-			"saga": "Better Call Saul",
-			"title": "Sabrosito",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f76c38bcf0cf13490382801ea602419"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x5",
-			"saga": "Better Call Saul",
-			"title": "Imbroglio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79dd33e29d85a529b8c0ec4d33d76a62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x6",
-			"saga": "Better Call Saul",
-			"title": "Diverso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/70d37501d25d75b5b10792de742a4266"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x7",
-			"saga": "Better Call Saul",
-			"title": "Spese",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dc58e58a77fbd5a9121ce844869c857a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x8",
-			"saga": "Better Call Saul",
-			"title": "Passo falso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c3312862deeb38fe143af5b6a75c9d22"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x9",
-			"saga": "Better Call Saul",
-			"title": "Caduta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/989c7a2cc3d40a18d5f701bb3f3f080f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "3x10",
-			"saga": "Better Call Saul",
-			"title": "Lanterna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1c1b52c69fb6e782f663e6f507d0bbf7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x1",
-			"saga": "Better Call Saul",
-			"title": "Fumo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bdaa74fef882235efe0b0ad52c386e2e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x2",
-			"saga": "Better Call Saul",
-			"title": "Respira",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1886bbc8a719fcb42f7fba26833d9253"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x3",
-			"saga": "Better Call Saul",
-			"title": "Qualcosa di straordinario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5548b5be05b5b37dc6ee33123c8b800d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x4",
-			"saga": "Better Call Saul",
-			"title": "La chiacchierata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/174f741f266e9286f7dc7c8ce0117174"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x5",
-			"saga": "Better Call Saul",
-			"title": "Guadagno facile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c01e153971745e9afefce67bf7e2bcaa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x6",
-			"saga": "Better Call Saul",
-			"title": "Pignatta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5ef90914e6793b88278493a60e2af716"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x7",
-			"saga": "Better Call Saul",
-			"title": "Qualcosa di stupido",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c2aee421c2b814cc26bc7669ebb65a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x8",
-			"saga": "Better Call Saul",
-			"title": "Coushatta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d415a97fb5aa1d08bf3cab1a474451e4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x9",
-			"saga": "Better Call Saul",
-			"title": "Auf wiedersehen",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2bb10cb8784133a0a242d813ebd3c840"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "4x10",
-			"saga": "Better Call Saul",
-			"title": "Vincitore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/02c20f0ff0cb0755c1578f197fd931a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x1",
-			"saga": "Better Call Saul",
-			"title": "Uomo magico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5f3dfdbcb464231b09a60d272742304"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x2",
-			"saga": "Better Call Saul",
-			"title": "50% di sconto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71729f6bb47a247ce03d455afe02b6c8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x3",
-			"saga": "Better Call Saul",
-			"title": "L`uomo che fa al caso nostro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a1f1026e9b567f02cc42e8181afbba3c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x4",
-			"saga": "Better Call Saul",
-			"title": "Namasté",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/265e858f278d1e07e2d30565181bb9de"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x5",
-			"saga": "Better Call Saul",
-			"title": "Dedicato a Max",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5c2208ad4099f392368a75aef266b21"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x6",
-			"saga": "Better Call Saul",
-			"title": "Wexler contro Goodman",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dbb4a57782a98e055a27c2dd22118267"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x7",
-			"saga": "Better Call Saul",
-			"title": "JMM",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/af97949892d94acc86606e186fa1c122"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x8",
-			"saga": "Better Call Saul",
-			"title": "Portantino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/84e0c429fc9f2db049753fec20e6ecea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x9",
-			"saga": "Better Call Saul",
-			"title": "Strade cattive",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a92bfcdc32471c84fc5481c32862bf8a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60059,
-			"number": "5x10",
-			"saga": "Better Call Saul",
-			"title": "Qualcosa di imperdonabile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a1da93f258fb7df7a833319a29caf89"
-				}
-			]
-		}
+            "file_id": "a51460d68ea69aca5a9932eb3905bf19",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Uno",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.001 - Uno.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a51460d68ea69aca5a9932eb3905bf19"
+                }
+            ]
+        },
+        {
+            "file_id": "0088e8699a2ae630b4e4eb5a950737c1",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Mijo",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.002 - Mijo.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0088e8699a2ae630b4e4eb5a950737c1"
+                }
+            ]
+        },
+        {
+            "file_id": "2afddb1575c53c9607ca03518b393497",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Nacho",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.003 - Nacho.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2afddb1575c53c9607ca03518b393497"
+                }
+            ]
+        },
+        {
+            "file_id": "e04b0530a16b0a90c4e7104b117c4ace",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Eroe",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.004 - Eroe.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e04b0530a16b0a90c4e7104b117c4ace"
+                }
+            ]
+        },
+        {
+            "file_id": "512070214235c2b89cedaeea7d19e0c7",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Il pastorello delle Alpi",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.005 - Il pastorello delle Alpi.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/512070214235c2b89cedaeea7d19e0c7"
+                }
+            ]
+        },
+        {
+            "file_id": "ef30e6ad8808665add64e709ee6db3ff",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Poliziotti",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.006 - Poliziotti.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef30e6ad8808665add64e709ee6db3ff"
+                }
+            ]
+        },
+        {
+            "file_id": "4092ef742bf2d169be7d111884fd73d3",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Bingo",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.007 - Bingo.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4092ef742bf2d169be7d111884fd73d3"
+                }
+            ]
+        },
+        {
+            "file_id": "e1f2bebb073d823b56474511edd3d8e6",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "RICO",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.008 - RICO.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e1f2bebb073d823b56474511edd3d8e6"
+                }
+            ]
+        },
+        {
+            "file_id": "e238cc6b3a4eafd9f60b81b2abaab8d2",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Pimento",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.009 - Pimento.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e238cc6b3a4eafd9f60b81b2abaab8d2"
+                }
+            ]
+        },
+        {
+            "file_id": "61137b397da20438e9f74f69958c1b23",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Marco",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/1.010 - Marco.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/61137b397da20438e9f74f69958c1b23"
+                }
+            ]
+        },
+        {
+            "file_id": "ffa341e9403afd402dd2553226b7173f",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Cambiamento",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.001 - Cambiamento.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ffa341e9403afd402dd2553226b7173f"
+                }
+            ]
+        },
+        {
+            "file_id": "8dd84ba87bc36f6a2204206b382c69a9",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "La torta della luna piena",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.002 - La torta della luna piena.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8dd84ba87bc36f6a2204206b382c69a9"
+                }
+            ]
+        },
+        {
+            "file_id": "a014d9c4228ba253b6bf4d8002ebfec7",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Amarillo",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.003 - Amarillo.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a014d9c4228ba253b6bf4d8002ebfec7"
+                }
+            ]
+        },
+        {
+            "file_id": "3aa6587213bb4535231ba63fef6d4434",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Senza guanti",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.004 - Senza guanti.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3aa6587213bb4535231ba63fef6d4434"
+                }
+            ]
+        },
+        {
+            "file_id": "ad2c577b38a87a0ea5a9c18224511f3f",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Rebecca",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.005 - Rebecca.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad2c577b38a87a0ea5a9c18224511f3f"
+                }
+            ]
+        },
+        {
+            "file_id": "25d57fc856820cc6843b5358ed3af70b",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Bali Ha`i",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.006 - Bali Ha`i.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/25d57fc856820cc6843b5358ed3af70b"
+                }
+            ]
+        },
+        {
+            "file_id": "64ad839f7c866012dc61e22dd369e0d2",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Gonfiabile",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.007 - Gonfiabile.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/64ad839f7c866012dc61e22dd369e0d2"
+                }
+            ]
+        },
+        {
+            "file_id": "00e9f0004ce0af3307591b71b1d35d13",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Fifi",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.008 - Fifi.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/00e9f0004ce0af3307591b71b1d35d13"
+                }
+            ]
+        },
+        {
+            "file_id": "f737a759f36957928d5919854e096e1e",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Inchiodato",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.009 - Inchiodato.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f737a759f36957928d5919854e096e1e"
+                }
+            ]
+        },
+        {
+            "file_id": "7055c7625e192dd83d30c4de9d6a66ef",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Klick",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/2.010 - Klick.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7055c7625e192dd83d30c4de9d6a66ef"
+                }
+            ]
+        },
+        {
+            "file_id": "15f7427d5061813e56e2913bb4890df1",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Mabel",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.001 - Mabel.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/15f7427d5061813e56e2913bb4890df1"
+                }
+            ]
+        },
+        {
+            "file_id": "ec542c9b169a53773d1b7f997c237536",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Testimone",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.002 - Testimone.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec542c9b169a53773d1b7f997c237536"
+                }
+            ]
+        },
+        {
+            "file_id": "3823a0bc0ffc8e30b525f4e6d90fc379",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Costi irrecuperabili",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.003 - Costi irrecuperabili.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3823a0bc0ffc8e30b525f4e6d90fc379"
+                }
+            ]
+        },
+        {
+            "file_id": "f32c21b75d73a960c2d7aeb30113349f",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Sabrosito",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.004 - Sabrosito.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f32c21b75d73a960c2d7aeb30113349f"
+                }
+            ]
+        },
+        {
+            "file_id": "d448709e05f98f465aed18e3314c489b",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Imbroglio",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.005 - Imbroglio.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d448709e05f98f465aed18e3314c489b"
+                }
+            ]
+        },
+        {
+            "file_id": "ec3b2ffc1441590f9da4d09b166b6378",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Diverso",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.006 - Diverso.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec3b2ffc1441590f9da4d09b166b6378"
+                }
+            ]
+        },
+        {
+            "file_id": "9dd8b46cf63c3a5d7a847b218f88bd4b",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Spese",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.007 - Spese.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9dd8b46cf63c3a5d7a847b218f88bd4b"
+                }
+            ]
+        },
+        {
+            "file_id": "eda26bbddcc6c463acd9d3822851e404",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Passo falso",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.008 - Passo falso.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eda26bbddcc6c463acd9d3822851e404"
+                }
+            ]
+        },
+        {
+            "file_id": "b9ff3403343e63860fd1693f972e7f1b",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Caduta",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.009 - Caduta.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9ff3403343e63860fd1693f972e7f1b"
+                }
+            ]
+        },
+        {
+            "file_id": "c3e598de8c59eb18e573c5862594d4a0",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Lanterna",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/3.010 - Lanterna.mp4",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c3e598de8c59eb18e573c5862594d4a0"
+                }
+            ]
+        },
+        {
+            "file_id": "7609073cd6e3273d8610e1114aa91b19",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Fumo",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.001 - Fumo.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7609073cd6e3273d8610e1114aa91b19"
+                }
+            ]
+        },
+        {
+            "file_id": "94caca8248c0a645e2bfe49229a4ea12",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Respira",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.002 - Respira.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94caca8248c0a645e2bfe49229a4ea12"
+                }
+            ]
+        },
+        {
+            "file_id": "a6c64b3ecf6b0230801eb7af312dff93",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Qualcosa di straordinario",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.003 - Qualcosa di straordinario.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6c64b3ecf6b0230801eb7af312dff93"
+                }
+            ]
+        },
+        {
+            "file_id": "91850170fe006ddbc35dd3072b45a6ba",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "La chiacchierata",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.004 - La chiacchierata.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/91850170fe006ddbc35dd3072b45a6ba"
+                }
+            ]
+        },
+        {
+            "file_id": "58591edc4b11ca9b4ca190ae98d1a38d",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Guadagno facile",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.005 - Guadagno facile.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/58591edc4b11ca9b4ca190ae98d1a38d"
+                }
+            ]
+        },
+        {
+            "file_id": "34a82f616a996b515e062da7e5e507f5",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Pignatta",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.006 - Pignatta.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34a82f616a996b515e062da7e5e507f5"
+                }
+            ]
+        },
+        {
+            "file_id": "59dbb422c9f4031578c25ec814e89b21",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Qualcosa di stupido",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.007 - Qualcosa di stupido.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/59dbb422c9f4031578c25ec814e89b21"
+                }
+            ]
+        },
+        {
+            "file_id": "5ad7770c069d41146f3412bffefacf78",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Coushatta",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.008 - Coushatta.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5ad7770c069d41146f3412bffefacf78"
+                }
+            ]
+        },
+        {
+            "file_id": "ef1510625ba33d7e17e8335f6f172493",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Auf wiedersehen",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.009 - Auf wiedersehen.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef1510625ba33d7e17e8335f6f172493"
+                }
+            ]
+        },
+        {
+            "file_id": "663193a31e55dc6d7462ef2f88829a9d",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Vincitore",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/4.010 - Vincitore.avi",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/663193a31e55dc6d7462ef2f88829a9d"
+                }
+            ]
+        },
+        {
+            "file_id": "79d9ce87cf61305c24cd993662552b39",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Uomo magico",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.001 - Uomo magico.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/79d9ce87cf61305c24cd993662552b39"
+                }
+            ]
+        },
+        {
+            "file_id": "7d96eabd428c8b8590208c68a965e5bb",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "50% di sconto",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.002 - 50% di sconto.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d96eabd428c8b8590208c68a965e5bb"
+                }
+            ]
+        },
+        {
+            "file_id": "c762b6ec293474e4e265a8581e4322bc",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "L`uomo che fa al caso nostro",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.003 - L`uomo che fa al caso nostro.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c762b6ec293474e4e265a8581e4322bc"
+                }
+            ]
+        },
+        {
+            "file_id": "93f07bee7ac2983f9913c8c621ef0923",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Namast\u00e9",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.004 - Namast\u00e9.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93f07bee7ac2983f9913c8c621ef0923"
+                }
+            ]
+        },
+        {
+            "file_id": "ed0cb28382fbd282b13217c9b6773283",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Dedicato a Max",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.005 - Dedicato a Max.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed0cb28382fbd282b13217c9b6773283"
+                }
+            ]
+        },
+        {
+            "file_id": "479109617bf8877204dd6796072ab814",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Wexler contro Goodman",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.006 - Wexler contro Goodman.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/479109617bf8877204dd6796072ab814"
+                }
+            ]
+        },
+        {
+            "file_id": "2a69c04f90fbfe7812707ebaa9af81e2",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "JMM",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.007 - JMM.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a69c04f90fbfe7812707ebaa9af81e2"
+                }
+            ]
+        },
+        {
+            "file_id": "f224f1e0e18c42b0b83690b61e411226",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Portantino",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.008 - Portantino.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f224f1e0e18c42b0b83690b61e411226"
+                }
+            ]
+        },
+        {
+            "file_id": "3d0fd1e5e795d1df7c7bbd2a3c35c3ef",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Strade cattive",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.009 - Strade cattive.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3d0fd1e5e795d1df7c7bbd2a3c35c3ef"
+                }
+            ]
+        },
+        {
+            "file_id": "abea5ae4d932248b45258b3980e04b25",
+            "tmdb_id": 60059,
+            "saga": "Better Call Saul",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Commedia","Crime","Dramma"],
+            "title": "Qualcosa di imperdonabile",
+            "fname": "/SerieTV/Better Call Saul (2015) [a60059]/5.010 - Qualcosa di imperdonabile.mkv",
+            "year": "2015",
+            "actors": ["Bob Odenkirk","Jonathan Banks","Rhea Seehorn","Patrick Fabian","Michael Mando","Tony Dalton","Giancarlo Esposito"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/abea5ae4d932248b45258b3980e04b25"
+                }
+            ]
+        }
     ]
 }

@@ -1,112 +1,152 @@
 {
     "episodes_list": [
         {
+            "file_id": "23dcf822e5ceaced92b68149c669a674",
             "tmdb_id": 4882,
-            "number": "1x1",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 01",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.01 - Webisode 01.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/0f1d30a3028b98f58b804ee4c13c1a6c"
+                    "url": "http://51.77.159.233:30299/23dcf822e5ceaced92b68149c669a674"
                 }
             ]
         },
         {
+            "file_id": "4daf006becdf47241f0a7c46619cfb35",
             "tmdb_id": 4882,
-            "number": "1x2",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 02",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.02 - Webisode 02.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/682c7603e748accbdc4f7aab8d1f055a"
+                    "url": "http://51.77.159.233:30299/4daf006becdf47241f0a7c46619cfb35"
                 }
             ]
         },
         {
+            "file_id": "92f94371dc2ee2e76d27fa7b60300b0a",
             "tmdb_id": 4882,
-            "number": "1x3",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 03",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.03 - Webisode 03.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/da9884ee8592b5b7f6ae9ab994350202"
+                    "url": "http://51.77.159.233:30299/92f94371dc2ee2e76d27fa7b60300b0a"
                 }
             ]
         },
         {
+            "file_id": "150d71b894413d434866fc959bc73bfc",
             "tmdb_id": 4882,
-            "number": "1x4",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 04",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.04 - Webisode 04.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/5ea1f9acc4161e76b8d04590a3e52397"
+                    "url": "http://51.77.159.233:30299/150d71b894413d434866fc959bc73bfc"
                 }
             ]
         },
         {
+            "file_id": "671e3bb3c069ddbb93e0d377cc8fdc62",
             "tmdb_id": 4882,
-            "number": "1x5",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 05",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.05 - Webisode 05.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/9f0f3cdeb08761d988069e62c6ad2628"
+                    "url": "http://51.77.159.233:30299/671e3bb3c069ddbb93e0d377cc8fdc62"
                 }
             ]
         },
         {
+            "file_id": "b66c0ae9b046da4d5c2768c791e0cb6b",
             "tmdb_id": 4882,
-            "number": "1x6",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 06",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.06 - Webisode 06.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/9cc4d5d6e87aa8dc1891c54290d743b9"
+                    "url": "http://51.77.159.233:30299/b66c0ae9b046da4d5c2768c791e0cb6b"
                 }
             ]
         },
         {
+            "file_id": "989055626a89fe1671331f4903954008",
             "tmdb_id": 4882,
-            "number": "1x7",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 07",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.07 - Webisode 07.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/d9eca40e57c67d63934e3f17c7597242"
+                    "url": "http://51.77.159.233:30299/989055626a89fe1671331f4903954008"
                 }
             ]
         },
         {
+            "file_id": "f6de1d9143e690b94eda00aac2fc99b2",
             "tmdb_id": 4882,
-            "number": "1x8",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 08",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.08 - Webisode 08.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/7b72b9d8d94793c11b364fcd98a4f3b7"
+                    "url": "http://51.77.159.233:30299/f6de1d9143e690b94eda00aac2fc99b2"
                 }
             ]
         },
         {
+            "file_id": "b9a070c4a422ac4c68d3baad963d15d8",
             "tmdb_id": 4882,
-            "number": "1x9",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 09",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.09 - Webisode 09.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/a878d4c0669303f30f0978c4f3faf0ea"
+                    "url": "http://51.77.159.233:30299/b9a070c4a422ac4c68d3baad963d15d8"
                 }
             ]
         },
         {
+            "file_id": "f00bb2d9ba84f21971e118280d985729",
             "tmdb_id": 4882,
-            "number": "1x10",
             "saga": "Battlestar Galactica - The Resistance",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Fantascienza", "Dramma", "Sci-Fi & Fantasy"],
             "title": "Webisode 10",
-            "links": [
+            "fname": "/SerieTV/Battlestar Galactica - The Resistance/1.10 - Webisode 10.mp4",
+            "year": "2006","links": [
                 {
-                    "url": "http://51.77.159.233:30299/13d38cf601be0e2a7cbcbc76cfea2b4a"
+                    "url": "http://51.77.159.233:30299/f00bb2d9ba84f21971e118280d985729"
                 }
             ]
         }

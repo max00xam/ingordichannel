@@ -1,554 +1,852 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 47319,
-			"number": "1x1",
-			"saga": "Mario",
-			"title": "Cavoli amario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c36e5cba8457706bf1030e84e9b11162"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x2",
-			"saga": "Mario",
-			"title": "Ginetto senza G",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f7ecefc0a077a5f2f2e8785211358a80"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x3",
-			"saga": "Mario",
-			"title": "La sciabolata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ebdd1e902bf4a9acc5686e30f5218038"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x4",
-			"saga": "Mario",
-			"title": "Lo sciopero della faccia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/34146b75c1969ec77e02895f5db3c9c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x5",
-			"saga": "Mario",
-			"title": "A di ahia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8fd42e4c21afc7a289221402c03a6b57"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x6",
-			"saga": "Mario",
-			"title": "Puntata bella",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1557282dfcc2135fb77a4bf4c270f5d1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x7",
-			"saga": "Mario",
-			"title": "Cappelli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/98d9c6eb156492d33a7f20b427f3081d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x8",
-			"saga": "Mario",
-			"title": "Amore amario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0cc66127f547fc94a0c2190e2f752f8f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x9",
-			"saga": "Mario",
-			"title": "Plop",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6f639239c4d7bfc557a58d5e3b32127e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x10",
-			"saga": "Mario",
-			"title": "Ceffone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/49d38a4b33c68a6ceb9794e28bdeb224"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x11",
-			"saga": "Mario",
-			"title": "252385736 secondi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fac0fc0607a1c18949c82bcbba12acd9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x12",
-			"saga": "Mario",
-			"title": "Donatello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8926c3a425aa93262a6e73888b77544c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x13",
-			"saga": "Mario",
-			"title": "Pompiere che indaga su Buonanima",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6cf63a0dc2a383b3ace3ee15dae83c97"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x14",
-			"saga": "Mario",
-			"title": "Pompiere che indaga su Buonanima 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71ea5d0b77915f4e574891c35670110a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x15",
-			"saga": "Mario",
-			"title": "Sei pallini",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f9ee8da10583bdb5bbd280fe822a3920"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x16",
-			"saga": "Mario",
-			"title": "Giobbe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b54fec26b129e988d3231e0292dc212d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x17",
-			"saga": "Mario",
-			"title": "Ho visto tutto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/129df368e57a682925b6e5b7ae6b6b16"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "1x18",
-			"saga": "Mario",
-			"title": "Il vecchio e il Mario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b5e12f71cf6710324bace19ec899e9f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x1",
-			"saga": "Mario",
-			"title": "Mario Mario Mario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4afc0cec5d03d02ef30c47dd79b8114d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x2",
-			"saga": "Mario",
-			"title": "Un TG andato a Mario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/18c27b6c27938b63334fedd38c89ea12"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x3",
-			"saga": "Mario",
-			"title": "Un uomo spregevole invidioso del tuo successo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/55d1c703b7155f72e0bbd42789df1171"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x4",
-			"saga": "Mario",
-			"title": "Per un pugno di pollice",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d8cce861f5e1860afeb6ec8fa996c684"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x5",
-			"saga": "Mario",
-			"title": "Micidial Horror Story",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/59d13a30c6c68c548ee533377a96071c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x6",
-			"saga": "Mario",
-			"title": "Il pirulicchio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/014065a177704bd457d4d2421b0a8940"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x7",
-			"saga": "Mario",
-			"title": "Liberaci dal Mario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/952947a7b3b43e9def9fb5d7c23a983c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x8",
-			"saga": "Mario",
-			"title": "Sano e calvo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e663fbc27140668d2430454968beba53"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x9",
-			"saga": "Mario",
-			"title": "De Dac Said Ov Genni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1ee2e41abca24257a080b1c955bd4526"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x10",
-			"saga": "Mario",
-			"title": "Il magnate degli spaghetti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f8d73b892ab39c04ca9bd83c3c5a8630"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x11",
-			"saga": "Mario",
-			"title": "Occhio Pin",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/742db58ad0c1b39787d8ca5316907e44"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x12",
-			"saga": "Mario",
-			"title": "Patto micidiale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d78acc1fb4dcc95d944797177383920"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x13",
-			"saga": "Mario",
-			"title": "Veterimario",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/63b222fb98f9e818ccf1a277dda075a3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x14",
-			"saga": "Mario",
-			"title": "Mamma Mia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6febaf3ac3c8f1ed6cc90608d299e655"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x15",
-			"saga": "Mario",
-			"title": "Penultima puntata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79e4b181ee48389d341def8dd4ec8b4a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "2x16",
-			"saga": "Mario",
-			"title": "I truppi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4df82a5d42ca8ee24c7269ad26364448"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x1",
-			"saga": "Mario",
-			"title": "Puntata speciale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/acf0449ede93c14a506fab306f187255"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x2",
-			"saga": "Mario",
-			"title": "Drappi dorati - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d61abcb4307d21acf8f1b77ae7cdb082"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x3",
-			"saga": "Mario",
-			"title": "Imposizioni - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bda76f1a7e20f9efbb0a1bd1a70fc9f5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x4",
-			"saga": "Mario",
-			"title": ".",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6ff773f0e2d75696910810f8fd6cb523"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x5",
-			"saga": "Mario",
-			"title": "50 kg di salamone - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4dafe613cd5c0032886d87a0418778d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x6",
-			"saga": "Mario",
-			"title": "Potassio e Big Willy - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/001a24b3069b0619c672713e59fb79e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x7",
-			"saga": "Mario",
-			"title": "A Scanzi di equivoci - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7a4794d42e614aca9afc267d75feca4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x8",
-			"saga": "Mario",
-			"title": "Sponde su sponde - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/89d3a947b90eb1f462817b1c15d725be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x9",
-			"saga": "Mario",
-			"title": "La colazione del campione - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8c22884dc3d5329d1c835c747aa0efa5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x10",
-			"saga": "Mario",
-			"title": "Revival - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/443990d3800c2c65041bf4b200bf240c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x11",
-			"saga": "Mario",
-			"title": "Questioni di diete - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3b835f788c16690bf5154fee1a727fd5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x12",
-			"saga": "Mario",
-			"title": "Fascio di nervi - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c68dbea28e893e1549b2c3c2e9d0d56"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x13",
-			"saga": "Mario",
-			"title": "Erre nobile - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c8188d7f7c7c691674d7e2298b5c569"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x14",
-			"saga": "Mario",
-			"title": "Teatro delle orecchie - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d2537783eeaf076c18e29a29b1ecd59"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x15",
-			"saga": "Mario",
-			"title": "Avverbi, pronomi - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/65f75969f1505215df3e339ec31a2171"
-				}
-			]
-		},
-		{
-			"tmdb_id": 47319,
-			"number": "3x16",
-			"saga": "Mario",
-			"title": "Il brodo bolliva - Backstage",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5bbd61d2af89b1650c9a5633679ad69b"
-				}
-			]
-		}
-    ]
-}
+            "file_id": "99f8d897e4a9810a32371eef9074db6e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Cavoli amario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.001 - Cavoli amario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/99f8d897e4a9810a32371eef9074db6e"
+                }
+            ]
+        },
+        {
+            "file_id": "ccff9fb536b3ab34b8b955e89e345f5b",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Ginetto senza G",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.002 - Ginetto senza G.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ccff9fb536b3ab34b8b955e89e345f5b"
+                }
+            ]
+        },
+        {
+            "file_id": "33e2e852e422d6e6839544a403afc035",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "La sciabolata",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.003 - La sciabolata.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/33e2e852e422d6e6839544a403afc035"
+                }
+            ]
+        },
+        {
+            "file_id": "647b3a99e6fc1ffa9d33f6079063cef6",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Lo sciopero della faccia",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.004 - Lo sciopero della faccia.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/647b3a99e6fc1ffa9d33f6079063cef6"
+                }
+            ]
+        },
+        {
+            "file_id": "5741de2418f1039d5f30a374a1396582",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "A di ahia",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.005 - A di ahia.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5741de2418f1039d5f30a374a1396582"
+                }
+            ]
+        },
+        {
+            "file_id": "93c066c5db140bb018dee34fd8d9a9a3",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Puntata bella",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.006 - Puntata bella.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93c066c5db140bb018dee34fd8d9a9a3"
+                }
+            ]
+        },
+        {
+            "file_id": "fe121dac9472b360ac740b4a2ee7eda0",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Cappelli",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.007 - Cappelli.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fe121dac9472b360ac740b4a2ee7eda0"
+                }
+            ]
+        },
+        {
+            "file_id": "f4cdf7c688ca5452928f8c0ea338b353",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Amore amario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.008 - Amore amario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4cdf7c688ca5452928f8c0ea338b353"
+                }
+            ]
+        },
+        {
+            "file_id": "42432e93479b9f8efccabcc65f6be698",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Plop",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.009 - Plop.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/42432e93479b9f8efccabcc65f6be698"
+                }
+            ]
+        },
+        {
+            "file_id": "6c4afd0aa15e7376b3ebe5f94f3f74cd",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Ceffone",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.010 - Ceffone.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c4afd0aa15e7376b3ebe5f94f3f74cd"
+                }
+            ]
+        },
+        {
+            "file_id": "7ff7f9084fdea31e5c37e3ff06b7b649",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "252385736 secondi",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.011 - 252385736 secondi.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7ff7f9084fdea31e5c37e3ff06b7b649"
+                }
+            ]
+        },
+        {
+            "file_id": "dc4920bfbb77fd373c59f2a4f892ac8e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "Donatello",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.012 - Donatello.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dc4920bfbb77fd373c59f2a4f892ac8e"
+                }
+            ]
+        },
+        {
+            "file_id": "aa5c3c71e525daeb4c340915c3a4f2e3",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "Pompiere che indaga su Buonanima",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.013 - Pompiere che indaga su Buonanima.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa5c3c71e525daeb4c340915c3a4f2e3"
+                }
+            ]
+        },
+        {
+            "file_id": "7365fef559d1145adcfd5009174b4132",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "Pompiere che indaga su Buonanima 2",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.014 - Pompiere che indaga su Buonanima 2.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7365fef559d1145adcfd5009174b4132"
+                }
+            ]
+        },
+        {
+            "file_id": "db93b7a5c3bf76f1cfa63e698237f4de",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Sei pallini",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.015 - Sei pallini.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/db93b7a5c3bf76f1cfa63e698237f4de"
+                }
+            ]
+        },
+        {
+            "file_id": "d030024a8c665387f80c83ad1b98035e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "Giobbe",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.016 - Giobbe.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d030024a8c665387f80c83ad1b98035e"
+                }
+            ]
+        },
+        {
+            "file_id": "e6dc5c9361bb01014daecb0792fc321f",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Commedia"],
+            "title": "Ho visto tutto",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.017 - Ho visto tutto.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e6dc5c9361bb01014daecb0792fc321f"
+                }
+            ]
+        },
+        {
+            "file_id": "53a1f9752647f20fdb4d53758bd117df",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Commedia"],
+            "title": "Il vecchio e il Mario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/1.018 - Il vecchio e il Mario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53a1f9752647f20fdb4d53758bd117df"
+                }
+            ]
+        },
+        {
+            "file_id": "417264cc5af7838f53e82e4aeff7faed",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Mario Mario Mario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.001 - Mario Mario Mario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/417264cc5af7838f53e82e4aeff7faed"
+                }
+            ]
+        },
+        {
+            "file_id": "2e4dbfa4f5fe2959497151fcc6fccf1c",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Un TG andato a Mario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.002 - Un TG andato a Mario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2e4dbfa4f5fe2959497151fcc6fccf1c"
+                }
+            ]
+        },
+        {
+            "file_id": "22e1d93a3db99c75e608084297680e8d",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Un uomo spregevole invidioso del tuo successo",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.003 - Un uomo spregevole invidioso del tuo successo. Aveva paura che prendessi il suo posto e quindi ha tentato di metterti fuori gioco.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/22e1d93a3db99c75e608084297680e8d"
+                }
+            ]
+        },
+        {
+            "file_id": "4ca919e50e1c17789a5162f66c546894",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Per un pugno di pollice",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.004 - Per un pugno di pollice.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4ca919e50e1c17789a5162f66c546894"
+                }
+            ]
+        },
+        {
+            "file_id": "5f415190355e04d011daeef2a1416820",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "Micidial Horror Story",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.005 - Micidial Horror Story.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5f415190355e04d011daeef2a1416820"
+                }
+            ]
+        },
+        {
+            "file_id": "922709d852a21e1c90283ae46e03cd60",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Il pirulicchio",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.006 - Il pirulicchio.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/922709d852a21e1c90283ae46e03cd60"
+                }
+            ]
+        },
+        {
+            "file_id": "cedbd9bf381765f6c3531fe01d59e5a6",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Liberaci dal Mario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.007 - Liberaci dal Mario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cedbd9bf381765f6c3531fe01d59e5a6"
+                }
+            ]
+        },
+        {
+            "file_id": "6f7d55dc66cc145b541e78ffd156de02",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Sano e calvo",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.008 - Sano e calvo.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6f7d55dc66cc145b541e78ffd156de02"
+                }
+            ]
+        },
+        {
+            "file_id": "80525b2d0aee153462aeee3f8e4caecd",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "De Dac Said Ov Genni",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.009 - De Dac Said Ov Genni.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/80525b2d0aee153462aeee3f8e4caecd"
+                }
+            ]
+        },
+        {
+            "file_id": "8410b8efa6f22f339b5b3a9cecc6235e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Il magnate degli spaghetti",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.010 - Il magnate degli spaghetti.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8410b8efa6f22f339b5b3a9cecc6235e"
+                }
+            ]
+        },
+        {
+            "file_id": "5884ee06a3d5035a3c5730c44e6b8d84",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Occhio Pin",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.011 - Occhio Pin.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5884ee06a3d5035a3c5730c44e6b8d84"
+                }
+            ]
+        },
+        {
+            "file_id": "9899b8a58dd867229530be380bfbd54c",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "Patto micidiale",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.012 - Patto micidiale.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9899b8a58dd867229530be380bfbd54c"
+                }
+            ]
+        },
+        {
+            "file_id": "076be07439e02ac6c4f428e0eec2d08e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "Veterimario",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.013 - Veterimario.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/076be07439e02ac6c4f428e0eec2d08e"
+                }
+            ]
+        },
+        {
+            "file_id": "d20eac1ab2b2d2545cf68701007cc711",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "Mamma Mia",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.014 - Mamma Mia.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d20eac1ab2b2d2545cf68701007cc711"
+                }
+            ]
+        },
+        {
+            "file_id": "9668d43bd091ccf5bb3f0d7e1de640b1",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Penultima puntata",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.015 - Penultima puntata.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9668d43bd091ccf5bb3f0d7e1de640b1"
+                }
+            ]
+        },
+        {
+            "file_id": "dcf87632255526787664d3914f13f199",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "I truppi",
+            "fname": "/SerieTV/Mario (2013) [a47319]/2.016 - I truppi.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcf87632255526787664d3914f13f199"
+                }
+            ]
+        },
+        {
+            "file_id": "8d3cd969222f7be64ead84f739c59e0b",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Puntata speciale",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.001 - Puntata speciale.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8d3cd969222f7be64ead84f739c59e0b"
+                }
+            ]
+        },
+        {
+            "file_id": "f1358c6c90ffb36397a2b3b8bf6cdb5c",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Drappi dorati - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.002 - Drappi dorati - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f1358c6c90ffb36397a2b3b8bf6cdb5c"
+                }
+            ]
+        },
+        {
+            "file_id": "31ebb842c23439d6f854aa36a5e820d7",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Imposizioni - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.003 - Imposizioni - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/31ebb842c23439d6f854aa36a5e820d7"
+                }
+            ]
+        },
+        {
+            "file_id": "e829f1687023341affaa5234c8fd2326",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": ".",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.004 - ... e funziona! - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e829f1687023341affaa5234c8fd2326"
+                }
+            ]
+        },
+        {
+            "file_id": "dd444cb914c35f053b918dd24c0b5545",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "50 kg di salamone - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.005 - 50 kg di salamone - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dd444cb914c35f053b918dd24c0b5545"
+                }
+            ]
+        },
+        {
+            "file_id": "cb61d76e440b1d25e2b5050739bbdc4d",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Potassio e Big Willy - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.006 - Potassio e Big Willy - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cb61d76e440b1d25e2b5050739bbdc4d"
+                }
+            ]
+        },
+        {
+            "file_id": "51eb50513da13c0c2e6681f6ba96b9ef",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "A Scanzi di equivoci - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.007 - A Scanzi di equivoci - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/51eb50513da13c0c2e6681f6ba96b9ef"
+                }
+            ]
+        },
+        {
+            "file_id": "8ba869ce28f518b89cfcb857a2335ec8",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Sponde su sponde - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.008 - Sponde su sponde - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8ba869ce28f518b89cfcb857a2335ec8"
+                }
+            ]
+        },
+        {
+            "file_id": "02d396302a84da0eef47c6dd533d9fc4",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "La colazione del campione - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.009 - La colazione del campione - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/02d396302a84da0eef47c6dd533d9fc4"
+                }
+            ]
+        },
+        {
+            "file_id": "7985905dd739eda72579028a1fa9ee2d",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Revival - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.010 - Revival - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7985905dd739eda72579028a1fa9ee2d"
+                }
+            ]
+        },
+        {
+            "file_id": "4170bcbbb122879146d538cae699dbfa",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Questioni di diete - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.011 - Questioni di diete - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4170bcbbb122879146d538cae699dbfa"
+                }
+            ]
+        },
+        {
+            "file_id": "c1fff26ad894c1c64bebb3ae055f0f9e",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "Fascio di nervi - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.012 - Fascio di nervi - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c1fff26ad894c1c64bebb3ae055f0f9e"
+                }
+            ]
+        },
+        {
+            "file_id": "d4db585f103b1bcce79db96714ed3d9b",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "Erre nobile - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.013 - Erre nobile - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d4db585f103b1bcce79db96714ed3d9b"
+                }
+            ]
+        },
+        {
+            "file_id": "a175e6bff6f4fd546b4b47a8a6b2aa8d",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "Teatro delle orecchie - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.014 - Teatro delle orecchie - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a175e6bff6f4fd546b4b47a8a6b2aa8d"
+                }
+            ]
+        },
+        {
+            "file_id": "550bac3ccd55283d7ef2163503777fcd",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Avverbi, pronomi - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.015 - Avverbi, pronomi - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/550bac3ccd55283d7ef2163503777fcd"
+                }
+            ]
+        },
+        {
+            "file_id": "ea3cc8826453c7994f8c1c22fb337b58",
+            "tmdb_id": 47319,
+            "saga": "Mario",
+            "season": 3,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "Il brodo bolliva - Backstage",
+            "fname": "/SerieTV/Mario (2013) [a47319]/3.016 - Il brodo bolliva - Backstage.mkv",
+            "year": "2013",
+            "actors": ["Maccio Capatonda", "Rupert Sciamenna", "Herbert Ballerina", "Ektor Baboden", "Lavinia Longhi", "Anna Pannocchia"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ea3cc8826453c7994f8c1c22fb337b58"
+                }
+            ]
+        }

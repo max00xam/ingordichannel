@@ -1,147 +1,225 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 60858,
-			"number": "1x1",
-			"saga": "Heroes Reborn",
-			"title": "Il mondo nuovo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd77c22e95a8c76fef2771461f0335ed"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x2",
-			"saga": "Heroes Reborn",
-			"title": "Odessa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/722586e0c9a1341da4c82f46d583672f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x3",
-			"saga": "Heroes Reborn",
-			"title": "Sotto la maschera",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/edcb40c7f33fc32b2ed423ba5615ba76"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x4",
-			"saga": "Heroes Reborn",
-			"title": "I bisogni dei molti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5cc471184d7a11bff63723c4293b599e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x5",
-			"saga": "Heroes Reborn",
-			"title": "La tana del leone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9f960a9f5ca00d373621d381a736c998"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x6",
-			"saga": "Heroes Reborn",
-			"title": "Game Over",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3f208c4bc585da83cf1f92596faf8d9a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x7",
-			"saga": "Heroes Reborn",
-			"title": "13 giugno - (Parte 1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d1627f098b8d15c68f12d3e25bd497d8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x8",
-			"saga": "Heroes Reborn",
-			"title": "13 giugno - (Parte 2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/156fc76764eef6365c444ca94c86aa3a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x9",
-			"saga": "Heroes Reborn",
-			"title": "Gusto sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3f42f299abd6e83ca07dbf9561f1001a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x10",
-			"saga": "Heroes Reborn",
-			"title": "1153 per Odessa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/edd4f1a5a9f6e5fb0b410774472750ff"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x11",
-			"saga": "Heroes Reborn",
-			"title": "Avanti i cloni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7554e9924128c6fa3614b32c69a95c9d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x12",
-			"saga": "Heroes Reborn",
-			"title": "La donna dell`impresa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/351b4600b454d5458f8f06491791b5d5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 60858,
-			"number": "1x13",
-			"saga": "Heroes Reborn",
-			"title": "Progetto rinascità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9abe9f21de334bb2a0b9b511f8af91d3"
-				}
-			]
-		}
+            "file_id": "4bd1d4bbe49d0c4effdd054154ed55e1",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Il mondo nuovo",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.001 - Il mondo nuovo.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4bd1d4bbe49d0c4effdd054154ed55e1"
+                }
+            ]
+        },
+        {
+            "file_id": "88e9d2fe0972b29792b5cd0c8b2f257e",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Odessa",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.002 - Odessa.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/88e9d2fe0972b29792b5cd0c8b2f257e"
+                }
+            ]
+        },
+        {
+            "file_id": "e5fa9a91bf94928005d747628779c3d0",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Sotto la maschera",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.003 - Sotto la maschera.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e5fa9a91bf94928005d747628779c3d0"
+                }
+            ]
+        },
+        {
+            "file_id": "e0354bc98f08b6cd511df7c56f412860",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "I bisogni dei molti",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.004 - I bisogni dei molti.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e0354bc98f08b6cd511df7c56f412860"
+                }
+            ]
+        },
+        {
+            "file_id": "607186a4e3efd640e9b91852201b1e5d",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "La tana del leone",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.005 - La tana del leone.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/607186a4e3efd640e9b91852201b1e5d"
+                }
+            ]
+        },
+        {
+            "file_id": "d13ffc2008e9df5bb0448f207881dcf2",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Game Over",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.006 - Game Over.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d13ffc2008e9df5bb0448f207881dcf2"
+                }
+            ]
+        },
+        {
+            "file_id": "6d87f6b78ab3656b5c580a706abb79da",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "13 giugno -",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.007 - 13 giugno - (Parte 1).mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d87f6b78ab3656b5c580a706abb79da"
+                }
+            ]
+        },
+        {
+            "file_id": "a14adaadf21aaf97f5a3271af0016c7e",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "13 giugno -",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.008 - 13 giugno - (Parte 2).mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a14adaadf21aaf97f5a3271af0016c7e"
+                }
+            ]
+        },
+        {
+            "file_id": "f088177b736775df29dfea905776e24c",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Gusto sangue",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.009 - Gusto sangue.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f088177b736775df29dfea905776e24c"
+                }
+            ]
+        },
+        {
+            "file_id": "e140f53b95bc1d24878cf24d2bd4fb58",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "1153 per Odessa",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.010 - 1153 per Odessa.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e140f53b95bc1d24878cf24d2bd4fb58"
+                }
+            ]
+        },
+        {
+            "file_id": "edda8d92cf1f0b7086ffeaeb9d44136c",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Avanti i cloni",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.011 - Avanti i cloni.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/edda8d92cf1f0b7086ffeaeb9d44136c"
+                }
+            ]
+        },
+        {
+            "file_id": "f785c7f74ff6236daae88d2cdcb7c05d",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "La donna dell`impresa",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.012 - La donna dell`impresa.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f785c7f74ff6236daae88d2cdcb7c05d"
+                }
+            ]
+        },
+        {
+            "file_id": "199e8180ba75280d45cc4ff7234b0a54",
+            "tmdb_id": 60858,
+            "saga": "Heroes Reborn",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy"],
+            "title": "Progetto rinascit\u00e0",
+            "fname": "/SerieTV/Heroes Reborn (2015) [a60858]/1.013 - Progetto rinascit\u00e0.mkv",
+            "year": "2015",
+            "actors": ["Jack Coleman", "Zachary Levi", "Kiki Sukezane", "Judi Shekoni", "Robbie Kay", "Rya Kihlstedt", "Henry Zebrowski", "Gatlin Green", "Danika Yarosh", "Ryan Guzman"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/199e8180ba75280d45cc4ff7234b0a54"
+                }
+            ]
+        }
     ]
 }
