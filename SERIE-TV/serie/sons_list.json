@@ -1,433 +1,667 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 1409,
-			"number": "1x1",
-			"saga": "Sons of Anarchy",
-			"title": "Storie Di Sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c2d5edb4168007f9da4880f83c834732"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x2",
-			"saga": "Sons of Anarchy",
-			"title": "Vecchi Legami",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/76c9e80a2108aa0b32eed3909a317d1b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x3",
-			"saga": "Sons of Anarchy",
-			"title": "Caccia All`uomo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eb69a6c5bb1296333ef362b124e0bd13"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x4",
-			"saga": "Sons of Anarchy",
-			"title": "Fusione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f04ebc5bdfa658d4d4b1cbe4d650ad65"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x5",
-			"saga": "Sons of Anarchy",
-			"title": "Il Tatuaggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5d5661670ecc2315e56457042d429b9b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x6",
-			"saga": "Sons of Anarchy",
-			"title": "Assalto Al Furgone",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c81a0ad6822797ff0b72d9def8226171"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x7",
-			"saga": "Sons of Anarchy",
-			"title": "Old bones",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e71c950b96321399293aafad25c0d74"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x8",
-			"saga": "Sons of Anarchy",
-			"title": "Comincia La Guerra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/25259f588beb6ed3e2b5aec260f0a60d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x9",
-			"saga": "Sons of Anarchy",
-			"title": "E Venne L`inferno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f06637b164cece7632c10fff0f96491"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x10",
-			"saga": "Sons of Anarchy",
-			"title": "Il Punto Debole",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4ff2f4c8abc67726ec0a13fea2c906d1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x11",
-			"saga": "Sons of Anarchy",
-			"title": "Il Sospetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/58ea57d1aa645aeb049f510e0c0c22ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x12",
-			"saga": "Sons of Anarchy",
-			"title": "Per Sempre Giovane",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4e0a31470f3482c4da25c1b37b6ac3e9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "1x13",
-			"saga": "Sons of Anarchy",
-			"title": "Sospetti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/40474eefaf37ad8b680c87ac37f3a5a1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x1",
-			"saga": "Sons of Anarchy",
-			"title": "Un nuovo nemico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/002d9252a878cd5247f607c112f3fb4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x2",
-			"saga": "Sons of Anarchy",
-			"title": "Il Prezzo Del Silenzio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e8cd8beed1bd2d26affc82cae1c5e1b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x3",
-			"saga": "Sons of Anarchy",
-			"title": "Botta E Risposta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7522db253ba26e5dd644fa9f9192196c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x4",
-			"saga": "Sons of Anarchy",
-			"title": "Jax E Clay",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/627bf06a907d9876bc8730298437426f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x5",
-			"saga": "Sons of Anarchy",
-			"title": "Tormento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c59568acc15254a77d101305336c155e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x6",
-			"saga": "Sons of Anarchy",
-			"title": "La Trappola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c07f76853715ea608a44838d9d4df217"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x7",
-			"saga": "Sons of Anarchy",
-			"title": "Fatica Sprecata",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c194430e3e7bb5e35376761fee01c45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x8",
-			"saga": "Sons of Anarchy",
-			"title": "Banchetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5729049fa77121e9fc8eef26115ec7dd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x9",
-			"saga": "Sons of Anarchy",
-			"title": "Attività Di Fumo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da651c0b73b11d3d00a278d6e4d3cbfe"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x10",
-			"saga": "Sons of Anarchy",
-			"title": "Rivelazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/604f0acfcef53ef746f034b05a0e9430"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x11",
-			"saga": "Sons of Anarchy",
-			"title": "Giro Di Boa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5ee9466a68d4a02933ce89e3311a26a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x12",
-			"saga": "Sons of Anarchy",
-			"title": "Accerchiamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c0055d172c8b0182ef9dccd020951a2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "2x13",
-			"saga": "Sons of Anarchy",
-			"title": "Giornata Cruenta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d0aa7409f82d3ab1ddad63e47521315f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x1",
-			"saga": "Sons of Anarchy",
-			"title": "La Ricerca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d4fcfcb52382d2cfa392af17649ee484"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x2",
-			"saga": "Sons of Anarchy",
-			"title": "Esecuzione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ee6bc3894dc42398975eb96424307901"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x3",
-			"saga": "Sons of Anarchy",
-			"title": "Conseguenze Impreviste",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ea51296d2294438e3043b9df702ec9d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x4",
-			"saga": "Sons of Anarchy",
-			"title": "Ritorno A Casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/03d3c7117f845e001ae501fd8887bdea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x5",
-			"saga": "Sons of Anarchy",
-			"title": "Patto Con Il Diavolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/14ca53bb6c03a3aaccb978f88d35a905"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x6",
-			"saga": "Sons of Anarchy",
-			"title": "La Tregua",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/836f81245cc3581efdde2f2749deca4e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x7",
-			"saga": "Sons of Anarchy",
-			"title": "Partenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6164106de2eb4714640ca4822a22757b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x8",
-			"saga": "Sons of Anarchy",
-			"title": "Nella Tana Del Lupo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/70ad5528f0f11074a4562202e11cdf52"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x9",
-			"saga": "Sons of Anarchy",
-			"title": "La Trappola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/25db2a35e7924354d74732bcd003f504"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x10",
-			"saga": "Sons of Anarchy",
-			"title": "Segreti Di Famiglia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e72fa1bb3467c307adeeed737fea272f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x11",
-			"saga": "Sons of Anarchy",
-			"title": "Lo Scambio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/54ba1ca6b07181ec034efc316f6e47f0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x12",
-			"saga": "Sons of Anarchy",
-			"title": "Vittime Sacrificali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5e3324fc931910edcc688b64aa79444c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1409,
-			"number": "3x13",
-			"saga": "Sons of Anarchy",
-			"title": "Il Cerchio Si Chiude",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3d0f6ff8fd92ae4288ddec9c011daa10"
-				}
-			]
-		}
+            "file_id": "291a45d684cb32a872662ca91ddccf66",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Crime", "Dramma"],
+            "title": "Storie Di Sangue",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.001 - Storie Di Sangue.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/291a45d684cb32a872662ca91ddccf66"
+                }
+            ]
+        },
+        {
+            "file_id": "7cbce303cfa94246020922ec12e8c99d",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Crime", "Dramma"],
+            "title": "Vecchi Legami",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.002 - Vecchi Legami.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7cbce303cfa94246020922ec12e8c99d"
+                }
+            ]
+        },
+        {
+            "file_id": "9fbc38bbcde9b287c20f241317eac2c0",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Crime", "Dramma"],
+            "title": "Caccia All`uomo",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.003 - Caccia All`uomo.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9fbc38bbcde9b287c20f241317eac2c0"
+                }
+            ]
+        },
+        {
+            "file_id": "57e5cc81b38c4f8472b0d17df8d30c38",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Crime", "Dramma"],
+            "title": "Fusione",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.004 - Fusione.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57e5cc81b38c4f8472b0d17df8d30c38"
+                }
+            ]
+        },
+        {
+            "file_id": "b54afbed254d53cbe1af7f5883171931",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Crime", "Dramma"],
+            "title": "Il Tatuaggio",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.005 - Il Tatuaggio.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b54afbed254d53cbe1af7f5883171931"
+                }
+            ]
+        },
+        {
+            "file_id": "289d8fd1cb15b723ae554d83ec4e3f7b",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Crime", "Dramma"],
+            "title": "Assalto Al Furgone",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.006 - Assalto Al Furgone.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/289d8fd1cb15b723ae554d83ec4e3f7b"
+                }
+            ]
+        },
+        {
+            "file_id": "c65e851cd08068c08bb255fec894d56f",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Crime", "Dramma"],
+            "title": "Old bones",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.007 - Old bones.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c65e851cd08068c08bb255fec894d56f"
+                }
+            ]
+        },
+        {
+            "file_id": "332218a76b41ac61f9f477081ea8e453",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Crime", "Dramma"],
+            "title": "Comincia La Guerra",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.008 - Comincia La Guerra.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/332218a76b41ac61f9f477081ea8e453"
+                }
+            ]
+        },
+        {
+            "file_id": "e84ff5a99865118d3ed901588d06377f",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Crime", "Dramma"],
+            "title": "E Venne L`inferno",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.009 - E Venne L`inferno.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e84ff5a99865118d3ed901588d06377f"
+                }
+            ]
+        },
+        {
+            "file_id": "7b3c0fff21763836920190e6640bfa52",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Crime", "Dramma"],
+            "title": "Il Punto Debole",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.010 - Il Punto Debole.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7b3c0fff21763836920190e6640bfa52"
+                }
+            ]
+        },
+        {
+            "file_id": "f64395eb3c634e5236f401465f6c7d48",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Crime", "Dramma"],
+            "title": "Il Sospetto",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.011 - Il Sospetto.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f64395eb3c634e5236f401465f6c7d48"
+                }
+            ]
+        },
+        {
+            "file_id": "25bebc2f60f8e411f2227232670caa35",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Crime", "Dramma"],
+            "title": "Per Sempre Giovane",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.012 - Per Sempre Giovane.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/25bebc2f60f8e411f2227232670caa35"
+                }
+            ]
+        },
+        {
+            "file_id": "2effaebc6f833f57a411d288365e1c46",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Crime", "Dramma"],
+            "title": "Sospetti",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/1.013 - Sospetti.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2effaebc6f833f57a411d288365e1c46"
+                }
+            ]
+        },
+        {
+            "file_id": "4f877c019eb5d65407440ac095d649f1",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Crime", "Dramma"],
+            "title": "Un nuovo nemico",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.001 - Un nuovo nemico.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f877c019eb5d65407440ac095d649f1"
+                }
+            ]
+        },
+        {
+            "file_id": "8574c8bc320024aa64a7669cf1f4bcbe",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Crime", "Dramma"],
+            "title": "Il Prezzo Del Silenzio",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.002 - Il Prezzo Del Silenzio.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8574c8bc320024aa64a7669cf1f4bcbe"
+                }
+            ]
+        },
+        {
+            "file_id": "cd5823e14c7a65039fd6888cc9439bfc",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Crime", "Dramma"],
+            "title": "Botta E Risposta",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.003 - Botta E Risposta.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd5823e14c7a65039fd6888cc9439bfc"
+                }
+            ]
+        },
+        {
+            "file_id": "aa93be098e06c899c2df8416e1c47093",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Crime", "Dramma"],
+            "title": "Jax E Clay",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.004 - Jax E Clay.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa93be098e06c899c2df8416e1c47093"
+                }
+            ]
+        },
+        {
+            "file_id": "1851219383114badc01af166dfc63fef",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Crime", "Dramma"],
+            "title": "Tormento",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.005 - Tormento.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1851219383114badc01af166dfc63fef"
+                }
+            ]
+        },
+        {
+            "file_id": "3035395beb46c08f3e4275df2fe86641",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Crime", "Dramma"],
+            "title": "La Trappola",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.006 - La Trappola.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3035395beb46c08f3e4275df2fe86641"
+                }
+            ]
+        },
+        {
+            "file_id": "8aec81c6e47be56b712bcc77017f1eaa",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Crime", "Dramma"],
+            "title": "Fatica Sprecata",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.007 - Fatica Sprecata.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8aec81c6e47be56b712bcc77017f1eaa"
+                }
+            ]
+        },
+        {
+            "file_id": "e8cb8b179193883a71ef826e8bfeb328",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Crime", "Dramma"],
+            "title": "Banchetto",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.008 - Banchetto.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8cb8b179193883a71ef826e8bfeb328"
+                }
+            ]
+        },
+        {
+            "file_id": "109a39baf0c2d440f8490a0e7da7461e",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Crime", "Dramma"],
+            "title": "Attivit\u00e0 Di Fumo",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.009 - Attivit\u00e0 Di Fumo.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/109a39baf0c2d440f8490a0e7da7461e"
+                }
+            ]
+        },
+        {
+            "file_id": "e59ee1b0d4f83d5910812b64decc1529",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Crime", "Dramma"],
+            "title": "Rivelazione",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.010 - Rivelazione.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e59ee1b0d4f83d5910812b64decc1529"
+                }
+            ]
+        },
+        {
+            "file_id": "9c22e3fc1f785fe969a31338e3ddd5df",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Crime", "Dramma"],
+            "title": "Giro Di Boa",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.011 - Giro Di Boa.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9c22e3fc1f785fe969a31338e3ddd5df"
+                }
+            ]
+        },
+        {
+            "file_id": "cf8b7efc34b3f6fd08d42424955ea7b7",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Crime", "Dramma"],
+            "title": "Accerchiamento",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.012 - Accerchiamento.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf8b7efc34b3f6fd08d42424955ea7b7"
+                }
+            ]
+        },
+        {
+            "file_id": "6884723bdc380971f95d3ea45d249117",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Crime", "Dramma"],
+            "title": "Giornata Cruenta",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/2.013 - Giornata Cruenta.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6884723bdc380971f95d3ea45d249117"
+                }
+            ]
+        },
+        {
+            "file_id": "6186ceb0ac85785e95caf7dce5666b2d",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Crime", "Dramma"],
+            "title": "La Ricerca",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.001 - La Ricerca.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6186ceb0ac85785e95caf7dce5666b2d"
+                }
+            ]
+        },
+        {
+            "file_id": "d1091c45f2073dca6bff7b290dc13883",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Crime", "Dramma"],
+            "title": "Esecuzione",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.002 - Esecuzione.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1091c45f2073dca6bff7b290dc13883"
+                }
+            ]
+        },
+        {
+            "file_id": "679240780143cd547733761a44c4eae1",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Crime", "Dramma"],
+            "title": "Conseguenze Impreviste",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.003 - Conseguenze Impreviste.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/679240780143cd547733761a44c4eae1"
+                }
+            ]
+        },
+        {
+            "file_id": "493b68ed67c720d319eedfa774b33151",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Crime", "Dramma"],
+            "title": "Ritorno A Casa",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.004 - Ritorno A Casa.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/493b68ed67c720d319eedfa774b33151"
+                }
+            ]
+        },
+        {
+            "file_id": "3468105b8c086313716cb9c694318da6",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Crime", "Dramma"],
+            "title": "Patto Con Il Diavolo",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.005 - Patto Con Il Diavolo.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3468105b8c086313716cb9c694318da6"
+                }
+            ]
+        },
+        {
+            "file_id": "53b5c60914c23440ded3176905d81735",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Crime", "Dramma"],
+            "title": "La Tregua",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.006 - La Tregua.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53b5c60914c23440ded3176905d81735"
+                }
+            ]
+        },
+        {
+            "file_id": "23b31eafc77781698bece3575c8e7654",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Crime", "Dramma"],
+            "title": "Partenza",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.007 - Partenza.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23b31eafc77781698bece3575c8e7654"
+                }
+            ]
+        },
+        {
+            "file_id": "3ca0a6ed9edbce85a3d25a780974911f",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Crime", "Dramma"],
+            "title": "Nella Tana Del Lupo",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.008 - Nella Tana Del Lupo.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ca0a6ed9edbce85a3d25a780974911f"
+                }
+            ]
+        },
+        {
+            "file_id": "f12790f84b97d9dfcea13f3b1efc44ee",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Crime", "Dramma"],
+            "title": "La Trappola",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.009 - La Trappola.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f12790f84b97d9dfcea13f3b1efc44ee"
+                }
+            ]
+        },
+        {
+            "file_id": "ac78d6a813603851a5910a48cf2317ce",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Crime", "Dramma"],
+            "title": "Segreti Di Famiglia",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.010 - Segreti Di Famiglia.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac78d6a813603851a5910a48cf2317ce"
+                }
+            ]
+        },
+        {
+            "file_id": "de426af5d12a8f3b92e361b71d469f2d",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Crime", "Dramma"],
+            "title": "Lo Scambio",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.011 - Lo Scambio.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de426af5d12a8f3b92e361b71d469f2d"
+                }
+            ]
+        },
+        {
+            "file_id": "d084ff21d04b69721e7b1b8db8349c77",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Crime", "Dramma"],
+            "title": "Vittime Sacrificali",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.012 - Vittime Sacrificali.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d084ff21d04b69721e7b1b8db8349c77"
+                }
+            ]
+        },
+        {
+            "file_id": "734eee314a93a2bde2ed55bc519d7761",
+            "tmdb_id": 1409,
+            "saga": "Sons of Anarchy",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Crime", "Dramma"],
+            "title": "Il Cerchio Si Chiude",
+            "fname": "/SerieTV/Sons of Anarchy (2008) [a1409]/3.013 - Il Cerchio Si Chiude.mp4",
+            "year": "2008",
+            "actors": ["Charlie Hunnam", "Katey Sagal", "Theo Rossi", "Tommy Flanagan", "Mark Boone Junior", "Kim Coates", "Drea de Matteo", "Dayton Callie", "Jimmy Smits", "David Labrava", "Niko Nicotera"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/734eee314a93a2bde2ed55bc519d7761"
+                }
+            ]
+        }
     ]
 }

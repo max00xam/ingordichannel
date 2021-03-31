@@ -1,767 +1,1177 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 2552,
-			"number": "1x1",
-			"saga": "Mork e Mindy",
-			"title": "Il nostro inviato speciale (parte1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dc7a80c3bf90277eedbfeaa026bdce48"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x2",
-			"saga": "Mork e Mindy",
-			"title": "Il nostro inviato speciale (parte2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ced8b0e616d3b6c72cd683825231214a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x3",
-			"saga": "Mork e Mindy",
-			"title": "Arriva Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5cd04db71f53fd4fb2f4c9669b2d1c0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x4",
-			"saga": "Mork e Mindy",
-			"title": "Mork scappa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e142abc5a909034145c3a42c8c341ac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x5",
-			"saga": "Mork e Mindy",
-			"title": "Mork s`innamora",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fb945081a00db297dea571fd9eeb0d98"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x6",
-			"saga": "Mork e Mindy",
-			"title": "Attentato a Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3d5acac57f8e0c13504c198417ec6b7f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x7",
-			"saga": "Mork e Mindy",
-			"title": "Mork in vendita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71e61cff6d940148ab859c44ceaf6a4a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x8",
-			"saga": "Mork e Mindy",
-			"title": "Le bugie bianche",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5c60b9cf60f5ba18db0737fedca1a94f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x9",
-			"saga": "Mork e Mindy",
-			"title": "Il candido Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/020afb0c896490e24a955540337622c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x10",
-			"saga": "Mork e Mindy",
-			"title": "Una mammina per il piccolo Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c2832c9c8662959331da90c1f6592070"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x11",
-			"saga": "Mork e Mindy",
-			"title": "Il più grande colpo di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f94a6b0dcf615e39aff1f1644781a794"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x12",
-			"saga": "Mork e Mindy",
-			"title": "Una buona azione di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ac97cd0eaa1557ff8820d12df142ea87"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x13",
-			"saga": "Mork e Mindy",
-			"title": "Il primo Natale di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4090a782dae02768da74de597b2c829f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x14",
-			"saga": "Mork e Mindy",
-			"title": "Mork e l`immigrato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cba06fed03a5a73bc115cf55dbccfb3c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x15",
-			"saga": "Mork e Mindy",
-			"title": "Mork e la tolleranza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/902fa94b6ce912ea223f1a961e1b2f4b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x16",
-			"saga": "Mork e Mindy",
-			"title": "Un dolce giovane amore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cbb6f623446821ce34d7958de25dc8f1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x17",
-			"saga": "Mork e Mindy",
-			"title": "Un fiore per Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/73633c55f2c909637ced801b7479467d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x18",
-			"saga": "Mork e Mindy",
-			"title": "Il compleanno di Mindy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ea01850a92b9bb2d73c449d7a121d80b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x19",
-			"saga": "Mork e Mindy",
-			"title": "La pupa è mia! O no",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a44d752a2a64e2e9f727c8e595f235e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x20",
-			"saga": "Mork e Mindy",
-			"title": "Mork e le emozioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ba2830cfdbd39301fefe310565465c7d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x21",
-			"saga": "Mork e Mindy",
-			"title": "Mork in libera uscita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2aa0b45ba05526fccc290cfd2f3836be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x22",
-			"saga": "Mork e Mindy",
-			"title": "Le metamorfosi di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd865f2f3014d8c8f7a67284d9037cf0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x23",
-			"saga": "Mork e Mindy",
-			"title": "Mork è impazzito",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fcfe8ee6d84d2574448cbaedf5b17a98"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x24",
-			"saga": "Mork e Mindy",
-			"title": "Mork invisibile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c035700cd595380931bb0e82644d3c3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "1x25",
-			"saga": "Mork e Mindy",
-			"title": "Il miglior amico di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ee87b1d37fc2cad047b4183b610319f1"
-				}
-			]
-		},
-		{
-			
-			"title": "Stagione 2 non trovata, ci scusiamo"
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x1",
-			"saga": "Mork e Mindy",
-			"title": "La trasformazione di Mork (1)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/21e809689b8756af1027e87ba3503417"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x2",
-			"saga": "Mork e Mindy",
-			"title": "La trasformazione di Mork (2)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/66d3682865f0dda188f87de8a0a3e6f7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x3",
-			"saga": "Mork e Mindy",
-			"title": "Mork in Pazzilandia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/567d90dd812073d2f76b65e705dec778"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x4",
-			"saga": "Mork e Mindy",
-			"title": "Gara sulle rotelle",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a30384bdabc40ededa85d9c424a339bc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x5",
-			"saga": "Mork e Mindy",
-			"title": "Gli scherzi di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e82bc67bf247c6819c3f1a755a8b3e2e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x6",
-			"saga": "Mork e Mindy",
-			"title": "Mork lo zio della scimmia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1a5a6e365eb638c96145310d8e099e56"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x7",
-			"saga": "Mork e Mindy",
-			"title": "La sfida al Mork Corral",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/041528be6d0620f45cb2a88a7974ccd1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x8",
-			"saga": "Mork e Mindy",
-			"title": "Mork si fa la plastica",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/89e03473ef230d729d57e6ee8299dd27"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x9",
-			"saga": "Mork e Mindy",
-			"title": "Ahimè povero Mork, noi lo conoscevamo bene",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/adc914a56fc3f5fed36cdc4550fbfe7e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x10",
-			"saga": "Mork e Mindy",
-			"title": "Mork e il rimprovero mendicato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f187547a2b0a12cd505cac295673974e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x11",
-			"saga": "Mork e Mindy",
-			"title": "Mindy trova lavoro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/772257fefd2756d6eca54083ef8568e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x12",
-			"saga": "Mork e Mindy",
-			"title": "Dodici apparecchi furiosi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7b1aa02799122f1b163376f96b0ef94a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x13",
-			"saga": "Mork e Mindy",
-			"title": "C’è un nuovo Mork in città",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a24f4d713e1d0f3466270c7ff15843ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x14",
-			"saga": "Mork e Mindy",
-			"title": "Mork ha un sosia, purtroppo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/17e8cc8febb29b1b283a71e435cd2f33"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x15",
-			"saga": "Mork e Mindy",
-			"title": "Di Mindy ce n’è una sola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/31aa165a28f8de381e6c95ec382813ea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x16",
-			"saga": "Mork e Mindy",
-			"title": "Mork si dà alla vita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a41ade926f163bea272fcc58d37bca02"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x17",
-			"saga": "Mork e Mindy",
-			"title": "Mork e Mindy, Ricky e Ruby",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1e65e6390d7fc42988e0eb23325037b8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x18",
-			"saga": "Mork e Mindy",
-			"title": "Mork e la riunione di famiglia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bcfe1395def1c2946784dcad55e24123"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x19",
-			"saga": "Mork e Mindy",
-			"title": "Mork il terrore dei rapinatori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/663a5247c286fc3c0ce262ae8dc4fe84"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x20",
-			"saga": "Mork e Mindy",
-			"title": "Mork comare pettegola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3192f1f1c2212946f40ed840fde0c49"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x21",
-			"saga": "Mork e Mindy",
-			"title": "Mindy e Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d682bc59d1e62206b4145499f8ec9085"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "3x22",
-			"saga": "Mork e Mindy",
-			"title": "Riflessioni e rimpianti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d86abaf05992b380b1d6bdac29f14373"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x1",
-			"saga": "Mork e Mindy",
-			"title": "Mork si dichiara",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/828ebee5fdacec7ca0c1c3b5ed5c8d36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x2",
-			"saga": "Mork e Mindy",
-			"title": "Le nozze di Mork e Mindy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3bef0c8f3a11a95c41ad6c15c0d173a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x3",
-			"saga": "Mork e Mindy",
-			"title": "Luna di miele",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3e74105bba39c6ed8a862b249c0a404b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x4",
-			"saga": "Mork e Mindy",
-			"title": "Un parto difficile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3d134a62d2df27d9a9a3477d6d6965ef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x5",
-			"saga": "Mork e Mindy",
-			"title": "Un figlio fuori del normale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5d03e6f1b74a4cc0f417c698e2cf0598"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x6",
-			"saga": "Mork e Mindy",
-			"title": "Papà sei grande",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b6221c6a5354b3d736d9378b9ffa2f6e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x7",
-			"saga": "Mork e Mindy",
-			"title": "Prima che c’incontrassimo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/180050b2bd35cbdcd11fea67eadfb503"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x8",
-			"saga": "Mork e Mindy",
-			"title": "Il povero Mork diventa ricco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3616c41c8074ec335c47b94e3ad5cc9e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x9",
-			"saga": "Mork e Mindy",
-			"title": "Alienazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0c628da07742b5829bfbccabc59cac77"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x10",
-			"saga": "Mork e Mindy",
-			"title": "Mearth, lo scolaro del 2001",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d3f256ffbc8992eb107402205620005"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x11",
-			"saga": "Mork e Mindy",
-			"title": "L’educazione sessuale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/97dd9ae843a0801fd6c30a0e57c3c174"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x12",
-			"saga": "Mork e Mindy",
-			"title": "L’importante è amarsi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b510ddd64ccb088f112dbbee89928cb9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x13",
-			"saga": "Mork e Mindy",
-			"title": "La metamorfosi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2d0fce7a78f603efc4971133dc996670"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x14",
-			"saga": "Mork e Mindy",
-			"title": "E guida, disse",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/66dde22fce5379709587fe2927ade3ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x15",
-			"saga": "Mork e Mindy",
-			"title": "Non ricordo niente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/feac64d651d69e446d0b065a2a3aaea1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x16",
-			"saga": "Mork e Mindy",
-			"title": "Mork e Mindy incontrano MILT",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2eacb4780db67016513c6e1c8e3fe7c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x17",
-			"saga": "Mork e Mindy",
-			"title": "Non è tutto oro…",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/431043c481bda8ca57fa4f5bfa7ca2ff"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x18",
-			"saga": "Mork e Mindy",
-			"title": "Mindy finisce in prigione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/04a0c749335318af1889ecf8885167d6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x19",
-			"saga": "Mork e Mindy",
-			"title": "Fuggiamo insieme – parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7fe383e90cd44fc327c8e3285a424e3e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x20",
-			"saga": "Mork e Mindy",
-			"title": "Fuggiamo insieme – parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7807a215ae3d95bcff1d74ed10d2cf0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x21",
-			"saga": "Mork e Mindy",
-			"title": "Fuggiamo insieme – parte 3",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/423228977fca66b23512ac2c656dc29c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2552,
-			"number": "4x22",
-			"saga": "Mork e Mindy",
-			"title": "Il resoconto di Mork",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/afea8d2388b48365d85d15d94be5e8c7"
-				}
-			]
-		}
+            "file_id": "d75eeed8f00b6399b8fec30dc2fb1b7a",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Il nostro inviato speciale",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.001 - Il nostro inviato speciale (parte1).avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d75eeed8f00b6399b8fec30dc2fb1b7a"
+                }
+            ]
+        },
+        {
+            "file_id": "7f3b010dc06cbaf4b840f622545e3e10",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Il nostro inviato speciale",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.002 - Il nostro inviato speciale (parte2).avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f3b010dc06cbaf4b840f622545e3e10"
+                }
+            ]
+        },
+        {
+            "file_id": "9ac8717b4802a0ac7e73abb07287e6c4",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Arriva Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.003 - Arriva Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ac8717b4802a0ac7e73abb07287e6c4"
+                }
+            ]
+        },
+        {
+            "file_id": "94ca87bbc0fef5055e84f08d8b151e6f",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Mork scappa",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.004 - Mork scappa.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94ca87bbc0fef5055e84f08d8b151e6f"
+                }
+            ]
+        },
+        {
+            "file_id": "36e3276169b1f74f04aff993d347976c",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "Mork s`innamora",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.005 - Mork s`innamora.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/36e3276169b1f74f04aff993d347976c"
+                }
+            ]
+        },
+        {
+            "file_id": "d95d380db545d77c7afdca80a3c22a20",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Attentato a Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.006 - Attentato a Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d95d380db545d77c7afdca80a3c22a20"
+                }
+            ]
+        },
+        {
+            "file_id": "a757ba0c2ee043211a264658402233c3",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Mork in vendita",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.007 - Mork in vendita.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a757ba0c2ee043211a264658402233c3"
+                }
+            ]
+        },
+        {
+            "file_id": "0526a39cdfc2c8533736d85afe0e88e9",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Le bugie bianche",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.008 - Le bugie bianche.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0526a39cdfc2c8533736d85afe0e88e9"
+                }
+            ]
+        },
+        {
+            "file_id": "3573b4b9498aec9d8578c094099144ea",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Il candido Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.009 - Il candido Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3573b4b9498aec9d8578c094099144ea"
+                }
+            ]
+        },
+        {
+            "file_id": "9f66b2930cb5ee2206dbc6e9e011d2af",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Una mammina per il piccolo Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.010 - Una mammina per il piccolo Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9f66b2930cb5ee2206dbc6e9e011d2af"
+                }
+            ]
+        },
+        {
+            "file_id": "c43c67602e65611268987adb633c66c2",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Il pi\u00f9 grande colpo di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.011 - Il pi\u00f9 grande colpo di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c43c67602e65611268987adb633c66c2"
+                }
+            ]
+        },
+        {
+            "file_id": "f8e4f30f19de019b4cd851d2c8169ddf",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "Una buona azione di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.012 - Una buona azione di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f8e4f30f19de019b4cd851d2c8169ddf"
+                }
+            ]
+        },
+        {
+            "file_id": "c26111410fb99c100d0ef341e2a86178",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "Il primo Natale di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.013 - Il primo Natale di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c26111410fb99c100d0ef341e2a86178"
+                }
+            ]
+        },
+        {
+            "file_id": "d6bc565233ffa82412a2a8aa73cabd58",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "Mork e l`immigrato",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.014 - Mork e l`immigrato.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d6bc565233ffa82412a2a8aa73cabd58"
+                }
+            ]
+        },
+        {
+            "file_id": "be125ab5dba55c5a9ced384801358575",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Mork e la tolleranza",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.015 - Mork e la tolleranza.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be125ab5dba55c5a9ced384801358575"
+                }
+            ]
+        },
+        {
+            "file_id": "5792e8b4f12c48aa919a9f374c311ce3",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "Un dolce giovane amore",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.016 - Un dolce giovane amore.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5792e8b4f12c48aa919a9f374c311ce3"
+                }
+            ]
+        },
+        {
+            "file_id": "95f0aa7fba1d4791a379b9f4182c7327",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Commedia"],
+            "title": "Un fiore per Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.017 - Un fiore per Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/95f0aa7fba1d4791a379b9f4182c7327"
+                }
+            ]
+        },
+        {
+            "file_id": "b2329046da151367e44cb013e676fbf8",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Commedia"],
+            "title": "Il compleanno di Mindy",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.018 - Il compleanno di Mindy.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b2329046da151367e44cb013e676fbf8"
+                }
+            ]
+        },
+        {
+            "file_id": "f39ee38e3f89012a9efa0fb90c2d323f",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Commedia"],
+            "title": "La pupa \u00e8 mia! O no",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.019 - La pupa \u00e8 mia! O no.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f39ee38e3f89012a9efa0fb90c2d323f"
+                }
+            ]
+        },
+        {
+            "file_id": "14aabe6fa8cbb531408c8f748208d69f",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Commedia"],
+            "title": "Mork e le emozioni",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.020 - Mork e le emozioni.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14aabe6fa8cbb531408c8f748208d69f"
+                }
+            ]
+        },
+        {
+            "file_id": "54f5045f8f97338258dcb65f6eae0112",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Commedia"],
+            "title": "Mork in libera uscita",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.021 - Mork in libera uscita.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/54f5045f8f97338258dcb65f6eae0112"
+                }
+            ]
+        },
+        {
+            "file_id": "b5087e33f6c7cb54325cd27f955a25c2",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Commedia"],
+            "title": "Le metamorfosi di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.022 - Le metamorfosi di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5087e33f6c7cb54325cd27f955a25c2"
+                }
+            ]
+        },
+        {
+            "file_id": "11e7e240f833d346fae36d8b0df0e59c",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Commedia"],
+            "title": "Mork \u00e8 impazzito",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.023 - Mork \u00e8 impazzito.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11e7e240f833d346fae36d8b0df0e59c"
+                }
+            ]
+        },
+        {
+            "file_id": "81cc2a5b1874ee0b9821dbd9f8113273",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Commedia"],
+            "title": "Mork invisibile",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.024 - Mork invisibile.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81cc2a5b1874ee0b9821dbd9f8113273"
+                }
+            ]
+        },
+        {
+            "file_id": "b6558eaa15da8d5417f4f535d70e3a50",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Commedia"],
+            "title": "Il miglior amico di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/1.025 - Il miglior amico di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6558eaa15da8d5417f4f535d70e3a50"
+                }
+            ]
+        },
+        {
+            "file_id": "0fe11b72cb9a74c14ac2ad72a0ed887d",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "La trasformazione di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.001 - La trasformazione di Mork (1).avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0fe11b72cb9a74c14ac2ad72a0ed887d"
+                }
+            ]
+        },
+        {
+            "file_id": "ec864e6e114e53e741beaa7d39ed4821",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "La trasformazione di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.002 - La trasformazione di Mork (2).avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ec864e6e114e53e741beaa7d39ed4821"
+                }
+            ]
+        },
+        {
+            "file_id": "9334202a66016f26091bc4b61e971187",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Mork in Pazzilandia",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.003 - Mork in Pazzilandia.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9334202a66016f26091bc4b61e971187"
+                }
+            ]
+        },
+        {
+            "file_id": "6a541177052c078b8e6a5968e8f29da6",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Gara sulle rotelle",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.004 - Gara sulle rotelle.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a541177052c078b8e6a5968e8f29da6"
+                }
+            ]
+        },
+        {
+            "file_id": "93dac9e13348a74c13a84c4b146102b7",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "Gli scherzi di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.005 - Gli scherzi di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93dac9e13348a74c13a84c4b146102b7"
+                }
+            ]
+        },
+        {
+            "file_id": "70f185aca04138d4d8aaf0f79135f41c",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Mork lo zio della scimmia",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.006 - Mork lo zio della scimmia.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70f185aca04138d4d8aaf0f79135f41c"
+                }
+            ]
+        },
+        {
+            "file_id": "ac121ed779acdfed67530dba24d63dd2",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "La sfida al Mork Corral",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.007 - La sfida al Mork Corral.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac121ed779acdfed67530dba24d63dd2"
+                }
+            ]
+        },
+        {
+            "file_id": "1624f10279e93b39ab69f446537782c3",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Mork si fa la plastica",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.008 - Mork si fa la plastica.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1624f10279e93b39ab69f446537782c3"
+                }
+            ]
+        },
+        {
+            "file_id": "ccc894172682a3c882a6b56f76c79571",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Ahim\u00e8 povero Mork, noi lo conoscevamo bene",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.009 - Ahim\u00e8 povero Mork, noi lo conoscevamo bene.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ccc894172682a3c882a6b56f76c79571"
+                }
+            ]
+        },
+        {
+            "file_id": "7764fa6ffeeac7dbd9cc2e693290a608",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Mork e il rimprovero mendicato",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.010 - Mork e il rimprovero mendicato.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7764fa6ffeeac7dbd9cc2e693290a608"
+                }
+            ]
+        },
+        {
+            "file_id": "c714119c2e058f2807185f03a4898d9a",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "Mindy trova lavoro",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.011 - Mindy trova lavoro.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c714119c2e058f2807185f03a4898d9a"
+                }
+            ]
+        },
+        {
+            "file_id": "f8fa61ae4d3bd4563abe91d9047f82db",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "Dodici apparecchi furiosi",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.012 - Dodici apparecchi furiosi.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f8fa61ae4d3bd4563abe91d9047f82db"
+                }
+            ]
+        },
+        {
+            "file_id": "5dbf4d6a3e6e54b684a7750963dec6d0",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "C\u2019\u00e8 un nuovo Mork in citt\u00e0",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.013 - C\u2019\u00e8 un nuovo Mork in citt\u00e0.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5dbf4d6a3e6e54b684a7750963dec6d0"
+                }
+            ]
+        },
+        {
+            "file_id": "85201e8c89ac852a5ce415ccef88552f",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "Mork ha un sosia, purtroppo",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.014 - Mork ha un sosia, purtroppo.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85201e8c89ac852a5ce415ccef88552f"
+                }
+            ]
+        },
+        {
+            "file_id": "4f700f2bdbd0f7ace6101cf9baa2901d",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Di Mindy ce n\u2019\u00e8 una sola",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.015 - Di Mindy ce n\u2019\u00e8 una sola.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f700f2bdbd0f7ace6101cf9baa2901d"
+                }
+            ]
+        },
+        {
+            "file_id": "822faa377435204014ec8ceb0b3e3419",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "Mork si d\u00e0 alla vita",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.016 - Mork si d\u00e0 alla vita.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/822faa377435204014ec8ceb0b3e3419"
+                }
+            ]
+        },
+        {
+            "file_id": "a57cdf42673311a6f66a9b702df71544",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 17,
+            "genre": ["Commedia"],
+            "title": "Mork e Mindy, Ricky e Ruby",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.017 - Mork e Mindy, Ricky e Ruby.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a57cdf42673311a6f66a9b702df71544"
+                }
+            ]
+        },
+        {
+            "file_id": "d90a7df81d6d69e347327d64158affe3",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 18,
+            "genre": ["Commedia"],
+            "title": "Mork e la riunione di famiglia",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.018 - Mork e la riunione di famiglia.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d90a7df81d6d69e347327d64158affe3"
+                }
+            ]
+        },
+        {
+            "file_id": "ac7296051a6d7054991dd2eabbf7f680",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 19,
+            "genre": ["Commedia"],
+            "title": "Mork il terrore dei rapinatori",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.019 - Mork il terrore dei rapinatori.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ac7296051a6d7054991dd2eabbf7f680"
+                }
+            ]
+        },
+        {
+            "file_id": "8e3b54a06b372094a13c7ac9747f88fe",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 20,
+            "genre": ["Commedia"],
+            "title": "Mork comare pettegola",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.020 - Mork comare pettegola.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8e3b54a06b372094a13c7ac9747f88fe"
+                }
+            ]
+        },
+        {
+            "file_id": "6920fabc3a4af17f50d2c178fe2e3df2",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 21,
+            "genre": ["Commedia"],
+            "title": "Mindy e Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.021 - Mindy e Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6920fabc3a4af17f50d2c178fe2e3df2"
+                }
+            ]
+        },
+        {
+            "file_id": "510d0a1f543780671f8fc8fdf099c693",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 3,
+            "episode": 22,
+            "genre": ["Commedia"],
+            "title": "Riflessioni e rimpianti",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/3.022 - Riflessioni e rimpianti.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/510d0a1f543780671f8fc8fdf099c693"
+                }
+            ]
+        },
+        {
+            "file_id": "e608f179b34f5c9f0e4c3c6c78dc656c",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Commedia"],
+            "title": "Mork si dichiara",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.001 - Mork si dichiara.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e608f179b34f5c9f0e4c3c6c78dc656c"
+                }
+            ]
+        },
+        {
+            "file_id": "054ed4374269764ac72535018c5971df",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Commedia"],
+            "title": "Le nozze di Mork e Mindy",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.002 - Le nozze di Mork e Mindy.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/054ed4374269764ac72535018c5971df"
+                }
+            ]
+        },
+        {
+            "file_id": "4d0143641923c61384a4e26359dc8cf9",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Commedia"],
+            "title": "Luna di miele",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.003 - Luna di miele.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d0143641923c61384a4e26359dc8cf9"
+                }
+            ]
+        },
+        {
+            "file_id": "e1a65c19cc0e0ae47e32baedcbb2f81d",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Commedia"],
+            "title": "Un parto difficile",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.004 - Un parto difficile.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e1a65c19cc0e0ae47e32baedcbb2f81d"
+                }
+            ]
+        },
+        {
+            "file_id": "f4aa3890e7394f6f4296cbc9d5ba97ba",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Commedia"],
+            "title": "Un figlio fuori del normale",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.005 - Un figlio fuori del normale.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4aa3890e7394f6f4296cbc9d5ba97ba"
+                }
+            ]
+        },
+        {
+            "file_id": "feacd217f3ea705ca3ca07ad88aa561f",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Commedia"],
+            "title": "Pap\u00e0 sei grande",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.006 - Pap\u00e0 sei grande.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/feacd217f3ea705ca3ca07ad88aa561f"
+                }
+            ]
+        },
+        {
+            "file_id": "cf35dbfd71f8c0ce55548d3935d7ed01",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Commedia"],
+            "title": "Prima che c\u2019incontrassimo",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.007 - Prima che c\u2019incontrassimo.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf35dbfd71f8c0ce55548d3935d7ed01"
+                }
+            ]
+        },
+        {
+            "file_id": "10f33193570041067bf14a8fc2adef3b",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Commedia"],
+            "title": "Il povero Mork diventa ricco",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.008 - Il povero Mork diventa ricco.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10f33193570041067bf14a8fc2adef3b"
+                }
+            ]
+        },
+        {
+            "file_id": "51b1ac75ba6d17efe1f77b0c36f74783",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Commedia"],
+            "title": "Alienazione",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.009 - Alienazione.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/51b1ac75ba6d17efe1f77b0c36f74783"
+                }
+            ]
+        },
+        {
+            "file_id": "c90ea073f0b2cc51b4b46a35804d3674",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Commedia"],
+            "title": "Mearth, lo scolaro del 2001",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.010 - Mearth, lo scolaro del 2001.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c90ea073f0b2cc51b4b46a35804d3674"
+                }
+            ]
+        },
+        {
+            "file_id": "43e41d2bbc1fc763b1156933581659aa",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 11,
+            "genre": ["Commedia"],
+            "title": "L\u2019educazione sessuale",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.011 - L\u2019educazione sessuale.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43e41d2bbc1fc763b1156933581659aa"
+                }
+            ]
+        },
+        {
+            "file_id": "fdfa821b794859c0e30b97c3fbb7946e",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 12,
+            "genre": ["Commedia"],
+            "title": "L\u2019importante \u00e8 amarsi",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.012 - L\u2019importante \u00e8 amarsi.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fdfa821b794859c0e30b97c3fbb7946e"
+                }
+            ]
+        },
+        {
+            "file_id": "0008f32abadf200cc78083336dd85b49",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 13,
+            "genre": ["Commedia"],
+            "title": "La metamorfosi",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.013 - La metamorfosi.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0008f32abadf200cc78083336dd85b49"
+                }
+            ]
+        },
+        {
+            "file_id": "4b12aaaca373ae1b9cac348aa2760169",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 14,
+            "genre": ["Commedia"],
+            "title": "E guida, disse",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.014 - E guida, disse.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b12aaaca373ae1b9cac348aa2760169"
+                }
+            ]
+        },
+        {
+            "file_id": "dcc8df4fd096a988df357ee50a0a7569",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 15,
+            "genre": ["Commedia"],
+            "title": "Non ricordo niente",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.015 - Non ricordo niente.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcc8df4fd096a988df357ee50a0a7569"
+                }
+            ]
+        },
+        {
+            "file_id": "51a6d01714904bab3c69743016fe2145",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 16,
+            "genre": ["Commedia"],
+            "title": "Mork e Mindy incontrano MILT",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.016 - Mork e Mindy incontrano MILT.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/51a6d01714904bab3c69743016fe2145"
+                }
+            ]
+        },
+        {
+            "file_id": "b1fd439aa6070175ff7481f09ffe38c3",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 17,
+            "genre": ["Commedia"],
+            "title": "Non \u00e8 tutto oro\u2026",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.017 - Non \u00e8 tutto oro\u2026.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b1fd439aa6070175ff7481f09ffe38c3"
+                }
+            ]
+        },
+        {
+            "file_id": "bc771b8183f1a0b933e3a3f7927836a5",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 18,
+            "genre": ["Commedia"],
+            "title": "Mindy finisce in prigione",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.018 - Mindy finisce in prigione.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bc771b8183f1a0b933e3a3f7927836a5"
+                }
+            ]
+        },
+        {
+            "file_id": "f96df2beb7facb40c6e81f3a63e18922",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 19,
+            "genre": ["Commedia"],
+            "title": "Fuggiamo insieme \u2013 parte 1",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.019 - Fuggiamo insieme \u2013 parte 1.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f96df2beb7facb40c6e81f3a63e18922"
+                }
+            ]
+        },
+        {
+            "file_id": "f30e998ce71e63ca408f1ae2ceea3135",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 20,
+            "genre": ["Commedia"],
+            "title": "Fuggiamo insieme \u2013 parte 2",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.020 - Fuggiamo insieme \u2013 parte 2.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f30e998ce71e63ca408f1ae2ceea3135"
+                }
+            ]
+        },
+        {
+            "file_id": "a8502d726b06cd0ad58ce47f84ab0ba1",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 21,
+            "genre": ["Commedia"],
+            "title": "Fuggiamo insieme \u2013 parte 3",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.021 - Fuggiamo insieme \u2013 parte 3.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8502d726b06cd0ad58ce47f84ab0ba1"
+                }
+            ]
+        },
+        {
+            "file_id": "b95f791b2735cc3b2c2e0b1faa2a233a",
+            "tmdb_id": 2552,
+            "saga": "Mork e Mindy",
+            "season": 4,
+            "episode": 22,
+            "genre": ["Commedia"],
+            "title": "Il resoconto di Mork",
+            "fname": "/SerieTV/Mork e Mindy (1978) [a2552]/4.022 - Il resoconto di Mork.avi",
+            "year": "1978",
+            "actors": ["Robin Williams", "Pam Dawber", "Gina Hecht", "Jay Thomas", "Ralph James", "Shelley Fabares", "Tom Poston"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b95f791b2735cc3b2c2e0b1faa2a233a"
+                }
+            ]
+        }
     ]
 }

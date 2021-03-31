@@ -1,304 +1,429 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 66732,
-			"number": "1x1",
-			"saga": "Stranger Things",
-			"title": "Capitolo primo la scomparsa di Will Byers",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/dc38f859f2937a1c5f545eaa8bed3365"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x2",
-			"saga": "Stranger Things",
-			"title": "Capitolo due la stramba di Maple Street",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/c33bbfc9a106f6252fa42b9c159f03be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x3",
-			"saga": "Stranger Things",
-			"title": "Capitolo tre luci natalizie",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/7c530cbf8a22c51fd4a4d6c6fde019e8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x4",
-			"saga": "Stranger Things",
-			"title": "Capitolo quattro il corpo",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/67420c93cb3dc30bb91f9551dab8338a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x5",
-			"saga": "Stranger Things",
-			"title": "Capitolo cinque la pulce e l'acrobata",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/3a27026620091eb1da3ab6377bdeebde"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x6",
-			"saga": "Stranger Things",
-			"title": "Capitolo sei il mostro",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/bd5093936c62f40d63f71bdd4ac6b0bd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x7",
-			"saga": "Stranger Things",
-			"title": "Capitolo sette la vasca da bagno",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/37f66bd1ffbe9f62b7db2ce7ed4c23a1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "1x8",
-			"saga": "Stranger Things",
-			"title": "Capitolo otto il sottosopra",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/3897d0a8b8969478434bd95ae31de9f7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x1",
-			"saga": "Stranger Things",
-			"title": "Capitolo uno Mad Max",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/c58dd5ce0b4fd2087b23f684b693d8ea"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x2",
-			"saga": "Stranger Things",
-			"title": "Capitolo uno Mad Max",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/fcfc72af6505aa6974d94c9c8c73171e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x3",
-			"saga": "Stranger Things",
-			"title": "Capitolo tre Il girino",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/592170d9b28356e437ed5e18ba056748"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x4",
-			"saga": "Stranger Things",
-			"title": "Capitolo quattro Will il saggio",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/bbce2be1c779d50fd46706c7f527f159"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x5",
-			"saga": "Stranger Things",
-			"title": "Capitolo cinque Dig Dug",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/4b523bd91586e06d651f93d5cbbadce2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x6",
-			"saga": "Stranger Things",
-			"title": "Capitolo sei La spia",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/a1a0085f29c61447d16fdb26d94b9ed5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x7",
-			"saga": "Stranger Things",
-			"title": "Capitolo sette La sorella perduta",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/e0a3b3a7006b4c7529370e39bf10ffa6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x8",
-			"saga": "Stranger Things",
-			"title": "Capitolo otto Il Mind Flayer",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/55a4654eac25c60b0f899a2ed37bac54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "2x9",
-			"saga": "Stranger Things",
-			"title": "Capitolo nove La porta",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/12026e484148ad77b4427158f8d26d1b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x1",
-			"saga": "Stranger Things",
-			"title": "Capitolo uno Suzie, mi ricevi",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/f2fade30d221d240859a46af376975fd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x2",
-			"saga": "Stranger Things",
-			"title": "Capitolo due Incubi",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/c24a65f04f21e7a676e0efd7684358c3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x3",
-			"saga": "Stranger Things",
-			"title": "Capitolo tre Il caso della bagnina scomparsa",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/48178b40492a65ac1bddd83ac84d58bd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x4",
-			"saga": "Stranger Things",
-			"title": "Capitolo quattro La sauna",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/5c2894b506027893c6641585efa078a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x5",
-			"saga": "Stranger Things",
-			"title": "Capitolo cinque L'origine",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/2754a6b2863f7dc14e9d5eb110cd652e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x6",
-			"saga": "Stranger Things",
-			"title": "Capitolo sei Il compleanno",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/73da4f238aab7dc0f7493c55441797b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x7",
-			"saga": "Stranger Things",
-			"title": "Capitolo sette Il Morso",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/0dfc04140ef30c3419e8024348fb71d2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 66732,
-			"number": "3x8",
-			"saga": "Stranger Things",
-			"title": "Capitolo otto La battaglia di Starcourt",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/a4f9c10ce272e626282abbe83b258086"
-				}
-			]
-		}
+            "file_id": "4903fd4cb2b5bd211c9c74916fbe0ce0",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo primo la scomparsa di Will Byers",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.001 - Capitolo primo la scomparsa di Will Byers.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4903fd4cb2b5bd211c9c74916fbe0ce0"
+                }
+            ]
+        },
+        {
+            "file_id": "e36df91be69efff32c5d2f4eb08ed26b",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo due la stramba di Maple Street",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.002 - Capitolo due la stramba di Maple Street.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e36df91be69efff32c5d2f4eb08ed26b"
+                }
+            ]
+        },
+        {
+            "file_id": "9c37fb8f49507579ba5f0c5fa63fac88",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo tre luci natalizie",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.003 - Capitolo tre luci natalizie.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9c37fb8f49507579ba5f0c5fa63fac88"
+                }
+            ]
+        },
+        {
+            "file_id": "1e4807b45db3048dbcc7422f4be9b20a",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo quattro il corpo",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.004 - Capitolo quattro il corpo.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e4807b45db3048dbcc7422f4be9b20a"
+                }
+            ]
+        },
+        {
+            "file_id": "4fafdf5077b40087b8ee94c2c94146ba",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo cinque la pulce e l'acrobata",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.005 - Capitolo cinque la pulce e l'acrobata.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4fafdf5077b40087b8ee94c2c94146ba"
+                }
+            ]
+        },
+        {
+            "file_id": "4d1528cca13e23898b589e42de81c5ec",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sei il mostro",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.006 - Capitolo sei il mostro.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d1528cca13e23898b589e42de81c5ec"
+                }
+            ]
+        },
+        {
+            "file_id": "8e5ba9dfd6793d69b2db99008ff75f86",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sette la vasca da bagno",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.007 - Capitolo sette la vasca da bagno.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8e5ba9dfd6793d69b2db99008ff75f86"
+                }
+            ]
+        },
+        {
+            "file_id": "5a54356a602c18a742494d520c68e81c",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo otto il sottosopra",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/1.008 Capitolo otto il sottosopra.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a54356a602c18a742494d520c68e81c"
+                }
+            ]
+        },
+        {
+            "file_id": "2b0e8b5a59f6b091f45c6925fe0ee3df",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo uno Mad Max",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.001 - Capitolo uno Mad Max.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2b0e8b5a59f6b091f45c6925fe0ee3df"
+                }
+            ]
+        },
+        {
+            "file_id": "242092d78b273e9e76526b9d45fc8422",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo uno Mad Max",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.002 - Capitolo uno Mad Max.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/242092d78b273e9e76526b9d45fc8422"
+                }
+            ]
+        },
+        {
+            "file_id": "0134d275da0300b1687724b3c90eb0c7",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo tre Il girino",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.003 - Capitolo tre Il girino.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0134d275da0300b1687724b3c90eb0c7"
+                }
+            ]
+        },
+        {
+            "file_id": "b8ffd7cc1f868ab167bb2a14df800ed7",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo quattro Will il saggio",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.004 - Capitolo quattro Will il saggio.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b8ffd7cc1f868ab167bb2a14df800ed7"
+                }
+            ]
+        },
+        {
+            "file_id": "0262d2d682d7d85797bc4a0a26240dfb",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo cinque Dig Dug",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.005 - Capitolo cinque Dig Dug.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0262d2d682d7d85797bc4a0a26240dfb"
+                }
+            ]
+        },
+        {
+            "file_id": "ffdc2f9adf32d29661b7616729855051",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sei La spia",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.006 - Capitolo sei La spia.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ffdc2f9adf32d29661b7616729855051"
+                }
+            ]
+        },
+        {
+            "file_id": "1ce446653a52af99a98bba862f753432",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sette La sorella perduta",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.007 - Capitolo sette La sorella perduta.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ce446653a52af99a98bba862f753432"
+                }
+            ]
+        },
+        {
+            "file_id": "6255463352460ab66bb881324395a63f",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo otto Il Mind Flayer",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.008 - Capitolo otto Il Mind Flayer.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6255463352460ab66bb881324395a63f"
+                }
+            ]
+        },
+        {
+            "file_id": "da3f2f42991cf2230513389860036395",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo nove La porta",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/2.009 - Capitolo nove La porta.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da3f2f42991cf2230513389860036395"
+                }
+            ]
+        },
+        {
+            "file_id": "509c32c45cccb54282fece3bb9e393bc",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo uno Suzie, mi ricevi",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.001 - Capitolo uno Suzie, mi ricevi.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/509c32c45cccb54282fece3bb9e393bc"
+                }
+            ]
+        },
+        {
+            "file_id": "c82030ffcfb4e52f0441bd7dd49b481e",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo due Incubi",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.002 - Capitolo due Incubi.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c82030ffcfb4e52f0441bd7dd49b481e"
+                }
+            ]
+        },
+        {
+            "file_id": "9b366973d2201eb15d069f9d50b48077",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo tre Il caso della bagnina scomparsa",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.003 - Capitolo tre Il caso della bagnina scomparsa.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9b366973d2201eb15d069f9d50b48077"
+                }
+            ]
+        },
+        {
+            "file_id": "90c004b3be81ace48a192bff140bce4f",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo quattro La sauna",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.004 - Capitolo quattro La sauna.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/90c004b3be81ace48a192bff140bce4f"
+                }
+            ]
+        },
+        {
+            "file_id": "477902ad9b7fad50d4899143258c96e6",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo cinque L'origine",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.005 - Capitolo cinque L'origine.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/477902ad9b7fad50d4899143258c96e6"
+                }
+            ]
+        },
+        {
+            "file_id": "5a10e988db500941090e43b573cac11a",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sei Il compleanno",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.006 - Capitolo sei Il compleanno.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a10e988db500941090e43b573cac11a"
+                }
+            ]
+        },
+        {
+            "file_id": "39838a41198d74597825479d890e19df",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo sette Il Morso",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.007 - Capitolo sette Il Morso.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/39838a41198d74597825479d890e19df"
+                }
+            ]
+        },
+        {
+            "file_id": "fd64eabe796b63fc42e9ca5fbce2154f",
+            "tmdb_id": 66732,
+            "saga": "Stranger Things",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Mistero", "Sci-Fi & Fantasy", "Dramma"],
+            "title": "Capitolo otto La battaglia di Starcourt",
+            "fname": "/SerieTV/Stranger Things (2016) [a66732]/3.008 - Capitolo otto La battaglia di Starcourt.mp4",
+            "year": "2016",
+            "actors": ["Winona Ryder", "David Harbour", "Finn Wolfhard", "Millie Bobby Brown", "Gaten Matarazzo", "Caleb McLaughlin", "Natalia Dyer", "Charlie Heaton", "Sadie Sink", "Dacre Montgomery", "Cara Buono", "Noah Schnapp", "Joe Keery", "Priah Ferguson", "Maya Hawke"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fd64eabe796b63fc42e9ca5fbce2154f"
+                }
+            ]
+        }
     ]
 }
