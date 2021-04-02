@@ -1,1267 +1,2261 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 1402,
-			"number": "1x1",
-			"saga": "The Walking Dead",
-			"title": "I giorni andati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d5cf3fe8714253141bac6ccc8ad8f6dc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "1x2",
-			"saga": "The Walking Dead",
-			"title": "Una via d`uscita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/50b9e85f80291fc013845b26adaf6cce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "1x3",
-			"saga": "The Walking Dead",
-			"title": "Bentornato papà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7764f21b1e97f2d70033921b9b1218a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "1x4",
-			"saga": "The Walking Dead",
-			"title": "Vatos",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd4fdd4e327d466a47f5e94b165da777"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "1x5",
-			"saga": "The Walking Dead",
-			"title": "Esperimenti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8579940ab6e13571a436c1af2ae1a2e8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "1x6",
-			"saga": "The Walking Dead",
-			"title": "TS-19",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dd6fc4e8aa73c8f19726a055eabde6b9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x1",
-			"saga": "The Walking Dead",
-			"title": "La strada da percorrere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a9658653868eedcdde98dc3b0d182ec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x2",
-			"saga": "The Walking Dead",
-			"title": "Sangue del mio sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/637dffd5d0794f8c15e388846e2175e4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x3",
-			"saga": "The Walking Dead",
-			"title": "Sopravvivere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ebf11f35f0108b23f004888c1b5cff99"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x4",
-			"saga": "The Walking Dead",
-			"title": "La rosa Cherokee",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b8e8fc035866ff393fa8d334602c03cd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x5",
-			"saga": "The Walking Dead",
-			"title": "Il ritrovamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/30ed27f1a1f69ba0d094c390cdad000f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x6",
-			"saga": "The Walking Dead",
-			"title": "Segreti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5197f26d221c8d05d70a11e02d3af5c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x7",
-			"saga": "The Walking Dead",
-			"title": "Muore la speranza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db4453517ea96d7f5ab7352cc4035a1c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x8",
-			"saga": "The Walking Dead",
-			"title": "Nebraska",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d4a3225ab016db20d6e7477f08e287ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x9",
-			"saga": "The Walking Dead",
-			"title": "Grilletto facile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/91932ceec8a10903de94b8192f026dc5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x10",
-			"saga": "The Walking Dead",
-			"title": "Scelte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d64b6987610abf0dcbf4324ca4c6edf3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x11",
-			"saga": "The Walking Dead",
-			"title": "La sentenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be4cc01553183e90479b5b2698d9b3e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x12",
-			"saga": "The Walking Dead",
-			"title": "Il giustiziere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8a796191e0b805e9bfa4391f815ea6d0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "2x13",
-			"saga": "The Walking Dead",
-			"title": "La linea del fuoco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8f795bfa18d664c27f82745efe2377ef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x1",
-			"saga": "The Walking Dead",
-			"title": "Casa dolce casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f1a1ce7f33b5ee625890e9b8f6f94b80"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x2",
-			"saga": "The Walking Dead",
-			"title": "Il risveglio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93dabbaed5d25ebbeb91f48620e9d4aa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x3",
-			"saga": "The Walking Dead",
-			"title": "Benvenuti a Woodbury",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/67f156ff552d0e5c8f754d3a0d11d628"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x4",
-			"saga": "The Walking Dead",
-			"title": "Dentro e fuori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bfae8396cad03d48fa74370a08da68e2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x5",
-			"saga": "The Walking Dead",
-			"title": "Basta una parola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/838a2c541b5fd8cb2f1f32b3cb17d27c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x6",
-			"saga": "The Walking Dead",
-			"title": "La preda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3bc0b62dd470e7fff2e377316c01d361"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x7",
-			"saga": "The Walking Dead",
-			"title": "Infiltrati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3917956de9856fb5ed1ea1cb6e4282b1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x8",
-			"saga": "The Walking Dead",
-			"title": "Fatti per soffrire",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db8b4816615c565a8cb5fab52ef23030"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x9",
-			"saga": "The Walking Dead",
-			"title": "Fratello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b763469c003360e892eed0664bd47bce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x10",
-			"saga": "The Walking Dead",
-			"title": "Bentornato a casa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/405786beb58ee33483d4d7e2a07f757a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x11",
-			"saga": "The Walking Dead",
-			"title": "Giuda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/879aa1365f778a075c2b61197d6eb4e1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x12",
-			"saga": "The Walking Dead",
-			"title": "Ripulire",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9ef63b2fe87eeb0e9cfcb585f2175ca1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x13",
-			"saga": "The Walking Dead",
-			"title": "Apri gli occhi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/131381e21000aac248b482825ca8d63b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x14",
-			"saga": "The Walking Dead",
-			"title": "Vendetta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/88e0e826be53844ee4cba18c704a8229"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x15",
-			"saga": "The Walking Dead",
-			"title": "L`inganno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e76e15311fe9ac9e148d5d3cd70c2d45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "3x16",
-			"saga": "The Walking Dead",
-			"title": "Nelle tombe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/961cd74de1e920e11cf5fbd43029940c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x1",
-			"saga": "The Walking Dead",
-			"title": "Calma apparente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7e3606d934d87f84c2bd07eca16b6415"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x2",
-			"saga": "The Walking Dead",
-			"title": "Infetto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/85b790a00d084b81a2a9d552c9cd646c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x3",
-			"saga": "The Walking Dead",
-			"title": "Isolamento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/368bb34a6fd95851b9876d7a55a1f6a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x4",
-			"saga": "The Walking Dead",
-			"title": "Indifferenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5236b7e473c870f31b0303e598936c14"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x5",
-			"saga": "The Walking Dead",
-			"title": "L`inferno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2b89eb693d2210e300937f8abd710bdb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x6",
-			"saga": "The Walking Dead",
-			"title": "L`esca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/04f730a0053187accbf743385d0d2608"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x7",
-			"saga": "The Walking Dead",
-			"title": "Peso morto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/66ead8e2118ed3deae31b28017017cb8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x8",
-			"saga": "The Walking Dead",
-			"title": "Indietro non si torna",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4a8adbf4fb056105905a4f5f6630be2e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x9",
-			"saga": "The Walking Dead",
-			"title": "Smarriti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6005a9e9a8a62df8e34792c3800dbd11"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x10",
-			"saga": "The Walking Dead",
-			"title": "Detenuti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eb4eefcf0bc2a29f321aa0f4e3deea54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x11",
-			"saga": "The Walking Dead",
-			"title": "Salvare il mondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/31e60a0b19c70a013378b8190ed9b8b7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x12",
-			"saga": "The Walking Dead",
-			"title": "Non tutto è perduto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6a3a1f34342575b2956472ffd80f3344"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x13",
-			"saga": "The Walking Dead",
-			"title": "Solo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/83ded769706a9f801325e6c04b9b9638"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x14",
-			"saga": "The Walking Dead",
-			"title": "Il bosco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/501118e8784ad7acbe4d51b24990cc54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x15",
-			"saga": "The Walking Dead",
-			"title": "Noi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9b81dccdeaf0fd6616a45d0df9070a4d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "4x16",
-			"saga": "The Walking Dead",
-			"title": "A",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a14a50a06dca7b8f568f536a679d5c8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x1",
-			"saga": "The Walking Dead",
-			"title": "Preda e cacciatore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0a24488a659a88bd93a37d52a85bd650"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x2",
-			"saga": "The Walking Dead",
-			"title": "Sconosciuti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b03437e85548269760c84614636a952b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x3",
-			"saga": "The Walking Dead",
-			"title": "Un tetto e quattro mura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e37e2fd329822338c17634588b5915da"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x4",
-			"saga": "The Walking Dead",
-			"title": "Il prezzo della salvezza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b2f3755591b4704555a646a97c35360d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x5",
-			"saga": "The Walking Dead",
-			"title": "Sabotaggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d33f5e59869adfb8ccac11c2f10db7e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x6",
-			"saga": "The Walking Dead",
-			"title": "Consumati",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/728ec77bb09ee78ce15fd9ba4255cfc1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x7",
-			"saga": "The Walking Dead",
-			"title": "Lo scambio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/472043116eb27fbfbda742b2fdfab913"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x8",
-			"saga": "The Walking Dead",
-			"title": "Conclusione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5a0de6864a36b0ce76c790cba052aba9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x9",
-			"saga": "The Walking Dead",
-			"title": "Non è finita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6bccd091ffe566a9f52f872ee65053af"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x10",
-			"saga": "The Walking Dead",
-			"title": "Loro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0fd9dfc562da6d2667735e8dab85b3de"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x11",
-			"saga": "The Walking Dead",
-			"title": "La distanza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79e7768e987e671764d6c42e44d0a246"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x12",
-			"saga": "The Walking Dead",
-			"title": "Benvenuti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d52241645b8386d8ea10c16ec4130b4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x13",
-			"saga": "The Walking Dead",
-			"title": "Dimenticare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/79a7f0f33f8e840e8ed4b80a4fe47afd"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x14",
-			"saga": "The Walking Dead",
-			"title": "Trascorrere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/72d172797cbe8dc25bdc2b3e5adf1ebb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x15",
-			"saga": "The Walking Dead",
-			"title": "Provare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/364a295b613f43296f77291f9f4a3d30"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "5x16",
-			"saga": "The Walking Dead",
-			"title": "Conquistare",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d4aca65c048d5810e6a56a40965ac22"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x1",
-			"saga": "The Walking Dead",
-			"title": "Come la prima volta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7cb8f451a122a17c2afc72201dc76ac0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x2",
-			"saga": "The Walking Dead",
-			"title": "L`attacco dei lupi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bd8c8a5397c6a5c56f3f9537c739e184"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x3",
-			"saga": "The Walking Dead",
-			"title": "Grazie",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d0e81fb3331a399342f0f26ee98e6f6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x4",
-			"saga": "The Walking Dead",
-			"title": "Qui non è qui",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/889b470448239c4d9860555821479214"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x5",
-			"saga": "The Walking Dead",
-			"title": "Adesso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9667dce519866811d1919e0460321590"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x6",
-			"saga": "The Walking Dead",
-			"title": "Al sicuro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/519617452172c7525f626eff2b9c7073"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x7",
-			"saga": "The Walking Dead",
-			"title": "Non lasciare che muoia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dea3d43288d842d20ffe85ff9ef7db3d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x8",
-			"saga": "The Walking Dead",
-			"title": "L`inizio e la fine",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d86f53874669df4d3fbf3152e777e380"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x9",
-			"saga": "The Walking Dead",
-			"title": "Nessuna via d`uscita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8819ea255446c54325e06fd9a9401b73"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x10",
-			"saga": "The Walking Dead",
-			"title": "La legge della probabilità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/287932b3af96e1ac76e31ebefe31d6de"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x11",
-			"saga": "The Walking Dead",
-			"title": "I nodi si sciolgono",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1321735ec2b825340dfaa24334ac293"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x12",
-			"saga": "The Walking Dead",
-			"title": "Non è ancora domani",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/daf353c2a4405a7719007722ddf5027a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x13",
-			"saga": "The Walking Dead",
-			"title": "Nella stessa barca",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d59ee5f53de5c860e00878bbcff0cbce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x14",
-			"saga": "The Walking Dead",
-			"title": "Il secondo livello",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c400323b0674c266b6ae40118a9aa067"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x15",
-			"saga": "The Walking Dead",
-			"title": "Il cerchio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/90c2065225ae0657d860fd282af7ee85"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "6x16",
-			"saga": "The Walking Dead",
-			"title": "L`ultimo giorno sulla Terra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/95bfb60b6a530ea8269bdfbfa4a6a70b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x1",
-			"saga": "The Walking Dead",
-			"title": "Io ti ucciderò",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0b08be40eb782dbf592b836841ed2866"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x2",
-			"saga": "The Walking Dead",
-			"title": "Il regno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8bb05d7a620e3d910dda4e9421d4d20f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x3",
-			"saga": "The Walking Dead",
-			"title": "La cella",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/974e08904a051e58ea09b474e50a6349"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x4",
-			"saga": "The Walking Dead",
-			"title": "Al tuo servizio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d8fc72d51829354949ca744219017b9"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x5",
-			"saga": "The Walking Dead",
-			"title": "Codardi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d3773f02d85750b1c84e578feac89a35"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x6",
-			"saga": "The Walking Dead",
-			"title": "Giura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/36770342f4869913c90dc9baf25783c5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x7",
-			"saga": "The Walking Dead",
-			"title": "Tu sei il mio sole",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fdc971b733a29ab30a2f844cb9253e52"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x8",
-			"saga": "The Walking Dead",
-			"title": "I cuori battono ancora",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/041e262c6ac35fc530ddedb87f997d52"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x9",
-			"saga": "The Walking Dead",
-			"title": "Ci vuole coraggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1386823882c9f7180ea96d677d8947c7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x10",
-			"saga": "The Walking Dead",
-			"title": "Uniti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e13b59485c477f17747d426a44c1071"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x11",
-			"saga": "The Walking Dead",
-			"title": "Fidati, non fidarti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/831980f68bbc8014be30c6dbec646547"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x12",
-			"saga": "The Walking Dead",
-			"title": "E` giunto il momento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5591a2484a4a206e3c78c2a63a27d83b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x13",
-			"saga": "The Walking Dead",
-			"title": "Seppellitemi qui",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ae4854173850e84feea5499e9caa5d45"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x14",
-			"saga": "The Walking Dead",
-			"title": "L`altro lato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/637c69d954ab6ae9ef45a9926b220dda"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x15",
-			"saga": "The Walking Dead",
-			"title": "Accetta l`offerta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a7d5c9c46f4f2af137950c13d6beb73d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "7x16",
-			"saga": "The Walking Dead",
-			"title": "Il primo giorno del resto della tua vita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f9f5c64068628f1cf0ada143c609f7b1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x1",
-			"saga": "The Walking Dead",
-			"title": "Possa la mia misericordia prevalere sulla mia ira",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cd461e32b51dfb9c6de862fe83d989b3"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x2",
-			"saga": "The Walking Dead",
-			"title": "Eppure sorrido",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2e2d9648439d70844ee63e7b4c2bba92"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x3",
-			"saga": "The Walking Dead",
-			"title": "Il mostro che è in noi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/89ccc59c61d4b0321c7a311339a9e9ba"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x4",
-			"saga": "The Walking Dead",
-			"title": "Uno qualunque",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a7d0facdd8ebe0b6de20e2c00b01d412"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x5",
-			"saga": "The Walking Dead",
-			"title": "I peccati di Negan",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e9c097727b6bd4df260526de8be4834d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x6",
-			"saga": "The Walking Dead",
-			"title": "Il re, la vedova e Rick",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6072bd006ba88a82692334703b2b521d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x7",
-			"saga": "The Walking Dead",
-			"title": "La cosa giusta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b63fddcbd3ba4be5e96cfa3cf8aa5fe4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x8",
-			"saga": "The Walking Dead",
-			"title": "E` così che deve essere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6cccddddaa1832ad707adaeb5a48f71b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x9",
-			"saga": "The Walking Dead",
-			"title": "Onore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f5137ffc4883c4e182d725612726752d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x10",
-			"saga": "The Walking Dead",
-			"title": "Hai già perso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ff021ad23094374940715fb953dbc57a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x11",
-			"saga": "The Walking Dead",
-			"title": "Morti o vivi o",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b4aa55659dd096f153a259578114b310"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x12",
-			"saga": "The Walking Dead",
-			"title": "La chiave",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62743af5036afffaf941bdd9aa9537a1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x13",
-			"saga": "The Walking Dead",
-			"title": "Fuori strada",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/686cec1f7af1bf785e416b2d75fabef2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x14",
-			"saga": "The Walking Dead",
-			"title": "La parola di un uomo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/59701e259bef0cd85feebb78886704db"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x15",
-			"saga": "The Walking Dead",
-			"title": "Il valore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75ecdbec549ea394878c74ede5375b19"
-				}
-			]
-		},
-		{
-			"tmdb_id": 1402,
-			"number": "8x16",
-			"saga": "The Walking Dead",
-			"title": "Ira",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d64babb829720af95756223ab617e85"
+            "file_id": "a8700009c837846d051b4c3160e207c6",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "I giorni andati",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.001 - I giorni andati.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a8700009c837846d051b4c3160e207c6"
+                }
+            ]
+        },
+        {
+            "file_id": "d87828d822b7e9a352d75ca74da37169",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Una via d`uscita",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.002 - Una via d`uscita.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d87828d822b7e9a352d75ca74da37169"
+                }
+            ]
+        },
+        {
+            "file_id": "bf2cd668948d561aeb2651aa84710b80",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Bentornato pap\u00e0",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.003 - Bentornato pap\u00e0.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bf2cd668948d561aeb2651aa84710b80"
+                }
+            ]
+        },
+        {
+            "file_id": "122c0cdd8cf7761cde73209d161710fb",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Vatos",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.004 - Vatos.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/122c0cdd8cf7761cde73209d161710fb"
+                }
+            ]
+        },
+        {
+            "file_id": "30c6807dfd488fd2e8b0c327002401b7",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Esperimenti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.005 - Esperimenti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/30c6807dfd488fd2e8b0c327002401b7"
+                }
+            ]
+        },
+        {
+            "file_id": "d5a1cccbaf408b406ae3e2f827df086d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "TS-19",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/1.006 - TS-19.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d5a1cccbaf408b406ae3e2f827df086d"
+                }
+            ]
+        },
+        {
+            "file_id": "02a3d5e82ea1907358f2bc478d82f7a7",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La strada da percorrere",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.001 - La strada da percorrere.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/02a3d5e82ea1907358f2bc478d82f7a7"
+                }
+            ]
+        },
+        {
+            "file_id": "0f2e9ec09011a90c622cf96465b578ea",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sangue del mio sangue",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.002 - Sangue del mio sangue.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f2e9ec09011a90c622cf96465b578ea"
+                }
+            ]
+        },
+        {
+            "file_id": "c1b823f63c91479cb54d491fe54f7668",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sopravvivere",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.003 - Sopravvivere.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c1b823f63c91479cb54d491fe54f7668"
+                }
+            ]
+        },
+        {
+            "file_id": "306310d882c0b472b4813a3d0119b2d9",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La rosa Cherokee",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.004 - La rosa Cherokee.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/306310d882c0b472b4813a3d0119b2d9"
+                }
+            ]
+        },
+        {
+            "file_id": "54c00000cfd98f772aedaf16b1f40b00",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il ritrovamento",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.005 - Il ritrovamento.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/54c00000cfd98f772aedaf16b1f40b00"
+                }
+            ]
+        },
+        {
+            "file_id": "da9778c72e2f5b301b5c0b48c24fa393",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Segreti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.006 - Segreti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da9778c72e2f5b301b5c0b48c24fa393"
+                }
+            ]
+        },
+        {
+            "file_id": "2e70d5a8bbad88737a384ca3dcb6bbe0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Muore la speranza",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.007 - Muore la speranza.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2e70d5a8bbad88737a384ca3dcb6bbe0"
+                }
+            ]
+        },
+        {
+            "file_id": "6a9d41adb4db007cdb6d9d29e4e992c2",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nebraska",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.008 - Nebraska.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a9d41adb4db007cdb6d9d29e4e992c2"
+                }
+            ]
+        },
+        {
+            "file_id": "82e320a78fd049c667dfe1e8bc16b9d1",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Grilletto facile",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.009 - Grilletto facile.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/82e320a78fd049c667dfe1e8bc16b9d1"
+                }
+            ]
+        },
+        {
+            "file_id": "a223aa6450298338672d8e1c36141178",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Scelte",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.010 - Scelte.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a223aa6450298338672d8e1c36141178"
+                }
+            ]
+        },
+        {
+            "file_id": "f4ba5a02ef8f15e9f71c6eb0e0f552dd",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La sentenza",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.011 - La sentenza.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4ba5a02ef8f15e9f71c6eb0e0f552dd"
+                }
+            ]
+        },
+        {
+            "file_id": "de952271872eeb15b92d0d412863a4ba",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il giustiziere",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.012 - Il giustiziere.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de952271872eeb15b92d0d412863a4ba"
+                }
+            ]
+        },
+        {
+            "file_id": "6ca4c8a5c169c406851923ecde683d43",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La linea del fuoco",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/2.013 - La linea del fuoco.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6ca4c8a5c169c406851923ecde683d43"
+                }
+            ]
+        },
+        {
+            "file_id": "b773123c60365a11659b59f261b43a10",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Casa dolce casa",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.001 - Casa dolce casa.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b773123c60365a11659b59f261b43a10"
+                }
+            ]
+        },
+        {
+            "file_id": "d68dee97cbb0e11885a8c8b37642e3f4",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il risveglio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.002 - Il risveglio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d68dee97cbb0e11885a8c8b37642e3f4"
+                }
+            ]
+        },
+        {
+            "file_id": "2774cf9e60af0e557ff73fb69903b087",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Benvenuti a Woodbury",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.003 - Benvenuti a Woodbury.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2774cf9e60af0e557ff73fb69903b087"
+                }
+            ]
+        },
+        {
+            "file_id": "a3d3d5af2285252c5be0d3ed22332461",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Dentro e fuori",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.004 - Dentro e fuori.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a3d3d5af2285252c5be0d3ed22332461"
+                }
+            ]
+        },
+        {
+            "file_id": "a1075dc4680ef226a5188bcf86c70230",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Basta una parola",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.005 - Basta una parola.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a1075dc4680ef226a5188bcf86c70230"
+                }
+            ]
+        },
+        {
+            "file_id": "952a57589409e9d9f4ab366d3bc2b40c",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La preda",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.006 - La preda.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/952a57589409e9d9f4ab366d3bc2b40c"
+                }
+            ]
+        },
+        {
+            "file_id": "a4163bd51a7bbb56e74041c253b0a4ea",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Infiltrati",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.007 - Infiltrati.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4163bd51a7bbb56e74041c253b0a4ea"
+                }
+            ]
+        },
+        {
+            "file_id": "ce2ee567bdf78d6b2d210d772a591a28",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Fatti per soffrire",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.008 - Fatti per soffrire.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ce2ee567bdf78d6b2d210d772a591a28"
+                }
+            ]
+        },
+        {
+            "file_id": "7034d3b9e491149c1eb122b385dd34d7",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Fratello",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.009 - Fratello.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7034d3b9e491149c1eb122b385dd34d7"
+                }
+            ]
+        },
+        {
+            "file_id": "2be7cc6c6430ac964d4c97bee092f3d0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Bentornato a casa",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.010 - Bentornato a casa.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2be7cc6c6430ac964d4c97bee092f3d0"
+                }
+            ]
+        },
+        {
+            "file_id": "d6ff528ed984378bb8f354d14c78113c",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Giuda",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.011 - Giuda.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d6ff528ed984378bb8f354d14c78113c"
+                }
+            ]
+        },
+        {
+            "file_id": "8125a0ab08242f50350232b91c6806c5",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ripulire",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.012 - Ripulire.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8125a0ab08242f50350232b91c6806c5"
+                }
+            ]
+        },
+        {
+            "file_id": "7a0c12ab18b37aab3c05f7953450a1fd",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Apri gli occhi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.013 - Apri gli occhi.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7a0c12ab18b37aab3c05f7953450a1fd"
+                }
+            ]
+        },
+        {
+            "file_id": "586b57f6ea32a5f3ba5a48927a3e8e88",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Vendetta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.014 - Vendetta.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/586b57f6ea32a5f3ba5a48927a3e8e88"
+                }
+            ]
+        },
+        {
+            "file_id": "2a7b55685f211e52428290786d92d2e3",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`inganno",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.015 - L`inganno.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a7b55685f211e52428290786d92d2e3"
+                }
+            ]
+        },
+        {
+            "file_id": "7f703b74caf7560ca3553eed493c6f59",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 3,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nelle tombe",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/3.016 - Nelle tombe.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7f703b74caf7560ca3553eed493c6f59"
+                }
+            ]
+        },
+        {
+            "file_id": "09134fbdea0c03aef7482a25bd1f9471",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Calma apparente",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.001 - Calma apparente.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/09134fbdea0c03aef7482a25bd1f9471"
+                }
+            ]
+        },
+        {
+            "file_id": "dcd39a1c696cba573398ad4a13c6565f",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Infetto",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.002 - Infetto.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcd39a1c696cba573398ad4a13c6565f"
+                }
+            ]
+        },
+        {
+            "file_id": "2d861dfffc77757e9f5a7a3a1689a252",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Isolamento",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.003 - Isolamento.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d861dfffc77757e9f5a7a3a1689a252"
+                }
+            ]
+        },
+        {
+            "file_id": "23e5629452b82aabe71de4ff68f361c0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Indifferenza",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.004 - Indifferenza.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23e5629452b82aabe71de4ff68f361c0"
+                }
+            ]
+        },
+        {
+            "file_id": "1dc60ff6ab128d5480409968074872ee",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`inferno",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.005 - L`inferno.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1dc60ff6ab128d5480409968074872ee"
+                }
+            ]
+        },
+        {
+            "file_id": "e2275a677d80689433ae05f4c3d5b2b1",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`esca",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.006 - L`esca.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2275a677d80689433ae05f4c3d5b2b1"
+                }
+            ]
+        },
+        {
+            "file_id": "6fe2d66f97ea64b5fe0172c213df7071",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Peso morto",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.007 - Peso morto.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6fe2d66f97ea64b5fe0172c213df7071"
+                }
+            ]
+        },
+        {
+            "file_id": "f0b26f8005f0261ae58e6d6f48fde4d0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Indietro non si torna",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.008 - Indietro non si torna.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f0b26f8005f0261ae58e6d6f48fde4d0"
+                }
+            ]
+        },
+        {
+            "file_id": "cee9b7de6ad46acb5416baa0a0e7ca82",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Smarriti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.009 - Smarriti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cee9b7de6ad46acb5416baa0a0e7ca82"
+                }
+            ]
+        },
+        {
+            "file_id": "07d2c42c07053f40a76458540dade382",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Detenuti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.010 - Detenuti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/07d2c42c07053f40a76458540dade382"
+                }
+            ]
+        },
+        {
+            "file_id": "1b5711e022944c0d0f5d1d8db6225c17",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Salvare il mondo",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.011 - Salvare il mondo.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b5711e022944c0d0f5d1d8db6225c17"
+                }
+            ]
+        },
+        {
+            "file_id": "3cb9d1ac62c87ed3dbd13a95321bb6a0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Non tutto \u00e8 perduto",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.012 - Non tutto \u00e8 perduto.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cb9d1ac62c87ed3dbd13a95321bb6a0"
+                }
+            ]
+        },
+        {
+            "file_id": "1f9f815e1228f566ba56c26bd9ee9e1e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Solo",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.013 - Solo.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1f9f815e1228f566ba56c26bd9ee9e1e"
+                }
+            ]
+        },
+        {
+            "file_id": "1b0e07e67b1dbbb646e6bd32c2f68202",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il bosco",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.014 - Il bosco.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b0e07e67b1dbbb646e6bd32c2f68202"
+                }
+            ]
+        },
+        {
+            "file_id": "569fc20315d74e3ff56df2e58a73fa15",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Noi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.015 - Noi.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/569fc20315d74e3ff56df2e58a73fa15"
+                }
+            ]
+        },
+        {
+            "file_id": "aca6fb707e4dadabb81d2e0e3d42b13d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 4,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "A",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/4.016 - A.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aca6fb707e4dadabb81d2e0e3d42b13d"
+                }
+            ]
+        },
+        {
+            "file_id": "cd9182d7be4825611b0d8a6b72c7673e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Preda e cacciatore",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.001 - Preda e cacciatore.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd9182d7be4825611b0d8a6b72c7673e"
+                }
+            ]
+        },
+        {
+            "file_id": "d44a2fed288a09d98a20aad17583d0be",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sconosciuti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.002 - Sconosciuti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d44a2fed288a09d98a20aad17583d0be"
+                }
+            ]
+        },
+        {
+            "file_id": "e00a1114da7ecff65439cf2d7d2c6044",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Un tetto e quattro mura",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.003 - Un tetto e quattro mura.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e00a1114da7ecff65439cf2d7d2c6044"
+                }
+            ]
+        },
+        {
+            "file_id": "108ba4e9518164c8e1fff20bcf0c3904",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il prezzo della salvezza",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.004 - Il prezzo della salvezza.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/108ba4e9518164c8e1fff20bcf0c3904"
+                }
+            ]
+        },
+        {
+            "file_id": "48bdf6f6df98385cfb313e998e63577a",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sabotaggio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.005 - Sabotaggio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/48bdf6f6df98385cfb313e998e63577a"
+                }
+            ]
+        },
+        {
+            "file_id": "99a5f6c1a83c4e48e6072901a5a06c25",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Consumati",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.006 - Consumati.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/99a5f6c1a83c4e48e6072901a5a06c25"
+                }
+            ]
+        },
+        {
+            "file_id": "0d7d2cb3e7aabe0c5cb3c2c944da973e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Lo scambio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.007 - Lo scambio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0d7d2cb3e7aabe0c5cb3c2c944da973e"
+                }
+            ]
+        },
+        {
+            "file_id": "0cca72cf6449a6a7d92a0efe8126bd62",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Conclusione",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.008 - Conclusione.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0cca72cf6449a6a7d92a0efe8126bd62"
+                }
+            ]
+        },
+        {
+            "file_id": "10a955bc7898ca814d5f5e8149f8f786",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Non \u00e8 finita",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.009 - Non \u00e8 finita.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/10a955bc7898ca814d5f5e8149f8f786"
+                }
+            ]
+        },
+        {
+            "file_id": "4a2a206ad6dd0f9667a8c01c53a62090",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Loro",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.010 - Loro.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4a2a206ad6dd0f9667a8c01c53a62090"
+                }
+            ]
+        },
+        {
+            "file_id": "1a7c297968e7a155b3c561af342e24e8",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La distanza",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.011 - La distanza.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a7c297968e7a155b3c561af342e24e8"
+                }
+            ]
+        },
+        {
+            "file_id": "316c70e12e04145e0b961c0f5724f39d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Benvenuti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.012 - Benvenuti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/316c70e12e04145e0b961c0f5724f39d"
+                }
+            ]
+        },
+        {
+            "file_id": "b712dcd2758c28cb8d6c687b32faa5fb",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Dimenticare",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.013 - Dimenticare.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b712dcd2758c28cb8d6c687b32faa5fb"
+                }
+            ]
+        },
+        {
+            "file_id": "0a9d9e06733d3d2d2d8e2e3f6dd39a6c",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Trascorrere",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.014 - Trascorrere.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0a9d9e06733d3d2d2d8e2e3f6dd39a6c"
+                }
+            ]
+        },
+        {
+            "file_id": "1913043f250d8f49162a4867b31c95e7",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Provare",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.015 - Provare.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1913043f250d8f49162a4867b31c95e7"
+                }
+            ]
+        },
+        {
+            "file_id": "26c01f52ae12060fceaaace1b7965c29",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 5,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Conquistare",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/5.016 - Conquistare.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/26c01f52ae12060fceaaace1b7965c29"
+                }
+            ]
+        },
+        {
+            "file_id": "6e0b49aeb6e916532b90b068710dfc43",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Come la prima volta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.001 - Come la prima volta.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6e0b49aeb6e916532b90b068710dfc43"
+                }
+            ]
+        },
+        {
+            "file_id": "697a15e0f5aaf328b83e1326a10dbd9e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`attacco dei lupi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.002 - L`attacco dei lupi.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/697a15e0f5aaf328b83e1326a10dbd9e"
+                }
+            ]
+        },
+        {
+            "file_id": "b6dbe53be33d062cb186f5b561efdb39",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Grazie",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.003 - Grazie.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6dbe53be33d062cb186f5b561efdb39"
+                }
+            ]
+        },
+        {
+            "file_id": "293ef25a0eb4dbe2f3aa3ef4f4e81171",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Qui non \u00e8 qui",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.004 - Qui non \u00e8 qui.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/293ef25a0eb4dbe2f3aa3ef4f4e81171"
+                }
+            ]
+        },
+        {
+            "file_id": "dd14c04af22cd9f1e0e41d6e3f890399",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Adesso",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.005 - Adesso.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dd14c04af22cd9f1e0e41d6e3f890399"
+                }
+            ]
+        },
+        {
+            "file_id": "c7a0477a04069ac80089f85af0f5ea4e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Al sicuro",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.006 - Al sicuro.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c7a0477a04069ac80089f85af0f5ea4e"
+                }
+            ]
+        },
+        {
+            "file_id": "a12a1be26ef9392a5cf8324c446e63a3",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Non lasciare che muoia",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.007 - Non lasciare che muoia.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a12a1be26ef9392a5cf8324c446e63a3"
+                }
+            ]
+        },
+        {
+            "file_id": "96bd9f49ef9aef75dc31aef27fc41d2d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`inizio e la fine",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.008 - L`inizio e la fine.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96bd9f49ef9aef75dc31aef27fc41d2d"
+                }
+            ]
+        },
+        {
+            "file_id": "67b53e83b2a58a964213b15a03eef80b",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nessuna via d`uscita",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.009 - Nessuna via d`uscita.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/67b53e83b2a58a964213b15a03eef80b"
+                }
+            ]
+        },
+        {
+            "file_id": "37350175f77bbb358bec75c90a624e6d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La legge della probabilit\u00e0",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.010 - La legge della probabilit\u00e0.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/37350175f77bbb358bec75c90a624e6d"
+                }
+            ]
+        },
+        {
+            "file_id": "a048d536ada8ccb0c8bac5379d4a421e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "I nodi si sciolgono",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.011 - I nodi si sciolgono.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a048d536ada8ccb0c8bac5379d4a421e"
+                }
+            ]
+        },
+        {
+            "file_id": "94179c090681d39b412a80338b92c34e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Non \u00e8 ancora domani",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.012 - Non \u00e8 ancora domani.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94179c090681d39b412a80338b92c34e"
+                }
+            ]
+        },
+        {
+            "file_id": "29e2c3a8c9b808db680f51b62bf59892",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Nella stessa barca",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.013 - Nella stessa barca.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/29e2c3a8c9b808db680f51b62bf59892"
+                }
+            ]
+        },
+        {
+            "file_id": "4f089f4d2f1967b2f8f6ac1d3d67d86a",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il secondo livello",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.014 - Il secondo livello.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f089f4d2f1967b2f8f6ac1d3d67d86a"
+                }
+            ]
+        },
+        {
+            "file_id": "b5c2f387e3f732d11fe8d5c93ece9452",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il cerchio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.015 - Il cerchio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5c2f387e3f732d11fe8d5c93ece9452"
+                }
+            ]
+        },
+        {
+            "file_id": "c705bead35700bfc82521345a679ee39",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 6,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`ultimo giorno sulla Terra",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/6.016 - L`ultimo giorno sulla Terra.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c705bead35700bfc82521345a679ee39"
+                }
+            ]
+        },
+        {
+            "file_id": "0ff57eea76a7dac69db7abd478886a8c",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Io ti uccider\u00f2",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.001 - Io ti uccider\u00f2.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0ff57eea76a7dac69db7abd478886a8c"
+                }
+            ]
+        },
+        {
+            "file_id": "e71f0d57f6986412c2799e71ff6cb154",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il regno",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.002 - Il regno.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e71f0d57f6986412c2799e71ff6cb154"
+                }
+            ]
+        },
+        {
+            "file_id": "b29efde7f5b99b455a5e925c42e41299",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La cella",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.003 - La cella.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b29efde7f5b99b455a5e925c42e41299"
+                }
+            ]
+        },
+        {
+            "file_id": "0347dd36d3b811dbeca9effb3e4c13e6",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Al tuo servizio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.004 - Al tuo servizio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0347dd36d3b811dbeca9effb3e4c13e6"
+                }
+            ]
+        },
+        {
+            "file_id": "43828a9bce70d90c0d96d27ededd91e6",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Codardi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.005 - Codardi.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/43828a9bce70d90c0d96d27ededd91e6"
+                }
+            ]
+        },
+        {
+            "file_id": "2665f5237f776d4c120096f4d110d0c9",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Giura",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.006 - Giura.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2665f5237f776d4c120096f4d110d0c9"
+                }
+            ]
+        },
+        {
+            "file_id": "42abf9e621cd37a81c590d4c1bfae087",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Tu sei il mio sole",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.007 - Tu sei il mio sole.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/42abf9e621cd37a81c590d4c1bfae087"
+                }
+            ]
+        },
+        {
+            "file_id": "0ec5b2044a819f07f853647de8d493bb",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "I cuori battono ancora",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.008 - I cuori battono ancora.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0ec5b2044a819f07f853647de8d493bb"
+                }
+            ]
+        },
+        {
+            "file_id": "44f2f27a168dfe1ef117a41484da77f6",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ci vuole coraggio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.009 - Ci vuole coraggio.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/44f2f27a168dfe1ef117a41484da77f6"
+                }
+            ]
+        },
+        {
+            "file_id": "3f17a582b9dbe482037f96f3174b4373",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Uniti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.010 - Uniti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f17a582b9dbe482037f96f3174b4373"
+                }
+            ]
+        },
+        {
+            "file_id": "ca936324f6aeee68ba8f8aacb14c1c71",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Fidati, non fidarti",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.011 - Fidati, non fidarti.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ca936324f6aeee68ba8f8aacb14c1c71"
+                }
+            ]
+        },
+        {
+            "file_id": "e1e656d8ad4c87032d9b529acb1913a2",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "E` giunto il momento",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.012 - E` giunto il momento.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e1e656d8ad4c87032d9b529acb1913a2"
+                }
+            ]
+        },
+        {
+            "file_id": "70042bc07e630d7f2558407288dd75d0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Seppellitemi qui",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.013 - Seppellitemi qui.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/70042bc07e630d7f2558407288dd75d0"
+                }
+            ]
+        },
+        {
+            "file_id": "4e83ff138f8a5e48e29bd720ea034fa5",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "L`altro lato",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.014 - L`altro lato.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4e83ff138f8a5e48e29bd720ea034fa5"
+                }
+            ]
+        },
+        {
+            "file_id": "3973b3158e68a24f4c65e467ec3493fb",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Accetta l`offerta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.015 - Accetta l`offerta.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3973b3158e68a24f4c65e467ec3493fb"
+                }
+            ]
+        },
+        {
+            "file_id": "64f766cd4c7f0cd698e5b2de58191a15",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 7,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il primo giorno del resto della tua vita",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/7.016 - Il primo giorno del resto della tua vita.mp4",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/64f766cd4c7f0cd698e5b2de58191a15"
+                }
+            ]
+        },
+        {
+            "file_id": "aec579ef52090755180a351211cb83c9",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Possa la mia misericordia prevalere sulla mia ira",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.001 - Possa la mia misericordia prevalere sulla mia ira.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aec579ef52090755180a351211cb83c9"
+                }
+            ]
+        },
+        {
+            "file_id": "a22a926db4c78c1e8687e04e1224c0a3",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Eppure sorrido",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.002 - Eppure sorrido.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a22a926db4c78c1e8687e04e1224c0a3"
+                }
+            ]
+        },
+        {
+            "file_id": "cd52769c61fa60b0d4ae6cb8d1e2362c",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il mostro che \u00e8 in noi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.003 - Il mostro che \u00e8 in noi.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd52769c61fa60b0d4ae6cb8d1e2362c"
+                }
+            ]
+        },
+        {
+            "file_id": "1e3dabc4509c0160be5f25ee38e1da01",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Uno qualunque",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.004 - Uno qualunque.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e3dabc4509c0160be5f25ee38e1da01"
+                }
+            ]
+        },
+        {
+            "file_id": "f4280642c80cfee4bd3266a4d4c2fd18",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "I peccati di Negan",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.005 - I peccati di Negan.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f4280642c80cfee4bd3266a4d4c2fd18"
+                }
+            ]
+        },
+        {
+            "file_id": "a4e087401b225501d86d818f32010229",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il re, la vedova e Rick",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.006 - Il re, la vedova e Rick.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a4e087401b225501d86d818f32010229"
+                }
+            ]
+        },
+        {
+            "file_id": "1873b5c6cab79deee0293ed272b8b437",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La cosa giusta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.007 - La cosa giusta.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1873b5c6cab79deee0293ed272b8b437"
+                }
+            ]
+        },
+        {
+            "file_id": "3cdf8a99542fe3a115c9544ada058722",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "E` cos\u00ec che deve essere",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.008 - E` cos\u00ec che deve essere.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cdf8a99542fe3a115c9544ada058722"
+                }
+            ]
+        },
+        {
+            "file_id": "9e6122c638388278a317e55abcc641bd",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Onore",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.009 - Onore.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9e6122c638388278a317e55abcc641bd"
+                }
+            ]
+        },
+        {
+            "file_id": "df3c961f642b86b1b16f946183be5f2b",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Hai gi\u00e0 perso",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.010 - Hai gi\u00e0 perso.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/df3c961f642b86b1b16f946183be5f2b"
+                }
+            ]
+        },
+        {
+            "file_id": "8b4f60a6b0c62428d79c59d75b6ab9d8",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Morti o vivi o",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.011 - Morti o vivi o....mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8b4f60a6b0c62428d79c59d75b6ab9d8"
+                }
+            ]
+        },
+        {
+            "file_id": "0b1d30b7722c50bdf8a96a21c542c1cf",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La chiave",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.012 - La chiave.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0b1d30b7722c50bdf8a96a21c542c1cf"
+                }
+            ]
+        },
+        {
+            "file_id": "5e8a6e9625bcc3f5d2f5d88f47f75689",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Fuori strada",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.013 - Fuori strada.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5e8a6e9625bcc3f5d2f5d88f47f75689"
+                }
+            ]
+        },
+        {
+            "file_id": "2d48af4ebe9cc3c105bdb7fd1d22036a",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La parola di un uomo",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.014 - La parola di un uomo.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d48af4ebe9cc3c105bdb7fd1d22036a"
+                }
+            ]
+        },
+        {
+            "file_id": "5affec374d4cb7c11d17ec254488d2f0",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il valore",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.015 - Il valore.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5affec374d4cb7c11d17ec254488d2f0"
+                }
+            ]
+        },
+        {
+            "file_id": "f426049caff94f0fa4905cabd63255ef",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 8,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ira",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/8.016 - Ira.mkv",
+            "year": "2010",
+            "actors": ["Ross Marquand", "Danai Gurira", "Melissa McBride", "Jeffrey Dean Morgan", "Norman Reedus", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Khary Payton", "Ryan Hurst", "Samantha Morton"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f426049caff94f0fa4905cabd63255ef"
+                }
+            ]
+        },
+        {
+            "file_id": "ae924c938ee95ce91cb3bd1cd49a653e",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Un nuovo inizio",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.001 - Un nuovo inizio.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ae924c938ee95ce91cb3bd1cd49a653e"
+                }
+            ]
+        },
+        {
+            "file_id": "758ad746128e90795de238d8b00df473",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Il ponte",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.002 - Il ponte.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/758ad746128e90795de238d8b00df473"
+                }
+            ]
+        },
+        {
+            "file_id": "1e92df794eee738780ee1cb282309300",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Segnali d`allarme",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.003 - Segnali d`allarme.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e92df794eee738780ee1cb282309300"
+                }
+            ]
+        },
+        {
+            "file_id": "14443ec2c50bd370c029541e8f3a501b",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Obbligati",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.004 - Obbligati.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14443ec2c50bd370c029541e8f3a501b"
+                }
+            ]
+        },
+        {
+            "file_id": "29ada97df2c916550519f85bd3d37a4d",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Cosa c`\u00e8 dopo",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.005 - Cosa c`\u00e8 dopo.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/29ada97df2c916550519f85bd3d37a4d"
+                }
+            ]
+        },
+        {
+            "file_id": "94f7574b3794c7bff03f176bda7ea5db",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Chi sei adesso",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.006 - Chi sei adesso.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94f7574b3794c7bff03f176bda7ea5db"
+                }
+            ]
+        },
+        {
+            "file_id": "8572b3f5b0985573e7871212d92961d2",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Stradivari",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.007 - Stradivari.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8572b3f5b0985573e7871212d92961d2"
+                }
+            ]
+        },
+        {
+            "file_id": "d7dae9f6332cc36f34f4bd1e1e566533",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Sussurri",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.008 - Sussurri.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d7dae9f6332cc36f34f4bd1e1e566533"
+                }
+            ]
+        },
+        {
+            "file_id": "af03822d6b7f8cf9946ad8ad74ffd4e8",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Adattarsi",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.009 - Adattarsi.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/af03822d6b7f8cf9946ad8ad74ffd4e8"
+                }
+            ]
+        },
+        {
+            "file_id": "45035d48250f4df1d78a00774a62d279",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Omega",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.010 - Omega.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/45035d48250f4df1d78a00774a62d279"
+                }
+            ]
+        },
+        {
+            "file_id": "3f633e5797567d467ecb191fa24fa6e1",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Ricompensa",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.011 - Ricompensa.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f633e5797567d467ecb191fa24fa6e1"
+                }
+            ]
+        },
+        {
+            "file_id": "f971effcfb25843ee69c6ddaade77385",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Guardiani",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.012 - Guardiani.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f971effcfb25843ee69c6ddaade77385"
+                }
+            ]
+        },
+        {
+            "file_id": "d1ae72a3ee1d0270390749ed2c874cd2",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Punto di sbarramento",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.013 - Punto di sbarramento.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1ae72a3ee1d0270390749ed2c874cd2"
+                }
+            ]
+        },
+        {
+            "file_id": "6d5778656ec2d19ffbbec711758c1efe",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Cicatrici",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.014 - Cicatrici.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d5778656ec2d19ffbbec711758c1efe"
+                }
+            ]
+        },
+        {
+            "file_id": "654b920225e41e10c2ef6a2bc612cfc3",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La quiete prima della tempesta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.015 - La quiete prima della tempesta.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/654b920225e41e10c2ef6a2bc612cfc3"
+                }
+            ]
+        },
+        {
+            "file_id": "bdf74a0f0d6c5c7d36c1fb2e73689f07",
+            "tmdb_id": 1402,
+            "saga": "The Walking Dead",
+            "season": 9,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "La tempesta",
+            "fname": "/SerieTV/The Walking Dead (2010) [a1402]/9.016 - La tempesta.mp4",
+            "year": "2010",
+            "plot": "In un futuro post apocalittico, il mondo \u00e8 popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti \u00e8 in viaggio per trovare un posto sicuro dove vivere.",
+            "director": [],
+            "actors": ["Norman Reedus", "Danai Gurira", "Melissa McBride", "Lauren Cohan", "Christian Serratos", "Josh McDermitt", "Seth Gilliam", "Ross Marquand", "Khary Payton", "Ryan Hurst", "Samantha Morton", "Jeffrey Dean Morgan"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bdf74a0f0d6c5c7d36c1fb2e73689f07"
                 }
             ]
         }

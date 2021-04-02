@@ -1,100 +1,274 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 76479,
-			"number": "1x1",
-			"saga": "The Boys",
-			"title": "Le regole del gioco",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/91c038e5e8c84f8a734c2788fada5f00"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x2",
-			"saga": "The Boys",
-			"title": "Spettacolare",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/d9b716f3bf554f3bc4bd441d917e4588"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x3",
-			"saga": "The Boys",
-			"title": "Fottuto",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/d795f0b49a7cea8a1950b1ec4a120ace"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x4",
-			"saga": "The Boys",
-			"title": "La femmina della specie",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/9f1ee5e727d3d3b293d67441ebfe137f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x5",
-			"saga": "The Boys",
-			"title": "Cose che fanno bene allo spirito",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/280c31750f741e212a62b783885da912"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x6",
-			"saga": "The Boys",
-			"title": "Gli innocenti",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/c1459bdecd0527ece71807f5d5153131"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x7",
-			"saga": "The Boys",
-			"title": "La società dell`autoconservazione",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/b100cd4c4c065773b193bd680c179bb4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 76479,
-			"number": "1x8",
-			"saga": "The Boys",
-			"title": "La resa dei conti",
-			"links": [
-				{
-					"quality": "HD",
-					"url": "http://51.77.159.233:30299/387564db33845874543986d4e19b2243"
-				}
-			]
-		}
+            "file_id": "4f59e10a26463926c2cfd6e812a42ede",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Le regole del gioco",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.001 - Le regole del gioco.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f59e10a26463926c2cfd6e812a42ede"
+                }
+            ]
+        },
+        {
+            "file_id": "0935703e2c316a3d3bfc332bd8a6c433",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Spettacolare",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.002 - Spettacolare.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0935703e2c316a3d3bfc332bd8a6c433"
+                }
+            ]
+        },
+        {
+            "file_id": "38011a4f5b076cd68463d33f65cbab7d",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Fottuto",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.003 - Fottuto.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38011a4f5b076cd68463d33f65cbab7d"
+                }
+            ]
+        },
+        {
+            "file_id": "be58a093302dc9612ed04ef29f943f3b",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "La femmina della specie",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.004 - La femmina della specie.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be58a093302dc9612ed04ef29f943f3b"
+                }
+            ]
+        },
+        {
+            "file_id": "59ffba70c62be53be8afd1b09c9f078c",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Cose che fanno bene allo spirito",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.005 - Cose che fanno bene allo spirito.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/59ffba70c62be53be8afd1b09c9f078c"
+                }
+            ]
+        },
+        {
+            "file_id": "55b2e35fc661171ebd04587ba0178c5b",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Gli innocenti",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.006 - Gli innocenti.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/55b2e35fc661171ebd04587ba0178c5b"
+                }
+            ]
+        },
+        {
+            "file_id": "6509b1025d7e35d1b957f479a5df5438",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "La societ\u00e0 dell`autoconservazione",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.007 - La societ\u00e0 dell`autoconservazione.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6509b1025d7e35d1b957f479a5df5438"
+                }
+            ]
+        },
+        {
+            "file_id": "2d38c521be964518e3d5d6254cfdf0b6",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "La resa dei conti",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/1.008 - La resa dei conti.avi",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2d38c521be964518e3d5d6254cfdf0b6"
+                }
+            ]
+        },
+        {
+            "file_id": "434e8b2955d1eaaa0feaef244e0ef437",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "La grande corsa",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.001 - La grande corsa.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/434e8b2955d1eaaa0feaef244e0ef437"
+                }
+            ]
+        },
+        {
+            "file_id": "588f4089f395769c258e15827a1d199d",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Una buona preparazione e pianificazione",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.002 - Una buona preparazione e pianificazione.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/588f4089f395769c258e15827a1d199d"
+                }
+            ]
+        },
+        {
+            "file_id": "6004bee8923c20777c1d0e232adedc75",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Sulla collina con le spade di mille uomini",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.003 - Sulla collina con le spade di mille uomini.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6004bee8923c20777c1d0e232adedc75"
+                }
+            ]
+        },
+        {
+            "file_id": "3e3dbbb6aed405d60b846ba3e3321fc6",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Niente di simile al mondo",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.004 - Niente di simile al mondo.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3e3dbbb6aed405d60b846ba3e3321fc6"
+                }
+            ]
+        },
+        {
+            "file_id": "6d5a4c3d823daf11d51f1af43752059a",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Ora dobbiamo andare",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.005 - Ora dobbiamo andare.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d5a4c3d823daf11d51f1af43752059a"
+                }
+            ]
+        },
+        {
+            "file_id": "e06c2e8b9396756211b14600889adc57",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "La verit\u00e0",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.006 - La verit\u00e0.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e06c2e8b9396756211b14600889adc57"
+                }
+            ]
+        },
+        {
+            "file_id": "9990a5a3dc4b2b8ae53e0f99a0533702",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Macellaio, fornaio, candelaio",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.007 - Macellaio, fornaio, candelaio.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9990a5a3dc4b2b8ae53e0f99a0533702"
+                }
+            ]
+        },
+        {
+            "file_id": "3db520228243dc83ab7bfdde0b2ed0f8",
+            "tmdb_id": 76479,
+            "saga": "The Boys",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Action & Adventure"],
+            "title": "Quello che so",
+            "fname": "/SerieTV/The Boys (2019) [a76479]/2.008 - Quello che so.mkv",
+            "year": "2019",
+            "actors": ["Karl Urban", "Jack Quaid", "Antony Starr", "Erin Moriarty", "Dominique McElligott", "Jessie T. Usher", "Laz Alonso", "Chace Crawford", "Tomer Kapon", "Karen Fukuhara", "Nathan Mitchell", "Colby Minifie", "Aya Cash"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3db520228243dc83ab7bfdde0b2ed0f8"
+                }
+            ]
+        }
     ]
 }

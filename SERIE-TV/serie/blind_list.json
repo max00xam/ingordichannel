@@ -1,972 +1,1687 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 62710,
-			"number": "1x1",
-			"saga": "Blindspot",
-			"title": "Chi è Jane Doe",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c863d791da23a802f9f954d23eaeb848"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x2",
-			"saga": "Blindspot",
-			"title": "Taylor Shaw",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/14c8a2822d26d0af97b815625b413b6d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x3",
-			"saga": "Blindspot",
-			"title": "La ragazza smarrita",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/327d95b9fd544ce63728f62d82d7d227"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x4",
-			"saga": "Blindspot",
-			"title": "Oppure no",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ccea8e0f1ac4a4422160bca79065d76b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x5",
-			"saga": "Blindspot",
-			"title": "Il passato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a428e51b3472ecd3225bde13241ee8fb"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x6",
-			"saga": "Blindspot",
-			"title": "Ci annebbia la vista",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dc26a3a7ba7801e584c63ac516ca5592"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x7",
-			"saga": "Blindspot",
-			"title": "Non fidarti di nessuno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1b889eed7f97a31b62424f0a268c768"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x8",
-			"saga": "Blindspot",
-			"title": "Sospetta di tutti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d9a921b6be58b581071943b45bba4190"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x9",
-			"saga": "Blindspot",
-			"title": "Solleva la tenda",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/db6f95c2be5e4cd7f928bcdebb40ced6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x10",
-			"saga": "Blindspot",
-			"title": "E rivela il burattinaio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e1057d61100f9e80427e346f9f85d21f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x11",
-			"saga": "Blindspot",
-			"title": "In caso di emergenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bfe82140f12d130d4a517423b87ced52"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x12",
-			"saga": "Blindspot",
-			"title": "Segui queste istruzioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/898805db5acf2f998721f10e40815d2d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x13",
-			"saga": "Blindspot",
-			"title": "Resta dove sei",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e8faf5ac191d41ff7d7294f205af44ee"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x14",
-			"saga": "Blindspot",
-			"title": "Trova una linea sicura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2a2464eb282c9a01beb6ee4fc9fd2117"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x15",
-			"saga": "Blindspot",
-			"title": "Per contattare il tuo responsabile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/63c4ce0edc440d5e53be29a8383c2fe8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x16",
-			"saga": "Blindspot",
-			"title": "Troverai l`occorrente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ca71b36c78cbcae6affa96a0bcf4df4e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x17",
-			"saga": "Blindspot",
-			"title": "Nell`ultimo posto dove guarderesti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ee3e41555c0971c3dc772778f4226a6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x18",
-			"saga": "Blindspot",
-			"title": "Per avviare la sequenza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4d03b51d4b40d2a4a82c40116c74075f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x19",
-			"saga": "Blindspot",
-			"title": "Concentrati sul tempo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6f361df3bad0c2f2ce6d578c271a525f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x20",
-			"saga": "Blindspot",
-			"title": "Poi prendi la prima strada a Ovest",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7bbb847849ce8d84d6fec7e4bb850054"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x21",
-			"saga": "Blindspot",
-			"title": "Verso il nuovo nascondiglio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b774fe4156855354d6b3fa4164c3d2ad"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x22",
-			"saga": "Blindspot",
-			"title": "L`ordine sarà rivelato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/36cf93263f873add6a3e81b20fe1dc1c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "1x23",
-			"saga": "Blindspot",
-			"title": "Ad archiviazione avvenuta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3e00aecfde716c9a62d04e4cf17d8dd5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x1",
-			"saga": "Blindspot",
-			"title": "Niente di più pericoloso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43b97bafeaf74e56ab77fe9427b5fda2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x2",
-			"saga": "Blindspot",
-			"title": "Incitano alla paura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/36cf569b23dce89c0a6b8a496cd74eef"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x3",
-			"saga": "Blindspot",
-			"title": "Il loro vecchio nome non è",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/614887731429d5405c7be954b7598f7f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x4",
-			"saga": "Blindspot",
-			"title": "L`FBI",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e3032d41fe6f31fd71afbe158519585b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x5",
-			"saga": "Blindspot",
-			"title": "Difende la Costituzione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9e9144e0bfb42a567def421fad571a36"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x6",
-			"saga": "Blindspot",
-			"title": "L`esercito di Shepherd",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/72da7ca1ec354d1020274bcde4347082"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x7",
-			"saga": "Blindspot",
-			"title": "Difende solo se stesso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c9512a226039c8db492088a6c68600ce"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x8",
-			"saga": "Blindspot",
-			"title": "We Fight Deaths on Thick Lone Waters",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93d0d5899beb5ca3c3f1d9c6f7a71f8b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x9",
-			"saga": "Blindspot",
-			"title": "Proteggeremo la vostra libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/50fe761413c02c954844caec9b1a8aaf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x10",
-			"saga": "Blindspot",
-			"title": "Nor I, Nigel AKA leg in iron",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/59514ed0f9816fef5b2eb8f136440e9c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x11",
-			"saga": "Blindspot",
-			"title": "Droll autumn, unmutual lord",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ffb3b135737d9e9eeca035e7850e9193"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x12",
-			"saga": "Blindspot",
-			"title": "Devil never even lived",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/55a5f7b9fd3631a28a465096a0517ec7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x13",
-			"saga": "Blindspot",
-			"title": "Name not one man",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ac82bf497cd27d9a852386891e05be5d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x14",
-			"saga": "Blindspot",
-			"title": "Borrow or rob",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e36a0327792c4196dfb0775d36ec0db7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x15",
-			"saga": "Blindspot",
-			"title": "Draw o Caesar, erase a coward",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/15e44781cff228ff718e1aeb65556fec"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x16",
-			"saga": "Blindspot",
-			"title": "Evil did I dwell, lewd I did live",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/845aba720fd3613c98fe7636b041bb3d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x17",
-			"saga": "Blindspot",
-			"title": "Solos",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75a615be91b28216bc33e54bb8059bf1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x18",
-			"saga": "Blindspot",
-			"title": "Senile lines",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f9cc618f082d1604dca939ed117c9436"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x19",
-			"saga": "Blindspot",
-			"title": "Regard a mere mad rager",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3d666283088e7e1b0c85c4cb5a8b61bf"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x20",
-			"saga": "Blindspot",
-			"title": "In words, drown I",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da3b6adfc66870afd00f7511dd997f79"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x21",
-			"saga": "Blindspot",
-			"title": "Mom",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2dcd7f82d1d2bfd0a8f8b6cc4b93ff4e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "2x22",
-			"saga": "Blindspot",
-			"title": "Lepers repel",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0769a25fadaa2cea888c0c675cbdba12"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x1",
-			"saga": "Blindspot",
-			"title": "Di nuovo al lavoro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/930868a333f9332910f78f69776e615d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x2",
-			"saga": "Blindspot",
-			"title": "Un mucchio di trappole del nemico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/349c709d7e8ae44a583efac0528f698d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x3",
-			"saga": "Blindspot",
-			"title": "Caccia ai topi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/073b016e11b71424619d0d237eb80127"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x4",
-			"saga": "Blindspot",
-			"title": "L`FBI",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c3e574ef91ff7433e0f643c26e4da999"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x5",
-			"saga": "Blindspot",
-			"title": "Questa profonda eredità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a0d9a37c76b2d85a28725b347906b43c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x6",
-			"saga": "Blindspot",
-			"title": "Sospetto adorante",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8fabadefa275156c48e83d0affd69fc7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x7",
-			"saga": "Blindspot",
-			"title": "Risolvi il mio attuale problema",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8c68c12f1fb3c42724fe4b429c8d0d33"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x8",
-			"saga": "Blindspot",
-			"title": "Cittadini sotto copertura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1530ea40e45b985def7afda9ef5f1b54"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x9",
-			"saga": "Blindspot",
-			"title": "Proteggeremo la vostra libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5b0780a9645c9b57c3ea3f82c45a8a44"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x10",
-			"saga": "Blindspot",
-			"title": "Equilibrio di forza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/367703a421fe98e41f5755189430fc62"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x11",
-			"saga": "Blindspot",
-			"title": "I maghi della tecnologia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/536bd3b9c348ec7e14e0e0b3250f3c2d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x12",
-			"saga": "Blindspot",
-			"title": "Due amici leggendari",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b1d407215865ee1bf9028ceefc52ec87"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x13",
-			"saga": "Blindspot",
-			"title": "Colpo di avvertimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f62d6b09567feaeb0c35023c32e8a6be"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x14",
-			"saga": "Blindspot",
-			"title": "Eterno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9b33c50ce5a11a57515e0317825f884e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x15",
-			"saga": "Blindspot",
-			"title": "Deduzioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/af05006aad5b1268a885a31427f5ee4d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x16",
-			"saga": "Blindspot",
-			"title": "Abile imbroglione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/41d2c523695ddc1e4cf3bb9b957384a5"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x17",
-			"saga": "Blindspot",
-			"title": "La parola è la mamma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/33fb4d853fe9d54cd8525ce6b3a766c1"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x18",
-			"saga": "Blindspot",
-			"title": "Notte clamorosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/636ffe1a7f9a813ca6bf551ee5803f14"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x19",
-			"saga": "Blindspot",
-			"title": "La Galassia delle menti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8271386b9469b79a3b0ec6a6c527a65d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x20",
-			"saga": "Blindspot",
-			"title": "Lascia perdere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aee90bc7fe2eb70b6f8eaa30d6b90b78"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x21",
-			"saga": "Blindspot",
-			"title": "Defezione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fc65d1d71f397dcbb8be7bb7167fef51"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "3x22",
-			"saga": "Blindspot",
-			"title": "In memoria",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/48aff30c49e6e4f61630951c809ab06f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x1",
-			"saga": "Blindspot",
-			"title": "Sleale da morire",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/309fc515018f4d68b9d8014250039435"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x2",
-			"saga": "Blindspot",
-			"title": "La mappa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/172254b40be325512b6a3498877c481c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x3",
-			"saga": "Blindspot",
-			"title": "L‘affair Quantico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f20b676809df927ce66b07628b5ffd95"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x4",
-			"saga": "Blindspot",
-			"title": "Sottovuoto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/32f475926bc7dd8006272c15e1cf8a30"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x5",
-			"saga": "Blindspot",
-			"title": "Reazione a catena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d019723b7ec06dc155b7d327014bda53"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x6",
-			"saga": "Blindspot",
-			"title": "Candidati corrotti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ca467a12620ae6784a816b4cf0666868"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x7",
-			"saga": "Blindspot",
-			"title": "Caso, Sole, Luna e Verità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/02a1503ffa4989e550fa66b1ad66c87a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x8",
-			"saga": "Blindspot",
-			"title": "Minacce e tradimenti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9ab0f9211e937d59ef7c4737098fa33d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x9",
-			"saga": "Blindspot",
-			"title": "Scava nella sua mente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8bbd1f8b51bca63e4a6c821713033b55"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x10",
-			"saga": "Blindspot",
-			"title": "La grande rivelazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d7b48db08d2481456ff45a902c848404"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x11",
-			"saga": "Blindspot",
-			"title": "Tatuata a morte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/755f3e6baee7dc36d0195ee15d6ca5f6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x12",
-			"saga": "Blindspot",
-			"title": "Il libro dei segreti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c72e653cd2fd3a7fd627b40fdeb5e9d7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x13",
-			"saga": "Blindspot",
-			"title": "Una metodica follia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ed0227b131a1de45d4e9fe93d965a116"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x14",
-			"saga": "Blindspot",
-			"title": "Un’esplosione dal passato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/55371d9d42a7036c1c862196a71eb23d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x15",
-			"saga": "Blindspot",
-			"title": "Sensi di colpa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b9db2923018424105d583b5263bfa555"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x16",
-			"saga": "Blindspot",
-			"title": "Un vecchio amico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dedde17a6d40c1e5e9dedec3153aaf01"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x17",
-			"saga": "Blindspot",
-			"title": "Notte dell’ultimo respiro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4f7ee7829a3c83a254e959867036bd16"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x18",
-			"saga": "Blindspot",
-			"title": "Omaha",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a321dd556c98107a70d93a53e8d47c69"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x19",
-			"saga": "Blindspot",
-			"title": "Tre topolini ciechi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/22e8e08e5e44937ca1e414ae7eb55e6b"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "4x20",
-			"saga": "Blindspot",
-			"title": "L‘informatico assassino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e7c4bc44a6798ec177c5cea3b3d48eed"
-				}
-			]
-		},
-		{
-			"tmdb_id": 62710,
-			"number": "21x22",
-			"saga": "Blindspot",
-			"title": "Blackout - Spirito di squadra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e071c59f4ae3d9e99d674105fedc6b8e"
-				}
-			]
-		}
+            "file_id": "8c74df7cd413f1cfa0a8422c9f1b1528",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Chi è Jane Doe",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.001 - Chi è Jane Doe.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c74df7cd413f1cfa0a8422c9f1b1528"
+                }
+            ]
+        },
+        {
+            "file_id": "71bfdacd1557d3b095c3bf3b72f359b9",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Taylor Shaw",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.002 - Taylor Shaw.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/71bfdacd1557d3b095c3bf3b72f359b9"
+                }
+            ]
+        },
+        {
+            "file_id": "f45e0703a4616c2b4192e1434f50370f",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "La ragazza smarrita",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.003 - La ragazza smarrita.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f45e0703a4616c2b4192e1434f50370f"
+                }
+            ]
+        },
+        {
+            "file_id": "995fef7174e1e6f055fc942cce02a148",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Oppure no",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.004 - Oppure no.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/995fef7174e1e6f055fc942cce02a148"
+                }
+            ]
+        },
+        {
+            "file_id": "18403ba86be165709aa17c710adc64fa",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Il passato",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.005 - Il passato.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/18403ba86be165709aa17c710adc64fa"
+                }
+            ]
+        },
+        {
+            "file_id": "811e313b9f553f4e1ad14282863150ab",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Ci annebbia la vista",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.006 - Ci annebbia la vista.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/811e313b9f553f4e1ad14282863150ab"
+                }
+            ]
+        },
+        {
+            "file_id": "aca5f542bc112ef8502d0093c8820770",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Non fidarti di nessuno",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.007 - Non fidarti di nessuno.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aca5f542bc112ef8502d0093c8820770"
+                }
+            ]
+        },
+        {
+            "file_id": "a1f16205aa4d49551f8cfb415e085981",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Sospetta di tutti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.008 - Sospetta di tutti.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a1f16205aa4d49551f8cfb415e085981"
+                }
+            ]
+        },
+        {
+            "file_id": "6c97e17c77d5fb7809bd21a720da4cd6",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Solleva la tenda",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.009 - Solleva la tenda.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c97e17c77d5fb7809bd21a720da4cd6"
+                }
+            ]
+        },
+        {
+            "file_id": "5f1b68c4c5f9dbf3ec538268104fefc4",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "E rivela il burattinaio",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.010 - E rivela il burattinaio.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5f1b68c4c5f9dbf3ec538268104fefc4"
+                }
+            ]
+        },
+        {
+            "file_id": "6661df870ca0eecdb88b12afdead5b8a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "In caso di emergenza",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.011 - In caso di emergenza.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6661df870ca0eecdb88b12afdead5b8a"
+                }
+            ]
+        },
+        {
+            "file_id": "32317eb7668be44a8831c0177ecdea16",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Segui queste istruzioni",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.012 - Segui queste istruzioni.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/32317eb7668be44a8831c0177ecdea16"
+                }
+            ]
+        },
+        {
+            "file_id": "48c4016f5c2084fad92fd9e94608bc01",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Resta dove sei",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.013 - Resta dove sei.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/48c4016f5c2084fad92fd9e94608bc01"
+                }
+            ]
+        },
+        {
+            "file_id": "1ce0d27af4706c9cc553d39bce2c901c",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Trova una linea sicura",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.014 - Trova una linea sicura.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ce0d27af4706c9cc553d39bce2c901c"
+                }
+            ]
+        },
+        {
+            "file_id": "0fb5ab64db9dc2263d46101606f3e3e5",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Per contattare il tuo responsabile",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.015 - Per contattare il tuo responsabile.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0fb5ab64db9dc2263d46101606f3e3e5"
+                }
+            ]
+        },
+        {
+            "file_id": "5d1c8f4104ea8c2fd5f94bead0b52b70",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Troverai l`occorrente",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.016 - Troverai l`occorrente.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5d1c8f4104ea8c2fd5f94bead0b52b70"
+                }
+            ]
+        },
+        {
+            "file_id": "b2d4ff20347ce85e08a35de900483d00",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Nell`ultimo posto dove guarderesti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.017 - Nell`ultimo posto dove guarderesti.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b2d4ff20347ce85e08a35de900483d00"
+                }
+            ]
+        },
+        {
+            "file_id": "4a54e5670f86be7b22ab68d51ca222e9",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Per avviare la sequenza",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.018 - Per avviare la sequenza.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4a54e5670f86be7b22ab68d51ca222e9"
+                }
+            ]
+        },
+        {
+            "file_id": "86599aa9b26b77afb4c844e3c251c6c4",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Concentrati sul tempo",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.019 - Concentrati sul tempo.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/86599aa9b26b77afb4c844e3c251c6c4"
+                }
+            ]
+        },
+        {
+            "file_id": "b047ee5c973a205a0f8bf784bd6ce95f",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Poi prendi la prima strada a Ovest",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.020 - Poi prendi la prima strada a Ovest.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b047ee5c973a205a0f8bf784bd6ce95f"
+                }
+            ]
+        },
+        {
+            "file_id": "57d70dc74a3bb68c94241b34f285ffbf",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Verso il nuovo nascondiglio",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.021 - Verso il nuovo nascondiglio.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57d70dc74a3bb68c94241b34f285ffbf"
+                }
+            ]
+        },
+        {
+            "file_id": "090998bc25988e7d7204bd495ff475ea",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L`ordine sar\u00e0 rivelato",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.022 - L`ordine sar\u00e0 rivelato.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/090998bc25988e7d7204bd495ff475ea"
+                }
+            ]
+        },
+        {
+            "file_id": "607f9a5eefd417d49d926f3a483eff01",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Ad archiviazione avvenuta",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/1.023 - Ad archiviazione avvenuta.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/607f9a5eefd417d49d926f3a483eff01"
+                }
+            ]
+        },
+        {
+            "file_id": "d0c565b2d0d03ecfb77e815c5a464e63",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Niente di pi\u00f9 pericoloso",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.001 - Niente di pi\u00f9 pericoloso.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d0c565b2d0d03ecfb77e815c5a464e63"
+                }
+            ]
+        },
+        {
+            "file_id": "e2035d8266901f3e9f31c4cc9f48004e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Incitano alla paura",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.002 - Incitano alla paura.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2035d8266901f3e9f31c4cc9f48004e"
+                }
+            ]
+        },
+        {
+            "file_id": "c1253be2f7d2095313231efeb7b8cfd9",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Il loro vecchio nome non è",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.003 - Il loro vecchio nome non è....mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c1253be2f7d2095313231efeb7b8cfd9"
+                }
+            ]
+        },
+        {
+            "file_id": "1690fffff3627a1cec3696501b7318a8",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L`FBI",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.004 - L`FBI.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1690fffff3627a1cec3696501b7318a8"
+                }
+            ]
+        },
+        {
+            "file_id": "0f491333844618fbe5fec2b5acd3884a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Difende la Costituzione",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.005 - Difende la Costituzione.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0f491333844618fbe5fec2b5acd3884a"
+                }
+            ]
+        },
+        {
+            "file_id": "615c3e90961084d4181386e972342131",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L`esercito di Shepherd",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.006 - L`esercito di Shepherd.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/615c3e90961084d4181386e972342131"
+                }
+            ]
+        },
+        {
+            "file_id": "3ef67c7680350595dd060949d5774b7e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Difende solo se stesso",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.007 - Difende solo se stesso.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ef67c7680350595dd060949d5774b7e"
+                }
+            ]
+        },
+        {
+            "file_id": "2b1983118325955efbfe20a2a0fe30e9",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "We Fight Deaths on Thick Lone Waters",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.008 - We Fight Deaths on Thick Lone Waters.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2b1983118325955efbfe20a2a0fe30e9"
+                }
+            ]
+        },
+        {
+            "file_id": "efd236b0026d63d63d845dab048a11e0",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Proteggeremo la vostra libert\u00e0",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.009 - Proteggeremo la vostra libert\u00e0.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/efd236b0026d63d63d845dab048a11e0"
+                }
+            ]
+        },
+        {
+            "file_id": "2ff74e07d47afc7a2a0bc4d7d2761a8c",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Nor I, Nigel AKA leg in iron",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.010 - Nor I, Nigel AKA leg in iron.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ff74e07d47afc7a2a0bc4d7d2761a8c"
+                }
+            ]
+        },
+        {
+            "file_id": "d4f045b9892b5517e98b058d773c4b57",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Droll autumn, unmutual lord",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.011 - Droll autumn, unmutual lord.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d4f045b9892b5517e98b058d773c4b57"
+                }
+            ]
+        },
+        {
+            "file_id": "b19edfd685a71917478942e1406eeeed",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Devil never even lived",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.012 - Devil never even lived.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b19edfd685a71917478942e1406eeeed"
+                }
+            ]
+        },
+        {
+            "file_id": "7d65159a7f73928e1066a5ab2495d5be",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Name not one man",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.013 - Name not one man.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d65159a7f73928e1066a5ab2495d5be"
+                }
+            ]
+        },
+        {
+            "file_id": "8b5878924a169f4755ee10160ac19299",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Borrow or rob",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.014 - Borrow or rob.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8b5878924a169f4755ee10160ac19299"
+                }
+            ]
+        },
+        {
+            "file_id": "938b648ae6f5b4af5002d2ae08e84a2e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Draw o Caesar, erase a coward",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.015 - Draw o Caesar, erase a coward.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/938b648ae6f5b4af5002d2ae08e84a2e"
+                }
+            ]
+        },
+        {
+            "file_id": "6006b291cee0e497d1bc44b8d02ed786",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Evil did I dwell, lewd I did live",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.016 - Evil did I dwell, lewd I did live.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6006b291cee0e497d1bc44b8d02ed786"
+                }
+            ]
+        },
+        {
+            "file_id": "c9013a71151c58ff583cb57667e7f65d",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Solos",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.017 - Solos.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c9013a71151c58ff583cb57667e7f65d"
+                }
+            ]
+        },
+        {
+            "file_id": "2f6409aa27926469fff1809b3afbe4d2",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Senile lines",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.018 - Senile lines.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f6409aa27926469fff1809b3afbe4d2"
+                }
+            ]
+        },
+        {
+            "file_id": "2a542449b29b88515fbad9f8ac910479",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Regard a mere mad rager",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.019 - Regard a mere mad rager.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2a542449b29b88515fbad9f8ac910479"
+                }
+            ]
+        },
+        {
+            "file_id": "c6696af1bdb1c1806294f647430414c5",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "In words, drown I",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.020 - In words, drown I.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c6696af1bdb1c1806294f647430414c5"
+                }
+            ]
+        },
+        {
+            "file_id": "2aea1897597b95c7485e03c24455ef8a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Mom",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.021 - Mom.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2aea1897597b95c7485e03c24455ef8a"
+                }
+            ]
+        },
+        {
+            "file_id": "6d0642d56cc034f6de0cbacb58219eb1",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Lepers repel",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/2.022 - Lepers repel.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d0642d56cc034f6de0cbacb58219eb1"
+                }
+            ]
+        },
+        {
+            "file_id": "6b37fbd8994f39c594df489349bd4241",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Di nuovo al lavoro",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.001 - Di nuovo al lavoro.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6b37fbd8994f39c594df489349bd4241"
+                }
+            ]
+        },
+        {
+            "file_id": "8dbb50590bb3693c4626643b165bed2b",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Un mucchio di trappole del nemico",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.002 - Un mucchio di trappole del nemico.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8dbb50590bb3693c4626643b165bed2b"
+                }
+            ]
+        },
+        {
+            "file_id": "d1b3fad94999fda3f1df5899b577f82a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Caccia ai topi",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.003 - Caccia ai topi.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1b3fad94999fda3f1df5899b577f82a"
+                }
+            ]
+        },
+        {
+            "file_id": "143c9ecd3297440323655639bc0bec49",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L`FBI",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.004 - L`FBI.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/143c9ecd3297440323655639bc0bec49"
+                }
+            ]
+        },
+        {
+            "file_id": "68ff77d90cc1c84e9b3a5aeaa78bb0c8",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Questa profonda eredit\u00e0",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.005 - Questa profonda eredit\u00e0.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/68ff77d90cc1c84e9b3a5aeaa78bb0c8"
+                }
+            ]
+        },
+        {
+            "file_id": "3753f02f4bda43cda16fe29b914d4302",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Sospetto adorante",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.006 - Sospetto adorante.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3753f02f4bda43cda16fe29b914d4302"
+                }
+            ]
+        },
+        {
+            "file_id": "d4869a8aedc4470e97b6f8587dc49d04",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Risolvi il mio attuale problema",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.007 - Risolvi il mio attuale problema.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d4869a8aedc4470e97b6f8587dc49d04"
+                }
+            ]
+        },
+        {
+            "file_id": "d3f4944724ccb2d1162d414f66d7109f",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Cittadini sotto copertura",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.008 - Cittadini sotto copertura.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3f4944724ccb2d1162d414f66d7109f"
+                }
+            ]
+        },
+        {
+            "file_id": "f240054494c2b13ef77d310c102c7e9b",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Proteggeremo la vostra libert\u00e0",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.009 - Proteggeremo la vostra libert\u00e0.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f240054494c2b13ef77d310c102c7e9b"
+                }
+            ]
+        },
+        {
+            "file_id": "167eb2f42edbe533a10ae470eb19c0ff",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Equilibrio di forza",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.010 - Equilibrio di forza.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/167eb2f42edbe533a10ae470eb19c0ff"
+                }
+            ]
+        },
+        {
+            "file_id": "0393ce53b7e3cb49ff1aa715f8844b18",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "I maghi della tecnologia",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.011 - I maghi della tecnologia.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0393ce53b7e3cb49ff1aa715f8844b18"
+                }
+            ]
+        },
+        {
+            "file_id": "9a8275c4cfafc3fec87dd9cee46809f2",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Due amici leggendari",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.012 - Due amici leggendari.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9a8275c4cfafc3fec87dd9cee46809f2"
+                }
+            ]
+        },
+        {
+            "file_id": "b88dac5dd007b7d3f97b1299329cdf1a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Colpo di avvertimento",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.013 - Colpo di avvertimento.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b88dac5dd007b7d3f97b1299329cdf1a"
+                }
+            ]
+        },
+        {
+            "file_id": "9d584d8d26d138fe7841f0d87d6d1b39",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 14,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Eterno",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.014 - Eterno.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9d584d8d26d138fe7841f0d87d6d1b39"
+                }
+            ]
+        },
+        {
+            "file_id": "ed545dd4c2e01a57d50f74b58a6e960b",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 15,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Deduzioni",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.015 - Deduzioni.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ed545dd4c2e01a57d50f74b58a6e960b"
+                }
+            ]
+        },
+        {
+            "file_id": "9c114e3be354cd9ec83030b2b29100ad",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 16,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Abile imbroglione",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.016 - Abile imbroglione.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9c114e3be354cd9ec83030b2b29100ad"
+                }
+            ]
+        },
+        {
+            "file_id": "e322405dc307f0dbab00cdf63a2e0a1a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 17,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "La parola è la mamma",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.017 - La parola è la mamma.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e322405dc307f0dbab00cdf63a2e0a1a"
+                }
+            ]
+        },
+        {
+            "file_id": "bddbb271831867d05961a5087704e1b6",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 18,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Notte clamorosa",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.018 - Notte clamorosa.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bddbb271831867d05961a5087704e1b6"
+                }
+            ]
+        },
+        {
+            "file_id": "ab7fccd9652bd0a5f2d9a91bb6e478fb",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 19,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "La Galassia delle menti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.019 - La Galassia delle menti.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab7fccd9652bd0a5f2d9a91bb6e478fb"
+                }
+            ]
+        },
+        {
+            "file_id": "ef48b1e516579ded1cf7e3fa7e8af7d9",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 20,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Lascia perdere",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.020 - Lascia perdere.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ef48b1e516579ded1cf7e3fa7e8af7d9"
+                }
+            ]
+        },
+        {
+            "file_id": "81a72b51871b29103fa7ba00027ef499",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 21,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Defezione",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.021 - Defezione.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/81a72b51871b29103fa7ba00027ef499"
+                }
+            ]
+        },
+        {
+            "file_id": "11f822fcb2d4bb4ab16a0e0ef68bdc29",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 3,
+            "episode": 22,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "In memoria",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/3.022 - In memoria.mkv",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/11f822fcb2d4bb4ab16a0e0ef68bdc29"
+                }
+            ]
+        },
+        {
+            "file_id": "e311e7ccf0ae34839596218a803fda5b",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Sleale da morire",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.001 - Sleale da morire.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e311e7ccf0ae34839596218a803fda5b"
+                }
+            ]
+        },
+        {
+            "file_id": "cdaf2cb48933dedbb9842a6abc98f8ff",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "La mappa",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.002 - La mappa.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cdaf2cb48933dedbb9842a6abc98f8ff"
+                }
+            ]
+        },
+        {
+            "file_id": "dad78962c13ef6bf7cc01970a80b2dc1",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L\u2018affair Quantico",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.003 - L\u2018affair Quantico.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dad78962c13ef6bf7cc01970a80b2dc1"
+                }
+            ]
+        },
+        {
+            "file_id": "de8b82ddbddfa5a6619f7d3cba85b47c",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Sottovuoto",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.004 - Sottovuoto.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de8b82ddbddfa5a6619f7d3cba85b47c"
+                }
+            ]
+        },
+        {
+            "file_id": "6158a3fa615c99b7ae4c800761cb1a1e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Reazione a catena",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.005 - Reazione a catena.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6158a3fa615c99b7ae4c800761cb1a1e"
+                }
+            ]
+        },
+        {
+            "file_id": "f6fea500a891075e64c7f1e95b7622d3",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Candidati corrotti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.006 - Candidati corrotti.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f6fea500a891075e64c7f1e95b7622d3"
+                }
+            ]
+        },
+        {
+            "file_id": "1cbf7dd016a2bcdd4d5d4845c4352f45",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Caso, Sole, Luna e Verit\u00e0",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.007 - Caso, Sole, Luna e Verit\u00e0.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1cbf7dd016a2bcdd4d5d4845c4352f45"
+                }
+            ]
+        },
+        {
+            "file_id": "22cd11d9ccbfdafbcb59e805d56e7818",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Minacce e tradimenti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.008 - Minacce e tradimenti.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/22cd11d9ccbfdafbcb59e805d56e7818"
+                }
+            ]
+        },
+        {
+            "file_id": "5c6ab402934d1ad0cfe26be173d47cae",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Scava nella sua mente",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.009 - Scava nella sua mente.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c6ab402934d1ad0cfe26be173d47cae"
+                }
+            ]
+        },
+        {
+            "file_id": "f6aaf37f4a40c494f108f560defc6c60",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "La grande rivelazione",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.010 - La grande rivelazione.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f6aaf37f4a40c494f108f560defc6c60"
+                }
+            ]
+        },
+        {
+            "file_id": "ab69309267a8703160a58c710cb80c24",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 11,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Tatuata a morte",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.011 - Tatuata a morte.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab69309267a8703160a58c710cb80c24"
+                }
+            ]
+        },
+        {
+            "file_id": "ab30614247822143ab93a16d3a716150",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 12,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Il libro dei segreti",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.012 - Il libro dei segreti.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab30614247822143ab93a16d3a716150"
+                }
+            ]
+        },
+        {
+            "file_id": "3afe56492db6814d1e38bdd157ec5f91",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 13,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Una metodica follia",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.013 - Una metodica follia.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3afe56492db6814d1e38bdd157ec5f91"
+                }
+            ]
+        },
+        {
+            "file_id": "50d690a7eecd7e0b66b0929fcb43d702",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 14,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Un\u2019esplosione dal passato",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.014 - Un\u2019esplosione dal passato.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50d690a7eecd7e0b66b0929fcb43d702"
+                }
+            ]
+        },
+        {
+            "file_id": "a1c1c36f36facdc0f30e359c50cd3bb1",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 15,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Sensi di colpa",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.015 - Sensi di colpa.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a1c1c36f36facdc0f30e359c50cd3bb1"
+                }
+            ]
+        },
+        {
+            "file_id": "a54c22e77c1c9bd662bc9955ed10fe42",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 16,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Un vecchio amico",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.016 - Un vecchio amico.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a54c22e77c1c9bd662bc9955ed10fe42"
+                }
+            ]
+        },
+        {
+            "file_id": "9eecf022170b4dd551a503ef7d7735e6",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 17,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Notte dell\u2019ultimo respiro",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.017 - Notte dell\u2019ultimo respiro.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9eecf022170b4dd551a503ef7d7735e6"
+                }
+            ]
+        },
+        {
+            "file_id": "65e88c64e6260aeefe0986e971a7b33a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 18,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Omaha",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.018 - Omaha.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/65e88c64e6260aeefe0986e971a7b33a"
+                }
+            ]
+        },
+        {
+            "file_id": "3b00833c54a915825f7bbbb92d2bb533",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 19,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Tre topolini ciechi",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.019 - Tre topolini ciechi.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3b00833c54a915825f7bbbb92d2bb533"
+                }
+            ]
+        },
+        {
+            "file_id": "246797796b970c293cea75b5ad61b321",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 4,
+            "episode": 20,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "L\u2018informatico assassino",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.020 - L\u2018informatico assassino.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/246797796b970c293cea75b5ad61b321"
+                }
+            ]
+        },
+        {
+            "file_id": "b7d3e45730838c03154df9fc840933c5",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 21,
+            "episode": 22,
+            "genre": ["Azione", "Crime", "Dramma"],
+            "title": "Blackout - Spirito di squadra",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/4.021.022 - Blackout - Spirito di squadra.avi",
+            "year": "2015",
+            "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b7d3e45730838c03154df9fc840933c5"
+                }
+            ]
+        },
+        {
+            "file_id": "79039c1d92ad5c8a104bd4699af35b23",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Incontri e addii",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.001 - Incontri e addii.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/79039c1d92ad5c8a104bd4699af35b23"
+                }
+            ]
+        },
+        {
+            "file_id": "4e5948dde794322b94bda3d2ebd961c0",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Chiamata all`azione",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.002 - Chiamata all`azione.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4e5948dde794322b94bda3d2ebd961c0"
+                }
+            ]
+        },
+        {
+            "file_id": "39456fc98923b82bf6c0ae450c65058d",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "L`unione fa la forza",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.003 - L`unione fa la forza.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/39456fc98923b82bf6c0ae450c65058d"
+                }
+            ]
+        },
+        {
+            "file_id": "b3fb428fb826ad6b9da31e92612457f2",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Ricordi",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.004 - Ricordi.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b3fb428fb826ad6b9da31e92612457f2"
+                }
+            ]
+        },
+        {
+            "file_id": "42f72aba3eacb68ebf04359ba920e80e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Giochi di mente",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.005 - Giochi di mente.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/42f72aba3eacb68ebf04359ba920e80e"
+                }
+            ]
+        },
+        {
+            "file_id": "4279dea6e3f57f0b66ee9854511640cd",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Caccia al tesoro",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.006 - Caccia al tesoro.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4279dea6e3f57f0b66ee9854511640cd"
+                }
+            ]
+        },
+        {
+            "file_id": "e9b3570f6202a1214ef066cfc32e6bdf",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Il prezzo da pagare",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.007 - Il prezzo da pagare.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e9b3570f6202a1214ef066cfc32e6bdf"
+                }
+            ]
+        },
+        {
+            "file_id": "b39e069631eaba0e5831e45f58ec3d43",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Il cerchio si stringe",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.008 - Il cerchio si stringe.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b39e069631eaba0e5831e45f58ec3d43"
+                }
+            ]
+        },
+        {
+            "file_id": "1b668b5ef34d404f16a0d7d2b08f0e3e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Scacco alla regina",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.009 - Scacco alla regina.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b668b5ef34d404f16a0d7d2b08f0e3e"
+                }
+            ]
+        },
+        {
+            "file_id": "c6d9647ab9314ea611f965d9d2aebb0a",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "Hacker contro hacker",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.010 - Hacker contro hacker.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c6d9647ab9314ea611f965d9d2aebb0a"
+                }
+            ]
+        },
+        {
+            "file_id": "9701482ce72d95a6876eb4c48f25d84e",
+            "tmdb_id": 62710,
+            "saga": "Blindspot",
+            "season": 5,
+            "episode": 11,
+            "genre": ["Crime", "Dramma", "Action & Adventure"],
+            "title": "L`ultimo caso",
+            "fname": "/SerieTV/Blindspot (2015) [a62710]/5.011 - L`ultimo caso.mkv",
+            "year": "2015",
+           "actors": ["Jaimie Alexander", "Sullivan Stapleton", "Ashley Johnson", "Audrey Esparza", "Ennis Esmer"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9701482ce72d95a6876eb4c48f25d84e"
+                }
+            ]
+        }
     ]
 }

@@ -1,114 +1,174 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 87689,
-			"number": "1x1",
-			"saga": "Warrior Nun",
-			"title": "Salmi 465",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3e42e96933e5873ac42a5a540b655797"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x2",
-			"saga": "Warrior Nun",
-			"title": "Proverbi 3125",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8b1463d3107b2444352a8a92da6c5ff2"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x3",
-			"saga": "Warrior Nun",
-			"title": "Efesini 611",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/131d2a828d57299cf82f1d78137ae594"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x4",
-			"saga": "Warrior Nun",
-			"title": "Siracide 269876890",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12b1bf1a5b388fbf89f6facbe9c30522"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x5",
-			"saga": "Warrior Nun",
-			"title": "Matteo 713",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/369df23ad45a7ff50cac9d89d4f01282"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x6",
-			"saga": "Warrior Nun",
-			"title": "Isaia 3020-21",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/63b81b74feff98ff80bdaefba6a4972e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x7",
-			"saga": "Warrior Nun",
-			"title": "Efesini 422-24",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/281a4988d54446bbe911bedb80edd85d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x8",
-			"saga": "Warrior Nun",
-			"title": "Proverbi 141",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1b825f1bcb7b980e02c3de161788deb0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x9",
-			"saga": "Warrior Nun",
-			"title": "2 Corinzi 104",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4f98de6a9c2fe9b49b0b058b6ac9cd8a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 87689,
-			"number": "1x10",
-			"saga": "Warrior Nun",
-			"title": "Apocalisse 210",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f3dd27a87cce95181b9fb819b7c3325f"
-				}
-			]
-		}
+            "file_id": "6012b26e1eaf0c609d184da257f7192e",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Salmi 465",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.001 - Salmi 465.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6012b26e1eaf0c609d184da257f7192e"
+                }
+            ]
+        },
+        {
+            "file_id": "21db21741793ba8dec8b93c50818c3cf",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Proverbi 3125",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.002 - Proverbi 3125.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/21db21741793ba8dec8b93c50818c3cf"
+                }
+            ]
+        },
+        {
+            "file_id": "c62a2b5e09126962e6a888ffa9624485",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Efesini 611",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.003 - Efesini 611.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c62a2b5e09126962e6a888ffa9624485"
+                }
+            ]
+        },
+        {
+            "file_id": "3caac5c73d135e31dfe310b4a82606e2",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Siracide 269-10",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.004 - Siracide 269-10.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3caac5c73d135e31dfe310b4a82606e2"
+                }
+            ]
+        },
+        {
+            "file_id": "e982179cfab92f5f3304acf9fbc3e850",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Matteo 713",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.005 - Matteo 713.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e982179cfab92f5f3304acf9fbc3e850"
+                }
+            ]
+        },
+        {
+            "file_id": "dac7ea8b49b7bee4b51736d6f382d58a",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Isaia 3020-21",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.006 - Isaia 3020-21.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dac7ea8b49b7bee4b51736d6f382d58a"
+                }
+            ]
+        },
+        {
+            "file_id": "8dc8e2dcce1a62ac37d679c0a4864d38",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Efesini 422-24",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.007 - Efesini 422-24.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8dc8e2dcce1a62ac37d679c0a4864d38"
+                }
+            ]
+        },
+        {
+            "file_id": "1eeebbc2df3a0de4790521debceac420",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Proverbi 141",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.008 - Proverbi 141.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1eeebbc2df3a0de4790521debceac420"
+                }
+            ]
+        },
+        {
+            "file_id": "f730960269ac40cf876a8bdd62252a9b",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "2 Corinzi 104",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.009 - 2 Corinzi 104.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f730960269ac40cf876a8bdd62252a9b"
+                }
+            ]
+        },
+        {
+            "file_id": "0db15264b756a6038776be42fe1afeb9",
+            "tmdb_id": 87689,
+            "saga": "Warrior Nun",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "title": "Apocalisse 210",
+            "fname": "/SerieTV/Warrior Nun (2020) [87689]/1.010 - Apocalisse 210.mkv",
+            "year": "2020",
+            "actors": ["Alba Baptista", "Toya Turner", "Trist\u00e1n Ulloa", "Kristina Tonteri-Young", "Lorena Andrea"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0db15264b756a6038776be42fe1afeb9"
+                }
+            ]
+        }
     ]
 }
