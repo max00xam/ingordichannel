@@ -1,6 +1,33 @@
 {
     "tvshows_list": [
         {
+            "plot": "ALF \u00e8 una serie televisiva fantascientifica per bambini, che segue le avventure di un amichevole (e un po' pasticcione) forma di vita aliena (da cui il nome ALF, alien life form) che si schianta nel garage di una comune famiglia americana con figli, i Tanner e finisce per conviverci.\n\nE' composta di 4 stagioni, per un totale di 102 episodi inizialmente trasmessi dalla NBC dal settembre 1986 fino al Marzo del 1990. Fu la prima serie presentata in Dolby Surrond.",
+            "title": "ALF",
+            "saga": "ALF",
+            "year": "1986",
+            "tmdb_id": "4658",
+            "genre": ["Commedia", "Famiglia"],
+            "url": "/SERIE-TV/serie/alf_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
             "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sar\u00e0 conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'\u00e8 il \"tuttofare\" Mike Erhmantraut.",
             "title": "Batter Call Saul",
             "saga": "Batter Call Saul",
