@@ -86,7 +86,7 @@
 		},
 		{
 			"title": "Registi di culto",
-			"link": "/REGISTI_DI_CULTO/film.json",
+			"link": "/FILM/film.json",
 			"thumbnail": "/Immagini/registi.jpg",
 			"level2": {
 				"search": "",
