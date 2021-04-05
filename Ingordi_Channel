@@ -86,13 +86,11 @@
 		},
 		{
 			"title": "Registi di culto",
-			"link": "/REGISTI_DI_CULTO/registi.json",
+			"link": "/REGISTI_DI_CULTO/film.json",
 			"thumbnail": "/Immagini/registi.jpg",
 			"level2": {
 				"search": "",
-				"genre": "Genere",
-				"director": "Regista",
-				"year": "Anno"
+				"culto": "Registi di Culto"
 			}
 		},
 		{
