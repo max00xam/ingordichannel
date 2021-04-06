@@ -23,6 +23,10 @@
 				"actors": "Attori",
 				"director": "Regista",
 				"year": "Anno",
+				"culto": {
+					"title": "Registi di Culto",
+					"description": "/FILM/description_culto.json"
+				},
 				"saga": {
 					"title": "Saghe",
 					"description": "/FILM/description_film.json"
@@ -82,15 +86,6 @@
 					"title": "Attori",
 					"description": "/TEATRO/description.json"
 				}
-			}
-		},
-		{
-			"title": "Registi di culto",
-			"link": "/FILM/film.json",
-			"thumbnail": "/Immagini/registi.jpg",
-			"level2": {
-				"search": "",
-				"culto": "Registi di Culto"
 			}
 		},
 		{
