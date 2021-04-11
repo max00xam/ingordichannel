@@ -1,154 +1,258 @@
 {
     "episodes_list": [
         {
-            "file_id": "489f936f3065039e75bae56269af9527",
+            "file_id": "37d3326774ce7cea05c2e22d6dd81c1b",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 1,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x01.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x01.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Campo Cretaceo",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.001 - Campo Cretaceo.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/489f936f3065039e75bae56269af9527"
+                    "url": "http://51.77.159.233:30299/37d3326774ce7cea05c2e22d6dd81c1b"
                 }
             ]
         },
         {
-            "file_id": "aea598613b442cc2bbea17783517cfd9",
+            "file_id": "aa7a1c54429057b364b32ab4dae114b8",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 2,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x02.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x02.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Segreti",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.002 - Segreti.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/aea598613b442cc2bbea17783517cfd9"
+                    "url": "http://51.77.159.233:30299/aa7a1c54429057b364b32ab4dae114b8"
                 }
             ]
         },
         {
-            "file_id": "fdb03a85f271f3ce6d35b34de3342cdf",
+            "file_id": "beb0eff46f78ce27dc1b1921bf3e1e41",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 3,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x03.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x03.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "La transumanza",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.003 - La transumanza.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/fdb03a85f271f3ce6d35b34de3342cdf"
+                    "url": "http://51.77.159.233:30299/beb0eff46f78ce27dc1b1921bf3e1e41"
                 }
             ]
         },
         {
-            "file_id": "05817b46a5db05c492372a0d0f1046f5",
+            "file_id": "1636885cf810cbaf2cc33199963f6f00",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 4,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x04.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x04.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Quando tutto va in pezzi",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.004 - Quando tutto va in pezzi.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/05817b46a5db05c492372a0d0f1046f5"
+                    "url": "http://51.77.159.233:30299/1636885cf810cbaf2cc33199963f6f00"
                 }
             ]
         },
         {
-            "file_id": "d0cdabefa33918c3de7d3056ed54175b",
+            "file_id": "e03fd5fef9a3e3c9662dc5c3f6c35dc5",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 5,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x05.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x05.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Buon compleanno, Eddie!",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.005 - Buon compleanno, Eddie!.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/d0cdabefa33918c3de7d3056ed54175b"
+                    "url": "http://51.77.159.233:30299/e03fd5fef9a3e3c9662dc5c3f6c35dc5"
                 }
             ]
         },
         {
-            "file_id": "bfacb047ee22da867112eff91b9147c1",
+            "file_id": "da15375caedbd3274c7397b6d3b0b364",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 6,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x06.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x06.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Benvenuti a Jurassic World",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.006 - Benvenuti a Jurassic World.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/bfacb047ee22da867112eff91b9147c1"
+                    "url": "http://51.77.159.233:30299/da15375caedbd3274c7397b6d3b0b364"
                 }
             ]
         },
         {
-            "file_id": "c7a87a86a00c04b54a09eb8cec21654a",
+            "file_id": "14b524bdef35a737daad60b94535b06a",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 7,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x07.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x07.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "L`ultimo giorno al campo",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.007 - L`ultimo giorno al campo.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/c7a87a86a00c04b54a09eb8cec21654a"
+                    "url": "http://51.77.159.233:30299/14b524bdef35a737daad60b94535b06a"
                 }
             ]
         },
         {
-            "file_id": "7d6549aa168d0f2dfef1f0f35468ca74",
+            "file_id": "c97c1de97be05b1c47413c3010653e12",
             "tmdb_id": 93741,
             "saga": "Jurassic World Nuove Avventure",
             "season": 1,
             "episode": 8,
-            "genre": ["Action & Adventure", "Animazione"],
-            "title": "1x08.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA",
-            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1x08.Jurassic.World.Nuove.Avventure.@CartoonAnimeITA.mkv.mkv",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Fine della corsa",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/1.008 - Fine della corsa.mkv",
             "year": "2020",
-            "plot": "Quando i dinosauri seminano il caos sull'isola, sei ragazzi di un campo avventura sul versante opposto di Isla Nublar devono unire le forze per sopravvivere.",
-            "director": ["Michael Mullen", "Zesung Kang"],
-            "actors": ["Glen Powell", "Kausar Mohammed", "Sean Giambrone", "Jameela Jamil", "Paul-Mik\u00e9l Williams", "Jenna Ortega", "Raini Rodriguez", "Ryan Potter"],
             "links": [
                 {
-                    "url": "http://51.77.159.233:30299/7d6549aa168d0f2dfef1f0f35468ca74"
+                    "url": "http://51.77.159.233:30299/c97c1de97be05b1c47413c3010653e12"
+                }
+            ]
+        },
+        {
+            "file_id": "71cc8b4a62fd677c270796e4b61db552",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Il faro della speranza",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.001 - Il faro della speranza.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/71cc8b4a62fd677c270796e4b61db552"
+                }
+            ]
+        },
+        {
+            "file_id": "047f43de1ec5e7db31d321e19aae9070",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "L`arte di rilassarsi",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.002 - L`arte di rilassarsi.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/047f43de1ec5e7db31d321e19aae9070"
+                }
+            ]
+        },
+        {
+            "file_id": "e91fada3243aad322c653ca426fd4971",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "La pozza d`acqua",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.003 - La pozza d`acqua.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e91fada3243aad322c653ca426fd4971"
+                }
+            ]
+        },
+        {
+            "file_id": "bb6ba7f8dbf3a665039057e9f4cab2ce",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Salvezza",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.004 - Salvezza.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bb6ba7f8dbf3a665039057e9f4cab2ce"
+                }
+            ]
+        },
+        {
+            "file_id": "c692b4123bca378ffd06ce2ab0e6c5d0",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Coraggio",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.005 - Coraggio.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c692b4123bca378ffd06ce2ab0e6c5d0"
+                }
+            ]
+        },
+        {
+            "file_id": "4de0c43ca3078de8795ae350d1c6c2c4",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Incauti",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.006 - Incauti.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4de0c43ca3078de8795ae350d1c6c2c4"
+                }
+            ]
+        },
+        {
+            "file_id": "9231885e5c4b96d3760db495da8daafe",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "Prima mossa",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.007 - Prima mossa.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9231885e5c4b96d3760db495da8daafe"
+                }
+            ]
+        },
+        {
+            "file_id": "be18195614df71e441ada78556d82d21",
+            "tmdb_id": 93741,
+            "saga": "Jurassic World Nuove Avventure",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "title": "La teoria del caos",
+            "fname": "/Anime & Cartoni/Jurassic World Nuove Avventure (2020) [a93741]/2.008 - La teoria del caos.mkv",
+            "year": "2020",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be18195614df71e441ada78556d82d21"
                 }
             ]
         }
