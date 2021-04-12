@@ -1,147 +1,225 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 82001,
-			"number": "1x1",
-			"saga": "Roswell, New Mexico",
-			"title": "La città misteriosa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa38d06db823ef37fbaf5a5741cd6eff"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x2",
-			"saga": "Roswell, New Mexico",
-			"title": "Alla ricerca della verità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/43438b88bfc49ea64b666db9eebe3a79"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x3",
-			"saga": "Roswell, New Mexico",
-			"title": "Note dal passato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d03f1ea062a56eb5d872fcaaedf9689"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x4",
-			"saga": "Roswell, New Mexico",
-			"title": "Dove sono finiti i cowboy",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8da1e134e8b62c4f567cfca6514aaa12"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x5",
-			"saga": "Roswell, New Mexico",
-			"title": "Un segreto inviolabile",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7cdc5fc9b781a21b278b1c3b0ea1da3a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x6",
-			"saga": "Roswell, New Mexico",
-			"title": "Il senso dell'abbandono",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e7f1fe6fe6518454729b82e8dba18fac"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x7",
-			"saga": "Roswell, New Mexico",
-			"title": "Il segno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7a2ee8f1ed47d5156c98c802e7e9e835"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x8",
-			"saga": "Roswell, New Mexico",
-			"title": "Effetti collaterali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f0912020b496c4bb0d44cf1b9dbcd162"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x9",
-			"saga": "Roswell, New Mexico",
-			"title": "Il disegno misterioso",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ef462e2b141ae1d2918ce6698b78655a"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x10",
-			"saga": "Roswell, New Mexico",
-			"title": "Memorie lontane",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4c6dfda78951b73092c843b93fb97819"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x11",
-			"saga": "Roswell, New Mexico",
-			"title": "Il quarto alieno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fe867b6ea9219da909dd693dd85eec32"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x12",
-			"saga": "Roswell, New Mexico",
-			"title": "Contrasti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e045b08207a63eb54bf04dac133678ab"
-				}
-			]
-		},
-		{
-			"tmdb_id": 82001,
-			"number": "1x13",
-			"saga": "Roswell, New Mexico",
-			"title": "Ofiuco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5fcd7ec2269832f06330d2f186696143"
-				}
-			]
-		}
+            "file_id": "721257f284bdcd57071307889d7c8b26",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "La citt\u00e0 misteriosa",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.01 - La citt\u00e0 misteriosa.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/721257f284bdcd57071307889d7c8b26"
+                }
+            ]
+        },
+        {
+            "file_id": "1a264d2416c0b7cc41575c98f30d283e",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Alla ricerca della verit\u00e0",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.02 - Alla ricerca della verit\u00e0.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a264d2416c0b7cc41575c98f30d283e"
+                }
+            ]
+        },
+        {
+            "file_id": "aadede0f27df8e71ea06c1d90d62ecee",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Note dal passato",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.03 - Note dal passato.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aadede0f27df8e71ea06c1d90d62ecee"
+                }
+            ]
+        },
+        {
+            "file_id": "e59f957658466646a20573c0cd91464f",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Dove sono finiti i cowboy",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.04 - Dove sono finiti i cowboy.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e59f957658466646a20573c0cd91464f"
+                }
+            ]
+        },
+        {
+            "file_id": "e16ba3a52b3f9fd42392f05121851f6f",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Un segreto inviolabile",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.05 - Un segreto inviolabile.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e16ba3a52b3f9fd42392f05121851f6f"
+                }
+            ]
+        },
+        {
+            "file_id": "1d9909ac30ef35795ce40131b71fe4bb",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Il senso dell'abbandono",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.06 - Il senso dell'abbandono.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d9909ac30ef35795ce40131b71fe4bb"
+                }
+            ]
+        },
+        {
+            "file_id": "d15b0975300881c2f07234b56069fc6d",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Il segno",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.07 - Il segno.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d15b0975300881c2f07234b56069fc6d"
+                }
+            ]
+        },
+        {
+            "file_id": "e40f1e8df8bb7534751224cf60f00826",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Effetti collaterali",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.08 - Effetti collaterali.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e40f1e8df8bb7534751224cf60f00826"
+                }
+            ]
+        },
+        {
+            "file_id": "1593a48af51c0ee4f6effe1c6eb1664d",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Il disegno misterioso",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.09 - Il disegno misterioso.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1593a48af51c0ee4f6effe1c6eb1664d"
+                }
+            ]
+        },
+        {
+            "file_id": "af22e357d32fc686e4eb424bf4172d6c",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Memorie lontane",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.10 - Memorie lontane.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/af22e357d32fc686e4eb424bf4172d6c"
+                }
+            ]
+        },
+        {
+            "file_id": "ab51cd3895fc689fe15c927d512ba89d",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Il quarto alieno",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.11 - Il quarto alieno.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ab51cd3895fc689fe15c927d512ba89d"
+                }
+            ]
+        },
+        {
+            "file_id": "0067a8313a2a943efc0cad14e4dbe014",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Contrasti",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.12 - Contrasti.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0067a8313a2a943efc0cad14e4dbe014"
+                }
+            ]
+        },
+        {
+            "file_id": "152ded86a81e7b2e4fbc335a12ea7396",
+            "tmdb_id": 82001,
+            "saga": "Roswell, New Mexico",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma"],
+            "title": "Ofiuco",
+            "fname": "/SerieTV/Roswell, New Mexico [a82001]/1.13 - Ofiuco.mp4",
+            "year": "2019",
+            "actors": ["Heather Hemmens", "Lily Cowles", "Jeanine Mason", "Nathan Parsons", "Michael Trevino", "Michael Vlamis", "Tyler Blackburn"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/152ded86a81e7b2e4fbc335a12ea7396"
+                }
+            ]
+        }
     ]
 }

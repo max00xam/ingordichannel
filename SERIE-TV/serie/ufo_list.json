@@ -1,290 +1,472 @@
 {
     "episodes_list": [
         {
-			"tmdb_id": 2560,
-			"number": "1x1",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Finalmente identificato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/be243a9e97a712a15f901e5c75e6d2af"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x2",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Controllo computer",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/37c9e89bda96ef148b02400a410a9803"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x3",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Traditore per forza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/101d76203d611a8679a3fcead0b10da0"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x4",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Progetto Foster",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d49e6d75a3afec144ba9ea3118223c28"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x5",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Bonifica spaziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c7055624c4ad3048c207686d8c9d7b75"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x6",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Salvataggio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fa17ee72198f25429d8bb7b4e5c6503f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x7",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "I globi di fuoco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9c221224df305a08f5c406e34f8f87cc"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x8",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Questione di priorità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0bf280bbfe318c926a9a7be570fb485d"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x9",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Incubo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/17ac8f0c00cac7730d448612fbfff000"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x10",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Il posto delle decisioni",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6539dae45955c7f5d7efd5aac8862fd8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x11",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Il triangolo quadrato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d989698a3f3641f41d741fd69206a76f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x12",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Corte marziale",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12b0b0bba75270318e9ac6052ce02e72"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x13",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "L'ingrandimento",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7d196b457421843d239c41e42b16cf68"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x14",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Controllo confetti OK",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0b2540cb987d1892aaa4a1b4c86c1048"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x15",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Percezioni extrasensoriali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ed433e2c73221dd20d517abf041e5d3e"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x16",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Uccidete Straker",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6e8fcc8a67b6acc7296458d1dc4d5cb6"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x17",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Sul fondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ba1d8cca9ed27d18a8fa041e94b5fa8"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x18",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Troppo silenzio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4f5ed8ebd6331844aa0b540440b8297f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x19",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "L'occhio del gatto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f214a3ccc339790644a6e7c245fa692c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x20",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Distruzione nell'atlantico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6f779873bcb53384aa4c8c2e7239009f"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x21",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Missione senza ritorno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fcde8919abcb63f6989c8d018d212961"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x22",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Bombe psicologiche",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ead076da1043632fd297f37888d08c4"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x23",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Riflessi nell'acqua",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ffeddecaf749bddae25c0758e2dddda7"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x24",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Il tempo si è fermato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e23bccb4666339765f2957d0bb965aa"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x25",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Distorsioni mentali",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4b68e74965af787eb210e9eeeca8c37c"
-				}
-			]
-		},
-		{
-			"tmdb_id": 2560,
-			"number": "1x26",
-			"saga": "Ufo S.H.A.D.O.",
-			"title": "Il lungo sonno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/028290b49cee0997531fcb0b97ddc698"
-				}
-			]
-		}
+            "file_id": "abcc5534251c65ed1b463d9d4546dc92",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Finalmente identificato",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.01 - Finalmente identificato.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/abcc5534251c65ed1b463d9d4546dc92"
+                }
+            ]
+        },
+        {
+            "file_id": "4fbacc9d7145d7e2e4a4d780c2915b1b",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Controllo computer",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.02 - Controllo computer.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4fbacc9d7145d7e2e4a4d780c2915b1b"
+                }
+            ]
+        },
+        {
+            "file_id": "4878ed00e072132a434472ac0c5a61ff",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Traditore per forza",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.03 - Traditore per forza.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4878ed00e072132a434472ac0c5a61ff"
+                }
+            ]
+        },
+        {
+            "file_id": "d59e47f254cdb426b8e8b7d30c69c3c7",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Progetto Foster",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.04 - Progetto Foster.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d59e47f254cdb426b8e8b7d30c69c3c7"
+                }
+            ]
+        },
+        {
+            "file_id": "3275bf5a64d406caa56790fd1798a0a9",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Bonifica spaziale",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.05 - Bonifica spaziale.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3275bf5a64d406caa56790fd1798a0a9"
+                }
+            ]
+        },
+        {
+            "file_id": "ad829f7c4253a9ef0a84b02bfbf47608",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Salvataggio",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.06 - Salvataggio.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ad829f7c4253a9ef0a84b02bfbf47608"
+                }
+            ]
+        },
+        {
+            "file_id": "909fa2651a35bad79a9e3244b1228ed9",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "I globi di fuoco",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.07 - I globi di fuoco.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/909fa2651a35bad79a9e3244b1228ed9"
+                }
+            ]
+        },
+        {
+            "file_id": "f69dee2c7b865cb91710e3fd6edb9138",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Questione di priorit\u00e0",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.08 - Questione di priorit\u00e0.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f69dee2c7b865cb91710e3fd6edb9138"
+                }
+            ]
+        },
+        {
+            "file_id": "d81ac077ce38e22a2607284c1a945e36",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Incubo",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.09 - Incubo.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d81ac077ce38e22a2607284c1a945e36"
+                }
+            ]
+        },
+        {
+            "file_id": "7d03a29c4016d2df4236855bb065bdfd",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Il posto delle decisioni",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.10 - Il posto delle decisioni.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7d03a29c4016d2df4236855bb065bdfd"
+                }
+            ]
+        },
+        {
+            "file_id": "b15e736ccb0f91cc1a46285f27544205",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Il triangolo quadrato",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.11 - Il triangolo quadrato.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b15e736ccb0f91cc1a46285f27544205"
+                }
+            ]
+        },
+        {
+            "file_id": "033b967dcf8ae35eb4801499ed1bd22c",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Corte marziale",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.12 - Corte marziale.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/033b967dcf8ae35eb4801499ed1bd22c"
+                }
+            ]
+        },
+        {
+            "file_id": "e10e028a425df79a204b3d5ffb6c52fa",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "L'ingrandimento",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.13 - L'ingrandimento.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e10e028a425df79a204b3d5ffb6c52fa"
+                }
+            ]
+        },
+        {
+            "file_id": "edbd2703e79ef0d82dd66c70458eabb5",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Controllo confetti OK",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.14 - Controllo confetti OK.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/edbd2703e79ef0d82dd66c70458eabb5"
+                }
+            ]
+        },
+        {
+            "file_id": "0d6b3b5bc2336c32bca9e3af92cd2f27",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Percezioni extrasensoriali",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.15 - Percezioni extrasensoriali.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0d6b3b5bc2336c32bca9e3af92cd2f27"
+                }
+            ]
+        },
+        {
+            "file_id": "0dcc622c46e8772c255b314bf26f4a98",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Uccidete Straker",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.16 - Uccidete Straker.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0dcc622c46e8772c255b314bf26f4a98"
+                }
+            ]
+        },
+        {
+            "file_id": "38751b8daf3f8d57a8e75456e33a8e26",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Sul fondo",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.17 - Sul fondo.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/38751b8daf3f8d57a8e75456e33a8e26"
+                }
+            ]
+        },
+        {
+            "file_id": "50ae2f450311a5281ef3bf9fd4c1de9d",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Troppo silenzio",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.18 - Troppo silenzio.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50ae2f450311a5281ef3bf9fd4c1de9d"
+                }
+            ]
+        },
+        {
+            "file_id": "7350862b6e9c1220305ad8591b666e2f",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "L'occhio del gatto",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.19 - L'occhio del gatto.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7350862b6e9c1220305ad8591b666e2f"
+                }
+            ]
+        },
+        {
+            "file_id": "6a4bc0bee5c5324c88bd2f2e97b2eea5",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Distruzione nell'atlantico",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.20 - Distruzione nell'atlantico.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a4bc0bee5c5324c88bd2f2e97b2eea5"
+                }
+            ]
+        },
+        {
+            "file_id": "1bf8fb4afda2f58a601eca23362147d7",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 21,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Missione senza ritorno",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.21 - Missione senza ritorno.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1bf8fb4afda2f58a601eca23362147d7"
+                }
+            ]
+        },
+        {
+            "file_id": "418455d0523d4b49f9321f770afac6a3",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 22,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Bombe psicologiche",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.22 - Bombe psicologiche.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/418455d0523d4b49f9321f770afac6a3"
+                }
+            ]
+        },
+        {
+            "file_id": "336fcdf2239da3aed105f5b1177c4416",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 23,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Riflessi nell'acqua",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.23 - Riflessi nell'acqua.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/336fcdf2239da3aed105f5b1177c4416"
+                }
+            ]
+        },
+        {
+            "file_id": "841a11b2fa3e13ea08c351b56836670e",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 24,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Il tempo si \u00e8 fermato",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.24 - Il tempo si \u00e8 fermato.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/841a11b2fa3e13ea08c351b56836670e"
+                }
+            ]
+        },
+        {
+            "file_id": "57a0337db727c26d05b7c6509d266b5c",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 25,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Distorsioni mentali",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.25 - Distorsioni mentali.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/57a0337db727c26d05b7c6509d266b5c"
+                }
+            ]
+        },
+        {
+            "file_id": "6d0c9edbbf8c4dc9b29a3fd9480d01fd",
+            "tmdb_id": 2560,
+            "saga": "Ufo S.H.A.D.O.",
+            "season": 1,
+            "episode": 26,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Action & Adventure"],
+            "title": "Il lungo sonno",
+            "fname": "/SerieTV/Ufo S.H.A.D.O. [a2560]/1.26 - Il lungo sonno.mp4",
+            "year": "1970",
+            "plot": "Negli anni '80 la Terra \u00e8 minacciata da una specie aliena che rapisce ed uccide gli umani per usarne parti del corpo.",
+            "actors": ["Ed Bishop"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6d0c9edbbf8c4dc9b29a3fd9480d01fd"
+                }
+            ]
+        }
     ]
 }

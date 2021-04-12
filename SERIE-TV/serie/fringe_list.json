@@ -1,1104 +1,1604 @@
 {
     "episodes_list": [
         {
-			"tvdb_id": 82066,
-			"number": "1x1",
-			"saga": "Fringe",
-			"title": "Il laboratorio del dottor Bishop",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aef2e874e6eaeafcebd973195a46a5fe"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x2",
-			"saga": "Fringe",
-			"title": "La solita vecchia storia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/816347b917a991c74ef8e510543d15cb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x3",
-			"saga": "Fringe",
-			"title": "La rete fantasma",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5cb7358af87f08ad9636a82531e21170"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x4",
-			"saga": "Fringe",
-			"title": "E' arrivato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f9bec903d40ea2c6bc2434537c7c34a4"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x5",
-			"saga": "Fringe",
-			"title": "Sete di potere",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/29d8234c65972e296082d252520edcd4"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x6",
-			"saga": "Fringe",
-			"title": "La cura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bbf00cf9d578cbf5ebb81c8c75df76ed"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x7",
-			"saga": "Fringe",
-			"title": "Piacere sig Jones",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5061d224d382a4e969ecddac49355d52"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x8",
-			"saga": "Fringe",
-			"title": "L'equazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/52e9774562352755e143c3bc7cee22b3"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x9",
-			"saga": "Fringe",
-			"title": "Fuga nel sogno",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c9aa8515b5373e7777b99784c1c834c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x10",
-			"saga": "Fringe",
-			"title": "Al sicuro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/660a92182cfd2970532d68503d8eb643"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x11",
-			"saga": "Fringe",
-			"title": "Risposte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f192e66eb673c92c8bad2000e3440cbb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x12",
-			"saga": "Fringe",
-			"title": "Lo strizzacervelli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c146f2a53c0e7cdaad385ec462ccff1d"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x13",
-			"saga": "Fringe",
-			"title": "Trasformazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93a52ad834313ccbca04a12a3175f447"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x14",
-			"saga": "Fringe",
-			"title": "Prova di abilità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2c83f606c34b226ff2048097da7a086a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x15",
-			"saga": "Fringe",
-			"title": "Empatia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6db7d4c651d247f833df4a5b574b3e51"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x16",
-			"saga": "Fringe",
-			"title": "Bestia in libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/afe670b31e1b347a5c574e3a63d8fdf8"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x17",
-			"saga": "Fringe",
-			"title": "Incubi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/20d1e6a96fda828e1a5ffa3652e509df"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x18",
-			"saga": "Fringe",
-			"title": "Mezzanotte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/54ba6d040d5c8125e4ad845441c2ec8b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x19",
-			"saga": "Fringe",
-			"title": "La strada non presa",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/faabc857591e80983a770986312ac109"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "1x20",
-			"saga": "Fringe",
-			"title": "Uno sguardo dall'altra parte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/588146b111b187f99db1e4d4f460f757"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x1",
-			"saga": "Fringe",
-			"title": "Un nuovo giorno nella vecchia città",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f80241cda9197139b473c70e25894926"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x2",
-			"saga": "Fringe",
-			"title": "La notte degli oggetti desiderabili",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b033bc541711c7635de975d141763342"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x3",
-			"saga": "Fringe",
-			"title": "Frattura",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/42869a5f918ab3f7c48dd8589e2e0900"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x4",
-			"saga": "Fringe",
-			"title": "Il simbolo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/849b2b345b806ffb450c975f2144410e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x5",
-			"saga": "Fringe",
-			"title": "Sogni elettronici",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7c859d5101d6a73a031a65fbe4675e32"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x6",
-			"saga": "Fringe",
-			"title": "Il cosmonauta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0209af2f9c95b605c9f0abe3a1866a5f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x7",
-			"saga": "Fringe",
-			"title": "Conseguenze indesiderate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0d12f6d2361fad3030c09236c5705a8d"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x8",
-			"saga": "Fringe",
-			"title": "Agosto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b572e283f9a1bc19f7569f7cc8e8d077"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x9",
-			"saga": "Fringe",
-			"title": "Testa di serpente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/661ecb3ba9746eda34a8d40130e749f2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x10",
-			"saga": "Fringe",
-			"title": "Materia grigia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2487492ff1d93ca7feb9821723438b0d"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x11",
-			"saga": "Fringe",
-			"title": "Resurrezione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a5a06a0aea2899e2eaeae2b9aece9be4"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x12",
-			"saga": "Fringe",
-			"title": "Progetto elephant",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/33a19deb899546c2953e356149be2d7a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x13",
-			"saga": "Fringe",
-			"title": "Il contagio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/f792bf5e73d4de9b34a1d61a59d69fc5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x14",
-			"saga": "Fringe",
-			"title": "Segreti di famiglia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/74d5216a8d2131935bfcbadbfe63b2d7"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x15",
-			"saga": "Fringe",
-			"title": "Jacksonville",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/da6ca56f44e3261951d180287b0ed9be"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x16",
-			"saga": "Fringe",
-			"title": "Peter",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/090455e6da67f6fa918f6c797c9c074e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x17",
-			"saga": "Fringe",
-			"title": "Olivia nel laboratorio con la pistola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/4e81094adbf1f4ab45fe80721638b1e2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x18",
-			"saga": "Fringe",
-			"title": "Il tulipano bianco",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/653f5fe972d1c48074c5f93298cef5d0"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x19",
-			"saga": "Fringe",
-			"title": "Sincronia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e8df9eef84b943bd3a21e3783615c22"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x20",
-			"saga": "Fringe",
-			"title": "Cuore di vetro",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/982f3f69444826f188ef82d4cbc5651d"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x21",
-			"saga": "Fringe",
-			"title": "Passaggio a nordovest",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0bc983bbe1a3caf628d41d299e49bfa3"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x22",
-			"saga": "Fringe",
-			"title": "Dall'altra parte parte 1",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3c1048dc4fe3ee48a00cb94740eb9ec5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "2x23",
-			"saga": "Fringe",
-			"title": "Dall'altra parte parte 2",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b520d338a7ea6065386b232db8c24fa7"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x1",
-			"saga": "Fringe",
-			"title": "Olivia",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/81fccaa5a4dd0e8e63d042f7c20a889c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x2",
-			"saga": "Fringe",
-			"title": "La scatola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/eb6c4a0aaf11a3234644a9b28f70ea12"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x3",
-			"saga": "Fringe",
-			"title": "Reazione a catena",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/944e365213400fcc6e77ebc5418e9d13"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x4",
-			"saga": "Fringe",
-			"title": "Sono tra noi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1641a4ebc4ac3999581a28b19aaec84c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x5",
-			"saga": "Fringe",
-			"title": "Ambra 32422",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/53c14be7d0760fa53ce865b45e80e01c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x6",
-			"saga": "Fringe",
-			"title": "6955 khz",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6c68a6ec1791d1e6aecc0c557481343e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x7",
-			"saga": "Fringe",
-			"title": "Rapiti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bed40cee1d7585a83fd24e8a511fad39"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x8",
-			"saga": "Fringe",
-			"title": "Missione compiuta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7f607739189311ccfce688a772ec6545"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x9",
-			"saga": "Fringe",
-			"title": "Marionetta",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/efb1c2cea9cb6b971198494cf4219b74"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x10",
-			"saga": "Fringe",
-			"title": "La lucciola",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/12294b9efd2117f872bfad2762a53b5a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x11",
-			"saga": "Fringe",
-			"title": "Reciprocità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/a7ac1807de6882bca22c68a1b6892e74"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x12",
-			"saga": "Fringe",
-			"title": "Concentrati e chiedi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/401b1d5de4401de9dd99425973bade33"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x13",
-			"saga": "Fringe",
-			"title": "Immortalità",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/b30b75dd4a9090a7428258581d0ebc42"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x14",
-			"saga": "Fringe",
-			"title": "Interno 6b",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/78f11b7fca9b7da23899583027f4400e"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x15",
-			"saga": "Fringe",
-			"title": "Soggetto 13",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6291261de3a61fb378e9ed8b9d9d6579"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x16",
-			"saga": "Fringe",
-			"title": "Os",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75fb097f021afbe280ae483ad140e1a3"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x17",
-			"saga": "Fringe",
-			"title": "Passeggera clandestina",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/34736e56bb8cce95559d9bff97ad6d13"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x18",
-			"saga": "Fringe",
-			"title": "Discendenza di sangue",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/111ed80faf2aca0934cb34e5cdf2a2af"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x19",
-			"saga": "Fringe",
-			"title": "LSD",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62de60024c56dff5a0c927e305c4e04f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x20",
-			"saga": "Fringe",
-			"title": "6:02 am",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/148718b891507fad61c4f90225f5d4ea"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x21",
-			"saga": "Fringe",
-			"title": "L'ultimo Sam Weiss",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2892b4805f354a82c7991767696908a5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "3x22",
-			"saga": "Fringe",
-			"title": "Il giorno in cui siamo morti",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7ed386a2d17f53c82c98389b61fcb5b8"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x1",
-			"saga": "Fringe",
-			"title": "Né di qua né di là",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/e88ee36e15a4def2721e5672aacbe8fb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x2",
-			"saga": "Fringe",
-			"title": "Una sera di ottobre",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/907c0494bfcadad246ba968f5c0f5ae6"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x3",
-			"saga": "Fringe",
-			"title": "Solo al mondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/8e080684c88468c45b065b34e632b7b7"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x4",
-			"saga": "Fringe",
-			"title": "Soggetto nr 9",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/bb603daab333a52367b5b271da95157c"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x5",
-			"saga": "Fringe",
-			"title": "Sostituzione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/df3f99b6ed330f34b121c757c577c34f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x6",
-			"saga": "Fringe",
-			"title": "Chi non e più con noi",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2ed9dd4bf411b786e9a93374670fb7e3"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x7",
-			"saga": "Fringe",
-			"title": "Camaleonte",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/7601f3ba64c3323c4e5a009d20103ed9"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x8",
-			"saga": "Fringe",
-			"title": "Missione per due",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/801f16646a4513a2912c308759e996b2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x9",
-			"saga": "Fringe",
-			"title": "Nemico del mio nemico",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/deeb8c3f3d45b4cb9e7848c84cbbbc62"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x10",
-			"saga": "Fringe",
-			"title": "Visioni forzate",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/aa58fe46060bdd157ac43a412e193d2b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x11",
-			"saga": "Fringe",
-			"title": "Per diventare angeli",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d56f8bdedf03a370a3e78e53c5839d42"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x12",
-			"saga": "Fringe",
-			"title": "Benvenuti a Westfield",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/9a969e2cb92efcef7093a8580bc0a172"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x13",
-			"saga": "Fringe",
-			"title": "Un essere umano migliore",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d46562e182e1edec72c85dcc9a39de01"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x14",
-			"saga": "Fringe",
-			"title": "La fine di tutto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2555c4ea040ea740052ff526570b72cc"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x15",
-			"saga": "Fringe",
-			"title": "Brevi amori",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/485ccd02ed5bc6a1ac5361f98c05402f"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x16",
-			"saga": "Fringe",
-			"title": "Nulla è come sembra",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/d8afdce7c9fd048973476267f95bf6f8"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x17",
-			"saga": "Fringe",
-			"title": "Ogni cosa al suo posto",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/c58a18ff24cea2ecfad74c331cf24229"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x18",
-			"saga": "Fringe",
-			"title": "Il consulente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/3afb91562d0089d6bff6531a78cee342"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x19",
-			"saga": "Fringe",
-			"title": "Lettere di transito",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/75746fbca98123a7907994dfb7ea9888"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x20",
-			"saga": "Fringe",
-			"title": "A un mondo di distanza",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/1e4bdae2c6778def8bd6e5a721f5fe55"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x21",
-			"saga": "Fringe",
-			"title": "Il coraggio di un nuovo mondo (1a parte)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/71659533b59721f33fb2b9a00d4cf7f5"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "4x22",
-			"saga": "Fringe",
-			"title": "Il coraggio di un nuovo mondo (2a parte)",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/ed190707a46c382af327e130855a2121"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x1",
-			"saga": "Fringe",
-			"title": "Unificatore di pensieri",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/93b7a02bff74a3302e8b837f83c081f6"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x2",
-			"saga": "Fringe",
-			"title": "Il mondo è cambiato",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/2df3215b2bd136c2ce04a89bbb1df542"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x3",
-			"saga": "Fringe",
-			"title": "L'archivista",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/5fd83c234f4ae47e33ee0ffe6abc0700"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x4",
-			"saga": "Fringe",
-			"title": "La pallottola che salvò il mondo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/6d3893a8d80b8035d17d6b5c5a592a4a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x5",
-			"saga": "Fringe",
-			"title": "Il prologo",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/cab1d5181d177deb0458f7e5160c76bb"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x6",
-			"saga": "Fringe",
-			"title": "Attraverso lo specchio",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/62a2d3d40f2b51f8f7a727b89fb8e73b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x7",
-			"saga": "Fringe",
-			"title": "La combinazione",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/00e4030cac9fbbe1ca2595290fe296ab"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x8",
-			"saga": "Fringe",
-			"title": "Genere umano",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/dea5652354ca2d3f81b70572b6b4e0c1"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x9",
-			"saga": "Fringe",
-			"title": "Tampone nero",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/0c464d5ab95be6a56cd09316dcfb029a"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x10",
-			"saga": "Fringe",
-			"title": "Anomalia xb-6783746",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/405531edb8e73914da09ffd3d2ece645"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x11",
-			"saga": "Fringe",
-			"title": "Prova vivente",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/027d7695d45d4e1933b2b93a19ef443b"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x12",
-			"saga": "Fringe",
-			"title": "L'isola della libertà",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/fd9ef9ce86fd4b825c9d289c4d34d9d2"
-				}
-			]
-		},
-		{
-			"tvdb_id": 82066,
-			"number": "5x13",
-			"saga": "Fringe",
-			"title": "Nemico del destino",
-			"links": [
-				{
-					"url": "http://51.77.159.233:30299/90cb85d3e76134133546a3fc867f3198"
-				}
-			]
-		}  
+            "file_id": "2902b469874212a4f52c44b859afea44",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il laboratorio del dottor Bishop",
+            "fname": "/SerieTV/Fringe [a1705]/1.01 - Il laboratorio del dottor Bishop.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2902b469874212a4f52c44b859afea44"
+                }
+            ]
+        },
+        {
+            "file_id": "eb6e86284a29e211b00a41ff30dc73b9",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La solita vecchia storia",
+            "fname": "/SerieTV/Fringe [a1705]/1.02 - La solita vecchia storia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eb6e86284a29e211b00a41ff30dc73b9"
+                }
+            ]
+        },
+        {
+            "file_id": "2cba7071312478ecafaddf800deaf514",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La rete fantasma",
+            "fname": "/SerieTV/Fringe [a1705]/1.03 - La rete fantasma.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2cba7071312478ecafaddf800deaf514"
+                }
+            ]
+        },
+        {
+            "file_id": "b9fc4d28db8e25bea82564fac7523653",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "E' arrivato",
+            "fname": "/SerieTV/Fringe [a1705]/1.04 - E' arrivato.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b9fc4d28db8e25bea82564fac7523653"
+                }
+            ]
+        },
+        {
+            "file_id": "374c8be199840d493cb062455943b171",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Sete di potere",
+            "fname": "/SerieTV/Fringe [a1705]/1.05 - Sete di potere.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/374c8be199840d493cb062455943b171"
+                }
+            ]
+        },
+        {
+            "file_id": "6c15a1e1169cc269876513137685530a",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La cura",
+            "fname": "/SerieTV/Fringe [a1705]/1.06 - La cura.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6c15a1e1169cc269876513137685530a"
+                }
+            ]
+        },
+        {
+            "file_id": "3f90af2e712fcb8ed5226f4e412a2a8c",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Piacere sig Jones",
+            "fname": "/SerieTV/Fringe [a1705]/1.07 - Piacere sig Jones.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3f90af2e712fcb8ed5226f4e412a2a8c"
+                }
+            ]
+        },
+        {
+            "file_id": "e9be982b6632159e3085bf0e7c6665b9",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "L'equazione",
+            "fname": "/SerieTV/Fringe [a1705]/1.08 - L'equazione.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e9be982b6632159e3085bf0e7c6665b9"
+                }
+            ]
+        },
+        {
+            "file_id": "929a3d83d7cec4f38925d3c7a9183dc3",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Fuga nel sogno",
+            "fname": "/SerieTV/Fringe [a1705]/1.09 - Fuga nel sogno.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/929a3d83d7cec4f38925d3c7a9183dc3"
+                }
+            ]
+        },
+        {
+            "file_id": "713bf032b44dcbd9771d49274401c50b",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Al sicuro",
+            "fname": "/SerieTV/Fringe [a1705]/1.10 - Al sicuro.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/713bf032b44dcbd9771d49274401c50b"
+                }
+            ]
+        },
+        {
+            "file_id": "0576a782f4b2f6f26926ff2374838b1b",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Risposte",
+            "fname": "/SerieTV/Fringe [a1705]/1.11 - Risposte.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0576a782f4b2f6f26926ff2374838b1b"
+                }
+            ]
+        },
+        {
+            "file_id": "988dfe268961dd8a9d41c0daa31faa23",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Lo strizzacervelli",
+            "fname": "/SerieTV/Fringe [a1705]/1.12 - Lo strizzacervelli.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/988dfe268961dd8a9d41c0daa31faa23"
+                }
+            ]
+        },
+        {
+            "file_id": "816bfaf86c14ccdd6430c858a6116b64",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Trasformazione",
+            "fname": "/SerieTV/Fringe [a1705]/1.13 - Trasformazione.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/816bfaf86c14ccdd6430c858a6116b64"
+                }
+            ]
+        },
+        {
+            "file_id": "09aff1db197ffbea46f7cc32351b0f06",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Prova di abilit\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/1.14 - Prova di abilit\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/09aff1db197ffbea46f7cc32351b0f06"
+                }
+            ]
+        },
+        {
+            "file_id": "d7b10621359a72a4a9861642f57af721",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 15,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Empatia",
+            "fname": "/SerieTV/Fringe [a1705]/1.15 - Empatia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d7b10621359a72a4a9861642f57af721"
+                }
+            ]
+        },
+        {
+            "file_id": "c0cfdd11485414866ecdf12229fb0440",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 16,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Bestia in libert\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/1.16 - Bestia in libert\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c0cfdd11485414866ecdf12229fb0440"
+                }
+            ]
+        },
+        {
+            "file_id": "5a15a52ba5790fadbd2fdc42ddb199a7",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 17,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Incubi",
+            "fname": "/SerieTV/Fringe [a1705]/1.17 - Incubi.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a15a52ba5790fadbd2fdc42ddb199a7"
+                }
+            ]
+        },
+        {
+            "file_id": "18fbb477cb26f6ecaa21c833164985a2",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 18,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Mezzanotte",
+            "fname": "/SerieTV/Fringe [a1705]/1.18 - Mezzanotte.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/18fbb477cb26f6ecaa21c833164985a2"
+                }
+            ]
+        },
+        {
+            "file_id": "4f7e6aefa3ee88d840059507ee55b410",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 19,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La strada non presa",
+            "fname": "/SerieTV/Fringe [a1705]/1.19 - La strada non presa.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4f7e6aefa3ee88d840059507ee55b410"
+                }
+            ]
+        },
+        {
+            "file_id": "6791fd358e29c6d95d5d4e4740474511",
+            "saga": "Fringe",
+            "season": 1,
+            "episode": 20,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Uno sguardo dall'altra parte",
+            "fname": "/SerieTV/Fringe [a1705]/1.20 - Uno sguardo dall'altra parte.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6791fd358e29c6d95d5d4e4740474511"
+                }
+            ]
+        },
+        {
+            "file_id": "cd54d9c5dad2572078eed83266e18982",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Un nuovo giorno nella vecchia citt\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/2.01 - Un nuovo giorno nella vecchia citt\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cd54d9c5dad2572078eed83266e18982"
+                }
+            ]
+        },
+        {
+            "file_id": "1a866ced112229f9db73eba415cff33b",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La notte degli oggetti desiderabili",
+            "fname": "/SerieTV/Fringe [a1705]/2.02 - La notte degli oggetti desiderabili.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1a866ced112229f9db73eba415cff33b"
+                }
+            ]
+        },
+        {
+            "file_id": "7e981f5b6105fa9ceba152333f2a5620",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Frattura",
+            "fname": "/SerieTV/Fringe [a1705]/2.03 - Frattura.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7e981f5b6105fa9ceba152333f2a5620"
+                }
+            ]
+        },
+        {
+            "file_id": "d1173de1f27e59bb4c614be5e603b448",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il simbolo",
+            "fname": "/SerieTV/Fringe [a1705]/2.04 - Il simbolo.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d1173de1f27e59bb4c614be5e603b448"
+                }
+            ]
+        },
+        {
+            "file_id": "f8fe4b680a15c3d38b7de6f16138be79",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Sogni elettronici",
+            "fname": "/SerieTV/Fringe [a1705]/2.05 - Sogni elettronici.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f8fe4b680a15c3d38b7de6f16138be79"
+                }
+            ]
+        },
+        {
+            "file_id": "0c190156eee1114ab2f5bda6c90b52f7",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il cosmonauta",
+            "fname": "/SerieTV/Fringe [a1705]/2.06 - Il cosmonauta.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c190156eee1114ab2f5bda6c90b52f7"
+                }
+            ]
+        },
+        {
+            "file_id": "c5fff4b449814327f92e67dca7cba7d7",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Conseguenze indesiderate",
+            "fname": "/SerieTV/Fringe [a1705]/2.07 - Conseguenze indesiderate.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c5fff4b449814327f92e67dca7cba7d7"
+                }
+            ]
+        },
+        {
+            "file_id": "6a366fd2343280ed0e54389cd74cef34",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Agosto",
+            "fname": "/SerieTV/Fringe [a1705]/2.08 - Agosto.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a366fd2343280ed0e54389cd74cef34"
+                }
+            ]
+        },
+        {
+            "file_id": "14345adbc1d2829321a63e21b5a8152f",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Testa di serpente",
+            "fname": "/SerieTV/Fringe [a1705]/2.09 - Testa di serpente.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14345adbc1d2829321a63e21b5a8152f"
+                }
+            ]
+        },
+        {
+            "file_id": "d74cdabfa47c4a8d6fa78c256c7c43be",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Materia grigia",
+            "fname": "/SerieTV/Fringe [a1705]/2.10 - Materia grigia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d74cdabfa47c4a8d6fa78c256c7c43be"
+                }
+            ]
+        },
+        {
+            "file_id": "155d416dc75515f855fc5582b64163eb",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Resurrezione",
+            "fname": "/SerieTV/Fringe [a1705]/2.11 - Resurrezione.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/155d416dc75515f855fc5582b64163eb"
+                }
+            ]
+        },
+        {
+            "file_id": "53d6386200beed89fa20f1107fa0a1c7",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Progetto elephant",
+            "fname": "/SerieTV/Fringe [a1705]/2.12 - Progetto elephant.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/53d6386200beed89fa20f1107fa0a1c7"
+                }
+            ]
+        },
+        {
+            "file_id": "6a18eaf38ceab7cd96ccfd8a9ec4973b",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il contagio",
+            "fname": "/SerieTV/Fringe [a1705]/2.13 - Il contagio.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6a18eaf38ceab7cd96ccfd8a9ec4973b"
+                }
+            ]
+        },
+        {
+            "file_id": "7823a7dd95615f0bef1f3c880ebc3311",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Segreti di famiglia",
+            "fname": "/SerieTV/Fringe [a1705]/2.14 - Segreti di famiglia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/7823a7dd95615f0bef1f3c880ebc3311"
+                }
+            ]
+        },
+        {
+            "file_id": "4d6dc74236e8ed5eabe929ebd683a2c7",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Jacksonville",
+            "fname": "/SerieTV/Fringe [a1705]/2.15 - Jacksonville.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4d6dc74236e8ed5eabe929ebd683a2c7"
+                }
+            ]
+        },
+        {
+            "file_id": "1e61559833e2e8cbcc1e68e0c9c9242d",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Peter",
+            "fname": "/SerieTV/Fringe [a1705]/2.16 - Peter.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1e61559833e2e8cbcc1e68e0c9c9242d"
+                }
+            ]
+        },
+        {
+            "file_id": "a6d45d492c041036117c0715fbfd7838",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Olivia nel laboratorio con la pistola",
+            "fname": "/SerieTV/Fringe [a1705]/2.17 - Olivia nel laboratorio con la pistola.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a6d45d492c041036117c0715fbfd7838"
+                }
+            ]
+        },
+        {
+            "file_id": "f5a35f6c9e54006f5faa45b975491803",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il tulipano bianco",
+            "fname": "/SerieTV/Fringe [a1705]/2.18 - Il tulipano bianco.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f5a35f6c9e54006f5faa45b975491803"
+                }
+            ]
+        },
+        {
+            "file_id": "2e282fd1e0e56bb84e275f06b9ea68ab",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Sincronia",
+            "fname": "/SerieTV/Fringe [a1705]/2.19 - Sincronia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2e282fd1e0e56bb84e275f06b9ea68ab"
+                }
+            ]
+        },
+        {
+            "file_id": "4506e60bbed0191b183b9c1ed00f28bd",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Cuore di vetro",
+            "fname": "/SerieTV/Fringe [a1705]/2.20 - Cuore di vetro.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4506e60bbed0191b183b9c1ed00f28bd"
+                }
+            ]
+        },
+        {
+            "file_id": "620c2bf9cedae50b5c0337771ee20151",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Passaggio a nordovest",
+            "fname": "/SerieTV/Fringe [a1705]/2.21 - Passaggio a nordovest.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/620c2bf9cedae50b5c0337771ee20151"
+                }
+            ]
+        },
+        {
+            "file_id": "96eaa407f178cc3e8887279804be89e0",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Dall'altra parte parte 1",
+            "fname": "/SerieTV/Fringe [a1705]/2.22 - Dall'altra parte parte 1.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96eaa407f178cc3e8887279804be89e0"
+                }
+            ]
+        },
+        {
+            "file_id": "fc6259f5bb6f7b5fc3ae56b493b51f14",
+            "saga": "Fringe",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Dall'altra parte parte 2",
+            "fname": "/SerieTV/Fringe [a1705]/2.23 - Dall'altra parte parte 2.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fc6259f5bb6f7b5fc3ae56b493b51f14"
+                }
+            ]
+        },
+        {
+            "file_id": "12d9e7000b728095c2cc62f29df2c20d",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Olivia",
+            "fname": "/SerieTV/Fringe [a1705]/3.01 - Olivia.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/12d9e7000b728095c2cc62f29df2c20d"
+                }
+            ]
+        },
+        {
+            "file_id": "1510482c8dac7cf41580dd4c84b64573",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La scatola",
+            "fname": "/SerieTV/Fringe [a1705]/3.02 - La scatola.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1510482c8dac7cf41580dd4c84b64573"
+                }
+            ]
+        },
+        {
+            "file_id": "5a0c2d3236d8bee455005b6e6d4acbc6",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Reazione a catena",
+            "fname": "/SerieTV/Fringe [a1705]/3.03 - Reazione a catena.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5a0c2d3236d8bee455005b6e6d4acbc6"
+                }
+            ]
+        },
+        {
+            "file_id": "94ec2a2c9872f75a0378152798bd3c5d",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Sono tra noi",
+            "fname": "/SerieTV/Fringe [a1705]/3.04 - Sono tra noi.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/94ec2a2c9872f75a0378152798bd3c5d"
+                }
+            ]
+        },
+        {
+            "file_id": "6fde94e9a210b8b691fe024146c52dbe",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Ambra 32422",
+            "fname": "/SerieTV/Fringe [a1705]/3.05 - Ambra 32422.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6fde94e9a210b8b691fe024146c52dbe"
+                }
+            ]
+        },
+        {
+            "file_id": "dd7094bcafdc6f51d108b354cb68001c",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "6955 khz",
+            "fname": "/SerieTV/Fringe [a1705]/3.06 - 6955 khz.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dd7094bcafdc6f51d108b354cb68001c"
+                }
+            ]
+        },
+        {
+            "file_id": "83ac24380d9a09e9589ae347b1907688",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Rapiti",
+            "fname": "/SerieTV/Fringe [a1705]/3.07 - Rapiti.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/83ac24380d9a09e9589ae347b1907688"
+                }
+            ]
+        },
+        {
+            "file_id": "9664fc0f5042526183395c6de06cd5f6",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Missione compiuta",
+            "fname": "/SerieTV/Fringe [a1705]/3.08 - Missione compiuta.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9664fc0f5042526183395c6de06cd5f6"
+                }
+            ]
+        },
+        {
+            "file_id": "3ef44182bd3c50f276c032bd20027c7c",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Marionetta",
+            "fname": "/SerieTV/Fringe [a1705]/3.09 - Marionetta.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3ef44182bd3c50f276c032bd20027c7c"
+                }
+            ]
+        },
+        {
+            "file_id": "3dc4d4d0422adcd4d928be2e570a4605",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La lucciola",
+            "fname": "/SerieTV/Fringe [a1705]/3.10 - La lucciola.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3dc4d4d0422adcd4d928be2e570a4605"
+                }
+            ]
+        },
+        {
+            "file_id": "a0805f85b7f59d6334a361d355b08ea8",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Reciprocit\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/3.11 - Reciprocit\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0805f85b7f59d6334a361d355b08ea8"
+                }
+            ]
+        },
+        {
+            "file_id": "34046407e54dfc4fadbb0b41c3ea8812",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Concentrati e chiedi",
+            "fname": "/SerieTV/Fringe [a1705]/3.12 - Concentrati e chiedi.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/34046407e54dfc4fadbb0b41c3ea8812"
+                }
+            ]
+        },
+        {
+            "file_id": "2fca8eec02239a437ea64190b5ce1e01",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Immortalit\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/3.13 - Immortalit\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2fca8eec02239a437ea64190b5ce1e01"
+                }
+            ]
+        },
+        {
+            "file_id": "156fbe36d4bd1895b3f0259971a88397",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 14,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Interno 6b",
+            "fname": "/SerieTV/Fringe [a1705]/3.14 - Interno 6b.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/156fbe36d4bd1895b3f0259971a88397"
+                }
+            ]
+        },
+        {
+            "file_id": "f41afd4fa448076cffc9e44fe02d3da6",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 15,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Soggetto 13",
+            "fname": "/SerieTV/Fringe [a1705]/3.15 - Soggetto 13.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f41afd4fa448076cffc9e44fe02d3da6"
+                }
+            ]
+        },
+        {
+            "file_id": "a40100e321a2c0e6f336d3aa1a252b69",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 16,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Os",
+            "fname": "/SerieTV/Fringe [a1705]/3.16 - Os.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a40100e321a2c0e6f336d3aa1a252b69"
+                }
+            ]
+        },
+        {
+            "file_id": "3d03297811fef620a93923ad058389ae",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 17,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Passeggera clandestina",
+            "fname": "/SerieTV/Fringe [a1705]/3.17 - Passeggera clandestina.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3d03297811fef620a93923ad058389ae"
+                }
+            ]
+        },
+        {
+            "file_id": "8c0ec1194ca061af09b25d09fdf51af6",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 18,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Discendenza di sangue",
+            "fname": "/SerieTV/Fringe [a1705]/3.18 - Discendenza di sangue.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8c0ec1194ca061af09b25d09fdf51af6"
+                }
+            ]
+        },
+        {
+            "file_id": "577b84d27b6eea75b0f0daa064a4aaac",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 19,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "LSD",
+            "fname": "/SerieTV/Fringe [a1705]/3.19 - LSD.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/577b84d27b6eea75b0f0daa064a4aaac"
+                }
+            ]
+        },
+        {
+            "file_id": "3cf3f4eeace0f522c994b34369df6743",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 20,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "6:02 am",
+            "fname": "/SerieTV/Fringe [a1705]/3.20 - 6:02 am.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cf3f4eeace0f522c994b34369df6743"
+                }
+            ]
+        },
+        {
+            "file_id": "3cc398ed4dbbac493157ce4d3ca6c403",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 21,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "L'ultimo Sam Weiss",
+            "fname": "/SerieTV/Fringe [a1705]/3.21 - L'ultimo Sam Weiss.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3cc398ed4dbbac493157ce4d3ca6c403"
+                }
+            ]
+        },
+        {
+            "file_id": "06dacba4e979c0f35beb0425f046c22c",
+            "saga": "Fringe",
+            "season": 3,
+            "episode": 22,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il giorno in cui siamo morti",
+            "fname": "/SerieTV/Fringe [a1705]/3.22 - Il giorno in cui siamo morti.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/06dacba4e979c0f35beb0425f046c22c"
+                }
+            ]
+        },
+        {
+            "file_id": "69ab3fe51277d5d978cdc4f4b2335620",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "N\u00e9 di qua n\u00e9 di l\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/4.01 - N\u00e9 di qua n\u00e9 di l\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/69ab3fe51277d5d978cdc4f4b2335620"
+                }
+            ]
+        },
+        {
+            "file_id": "be1b96763d1023afa5f22e62ea726aac",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Una sera di ottobre",
+            "fname": "/SerieTV/Fringe [a1705]/4.02 - Una sera di ottobre.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be1b96763d1023afa5f22e62ea726aac"
+                }
+            ]
+        },
+        {
+            "file_id": "5c86d0e0db12eb5ec0f20e09c58cfb38",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Solo al mondo",
+            "fname": "/SerieTV/Fringe [a1705]/4.03 - Solo al mondo.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5c86d0e0db12eb5ec0f20e09c58cfb38"
+                }
+            ]
+        },
+        {
+            "file_id": "d51d145b6ba071ad50567d2d1d940111",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Soggetto nr 9",
+            "fname": "/SerieTV/Fringe [a1705]/4.04 - Soggetto nr 9.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d51d145b6ba071ad50567d2d1d940111"
+                }
+            ]
+        },
+        {
+            "file_id": "08f5742bf476cd45178a0ba224a867b5",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Sostituzione",
+            "fname": "/SerieTV/Fringe [a1705]/4.05 - Sostituzione.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/08f5742bf476cd45178a0ba224a867b5"
+                }
+            ]
+        },
+        {
+            "file_id": "008d1a9830d459e99797c8655f660729",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Chi non e pi\u00f9 con noi",
+            "fname": "/SerieTV/Fringe [a1705]/4.06 - Chi non e pi\u00f9 con noi.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/008d1a9830d459e99797c8655f660729"
+                }
+            ]
+        },
+        {
+            "file_id": "5af484b84216551313610d8c44042ec1",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Camaleonte",
+            "fname": "/SerieTV/Fringe [a1705]/4.07 - Camaleonte.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5af484b84216551313610d8c44042ec1"
+                }
+            ]
+        },
+        {
+            "file_id": "e87401f5aa73a309075170290dbca955",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Missione per due",
+            "fname": "/SerieTV/Fringe [a1705]/4.08 - Missione per due.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e87401f5aa73a309075170290dbca955"
+                }
+            ]
+        },
+        {
+            "file_id": "113c6b592564711a0cc1ab67c6b1d30b",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Nemico del mio nemico",
+            "fname": "/SerieTV/Fringe [a1705]/4.09 - Nemico del mio nemico.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/113c6b592564711a0cc1ab67c6b1d30b"
+                }
+            ]
+        },
+        {
+            "file_id": "eb955641881fcc16fb680095f746f604",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Visioni forzate",
+            "fname": "/SerieTV/Fringe [a1705]/4.10 - Visioni forzate.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eb955641881fcc16fb680095f746f604"
+                }
+            ]
+        },
+        {
+            "file_id": "35b7573e4a202ffe5ac9b7209c4d8b1d",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Per diventare angeli",
+            "fname": "/SerieTV/Fringe [a1705]/4.11 - Per diventare angeli.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/35b7573e4a202ffe5ac9b7209c4d8b1d"
+                }
+            ]
+        },
+        {
+            "file_id": "8cfc555d3c4b1bd469fe081ecd70f42e",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Benvenuti a Westfield",
+            "fname": "/SerieTV/Fringe [a1705]/4.12 - Benvenuti a Westfield.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8cfc555d3c4b1bd469fe081ecd70f42e"
+                }
+            ]
+        },
+        {
+            "file_id": "aaa9c5de9b737f324dea065534ad289c",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Un essere umano migliore",
+            "fname": "/SerieTV/Fringe [a1705]/4.13 - Un essere umano migliore.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aaa9c5de9b737f324dea065534ad289c"
+                }
+            ]
+        },
+        {
+            "file_id": "f17d367c08dc9b31c74b1ea0a15cc0b0",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 14,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La fine di tutto",
+            "fname": "/SerieTV/Fringe [a1705]/4.14 - La fine di tutto.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f17d367c08dc9b31c74b1ea0a15cc0b0"
+                }
+            ]
+        },
+        {
+            "file_id": "f53f6f6839db992648405346cf418d9c",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 15,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Brevi amori",
+            "fname": "/SerieTV/Fringe [a1705]/4.15 - Brevi amori.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f53f6f6839db992648405346cf418d9c"
+                }
+            ]
+        },
+        {
+            "file_id": "68932346762e8caa50647464a4b8a970",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 16,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Nulla \u00e8 come sembra",
+            "fname": "/SerieTV/Fringe [a1705]/4.16 - Nulla \u00e8 come sembra.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/68932346762e8caa50647464a4b8a970"
+                }
+            ]
+        },
+        {
+            "file_id": "50faa74fc4d072550dbee3b88814adba",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 17,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Ogni cosa al suo posto",
+            "fname": "/SerieTV/Fringe [a1705]/4.17 - Ogni cosa al suo posto.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/50faa74fc4d072550dbee3b88814adba"
+                }
+            ]
+        },
+        {
+            "file_id": "006da3156d3662047a242c2d6751f878",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 18,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il consulente",
+            "fname": "/SerieTV/Fringe [a1705]/4.18 - Il consulente.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/006da3156d3662047a242c2d6751f878"
+                }
+            ]
+        },
+        {
+            "file_id": "520235906925118b7316b6baa9f3d177",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 19,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Lettere di transito",
+            "fname": "/SerieTV/Fringe [a1705]/4.19 - Lettere di transito.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/520235906925118b7316b6baa9f3d177"
+                }
+            ]
+        },
+        {
+            "file_id": "86ad5c5c8a5e3739cf7df58afaec2787",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 20,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "A un mondo di distanza",
+            "fname": "/SerieTV/Fringe [a1705]/4.20 - A un mondo di distanza.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/86ad5c5c8a5e3739cf7df58afaec2787"
+                }
+            ]
+        },
+        {
+            "file_id": "ae901b888c7ddcbefe4c73c195ad43e4",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 21,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il coraggio di un nuovo mondo",
+            "fname": "/SerieTV/Fringe [a1705]/4.21 - Il coraggio di un nuovo mondo (1a parte).avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ae901b888c7ddcbefe4c73c195ad43e4"
+                }
+            ]
+        },
+        {
+            "file_id": "a188387838d06e483b36468bcd79a1c0",
+            "saga": "Fringe",
+            "season": 4,
+            "episode": 22,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il coraggio di un nuovo mondo",
+            "fname": "/SerieTV/Fringe [a1705]/4.22 - Il coraggio di un nuovo mondo (2a parte).avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a188387838d06e483b36468bcd79a1c0"
+                }
+            ]
+        },
+        {
+            "file_id": "024f3e861c54a8e0faef6fb70daaa870",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 1,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Unificatore di pensieri",
+            "fname": "/SerieTV/Fringe [a1705]/5.01 - Unificatore di pensieri.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/024f3e861c54a8e0faef6fb70daaa870"
+                }
+            ]
+        },
+        {
+            "file_id": "d3f74e5cad59eb00aa54b5ee12e9eefe",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 2,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il mondo \u00e8 cambiato",
+            "fname": "/SerieTV/Fringe [a1705]/5.02 - Il mondo \u00e8 cambiato.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d3f74e5cad59eb00aa54b5ee12e9eefe"
+                }
+            ]
+        },
+        {
+            "file_id": "59286281ba34340c2268da241b9c8ee7",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 3,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "L'archivista",
+            "fname": "/SerieTV/Fringe [a1705]/5.03 - L'archivista.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/59286281ba34340c2268da241b9c8ee7"
+                }
+            ]
+        },
+        {
+            "file_id": "9400ade69279712ca8a9a13c7f24c7ad",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 4,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La pallottola che salv\u00f2 il mondo",
+            "fname": "/SerieTV/Fringe [a1705]/5.04 - La pallottola che salv\u00f2 il mondo.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9400ade69279712ca8a9a13c7f24c7ad"
+                }
+            ]
+        },
+        {
+            "file_id": "234ebb617c02e5eb4af5a5d8f858c613",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 5,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Il prologo",
+            "fname": "/SerieTV/Fringe [a1705]/5.05 - Il prologo.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/234ebb617c02e5eb4af5a5d8f858c613"
+                }
+            ]
+        },
+        {
+            "file_id": "de2bf6af8bd4a501ef20159af69c7418",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 6,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Attraverso lo specchio",
+            "fname": "/SerieTV/Fringe [a1705]/5.06 - Attraverso lo specchio.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/de2bf6af8bd4a501ef20159af69c7418"
+                }
+            ]
+        },
+        {
+            "file_id": "6072cbff2ee229b5fc15e293bc4d4766",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 7,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "La combinazione",
+            "fname": "/SerieTV/Fringe [a1705]/5.07 - La combinazione.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6072cbff2ee229b5fc15e293bc4d4766"
+                }
+            ]
+        },
+        {
+            "file_id": "708d604a032f7619b3baa549278ba3e0",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 8,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Genere umano",
+            "fname": "/SerieTV/Fringe [a1705]/5.08 - Genere umano.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/708d604a032f7619b3baa549278ba3e0"
+                }
+            ]
+        },
+        {
+            "file_id": "e07651e0bc5d8b4184abda762bd8b3de",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 9,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Tampone nero",
+            "fname": "/SerieTV/Fringe [a1705]/5.09 - Tampone nero.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e07651e0bc5d8b4184abda762bd8b3de"
+                }
+            ]
+        },
+        {
+            "file_id": "e2fe75f4294623373c73de4fa11b42eb",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 10,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Anomalia xb-6783746",
+            "fname": "/SerieTV/Fringe [a1705]/5.10 - Anomalia xb-6783746.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e2fe75f4294623373c73de4fa11b42eb"
+                }
+            ]
+        },
+        {
+            "file_id": "a0238f46461c8fd53b0fa177f0480887",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 11,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Prova vivente",
+            "fname": "/SerieTV/Fringe [a1705]/5.11 - Prova vivente.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a0238f46461c8fd53b0fa177f0480887"
+                }
+            ]
+        },
+        {
+            "file_id": "ee6df85bdbeb20716d93b65b7a4b4ec8",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 12,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "L'isola della libert\u00e0",
+            "fname": "/SerieTV/Fringe [a1705]/5.12 - L'isola della libert\u00e0.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ee6df85bdbeb20716d93b65b7a4b4ec8"
+                }
+            ]
+        },
+        {
+            "file_id": "0c012f2e5f4bd9fa0f839bba811b28f9",
+            "saga": "Fringe",
+            "season": 5,
+            "episode": 13,
+            "genre": ["Sci-Fi & Fantasy", "Dramma", "Mistero"],
+            "title": "Nemico del destino",
+            "fname": "/SerieTV/Fringe [a1705]/5.13 - Nemico del destino.avi",
+            "year": "2008",
+            "actors": ["Anna Torv", "Jasika Nicole", "Joshua Jackson", "John Noble"],
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0c012f2e5f4bd9fa0f839bba811b28f9"
+                }
+            ]
+        }
     ]
 }
