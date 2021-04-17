@@ -1,100 +1,118 @@
 {
-    "episodes_list": [
-    {
-      "number": "1x01",
-      "title": "Episode 1",
-      "plot": "Siamo a circa metà del XIX secolo, in un piccolo paesino montanaro della Toscana, dove sul finire dell'inverno giunge la carovana di un famoso burattinaio, Mangiafoco, prima di partire per le lontane Americhe nella bella stagione. Mentre i due musicisti del burattinaio, il Gatto e la Volpe fanno l'annuncio, un manifesto dello spettacolo va in faccia a Geppetto, un falegname vedovo che, ispirato dalla figura della marionetta sul pezzo di carta, decide di fabbricarsi un burattino di legno a sua invenzione, per poter viaggiare il mondo e procurarsi da mangiare, data lo scarso lavoro commissionatogli.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "tumbnail": "pino-1.jpg",
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!66QHTY4Q!J5uGbIPJ-haxyz97ldsnGDXewb2IJJySYRAPZJsfek4"
-        }
-      ]
-    },
-    {
-      "number": "1x02",
-      "title": "Episode 2",
-      "plot": "Pinocchio torna a casa e, accendendosi un fuoco sul camino, si asciuga davanti ad esso e scopre di non essere solo in casa: a fargli compagnia c'è anche un centenario Grillo parlante che gli fa la predica sul suo comportamento e che la Fata non sarà affatto contenta di ciò.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "tumbnail": "pino-2.jpg",
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!e6RnGQJK!7HETRiaCzPcmqYzWvVSGOMm9df5T_KV5Wb-wgaq3XF4"
-        }
-      ]
-    },
-    {
-      "number": "1x03",
-      "title": "Episode 3",
-      "plot": "Pinocchio decide di raccontare del padre a Mangiafoco e questi, impietosito e commosso, gli dona nuovi vestiti e gli regala cinque zecchini d'oro da portare a Geppetto, raccomandandosi di non perderli e di non farli vedere a nessuno. Pinocchio, sulla strada del ritorno a casa, rincontra il Gatto e la Volpe, che, ormai disoccupati, si fanno passare per mendicanti invalidi e scoperto delle monete, studiano un piano per soffiargliele.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "tumbnail": "pino-3.jpg",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!r7ADGCzL!9iX3p3rDEz8sr0PlFMG74vmHLkfrCr3-uZXeZYh50GA"
-        }
-      ]
-    },
-    {
-      "number": "1x04",
-      "title": "Episode 4",
-      "tumbnail": "pino-4.jpg",
-      "plot": "Pinocchio, su suggerimento di un contadino, denuncia il furto ad un giudice del posto, che però lo mette in prigione, incredulo della sua storia, ma viene liberato grazie ad un'amnistia, quattro mesi dopo. Geppetto, intanto, trova al porto da cui è partito il teatro ambulante il vestitino di Pinocchio e si convince definitivamente che Mangiafoco ha rapito il suo bambino per portarlo con sé nelle lontane Americhe.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!P7QHUaSJ!A3t9YHybRxTzw6DIkePU-vOMNjjfMqn0fAYzzZGjBio"
-        }
-      ]
-    },
-    {
-      "number": "1x05",
-      "tumbnail": "pino-5.jpg",
-      "title": "Episode 5",
-      "plot": "Pinocchio si risveglia nel magazzino da solo, scoprendo che è stato abbandonato da Lucignolo e così ritorna in paese, chiedendo l'elemosina a diversi lavoratori, che gli rispondono la stessa cosa: 'chi non lavora non mangia' e se vuole guadagnarsi anche un pezzo di pane, dovrà almeno fare qualcosa. Cedendo dalla fame, Pinocchio accetta di aiutare una donna dai capelli turchini di riempirle la caraffa e di portare la sua borsa a casa in cambio di un lauto pranzo.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!f7YjHAjB!U2xyQP4U9cycXaelGvR3apo-OSkL2Kn8kJSzrY7SKgc"
-        }
-      ]
-    },
-    {
-      "number": "1x06",
-      "title": "Episode 6",
-      "plot": "Lucignolo e Pinocchio, dopo la serata di divertimenti e di illusioni nel paese dei Balocchi, si risvegliano la mattina dopo, insieme a tutti gli altri bambini, con delle orecchie da somaro e, ben presto, si trasformeranno entrambi in ciuchini, pronti per la vendita ai compratori di bestiame. Al momento della vendita, però, soltanto Pinocchio viene scelto, suo malgrado, per essere consegnato al direttore di un circo.",
-      "tmdb_id": 86662,
-      "saga": "Le avventure di Pinocchio",
-      "genre": ["avventura", "fantasy", "drammatico"],
-      "tumbnail": "pino-6.jpg",
-      "actors": ["Andrea Balestri", "Nino Manfredi", "Gina Lollobrigida", "Franco Franchi", "Ciccio Ingrassia"],
-      "director": "Luigi Comencini",
-      "links": [
-        {
-          "url": "https://mega.nz/#!LqQTnKIZ!9zdHU0Mc_t9CFEhByJdJcNC87NnFjkG0VkRy3HuI3c0"
-        }
-      ]
-   }
+  "episodes_list": [
+      {
+          "file_id": "a313134501100d0171862ccbb97fde81",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-1.jpg",
+          "season": 1,
+          "episode": 1,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Prima Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.001 - Prima Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/a313134501100d0171862ccbb97fde81"
+              }
+          ]
+      },
+      {
+          "file_id": "86d693776debc3045d475032fe1e46ba",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-2.jpg",
+          "season": 1,
+          "episode": 2,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Seconda Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.002 - Seconda Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/86d693776debc3045d475032fe1e46ba"
+              }
+          ]
+      },
+      {
+          "file_id": "ec387cc3af198bd542dda4f193b7c344",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-3.jpg",
+          "season": 1,
+          "episode": 3,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Terza Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.003 - Terza Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/ec387cc3af198bd542dda4f193b7c344"
+              }
+          ]
+      },
+      {
+          "file_id": "842c14abd94ad6be15fc55e9f0fb0ea7",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-4.jpg",
+          "season": 1,
+          "episode": 4,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Quarta Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.004 - Quarta Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/842c14abd94ad6be15fc55e9f0fb0ea7"
+              }
+          ]
+      },
+      {
+          "file_id": "007b7569db11b2261ce91a33c789eea7",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-5.jpg",
+          "season": 1,
+          "episode": 5,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Quinta Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.005 - Quinta Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/007b7569db11b2261ce91a33c789eea7"
+              }
+          ]
+      },
+      {
+          "file_id": "1674e6f953afc618d802a28cf8b3fa43",
+          "tmdb_id": 86662,
+          "saga": "Le avventure di Pinocchio",
+          "tumbnail": "pino-6.jpg",
+          "season": 1,
+          "episode": 6,
+          "genre": ["Commedia", "Famiglia", "Kids"],
+          "title": "Sesta Puntata",
+          "fname": "/SerieTV/Le avventure di Pinocchio (1972) [a86662]/1.006 - Sesta Puntata.mkv",
+          "year": "1972",
+          "director": ["Luigi Comencini"],
+          "actors": ["Andrea Balestri"],
+          "links": [
+              {
+                  "url": "http://51.77.159.233:30299/1674e6f953afc618d802a28cf8b3fa43"
+              }
+          ]
+      }
   ]
 }

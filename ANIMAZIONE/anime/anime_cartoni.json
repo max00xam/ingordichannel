@@ -2,6 +2,24 @@
     "sort": true,
     "tvshows_list": [
         {
+            "plot": "Segui le avventure dei fratelli maggiori Dolly e Dylan, la loro mamma Delilah e papà Doug, e i loro 97 fratelli e sorelle minori mentre si imbarcano in avventure urbane ed estrema rivalità tra fratelli. Insieme, i cuccioli esplorano la crescita e la ricerca del proprio posto all'interno della più grande, più disordinata e più pelosa famiglia mista di sempre.",
+            "title": "101 Dalmatian Street",
+            "saga": "101 Dalmatian Street",
+            "year": "2019",
+            "tmdb_id": "75523",
+            "genre": ["Animazione", "Famiglia", "Kids"],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "Segui i giovani dinosauri Piedino, Cera, Spike, Ducky e Petrie, nel loro primo viaggio insieme - un'emozionante ricerca per trovare la lussureggiante e leggendaria Grande Valle.",
+            "title": "Alla ricerca della valle incantata",
+            "saga": "Alla ricerca della valle incantata",
+            "year": "2007",
+            "tmdb_id": "3817",
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "url": "/ANIMAZIONE/anime/valle_list.json"
+        },
+        {
             "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
             "title": "Ano Hana",
             "saga": "Ano Hana",
@@ -11,6 +29,15 @@
             "url": "/ANIMAZIONE/anime/anohana_list.json"
         },
         {
+            "plot": "Astro Boy (鉄腕アトム Tetsuwan Atomu?) è il remake datato 1980-81 della prima serie anime del 1963-66 dedicata ad Astro Boy; entrambe sono adattamenti del manga creato negli anni cinquanta da Osamu Tezuka. Questa seconda serie (l'unica giunta in Italia nel 1982 in 52 episodi) pone una maggior attenzione, rispetto alla precedente, nei confronti delle abilità robotiche di Astro, oltre ad avere una trama un po' più cupa e triste rispetto all'originale; non è raro difatti vedere il protagonista soffrire a causa delle azioni e/o misfatti compiuti da altri.",
+            "title": "Astroboy",
+            "saga": "Astroboy",
+            "year": "1980",
+            "tmdb_id": "23022",
+            "genre": ["Action & Adventure", "Animazione", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/astro_list.json"
+        },
+        {
             "plot": "Barbapap\u00e0 (Barbapapa) \u00e8 una serie a fumetti creata da Annette Tison e Talus Taylor, pubblicata in Francia nel 1970; Barbapap\u00e0 \u00e8 il nome del protagonista della serie, e per estensione di tutta la sua famiglia (Les barbapapas): il nome del protagonista deriva dall'espressione francese Barbe \u00e0 papa, che significa \"barba di pap\u00e0\", cos\u00ec come viene chiamato lo zucchero filato. Dal fumetto \u00e8 stata successivamente ricavata Barbapap\u00e0, una serie televisiva animazione, realizzata nel 1974 e uscita in Italia",
             "title": "Barbapapa",
             "saga": "Barbapapa",
@@ -18,6 +45,33 @@
             "tmdb_id": "65136",
             "genre": ["Animazione"," Bambini"],
             "url": "/ANIMAZIONE/anime/barbapapa_list.json"
+        },
+        {
+            "plot": "Hiro \u00e8 diventato una sorta di leggenda al San Fransokyo Institute of Technology. Ora per\u00f2 deve vedersela con le sfide di tutti i giorni a scuola, soprattutto perch\u00e9 si ritrova al college pur essendo poco pi\u00f9 che un ragazzino. E al di fuori dell\u2019universit\u00e0, il team di supereroi di ultima generazione, noto come i Big Hero 6, dovranno darsi da fare per proteggere la loro citt\u00e0 dal misterioso Obake e dai nuovi supercriminali dotati delle ultime tecnologie disponibili.",
+            "title": "Big Hero 6",
+            "saga": "Big Hero 6",
+            "year": "2017",
+            "tmdb_id": "68665",
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Famiglia", "Kids"],
+            "url": "/ANIMAZIONE/anime/big_list.json"
+        },
+        {
+            "plot": "Tre topi motociclisti antropomorfi, Sterzo (Throttle) Turbo (Vinnie) e Pistone (Modo), scappano da una guerra scoppiata sul loro pianeta natio, Marte. Terminano il loro viaggio precipitando sulla Terra nella citt\u00e0 di Chicago; qui fanno conoscenza con un'affascinante ragazza che svolge il lavoro di meccanico chiamata Charlene \"Charley\" Davidson e scoprono che i plutarchiani sono sbarcati sulla Terra per impadronirsi delle sue risorse naturali.\n\nI plutarchiani sono una razza aliena umanoide puzzolente e simile ai pesci il cui scopo \u00e8 sfruttare le risorse naturali degli altri pianeti perch\u00e9 hanno ormai esaurite le loro. Essi sono i principali responsabili della enorme devastazione su Marte che ha portato alla morte della maggior parte della popolazione dei topi marziani e la successiva distruzione della flora e della fauna di Marte.\n\nI Biker Mice riescono a scoprire che il maggior imprenditore industriale di Chicago, Lawrence Limburger, \u00e8 lui stesso un plutarchiano il quale si \u00e8 mimetizzato sotto le mentite spoglie di un umano. Limburger gode dell'aiuto di malvagi come il sadico scienziato pazzo Dr. Carbonchio e il suo aiutante Morchia che cercano di rubare alla Terra le proprie risorse naturali per mandarle su Plutarco. Fortunatamente, i loro piani vengono puntualmente sventati dai Biker Mice alla fine di ogni puntata.",
+            "title": "Biker Mice from Mars (1993)",
+            "saga": "Biker Mice from Mars (1993)",
+            "year": "1993",
+            "tmdb_id": "3320",
+            "genre": ["Kids", "Animazione", "Action & Adventure", "Commedia"],
+            "url": "/ANIMAZIONE/anime/biker_list.json"
+        },
+        {
+            "plot": "I topi arrivano sulla Terra (questa volta non per caso, a differenza della prima serie). In questa serie, gli antagonisti principali sono i malvagi Catatoniani, una razza di creature simili a gatti che desiderano il più grande premio su Marte, il Rigeneratore. Nel tentativo di ottenerlo lo distruggono, lasciando i Biker Mice a fuggire sulla Terra per costruirne uno nuovo.",
+            "title": "Biker Mice from Mars (2006)",
+            "saga": "Biker Mice from Mars (2006)",
+            "year": "2006",
+            "tmdb_id": "95580",
+            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "url": "/ANIMAZIONE/anime/mars_list.json"
         },
         {
             "plot": "Capitan Harlock \u00e8 un manga di fantascienza scritto e illustrato da Leiji Matsumoto, serializzato dalla Akita Shoten dal 1977 al 1979. Il manga, che in Italia fu pubblicato interamente solo nel 2001 dalla Panini Comics, fu adattato in una serie televisiva animazione diretta da Rintar\u014d e prodotta dalla Toei Animazione. La serie fu trasmessa in Giappone su TV Asahi dal 1978 al 1979, mentre in Italia fu trasmessa su Rai 2 nel 1979. Dalla serie originale sono derivate molte opere di svariata natura, a cui nella maggior parte dei casi ha collaborato lo stesso Matsumoto. L'ultima di queste \u00e8 il film d'animazione al computer Capitan Harlock (2013). La serie segue l'omonimo protagonista, un emarginato diventato pirata spaziale dopo essersi ribellato contro il governo della Terra e l'apatia generale dell'umanit\u00e0.",
@@ -45,6 +99,24 @@
             "tmdb_id": "66251",
             "genre": ["Animazione"],
             "url": "/ANIMAZIONE/anime/carletto_list.json"
+        },
+        {
+            "plot": "Un maestro di scuola discute assieme ai suoi alunni sui problemi che affliggono la Terra al giorno d'oggi. Emergono temi differenti come l'ecologia, le risorse energetiche, lo sfruttamento minorile, le tecnologie, ecc. Nell'affrontare i diversi temi dapprima se ne spiega la causa e poi si elencano le soluzioni in atto e quelle in fase di sperimentazione.",
+            "title": "C'era una volta... la terra",
+            "saga": "C'era una volta... la terra",
+            "year": "2009",
+            "tmdb_id": "17546",
+            "genre": ["Animazione", "Documentario", "Kids"],
+            "url": "/ANIMAZIONE/anime/terra_list.json"
+        },
+        {
+            "plot": "La serie tratta della storia della razza umana iniziando dalla nascita della Terra, per poi attraversare nella narrazione i secoli e le principali civiltà, mediante la recitazione di un gruppo fisso di personaggi, sempre alle prese con situazioni diverse; alla fine la serie immagina un futuro finalmente pacificato, dove l'uomo illuminato dalla tecnologia e dal sapere rimedia alla sua condotta sconsiderata.",
+            "title": "C'era una volta... l'uomo",
+            "saga": "C'era una volta... l'uomo",
+            "year": "1978",
+            "tmdb_id": "6080",
+            "genre": ["Animazione", "Documentario", "Kids"],
+            "url": "/ANIMAZIONE/anime/uomo_list.json"
         },
         {
             "plot": "Ryo Saeba \u00e8 un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si trover\u00e0 costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicit\u00e0.",
@@ -110,6 +182,15 @@
             "url": "/ANIMAZIONE/anime/corpoumano_list.json"
         },
         {
+            "plot": "Un gruppo di adolescenti s'infiltra in un campionato di corse d'élite controllato da una losca organizzazione che punta a dominare il mondo.",
+            "title": "Fast & Furious - piloti sotto copertura",
+            "saga": "Fast & Furious - piloti sotto copertura",
+            "year": "2019",
+            "tmdb_id": "95594",
+            "genre": ["Animazione", "Action & Adventure", "Kids", "Famiglia", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/fast_list.json"
+        },
+        {
             "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre.  Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
             "title": "Flo, La Piccola Robinson",
             "saga": "Flo, La Piccola Robinson",
@@ -163,6 +244,15 @@
             "url": "/ANIMAZIONE/anime/uomini_list.json"
         },
         {
+            "plot": "Hazzard (The Dukes) \u00e8 una serie televisiva a disegni animati prodotta da Hanna-Barbera nel 1983 e distribuita da Warner Bros., basata sui personaggi del telefilm Hazzard.\nIl Ranch dello zio Jesse \u00e8 sottoposto ad una pesantissima ipoteca e  l'unico modo di riscattarla \u00e8 vincere il primo premio di una gara  automobilistica che ricalca le avventure de il giro del mondo in 80 giorni  in cui si cimenteranno i cugini duke. Boss Hogg, in ogni puntata, cerca  di boicottare i cugini in modo di farli perdere e acquisire cos\u00ec il  ranch, dato che sotto di esso si trova un'enorme giacimento petrolifero.",
+            "title": "Hazzard",
+            "saga": "Hazzard",
+            "year": "1983",
+            "tmdb_id": "10081",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/hazzard_list.json"
+        },
+        {
             "plot": "I Puffi (The Smurfs) \u00e8 una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esord\u00ec nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata \u00e8 diventata molto popolare ed \u00e8 stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",
             "title": "I Puffi",
             "saga": "I Puffi",
@@ -181,13 +271,13 @@
             "url": "/ANIMAZIONE/anime/simpson_list.json"
         },
         {
-            "plot": "I cortometraggi, cinematografici e non, dei Pixar Animation Studios: da Luxo Jr. a Pennuti Spennati, da Presto a Lava, incredibili personaggi protagonisti di piccole, grandi storie animate con uno stile meravigliosamente unico.",
-            "title": "I corti Pixar",
-            "saga": "I corti Pixar",
-            "year": "1984",
-            "thumbnail": "/ANIMAZIONE/anime/pixar.jpg",
-            "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/corti_list.json"
+            "plot": "Due principi umani forgiano un'improbabile alleanza con l'assassina elfica inviata per ucciderli, intraprendendo insieme un'epica ricerca per riportare alla pace le loro terre d'origine in guerra da secoli.",
+            "title": "Il principe dei draghi",
+            "saga": "Il principe dei draghi",
+            "year": "2018",
+            "tmdb_id": "81046",
+            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione", "Famiglia"],
+            "url": "/ANIMAZIONE/anime/draghi_list.json"
         },
         {
             "plot": "Jules Verne \u00e8 un ragazzo di 20 anni, molto educato che ama scrivere. Va all'universit\u00e0 per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrer\u00e0 tutto il suo coraggio e la sua astuzia e si innamorer\u00e0 di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatter\u00e0 nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
@@ -269,6 +359,15 @@
             "tmdb_id": "68203",
             "genre": ["Animazione"," Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/mito_list.json"
+        },
+        {
+            "plot": "Diverse centinaia di anni fa, la razza umana fu quasi sterminata dai giganti. Si racconta di quanto questi fossero alti, privi di intelligenza e affamati di carne umana; peggio ancora, essi sembra divorassero umani più per piacere che per necessario sostentamento. Una piccola percentuale dell'umanità però sopravvisse asserragliandosi in una città circondata da mura estremamente alte, anche più alte del più grande di giganti. Eren è un adolescente che vive in questa città, dove non si vede un gigante da oltre un secolo. Ma presto un orrore indicibile si palesa alle sue porte, ed un gigante più grande di quanto si sia mai sentito narrare, appare dal nulla abbattendo le mura ed imperversando assieme ad altri suoi simili fra la popolazione. Eren, vinto il terrore iniziale, si ripromette di eliminare ogni singolo gigante, per vendicare l'umanità tutta.",
+            "title": "L'Attacco Dei Giganti",
+            "saga": "L'Attacco Dei Giganti",
+            "year": "2013",
+            "tmdb_id": "1429",
+            "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure"],
+            "url": "/ANIMAZIONE/anime/titan_list.json"
         },
         {
             "plot": "L'incredibile Hulk (The Incredible Hulk) \u00e8 una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie \u00e8 stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk \u00e8 di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
