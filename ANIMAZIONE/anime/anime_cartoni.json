@@ -208,6 +208,15 @@
             "url": "/ANIMAZIONE/anime/futurama_list.json"
         },
         {
+            "plot": "Gemelli nel segno del destino \u00e8 una serie televisiva a cartoni animati francese del 1991, creata dallo scrittore Jean Chalopin e prodotta da AB production e C&amp;D. In Francia fu trasmessa dall'emittente TF1; la serie arriv\u00f2 in Italia nell'autunno del 1992, mandata in onda su Canale 5 all'interno del programma per ragazzi Bim bum bam e replicata varie volte (almeno quattro messe in onda) fino al 1999.",
+            "title": "Gemelli nel segno del destino",
+            "saga": "Gemelli nel segno del destino",
+            "year": "1991",
+            "tmdb_id": "11659",
+            "genre": ["Animazione", "Sci-Fi & Fantasy", "Mistero"],
+            "url": "/ANIMAZIONE/anime/gemelli_list.json"
+        },
+        {
             "plot": "Georgie \u00e8 un animazione del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
             "title": "Georgie",
             "saga": "Georgie",
