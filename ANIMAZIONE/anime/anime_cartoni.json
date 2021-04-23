@@ -262,6 +262,15 @@
             "url": "/ANIMAZIONE/anime/hazzard_list.json"
         },
         {
+            "plot": "I Jetsons \u00e8 una serie animata americana prodotta da Hanna-Barbera, contraltare futurista della famiglia Flinstones.\n\nE' ambientata in una utopica citt\u00e0 del 2062, elaborato complesso gestito da robot e caratterizzato da alieni, ologrammmi e improbabili invenzioni e aggeggi futuristici (per gli anni '60, tipicamente caratterizzati da assurdi ma simpatici meccanismi meccanici), dove la famiglia si scontra con i soliti problemi senza tempo del lavoro, dei figli e dei rapporti reciproci.\n\nTrasmessa da ABC per la prima volta nel 1962-1963 (24 episodi in bianco e nero) alla quale si sono poi aggiunti nuovi episodi disegnati tra il 1984 e il 1987, \u00e8 stata riprosta per decenni senza perdere nulla del suo spirito.",
+            "title": "I pronipoti",
+            "saga": "I pronipoti",
+            "year": "1962",
+            "tmdb_id": "2362",
+            "genre": ["Animazione", "Commedia"],
+            "url": "/ANIMAZIONE/anime/pronipoti_list.json"
+        },
+        {
             "plot": "I Puffi (The Smurfs) \u00e8 una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esord\u00ec nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata \u00e8 diventata molto popolare ed \u00e8 stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",
             "title": "I Puffi",
             "saga": "I Puffi",
@@ -280,6 +289,15 @@
             "url": "/ANIMAZIONE/anime/simpson_list.json"
         },
         {
+            "plot": "Jules Verne \u00e8 un ragazzo di 20 anni, molto educato che ama scrivere. Va all'universit\u00e0 per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrer\u00e0 tutto il suo coraggio e la sua astuzia e si innamorer\u00e0 di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatter\u00e0 nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
+            "title": "I viaggi di Giulio Verne",
+            "saga": "I viaggi di Giulio Verne",
+            "year": "2013",
+            "tmdb_id": "86722",
+            "genre": ["Animazione"," Azione & Avventura"],
+            "url": "/ANIMAZIONE/anime/verne_list.json"
+        },
+        {
             "plot": "Due principi umani forgiano un'improbabile alleanza con l'assassina elfica inviata per ucciderli, intraprendendo insieme un'epica ricerca per riportare alla pace le loro terre d'origine in guerra da secoli.",
             "title": "Il principe dei draghi",
             "saga": "Il principe dei draghi",
@@ -289,13 +307,13 @@
             "url": "/ANIMAZIONE/anime/draghi_list.json"
         },
         {
-            "plot": "Jules Verne \u00e8 un ragazzo di 20 anni, molto educato che ama scrivere. Va all'universit\u00e0 per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrer\u00e0 tutto il suo coraggio e la sua astuzia e si innamorer\u00e0 di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatter\u00e0 nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
-            "title": "I viaggi di Giulio Verne",
-            "saga": "I viaggi di Giulio Verne",
-            "year": "2013",
-            "tmdb_id": "86722",
-            "genre": ["Animazione"," Azione & Avventura"],
-            "url": "/ANIMAZIONE/anime/verne_list.json"
+            "plot": "Questa serie parla di storici e famosi esploratori.",
+            "title": "Imbarchiamoci in un grande viaggio",
+            "saga": "Imbarchiamoci in un grande viaggio",
+            "year": "1998",
+            "tmdb_id": "4213",
+            "genre": ["Kids", "Animazione", "Documentario", "Famiglia"],
+            "url": "/ANIMAZIONE/anime/viaggio_list.json"
         },
         {
             "plot": "Iron Man \u00e8 una serie televisiva a cartoni animati basata sull'omonimo personaggio della casa editrice Marvel; \u00e8 stata prodotta nel 1994 dai Marvel Studios, dalla TMS Entertainment e dalla New World Television; si compone di due stagioni per un totale di 26 episodi. Le due stagioni della serie, prodotte in due tempi, si differenziano notevolmente.",
@@ -379,12 +397,31 @@
             "url": "/ANIMAZIONE/anime/titan_list.json"
         },
         {
+            "plot": "L'incantevole Creamy \u00e8 una serie televisiva animazione di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo. L'animazione gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione. Tokyo - 1\u00ba luglio 1983, quartiere di Kurimigaoka. Y\u016b Morisawa, bambina vivace, fantasiosa e piena di sogni, grazie a queste sue qualit\u00e0 riesce a scorgere nel cielo un'arca di cristallo, che pochissime altre persone al mondo sembrano riuscire a vedere. Il folletto Pinopino, proveniente dal pianeta Stella Piumata, per ringraziare Y\u016b di aver liberato l'arca da una tempesta di sogni, le dona un medaglione magico (a forma di portacipria) che le consentir\u00e0 di avere poteri fantastici. Questo regalo, l'avverte Pinopino, dovr\u00e0 essere restituito dopo un anno. Lo strano esserino lascia sulla Terra anche due creature della Stella Piumata, Posi e Nega, dalle sembianze di due gattini, che veglieranno su Y\u016b e l'aiuteranno a usare i suoi nuovi poteri...",
+            "title": "L'incantevole Creamy",
+            "saga": "L'incantevole Creamy",
+            "year": "1983",
+            "tmdb_id": "35529",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/creamy_list.json"
+        },
+        {
             "plot": "L'incredibile Hulk (The Incredible Hulk) \u00e8 una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie \u00e8 stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk \u00e8 di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
             "title": "L'Incredibile Hulk",
             "saga": "L'Incredibile Hulk",
             "year": "1996",
+            "tmdb_id": "63332",
             "genre": ["Animazione"," Azione e Avventura"," Dramma"],
             "url": "/ANIMAZIONE/anime/hulk_list.json"
+        },
+        {
+            "plot": "Siamo in un imprecisato futuro, in cui la societ\u00e0 terrestre ha risolto in parte il problema dell'inquinamento atmosferico colonizzando la Luna e Marte, in cui le industrie terrestri si sono trasferite ed hanno costruito ogni genere di fabbriche e magazzini, che garantiscono, mediante le spedizioni settimanali delle astronavi alla Terra, il sostentamento del genere umano. Watta Takeo, il protagonista, \u00e8 un ragazzino di dodici anni che dopo la morte del padre eredita dal genitore la Takeo General Company, una piccola ditta che si occupa di consegne spaziali, effettuate mediante una grande astronave, il Trider; in realt\u00e0 la forma originale del Trider \u00e8 quella di un gigantesco robot da combattimento, che solitamente viene custodito in un bunker al di sotto di un parco giochi, al centro del quale c'\u00e8 proprio la testa del Rrobot, che sporge all'esterno.",
+            "title": "L'Indistruttibile Robot Trider G7",
+            "saga": "L'Indistruttibile Robot Trider G7",
+            "year": "1980",
+            "tmdb_id": "20213",
+            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/trider_list.json"
         },
         {
             "plot": "Naoto Date, un giovane orfano dopo la Seconda guerra mondiale, scappa dall'orfanotrofio per diventare forte \"come una tigre\" ed avere la forza, da grande, di combattere le ingiustizie causate dalla sua condizione sociale. Entra quindi nelle spire dell\u2019organizzazione criminale \"Tana delle Tigri\" dove, assieme ad altri orfanelli, viene allenato in modo disumano perch\u00e9 diventi un abile quanto spietato wrestler da mandare sui ring di tutto il mondo; per ogni incontro disputato, la Tana dovr\u00e0 ricevere la met\u00e0 del compenso del wrestler. Ma Naoto Date/Tiger Mask, tornato dopo dieci anni al suo orfanotrofio in Giappone, si ribeller\u00e0 a tale obbligo: dopo aver deciso di aiutare tutti gli orfani come lui con il denaro da destinare ai suoi ex-capi, inizia la carriera da lottatore onesto. Comincia cos\u00ec un\u2019interminabile serie di incontri mortali contro i sicari di Tana delle Tigri che cercheranno in tutti i modi di punire il suo tradimento.",
@@ -394,15 +431,6 @@
             "tmdb_id": "25114",
             "genre": ["Animazione"," Drammatico"],
             "url": "/ANIMAZIONE/anime/tigre_list.json"
-        },
-        {
-            "plot": "L'incantevole Creamy \u00e8 una serie televisiva animazione di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo. L'animazione gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione. Tokyo - 1\u00ba luglio 1983, quartiere di Kurimigaoka. Y\u016b Morisawa, bambina vivace, fantasiosa e piena di sogni, grazie a queste sue qualit\u00e0 riesce a scorgere nel cielo un'arca di cristallo, che pochissime altre persone al mondo sembrano riuscire a vedere. Il folletto Pinopino, proveniente dal pianeta Stella Piumata, per ringraziare Y\u016b di aver liberato l'arca da una tempesta di sogni, le dona un medaglione magico (a forma di portacipria) che le consentir\u00e0 di avere poteri fantastici. Questo regalo, l'avverte Pinopino, dovr\u00e0 essere restituito dopo un anno. Lo strano esserino lascia sulla Terra anche due creature della Stella Piumata, Posi e Nega, dalle sembianze di due gattini, che veglieranno su Y\u016b e l'aiuteranno a usare i suoi nuovi poteri...",
-            "title": "L'incantevole Creamy",
-            "saga": "L'incantevole Creamy",
-            "year": "1983",
-            "tmdb_id": "35529",
-            "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/creamy_list.json"
         },
         {
             "plot": "Sullo sfondo dell'America del 1700 s'intrecciano le storie di tre guerrieri, due Mohicani e un bianco cresciuto tra gli indiani, e di due giovani inglesi, Cora ed Alice, figlie del colonnello Munro, uniti dal destino nell'arduo viaggio verso Fort Henry.",
@@ -416,14 +444,6 @@
             "url": "/ANIMAZIONE/anime/mohicani_list.json"
         },
         {
-            "plot": "Ambientato nel 2012, tre anni prima del film Jurassic World, Owen Grady e Claire Dearing si uniscono su Isla Nublar per affrontare tutto ci\u00f2 che il parco Jurassic World si fa strada, incluso un misterioso sabotatore che vuole distruggere il parco per sempre!",
-            "title": "LEGO Jurassic World: Legend of Isla Nublar",
-            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
-            "year": "2019",
-            "genre": ["Animazione"," Azione e Avventura"," Famiglia"," Bambini"," Sci-Fi & Fantasy"],
-            "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
-        },
-        {
             "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara. La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
             "title": "Lady Oscar",
             "saga": "Lady Oscar",
@@ -433,6 +453,15 @@
             "url": "/ANIMAZIONE/anime/oscar_list.json"
         },
         {
+            "plot": "Le avventure di Super Mario Bros. 3 è una serie televisiva americana animata basata sul videogioco Super Mario Bros. 3. È andata in onda sulla NBC con Captain N: The Game Master in un blocco di programmazione intitolato Captain N & The Adventures of Super Mario Bros. 3 dal 8 settembre 1990 al 1º dicembre 1990. A differenza del suo predecessore The Super Mario Bros. Super Show, la serie non ha segmenti live-action. La DIC Entertainment ha prodotto questa serie mentre Nintendo ha fornito i personaggi e i power-up.",
+            "title": "Le avventure di Super Mario",
+            "saga": "Le avventure di Super Mario",
+            "year": "1990",
+            "tmdb_id": "14396",
+            "genre": ["Famiglia", "Animazione", "Kids"],
+            "url": "/ANIMAZIONE/anime/mario_list.json"
+        },
+        {
             "plot": "Cricchetto racconta a Saetta che una volta faceva lo Stunt man e il suo pseudonimo era Cricchetto audace d'impatto (nei fumetti Cricchetto il magnifico), si faceva chiamare cos\u00ec perch\u00e9 la sua prima impresa era stata un salto da una rampa e doveva saltare una lunghissima fila di automobili, per\u00f2 non riuscendo ha camminato sui tettucci delle auto. Ma la sua pi\u00f9 grande impresa fu il \"Salto di Carburator Canyon\" (dover saltare con Saetta il canyon locale della Contea di Carburator con dei razzi legati); Saetta parte ma i suoi razzi a met\u00e0 salto si spengono. Il tutto termina con Saetta che chiede: \u00abCom'\u00e8 finita?\u00bb, e Cricchetto: \u00abC'hai lasciato i cerchioni\u00bb.",
             "title": "Le incredibili storie di Carl Attrezzi",
             "saga": "Le incredibili storie di Carl Attrezzi",
@@ -440,6 +469,23 @@
             "tmdb_id": "438788",
             "genre": ["Animazione"],
             "url": "/ANIMAZIONE/anime/carl_list.json"
+        },
+        {
+            "plot": "Ambientato nel 2012, tre anni prima del film Jurassic World, Owen Grady e Claire Dearing si uniscono su Isla Nublar per affrontare tutto ci\u00f2 che il parco Jurassic World si fa strada, incluso un misterioso sabotatore che vuole distruggere il parco per sempre!",
+            "title": "LEGO Jurassic World: Legend of Isla Nublar",
+            "saga": "LEGO Jurassic World: Legend of Isla Nublar",
+            "year": "2019",
+            "genre": ["Animazione"," Azione e Avventura"," Famiglia"," Bambini"," Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
+        },
+        {
+            "plot": "Basata sul manga di Mao Dante, il capolavoro di Go Nagai che avrebbe poi dato vita al leggendario Devilman, la pi\u00f9 recente serie animata di Demon Lord Dante si pone come un viaggio nella psiche di un signore dei demoni e negli orrori che vi sono contenuti.",
+            "title": "Mao Dante",
+            "saga": "Mao Dante",
+            "year": "2002",
+            "tmdb_id": "34060",
+            "genre": ["Animazione", "Action & Adventure"],
+            "url": "/ANIMAZIONE/anime/dante_list.json"
         },
         {
             "plot": "La serie reinventa i personaggi di Martin Mystere e Diana Lombard, come studenti presso la Torrington Academy, un college di Sherbrooke, Qu\u00e9bec; oltre alla loro normale vita da studenti, i due lavorano per \"Il Centro\", una organizzazione segreta che protegge la gente da alieni e forze soprannaturali. Non tutti coloro che lavorano per \"Il Centro\", tuttavia sono umani, come il piccolo alieno verde Billy o Java, uomo delle caverne di 200.000 anni prima, e guardia del corpo personale di Martin e Diana. Cos\u00ec formato, il team affronta una serie di missioni per svelare misteri affrontando mostri e creature sovrannaturali.",
@@ -536,7 +582,16 @@
             "year": "2015",
             "tmdb_id": "64706",
             "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/_list.json"
+            "url": "/ANIMAZIONE/anime/prison_list.json"
+        },
+        {
+            "plot": "Rambo: The Force of Freedom è una serie animata basata sul personaggio di John Rambo dal libro First Blood di David Morrell e dai successivi film First Blood e Rambo: First Blood Part II. Questa serie è stata adattata per la televisione dallo story editor/scrittore capo Michael Chain e la serie ha persino generato una linea di giocattoli. Il cartone animato durò per 65 episodi e fu prodotto dalla Ruby-Spears Enterprises. La serie ha debuttato il 14 aprile 1986 come miniserie in cinque parti, ed è stata rinnovata a settembre come cartone animato quotidiano. Rambo è stato cancellato nel dicembre dello stesso anno.",
+            "title": "Rambo - The Force of Freedom",
+            "saga": "Rambo - The Force of Freedom",
+            "year": "1986",
+            "tmdb_id": "2762",
+            "genre": ["Action & Adventure"],
+            "url": "/ANIMAZIONE/anime/rambo_list.json"
         },
         {
             "plot": "Ranma Saotome e il padre Genma sono due esperti di arti marziali che tornano in Giappone dopo un lungo periodo trascorso in Cina per allenarsi. Per continuare la tradizione di famiglia, Genma ha combinato per il figlio un matrimonio con una delle figlie di Tendo, suo grande amico e anch'egli maestro di arti marziali. La scelta ricade sulla pi\u00f9 piccola, Akane, che di sposarsi non vuole saperne affatto. Le cose si complicano quando si scopre che Ranma e suo padre sono vittime di una maledizione: ogni volta che si bagnano con l'acqua fredda si trasformano, rispettivamente, in una ragazza dai capelli rossi e in un panda!",
@@ -565,6 +620,15 @@
             "url": "/ANIMAZIONE/anime/futuro_list.json"
         },
         {
+            "plot": "Nel 1999, una ciclopica astronave aliena si schianta su Macross, un'isola della Terra.\n\nDallo studio di questo eccezionale artefatto, gli scienziati terrestri ottengono conoscenze tecnologiche piuttosto avanzate, che portano alla costruzione di nuovi mezzi bellici come i caccia trasformabili VF-1 Varitech (soprannominati anche Valkyrie) ed al ripristino della stessa astronave aliena (ribattezzata, in seguito, SDF-1, Super Dimensional Fortress 1).\n\nDurante la cerimonia d'inaugurazione della nave, il popolo alieno dei giganteschi Zentradi attacca l'isola ed i suoi abitanti. Un pilota acrobatico, Rick Hunter, sale a bordo di un aereo militare (un caccia Valkyrie) e viene suo malgrado coinvolto nel combattimento (schiantandosi infine, sulla casa di una giovane ragazza, Lynn Minmay).\n\nLe forze aliene sono cos\u00ec superiori a quelle terrestri che e il comandante dell'SDF-1, Henry Gloval, ordina di compiere un salto iperspaziale, che trasferisce la fortezza spaziale e, come effetto collaterale, anche gran parte dell'isola di Macross e le due navi da guerra Daedalus e Prometeus, in prossimit\u00e0 di Plutone.\n\nLa gigantesca astronave diventa cos\u00ec una vera citt\u00e0 spaziale, in cui i superstiti dell'incidente vivono sotto la costante minaccia degli Zentradi, i quali, localizzata la nave ne inseguono la scia.",
+            "title": "Robotech",
+            "saga": "Robotech",
+            "year": "1985",
+            "tmdb_id": "2192",
+            "genre": ["Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/robotech_list.json"
+        },
+        {
             "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan \u00e8 pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
             "title": "Sandokan - La tigre ruggisce ancora",
             "saga": "Sandokan - La tigre ruggisce ancora",
@@ -583,6 +647,15 @@
             "url": "/ANIMAZIONE/anime/scuola_list.json"
         },
         {
+            "plot": "She-Ra, la sorella gemella di He-Man, sta guidando un gruppo di combattenti per la libertà conosciuti come la Grande Ribellione nella speranza di liberare il loro mondo natale di Etheria dal dominio tirannico di Hordak e dell'Orda del Male.",
+            "title": "She-Ra, la principessa del potere",
+            "saga": "She-Ra, la principessa del potere",
+            "year": "1985",
+            "tmdb_id": "14755",
+            "genre": ["Action & Adventure", "Animazione", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/shera_list.json"
+        },
+        {
             "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
             "title": "Sissi",
             "saga": "Sissi",
@@ -590,6 +663,15 @@
             "tmdb_id": "35073",
             "genre": ["Animazione"],
             "url": "/ANIMAZIONE/anime/sissi_list.json"
+        },
+        {
+            "plot": "Quattordici anni dopo la fondazione del malvagio Impero Galattico, un gruppo eterogeneo di ribelli, intenti a sabotarlo, si unisce a bordo di un'astronave cargo di nome Spettro, gettando le fondamenta della futura Alleanza Ribelle.",
+            "title": "Star Wars Rebels",
+            "saga": "Star Wars Rebels",
+            "year": "2014",
+            "tmdb_id": "60554",
+            "genre": ["Action & Adventure", "Animazione"],
+            "url": "/ANIMAZIONE/anime/rebels_list.json"
         },
         {
             "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
@@ -625,7 +707,7 @@
             "year": "1995",
             "tmdb_id": "9957",
             "genre": ["Animazione"],
-            "url": "/ANIMAZIONE/anime/_list.json"
+            "url": "/ANIMAZIONE/anime/mask_list.json"
         },
         {
             "plot": "The Real Ghostbusters \u00e8 una serie televisiva animata americana derivata dal franchise Ghostbusters. La serie \u00e8 andata in onda dal 1986 al 1991 ed \u00e8 stata prodotta da Columbia Pictures Television, DiC Enterprises e Coca-Cola Telecommunications. \"The Real\" \u00e8 stato aggiunto al titolo dopo una disputa con Filmation e le sue propriet\u00e0 Ghost Busters. La serie continua le avventure degli investigatori del paranormale Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, la loro segretaria Janine Melnitz e il loro fantasma mascotte Slimer. C'erano anche due fumetti in corso di Real Ghostbusters, uno pubblicato mensilmente da Now Comics negli Stati Uniti e l'altro pubblicato settimanalmente dalla Marvel Comics nel Regno Unito, e una popolare linea di giocattoli prodotta da Kenner.",
@@ -641,6 +723,7 @@
             "title": "UFO Robot Goldrake",
             "saga": "Goldrake",
             "year": "1975",
+            "tmdb_id": 46252,
             "genre": ["Animazione"," Azione & Avventura"," Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/goldrake_list.json"
         },
@@ -652,6 +735,24 @@
             "tmdb_id": "22432",
             "genre": ["Animazione"," Drammatico"," Commedia"],
             "url": "/ANIMAZIONE/anime/girl_list.json"
+        },
+        {
+            "plot": "Wolverine e the X-Men è una serie di cartoni animati americani della Marvel Animation. È il quarto adattamento animato dei personaggi degli X-Men, gli altri tre sono Pryde degli X-Men, X-Men: The Animated Series e X-Men: Evolution.",
+            "title": "Walverine e gli X-men",
+            "saga": "Walverine e gli X-men",
+            "year": "2009",
+            "tmdb_id": "6549",
+            "genre": ["Animazione", "Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "url": "/ANIMAZIONE/anime/wolverine_list.json"
+        },
+        {
+            "plot": "Xiaolin Showdown è una serie televisiva americana animata che va in onda su Kids WB ed è stata creata da Christy Hui. Ambientata in un mondo dove le battaglie di arti marziali e la magia orientale sono all'ordine del giorno, la serie segue quattro giovani guerrieri in formazione che combattono le forze del male. Lo fanno proteggendo Shen Gong Wu dai cattivi che li userebbero per conquistare il mondo.",
+            "title": "Xiaolin Showdown",
+            "saga": "Xiaolin Showdown",
+            "year": "2003",
+            "tmdb_id": "679",
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "url": "/ANIMAZIONE/anime/xiaolin_list.json"
         },
         {
             "plot": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo \u00e8 un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode. Il loro compito, da quel momento, sar\u00e0 trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potr\u00e0 ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia cos\u00ec a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porter\u00e0 nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si riveler\u00e0 sbagliata. Ma i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",

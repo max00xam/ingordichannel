@@ -1,0 +1,836 @@
+{
+    "episodes_list": [
+        {
+            "file_id": "4c1f1147d00499206f30d2a0277ae01c",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Un viaggio lungo mille miglia",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.001 - Un viaggio lungo mille miglia.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4c1f1147d00499206f30d2a0277ae01c"
+                }
+            ]
+        },
+        {
+            "file_id": "0083bfadbc8a6d0207a08aff40af30f1",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Come una roccia!",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.002 - Come una roccia!.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/0083bfadbc8a6d0207a08aff40af30f1"
+                }
+            ]
+        },
+        {
+            "file_id": "099c204586c6a16c0c1e1157ebbbcbf0",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Sesso debole",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.003 - Sesso debole.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/099c204586c6a16c0c1e1157ebbbcbf0"
+                }
+            ]
+        },
+        {
+            "file_id": "4bca145c0c909051e38d2764bffba634",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Katnappe!",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.004 - Katnappe!.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4bca145c0c909051e38d2764bffba634"
+                }
+            ]
+        },
+        {
+            "file_id": "c527767eed00a4c8edd3f70bcef2d318",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "La sfida di Raimundo",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.005 - La sfida di Raimundo.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c527767eed00a4c8edd3f70bcef2d318"
+                }
+            ]
+        },
+        {
+            "file_id": "03394ea91d6989ed9594a67ab0cf9267",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Camaleonte",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.006 - Camaleonte.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03394ea91d6989ed9594a67ab0cf9267"
+                }
+            ]
+        },
+        {
+            "file_id": "714dcbf8a62893ae1586ff56862dd413",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "L`anello dei nove draghi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.007 - L`anello dei nove draghi.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/714dcbf8a62893ae1586ff56862dd413"
+                }
+            ]
+        },
+        {
+            "file_id": "f165e06d36bb1b32fc5ad9a140f593e0",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "La notte del drago zaffiro",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.008 - La notte del drago zaffiro.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f165e06d36bb1b32fc5ad9a140f593e0"
+                }
+            ]
+        },
+        {
+            "file_id": "bef9a558c8157110931257960b4153be",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Il mio fratello Omi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.009 - Il mio fratello Omi.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bef9a558c8157110931257960b4153be"
+                }
+            ]
+        },
+        {
+            "file_id": "160c3b17b391c0de27e92dd9e025b74e",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Il grande Texas",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.010 - Il grande Texas.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/160c3b17b391c0de27e92dd9e025b74e"
+                }
+            ]
+        },
+        {
+            "file_id": "749466731faa6e59e4a14a3f849d4073",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "L`unione fa la forza",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.011 - L`unione fa la forza.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/749466731faa6e59e4a14a3f849d4073"
+                }
+            ]
+        },
+        {
+            "file_id": "62aaaa166f13e098adb8503b78fa4c23",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Mala Mala Jong",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.012 - Mala Mala Jong.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/62aaaa166f13e098adb8503b78fa4c23"
+                }
+            ]
+        },
+        {
+            "file_id": "d32b28e97f94e1166f2504a4e4f37857",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "In carne ed ossa",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/1.013 - In carne ed ossa.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d32b28e97f94e1166f2504a4e4f37857"
+                }
+            ]
+        },
+        {
+            "file_id": "be6f5d34efada76da8e5c00248a373bc",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Days Past",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.001 - Days Past.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/be6f5d34efada76da8e5c00248a373bc"
+                }
+            ]
+        },
+        {
+            "file_id": "96642e5d91b749cb07f50ed42d4b7716",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Citadel of Doom",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.002 - Citadel of Doom.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/96642e5d91b749cb07f50ed42d4b7716"
+                }
+            ]
+        },
+        {
+            "file_id": "b5eb4af369589ed174752c58f25dcbac",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Shard of Lightning",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.003 - The Shard of Lightning.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b5eb4af369589ed174752c58f25dcbac"
+                }
+            ]
+        },
+        {
+            "file_id": "2ef6361ee3a206ee8f3c699b3c1fd283",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Crystal Glasses",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.004 - The Crystal Glasses.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2ef6361ee3a206ee8f3c699b3c1fd283"
+                }
+            ]
+        },
+        {
+            "file_id": "2b61d2d5f3159f0b22de6b0b7980ed76",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Pandatown",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.005 - Pandatown.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2b61d2d5f3159f0b22de6b0b7980ed76"
+                }
+            ]
+        },
+        {
+            "file_id": "402b3382d77c10cc119c60987d2f4b91",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Sizing Up Omi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.006 - Sizing Up Omi.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/402b3382d77c10cc119c60987d2f4b91"
+                }
+            ]
+        },
+        {
+            "file_id": "8bdc3659c73f132377d7057c85222feb",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Enter the Dragon",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.007 - Enter the Dragon.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8bdc3659c73f132377d7057c85222feb"
+                }
+            ]
+        },
+        {
+            "file_id": "257d460dd0b35728a120e98e7bcba002",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Sands of Time",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.008 - The Sands of Time.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/257d460dd0b35728a120e98e7bcba002"
+                }
+            ]
+        },
+        {
+            "file_id": "eea8b5421c9a2cfe4b1eac19820b126a",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Hear Some Evil, See Some Evil",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.009 - Hear Some Evil, See Some Evil.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/eea8b5421c9a2cfe4b1eac19820b126a"
+                }
+            ]
+        },
+        {
+            "file_id": "5194e4a69630231d5e1d43dd11c06e99",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Dreamscape",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.010 - Dreamscape.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/5194e4a69630231d5e1d43dd11c06e99"
+                }
+            ]
+        },
+        {
+            "file_id": "465a9a8609d1da8543b4e5762dfac982",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Master Monk Guan",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.011 - Master Monk Guan.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/465a9a8609d1da8543b4e5762dfac982"
+                }
+            ]
+        },
+        {
+            "file_id": "2f56c007be7ffd34c9c023a5536aef34",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Evil Within",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.012 - The Evil Within.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2f56c007be7ffd34c9c023a5536aef34"
+                }
+            ]
+        },
+        {
+            "file_id": "ae9aecd2adea93d3c7d263888a551da6",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Deep Freeze",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.013 - The Deep Freeze.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ae9aecd2adea93d3c7d263888a551da6"
+                }
+            ]
+        },
+        {
+            "file_id": "46b097906829d92d50d8fed5124866eb",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 14,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Emperor Scorpion Strikes Back",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.014 - The Emperor Scorpion Strikes Back.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/46b097906829d92d50d8fed5124866eb"
+                }
+            ]
+        },
+        {
+            "file_id": "6f1d57803163e73c7057224d3af2a6c1",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 15,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Black Vipers",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.015 - The Black Vipers.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/6f1d57803163e73c7057224d3af2a6c1"
+                }
+            ]
+        },
+        {
+            "file_id": "60bcf7bfe93bdcf78e2448480e453704",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 16,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Screams of the Siren",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.016 - Screams of the Siren.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/60bcf7bfe93bdcf78e2448480e453704"
+                }
+            ]
+        },
+        {
+            "file_id": "39e773efead621798483758cb30ff71a",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 17,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Return of Pandabubba",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.017 - The Return of Pandabubba.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/39e773efead621798483758cb30ff71a"
+                }
+            ]
+        },
+        {
+            "file_id": "03e37a0fa48e87db0b57858c463e31e2",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 18,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Last Temptation of Raimundo",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.018 - The Last Temptation of Raimundo.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/03e37a0fa48e87db0b57858c463e31e2"
+                }
+            ]
+        },
+        {
+            "file_id": "3252b6c897004e7efd0e85e08bbc17cf",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 19,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Year of the Green Monkey",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.019 - The Year of the Green Monkey.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/3252b6c897004e7efd0e85e08bbc17cf"
+                }
+            ]
+        },
+        {
+            "file_id": "4797a52a4bd56cf5f1a64712aebc81aa",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 20,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Demon Seed",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.020 - The Demon Seed.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4797a52a4bd56cf5f1a64712aebc81aa"
+                }
+            ]
+        },
+        {
+            "file_id": "721f2f575b9d6a70d8a0a3c738c4b9f9",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 21,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The New Order",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.021 - The New Order.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/721f2f575b9d6a70d8a0a3c738c4b9f9"
+                }
+            ]
+        },
+        {
+            "file_id": "a04c47e028fc4a0ca3ff85d2ae5c420f",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 22,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Apprentice",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.022 - The Apprentice.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a04c47e028fc4a0ca3ff85d2ae5c420f"
+                }
+            ]
+        },
+        {
+            "file_id": "8071da5fabfba6b5a086bae163fff47e",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 23,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Something Jermaine",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.023 - Something Jermaine.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8071da5fabfba6b5a086bae163fff47e"
+                }
+            ]
+        },
+        {
+            "file_id": "bfb19a887119786c7b51bdafaf0d1070",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 24,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Dangerous Minds",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.024 - Dangerous Minds.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/bfb19a887119786c7b51bdafaf0d1070"
+                }
+            ]
+        },
+        {
+            "file_id": "23514b921bd04c16f128ccdfdc96075e",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 25,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Judging Omi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.025 - Judging Omi (1).mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/23514b921bd04c16f128ccdfdc96075e"
+                }
+            ]
+        },
+        {
+            "file_id": "ffcbde59d3f50f523b7d3faa00505473",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 2,
+            "episode": 26,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Saving Omi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/2.026 - Saving Omi (2).mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/ffcbde59d3f50f523b7d3faa00505473"
+                }
+            ]
+        },
+        {
+            "file_id": "8cf37ea6a98b1e354c53f20b7975aa82",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 1,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Finding Omi",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.001 - Finding Omi.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8cf37ea6a98b1e354c53f20b7975aa82"
+                }
+            ]
+        },
+        {
+            "file_id": "d42e6b14b3a75d0859d9117f4da7970d",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 2,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Bird of Paradise",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.002 - Bird of Paradise.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d42e6b14b3a75d0859d9117f4da7970d"
+                }
+            ]
+        },
+        {
+            "file_id": "9ab0880b2a5402a5d27a078ff0499f80",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 3,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Life and Times of Hannibal Roy Bean",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.003 - The Life and Times of Hannibal Roy Bean.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9ab0880b2a5402a5d27a078ff0499f80"
+                }
+            ]
+        },
+        {
+            "file_id": "f73ed589cda2f6459cdd6a768991a7eb",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 4,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Omi Town",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.004 - Omi Town.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/f73ed589cda2f6459cdd6a768991a7eb"
+                }
+            ]
+        },
+        {
+            "file_id": "043440ce8f414e2f81fd8f7c821aa874",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 5,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Treasure of the Blind Swordsman",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.005 - Treasure of the Blind Swordsman.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/043440ce8f414e2f81fd8f7c821aa874"
+                }
+            ]
+        },
+        {
+            "file_id": "1ac749997395672deba83decca94050a",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 6,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Oil in the Family",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.006 - Oil in the Family.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1ac749997395672deba83decca94050a"
+                }
+            ]
+        },
+        {
+            "file_id": "8a160cf01720620a04305491ff7caafa",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 7,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Return of Master Monk Guan",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.007 - The Return of Master Monk Guan.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/8a160cf01720620a04305491ff7caafa"
+                }
+            ]
+        },
+        {
+            "file_id": "1109e54598f06aa0f47ad25a2b77733e",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 8,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "The Dream Stalker",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.008 - The Dream Stalker.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1109e54598f06aa0f47ad25a2b77733e"
+                }
+            ]
+        },
+        {
+            "file_id": "1d4c0743e1d8d281950f4415045dec1f",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 9,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Chucky Choo",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.009 - Chucky Choo.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d4c0743e1d8d281950f4415045dec1f"
+                }
+            ]
+        },
+        {
+            "file_id": "52f71424f24be0971a8a8f86b3e26c0c",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 10,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Wu Got the Power",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.010 - Wu Got the Power.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/52f71424f24be0971a8a8f86b3e26c0c"
+                }
+            ]
+        },
+        {
+            "file_id": "14c03a79d1793f31c33d47812c399b3f",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 11,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Hannibal`s Revenge",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.011 - Hannibal`s Revenge.mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/14c03a79d1793f31c33d47812c399b3f"
+                }
+            ]
+        },
+        {
+            "file_id": "85657a3697f5433b0d9651ab4050398e",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 12,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Time After Time",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.012 - Time After Time (1).mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/85657a3697f5433b0d9651ab4050398e"
+                }
+            ]
+        },
+        {
+            "file_id": "fe21f3117c5132944963a749c68a0210",
+            "tmdb_id": 679,
+            "saga": "Xiaolin Showdown",
+            "season": 3,
+            "episode": 13,
+            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "title": "Time After Time",
+            "fname": "/Anime & Cartoni/Xiaolin Showdown (2003) [a679]/3.013 - Time After Time (2).mkv",
+            "year": "2003",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/fe21f3117c5132944963a749c68a0210"
+                }
+            ]
+        }
+    ]
+}
