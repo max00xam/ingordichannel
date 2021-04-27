@@ -262,6 +262,15 @@
             "url": "/ANIMAZIONE/anime/hazzard_list.json"
         },
         {
+            "plot": "La serie (Hotel Transylvania: The Series), inizialmente previsto col titolo Hotel Transylvania: The Television Series, \u00e8 una serie televisiva a cartoni animati bidimensionale prodotta dalla Sony Pictures Animation e Nelvana Limited ed \u00e8 basato sul film d'animazione Hotel Transylvania del 2012. Gli eventi della serie si andranno a collocare prima del film originale mettendo a fuoco gli anni dell'adolescenza di Mavis e dei suoi amici dell'Hotel Transylvania.",
+            "title": "Hotel Transylvania: La Serie",
+            "saga": "Hotel Transylvania: La Serie",
+            "year": "2017",
+            "tmdb_id": "72442",
+            "genre": ["Animazione", "Commedia", "Famiglia"],
+            "url": "/ANIMAZIONE/anime/hotel_list.json"
+        },
+        {
             "plot": "I Jetsons \u00e8 una serie animata americana prodotta da Hanna-Barbera, contraltare futurista della famiglia Flinstones.\n\nE' ambientata in una utopica citt\u00e0 del 2062, elaborato complesso gestito da robot e caratterizzato da alieni, ologrammmi e improbabili invenzioni e aggeggi futuristici (per gli anni '60, tipicamente caratterizzati da assurdi ma simpatici meccanismi meccanici), dove la famiglia si scontra con i soliti problemi senza tempo del lavoro, dei figli e dei rapporti reciproci.\n\nTrasmessa da ABC per la prima volta nel 1962-1963 (24 episodi in bianco e nero) alla quale si sono poi aggiunti nuovi episodi disegnati tra il 1984 e il 1987, \u00e8 stata riprosta per decenni senza perdere nulla del suo spirito.",
             "title": "I pronipoti",
             "saga": "I pronipoti",
@@ -370,15 +379,6 @@
             "url": "/ANIMAZIONE/anime/jwna_list.json"
         },
         {
-            "plot": "Siamo alla fine del XX secolo. Il mondo intero \u00e8 sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civilt\u00e0 e la pi\u00f9 totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ci\u00f2 che incontrano. In questo scenario si muove Kenshiro, 64\u00b0 successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verr\u00e0 rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
-            "title": "Ken il guerriero",
-            "saga": "Ken il guerriero",
-            "year": "1984",
-            "tmdb_id": "56387",
-            "genre": ["Animazione"," Azione & Avventura"],
-            "url": "/ANIMAZIONE/anime/ken_list.json"
-        },
-        {
             "plot": "La serie \u00e8 un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
             "title": "Ken il guerriero: Le origini del mito",
             "saga": "Ken il guerriero: Le origini del mito",
@@ -386,6 +386,15 @@
             "tmdb_id": "68203",
             "genre": ["Animazione"," Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/mito_list.json"
+        },
+        {
+            "plot": "Siamo alla fine del XX secolo. Il mondo intero \u00e8 sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civilt\u00e0 e la pi\u00f9 totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ci\u00f2 che incontrano. In questo scenario si muove Kenshiro, 64\u00b0 successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verr\u00e0 rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+            "title": "Ken il guerriero",
+            "saga": "Ken il guerriero",
+            "year": "1984",
+            "tmdb_id": "56387",
+            "genre": ["Animazione"," Azione & Avventura"],
+            "url": "/ANIMAZIONE/anime/ken_list.json"
         },
         {
             "plot": "Diverse centinaia di anni fa, la razza umana fu quasi sterminata dai giganti. Si racconta di quanto questi fossero alti, privi di intelligenza e affamati di carne umana; peggio ancora, essi sembra divorassero umani più per piacere che per necessario sostentamento. Una piccola percentuale dell'umanità però sopravvisse asserragliandosi in una città circondata da mura estremamente alte, anche più alte del più grande di giganti. Eren è un adolescente che vive in questa città, dove non si vede un gigante da oltre un secolo. Ma presto un orrore indicibile si palesa alle sue porte, ed un gigante più grande di quanto si sia mai sentito narrare, appare dal nulla abbattendo le mura ed imperversando assieme ad altri suoi simili fra la popolazione. Eren, vinto il terrore iniziale, si ripromette di eliminare ogni singolo gigante, per vendicare l'umanità tutta.",
