@@ -2549,6 +2549,40 @@
 					"url": "http://51.77.159.233:30299/484b32bdf6bd6bce56df5b70a3eb805b"
 				}
 			]
-		}
+		},
+		{
+            "file_id": "cf9903d0aeea9bff9e2672fcc751cec4",
+            "tmdb_id": 62214,
+            "genre": ["Animazione", "Commedia", "Famiglia"],
+            "title": "Frankenweenie",
+            "fname": "/Film anime/Frankenweenie (2012).mp4",
+            "year": "2012",
+            "plot": "Dopo aver inaspettatamente perso il suo adorato cane Sparky, il giovane Victor sfrutta il potere della scienza per riportare in vita il suo amico, con qualche lieve variazione. Prova a nascondere la sua creazione cucita-in-casa, ma quando Sparky esce i compagni di scuola di Victor, gli insegnanti e l\u2019intera citt\u00e0 scoprono che \u201ctenere al guinzaglio una nuova vita\u201d pu\u00f2 essere mostruoso.",
+            "director": ["Tim Burton"],
+            "actors": ["Charlie Tahan", "Catherine O'Hara", "Martin Short", "Martin Landau", "Atticus Shaffer", "Winona Ryder", "Robert Capron", "James Hiroyuki Liao", "Conchata Ferrell", "Tom Kenny", "Frank Welker", "Dee Bradley Baker", "Jeff Bennett", "Christopher Lee"],
+            "poster": "/njbbeB4OrgVWABGLNf64WKpVBIJ.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/cf9903d0aeea9bff9e2672fcc751cec4"
+                }
+            ]
+        },
+        {
+            "file_id": "d071dfb7ec39632b91aeffc1ac10b6ec",
+            "tmdb_id": 8587,
+            "genre": ["Famiglia", "Animazione", "Dramma"],
+            "title": "Il Re Leone",
+            "fname": "/Film anime/Il Re Leone.mp4",
+            "year": "1994",
+            "plot": "Convinto di essere responsabile della morte del padre re Mufasa, il piccolo leoncino Simba si allontana dalla sua terra. Accolto e allevato dal suricato Timon e dal facocero Pumbaa, Simba cresce cercando di dimenticare il passato. \u00c8 ritrovato da Nala, sua vecchia compagna di giochi, e Rafiki, babbuino sciamano, che lo convincono a tornare per scacciare l'usurpatore Scar.",
+            "director": ["Roger Allers", "Rob Minkoff"],
+            "actors": ["Matthew Broderick", "James Earl Jones", "Jeremy Irons", "Rowan Atkinson", "Niketa Calame", "Jim Cummings", "Whoopi Goldberg", "Robert Guillaume", "Moira Kelly", "Nathan Lane", "Zoe Leader", "Cheech Marin", "Ernie Sabella", "Madge Sinclair", "Jonathan Taylor Thomas", "Frank Welker", "Cathy Cavadini", "Judi M. Durand", "Daamen J. Krall", "David McCharen", "Mary Linda Phillips", "Phil Proctor", "David J. Randolph", "Sally Dworsky", "Evan Saucedo", "Brian Tochi", "Jason Weaver", "Joseph Williams", "Laura Williams", "Joseph Williams"],
+            "poster": "/ynzEis5NQxPv0cBrqxwRD5qJLol.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/d071dfb7ec39632b91aeffc1ac10b6ec"
+                }
+            ]
+        }
     ]
 }
