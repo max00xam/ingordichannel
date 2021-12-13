@@ -1,14 +1,6 @@
 {
+    "sort":true,
     "tvshows_list": [
-        {
-            "plot": "ALF \u00e8 una serie televisiva fantascientifica per bambini, che segue le avventure di un amichevole (e un po' pasticcione) forma di vita aliena (da cui il nome ALF, alien life form) che si schianta nel garage di una comune famiglia americana con figli, i Tanner e finisce per conviverci.\n\nE' composta di 4 stagioni, per un totale di 102 episodi inizialmente trasmessi dalla NBC dal settembre 1986 fino al Marzo del 1990. Fu la prima serie presentata in Dolby Surrond.",
-            "title": "ALF",
-            "saga": "ALF",
-            "year": "1986",
-            "tmdb_id": "4658",
-            "genre": ["Commedia", "Famiglia"],
-            "url": "/SERIE-TV/serie/alf_list.json"
-        },
         {
             "plot": "",
             "title": "",
@@ -44,6 +36,15 @@
             "tmdb_id": "4882",
             "genre": ["Drammatico","Fantascienza e Fantasia","Fantascienza"],
             "url": "/SERIE-TV/serie/galacticacl_list.json"
+        },
+        {
+            "plot": "ALF \u00e8 una serie televisiva fantascientifica per bambini, che segue le avventure di un amichevole (e un po' pasticcione) forma di vita aliena (da cui il nome ALF, alien life form) che si schianta nel garage di una comune famiglia americana con figli, i Tanner e finisce per conviverci.\n\nE' composta di 4 stagioni, per un totale di 102 episodi inizialmente trasmessi dalla NBC dal settembre 1986 fino al Marzo del 1990. Fu la prima serie presentata in Dolby Surrond.",
+            "title": "ALF",
+            "saga": "ALF",
+            "year": "1986",
+            "tmdb_id": "4658",
+            "genre": ["Commedia", "Famiglia"],
+            "url": "/SERIE-TV/serie/alf_list.json"
         },
         {
             "plot": "Dopo lo sterminio cylone, la specie umana conta solo 49.998 sopravvissuti. Il Comandante William Adamo guida la Flotta Coloniale a bordo del Galactica, unica astronave militare salvatasi dall'attacco alle Dodici Colonie, mentre Laura Roslin assume la difficile carica di presidente presso il Colonial One. Insieme guidano l'umanit\u00e0 verso una nuova casa, la leggendaria tredicesima colonia nota come Terra. La Flotta \u00e8 sottoposta a continui attacchi da parte dei Cyloni, e fatica a restare unita dopo ogni salto. I piloti di Viper, tra i quali spicca il tenente Kara \"Scorpion\" Thrace, sono sotto il comando di Lee Adamo, figlio del comandante. Lo scienziato Gaius Baltar, il responsabile dell'attacco cylone, \u00e8 anch'egli a bordo della Flotta e tenta di conquistare la fiducia dei piani alti costruendo un congegno in grado di rilevare la natura di un cylone umanoide. Allo stesso tempo inizia ad avere visioni del cylone che lo sedusse su Caprica, Numero Sei, che sostiene di essere un angelo di Dio. Il Tenente Sharon \"Boomer\" Valerii scopre di essere una copia dormiente del Numero Otto e tenta di uccidere William Adamo. Nel frattempo, Scorpion si reca a Caprica per recuperare la Freccia di Apollo, un antico manufatto che secondo le Scritture aprirebbe le porte della Tomba di Atena, luogo mistico che aiuterebbe l'umanit\u00e0 a trovare la rotta verso la Terra. Sul pianeta si unisce a Karl Agathon, che ha vissuto gli ultimi mesi con una copia del Numero Otto credendo che questa fosse Boomer.",
