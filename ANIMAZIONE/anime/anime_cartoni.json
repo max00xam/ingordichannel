@@ -2,6 +2,87 @@
     "sort": true,
     "tvshows_list": [
         {
+            "plot": "Pai è l'ultima discendente dei Sanzhiyan Hum Kara, l'antico popolo dei triclopi, detentore del segreto dell'eterna giovinezza ed immortalità. La ragazza è alla ricerca del modo per diventare un essere umano.",
+            "title": "3x3 occhi",
+            "saga": "3x3 occhi",
+            "year": "1991",
+            "tmdb_id": "62913",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/3x3_list.json"
+        },
+        {
+            "plot": "La serie è a sfondo fantascientifico e prende ad ispirazione le avventure di una coppia di poliziotti per insegnare ed educare nelle tematiche più svariate, come inquinamento, sovrappopolazione, entomologia e altre ancora. I protagonisti lavorano nelle forze di sicurezza di una federazione intergalattica, detta Confederazione Omega, che comprende 11 civiltà differenti. La confederazione, per alcuni versi, fra cui bandiera e modus operandi, con un consiglio dei governi che prende le decisioni a maggioranza, ricorda l'Unione europea.",
+            "title": "Ai confini dell'universo",
+            "saga": "C'era una volta...",
+            "year": "1982",
+            "tmdb_id": "4727",
+            "genre": ["Animazione", "Bambini" , "Famiglia"],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio può presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "title": "Corto Circuito",
+            "saga": "Disney",
+            "year": "2020",
+            "tmdb_id": "98566",
+            "genre": ["Animazione", "Famiglia"],
+            "url": "/ANIMAZIONE/anime/corto_list.json"
+        },
+        {
+            "plot": "La trama parte dal film d'animazione. Dopo la capitolazione della Terra, oramai sotto il giogo degli invasori Umanoidi (in originale Illumidas), l'esiliato Harlock rinuncia alla lotta e decide di partire con il suo piccolo equipaggio alla ricerca di un posto migliore in cui vivere: il pianeta ideale. Ma gli Umanoidi non rinunciano ai loro desideri di rivalsa, e anche fra gli uomini Harlock è considerato spesso un nemico. Per la sua ricerca Harlock può contare sull'Arcadia, una gigantesca astronave da battaglia, lunga 400 m e dalla poderosa struttura. Vi sono artiglierie sia sul ponte di prua, che sotto lo scafo, colmando un settore altrimenti cieco (come nel caso dell'Arcadia della prima serie). Il suo equipaggio comprende alcuni pirati, tra cui Tochiro, il suo grande amico nonché progettista dell'astronave. Fin dai primi episodi iniziano ad aggiungersi il giovanissimo Tadashi, poi una ragazzina e un dottore, infine Yuki, la bella figlia del giornalista che cerca di fare una stampa libera contro la censura dell'informazione attuata dal potere costituito.",
+            "title": "Capitan Harlock SSX: Rotta verso l'infinito",
+            "saga": "Capitan Harlock",
+            "year": "1982",
+            "tmdb_id": "37392",
+            "genre": ["Fantascienza & Fantasia", "Animazione"],
+            "url": "/ANIMAZIONE/anime/SSX_list.json"
+        },
+        {
+            "plot": "Oscure forze soprannaturali pervadono il mondo criminale di Manila e tocca ad Alexandra Trese mantenere la pace... ma è in arrivo una tempesta.",
+            "title": "Trese - Detective delle tenebre",
+            "saga": "Trese - Detective delle tenebre",
+            "year": "2021",
+            "tmdb_id": "94924",
+            "genre": ["Animazione", "Fantascienza & Fantasia", "Mistero", "Crimine"],
+            "url": "/ANIMAZIONE/anime/trese_list.json"
+        },
+        {
+            "plot": "Uniti da una canzone misteriosa, una studentessa e un ingegnere guidano la lotta contro una forza inimmaginabile che minaccia il destino del mondo.",
+            "title": "Godzilla - Punto di singolarità",
+            "saga": "Godzilla - Punto di singolarità",
+            "year": "2021",
+            "tmdb_id": "111177",
+            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia", "Mistero"],
+            "url": "/ANIMAZIONE/anime/godzilla_list.json"
+        },
+        {
+            "plot": "I Guardiani della Galassia: Star-Lord, Gamora, Drax il Distruttore, Rocket Raccoon e Groot hanno viaggiato in tutta la galassia per ritrovare il Seme Cosmico, una potentissima arma che può donare poteri illimitati, ma per farlo hanno dovuto farlo grazie al CriptoCubo Spartaxiano, una arma di Spartax che aiutava i Guardiani grazie a una mappa, e per affrontare nemici peggiori come il malvagio Thanos e i suoi servitori: Ronan l'Accusatore, Nebula e Korath.",
+            "title": "Guardiani della Galassia",
+            "saga": "Marvel Cinemati Univers",
+            "year": "2015",
+            "tmdb_id": "63181",
+            "genre": ["Animazione", "Azione & Avventura"],
+            "url": "/ANIMAZIONE/anime/guardiani_list.json"
+        },
+        {
+            "plot": "Archer è un agente segreto affascinante e dotato della tecnologia più avanzata, ma ha ancora problemi a trattare con il capo... sua madre.",
+            "title": "Archer",
+            "saga": "Archer",
+            "year": "2009",
+            "tmdb_id": "10283",
+            "genre": ["Commedioa", "Azione & Avventura", "Animazione"],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
             "plot": "Segui le avventure dei fratelli maggiori Dolly e Dylan, la loro mamma Delilah e papà Doug, e i loro 97 fratelli e sorelle minori mentre si imbarcano in avventure urbane ed estrema rivalità tra fratelli. Insieme, i cuccioli esplorano la crescita e la ricerca del proprio posto all'interno della più grande, più disordinata e più pelosa famiglia mista di sempre.",
             "title": "101 Dalmatian Street",
             "saga": "101 Dalmatian Street",
@@ -25,7 +106,7 @@
             "saga": "Ano Hana",
             "year": "2011",
             "tmdb_id": "39434",
-            "genre": ["Animazione"," Drammatico"," Fantasia"],
+            "genre": ["Animazione", "Drammatico", "Fantasia"],
             "url": "/ANIMAZIONE/anime/anohana_list.json"
         },
         {
@@ -43,7 +124,7 @@
             "saga": "Barbapapa",
             "year": "1974",
             "tmdb_id": "65136",
-            "genre": ["Animazione"," Bambini"],
+            "genre": ["Animazione", "Bambini"],
             "url": "/ANIMAZIONE/anime/barbapapa_list.json"
         },
         {
@@ -79,7 +160,7 @@
             "saga": "Capitan Harlock",
             "year": "1978",
             "tmdb_id": "31714",
-            "genre": ["Azione & Avventura"," Animazione"," Fantascienza & Fantasia"],
+            "genre": ["Azione & Avventura", "Animazione", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/harlock_list.json"
         },
         {
@@ -88,7 +169,7 @@
             "saga": "Cara dolce Kyoko",
             "year": "1986",
             "tmdb_id": "43018",
-            "genre": ["Animazione"," Commedia"," Drammatico"," Romance"],
+            "genre": ["Animazione", "Commedia", "Drammatico", "Romance"],
             "url": "/ANIMAZIONE/anime/kyoko_list.json"
         },
         {
@@ -103,7 +184,7 @@
         {
             "plot": "Un maestro di scuola discute assieme ai suoi alunni sui problemi che affliggono la Terra al giorno d'oggi. Emergono temi differenti come l'ecologia, le risorse energetiche, lo sfruttamento minorile, le tecnologie, ecc. Nell'affrontare i diversi temi dapprima se ne spiega la causa e poi si elencano le soluzioni in atto e quelle in fase di sperimentazione.",
             "title": "C'era una volta... la terra",
-            "saga": "C'era una volta... la terra",
+            "saga": "C'era una volta...",
             "year": "2009",
             "tmdb_id": "17546",
             "genre": ["Animazione", "Documentario", "Kids"],
@@ -112,7 +193,7 @@
         {
             "plot": "La serie tratta della storia della razza umana iniziando dalla nascita della Terra, per poi attraversare nella narrazione i secoli e le principali civiltà, mediante la recitazione di un gruppo fisso di personaggi, sempre alle prese con situazioni diverse; alla fine la serie immagina un futuro finalmente pacificato, dove l'uomo illuminato dalla tecnologia e dal sapere rimedia alla sua condotta sconsiderata.",
             "title": "C'era una volta... l'uomo",
-            "saga": "C'era una volta... l'uomo",
+            "saga": "C'era una volta...",
             "year": "1978",
             "tmdb_id": "6080",
             "genre": ["Animazione", "Documentario", "Kids"],
@@ -133,7 +214,7 @@
             "saga": "Code Geass - Lelouch of the Rebellion",
             "year": "2006",
             "tmdb_id": "31724",
-            "genre": ["Azione e Avventura"," Animazione"," Drammatico"," Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/geass_list.json"
         },
         {
@@ -142,7 +223,7 @@
             "saga": "Code Geass - Lelouch of the Rebellion R2",
             "year": "2008",
             "thumbnail": "/ANIMAZIONE/anime/codeR2.jpg",
-            "genre": ["Azione e Avventura"," Animazione"," Drammatico"," Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/geassr2_list.json"
         },
         {
@@ -151,7 +232,7 @@
             "saga": "Dragon Ball GT",
             "year": "1996",
             "tmdb_id": "12697",
-            "genre": ["Azione"," Avventura"," Animazione"," Animazione"],
+            "genre": ["Azione", "Avventura", "Animazione", "Animazione"],
             "url": "/ANIMAZIONE/anime/ballgt_list.json"
         },
         {
@@ -160,7 +241,7 @@
             "saga": "Dragon Ball Z",
             "year": "1989",
             "tmdb_id": "12971",
-            "genre": ["Azione"," Avventura"," Animazione"," Fantasia"],
+            "genre": ["Azione", "Avventura", "Animazione", "Fantasia"],
             "url": "/ANIMAZIONE/anime/ballz_list.json"
         },
         {
@@ -169,16 +250,16 @@
             "saga": "Dragon Ball",
             "year": "1986",
             "tmdb_id": "12609",
-            "genre": ["Azione"," Avventura"," Animazione"," Animazione"," Bambini"," Fantasia"],
+            "genre": ["Azione", "Avventura", "Animazione", "Animazione", "Bambini", "Fantasia"],
             "url": "/ANIMAZIONE/anime/ball_list.json"
         },
         {
             "plot": "Creata da Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel 1987 da France 3 in Francia e nello stesso anno in Svizzera dalla Radiotelevisione svizzera di lingua italiana. In Italia \u00e8 stato messo in onda su Italia 1, su Boing e su Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai globuli bianchi alle vitamine, ai componenti del DNA.",
             "title": "Esplorando il corpo umano",
-            "saga": "Esplorando il corpo umano",
+            "saga": "C'era una volta...",
             "year": "1987",
             "tmdb_id": "2632",
-            "genre": ["Animazione"," Bambini"],
+            "genre": ["Animazione", "Bambini"],
             "url": "/ANIMAZIONE/anime/corpoumano_list.json"
         },
         {
@@ -196,7 +277,7 @@
             "saga": "Flo, La Piccola Robinson",
             "year": "1981",
             "tmdb_id": "37799",
-            "genre": ["Animazione"," Bambini"],
+            "genre": ["Animazione", "Bambini"],
             "url": "/ANIMAZIONE/anime/robinson_list.json"
         },
         {
@@ -204,7 +285,7 @@
             "title": "Futurama",
             "saga": "Futurama",
             "year": "1999",
-            "genre": ["Animazione"," Commedia"],
+            "genre": ["Animazione", "Commedia"],
             "url": "/ANIMAZIONE/anime/futurama_list.json"
         },
         {
@@ -222,7 +303,7 @@
             "saga": "Georgie",
             "year": "1983",
             "tmdb_id": "36664",
-            "genre": ["Animazione"," Drammatico"],
+            "genre": ["Animazione", "Drammatico"],
             "url": "/ANIMAZIONE/anime/georgie_list.json"
         },
         {
@@ -231,7 +312,7 @@
             "saga": "Ghostbusters",
             "year": "1986",
             "tmdb_id": 18131,
-            "genre": ["Mistero"," Animazione"],
+            "genre": ["Mistero", "Animazione"],
             "url": "/ANIMAZIONE/anime/ghost_list.json"
         },
         {
@@ -239,14 +320,14 @@
             "title": "Golden Boy",
             "saga": "Golden Boy",
             "tmdb_id": "34105",
-            "genre": ["Animazione"," Commedia"],
+            "genre": ["Animazione", "Commedia"],
             "year": "1995",
             "link": "/ANIMAZIONE/anime/goldenboy_list.json"
         },
         {
             "plot": "Le singole puntate sono dedicate a uomini e donne che, individualmente o collettivamente, hanno compiuto delle scoperte oppure delle invenzioni. Nella traduzione a volte i titoli sono stati cambiati. Ad esempio la prima puntata (\"I Cinesi\") in originale suona \"i Cinesi nostri antenati\", riecheggiando la famosa definizione dei libri di scuola francesi[1], proprio per sottolineare che il contributo degli inventori e degli scopritori si estende al progresso dell'umanità nel suo complesso.",
             "title": "Grandi uomini per grandi idee",
-            "saga": "Grandi uomini per grandi idee",
+            "saga": "C'era una volta...",
             "year": "1994",
             "tmdb_id": "5402",
             "genre": ["Kids", "Documentario", "Animazione", "Famiglia"],
@@ -285,7 +366,7 @@
             "saga": "I Puffi",
             "year": "1981",
             "tmdb_id": "5687",
-            "genre": ["Animazione"," Famiglia","  Sci-Fi & Fantasy"," Kids"],
+            "genre": ["Animazione", "Famiglia", " Sci-Fi & Fantasy", "Kids"],
             "url": "/ANIMAZIONE/anime/puffi_list.json"
         },
         {
@@ -294,7 +375,7 @@
             "saga": "I Simpson",
             "year": "1989",
             "tmdb_id": "456",
-            "genre": ["Animazione"," Commedia"],
+            "genre": ["Animazione", "Commedia"],
             "url": "/ANIMAZIONE/anime/simpson_list.json"
         },
         {
@@ -303,7 +384,7 @@
             "saga": "I viaggi di Giulio Verne",
             "year": "2013",
             "tmdb_id": "86722",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/verne_list.json"
         },
         {
@@ -357,7 +438,7 @@
             "saga": "Jenny la tennista",
             "year": "1973",
             "tmdb_id": "46419",
-            "genre": ["Drammatico"," Animazione"],
+            "genre": ["Drammatico", "Animazione"],
             "url": "/ANIMAZIONE/anime/jenny_list.json"
         },
         {
@@ -366,7 +447,7 @@
             "saga": "Jolanda la figlia del Corsaro Nero",
             "year": "1999",
             "tmdb_id": "96080",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/jolanda_list.json"
         },
         {
@@ -384,7 +465,7 @@
             "saga": "Ken il guerriero: Le origini del mito",
             "year": "2006",
             "tmdb_id": "68203",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/mito_list.json"
         },
         {
@@ -393,7 +474,7 @@
             "saga": "Ken il guerriero",
             "year": "1984",
             "tmdb_id": "56387",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/ken_list.json"
         },
         {
@@ -420,7 +501,7 @@
             "saga": "L'Incredibile Hulk",
             "year": "1996",
             "tmdb_id": "63332",
-            "genre": ["Animazione"," Azione e Avventura"," Dramma"],
+            "genre": ["Animazione", "Azione e Avventura", "Dramma"],
             "url": "/ANIMAZIONE/anime/hulk_list.json"
         },
         {
@@ -438,7 +519,7 @@
             "saga": "L'Uomo Tigre",
             "year": "1969",
             "tmdb_id": "25114",
-            "genre": ["Animazione"," Drammatico"],
+            "genre": ["Animazione", "Drammatico"],
             "url": "/ANIMAZIONE/anime/tigre_list.json"
         },
         {
@@ -447,7 +528,7 @@
             "saga": "L'ultimo dei Mohicani",
             "year": "2004",
             "tvdb_id": "272328",
-            "genre": ["Avventura"," Animazione"],
+            "genre": ["Avventura", "Animazione"],
             "fanart": "/ANIMAZIONE/IMMAGINI/mohicani_fanart.jpg",
             "thumbnail": "/ANIMAZIONE/IMMAGINI/mohicani.jpg",
             "url": "/ANIMAZIONE/anime/mohicani_list.json"
@@ -458,7 +539,7 @@
             "saga": "Lady Oscar",
             "year": "1979",
             "tmdb_id": "32676",
-            "genre": ["Drammatico"," Animazione"],
+            "genre": ["Drammatico", "Animazione"],
             "url": "/ANIMAZIONE/anime/oscar_list.json"
         },
         {
@@ -484,7 +565,7 @@
             "title": "LEGO Jurassic World: Legend of Isla Nublar",
             "saga": "LEGO Jurassic World: Legend of Isla Nublar",
             "year": "2019",
-            "genre": ["Animazione"," Azione e Avventura"," Famiglia"," Bambini"," Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Sci-Fi & Fantasy"],
             "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
         },
         {
@@ -502,7 +583,7 @@
             "saga": "Martin Mystere",
             "year": "2003",
             "tmdb_id": "140",
-            "genre": ["Azione & Avventura"," Fantascienza & Fantasia"," Animazione"],
+            "genre": ["Azione & Avventura", "Fantascienza & Fantasia", "Animazione"],
             "url": "/ANIMAZIONE/anime/martin_list.json"
         },
         {
@@ -510,7 +591,7 @@
             "title": "Mim\u00ec e la nazionale di pallavolo",
             "year": "1969",
             "tmdb_id": "46348",
-            "genre": ["Animazione"," Drammatico"],
+            "genre": ["Animazione", "Drammatico"],
             "url": "/ANIMAZIONE/anime/mimi_list.json"
         },
         {
@@ -519,7 +600,7 @@
             "saga": "Mobile Gundam Wing",
             "year": "1995",
             "tmdb_id": "21730",
-            "genre": ["Animazione"," Azione & Avventura"," Drammatico"," Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione & Avventura", "Drammatico", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/gundam_list.json"
         },
         {
@@ -573,7 +654,7 @@
             "saga": "Piccoli Problemi di Cuore ",
             "year": "1995",
             "tmdb_id": "35507",
-            "genre": ["Animazione"," Drammatico"],
+            "genre": ["Animazione", "Drammatico"],
             "url": "/ANIMAZIONE/anime/cuore_list.json"
         },
         {
@@ -581,7 +662,7 @@
             "title": "Principe Valiant",
             "saga": "Principe Valiant",
             "year": "1991",
-            "genre": ["Animazione"," Azione & Avventura"," Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/valiant_list.json"
         },
         {
@@ -608,7 +689,7 @@
             "saga": "Ranma \u00bd",
             "year": "1989",
             "tmdb_id": "57706",
-            "genre": ["Commedia"," Azione & Avventura"," Animazione"],
+            "genre": ["Commedia", "Azione & Avventura", "Animazione"],
             "url": "/ANIMAZIONE/anime/ranma_list.json"
         },
         {
@@ -617,7 +698,7 @@
             "saga": "Rick and Morty",
             "year": "2013",
             "tmdb_id": "60625",
-            "genre": ["Animazione"," Commedia"," Sci-Fi & Fantasy"," Action & Adventure"],
+            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure"],
             "url": "/ANIMAZIONE/anime/rick_list.json"
         },
         {
@@ -625,7 +706,7 @@
             "title": "Ritorno al Futuro",
             "saga": "Ritorno al Futuro",
             "year": "1991",
-            "genre": ["Animazione"," Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/futuro_list.json"
         },
         {
@@ -643,7 +724,7 @@
             "saga": "Sandokan - La tigre ruggisce ancora",
             "year": "2001",
             "tmdb_id": "96435",
-            "genre": ["Animazione"," Famiglia"," Azione"," Avventura"," Bambini"],
+            "genre": ["Animazione", "Famiglia", "Azione", "Avventura", "Bambini"],
             "url": "/ANIMAZIONE/anime/sandokan_list.json"
         },
         {
@@ -688,7 +769,7 @@
             "saga": "Steins;Gate",
             "year": "2011",
             "tmdb_id": "42509",
-            "genre": ["Animazione"," Azione & Avventura"," Commedia"," Drammatico"," Fantascienza & Fantasia"," Mistero"],
+            "genre": ["Animazione", "Azione & Avventura", "Commedia", "Drammatico", "Fantascienza & Fantasia", "Mistero"],
             "url": "/ANIMAZIONE/anime/stein_list.json"
         },
         {
@@ -697,7 +778,7 @@
             "saga": "Team Galaxy",
             "year": "2006",
             "tmdb_id": "3661",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/galaxy_list.json"
         },
         {
@@ -706,7 +787,7 @@
             "saga": "Tekkaman - Il Cavaliere Dello Spazio",
             "year": "1975",
             "tmdb_id": "35409",
-            "genre": ["Animazione"," Azione & Avventura"],
+            "genre": ["Animazione", "Azione & Avventura"],
             "url": "/ANIMAZIONE/anime/tekkaman_list.json"
         },
         {
@@ -724,7 +805,7 @@
             "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
             "year": "1986",
             "tmdb_id": 2286,
-            "genre": ["Action & Adventure"," Animazione"," Commedia"," Mistero"],
+            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
             "url": "/ANIMAZIONE/anime/real_list.json"
         },
         {
@@ -733,7 +814,7 @@
             "saga": "Goldrake",
             "year": "1975",
             "tmdb_id": 46252,
-            "genre": ["Animazione"," Azione & Avventura"," Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
             "url": "/ANIMAZIONE/anime/goldrake_list.json"
         },
         {
@@ -742,7 +823,7 @@
             "saga": "Video Girl Ai",
             "year": "1992",
             "tmdb_id": "22432",
-            "genre": ["Animazione"," Drammatico"," Commedia"],
+            "genre": ["Animazione", "Drammatico", "Commedia"],
             "url": "/ANIMAZIONE/anime/girl_list.json"
         },
         {
@@ -769,7 +850,7 @@
             "saga": "Yattaman",
             "year": "1997",
             "tmdb_id": "53298",
-            "genre": ["Animazione"," Azione & Avventura"," Commedia"],
+            "genre": ["Animazione", "Azione & Avventura", "Commedia"],
             "url": "/ANIMAZIONE/anime/yattaman_list.json"
         }
     ]

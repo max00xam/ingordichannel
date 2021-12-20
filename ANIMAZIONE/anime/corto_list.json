@@ -1,0 +1,345 @@
+{
+    "episodes_list": [
+        {
+            "file_id": "1b57b1de96bc630b5e3abae045d30f1d",
+            "tmdb_id": 20970,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 1,
+            "genre": ["Dramma"],
+            "title": "Puddles",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.001 - Puddles.mkv",
+            "year": "1981",
+            "actors": ["Lewis Fitz-Gerald"],
+            "poster": "/nSq4AR8v1Y094QhvtHqsAxcxr5a.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1b57b1de96bc630b5e3abae045d30f1d"
+                }
+            ]
+        },
+        {
+            "file_id": "dcd9e503a296598b9b0b43f8da81db70",
+            "tmdb_id": 64250,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 2,
+            "genre": [],
+            "title": "Exchange Student",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.002 - Exchange Student.mkv",
+            "year": "2015",
+            "poster": null,
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/dcd9e503a296598b9b0b43f8da81db70"
+                }
+            ]
+        },
+        {
+            "file_id": "65427a8d9734ca756bc4bbdbc7e61ac2",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 3,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Lucky Toup\u00e9e",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.003 - Lucky Toup\u00e9e.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/65427a8d9734ca756bc4bbdbc7e61ac2"
+                }
+            ]
+        },
+        {
+            "file_id": "e8a14bb0d2c6071a5955b8043e0d4d61",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 4,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Just a Thought",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.004 - Just a Thought.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/e8a14bb0d2c6071a5955b8043e0d4d61"
+                }
+            ]
+        },
+        {
+            "file_id": "93186dce36ae7d06a76af41d2e5b7aa8",
+            "tmdb_id": 60139,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 5,
+            "genre": ["Documentario"],
+            "title": "Cycles",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.005 - Cycles.mkv",
+            "year": "2008",
+            "poster": null,
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/93186dce36ae7d06a76af41d2e5b7aa8"
+                }
+            ]
+        },
+        {
+            "file_id": "2fb38c79ab721af203e175195f0dca38",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 6,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Lightning in a Bottle",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.006 - Lightning in a Bottle.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/2fb38c79ab721af203e175195f0dca38"
+                }
+            ]
+        },
+        {
+            "file_id": "4b926429cc3791ae9ca995434d7b9964",
+            "tmdb_id": 25456,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 7,
+            "genre": ["Reality"],
+            "title": "The Race",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.007 - The Race.mkv",
+            "year": "2006",
+            "actors": ["Denise Van Outen", "David Coulthard", "Eddie Irvine", "Melissa Joan Hart", "Brian Johnson", "Ms. Dynamite", "Nick Moran", "Les Ferdinand", "Nigel Benn", "Tamara Ecclestone", "Jenny Frost", "Gary Numan"],
+            "poster": null,
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b926429cc3791ae9ca995434d7b9964"
+                }
+            ]
+        },
+        {
+            "file_id": "9681db4da5ebcf5223c7ebb2532f9b8e",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 8,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Hair-Jitsu",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.008 - Hair-Jitsu.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/9681db4da5ebcf5223c7ebb2532f9b8e"
+                }
+            ]
+        },
+        {
+            "file_id": "4b8e6750067a0fb13f91ca4f496099b5",
+            "tmdb_id": 2403,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 9,
+            "genre": ["Animazione", "Commedia", "Dramma"],
+            "title": "Downtown",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.009 - Downtown.mkv",
+            "year": "1999",
+            "actors": ["Gregory Gilmore", "Leyora Zuberman", "Tammy Lang", "Aurora Lucia-Levey", "Hector Fontanez", "Marco H. Rodriguez", "Scot Rienecker"],
+            "poster": "/4GKSCtKmwQU6xoP4tFOhEqIcNgn.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/4b8e6750067a0fb13f91ca4f496099b5"
+                }
+            ]
+        },
+        {
+            "file_id": "19f56e19c2ce00482db96d0221b31e37",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 10,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Jing Hua",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.010 - Jing Hua.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/19f56e19c2ce00482db96d0221b31e37"
+                }
+            ]
+        },
+        {
+            "file_id": "aa76e1397a8c72f00259a801b3ed510b",
+            "tmdb_id": 18520,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 11,
+            "genre": ["Commedia", "Dramma"],
+            "title": "Drop",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.011 - Drop.mkv",
+            "year": "2009",
+            "plot": "Deb Dobkins \u00e8 una giovane e bella ragazza, anche se un po\u2019 superficiale. \u00c8 un\u2019aspirante modella, e sogna di convolare a nozze con il suo fidanzato Grayson, un brillante avvocato. Sfortunatamente, rimane coinvolta in un incidente stradale e muore. Arrivata alle porte del Paradiso, viene bloccata da Fred, un solerte angelo guardiano del posto, che non pu\u00f2 farla entrare poich\u00e9 durante la sua vita Deb non ha mai compiuto nessuna buona o cattiva azione, risultando una persona n\u00e9 buona n\u00e9 malvagia, ma soltanto superficiale. Infastidita dalla cosa, Deb chiede allora di poter ritornare sulla Terra, ma a causa di un disguido non ritorna nel suo corpo, e si reincarna invece in quello di un\u2019altra ragazza deceduta di recente: Jane Bingum, un\u2019intelligente e generosa avvocatessa, anche se goffa e decisamente sovrappeso.",
+            "actors": ["Brooke Elliott", "April Bowlby", "Jackson Hurst", "Margaret Cho", "Kate Levering", "Lex Medlin"],
+            "poster": "/4J8DKF6UOfcHIWcyap9NK1acnoU.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/aa76e1397a8c72f00259a801b3ed510b"
+                }
+            ]
+        },
+        {
+            "file_id": "c04d422d4b73fd9df5e2dc31a3977ebe",
+            "tmdb_id": 71153,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 12,
+            "genre": ["Commedia", "Sci-Fi & Fantasy"],
+            "title": "Zenith",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.012 - Zenith.mkv",
+            "year": "2017",
+            "actors": ["Guido Pollemans", "Hadewych Minis", "Philip van Loosbroek", "Eefje Paddenberg"],
+            "poster": "/ahFx3ICa6YqG1W0xP0F7F5k2ylx.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/c04d422d4b73fd9df5e2dc31a3977ebe"
+                }
+            ]
+        },
+        {
+            "file_id": "b6bb693c7b3ccc37dbab05dbf707d552",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 13,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Elephant in the Room",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.013 - Elephant in the Room.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/b6bb693c7b3ccc37dbab05dbf707d552"
+                }
+            ]
+        },
+        {
+            "file_id": "864e48fa52e6a725df08699b71da5cae",
+            "tmdb_id": 521,
+            "saga": "Disney",
+            "season": 1,
+            "episode": 14,
+            "genre": ["Animazione"],
+            "title": "Fetch",
+            "fname": "/Anime & Cartoni/Corto Circuito/01.014 - Fetch.mkv",
+            "year": "2006",
+            "actors": ["Jim Conroy"],
+            "poster": "/dWqDKbWTeK5oZG1cDzAHvrgQK4P.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/864e48fa52e6a725df08699b71da5cae"
+                }
+            ]
+        },
+        {
+            "file_id": "da75e9ecaa6a051d5cd3594f728d4ab3",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 2,
+            "episode": 1,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Attraversamento pedonale",
+            "fname": "/Anime & Cartoni/Corto Circuito/02.001 - Attraversamento pedonale.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/da75e9ecaa6a051d5cd3594f728d4ab3"
+                }
+            ]
+        },
+        {
+            "file_id": "89589ba9bc7e4e22abfb4771d7a2c139",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 2,
+            "episode": 2,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Tornare a casa",
+            "fname": "/Anime & Cartoni/Corto Circuito/02.002 - Tornare a casa.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/89589ba9bc7e4e22abfb4771d7a2c139"
+                }
+            ]
+        },
+        {
+            "file_id": "44358c90a0dcab870b623031c779bfc8",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 2,
+            "episode": 3,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Il n\u00b02 per Kettering",
+            "fname": "/Anime & Cartoni/Corto Circuito/02.003 - Il n\u00b02 per Kettering.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/44358c90a0dcab870b623031c779bfc8"
+                }
+            ]
+        },
+        {
+            "file_id": "a24a3cda8811c68a1a6681db2d4e47cf",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 2,
+            "episode": 4,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Dinosauro Barbaro",
+            "fname": "/Anime & Cartoni/Corto Circuito/02.004 - Dinosauro Barbaro.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/a24a3cda8811c68a1a6681db2d4e47cf"
+                }
+            ]
+        },
+        {
+            "file_id": "1d4a8981f513ea67a626f05b8386c1c7",
+            "tmdb_id": 98566,
+            "saga": "Disney",
+            "season": 2,
+            "episode": 5,
+            "genre": ["Animazione", "Famiglia"],
+            "title": "Canzoni da cantare al buio",
+            "fname": "/Anime & Cartoni/Corto Circuito/02.005 - Canzoni da cantare al buio.mkv",
+            "year": "2020",
+            "plot": "Se potessi raccontare una storia con il team di artisti di talento dei Walt Disney Animation Studios, cosa creeresti? Benvenuto in Short Circuit, un programma sperimentale e innovativo in cui chiunque presso lo Studio pu\u00f2 presentare un'idea ed essere selezionato per creare il proprio cortometraggio.",
+            "poster": "/cbT6MOElmSNXgBvqO97DKrTRZ1U.jpg",
+            "links": [
+                {
+                    "url": "http://51.77.159.233:30299/1d4a8981f513ea67a626f05b8386c1c7"
+                }
+            ]
+        }
+    ]
+}
