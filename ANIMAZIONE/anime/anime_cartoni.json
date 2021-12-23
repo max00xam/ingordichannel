@@ -74,6 +74,87 @@
             "url": "/ANIMAZIONE/anime/archer_list.json"
         },
         {
+            "plot": "In questa rivisitazione della classica serie animata Adam, principe di Eternia, scopre il potere di Grayskull e si trasforma in He-Man, il dominatore dell'universo.",
+            "title": "He-Man and the Masters of the Universe",
+            "saga": "He-Man and the Masters of the Universe",
+            "year": "2021",
+            "tmdb_id": "96659",
+            "genre": ["Fantascienza & Fantasia", "Animazione", "Famiglia", "Azione & Avventura"],
+            "url": "/ANIMAZIONE/anime/master_list.json"
+        },
+        {
+            "plot": "L\u2019alchimia permette di creare e manipolare gli oggetti, ma come scienza \u00e8 soggetta alle leggi della natura. Nulla si crea, nulla si distrugge: la massa e il costo pagato per trasformare un oggetto dovranno essere uguali a quelli del risultante. Gi\u00e0 da piccolo il nostro protagonista viene attratto da questa disciplina ed imparer\u00e0 la regola di cui sopra a caro prezzo. Perder\u00e0 un braccio ed una gamba, mentre a suo fratello andr\u00e0 ancora peggio.\n\nPassata l\u2019infanzia i due partiranno per recuperare quanto hanno perduto, ma qual \u00e8 il costo di un corpo umano? Che ingredienti serviranno per riprodurlo?\n\nInoltre sembra esistere una pietra in grado di abbassare di parecchio i parametri di questo scambio, rendendo i costi pi\u00f9 accessibili\u2026",
+            "title": "Fullmetal Alchemist",
+            "saga": "Fullmetal Alchemist",
+            "year": "2003",
+            "tmdb_id": "37863",
+            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
+            "url": "/ANIMAZIONE/anime/full_list.json"
+        },
+        {
+            "plot": "La storia si svolge all'interno dell'MMORPG Gun Gale Online. Una ragazza, Karen Kohiruimaki, si \u00e8 creata un profilo, denominato Llenn, in questo videogame per provare a sentirsi pi\u00f9 bassa di statura. Infatti, nella vita reale, \u00e8 molto alta e non le piace essere presa in giro per la sua statura. All'interno del gioco conoscer\u00e0 Pitohui, un'altra giocatrice che la convincer\u00e0 a partecipare al torneo a squadre Squad Jam.",
+            "title": "Gun Gale Online - Sword Art Online Alternative",
+            "saga": "Gun Gale Online - Sword Art Online Alternative",
+            "year": "2018",
+            "tmdb_id": "78204",
+            "genre": ["Animazione", "Azione e Avventura", "Fantaschenza & Fantasia"],
+            "url": "/ANIMAZIONE/anime/gun_list.json"
+        },
+        {
+            "plot": "Il mondo abitato dall'umanit\u00e0 non \u00e8 pi\u00f9 costituito dalla sola Terra, ma si \u00e8 allargato all'intera Sfera Terrestre, comprensiva della Luna e di sette aree situate intorno ai punti di Lagrange dell'orbita lunare chiamate Side, in cui orbitano centinaia di \"isole spaziali\", enormi cilindri artificiali contenenti habitat adatti alla vita.\n\nAnno 0079 UC: il Principato di Zeon, situato in Side 3, dichiara la sua secessione dalla Federazione Terrestre, scatenando un violento conflitto, noto come Guerra di un anno, che infurier\u00e0 su ogni continente della Terra ed in quasi ogni colonia spaziale e insediamento lunare. Zeon \u00e8 inizialmente avvantaggiato dall'uso di un rivoluzionario tipo di arma, il mobile suit, un robot corazzato di aspetto antropomorfo pilotato da un essere umano. Quando una squadra di mobile suit di Zeon in ricognizione, disobbedendo agli ordini ricevuti, attacca la colonia di Side 7, gli abitanti di quest'ultima vengono a conoscenza della risposta della Federazione a questa nuova arma: il mobile suit Gundam. Con l'aiuto dei soldati federali superstiti della corazzata da trasporto Base Bianca, l'equipaggio di profughi inizia un'avventura che porter\u00e0 un pugno di loro a cambiare il corso della guerra.",
+            "title": "Mobile Suit Gundam",
+            "saga": "Gundam",
+            "year": "1979",
+            "tmdb_id": "21731",
+            "genre": ["Animazione", "Fantaschenza & Fantasia", "Azione e Avventura", "War & Politics"],
+            "url": "/ANIMAZIONE/anime/mobil_list.json"
+        },
+        {
+            "plot": "Sherlock Holmes \u00e8 un abilissimo investigatore privato, capace di smascherare qualunque malvivente. Al suo fianco, l'inseparabile Dottor Watson, ex medico che ha abbandonato la professione per seguire le investigazioni di Sherlock. Il nemico giurato di Holmes \u00e8 il Prof Moriarty, astuto ladro, convinto di essere il pi\u00f9 gran furfante del mondo.",
+            "title": "Il fiuto di Sherlock Holmes",
+            "saga": "Il fiuto di Sherlock Holmes",
+            "year": "1984",
+            "tmdb_id": "21296",
+            "genre": ["Azione e Avventura", "Animazione", "Mistero"],
+            "url": "/ANIMAZIONE/anime/sherlock_list.json"
+        },
+        {
+            "plot": "Una giovane ragazza di nome Dorothy \u00e8 andata a vivere con i suoi nonni nella loro piccola fattoria. Un giorno, quando Dorothy viene lasciata sola in casa, appare un tornado. Dorothy non riesce ad arrivare nel seminterrato in tempo, e l'intera casa viene raccolta e trasportata in una terra magica, cadendo e uccidendo una strega malvagia. L\u00ec viene informata da una brava strega che deve recarsi nella Capitale dello Smeraldo e incontrare un grande mago che potrebbe essere in grado di aiutarla a trovare la via di casa. Lungo la strada fa degli amici incredibili e vede tante cose strane e fantastiche.",
+            "title": "Il mago di Oz",
+            "saga": "Il mago di Oz",
+            "year": "1986",
+            "tmdb_id": 66081,
+            "genre": ["Azione & Avventura", "Animazione", "Famiglia", "Bambini", "Fantascienza & Fantasia"],
+            "url": "/ANIMAZIONE/anime/oz_list.json"
+        },
+        {
+            "plot": "Quando Mark Grayson eredita i superpoteri a 17 anni, si unisce a suo padre come uno dei pi\u00f9 grandi supereroi della Terra. Tutti i suoi sogni sembrano essersi avverati, finch\u00e9 un evento scioccante non cambia tutto.",
+            "title": "Invincible",
+            "saga": "Invincible",
+            "year": "2021",
+            "tmdb_id": "95557",
+            "genre": ["Animazione", "Fantascienza & Fantasia", "Azione e Avventura", "Drammatico"],
+            "url": "/ANIMAZIONE/anime/invincible_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
             "plot": "",
             "title": "",
             "saga": "",
@@ -97,7 +178,7 @@
             "saga": "Alla ricerca della valle incantata",
             "year": "2007",
             "tmdb_id": "3817",
-            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "genre": ["Azione e Avventura", "Animazione", "Commedia"],
             "url": "/ANIMAZIONE/anime/valle_list.json"
         },
         {
@@ -115,7 +196,7 @@
             "saga": "Astroboy",
             "year": "1980",
             "tmdb_id": "23022",
-            "genre": ["Action & Adventure", "Animazione", "Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/astro_list.json"
         },
         {
@@ -133,7 +214,7 @@
             "saga": "Big Hero 6",
             "year": "2017",
             "tmdb_id": "68665",
-            "genre": ["Action & Adventure", "Animazione", "Commedia", "Famiglia", "Kids"],
+            "genre": ["Azione e Avventura", "Animazione", "Commedia", "Famiglia", "Kids"],
             "url": "/ANIMAZIONE/anime/big_list.json"
         },
         {
@@ -142,7 +223,7 @@
             "saga": "Biker Mice from Mars (1993)",
             "year": "1993",
             "tmdb_id": "3320",
-            "genre": ["Kids", "Animazione", "Action & Adventure", "Commedia"],
+            "genre": ["Kids", "Animazione", "Azione e Avventura", "Commedia"],
             "url": "/ANIMAZIONE/anime/biker_list.json"
         },
         {
@@ -151,7 +232,7 @@
             "saga": "Biker Mice from Mars (2006)",
             "year": "2006",
             "tmdb_id": "95580",
-            "genre": ["Kids", "Animazione", "Action & Adventure"],
+            "genre": ["Kids", "Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/mars_list.json"
         },
         {
@@ -268,7 +349,7 @@
             "saga": "Fast & Furious - piloti sotto copertura",
             "year": "2019",
             "tmdb_id": "95594",
-            "genre": ["Animazione", "Action & Adventure", "Kids", "Famiglia", "Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Azione e Avventura", "Kids", "Famiglia", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/fast_list.json"
         },
         {
@@ -294,7 +375,7 @@
             "saga": "Gemelli nel segno del destino",
             "year": "1991",
             "tmdb_id": "11659",
-            "genre": ["Animazione", "Sci-Fi & Fantasy", "Mistero"],
+            "genre": ["Animazione", "Fantaschenza & Fantasia", "Mistero"],
             "url": "/ANIMAZIONE/anime/gemelli_list.json"
         },
         {
@@ -366,7 +447,7 @@
             "saga": "I Puffi",
             "year": "1981",
             "tmdb_id": "5687",
-            "genre": ["Animazione", "Famiglia", " Sci-Fi & Fantasy", "Kids"],
+            "genre": ["Animazione", "Famiglia", " Fantaschenza & Fantasia", "Kids"],
             "url": "/ANIMAZIONE/anime/puffi_list.json"
         },
         {
@@ -393,7 +474,7 @@
             "saga": "Il principe dei draghi",
             "year": "2018",
             "tmdb_id": "81046",
-            "genre": ["Action & Adventure", "Sci-Fi & Fantasy", "Animazione", "Famiglia"],
+            "genre": ["Azione e Avventura", "Fantaschenza & Fantasia", "Animazione", "Famiglia"],
             "url": "/ANIMAZIONE/anime/draghi_list.json"
         },
         {
@@ -483,7 +564,7 @@
             "saga": "L'Attacco Dei Giganti",
             "year": "2013",
             "tmdb_id": "1429",
-            "genre": ["Sci-Fi & Fantasy", "Animazione", "Action & Adventure"],
+            "genre": ["Fantaschenza & Fantasia", "Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/titan_list.json"
         },
         {
@@ -501,7 +582,7 @@
             "saga": "L'Incredibile Hulk",
             "year": "1996",
             "tmdb_id": "63332",
-            "genre": ["Animazione", "Azione e Avventura", "Dramma"],
+            "genre": ["Animazione", "Azione e Avventura", "Drammatico"],
             "url": "/ANIMAZIONE/anime/hulk_list.json"
         },
         {
@@ -510,7 +591,7 @@
             "saga": "L'Indistruttibile Robot Trider G7",
             "year": "1980",
             "tmdb_id": "20213",
-            "genre": ["Animazione", "Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/trider_list.json"
         },
         {
@@ -565,7 +646,7 @@
             "title": "LEGO Jurassic World: Legend of Isla Nublar",
             "saga": "LEGO Jurassic World: Legend of Isla Nublar",
             "year": "2019",
-            "genre": ["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
         },
         {
@@ -574,7 +655,7 @@
             "saga": "Mao Dante",
             "year": "2002",
             "tmdb_id": "34060",
-            "genre": ["Animazione", "Action & Adventure"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/dante_list.json"
         },
         {
@@ -597,7 +678,7 @@
         {
             "plot": "Dopo decenni di guerre e lotte intense, i popoli della Terra decisero di creare un unico governo mondiale, noto come la Federazione degli Stati terrestri (nel manga viene chiamata Alleanza per l\u2019Unit\u00e0 della Sfera Terrestre) con l\u2019incarico di mantenere la pace tramite l\u2019imposizione della forza militare. Nel nome di ideali quali la pace e la giustizia, la Federazione assunse ben presto il controllo \u2013 una dopo l\u2019altra \u2013 delle colonie spaziali orbitanti nei cinque punti di Lagrange. I coloni continuarono per\u00f2 a battersi per la loro autonomia e scelsero un politico di nome Heero Yui affinch\u00e9 rappresentasse i loro diritti in seno al consesso delle nazioni della Terra. Il carisma di Yui seppe conquistare la fiducia dei governi mondiali, che di buon grado accolsero il suo messaggio di smilitarizzazione totale e di non-violenza. Ma quando Yui venne assassinato nell\u2019anno AfterColony 175, le speranze delle colonie svanirono di colpo e gravi tumulti vennero scatenati dalla loro ira repressa. Con il pretesto di riportarne l\u2019ordine, la Federazione prepar\u00f2 un secondo (e questa volta maggiormente incisivo) intervento militare, utilizzando nuove macchine da guerra antropomorfe chiamate genericamente mobile suit per schiacciarne definitivamente ogni forma di resistenza. Le colonie spaziali passarono sotto la legge marziale e venne contemporaneamente proibito ogni tipo di cooperazione e comunicazione tra di esse; perfino gli stati terrestri simpatizzanti della filosofia di Heero Yui, vennero intimiditi o spazzati via dalla spietatezza degli eserciti federali.",
             "title": "Mobile Gundam Wing",
-            "saga": "Mobile Gundam Wing",
+            "saga": "Gundam",
             "year": "1995",
             "tmdb_id": "21730",
             "genre": ["Animazione", "Azione & Avventura", "Drammatico", "Fantascienza & Fantasia"],
@@ -606,7 +687,7 @@
         {
             "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
             "title": "Mobile Suit Gundam - The Origin",
-            "saga": "Mobile Suit Gundam - The Origin",
+            "saga": "Gundam",
             "year": "2015",
             "tmdb_id": "74549",
             "genre": ["Animazione"],
@@ -615,7 +696,7 @@
         {
             "plot": "Dopo la battaglia di A Baoa Qu, che segn\u00f2 la capitolazione dell'esercito del Principato di Zeon e la vittoria della Federazione Terrestre nella Guerra di un anno, un gruppo di militari al comando dell'Ammiraglio Aguille Delaz, tra cui l'asso Anavel Gato, riusc\u00ec a sottrarsi alla disfatta, giurando di vendicare la sconfitta in un secondo tempo. Tre anni dopo, la corazzata federale di classe Pegasus denominata Albion, agli ordini del Capitano Ayper Synaps, parte per una missione segretissima verso la base australiana di Torrington, recando a bordo due nuovi modelli sperimentali di Gundam, il GP01 Zephyrantes ed il GP02A Physalis, quest'ultimo realizzato per fare uso di armi atomiche, vietate sin dalla firma del Trattato del Polo Sud. Grazie ad alcune spie infiltrate all'Anaheim, i superstiti di Zeon sono venuti a sapere del progetto e Anavel Gato riesce ad introdursi nella base federale ed a trafugare il mobil suit. Al furto assistono, tra gli altri, Nina Purpleton (ingegnere dell'Anaheim e progettista dei due prototipi di Gundam) ed il cadetto K\u014d Uraki, che d'impulso sale sul GP01 per cercare di bloccare Gato. Bench\u00e9 dotato di talento, Uraki \u00e8 troppo inesperto rispetto ad un veterano come Gato, che riesce a fuggire dalla base col GP02A.",
             "title": "Mobile Suit Gundam 0083: Stardust Memory",
-            "saga": "Mobile Suit Gundam 0083: Stardust Memory",
+            "saga": "Gundam",
             "year": "1991",
             "tmdb_id": "72677",
             "genre": ["Animazione"],
@@ -624,7 +705,7 @@
         {
             "plot": "U.C. 0001 La colonizzazione dello spazio sta per dare inizio a una nuova era. Tuttavia, durante la cerimonia del cambio di calendario la colonia spaziale di Laplace, residenza ufficiale del Primo Ministro della Federazione Terrestre, viene ridotta in frantumi da un attacco terroristico. Un giovane di nome Syam Vist, entrato a far parte dei terroristi dopo essere caduto in miseria, viene coinvolto nell'esplosione, scoprendo la presenza di qualcosa tra le macerie. U.C. 0096. La colonia manifatturiera Industrial 7 \u00e8 in fase di completamento e fluttua nell'orbita di Lagrange Point 1. Un giovane di nome Banagher Links, cresciuto senza alcun ricordo di suo padre, incontra Audrey Burne, una misteriosa fanciulla imbarcata clandestinamente su una nave diretta verso la colonia. Mentre un misterioso Mobile Suit bianco viene sottoposto a innumerevoli test, i portavoce di Neo Zeon si infiltrano all'interno della colonia alla ricerca di qualcosa di importante. Banagher non sa ancora di essere stato coinvolto nelle oscure macchinazioni che circonderanno lo Scrigno di Laplace, e presto entrer\u00e0 in contatto con quello che viene definito la chiave dello Scrigno, l'Unicorn Gundam.",
             "title": "Mobile Suit Gundam Unicorn",
-            "saga": "Mobile Suit Gundam Unicorn",
+            "saga": "Gundam",
             "year": "2010",
             "tmdb_id": "45500",
             "genre": ["Animazione"],
@@ -633,7 +714,7 @@
         {
             "plot": "Il giovane tenente federale Shiro Amada viene assegnato sulla Terra al comando di un plotone dei nuovi mobile suit della Federazione Terrestre, gli RX-79G Gundam, sviluppati dal famoso prototipo RX-78. Durante il trasferimento dallo spazio lo shuttle su cui viaggia viene coinvolto in un combattimento tra uno Zaku di Zeon ed un GM federale, cui lo stesso tenente Amada prende parte a bordo di un Ball. Finir\u00e0 cos\u00ec per conoscere il pilota dello Zaku, l'affascinante Inah Sakhalin, con cui si ritrova disperso nello spazio in attesa di soccorsi. La serie narra quindi le vicende dell'8\u00ba Plotone Mobile Suit, impegnato nella giungla del Sud-est asiatico a scovare una base segreta in cui Zeon sta sperimentando il nuovo terribile mobile armor Apsaras, intrecciandole con quelle degli stessi zeoniani di stanza nella base, tra i quali proprio Inah, sorella dello scienziato Ginius Sakhalin, a capo del progetto. L'asse intorno al quale ruota la trama \u00e8 quindi la storia d'amore che nasce tra Shiro Amada e Inah Sakhalin, attraverso la quale viene ulteriormente approfondita l'assurda tragedia della guerra.",
             "title": "Mobile Suit Gundam: The 08th MS Team",
-            "saga": "Mobile Suit Gundam: The 08th MS Team",
+            "saga": "Gundam",
             "year": "1996",
             "tmdb_id": "43887",
             "genre": ["Animazione"],
@@ -642,7 +723,7 @@
         {
             "plot": "Il mondo abitato dall'umanità non è più costituito dalla sola Terra, ma si è allargato all'intera Sfera Terrestre, comprensiva della Luna e di sette aree situate intorno ai punti di Lagrange dell'orbita lunare chiamate Side, in cui orbitano centinaia di \"isole spaziali\", enormi cilindri artificiali contenenti habitat adatti alla vita. Anno 0079 UC: il Principato di Zeon, situato in Side 3, dichiara la sua secessione dalla Federazione Terrestre, scatenando un violento conflitto, noto come Guerra di un anno, che infurierà su ogni continente della Terra ed in quasi ogni colonia spaziale e insediamento lunare. Zeon è inizialmente avvantaggiato dall'uso di un rivoluzionario tipo di arma, il mobile suit, un robot corazzato di aspetto antropomorfo pilotato da un essere umano. Quando una squadra di mobile suit di Zeon in ricognizione, disobbedendo agli ordini ricevuti, attacca la colonia di Side 7, gli abitanti di quest'ultima vengono a conoscenza della risposta della Federazione a questa nuova arma: il mobile suit Gundam. Con l'aiuto dei soldati federali superstiti della corazzata da trasporto Base Bianca, l'equipaggio di profughi inizia un'avventura che porterà un pugno di loro a cambiare il corso della guerra.",
             "title": "Mobile Suit Z Gundam",
-            "saga": "Mobile Suit Z Gundam",
+            "saga": "Gundam",
             "year": "1985",
             "tmdb_id": "21731",
             "genre": ["Animazione"],
@@ -680,7 +761,7 @@
             "saga": "Rambo - The Force of Freedom",
             "year": "1986",
             "tmdb_id": "2762",
-            "genre": ["Action & Adventure"],
+            "genre": ["Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/rambo_list.json"
         },
         {
@@ -698,7 +779,7 @@
             "saga": "Rick and Morty",
             "year": "2013",
             "tmdb_id": "60625",
-            "genre": ["Animazione", "Commedia", "Sci-Fi & Fantasy", "Action & Adventure"],
+            "genre": ["Animazione", "Commedia", "Fantaschenza & Fantasia", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/rick_list.json"
         },
         {
@@ -715,7 +796,7 @@
             "saga": "Robotech",
             "year": "1985",
             "tmdb_id": "2192",
-            "genre": ["Animazione", "Dramma", "Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Drammatico", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/robotech_list.json"
         },
         {
@@ -742,7 +823,7 @@
             "saga": "She-Ra, la principessa del potere",
             "year": "1985",
             "tmdb_id": "14755",
-            "genre": ["Action & Adventure", "Animazione", "Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/shera_list.json"
         },
         {
@@ -760,7 +841,7 @@
             "saga": "Star Wars Rebels",
             "year": "2014",
             "tmdb_id": "60554",
-            "genre": ["Action & Adventure", "Animazione"],
+            "genre": ["Azione e Avventura", "Animazione"],
             "url": "/ANIMAZIONE/anime/rebels_list.json"
         },
         {
@@ -805,7 +886,7 @@
             "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
             "year": "1986",
             "tmdb_id": 2286,
-            "genre": ["Action & Adventure", "Animazione", "Commedia", "Mistero"],
+            "genre": ["Azione e Avventura", "Animazione", "Commedia", "Mistero"],
             "url": "/ANIMAZIONE/anime/real_list.json"
         },
         {
@@ -832,7 +913,7 @@
             "saga": "Walverine e gli X-men",
             "year": "2009",
             "tmdb_id": "6549",
-            "genre": ["Animazione", "Action & Adventure", "Dramma", "Sci-Fi & Fantasy"],
+            "genre": ["Animazione", "Azione e Avventura", "Drammatico", "Fantaschenza & Fantasia"],
             "url": "/ANIMAZIONE/anime/wolverine_list.json"
         },
         {
@@ -841,7 +922,7 @@
             "saga": "Xiaolin Showdown",
             "year": "2003",
             "tmdb_id": "679",
-            "genre": ["Action & Adventure", "Animazione", "Commedia"],
+            "genre": ["Azione e Avventura", "Animazione", "Commedia"],
             "url": "/ANIMAZIONE/anime/xiaolin_list.json"
         },
         {
