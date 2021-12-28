@@ -34,7 +34,7 @@
             "saga": "Capitan Harlock",
             "year": "1982",
             "tmdb_id": "37392",
-            "genre": ["Fantascienza & Fantasia", "Animazione"],
+            "genre": ["Fantascienza e Fantasia", "Animazione"],
             "url": "/ANIMAZIONE/anime/SSX_list.json"
         },
         {
@@ -43,7 +43,7 @@
             "saga": "Trese - Detective delle tenebre",
             "year": "2021",
             "tmdb_id": "94924",
-            "genre": ["Animazione", "Fantascienza & Fantasia", "Mistero", "Crimine"],
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Mistero", "Crimine"],
             "url": "/ANIMAZIONE/anime/trese_list.json"
         },
         {
@@ -52,7 +52,7 @@
             "saga": "Godzilla - Punto di singolarità",
             "year": "2021",
             "tmdb_id": "111177",
-            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia", "Mistero"],
+            "genre": ["Animazione", "Azione e Avventura", "Fantascienza e Fantasia", "Mistero"],
             "url": "/ANIMAZIONE/anime/godzilla_list.json"
         },
         {
@@ -61,7 +61,7 @@
             "saga": "Marvel Cinemati Univers",
             "year": "2015",
             "tmdb_id": "63181",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/guardiani_list.json"
         },
         {
@@ -70,7 +70,7 @@
             "saga": "Archer",
             "year": "2009",
             "tmdb_id": "10283",
-            "genre": ["Commedioa", "Azione & Avventura", "Animazione"],
+            "genre": ["Commedia", "Azione e Avventura", "Animazione"],
             "url": "/ANIMAZIONE/anime/archer_list.json"
         },
         {
@@ -79,38 +79,38 @@
             "saga": "He-Man and the Masters of the Universe",
             "year": "2021",
             "tmdb_id": "96659",
-            "genre": ["Fantascienza & Fantasia", "Animazione", "Famiglia", "Azione & Avventura"],
+            "genre": ["Fantascienza e Fantasia", "Animazione", "Famiglia", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/master_list.json"
         },
         {
-            "plot": "L\u2019alchimia permette di creare e manipolare gli oggetti, ma come scienza \u00e8 soggetta alle leggi della natura. Nulla si crea, nulla si distrugge: la massa e il costo pagato per trasformare un oggetto dovranno essere uguali a quelli del risultante. Gi\u00e0 da piccolo il nostro protagonista viene attratto da questa disciplina ed imparer\u00e0 la regola di cui sopra a caro prezzo. Perder\u00e0 un braccio ed una gamba, mentre a suo fratello andr\u00e0 ancora peggio.\n\nPassata l\u2019infanzia i due partiranno per recuperare quanto hanno perduto, ma qual \u00e8 il costo di un corpo umano? Che ingredienti serviranno per riprodurlo?\n\nInoltre sembra esistere una pietra in grado di abbassare di parecchio i parametri di questo scambio, rendendo i costi pi\u00f9 accessibili\u2026",
+            "plot": "L\u2019alchimia permette di creare e manipolare gli oggetti, ma come scienza è soggetta alle leggi della natura. Nulla si crea, nulla si distrugge: la massa e il costo pagato per trasformare un oggetto dovranno essere uguali a quelli del risultante. Gi\u00e0 da piccolo il nostro protagonista viene attratto da questa disciplina ed imparer\u00e0 la regola di cui sopra a caro prezzo. Perder\u00e0 un braccio ed una gamba, mentre a suo fratello andr\u00e0 ancora peggio.\n\nPassata l\u2019infanzia i due partiranno per recuperare quanto hanno perduto, ma qual è il costo di un corpo umano? Che ingredienti serviranno per riprodurlo?\n\nInoltre sembra esistere una pietra in grado di abbassare di parecchio i parametri di questo scambio, rendendo i costi pi\u00f9 accessibili\u2026",
             "title": "Fullmetal Alchemist",
             "saga": "Fullmetal Alchemist",
             "year": "2003",
             "tmdb_id": "37863",
-            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/full_list.json"
         },
         {
-            "plot": "La storia si svolge all'interno dell'MMORPG Gun Gale Online. Una ragazza, Karen Kohiruimaki, si \u00e8 creata un profilo, denominato Llenn, in questo videogame per provare a sentirsi pi\u00f9 bassa di statura. Infatti, nella vita reale, \u00e8 molto alta e non le piace essere presa in giro per la sua statura. All'interno del gioco conoscer\u00e0 Pitohui, un'altra giocatrice che la convincer\u00e0 a partecipare al torneo a squadre Squad Jam.",
+            "plot": "La storia si svolge all'interno dell'MMORPG Gun Gale Online. Una ragazza, Karen Kohiruimaki, si è creata un profilo, denominato Llenn, in questo videogame per provare a sentirsi pi\u00f9 bassa di statura. Infatti, nella vita reale, è molto alta e non le piace essere presa in giro per la sua statura. All'interno del gioco conoscer\u00e0 Pitohui, un'altra giocatrice che la convincer\u00e0 a partecipare al torneo a squadre Squad Jam.",
             "title": "Gun Gale Online - Sword Art Online Alternative",
             "saga": "Gun Gale Online - Sword Art Online Alternative",
             "year": "2018",
             "tmdb_id": "78204",
-            "genre": ["Animazione", "Azione e Avventura", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/gun_list.json"
         },
         {
-            "plot": "Il mondo abitato dall'umanit\u00e0 non \u00e8 pi\u00f9 costituito dalla sola Terra, ma si \u00e8 allargato all'intera Sfera Terrestre, comprensiva della Luna e di sette aree situate intorno ai punti di Lagrange dell'orbita lunare chiamate Side, in cui orbitano centinaia di \"isole spaziali\", enormi cilindri artificiali contenenti habitat adatti alla vita.\n\nAnno 0079 UC: il Principato di Zeon, situato in Side 3, dichiara la sua secessione dalla Federazione Terrestre, scatenando un violento conflitto, noto come Guerra di un anno, che infurier\u00e0 su ogni continente della Terra ed in quasi ogni colonia spaziale e insediamento lunare. Zeon \u00e8 inizialmente avvantaggiato dall'uso di un rivoluzionario tipo di arma, il mobile suit, un robot corazzato di aspetto antropomorfo pilotato da un essere umano. Quando una squadra di mobile suit di Zeon in ricognizione, disobbedendo agli ordini ricevuti, attacca la colonia di Side 7, gli abitanti di quest'ultima vengono a conoscenza della risposta della Federazione a questa nuova arma: il mobile suit Gundam. Con l'aiuto dei soldati federali superstiti della corazzata da trasporto Base Bianca, l'equipaggio di profughi inizia un'avventura che porter\u00e0 un pugno di loro a cambiare il corso della guerra.",
+            "plot": "Il mondo abitato dall'umanit\u00e0 non è pi\u00f9 costituito dalla sola Terra, ma si è allargato all'intera Sfera Terrestre, comprensiva della Luna e di sette aree situate intorno ai punti di Lagrange dell'orbita lunare chiamate Side, in cui orbitano centinaia di \"isole spaziali\", enormi cilindri artificiali contenenti habitat adatti alla vita.\n\nAnno 0079 UC: il Principato di Zeon, situato in Side 3, dichiara la sua secessione dalla Federazione Terrestre, scatenando un violento conflitto, noto come Guerra di un anno, che infurier\u00e0 su ogni continente della Terra ed in quasi ogni colonia spaziale e insediamento lunare. Zeon è inizialmente avvantaggiato dall'uso di un rivoluzionario tipo di arma, il mobile suit, un robot corazzato di aspetto antropomorfo pilotato da un essere umano. Quando una squadra di mobile suit di Zeon in ricognizione, disobbedendo agli ordini ricevuti, attacca la colonia di Side 7, gli abitanti di quest'ultima vengono a conoscenza della risposta della Federazione a questa nuova arma: il mobile suit Gundam. Con l'aiuto dei soldati federali superstiti della corazzata da trasporto Base Bianca, l'equipaggio di profughi inizia un'avventura che porter\u00e0 un pugno di loro a cambiare il corso della guerra.",
             "title": "Mobile Suit Gundam",
             "saga": "Gundam",
             "year": "1979",
             "tmdb_id": "21731",
-            "genre": ["Animazione", "Fantaschenza & Fantasia", "Azione e Avventura", "War & Politics"],
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Azione e Avventura", "War & Politics"],
             "url": "/ANIMAZIONE/anime/mobil_list.json"
         },
         {
-            "plot": "Sherlock Holmes \u00e8 un abilissimo investigatore privato, capace di smascherare qualunque malvivente. Al suo fianco, l'inseparabile Dottor Watson, ex medico che ha abbandonato la professione per seguire le investigazioni di Sherlock. Il nemico giurato di Holmes \u00e8 il Prof Moriarty, astuto ladro, convinto di essere il pi\u00f9 gran furfante del mondo.",
+            "plot": "Sherlock Holmes è un abilissimo investigatore privato, capace di smascherare qualunque malvivente. Al suo fianco, l'inseparabile Dottor Watson, ex medico che ha abbandonato la professione per seguire le investigazioni di Sherlock. Il nemico giurato di Holmes è il Prof Moriarty, astuto ladro, convinto di essere il pi\u00f9 gran furfante del mondo.",
             "title": "Il fiuto di Sherlock Holmes",
             "saga": "Il fiuto di Sherlock Holmes",
             "year": "1984",
@@ -119,12 +119,12 @@
             "url": "/ANIMAZIONE/anime/sherlock_list.json"
         },
         {
-            "plot": "Una giovane ragazza di nome Dorothy \u00e8 andata a vivere con i suoi nonni nella loro piccola fattoria. Un giorno, quando Dorothy viene lasciata sola in casa, appare un tornado. Dorothy non riesce ad arrivare nel seminterrato in tempo, e l'intera casa viene raccolta e trasportata in una terra magica, cadendo e uccidendo una strega malvagia. L\u00ec viene informata da una brava strega che deve recarsi nella Capitale dello Smeraldo e incontrare un grande mago che potrebbe essere in grado di aiutarla a trovare la via di casa. Lungo la strada fa degli amici incredibili e vede tante cose strane e fantastiche.",
+            "plot": "Una giovane ragazza di nome Dorothy è andata a vivere con i suoi nonni nella loro piccola fattoria. Un giorno, quando Dorothy viene lasciata sola in casa, appare un tornado. Dorothy non riesce ad arrivare nel seminterrato in tempo, e l'intera casa viene raccolta e trasportata in una terra magica, cadendo e uccidendo una strega malvagia. L\u00ec viene informata da una brava strega che deve recarsi nella Capitale dello Smeraldo e incontrare un grande mago che potrebbe essere in grado di aiutarla a trovare la via di casa. Lungo la strada fa degli amici incredibili e vede tante cose strane e fantastiche.",
             "title": "Il mago di Oz",
             "saga": "Il mago di Oz",
             "year": "1986",
             "tmdb_id": 66081,
-            "genre": ["Azione & Avventura", "Animazione", "Famiglia", "Bambini", "Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Famiglia", "Bambini", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/oz_list.json"
         },
         {
@@ -133,35 +133,35 @@
             "saga": "Invincible",
             "year": "2021",
             "tmdb_id": "95557",
-            "genre": ["Animazione", "Fantascienza & Fantasia", "Azione e Avventura", "Drammatico"],
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Azione e Avventura", "Drammatico"],
             "url": "/ANIMAZIONE/anime/invincible_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "Le vite dell'equipaggio di supporto in servizio su una delle navi meno importanti della Flotta Stellare, la U.S.S. Cerritos, nel 2380. I guardiamarina Mariner, Boimler, Rutherford e Tendi devono tenere il passo con i loro doveri e le loro vite sociali, spesso mentre la nave è scossa da una moltitudine di anomalie fantascientifiche.",
+            "title": "Star Trek Lower Decks",
+            "saga": "Star Trek",
+            "year": "2020",
+            "tmdb_id": "85948",
+            "genre": ["Fantascienza e Fantasia", "Animazione", "Commedia"],
+            "url": "/ANIMAZIONE/anime/deck_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "La serie è un sequel spin-off di \"Star Wars: The Clone Wars\" e segue i cloni d\u2019\u00e9lite e sperimentali di Bad Batch (introdotti per la prima volta in The Clone Wars) mentre trovano la loro strada in una galassia in rapido cambiamento subito dopo la Guerra dei Cloni. I membri di Bad Batch \u2013 una squadra unica di cloni che variano geneticamente dai loro fratelli nell\u2019esercito dei cloni \u2013 possiedono ciascuno un\u2019abilit\u00e0 singolare eccezionale, che li rende soldati straordinariamente efficaci e un equipaggio formidabile. Nell\u2019era successiva alla Guerra dei Cloni, affronteranno audaci missioni mercenarie mentre lottano per rimanere a galla e trovare un nuovo scopo.",
+            "title": "Star Wars - The Bad Batch",
+            "saga": "Star Wars",
+            "year": "2021",
+            "tmdb_id": 105971,
+            "genre": ["Animazione", "Fantascienza e Fantasia","Azione e Avventura"],
+            "url": "/ANIMAZIONE/anime/bad_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "Johnny Bolt recluta un gruppo di supercriminali disordinati per un'ultima rapina. Il loro obiettivo: uno spietato boss del crimine con superpoteri. Cosa pu\u00f2 andare storto?",
+            "title": "Super Ladri",
+            "saga": "Super Ladri",
+            "year": "2021",
+            "tmdb_id": "127599",
+            "genre": ["Animazione", "Crimine", "Fantascienza e Fantasia", "Azione e Avventura"],
+            "url": "/ANIMAZIONE/anime/ladri_list.json"
         },
         {
             "plot": "Segui le avventure dei fratelli maggiori Dolly e Dylan, la loro mamma Delilah e papà Doug, e i loro 97 fratelli e sorelle minori mentre si imbarcano in avventure urbane ed estrema rivalità tra fratelli. Insieme, i cuccioli esplorano la crescita e la ricerca del proprio posto all'interno della più grande, più disordinata e più pelosa famiglia mista di sempre.",
@@ -169,7 +169,88 @@
             "saga": "101 Dalmatian Street",
             "year": "2019",
             "tmdb_id": "75523",
-            "genre": ["Animazione", "Famiglia", "Kids"],
+            "genre": ["Animazione", "Famiglia", "Bambini"],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "Kazuto \"Kirito\" Kirigaya, un genio della programmazione, entra in una realt\u00e0 virtuale interattiva con pluralit\u00e0 di giocatori (una realt\u00e0 \"massively multi-player online\" o \"MMO\") denominata \"Sword Art Online\". Il problema sta nel fatto che, una volta entrati, se ne pu\u00f2 uscire solo vincitori, completando il gioco, perch\u00e9 il game over equivale a morte certa del giocatore.",
+            "title": "Sword Art Online",
+            "saga": "Sword Art Online",
+            "year": "2012",
+            "tmdb_id": 45782,
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Azione e Avventura"],
+            "url": "/ANIMAZIONE/anime/sword_list.json"
+        },
+        {
+            "plot": "The New Adventures of Superman è una serie di avventure animate di sei minuti di Superman prodotte dalla Filmation che furono trasmesse sulla CBS tra il 1966 e il 1970. I 68 segmenti sono apparsi come parte di tre diversi programmi durante quel periodo, confezionati con corti simili con Le avventure di Superboy e altri supereroi della DC Comics.",
+            "title": "The New Adventures of Superman",
+            "saga": "The New Adventures of Superman",
+            "year": "1966",
+            "tmdb_id": "10786",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/superman_list.json"
+        },
+        {
+            "plot": "Per millenni, il malvagio Impero di Galra ha afflitto l'universo distruggendo altre civilt\u00e0 e schiavizzando varie razze. L'unica minaccia conosciuta abbastanza forte contro il potere e i piani dell'impero è il leggendario Voltron, un guerriero robot di 100 metri di altezza composto da cinque leoni i cui piloti sono noti come i Paladini. Al punto cruciale della guerra che si concluse con la distruzione del pianeta Altea, Voltron fu separato da re Alfor di Altea per proteggrlo dalla caduta in possesso dell'imperatore Zarkon di Galra. Re Alfor leg\u00f2 le energie del leone alla forza vitale di sua figlia Allura e li mand\u00f2 attraverso l'universo in luoghi diversi fino al momento in cui la prossima generazione di Paladini apparir\u00e0 e guider\u00e0 Voltron. La principessa Allura, il suo consigliere reale Coran e il castello Altare dei leoni erano nascosti sul pianeta Arus insieme al leone nero.\n\nNel presente, il percorso di conquista dell'Impero Galra e la ricerca di Voltron li ha condotti al sistema solare della Terra. Un gruppo di piloti spaziali - Shiro, Keith, Lance, Pidge e Hunk - scoprono il Leone Blu e vengono subito trascinati nella Guerra dei Galra. Incontrando la Principessa Allura, diventano i nuovi Paladini e riuniscono i cinque leoni per formare Voltron, iniziando la loro lotta per liberare l'universo dall'Impero di Galra",
+            "title": "Voltron Legendary Defender",
+            "saga": "Voltron Legendary Defender",
+            "year": "2016",
+            "tmdb_id": "66558",
+            "genre": ["Azione e Avventura", "Animazione", "Fantascienza e Fantasia"],
+            "url": "/ANIMAZIONE/anime/voltron_list.json"
+        },
+        {
+            "plot": "Dopo gli eventi di Loki, il multiverso cade nella follia, mostrando degli universi in cui alcuni dei pi\u00f9 importanti momenti del Marvel Cinematic Universe si svolgono in maniera differente...",
+            "title": "What If",
+            "saga": "What If",
+            "year": "2021",
+            "tmdb_id": "91363",
+            "genre": ["Animazione", "Azione e Avventura", "Fantascienza e Fantasia"],
+            "url": "/ANIMAZIONE/anime/what_list.json"
+        },
+        {
+            "plot": "La squadra di .\"Xiaolin Showdown.\" ritorna in questa serie sequel per dare la caccia a Shen Gon Wu. Al loro fianco, un nuovo alleato si unisce a loro nella lotta del bene contro il male.",
+            "title": "Xiaolin Chronicles",
+            "saga": "Xiaolin",
+            "year": "2013",
+            "tmdb_id": "60306",
+            "genre": ["Commedia", "Drammatico", "Fantascienza e Fantasia", "Animazione"],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "L'opera è incentrata sul triangolo d'amore tra un ragazzo dai poteri paranormali (ESP) di nome Ky\u014dsuke Kasuga (nella versione italiana dell'anime Johnny), Madoka Ayukawa (Sabrina) e Hikaru Hiyama (Tinetta). Kyosuke Kasuga è un ragazzo sedicenne che, cambiata per l'ennesima volta citt\u00e0 a causa delle sue sorelle (che usano a sproposito i poteri), conosce la bella Madoka, la quale gli regala un cappello rosso di paglia, e ne rimane subito affascinato. Ben presto viene introdotto il personaggio di Hikaru, amica del cuore di Madoka, che si innamora di Kyosuke e si avvicina sempre di pi\u00f9 al ragazzo.",
+            "title": "È quasi magia Johnny",
+            "saga": "È quasi magia Johnny",
+            "year": "1987",
+            "tmdb_id": "9103",
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Commedia"],
+            "url": "/ANIMAZIONE/anime/johnny_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
             "url": "/ANIMAZIONE/anime/101_list.json"
         },
         {
@@ -182,7 +263,7 @@
             "url": "/ANIMAZIONE/anime/valle_list.json"
         },
         {
-            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si \u00e8 dimenticata.",
+            "plot": "Ancora non conosciamo il nome del fiore che abbiamo visto quel giorno. L'infanzia di cinque amici viene funestata dalla morte di Meiko Honma, soprannominata \"Menma\", una loro compagna di giochi. Ora i ragazzi sono cresciuti e vanno alle scuole superiori, tuttavia non sono pi\u00f9 amici. Improvvisamente Jinta Yadomi, detto \"Jintan\", che era stato il leader del gruppo, inizia a vedere il fantasma della sua piccola amica di tanti anni prima. Meiko sembra poter comunicare soltanto con lui e desidera che Jinta esaudisca un desiderio che lei aveva quando era bambina, ma del quale si è dimenticata.",
             "title": "Ano Hana",
             "saga": "Ano Hana",
             "year": "2011",
@@ -196,11 +277,11 @@
             "saga": "Astroboy",
             "year": "1980",
             "tmdb_id": "23022",
-            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/astro_list.json"
         },
         {
-            "plot": "Barbapap\u00e0 (Barbapapa) \u00e8 una serie a fumetti creata da Annette Tison e Talus Taylor, pubblicata in Francia nel 1970; Barbapap\u00e0 \u00e8 il nome del protagonista della serie, e per estensione di tutta la sua famiglia (Les barbapapas): il nome del protagonista deriva dall'espressione francese Barbe \u00e0 papa, che significa \"barba di pap\u00e0\", cos\u00ec come viene chiamato lo zucchero filato. Dal fumetto \u00e8 stata successivamente ricavata Barbapap\u00e0, una serie televisiva animazione, realizzata nel 1974 e uscita in Italia",
+            "plot": "Barbapap\u00e0 (Barbapapa) è una serie a fumetti creata da Annette Tison e Talus Taylor, pubblicata in Francia nel 1970; Barbapap\u00e0 è il nome del protagonista della serie, e per estensione di tutta la sua famiglia (Les barbapapas): il nome del protagonista deriva dall'espressione francese Barbe \u00e0 papa, che significa \"barba di pap\u00e0\", cos\u00ec come viene chiamato lo zucchero filato. Dal fumetto è stata successivamente ricavata Barbapap\u00e0, una serie televisiva animazione, realizzata nel 1974 e uscita in Italia",
             "title": "Barbapapa",
             "saga": "Barbapapa",
             "year": "1974",
@@ -209,21 +290,21 @@
             "url": "/ANIMAZIONE/anime/barbapapa_list.json"
         },
         {
-            "plot": "Hiro \u00e8 diventato una sorta di leggenda al San Fransokyo Institute of Technology. Ora per\u00f2 deve vedersela con le sfide di tutti i giorni a scuola, soprattutto perch\u00e9 si ritrova al college pur essendo poco pi\u00f9 che un ragazzino. E al di fuori dell\u2019universit\u00e0, il team di supereroi di ultima generazione, noto come i Big Hero 6, dovranno darsi da fare per proteggere la loro citt\u00e0 dal misterioso Obake e dai nuovi supercriminali dotati delle ultime tecnologie disponibili.",
+            "plot": "Hiro è diventato una sorta di leggenda al San Fransokyo Institute of Technology. Ora per\u00f2 deve vedersela con le sfide di tutti i giorni a scuola, soprattutto perch\u00e9 si ritrova al college pur essendo poco pi\u00f9 che un ragazzino. E al di fuori dell\u2019universit\u00e0, il team di supereroi di ultima generazione, noto come i Big Hero 6, dovranno darsi da fare per proteggere la loro citt\u00e0 dal misterioso Obake e dai nuovi supercriminali dotati delle ultime tecnologie disponibili.",
             "title": "Big Hero 6",
             "saga": "Big Hero 6",
             "year": "2017",
             "tmdb_id": "68665",
-            "genre": ["Azione e Avventura", "Animazione", "Commedia", "Famiglia", "Kids"],
+            "genre": ["Azione e Avventura", "Animazione", "Commedia", "Famiglia", "Bambini"],
             "url": "/ANIMAZIONE/anime/big_list.json"
         },
         {
-            "plot": "Tre topi motociclisti antropomorfi, Sterzo (Throttle) Turbo (Vinnie) e Pistone (Modo), scappano da una guerra scoppiata sul loro pianeta natio, Marte. Terminano il loro viaggio precipitando sulla Terra nella citt\u00e0 di Chicago; qui fanno conoscenza con un'affascinante ragazza che svolge il lavoro di meccanico chiamata Charlene \"Charley\" Davidson e scoprono che i plutarchiani sono sbarcati sulla Terra per impadronirsi delle sue risorse naturali.\n\nI plutarchiani sono una razza aliena umanoide puzzolente e simile ai pesci il cui scopo \u00e8 sfruttare le risorse naturali degli altri pianeti perch\u00e9 hanno ormai esaurite le loro. Essi sono i principali responsabili della enorme devastazione su Marte che ha portato alla morte della maggior parte della popolazione dei topi marziani e la successiva distruzione della flora e della fauna di Marte.\n\nI Biker Mice riescono a scoprire che il maggior imprenditore industriale di Chicago, Lawrence Limburger, \u00e8 lui stesso un plutarchiano il quale si \u00e8 mimetizzato sotto le mentite spoglie di un umano. Limburger gode dell'aiuto di malvagi come il sadico scienziato pazzo Dr. Carbonchio e il suo aiutante Morchia che cercano di rubare alla Terra le proprie risorse naturali per mandarle su Plutarco. Fortunatamente, i loro piani vengono puntualmente sventati dai Biker Mice alla fine di ogni puntata.",
+            "plot": "Tre topi motociclisti antropomorfi, Sterzo (Throttle) Turbo (Vinnie) e Pistone (Modo), scappano da una guerra scoppiata sul loro pianeta natio, Marte. Terminano il loro viaggio precipitando sulla Terra nella citt\u00e0 di Chicago; qui fanno conoscenza con un'affascinante ragazza che svolge il lavoro di meccanico chiamata Charlene \"Charley\" Davidson e scoprono che i plutarchiani sono sbarcati sulla Terra per impadronirsi delle sue risorse naturali.\n\nI plutarchiani sono una razza aliena umanoide puzzolente e simile ai pesci il cui scopo è sfruttare le risorse naturali degli altri pianeti perch\u00e9 hanno ormai esaurite le loro. Essi sono i principali responsabili della enorme devastazione su Marte che ha portato alla morte della maggior parte della popolazione dei topi marziani e la successiva distruzione della flora e della fauna di Marte.\n\nI Biker Mice riescono a scoprire che il maggior imprenditore industriale di Chicago, Lawrence Limburger, è lui stesso un plutarchiano il quale si è mimetizzato sotto le mentite spoglie di un umano. Limburger gode dell'aiuto di malvagi come il sadico scienziato pazzo Dr. Carbonchio e il suo aiutante Morchia che cercano di rubare alla Terra le proprie risorse naturali per mandarle su Plutarco. Fortunatamente, i loro piani vengono puntualmente sventati dai Biker Mice alla fine di ogni puntata.",
             "title": "Biker Mice from Mars (1993)",
             "saga": "Biker Mice from Mars (1993)",
             "year": "1993",
             "tmdb_id": "3320",
-            "genre": ["Kids", "Animazione", "Azione e Avventura", "Commedia"],
+            "genre": ["Bambini", "Animazione", "Azione e Avventura", "Commedia"],
             "url": "/ANIMAZIONE/anime/biker_list.json"
         },
         {
@@ -232,25 +313,25 @@
             "saga": "Biker Mice from Mars (2006)",
             "year": "2006",
             "tmdb_id": "95580",
-            "genre": ["Kids", "Animazione", "Azione e Avventura"],
+            "genre": ["Bambini", "Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/mars_list.json"
         },
         {
-            "plot": "Capitan Harlock \u00e8 un manga di fantascienza scritto e illustrato da Leiji Matsumoto, serializzato dalla Akita Shoten dal 1977 al 1979. Il manga, che in Italia fu pubblicato interamente solo nel 2001 dalla Panini Comics, fu adattato in una serie televisiva animazione diretta da Rintar\u014d e prodotta dalla Toei Animazione. La serie fu trasmessa in Giappone su TV Asahi dal 1978 al 1979, mentre in Italia fu trasmessa su Rai 2 nel 1979. Dalla serie originale sono derivate molte opere di svariata natura, a cui nella maggior parte dei casi ha collaborato lo stesso Matsumoto. L'ultima di queste \u00e8 il film d'animazione al computer Capitan Harlock (2013). La serie segue l'omonimo protagonista, un emarginato diventato pirata spaziale dopo essersi ribellato contro il governo della Terra e l'apatia generale dell'umanit\u00e0.",
+            "plot": "Capitan Harlock è un manga di fantascienza scritto e illustrato da Leiji Matsumoto, serializzato dalla Akita Shoten dal 1977 al 1979. Il manga, che in Italia fu pubblicato interamente solo nel 2001 dalla Panini Comics, fu adattato in una serie televisiva animazione diretta da Rintar\u014d e prodotta dalla Toei Animazione. La serie fu trasmessa in Giappone su TV Asahi dal 1978 al 1979, mentre in Italia fu trasmessa su Rai 2 nel 1979. Dalla serie originale sono derivate molte opere di svariata natura, a cui nella maggior parte dei casi ha collaborato lo stesso Matsumoto. L'ultima di queste è il film d'animazione al computer Capitan Harlock (2013). La serie segue l'omonimo protagonista, un emarginato diventato pirata spaziale dopo essersi ribellato contro il governo della Terra e l'apatia generale dell'umanit\u00e0.",
             "title": "Capitan Harlock",
             "saga": "Capitan Harlock",
             "year": "1978",
             "tmdb_id": "31714",
-            "genre": ["Azione & Avventura", "Animazione", "Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/harlock_list.json"
         },
         {
-            "plot": "Lo studente Yusaku Godai tenta invano di studiare per l'esame d'ammissione all'universit\u00e0, ma \u00e8 esasperato dai dispetti e dalla confusione provocati dagli strambi inquilini della pensione in cui soggiorna. E' quasi deciso ad andarsene, ma ecco che arriva un validissimo motivo per restare in quell'assurdo luogo: la nuova amministratrice della pensione, Kyoko Otonashi, giovane e bella vedova di cui Godai si innamora immediatamente.",
+            "plot": "Lo studente Yusaku Godai tenta invano di studiare per l'esame d'ammissione all'universit\u00e0, ma è esasperato dai dispetti e dalla confusione provocati dagli strambi inquilini della pensione in cui soggiorna. E' quasi deciso ad andarsene, ma ecco che arriva un validissimo motivo per restare in quell'assurdo luogo: la nuova amministratrice della pensione, Kyoko Otonashi, giovane e bella vedova di cui Godai si innamora immediatamente.",
             "title": "Cara dolce Kyoko",
             "saga": "Cara dolce Kyoko",
             "year": "1986",
             "tmdb_id": "43018",
-            "genre": ["Animazione", "Commedia", "Drammatico", "Romance"],
+            "genre": ["Animazione", "Commedia", "Drammatico", "Romantico"],
             "url": "/ANIMAZIONE/anime/kyoko_list.json"
         },
         {
@@ -268,7 +349,7 @@
             "saga": "C'era una volta...",
             "year": "2009",
             "tmdb_id": "17546",
-            "genre": ["Animazione", "Documentario", "Kids"],
+            "genre": ["Animazione", "Documentario", "Bambini"],
             "url": "/ANIMAZIONE/anime/terra_list.json"
         },
         {
@@ -277,11 +358,11 @@
             "saga": "C'era una volta...",
             "year": "1978",
             "tmdb_id": "6080",
-            "genre": ["Animazione", "Documentario", "Kids"],
+            "genre": ["Animazione", "Documentario", "Bambini"],
             "url": "/ANIMAZIONE/anime/uomo_list.json"
         },
         {
-            "plot": "Ryo Saeba \u00e8 un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si trover\u00e0 costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicit\u00e0.",
+            "plot": "Ryo Saeba è un investigatore privato, dotato di mira infallibile con la pistola, che combatte quotidianamente il crimine a Tokyo; per contattarlo i suoi clienti, spesso bellissime donne (suo unico tallone d'Achille), devono semplicemente scrivere un messaggio sulla bacheca della stazione di Shinjuku, indirizzandolo a XYZ. Accompagnato dalla sua assistente, l'irascibile Kaori Makimura, Ryo si trover\u00e0 costantemente a dover affrontare pericolosi criminali, in un mix di azione e comicit\u00e0.",
             "title": "City Hunter",
             "saga": "City Hunter",
             "year": "1987",
@@ -290,21 +371,21 @@
             "url": "/ANIMAZIONE/anime/city_list.json"
         },
         {
-            "plot": "Il Giappone \u00e8 diventato una colonia dell\u2019impero della Britannia ed \u00e8 conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
+            "plot": "Il Giappone è diventato una colonia dell\u2019impero della Britannia ed è conosciuto ora come Area 11; i giapponesi vengono ora chiamati Eleven e sono privati di buona parte dei propri diritti. Solo alcuni, per i meriti acquisiti, posso assumete lo status di cittadini britannici onorari, rimanendo comunque un gradino sotto i Britanni, in genere benestanti e spesso sprezzanti verso le classi inferiori. Le vicende partono da una scuola superiore d\u2019elite per cittadini britanni in cui Lelouch passa le proprie giornate annoiato e con pochi stimoli, nascondendo il rancore accumulato negli anni e nato dagli eventi che hanno segnato la sua infanzia, in cui vide assassinare la propria madre e ferire gravemente la sorella, ora cieca e costretta su una sedia a rotelle. Un giorno Lelouch viene gravemente ferito in uno scontro tra militari e ribelli. Quasi sul punto di morte, viene salvato da una strana ragazza che gli dona il potere di assoggettare chiunque riesca a guardare direttamente negli occhi al proprio volere. Lelouch riacquista in questo modo una ragione per vivere: diventare il leader della fazione dei ribelli, Zero, e grazie alle sua abilit\u00e0 strategica e al suo dono iniziare il percorso verso la tanto desiderata vendetta.",
             "title": "Code Geass - Lelouch of the Rebellion",
             "saga": "Code Geass - Lelouch of the Rebellion",
             "year": "2006",
             "tmdb_id": "31724",
-            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/geass_list.json"
         },
         {
-            "plot": "\u00c8 passato un anno dal fallimento della Black Rebellion e dalla presunta morte di Zero. La Britannia ha assegnato all'area 11 uno status educativo correttivo, in cui Elevens \u00e8 un esempio di forza bruta, per cercare di prevenire eventuali attacchi futuri e reprimere i pensieri ribelli. Lelouch un ignaro studente di liceo, all'oscuro del suo passato ribelle come Zero, incontra una misteriosa donna nota come C.C., che riesce a fargli recuperare la memoria. Recuperati i suoi ricordi e l'uso del Geass distrugge i suoi assalitori e si dichiara ancora una volta Zero,decidendo di finire ci\u00f2 che aveva iniziato.",
+            "plot": "È passato un anno dal fallimento della Black Rebellion e dalla presunta morte di Zero. La Britannia ha assegnato all'area 11 uno status educativo correttivo, in cui Elevens è un esempio di forza bruta, per cercare di prevenire eventuali attacchi futuri e reprimere i pensieri ribelli. Lelouch un ignaro studente di liceo, all'oscuro del suo passato ribelle come Zero, incontra una misteriosa donna nota come C.C., che riesce a fargli recuperare la memoria. Recuperati i suoi ricordi e l'uso del Geass distrugge i suoi assalitori e si dichiara ancora una volta Zero,decidendo di finire ci\u00f2 che aveva iniziato.",
             "title": "Code Geass - Lelouch of the Rebellion R2",
             "saga": "Code Geass - Lelouch of the Rebellion R2",
             "year": "2008",
             "thumbnail": "/ANIMAZIONE/anime/codeR2.jpg",
-            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Drammatico", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/geassr2_list.json"
         },
         {
@@ -317,7 +398,7 @@
             "url": "/ANIMAZIONE/anime/ballgt_list.json"
         },
         {
-            "plot": "Dragon Ball Z narra le avventure di Goku, ormai divenuto adulto, il quale si \u00e8 sposato con Chichi e da cui ha avuto due figli, Gohan e, successivamente, Goten. Con il proseguire della serie e delle avventure, aumentano sia gli avversari sia la loro potenza, e le battaglie che ne derivano causano un allontanamento sempre maggiore da quella che era la base della storia in Dragon Ball, ovvero la ricerca delle sfere del drago. Si privilegiano cos\u00ec la crescita dei personaggi e il susseguirsi degli scontri, affidandosi a una trama rivelatasi di enorme successo. La serie copre un arco narrativo di 22 anni, partendo dall'attacco di Radish e concludendosi con la partenza di Goku allo scopo di allenare Ub in occasione del 28\u00ba Torneo Tenkaichi.",
+            "plot": "Dragon Ball Z narra le avventure di Goku, ormai divenuto adulto, il quale si è sposato con Chichi e da cui ha avuto due figli, Gohan e, successivamente, Goten. Con il proseguire della serie e delle avventure, aumentano sia gli avversari sia la loro potenza, e le battaglie che ne derivano causano un allontanamento sempre maggiore da quella che era la base della storia in Dragon Ball, ovvero la ricerca delle sfere del drago. Si privilegiano cos\u00ec la crescita dei personaggi e il susseguirsi degli scontri, affidandosi a una trama rivelatasi di enorme successo. La serie copre un arco narrativo di 22 anni, partendo dall'attacco di Radish e concludendosi con la partenza di Goku allo scopo di allenare Ub in occasione del 28\u00ba Torneo Tenkaichi.",
             "title": "Dragon Ball Z",
             "saga": "Dragon Ball Z",
             "year": "1989",
@@ -326,7 +407,7 @@
             "url": "/ANIMAZIONE/anime/ballz_list.json"
         },
         {
-            "plot": "Molto tempo fa in montagna, un maestro di arti marziali conosciuto come Gohan ha scoperto uno strano bambino il quale diede il nome di Goku. Gohan lo ha cresciuto e addestrato nelle arti marziali fino alla morte. Il ragazzo molto giovane e molto forte \u00e8 cresciuto per conto suo. Poi un giorno, Goku ha incontrato una ragazza di nome Bulma, la cui ricerca delle sfere del drago ha portata a casa di Goku. Insieme, sono partiti per trovare tutte le sette sfere del drago in un'avventura che avrebbe cambiato la vita di Goku per sempre.",
+            "plot": "Molto tempo fa in montagna, un maestro di arti marziali conosciuto come Gohan ha scoperto uno strano bambino il quale diede il nome di Goku. Gohan lo ha cresciuto e addestrato nelle arti marziali fino alla morte. Il ragazzo molto giovane e molto forte è cresciuto per conto suo. Poi un giorno, Goku ha incontrato una ragazza di nome Bulma, la cui ricerca delle sfere del drago ha portata a casa di Goku. Insieme, sono partiti per trovare tutte le sette sfere del drago in un'avventura che avrebbe cambiato la vita di Goku per sempre.",
             "title": "Dragon Ball",
             "saga": "Dragon Ball",
             "year": "1986",
@@ -335,7 +416,7 @@
             "url": "/ANIMAZIONE/anime/ball_list.json"
         },
         {
-            "plot": "Creata da Albert Barill\u00e9, \u00e8 composta da 26 episodi di 25 minuti ed \u00e8 stata trasmessa per la prima volta nel 1987 da France 3 in Francia e nello stesso anno in Svizzera dalla Radiotelevisione svizzera di lingua italiana. In Italia \u00e8 stato messo in onda su Italia 1, su Boing e su Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai globuli bianchi alle vitamine, ai componenti del DNA.",
+            "plot": "Creata da Albert Barill\u00e9, è composta da 26 episodi di 25 minuti ed è stata trasmessa per la prima volta nel 1987 da France 3 in Francia e nello stesso anno in Svizzera dalla Radiotelevisione svizzera di lingua italiana. In Italia è stato messo in onda su Italia 1, su Boing e su Hiro. Il cartone animato, destinato a un pubblico di bambini e adulti, illustra con l'aiuto di personaggi animati la struttura e le funzioni del corpo umano, utilizzando figure antropomorfe per rappresentarne i componenti microscopici, dai globuli bianchi alle vitamine, ai componenti del DNA.",
             "title": "Esplorando il corpo umano",
             "saga": "C'era una volta...",
             "year": "1987",
@@ -349,11 +430,11 @@
             "saga": "Fast & Furious - piloti sotto copertura",
             "year": "2019",
             "tmdb_id": "95594",
-            "genre": ["Animazione", "Azione e Avventura", "Kids", "Famiglia", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Bambini", "Famiglia", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/fast_list.json"
         },
         {
-            "plot": "Flone Robinson (Flo) \u00e8 una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che \u00e8 molto affezionata a Flo ed \u00e8 per lei quasi una seconda madre.  Ernst \u00e8 un abile medico, ma soprattutto \u00e8 un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
+            "plot": "Flone Robinson (Flo) è una bambina di nove anni che vive a Berna con la sua famiglia, composta dal padre Ernst, dalla madre Anna, dal fratello maggiore Franz e da quello pi\u00f9 piccolo Jaques (Jack). In casa con la famiglia Robinson vive anche Marie, la giovane governante, che è molto affezionata a Flo ed è per lei quasi una seconda madre.  Ernst è un abile medico, ma soprattutto è un uomo intelligente ed ingegnoso. Un giorno riceve una lettera dal dott. Elliott, un amico che vive in Australia, che lo invita a recarsi in quella terra lontana per esercitare l\u00e0 la sua professione. Ernst sente il bisogno di andare dove ci sia realmente necessit\u00e0 della sua opera, e dopo un intenso consulto con la famiglia, decide di accettare l'invito e di partire immediatamente per l'Australia con tutti i suoi familiari. Soltanto Marie non pu\u00f2 partire per motivi personali e questo distacco peser\u00e0 molto a Flo, che continuer\u00e0 a pensare a lei con nostalgia e a sognarla spesso.",
             "title": "Flo, La Piccola Robinson",
             "saga": "Flo, La Piccola Robinson",
             "year": "1981",
@@ -370,16 +451,16 @@
             "url": "/ANIMAZIONE/anime/futurama_list.json"
         },
         {
-            "plot": "Gemelli nel segno del destino \u00e8 una serie televisiva a cartoni animati francese del 1991, creata dallo scrittore Jean Chalopin e prodotta da AB production e C&amp;D. In Francia fu trasmessa dall'emittente TF1; la serie arriv\u00f2 in Italia nell'autunno del 1992, mandata in onda su Canale 5 all'interno del programma per ragazzi Bim bum bam e replicata varie volte (almeno quattro messe in onda) fino al 1999.",
+            "plot": "Gemelli nel segno del destino è una serie televisiva a cartoni animati francese del 1991, creata dallo scrittore Jean Chalopin e prodotta da AB production e C&amp;D. In Francia fu trasmessa dall'emittente TF1; la serie arriv\u00f2 in Italia nell'autunno del 1992, mandata in onda su Canale 5 all'interno del programma per ragazzi Bim bum bam e replicata varie volte (almeno quattro messe in onda) fino al 1999.",
             "title": "Gemelli nel segno del destino",
             "saga": "Gemelli nel segno del destino",
             "year": "1991",
             "tmdb_id": "11659",
-            "genre": ["Animazione", "Fantaschenza & Fantasia", "Mistero"],
+            "genre": ["Animazione", "Fantascienza e Fantasia", "Mistero"],
             "url": "/ANIMAZIONE/anime/gemelli_list.json"
         },
         {
-            "plot": "Georgie \u00e8 un animazione del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
+            "plot": "Georgie è un animazione del 1982 di Yumiko Igarashi ambientato nel XIX secolo tra l'Australia e l'Inghilterra che racconta le avventure di una ragazza alla ricerca delle proprie origini.",
             "title": "Georgie",
             "saga": "Georgie",
             "year": "1983",
@@ -388,7 +469,7 @@
             "url": "/ANIMAZIONE/anime/georgie_list.json"
         },
         {
-            "plot": "Ghostbusters \u00e8 una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie \u00e8 basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters \u00e8 stato un successo, la Filmation \u00e8 entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie \u00e8 tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
+            "plot": "Ghostbusters è una serie televisiva del genere Animazione creata da Filmation, distribuita da Tribune Entertainment e lanciata in seguito al successo di Ivan Reitman e del film della Columbia Pictures del 1984 Ghostbusters. Dall'8 settembre al 5 dicembre 1986 sono stati prodotti 65 episodi. La serie è basata su uno spettacolo televisivo dal vivo ambientato nel 1975 intitolato The GhostBusters. Non deve essere confuso con lo spettacolo animato The Real Ghostbusters, basato sul film Ghostbusters del 1984. La Columbia Pictures ha dovuto ottenere i diritti sul nome per il suo film, e dopo che Ghostbusters è stato un successo, la Filmation è entrata in produzione con le sue serie animate basate sui personaggi della serie. La serie è tecnicamente chiamata semplicemente \"Ghostbusters\", ma le versioni home video hanno usato il nome \"Filmation's Ghostbusters\" per evitare confusione.",
             "title": "Ghostbusters",
             "saga": "Ghostbusters",
             "year": "1986",
@@ -397,7 +478,7 @@
             "url": "/ANIMAZIONE/anime/ghost_list.json"
         },
         {
-            "plot": "Il motto di Kintaro \u00e8 \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
+            "plot": "Il motto di Kintaro è \u201cimparo, imparo, imparo\u2026\u201d. In questo si riassume la sua filosofia di vita. Lascia infatti l\u2019universit\u00e0 visto che questa non aveva niente pi\u00f9 da insegnargli e parte con la sua mountain bike con l\u2019intenzione di viaggiare per l\u2019intero Giappone. Il ragazzo si dimostra un prodigio in tutto quello che fa, ha notevoli capacit\u00e0 di apprendimento e nella sua ingenuit\u00e0 si dimostra persona affidabile e generosa. Queste sue doti lo fanno entrare nelle simpatie delle belle ragazze che incontra, che in molti casi, nonostante l\u2019impatto iniziale certamente non idilliaco, si innamoreranno di lui. Ma proprio sul pi\u00f9 bello Kintaro parte per una nuova esperienza, piantandole in asso con il rammarico per la persona stupenda che si sono lasciate scappare\u2026",
             "title": "Golden Boy",
             "saga": "Golden Boy",
             "tmdb_id": "34105",
@@ -411,11 +492,11 @@
             "saga": "C'era una volta...",
             "year": "1994",
             "tmdb_id": "5402",
-            "genre": ["Kids", "Documentario", "Animazione", "Famiglia"],
+            "genre": ["Bambini", "Documentario", "Animazione", "Famiglia"],
             "url": "/ANIMAZIONE/anime/uomini_list.json"
         },
         {
-            "plot": "Hazzard (The Dukes) \u00e8 una serie televisiva a disegni animati prodotta da Hanna-Barbera nel 1983 e distribuita da Warner Bros., basata sui personaggi del telefilm Hazzard.\nIl Ranch dello zio Jesse \u00e8 sottoposto ad una pesantissima ipoteca e  l'unico modo di riscattarla \u00e8 vincere il primo premio di una gara  automobilistica che ricalca le avventure de il giro del mondo in 80 giorni  in cui si cimenteranno i cugini duke. Boss Hogg, in ogni puntata, cerca  di boicottare i cugini in modo di farli perdere e acquisire cos\u00ec il  ranch, dato che sotto di esso si trova un'enorme giacimento petrolifero.",
+            "plot": "Hazzard (The Dukes) è una serie televisiva a disegni animati prodotta da Hanna-Barbera nel 1983 e distribuita da Warner Bros., basata sui personaggi del telefilm Hazzard.\nIl Ranch dello zio Jesse è sottoposto ad una pesantissima ipoteca e  l'unico modo di riscattarla è vincere il primo premio di una gara  automobilistica che ricalca le avventure de il giro del mondo in 80 giorni  in cui si cimenteranno i cugini duke. Boss Hogg, in ogni puntata, cerca  di boicottare i cugini in modo di farli perdere e acquisire cos\u00ec il  ranch, dato che sotto di esso si trova un'enorme giacimento petrolifero.",
             "title": "Hazzard",
             "saga": "Hazzard",
             "year": "1983",
@@ -424,7 +505,7 @@
             "url": "/ANIMAZIONE/anime/hazzard_list.json"
         },
         {
-            "plot": "La serie (Hotel Transylvania: The Series), inizialmente previsto col titolo Hotel Transylvania: The Television Series, \u00e8 una serie televisiva a cartoni animati bidimensionale prodotta dalla Sony Pictures Animation e Nelvana Limited ed \u00e8 basato sul film d'animazione Hotel Transylvania del 2012. Gli eventi della serie si andranno a collocare prima del film originale mettendo a fuoco gli anni dell'adolescenza di Mavis e dei suoi amici dell'Hotel Transylvania.",
+            "plot": "La serie (Hotel Transylvania: The Series), inizialmente previsto col titolo Hotel Transylvania: The Television Series, è una serie televisiva a cartoni animati bidimensionale prodotta dalla Sony Pictures Animation e Nelvana Limited ed è basato sul film d'animazione Hotel Transylvania del 2012. Gli eventi della serie si andranno a collocare prima del film originale mettendo a fuoco gli anni dell'adolescenza di Mavis e dei suoi amici dell'Hotel Transylvania.",
             "title": "Hotel Transylvania: La Serie",
             "saga": "Hotel Transylvania: La Serie",
             "year": "2017",
@@ -433,7 +514,7 @@
             "url": "/ANIMAZIONE/anime/hotel_list.json"
         },
         {
-            "plot": "I Jetsons \u00e8 una serie animata americana prodotta da Hanna-Barbera, contraltare futurista della famiglia Flinstones.\n\nE' ambientata in una utopica citt\u00e0 del 2062, elaborato complesso gestito da robot e caratterizzato da alieni, ologrammmi e improbabili invenzioni e aggeggi futuristici (per gli anni '60, tipicamente caratterizzati da assurdi ma simpatici meccanismi meccanici), dove la famiglia si scontra con i soliti problemi senza tempo del lavoro, dei figli e dei rapporti reciproci.\n\nTrasmessa da ABC per la prima volta nel 1962-1963 (24 episodi in bianco e nero) alla quale si sono poi aggiunti nuovi episodi disegnati tra il 1984 e il 1987, \u00e8 stata riprosta per decenni senza perdere nulla del suo spirito.",
+            "plot": "I Jetsons è una serie animata americana prodotta da Hanna-Barbera, contraltare futurista della famiglia Flinstones.\n\nE' ambientata in una utopica citt\u00e0 del 2062, elaborato complesso gestito da robot e caratterizzato da alieni, ologrammmi e improbabili invenzioni e aggeggi futuristici (per gli anni '60, tipicamente caratterizzati da assurdi ma simpatici meccanismi meccanici), dove la famiglia si scontra con i soliti problemi senza tempo del lavoro, dei figli e dei rapporti reciproci.\n\nTrasmessa da ABC per la prima volta nel 1962-1963 (24 episodi in bianco e nero) alla quale si sono poi aggiunti nuovi episodi disegnati tra il 1984 e il 1987, è stata riprosta per decenni senza perdere nulla del suo spirito.",
             "title": "I pronipoti",
             "saga": "I pronipoti",
             "year": "1962",
@@ -442,16 +523,16 @@
             "url": "/ANIMAZIONE/anime/pronipoti_list.json"
         },
         {
-            "plot": "I Puffi (The Smurfs) \u00e8 una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esord\u00ec nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata \u00e8 diventata molto popolare ed \u00e8 stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",
+            "plot": "I Puffi (The Smurfs) è una serie di cartoni animati tratti dalle storie a fumetti di Peyo e Yvan Delporte e prodotta negli Stati Uniti d'America dalla Hanna-Barbera. La serie televisiva esord\u00ec nel Nord America il 12 settembre 1981 e venne trasmessa fino al 19 dicembre 1990 per 421 episodi divisi in nove stagioni. In Italia la serie animata è diventata molto popolare ed è stata trasmessa inizialmente sulle reti locali dai primi anni ottanta, insieme all'uscita dei 45 giri della prima sigla e il 33 giri Arrivano i Puffi, e poi successivamente sulle reti Mediaset con sigle diverse.",
             "title": "I Puffi",
             "saga": "I Puffi",
             "year": "1981",
             "tmdb_id": "5687",
-            "genre": ["Animazione", "Famiglia", " Fantaschenza & Fantasia", "Kids"],
+            "genre": ["Animazione", "Famiglia", "Fantascienza e Fantasia", "Bambini"],
             "url": "/ANIMAZIONE/anime/puffi_list.json"
         },
         {
-            "plot": "I Simpson (The Simpsons) \u00e8 una popolare sitcom animata creata dal fumettista statunitense Matt Groening alla fine degli anni ottanta per la Fox Broadcasting Company. \u00c8 una parodia satirica della societ\u00e0 e dello stile di vita statunitensi, personificati dalla famiglia protagonista, di cui fanno parte Homer, Marge e i loro tre figli Bart, Lisa e Maggie. Ambientato in una cittadina statunitense chiamata Springfield, lo show tratta in chiave umoristica molti aspetti della condizione umana, cos\u00ec come la cultura, la societ\u00e0 in generale e la stessa televisione.",
+            "plot": "I Simpson (The Simpsons) è una popolare sitcom animata creata dal fumettista statunitense Matt Groening alla fine degli anni ottanta per la Fox Broadcasting Company. È una parodia satirica della societ\u00e0 e dello stile di vita statunitensi, personificati dalla famiglia protagonista, di cui fanno parte Homer, Marge e i loro tre figli Bart, Lisa e Maggie. Ambientato in una cittadina statunitense chiamata Springfield, lo show tratta in chiave umoristica molti aspetti della condizione umana, cos\u00ec come la cultura, la societ\u00e0 in generale e la stessa televisione.",
             "title": "I Simpson",
             "saga": "I Simpson",
             "year": "1989",
@@ -460,12 +541,12 @@
             "url": "/ANIMAZIONE/anime/simpson_list.json"
         },
         {
-            "plot": "Jules Verne \u00e8 un ragazzo di 20 anni, molto educato che ama scrivere. Va all'universit\u00e0 per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrer\u00e0 tutto il suo coraggio e la sua astuzia e si innamorer\u00e0 di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatter\u00e0 nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
+            "plot": "Jules Verne è un ragazzo di 20 anni, molto educato che ama scrivere. Va all'universit\u00e0 per studiare giurisprudenza per volere del padre ma quasi sempre salta le lezioni per seguire Artemius Lucas, direttore del giornale Contes du Voyage, e i suoi collaboratori nei loro fantastici viaggi. Qui Jules dimostrer\u00e0 tutto il suo coraggio e la sua astuzia e si innamorer\u00e0 di Amelie Lucas, figlia di Artemius. Negli innumerevoli viaggi, Jules si imbatter\u00e0 nel Capitano Nemo, un uomo che ha avuto un passato difficile e che vuole conquistare il mondo.",
             "title": "I viaggi di Giulio Verne",
             "saga": "I viaggi di Giulio Verne",
             "year": "2013",
             "tmdb_id": "86722",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/verne_list.json"
         },
         {
@@ -474,7 +555,7 @@
             "saga": "Il principe dei draghi",
             "year": "2018",
             "tmdb_id": "81046",
-            "genre": ["Azione e Avventura", "Fantaschenza & Fantasia", "Animazione", "Famiglia"],
+            "genre": ["Azione e Avventura", "Fantascienza e Fantasia", "Animazione", "Famiglia"],
             "url": "/ANIMAZIONE/anime/draghi_list.json"
         },
         {
@@ -483,11 +564,11 @@
             "saga": "Imbarchiamoci in un grande viaggio",
             "year": "1998",
             "tmdb_id": "4213",
-            "genre": ["Kids", "Animazione", "Documentario", "Famiglia"],
+            "genre": ["Bambini", "Animazione", "Documentario", "Famiglia"],
             "url": "/ANIMAZIONE/anime/viaggio_list.json"
         },
         {
-            "plot": "Iron Man \u00e8 una serie televisiva a cartoni animati basata sull'omonimo personaggio della casa editrice Marvel; \u00e8 stata prodotta nel 1994 dai Marvel Studios, dalla TMS Entertainment e dalla New World Television; si compone di due stagioni per un totale di 26 episodi. Le due stagioni della serie, prodotte in due tempi, si differenziano notevolmente.",
+            "plot": "Iron Man è una serie televisiva a cartoni animati basata sull'omonimo personaggio della casa editrice Marvel; è stata prodotta nel 1994 dai Marvel Studios, dalla TMS Entertainment e dalla New World Television; si compone di due stagioni per un totale di 26 episodi. Le due stagioni della serie, prodotte in due tempi, si differenziano notevolmente.",
             "title": "Iron Man",
             "saga": "Iron Man",
             "year": "1994",
@@ -505,7 +586,7 @@
             "url": "/ANIMAZIONE/anime/armored_list.json"
         },
         {
-            "plot": "Il professor Shiba, noto scienziato giapponese, durante una ricerca archeologica, scopre una antica campana di bronzo appartenuta all'antico popolo Yamatai, soggetto alla perfida regina Himika. Una popolazione che ha sempre fatto come regola di vita la sopraffazione dell'uomo sull'uomo. Il popolo Yamatai non si \u00e8 estinto, si \u00e8 ibernato nella roccia in attesa di ritornare in vita: solo la magica campana di bronzo gli permetterebbe di conquistare il mondo: per questo il professore decide di nascondere la campana e approfittando di un grave incidente di laboratorio in cui viene disgraziatamente coinvolto suo figlio Hiroshi, gli miniaturizza nel petto la campana, rendendolo invulnerabile.",
+            "plot": "Il professor Shiba, noto scienziato giapponese, durante una ricerca archeologica, scopre una antica campana di bronzo appartenuta all'antico popolo Yamatai, soggetto alla perfida regina Himika. Una popolazione che ha sempre fatto come regola di vita la sopraffazione dell'uomo sull'uomo. Il popolo Yamatai non si è estinto, si è ibernato nella roccia in attesa di ritornare in vita: solo la magica campana di bronzo gli permetterebbe di conquistare il mondo: per questo il professore decide di nascondere la campana e approfittando di un grave incidente di laboratorio in cui viene disgraziatamente coinvolto suo figlio Hiroshi, gli miniaturizza nel petto la campana, rendendolo invulnerabile.",
             "title": "Jeeg Robot d'Acciaio",
             "saga": "Jeeg Robot d'Acciaio",
             "year": "1975",
@@ -514,7 +595,7 @@
             "url": "/ANIMAZIONE/anime/jeeg_list.json"
         },
         {
-            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'\u00e8 da questa ragazza pi\u00f9 grande, la quale \u00e8 oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento.  Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
+            "plot": "La storia parla d'una ragazza che lotta per poter diventare una buona tennista: vengono raccontate le avventure sportive e l'amore contrastato di Hiromi (Jenny in italiano), una timida studentessa appassionata di tennis. Inizia a giocare appena entrata al liceo; all'arrivo al prestigioso club cade per\u00f2 immediatamente in soggezione davanti a Reika. Cerca di imitarla e prendere esempio da lei, affascinata com'è da questa ragazza pi\u00f9 grande, la quale è oltretutto la miglior giocatrice della squadra scolastica, conosciuta anche come \"Madame Butterfly\" per la grazia del suo gioco. Pratica con costanza e con grande forza di volont\u00e0 i corsi di tennis, sport che lei adora, per poter arrivare a partecipare ai tornei pi\u00f9 prestigiosi, e cos\u00ec realizzare il suo sogno di emulare Reika, che tanto stima e ammira. Viene ben presto riconosciuto il suo indubbio e personalissimo talento.  Quando la squadra giunger\u00e0 ad avere un nuovo allenatore, questi s'accorger\u00e0 immediatamente del potenziale insito in lei e inizia allora ad addestrarla intensamente per farla diventare una grande campionessa; ma ben presto la ragazza s'innamora: spinta da Jin (Jeremy in italiano) a sacrificare la vita privata in cambio dell'affermazione in campo sportivo, Jenny trascura il proprio amore per Teddy, il miglior giocatore del club maschile. Ma di questo ne soffre intensamente. La sua improvvisa salita alla ribalta ha intanto provocato l'inevitabile gelosia degli altri: Jenny deve affrontare ogni giorno l'invidia e l'astio nei suoi confronti da parte delle altre giocatrici, soprattutto Evelyn, esclusa dal torneo da Jeremy a favore di Jenny, tanto da essere oggetto di pettegolezzi, molestie e maldicenze.",
             "title": "Jenny la tennista",
             "saga": "Jenny la tennista",
             "year": "1973",
@@ -523,12 +604,12 @@
             "url": "/ANIMAZIONE/anime/jenny_list.json"
         },
         {
-            "plot": "La storia \u00e8 ambientata nel XVII secolo. Jolanda \u00e8 l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
+            "plot": "La storia è ambientata nel XVII secolo. Jolanda è l'intrepida e combattiva giovane figlia del Corsaro Nero, un nobile datosi alla pirateria per combattere contro l'oppressione del duca Wan Guld, governatore della colonia spagnola di Maracaibo, citt\u00e0 del Mar dei Caraibi. Il Corsaro Nero e i suoi fratelli, il Corsaro Rosso e il Corsaro Verde, sono stati sconfitti e uccisi quando Jolanda era bambina, ma un giorno la protagonista riceve la visita del fantasma del padre, il quale le chiede di riprendere la sua lotta e rintracciare un leggendario tesoro nascosto, col quale porre fine alla miseria della popolazione oppressa da Wan Guld. Per trovare il tesoro occorrono tre oggetti magici: la pietra nera, lo scettro rosso e la mappa verde, appartenuti in passato proprio al Corsaro Nero e ai suoi fratelli. Anche il duca Wan Guld si metter\u00e0 per\u00f2 alla ricerca del tesoro, e Jolanda per contrastarlo entrer\u00e0 a far parte dei Fratelli della Costa, in particolare il capitano pirata Morgan e la sua ciurma, che navigano sulla Folgore, un tempo nave del Corsaro Nero.",
             "title": "Jolanda la figlia del Corsaro Nero",
             "saga": "Jolanda la figlia del Corsaro Nero",
             "year": "1999",
             "tmdb_id": "96080",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/jolanda_list.json"
         },
         {
@@ -541,21 +622,21 @@
             "url": "/ANIMAZIONE/anime/jwna_list.json"
         },
         {
-            "plot": "La serie \u00e8 un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
+            "plot": "La serie è un prequel di Ken il guerriero e narra le avventure dello zio di Kenshiro, che porta lo stesso nome, nell'Asia della fine degli anni trenta, proprio quando le tensioni mondiali stanno per esplodere dando origine alla seconda guerra mondiale.",
             "title": "Ken il guerriero: Le origini del mito",
             "saga": "Ken il guerriero: Le origini del mito",
             "year": "2006",
             "tmdb_id": "68203",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/mito_list.json"
         },
         {
-            "plot": "Siamo alla fine del XX secolo. Il mondo intero \u00e8 sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civilt\u00e0 e la pi\u00f9 totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ci\u00f2 che incontrano. In questo scenario si muove Kenshiro, 64\u00b0 successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verr\u00e0 rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
+            "plot": "Siamo alla fine del XX secolo. Il mondo intero è sconvolto dalle esplosioni atomiche. Sulla faccia della terra, gli oceani erano scomparsi, e le pianure avevano l'aspetto di desolati deserti. Tuttavia, la razza umana era sopravvissuta. Un conflitto mondiale alla fine del XX secolo ha comportato il collasso della moderna civilt\u00e0 e la pi\u00f9 totale devastazione ambientale. I sopravvissuti all'olocausto nucleare si sono ridotti a vivere in piccoli assembramenti urbani in oasi in mezzo al deserto, assediati da bande di predoni, che saccheggiano e distruggono tutto ci\u00f2 che incontrano. In questo scenario si muove Kenshiro, 64\u00b0 successore della scuola di arti marziali \"Divina Scuola di Hokuto\", l'Hokuto Shinken. Questa tecnica di combattimento si ispira vagamente ai principi dell'agopuntura e sortisce effetti devastanti, o, al caso, di controllo sul corpo e/o guarigione, convogliando l'\"energia\" del praticante in particolari \"punti di pressione\" dell'avversario (detti tsubo). Se inizialmente lo scopo di Kenshiro sembra solo la lotta per potersi ricongiungere con la propria fidanzata rapita, ben presto verr\u00e0 rivelato che il ragazzo ha nelle sue mani il destino di coloro che sono scampati alla catastrofe.",
             "title": "Ken il guerriero",
             "saga": "Ken il guerriero",
             "year": "1984",
             "tmdb_id": "56387",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/ken_list.json"
         },
         {
@@ -564,11 +645,11 @@
             "saga": "L'Attacco Dei Giganti",
             "year": "2013",
             "tmdb_id": "1429",
-            "genre": ["Fantaschenza & Fantasia", "Animazione", "Azione e Avventura"],
+            "genre": ["Fantascienza e Fantasia", "Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/titan_list.json"
         },
         {
-            "plot": "L'incantevole Creamy \u00e8 una serie televisiva animazione di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove \u00e8 considerata uno dei cartoni animati di maggior successo. L'animazione gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione. Tokyo - 1\u00ba luglio 1983, quartiere di Kurimigaoka. Y\u016b Morisawa, bambina vivace, fantasiosa e piena di sogni, grazie a queste sue qualit\u00e0 riesce a scorgere nel cielo un'arca di cristallo, che pochissime altre persone al mondo sembrano riuscire a vedere. Il folletto Pinopino, proveniente dal pianeta Stella Piumata, per ringraziare Y\u016b di aver liberato l'arca da una tempesta di sogni, le dona un medaglione magico (a forma di portacipria) che le consentir\u00e0 di avere poteri fantastici. Questo regalo, l'avverte Pinopino, dovr\u00e0 essere restituito dopo un anno. Lo strano esserino lascia sulla Terra anche due creature della Stella Piumata, Posi e Nega, dalle sembianze di due gattini, che veglieranno su Y\u016b e l'aiuteranno a usare i suoi nuovi poteri...",
+            "plot": "L'incantevole Creamy è una serie televisiva animazione di genere mah\u014d sh\u014djo, prodotta dalla Pierrot e trasmessa in Giappone dal 1983 al 1984 e conosciuta anche in Italia, dove è considerata uno dei cartoni animati di maggior successo. L'animazione gode anche di una trasposizione manga, distribuita dalla K\u014ddansha parallelamente alla trasmissione. Tokyo - 1\u00ba luglio 1983, quartiere di Kurimigaoka. Y\u016b Morisawa, bambina vivace, fantasiosa e piena di sogni, grazie a queste sue qualit\u00e0 riesce a scorgere nel cielo un'arca di cristallo, che pochissime altre persone al mondo sembrano riuscire a vedere. Il folletto Pinopino, proveniente dal pianeta Stella Piumata, per ringraziare Y\u016b di aver liberato l'arca da una tempesta di sogni, le dona un medaglione magico (a forma di portacipria) che le consentir\u00e0 di avere poteri fantastici. Questo regalo, l'avverte Pinopino, dovr\u00e0 essere restituito dopo un anno. Lo strano esserino lascia sulla Terra anche due creature della Stella Piumata, Posi e Nega, dalle sembianze di due gattini, che veglieranno su Y\u016b e l'aiuteranno a usare i suoi nuovi poteri...",
             "title": "L'incantevole Creamy",
             "saga": "L'incantevole Creamy",
             "year": "1983",
@@ -577,7 +658,7 @@
             "url": "/ANIMAZIONE/anime/creamy_list.json"
         },
         {
-            "plot": "L'incredibile Hulk (The Incredible Hulk) \u00e8 una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie \u00e8 stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk \u00e8 di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
+            "plot": "L'incredibile Hulk (The Incredible Hulk) è una serie televisiva a cartoni animati basata sul fumetto omonimo della Marvel Comics. La serie è stata prodotta nel 1996 dalla Genesis Entertainment e dai Marvel Studios, e si compone di due stagioni per un totale di ventuno episodi da 22 minuti l'uno. In originale la voce di Hulk è di Lou Ferrigno, storico interprete del personaggio nell'omonima serie tv. Nella serie appaiono anche i personaggi di She-Hulk e Doc Samson, mentre ci sono numerose guest-star dall'universo Marvel tra i quali Iron Man, War Machine, Thor, Dottor Strange, Ghost Rider e persino I Fantastici 4.",
             "title": "L'Incredibile Hulk",
             "saga": "L'Incredibile Hulk",
             "year": "1996",
@@ -586,12 +667,12 @@
             "url": "/ANIMAZIONE/anime/hulk_list.json"
         },
         {
-            "plot": "Siamo in un imprecisato futuro, in cui la societ\u00e0 terrestre ha risolto in parte il problema dell'inquinamento atmosferico colonizzando la Luna e Marte, in cui le industrie terrestri si sono trasferite ed hanno costruito ogni genere di fabbriche e magazzini, che garantiscono, mediante le spedizioni settimanali delle astronavi alla Terra, il sostentamento del genere umano. Watta Takeo, il protagonista, \u00e8 un ragazzino di dodici anni che dopo la morte del padre eredita dal genitore la Takeo General Company, una piccola ditta che si occupa di consegne spaziali, effettuate mediante una grande astronave, il Trider; in realt\u00e0 la forma originale del Trider \u00e8 quella di un gigantesco robot da combattimento, che solitamente viene custodito in un bunker al di sotto di un parco giochi, al centro del quale c'\u00e8 proprio la testa del Rrobot, che sporge all'esterno.",
+            "plot": "Siamo in un imprecisato futuro, in cui la societ\u00e0 terrestre ha risolto in parte il problema dell'inquinamento atmosferico colonizzando la Luna e Marte, in cui le industrie terrestri si sono trasferite ed hanno costruito ogni genere di fabbriche e magazzini, che garantiscono, mediante le spedizioni settimanali delle astronavi alla Terra, il sostentamento del genere umano. Watta Takeo, il protagonista, è un ragazzino di dodici anni che dopo la morte del padre eredita dal genitore la Takeo General Company, una piccola ditta che si occupa di consegne spaziali, effettuate mediante una grande astronave, il Trider; in realt\u00e0 la forma originale del Trider è quella di un gigantesco robot da combattimento, che solitamente viene custodito in un bunker al di sotto di un parco giochi, al centro del quale c'è proprio la testa del Rrobot, che sporge all'esterno.",
             "title": "L'Indistruttibile Robot Trider G7",
             "saga": "L'Indistruttibile Robot Trider G7",
             "year": "1980",
             "tmdb_id": "20213",
-            "genre": ["Animazione", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/trider_list.json"
         },
         {
@@ -615,7 +696,7 @@
             "url": "/ANIMAZIONE/anime/mohicani_list.json"
         },
         {
-            "plot": "Lady Oscar \u00e8 una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale \u00e8 spesso abbreviato dai fan giapponesi in Berubara. La serie \u00e8 ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
+            "plot": "Lady Oscar è una serie televisiva animata prodotta dalla Tokyo Movie Shinsha nel 1979, diretta da Tadao Nagahama e Osamu Dezaki. Il titolo originale è spesso abbreviato dai fan giapponesi in Berubara. La serie è ambientata in Francia, negli ultimi anni dell'Ancien R\u00e9gime, e racconta in maniera dettagliata la vita nella corte di Versailles e gli anni della rivoluzione del 1789.",
             "title": "Lady Oscar",
             "saga": "Lady Oscar",
             "year": "1979",
@@ -629,11 +710,11 @@
             "saga": "Le avventure di Super Mario",
             "year": "1990",
             "tmdb_id": "14396",
-            "genre": ["Famiglia", "Animazione", "Kids"],
+            "genre": ["Famiglia", "Animazione", "Bambini"],
             "url": "/ANIMAZIONE/anime/mario_list.json"
         },
         {
-            "plot": "Cricchetto racconta a Saetta che una volta faceva lo Stunt man e il suo pseudonimo era Cricchetto audace d'impatto (nei fumetti Cricchetto il magnifico), si faceva chiamare cos\u00ec perch\u00e9 la sua prima impresa era stata un salto da una rampa e doveva saltare una lunghissima fila di automobili, per\u00f2 non riuscendo ha camminato sui tettucci delle auto. Ma la sua pi\u00f9 grande impresa fu il \"Salto di Carburator Canyon\" (dover saltare con Saetta il canyon locale della Contea di Carburator con dei razzi legati); Saetta parte ma i suoi razzi a met\u00e0 salto si spengono. Il tutto termina con Saetta che chiede: \u00abCom'\u00e8 finita?\u00bb, e Cricchetto: \u00abC'hai lasciato i cerchioni\u00bb.",
+            "plot": "Cricchetto racconta a Saetta che una volta faceva lo Stunt man e il suo pseudonimo era Cricchetto audace d'impatto (nei fumetti Cricchetto il magnifico), si faceva chiamare cos\u00ec perch\u00e9 la sua prima impresa era stata un salto da una rampa e doveva saltare una lunghissima fila di automobili, per\u00f2 non riuscendo ha camminato sui tettucci delle auto. Ma la sua pi\u00f9 grande impresa fu il \"Salto di Carburator Canyon\" (dover saltare con Saetta il canyon locale della Contea di Carburator con dei razzi legati); Saetta parte ma i suoi razzi a met\u00e0 salto si spengono. Il tutto termina con Saetta che chiede: \u00abCom'è finita?\u00bb, e Cricchetto: \u00abC'hai lasciato i cerchioni\u00bb.",
             "title": "Le incredibili storie di Carl Attrezzi",
             "saga": "Le incredibili storie di Carl Attrezzi",
             "year": "1984",
@@ -646,7 +727,7 @@
             "title": "LEGO Jurassic World: Legend of Isla Nublar",
             "saga": "LEGO Jurassic World: Legend of Isla Nublar",
             "year": "2019",
-            "genre": ["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Famiglia", "Bambini", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/legoJurassic_list.json"
         },
         {
@@ -664,11 +745,11 @@
             "saga": "Martin Mystere",
             "year": "2003",
             "tmdb_id": "140",
-            "genre": ["Azione & Avventura", "Fantascienza & Fantasia", "Animazione"],
+            "genre": ["Azione e Avventura", "Fantascienza e Fantasia", "Animazione"],
             "url": "/ANIMAZIONE/anime/martin_list.json"
         },
         {
-            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) \u00e8 una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo \u00e8 irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
+            "plot": "Kozue Ayuhara (Mim\u00ec Ayuhara nell'adattamento italiano) è una studentessa del ginnasio appassionata di pallavolo, sport che l'ha aiutata a guarire quand'era una bambina dalla tubercolosi. A causa dell'aggravamento improvviso delle sue condizioni di salute, si trasferisce da Tokyo in una cittadina di mare dall'aria salubre, per cercare di ristabilirsi completamente. In un primo momento vive con lo zio e la moglie, sino a che suo padre viene trasferito per motivi di lavoro. Superata l'ostilit\u00e0 iniziale da parte di alcune compagne, il suo notevole talento impressiona l'allenatore. Mim\u00ec scoprir\u00e0 presto che la strada verso il successo è irta di ostacoli (stress, incompatibilit\u00e0 personali ed altri dilemmi). Mim\u00ec dovr\u00e0 percorrere un difficoltoso cammino ed allenamenti durissimi, ma riuscir\u00e0 comunque a farcela, per merito soprattutto della sua positiva ambizione, anche quando a volte le complicazioni causate dalle varie situazioni sembrano davvero essere senza speranza. Spesso affonda addirittura nell'autocommiserazione, ma nonostante tutto non si arrende mai.",
             "title": "Mim\u00ec e la nazionale di pallavolo",
             "year": "1969",
             "tmdb_id": "46348",
@@ -681,11 +762,11 @@
             "saga": "Gundam",
             "year": "1995",
             "tmdb_id": "21730",
-            "genre": ["Animazione", "Azione & Avventura", "Drammatico", "Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Drammatico", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/gundam_list.json"
         },
         {
-            "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray \u00e8 un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
+            "plot": "Per risolvere il problema del sovraffollamento e della carenza energetica sulla Terra, l'umanit\u00e0 ha iniziato a colonizzare lo spazio, creando un numero di insediamenti denominati Side, e dando cos\u00ec inizio all'epoca conosciuta come Universal Century. Nell'anno U.C. 79 la colonia di Side 3, Zeon, dichiara la sua indipendenza dalla Federazione Terrestre, segnando il debutto della guerra di un anno. Amuro Ray è un ragazzo che vive a Side 7, una colonia fino a quel punto risparmiata dalla guerra, ma scelta dalla Federazione per svolgere un programma militare segreto. Quando le forze di Zeon vengono a sapere delle intenzioni dei federali, inviano una squadra di robot da combattimento mobile suit per intralciare i loro piani. Nei combattimenti che seguono su Side 7, Amuro scopre il prototipo di mobile suit terrestre RX-78 Gundam e riesce istintivamente a pilotarlo per distruggere gli attaccanti, mettendo in fuga perfino l'asso militare di Zeon, Char Aznable. In seguito, Amuro entra nell'esercito tra le fila dell'equipaggio della corazzata spaziale Base Bianca, punta di diamante delle forze della Federazione e costante spina nel fianco di Zeon, e diviene un pilota esperto. Egli inoltre sviluppa delle abilit\u00e0 latenti da newtype, poteri psichici nati dall'evoluzione dell'uomo nello spazio.",
             "title": "Mobile Suit Gundam - The Origin",
             "saga": "Gundam",
             "year": "2015",
@@ -694,7 +775,7 @@
             "url": "/ANIMAZIONE/anime/origin_list.json"
         },
         {
-            "plot": "Dopo la battaglia di A Baoa Qu, che segn\u00f2 la capitolazione dell'esercito del Principato di Zeon e la vittoria della Federazione Terrestre nella Guerra di un anno, un gruppo di militari al comando dell'Ammiraglio Aguille Delaz, tra cui l'asso Anavel Gato, riusc\u00ec a sottrarsi alla disfatta, giurando di vendicare la sconfitta in un secondo tempo. Tre anni dopo, la corazzata federale di classe Pegasus denominata Albion, agli ordini del Capitano Ayper Synaps, parte per una missione segretissima verso la base australiana di Torrington, recando a bordo due nuovi modelli sperimentali di Gundam, il GP01 Zephyrantes ed il GP02A Physalis, quest'ultimo realizzato per fare uso di armi atomiche, vietate sin dalla firma del Trattato del Polo Sud. Grazie ad alcune spie infiltrate all'Anaheim, i superstiti di Zeon sono venuti a sapere del progetto e Anavel Gato riesce ad introdursi nella base federale ed a trafugare il mobil suit. Al furto assistono, tra gli altri, Nina Purpleton (ingegnere dell'Anaheim e progettista dei due prototipi di Gundam) ed il cadetto K\u014d Uraki, che d'impulso sale sul GP01 per cercare di bloccare Gato. Bench\u00e9 dotato di talento, Uraki \u00e8 troppo inesperto rispetto ad un veterano come Gato, che riesce a fuggire dalla base col GP02A.",
+            "plot": "Dopo la battaglia di A Baoa Qu, che segn\u00f2 la capitolazione dell'esercito del Principato di Zeon e la vittoria della Federazione Terrestre nella Guerra di un anno, un gruppo di militari al comando dell'Ammiraglio Aguille Delaz, tra cui l'asso Anavel Gato, riusc\u00ec a sottrarsi alla disfatta, giurando di vendicare la sconfitta in un secondo tempo. Tre anni dopo, la corazzata federale di classe Pegasus denominata Albion, agli ordini del Capitano Ayper Synaps, parte per una missione segretissima verso la base australiana di Torrington, recando a bordo due nuovi modelli sperimentali di Gundam, il GP01 Zephyrantes ed il GP02A Physalis, quest'ultimo realizzato per fare uso di armi atomiche, vietate sin dalla firma del Trattato del Polo Sud. Grazie ad alcune spie infiltrate all'Anaheim, i superstiti di Zeon sono venuti a sapere del progetto e Anavel Gato riesce ad introdursi nella base federale ed a trafugare il mobil suit. Al furto assistono, tra gli altri, Nina Purpleton (ingegnere dell'Anaheim e progettista dei due prototipi di Gundam) ed il cadetto K\u014d Uraki, che d'impulso sale sul GP01 per cercare di bloccare Gato. Bench\u00e9 dotato di talento, Uraki è troppo inesperto rispetto ad un veterano come Gato, che riesce a fuggire dalla base col GP02A.",
             "title": "Mobile Suit Gundam 0083: Stardust Memory",
             "saga": "Gundam",
             "year": "1991",
@@ -703,7 +784,7 @@
             "url": "/ANIMAZIONE/anime/0083_list.json"
         },
         {
-            "plot": "U.C. 0001 La colonizzazione dello spazio sta per dare inizio a una nuova era. Tuttavia, durante la cerimonia del cambio di calendario la colonia spaziale di Laplace, residenza ufficiale del Primo Ministro della Federazione Terrestre, viene ridotta in frantumi da un attacco terroristico. Un giovane di nome Syam Vist, entrato a far parte dei terroristi dopo essere caduto in miseria, viene coinvolto nell'esplosione, scoprendo la presenza di qualcosa tra le macerie. U.C. 0096. La colonia manifatturiera Industrial 7 \u00e8 in fase di completamento e fluttua nell'orbita di Lagrange Point 1. Un giovane di nome Banagher Links, cresciuto senza alcun ricordo di suo padre, incontra Audrey Burne, una misteriosa fanciulla imbarcata clandestinamente su una nave diretta verso la colonia. Mentre un misterioso Mobile Suit bianco viene sottoposto a innumerevoli test, i portavoce di Neo Zeon si infiltrano all'interno della colonia alla ricerca di qualcosa di importante. Banagher non sa ancora di essere stato coinvolto nelle oscure macchinazioni che circonderanno lo Scrigno di Laplace, e presto entrer\u00e0 in contatto con quello che viene definito la chiave dello Scrigno, l'Unicorn Gundam.",
+            "plot": "U.C. 0001 La colonizzazione dello spazio sta per dare inizio a una nuova era. Tuttavia, durante la cerimonia del cambio di calendario la colonia spaziale di Laplace, residenza ufficiale del Primo Ministro della Federazione Terrestre, viene ridotta in frantumi da un attacco terroristico. Un giovane di nome Syam Vist, entrato a far parte dei terroristi dopo essere caduto in miseria, viene coinvolto nell'esplosione, scoprendo la presenza di qualcosa tra le macerie. U.C. 0096. La colonia manifatturiera Industrial 7 è in fase di completamento e fluttua nell'orbita di Lagrange Point 1. Un giovane di nome Banagher Links, cresciuto senza alcun ricordo di suo padre, incontra Audrey Burne, una misteriosa fanciulla imbarcata clandestinamente su una nave diretta verso la colonia. Mentre un misterioso Mobile Suit bianco viene sottoposto a innumerevoli test, i portavoce di Neo Zeon si infiltrano all'interno della colonia alla ricerca di qualcosa di importante. Banagher non sa ancora di essere stato coinvolto nelle oscure macchinazioni che circonderanno lo Scrigno di Laplace, e presto entrer\u00e0 in contatto con quello che viene definito la chiave dello Scrigno, l'Unicorn Gundam.",
             "title": "Mobile Suit Gundam Unicorn",
             "saga": "Gundam",
             "year": "2010",
@@ -712,7 +793,7 @@
             "url": "/ANIMAZIONE/anime/unicorn_list.json"
         },
         {
-            "plot": "Il giovane tenente federale Shiro Amada viene assegnato sulla Terra al comando di un plotone dei nuovi mobile suit della Federazione Terrestre, gli RX-79G Gundam, sviluppati dal famoso prototipo RX-78. Durante il trasferimento dallo spazio lo shuttle su cui viaggia viene coinvolto in un combattimento tra uno Zaku di Zeon ed un GM federale, cui lo stesso tenente Amada prende parte a bordo di un Ball. Finir\u00e0 cos\u00ec per conoscere il pilota dello Zaku, l'affascinante Inah Sakhalin, con cui si ritrova disperso nello spazio in attesa di soccorsi. La serie narra quindi le vicende dell'8\u00ba Plotone Mobile Suit, impegnato nella giungla del Sud-est asiatico a scovare una base segreta in cui Zeon sta sperimentando il nuovo terribile mobile armor Apsaras, intrecciandole con quelle degli stessi zeoniani di stanza nella base, tra i quali proprio Inah, sorella dello scienziato Ginius Sakhalin, a capo del progetto. L'asse intorno al quale ruota la trama \u00e8 quindi la storia d'amore che nasce tra Shiro Amada e Inah Sakhalin, attraverso la quale viene ulteriormente approfondita l'assurda tragedia della guerra.",
+            "plot": "Il giovane tenente federale Shiro Amada viene assegnato sulla Terra al comando di un plotone dei nuovi mobile suit della Federazione Terrestre, gli RX-79G Gundam, sviluppati dal famoso prototipo RX-78. Durante il trasferimento dallo spazio lo shuttle su cui viaggia viene coinvolto in un combattimento tra uno Zaku di Zeon ed un GM federale, cui lo stesso tenente Amada prende parte a bordo di un Ball. Finir\u00e0 cos\u00ec per conoscere il pilota dello Zaku, l'affascinante Inah Sakhalin, con cui si ritrova disperso nello spazio in attesa di soccorsi. La serie narra quindi le vicende dell'8\u00ba Plotone Mobile Suit, impegnato nella giungla del Sud-est asiatico a scovare una base segreta in cui Zeon sta sperimentando il nuovo terribile mobile armor Apsaras, intrecciandole con quelle degli stessi zeoniani di stanza nella base, tra i quali proprio Inah, sorella dello scienziato Ginius Sakhalin, a capo del progetto. L'asse intorno al quale ruota la trama è quindi la storia d'amore che nasce tra Shiro Amada e Inah Sakhalin, attraverso la quale viene ulteriormente approfondita l'assurda tragedia della guerra.",
             "title": "Mobile Suit Gundam: The 08th MS Team",
             "saga": "Gundam",
             "year": "1996",
@@ -730,7 +811,7 @@
             "url": "/ANIMAZIONE/anime/zgundam_list.json"
         },
         {
-            "plot": "La protagonista, Miki Koishikawa, \u00e8 una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
+            "plot": "La protagonista, Miki Koishikawa, è una ragazza vivace e spensierata, che passa il suo tempo al liceo con gli amici Meiko e Ginta, con cui divide la passione per il tennis. Un giorno, apprende una pessima notizia: con il sorriso sulle labbra i suoi genitori le comunicano di voler divorziare. Miki rimane totalmente basita quando i genitori aggiungono che avrebbero convissuto in una nuova grande casa con i rispettivi partner, conosciuti alle Hawaii. Uno scambio di coppie in piena regola, che porta nella vita di Miki una specie di fratellastro, Yu Matsura. Miki lo paragoner\u00e0 alla marmellata di arance, che dietro l'aspetto dolce nasconde un retrogusto amaro, e lo soprannominer\u00e0 marmalade boy; Yuu \"ricambier\u00e0 il favore\", soprannominandola mustard girl per via del suo carattere vispo, piccante e pungente come la mostarda. I due superano gli iniziali disaccordi, finendo per fare amicizia. La vita di Miki si complica ulteriormente quando la sua vecchia fiamma, Ginta Suo, si dichiara proprio quando Miki capisce di provare qualcosa di serio per Yuu...",
             "title": "Piccoli Problemi di Cuore ",
             "saga": "Piccoli Problemi di Cuore ",
             "year": "1995",
@@ -739,11 +820,11 @@
             "url": "/ANIMAZIONE/anime/cuore_list.json"
         },
         {
-            "plot": "Principe Valiant (1991) \u00e8 una serie animata canadese/statunitense di due stagioni per 65 episodi, che ha come protagonista l'omonimo personaggio nato dalla penna di Hal Foster. Il cartone animato venne trasmesso in Italia a partire dal 1992 prima su Italia 1 poi su Canale 5, con la sigla cantata da Cristina D'Avena.",
+            "plot": "Principe Valiant (1991) è una serie animata canadese/statunitense di due stagioni per 65 episodi, che ha come protagonista l'omonimo personaggio nato dalla penna di Hal Foster. Il cartone animato venne trasmesso in Italia a partire dal 1992 prima su Italia 1 poi su Canale 5, con la sigla cantata da Cristina D'Avena.",
             "title": "Principe Valiant",
             "saga": "Principe Valiant",
             "year": "1991",
-            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/valiant_list.json"
         },
         {
@@ -770,16 +851,16 @@
             "saga": "Ranma \u00bd",
             "year": "1989",
             "tmdb_id": "57706",
-            "genre": ["Commedia", "Azione & Avventura", "Animazione"],
+            "genre": ["Commedia", "Azione e Avventura", "Animazione"],
             "url": "/ANIMAZIONE/anime/ranma_list.json"
         },
         {
-            "plot": "Rick \u00e8 uno scienziato che si \u00e8 trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
+            "plot": "Rick è uno scienziato che si è trasferito dalla famiglia di sua figlia Beth, una veterinaria e cardiochirurga per equini. Passa la maggior parte del suo tempo inventando vari gadget high-tech e portando con s\u00e9 il giovane nipote Morty (e successivamente la nipote Summer) in pericolose e fantastiche avventure attraverso il loro e altri universi paralleli. Questi eventi, aggiunti alla gi\u00e0 strana famiglia di Morty, gli causano parecchi disagi sia a scuola che nella vita privata.",
             "title": "Rick and Morty",
             "saga": "Rick and Morty",
             "year": "2013",
             "tmdb_id": "60625",
-            "genre": ["Animazione", "Commedia", "Fantaschenza & Fantasia", "Azione e Avventura"],
+            "genre": ["Animazione", "Commedia", "Fantascienza e Fantasia", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/rick_list.json"
         },
         {
@@ -787,7 +868,7 @@
             "title": "Ritorno al Futuro",
             "saga": "Ritorno al Futuro",
             "year": "1991",
-            "genre": ["Animazione", "Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/futuro_list.json"
         },
         {
@@ -796,11 +877,11 @@
             "saga": "Robotech",
             "year": "1985",
             "tmdb_id": "2192",
-            "genre": ["Animazione", "Drammatico", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Drammatico", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/robotech_list.json"
         },
         {
-            "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan \u00e8 pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
+            "plot": "Dopo aver sconfitto Suyodhana e James Brooke, Sandokan è pronto ad affrontare nuovi nemici tra cui il \"Rajah Bianco\".",
             "title": "Sandokan - La tigre ruggisce ancora",
             "saga": "Sandokan - La tigre ruggisce ancora",
             "year": "2001",
@@ -809,7 +890,7 @@
             "url": "/ANIMAZIONE/anime/sandokan_list.json"
         },
         {
-            "plot": "Scuola di polizia (Police Academy) \u00e8 una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato \u00e8 tratto dalla serie cinematografica dei film: Scuola di polizia. La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
+            "plot": "Scuola di polizia (Police Academy) è una serie televisiva a cartoni animati prodotta da Warner Bros e Ruby-Spears Productions nel 1988, composta da 65 episodi sviluppati in due stagioni. Il disegno animato è tratto dalla serie cinematografica dei film: Scuola di polizia. La serie animata si colloca cronologicamente fra il quinto ed il sesto film della serie cinematografica. Venti personaggi furono ricreati ex novo, fra cui una squadra di delegati accademici guidati da Mahoney, un team di cani poliziotti, il Professore ed un fulvo cadetto che spesso intralcia involontariamente le azioni del Capitano Harris.",
             "title": "Scuola di Polizia",
             "saga": "Scuola di Polizia",
             "year": "1988",
@@ -823,11 +904,11 @@
             "saga": "She-Ra, la principessa del potere",
             "year": "1985",
             "tmdb_id": "14755",
-            "genre": ["Azione e Avventura", "Animazione", "Fantaschenza & Fantasia"],
+            "genre": ["Azione e Avventura", "Animazione", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/shera_list.json"
         },
         {
-            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, \u00e8 la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
+            "plot": "Elisabeth von Wittelsbach, che dagli amici si fa chiamare Sissi, è la sedicenne figlia del duca bavarese Max e di sua moglie Ludovica. Di carattere buono e gentile, ma assai ribelle, vive a Possenhofen con la famiglia, circondata da molti amici. Un giorno fa casualmente la conoscenza di Franz, il principe ereditario dell'Impero d'Austria, e fra i due sboccia ben presto l'amore. La relazione sar\u00e0 per\u00f2 molto travagliata, soprattutto per l'opposizione dell'imperatrice Sofia, madre di Franz, e per gli intrighi del consigliere Zottornick e del conte Arkas, i quali mirano a impossessarsi del potere. Sostenuti da numerosi amici, come l'orfanello Tommy, i due protagonisti vivranno numerose avventure attraverso la turbolenta Europa del XIX secolo, finiscono addirittura in mezzo alla guerra tra l'Austria e i ribelli ungheresi guidati dal colonnello Gyula Andr\u00e1ssy, inseguendo sempre il desiderio di coronare il loro sogno d'amore.",
             "title": "Sissi",
             "saga": "Sissi",
             "year": "1997",
@@ -838,19 +919,19 @@
         {
             "plot": "Quattordici anni dopo la fondazione del malvagio Impero Galattico, un gruppo eterogeneo di ribelli, intenti a sabotarlo, si unisce a bordo di un'astronave cargo di nome Spettro, gettando le fondamenta della futura Alleanza Ribelle.",
             "title": "Star Wars Rebels",
-            "saga": "Star Wars Rebels",
+            "saga": "Star Wars",
             "year": "2014",
             "tmdb_id": "60554",
             "genre": ["Azione e Avventura", "Animazione"],
             "url": "/ANIMAZIONE/anime/rebels_list.json"
         },
         {
-            "plot": "Steins;Gate \u00e8 ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici \u00e8, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
+            "plot": "Steins;Gate è ambientato nel distretto di Akihabara a Tokyo. Il 28 luglio 2010 Rintar\u014d Okabe e la sua amica Mayuri Shiina si dirigono all'edificio Radio Kaikan per una conferenza, luogo in cui Rintar\u014d trova una ragazza di nome Kurisu Makise giacere in una pozza di sangue. Proprio quando invia un messaggio riguardo all'incidente al suo amico Itaru \"Daru\" Hashida, Rintar\u014d sperimenta uno strano fenomeno che fa sparire per un attimo tutte le persone intorno a lui, senza che nessuno si accorga di niente. Pi\u00f9 tardi, dopo aver incontrato per caso una Kurisu stranamente viva e vegeta ed aver scoperto che il messaggio inviato ad Itaru era arrivato una settimana prima di averlo inviato. Rintar\u014d capisce ben presto che il forno a microonde mobile creato da lui e i suoi amici è, in realt\u00e0, una macchina del tempo capace di inviare SMS al passato...",
             "title": "Steins;Gate",
             "saga": "Steins;Gate",
             "year": "2011",
             "tmdb_id": "42509",
-            "genre": ["Animazione", "Azione & Avventura", "Commedia", "Drammatico", "Fantascienza & Fantasia", "Mistero"],
+            "genre": ["Animazione", "Azione e Avventura", "Commedia", "Drammatico", "Fantascienza e Fantasia", "Mistero"],
             "url": "/ANIMAZIONE/anime/stein_list.json"
         },
         {
@@ -859,16 +940,16 @@
             "saga": "Team Galaxy",
             "year": "2006",
             "tmdb_id": "3661",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/galaxy_list.json"
         },
         {
-            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 \u00e8 quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
+            "plot": "Al pianeta Terra rimangono, a seguito dei danni provocati dall\u2019uomo, solo tre anni di vita. L\u2019umanit\u00e0 è quindi prossima all\u2019estinzione, a meno che non si riesca a trovare un nuovo pianeta da colonizzare. Come se ci\u00f2 non bastasse subentrano ad ostacolare le ricerche degli alieni, intenzionati a sterminare l\u2019intera razza umana. Come ultimo baluardo degli abitanti della Terra si erge George Minami, desideroso di vendicare la morte padre, che grazie all\u2019aiuto del robot Pegas, che lo trasformer\u00e0 in Tekkaman, dovr\u00e0 fronteggiare la terribile minaccia aliena\u2026",
             "title": "Tekkaman - Il Cavaliere Dello Spazio",
             "saga": "Tekkaman - Il Cavaliere Dello Spazio",
             "year": "1975",
             "tmdb_id": "35409",
-            "genre": ["Animazione", "Azione & Avventura"],
+            "genre": ["Animazione", "Azione e Avventura"],
             "url": "/ANIMAZIONE/anime/tekkaman_list.json"
         },
         {
@@ -881,7 +962,7 @@
             "url": "/ANIMAZIONE/anime/mask_list.json"
         },
         {
-            "plot": "The Real Ghostbusters \u00e8 una serie televisiva animata americana derivata dal franchise Ghostbusters. La serie \u00e8 andata in onda dal 1986 al 1991 ed \u00e8 stata prodotta da Columbia Pictures Television, DiC Enterprises e Coca-Cola Telecommunications. \"The Real\" \u00e8 stato aggiunto al titolo dopo una disputa con Filmation e le sue propriet\u00e0 Ghost Busters. La serie continua le avventure degli investigatori del paranormale Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, la loro segretaria Janine Melnitz e il loro fantasma mascotte Slimer. C'erano anche due fumetti in corso di Real Ghostbusters, uno pubblicato mensilmente da Now Comics negli Stati Uniti e l'altro pubblicato settimanalmente dalla Marvel Comics nel Regno Unito, e una popolare linea di giocattoli prodotta da Kenner.",
+            "plot": "The Real Ghostbusters è una serie televisiva animata americana derivata dal franchise Ghostbusters. La serie è andata in onda dal 1986 al 1991 ed è stata prodotta da Columbia Pictures Television, DiC Enterprises e Coca-Cola Telecommunications. \"The Real\" è stato aggiunto al titolo dopo una disputa con Filmation e le sue propriet\u00e0 Ghost Busters. La serie continua le avventure degli investigatori del paranormale Dr. Peter Venkman, Dr. Egon Spengler, Dr. Ray Stantz, Winston Zeddemore, la loro segretaria Janine Melnitz e il loro fantasma mascotte Slimer. C'erano anche due fumetti in corso di Real Ghostbusters, uno pubblicato mensilmente da Now Comics negli Stati Uniti e l'altro pubblicato settimanalmente dalla Marvel Comics nel Regno Unito, e una popolare linea di giocattoli prodotta da Kenner.",
             "title": "The Real Ghostbusters - I veri acchiappafantasmi",
             "saga": "The Real Ghostbusters - I veri acchiappafantasmi",
             "year": "1986",
@@ -890,16 +971,16 @@
             "url": "/ANIMAZIONE/anime/real_list.json"
         },
         {
-            "plot": "Tutto inizia quando Fleed, pacifica stella della nebulosa di Vega, dalle avanzate conoscenze scientifiche, viene invasa dall'esercito del malvagio Re Vega, intenzionato ad estendere il proprio dominio su tutta l'intera galassia. Ben presto Fleed cade sotto il dominio delle truppe di Vega, che seminando morte e distruzione, la conquistano. Duke Fleed, principe ereditario della stella che porta il suo nome, viene catturato ed imprigionato mentre la famiglia trova una morte orrenda. Il perfido Re Vega costringe gli scienziati di Fleed ad usare tutte le loro sofisticate tecnologie per creare una terribile macchina da guerra che gli permetta di conquistare l'intero universo: l'astronave-robot ''Goldrake''. Il principe non pu\u00f2 permettere che un arma tanto potente finisca nelle mani di Vega e fuggendo dalla prigione in cui \u00e8 rinchiuso riesce a rubare ''Goldrake''. Vagando per il cosmo Duke Fleed si imbatte nella Terra, un pianeta dall'intenso colore azzurro che ha le stesse condizioni di vita di Fleed. Dopo un atterraggio di fortuna; Duke Fleed viene trovato in fin di vita dal Professor Procton, un brillante scienziato a capo di un istituto di ricerca. Ricevute le giuste cure; il giovane alieno viene \"adottato\" dal Professore, che ne maschera le origini donandogli il nome di ''Actarus'' e presentandolo come il figlio tornato da un lungo viaggio. Nel frattempo ''Goldrake'' viene nascosto nel sottosuolo dell'istituto di ricerche. Tuttavia l'impero di Vega non ha saziato la sua fame di conquista e, visto che la loro stella natale sta per morire, decidono di conquistare la Terra. Comincia cos\u00ec un'estenuante guerra fra alieni e terrestri, che vengono difesi da ''Actarus'' a bordo del ''Goldrake'', difensore estremo della libert\u00e0 del pianeta, che ormai chiama casa.",
+            "plot": "Tutto inizia quando Fleed, pacifica stella della nebulosa di Vega, dalle avanzate conoscenze scientifiche, viene invasa dall'esercito del malvagio Re Vega, intenzionato ad estendere il proprio dominio su tutta l'intera galassia. Ben presto Fleed cade sotto il dominio delle truppe di Vega, che seminando morte e distruzione, la conquistano. Duke Fleed, principe ereditario della stella che porta il suo nome, viene catturato ed imprigionato mentre la famiglia trova una morte orrenda. Il perfido Re Vega costringe gli scienziati di Fleed ad usare tutte le loro sofisticate tecnologie per creare una terribile macchina da guerra che gli permetta di conquistare l'intero universo: l'astronave-robot ''Goldrake''. Il principe non pu\u00f2 permettere che un arma tanto potente finisca nelle mani di Vega e fuggendo dalla prigione in cui è rinchiuso riesce a rubare ''Goldrake''. Vagando per il cosmo Duke Fleed si imbatte nella Terra, un pianeta dall'intenso colore azzurro che ha le stesse condizioni di vita di Fleed. Dopo un atterraggio di fortuna; Duke Fleed viene trovato in fin di vita dal Professor Procton, un brillante scienziato a capo di un istituto di ricerca. Ricevute le giuste cure; il giovane alieno viene \"adottato\" dal Professore, che ne maschera le origini donandogli il nome di ''Actarus'' e presentandolo come il figlio tornato da un lungo viaggio. Nel frattempo ''Goldrake'' viene nascosto nel sottosuolo dell'istituto di ricerche. Tuttavia l'impero di Vega non ha saziato la sua fame di conquista e, visto che la loro stella natale sta per morire, decidono di conquistare la Terra. Comincia cos\u00ec un'estenuante guerra fra alieni e terrestri, che vengono difesi da ''Actarus'' a bordo del ''Goldrake'', difensore estremo della libert\u00e0 del pianeta, che ormai chiama casa.",
             "title": "UFO Robot Goldrake",
             "saga": "Goldrake",
             "year": "1975",
             "tmdb_id": 46252,
-            "genre": ["Animazione", "Azione & Avventura", "Fantascienza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/goldrake_list.json"
         },
         {
-            "plot": "Yota Moteuchi \u00e8 uno studente liceale di 16 anni che a causa di una enorme timidezza e di una gran dose di sfortuna, ha difficolt\u00e0 a rapportarsi con l\u2019altro sesso, venendo cos\u00ec soprannominato da tutti \u201cMotenai Yoda\u201d, ossia \u201csenza donne\u201d (un gioco di parole ottenuto leggendo diversamente gli ideogrammi del suo nome). Il nostro impacciato protagonista \u00e8 follemente innamorato della sua bella compagna di classe Moemi Hayakawa, ma non riesce mai a cogliere il momento opportuno per confidarle il suo amore. Dopo essere riuscito a diventare suo amico, Yota decide di confidare i suoi sentimenti alla ragazza, ma prima di riuscirvi, scopre che Moemi in realt\u00e0 prova una grande attrazione per Takashi Niimai, il suo migliore amico. Allora Yota, dimostrando un incredibile altruismo, decide di non dichiararsi e, addirittura, di aiutare Moemi a conquistare Takashi. Quest\u2019ultimo per\u00f2 \u00e8 a conoscenza dei sentimenti che prova Yota per Moemi e per questo sceglie di respingere la ragazza, pensando di fare cos\u00ec un favore al suo amico.",
+            "plot": "Yota Moteuchi è uno studente liceale di 16 anni che a causa di una enorme timidezza e di una gran dose di sfortuna, ha difficolt\u00e0 a rapportarsi con l\u2019altro sesso, venendo cos\u00ec soprannominato da tutti \u201cMotenai Yoda\u201d, ossia \u201csenza donne\u201d (un gioco di parole ottenuto leggendo diversamente gli ideogrammi del suo nome). Il nostro impacciato protagonista è follemente innamorato della sua bella compagna di classe Moemi Hayakawa, ma non riesce mai a cogliere il momento opportuno per confidarle il suo amore. Dopo essere riuscito a diventare suo amico, Yota decide di confidare i suoi sentimenti alla ragazza, ma prima di riuscirvi, scopre che Moemi in realt\u00e0 prova una grande attrazione per Takashi Niimai, il suo migliore amico. Allora Yota, dimostrando un incredibile altruismo, decide di non dichiararsi e, addirittura, di aiutare Moemi a conquistare Takashi. Quest\u2019ultimo per\u00f2 è a conoscenza dei sentimenti che prova Yota per Moemi e per questo sceglie di respingere la ragazza, pensando di fare cos\u00ec un favore al suo amico.",
             "title": "Video Girl Ai",
             "saga": "Video Girl Ai",
             "year": "1992",
@@ -913,25 +994,25 @@
             "saga": "Walverine e gli X-men",
             "year": "2009",
             "tmdb_id": "6549",
-            "genre": ["Animazione", "Azione e Avventura", "Drammatico", "Fantaschenza & Fantasia"],
+            "genre": ["Animazione", "Azione e Avventura", "Drammatico", "Fantascienza e Fantasia"],
             "url": "/ANIMAZIONE/anime/wolverine_list.json"
         },
         {
-            "plot": "Xiaolin Showdown è una serie televisiva americana animata che va in onda su Kids WB ed è stata creata da Christy Hui. Ambientata in un mondo dove le battaglie di arti marziali e la magia orientale sono all'ordine del giorno, la serie segue quattro giovani guerrieri in formazione che combattono le forze del male. Lo fanno proteggendo Shen Gong Wu dai cattivi che li userebbero per conquistare il mondo.",
+            "plot": "Xiaolin Showdown è una serie televisiva americana animata che va in onda su Bambini WB ed è stata creata da Christy Hui. Ambientata in un mondo dove le battaglie di arti marziali e la magia orientale sono all'ordine del giorno, la serie segue quattro giovani guerrieri in formazione che combattono le forze del male. Lo fanno proteggendo Shen Gong Wu dai cattivi che li userebbero per conquistare il mondo.",
             "title": "Xiaolin Showdown",
-            "saga": "Xiaolin Showdown",
+            "saga": "Xiaolin",
             "year": "2003",
             "tmdb_id": "679",
             "genre": ["Azione e Avventura", "Animazione", "Commedia"],
             "url": "/ANIMAZIONE/anime/xiaolin_list.json"
         },
         {
-            "plot": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo \u00e8 un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode. Il loro compito, da quel momento, sar\u00e0 trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potr\u00e0 ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia cos\u00ec a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porter\u00e0 nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si riveler\u00e0 sbagliata. Ma i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",
+            "plot": "La storia si svolge negli anni '80 in un periodo di tempo lungo alcuni anni. Il terzetto di ladri e truffatori conosciuto come Trio Drombo, il cui simbolo è un teschio, viene contattato e \"arruolato\" dal Dottor Dokrobei, un misterioso e potentissimo personaggio che si presenta loro sempre e solo in voce, collocata all'interno di un oggetto diverso di volta in volta, con impresso un teschio, che poi al termine della spiegazione, esplode. Il loro compito, da quel momento, sar\u00e0 trovare i quattro frammenti della pietra Dokrostone, riuniti i quali si potr\u00e0 ottenere un favoloso tesoro (il gran filone d'oro citato nella sigla italiana). Il Trio Drombo inizia cos\u00ec a organizzare l'ennesima truffa per poter racimolare i soldi necessari alla realizzazione del robot da combattimento che li porter\u00e0 nel luogo dove secondo Dokrobei \"dovrebbe\" esserci un frammento della pietra. Inutile dire che l'intuizione del Dottore nella maggior parte dei casi si riveler\u00e0 sbagliata. Ma i tre non hanno fatto i conti con i paladini della giustizia, gli Yattaman (due ragazzini di nome Ganchan e Janet, detti anche Yatta1 e Yatta2), che scoprono i loro piani e li inseguono con i loro mezzi robot a forma di animali.",
             "title": "Yattaman",
             "saga": "Yattaman",
             "year": "1997",
             "tmdb_id": "53298",
-            "genre": ["Animazione", "Azione & Avventura", "Commedia"],
+            "genre": ["Animazione", "Azione e Avventura", "Commedia"],
             "url": "/ANIMAZIONE/anime/yattaman_list.json"
         }
     ]
