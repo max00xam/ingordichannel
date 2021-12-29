@@ -227,6 +227,213 @@
             "url": "/ANIMAZIONE/anime/johnny_list.json"
         },
         {
+            "plot": "Un medico in famiglia è una serie televisiva animata prodotta da Rai Fiction, Publiglobo, Globomedia e Crea Anima2, ispirata ai personaggi dell'omonima serie televisiva.",
+            "title": "Un Medico in famiglia",
+            "saga": "Un Medico in famiglia",
+            "year": "1998",
+            "genre": ["Commedia", "Famiglia"],
+            "url": "/ANIMAZIONE/anime/medico_list.json",
+            "thumbnail":"/ANIMAZIONE/IMMAGINI/unmedicoinfamiglia.png"
+        },
+        {
+            "plot": "Tatsu, noto e temuto boss della yakuza chiamato \"Il dragone immortale\", si ritira dalla vita criminale e diventa casalingo per aiutare sua moglie Miku. La serie passa da situazioni comiche, che mostrano le attivit\u00e0 domestiche di Tatsu in aperto contrasto con il suo aspetto minaccioso, a incontri con i suoi vecchi \"colleghi\" e rivali del Sindacato criminale giapponese.",
+            "title": "La via del grembiule - Lo yakuza casalingo",
+            "saga": "La via del grembiule - Lo yakuza casalingo",
+            "year": "2021",
+            "tmdb_id": "112160",
+            "genre": ["Animazione", "Commedia"],
+            "url": "/ANIMAZIONE/anime/grembiule_list.json"
+        },
+        {
+            "plot": "La vita del giovane Leonardo.",
+            "title": "Leonardo",
+            "saga": "Leonardo",
+            "year": "2008",
+            "tmdb_id": "99388",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/leo_list.json"
+        },
+        {
+            "plot": "Il filosofo Chuckie Chan, il saggio Kappa-O Joe e l’enigmatica Chick P sono una squadra di prim’ordine di polli esperti di kung fu, che lavorano in incognito per combattere il loro grande nemico, il Dr. Wasabi, e i suoi mostruosi piani per conquistare il mondo. Il trio di eroi dedica la vita alla difesa dei cittadini del Mondo di Wasabi, il piú grande centro commerciale esistente, usando una combinazione di arti marziali, straordinarie capacità high-tech e spirito pungente.",
+            "title": "Polli Kung-fu",
+            "saga": "Polli Kung-fu",
+            "year": "2008",
+            "tmdb_id": "6682",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/polli_list.json"
+        },
+        {
+            "plot": "",
+            "title": "I cavalieri dello zoodiaco",
+            "saga": "I cavalieri dello zoodiaco",
+            "year": "1986",
+            "tmdb_id": "42444",
+            "genre": ["Drammatico", "Azione e Avventura", "Animazione"],
+            "url": "/ANIMAZIONE/anime/saint_list.json"
+        },
+        {
+            "plot": "Un fumettista romano la cui coscienza prende le forme di un armadillo riflette sulla sua vita e un amore mancato mentre con due amici si reca fuori citt\u00e0.",
+            "title": "Strappare lungo i bordi",
+            "saga": "Strappare lungo i bordi",
+            "year": "2021",
+            "tmdb_id": "135918",
+            "genre": ["Animazione", "Drammatico", "Commedia"],
+            "url": "/ANIMAZIONE/anime/bordi_list.json"
+        },
+        {
+            "plot": "Vicky \u00e8 l'unico figlio di Halvar, il formidabile capo vichingo. Vicky rinuncia alla violenza, ma riesce comunque a convincere gli esperti guerrieri vichinghi a portarlo con s\u00e9 nei loro viaggi. In situazioni pericolose, dove il loro coraggio e la loro forza non sono sufficienti a dominare la situazione, i guerrieri dagli occhi selvaggi imparano a contare sull'intelligenza di Vicky.",
+            "title": "Vicky il vichingo",
+            "saga": "Vicky il vichingo",
+            "year": "1974",
+            "tmdb_id": "35257",
+            "genre": ["Animazione"],
+            "url": "/ANIMAZIONE/anime/vicky_list.json"
+        },
+        {
+            "plot": "L'intera Graphic Novel di WATCHMEN prende vita Non hai visto nessun bel libro di recente sullo schermo? Adesso puoi farlo. La più famosa graphic novel di tutti i tempi, dopo aver infranto tutte le convenzioni, continua ad aprire nuove strade. Il co-ideatore ed illustratore di Watchmen, Dave Gibbons, ha supervisionato questa versione in digitale della graphic novel aggiungendo pochi movimenti, voce e suoni alle vignette del libro straordinariamente disegnate. I 12 capitoli della storia sono tutti presenti: oltre 5 ore per raccontare tutto, dalla morte misteriosa del Comico ai destini incrociati dei supereroi genericamente alleati nell’esercitare la loro fatale influenza sul mondo. Informati. Guarda. Con Watchmen: The Complete Motion Comic.",
+            "title": "Watchmen Motion Comic",
+            "saga": "Watchmen Motion Comic",
+            "year": "2008",
+            "tmdb_id": "18096",
+            "genre": ["Animazione", "Drammatico"],
+            "url": "/ANIMAZIONE/anime/watch_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/ANIMAZIONE/anime/101_list.json"
+        },
+        {
             "plot": "",
             "title": "",
             "saga": "",

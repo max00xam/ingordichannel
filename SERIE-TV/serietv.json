@@ -11,13 +11,13 @@
             "url": "/SERIE-TV/serie/_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "Eliza Dushku interpreta una giovane donna di nome Echo, appartenente ad un gruppo di persone, chiamate \"attivi\" o \"doll\", totalmente controllate dalla misteriosa e segreta organizzazione \"Dollhouse\". Le doll sono in realt\u00e0 giovani di ambo i sessi, fisicamente attraenti e atletici, che si sono sottoposti (si suppone volontariamente) ad un procedimento di totale cancellazione dei ricordi delle loro pregresse esperienze di vita. In conseguenza di tale processo, la loro personalit\u00e0 diviene neutra, infantile, ingenua e quasi del tutto assente. La macchina che produce all'annullamento, e grazie a ci\u00f2, permette inoltre alla societ\u00e0 Dollhouse di imprimere a ciascun attivo sempre nuove e distinte personalit\u00e0, in base alle necessit\u00e0 contingenti dell'organizzazione.",
+            "title": "Doll House",
+            "saga": "Doll House",
+            "year": "2009",
+            "tmdb_id": "14956",
+            "genre": ["Fantascienza e Fantasia", "Drammatico", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/doll_list.json"
         },
         {
             "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sar\u00e0 conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'\u00e8 il \"tuttofare\" Mike Erhmantraut.",
