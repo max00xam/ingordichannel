@@ -2,13 +2,112 @@
     "sort":true,
     "tvshows_list": [
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "Una giovane insegnante di un liceo americano inizia una storia segreta con uno dei suoi studenti. Quando la situazione viene a galla nessuno dei due immagina quanti problemi e conseguenze causer\u00e0 la loro relazione illecita, coinvolgendo le persone che li circondano, n\u00e9 quanto complessa e intricata possa diventare la loro vita dal quel momento in poi.",
+            "title": "A Teacher: Una storia sbagliata",
+            "saga": "A Teacher: Una storia sbagliata",
+            "year": "2021",
+            "tmdb_id": "A Teacher: Una storia sbagliata",
+            "genre": ["Drammatico"],
+            "url": "/SERIE-TV/serie/teacher_list.json"
+        },
+        {
+            "plot": "Un commando di ex-combattenti della guerra del Vietnam chiamato A-Team (Squadra A), un tempo appartenenti ai corpi speciali dell'esercito degli Stati Uniti, viene accusato ingiustamente di aver rapinato la banca di Hanoi. Evasi in maniera rocambolesca, vivono ora in fuga, ricercati e braccati dalle autorit\u00e0 per un reato che non hanno mai commesso. I componenti della squadra sopravvivono prestando servizio come mercenari e venendo, nella quasi totalit\u00e0 degli episodi, assoldati da varie persone o gruppi di persone che vivono oppresse da situazioni d'ingiustizia nei propri confronti. Grazie alle qualit\u00e0 militari e umane dell'A-Team, ogni episodio si risolve in maniera definitiva a favore dei pi\u00f9 deboli. Pur essendo visti come mercenari dagli altri personaggi della serie, i membri dell'A-Team sono dunque schierati sempre dalla parte del bene. Famoso \u00e8 il loro furgone GMC Vandura nero e grigio con 2 strisce rosse laterali che si uniscono sullo spoiler superiore, usato come mezzo principale di trasporto dell'A-Team.",
+            "title": "A-Team",
+            "saga": "A-Team",
+            "year": "1983",
+            "tmdb_id": "1516",
+            "genre": ["Azione e Avventura"],
+            "url": "/SERIE-TV/serie/team_list.json"
+        },
+        {
+            "plot": "Ai confini della realtà (The Twilight Zone) \u00e8 una serie televisiva di genere fantascientifico del 1985. La serie \u00e8 ispirata alla serie classica del 1959, creata da Rod Serling e che vide tra gli sceneggiatori Richard Matheson e Ray Bradbury. Questa seconda serie, composta da tre stagioni, fu trasmessa dal 1985 al 1989, e fu seguita da una terza in onda tra il 2002 e il 2003.",
+            "title": "Ai Confini Della Realtà",
+            "saga": "Ai Confini Della Realtà",
+            "year": "1985",
+            "tmdb_id": "5257",
+            "genre": ["Commedia", "Bambini"],
+            "url": "/SERIE-TV/serie/confini_list.json"
+        },
+        {
+            "plot": "Alfred Hitchcock presenta (Alfred Hitchcock Presents) \u00e8 una serie televisiva statunitense andata in onda dal 1985 al 1989 che riprende, aggiornandola, la serie classica creata da Alfred Hitchcock esattamente trent'anni prima (Alfred Hitchcock presenta del 1955). Il regista mor\u00ec prima della messa in onda.\n\nLa serie fu preceduta da un pilot formato da 4 episodi, tutti remake della serie classica. Ogni segmento era introdotto da un filmato colorizzato di Alfred Hitchcock, tratto dalla serie originale.",
+            "title": "Alfred Hitchcock Presenta",
+            "saga": "Alfred Hitchcock Presenta",
+            "year": "1985",
+            "tmdb_id": "2751",
+            "genre": ["Drammatico", "Mistero"],
+            "url": "/SERIE-TV/serie/alfred_list.json"
+        },
+        {
+            "plot": "Archie Bunker, un bigotto della classe operaia, litiga costantemente con la sua famiglia sulle questioni importanti del giorno.",
+            "title": "All in The Family",
+            "saga": "All in The Family",
+            "year": "1971",
+            "tmdb_id": "1922",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/all_list.json"
+        },
+        {
+            "plot": "Una delle serie di maggiore successo degli anni Settanta anche in Italia. La storia \u00e8 quella della famiglia MacAhan, capeggiata dallo zio Zeb, epitome del pioniere del West. Le situazioni sono quelle solite dei film della prateria, ma il serrato montaggio e la partecipazione di molte guest star in ruoli azzeccati (Ricardo Montalban, Christopher Lee, Mel Ferrer) ne fanno un prodotto di grande dignit\u00e0 spettacolare. In USA dur\u00f2 tre stagioni per complessivi ventiquattro episodi di un'ora e mezzo ciascuno.",
+            "title": "Alla conquista del West",
+            "saga": "Alla conquista del West",
+            "year": "1977",
+            "tmdb_id": "2562",
+            "genre": ["Western", "Drammatico"],
+            "url": "/SERIE-TV/serie/west_list.json"
+        },
+        {
+            "plot": "La serie segue le avventure del playboy miliardario\u00a0Oliver Queen\u00a0scomparso per cinque anni perch\u00e9 naufragato su un'isola infernale chiamata \"Lian Yu\" (Purgatorio). Il protagonista, salvatosi riesce a tornare finalmente a casa, a\u00a0Starling City, dove assumer\u00e0 l'identit\u00e0 segreta di\u00a0Arrow, l'Incappucciato\u00a0o il\u00a0Giustiziere\u00a0per combattere il crimine e la corruzione della sua citt\u00e0, seguendo una lista di nomi trovata in una tasca della giacca del padre prima di seppellirlo. Facendo uso delle abilit\u00e0 fisiche, delle tecniche di lotta, dell'incredibile maestria con l'arco e aiutato dal suo braccio destro e confidente\u00a0John Diggle\u00a0e dall'abile informatica\u00a0Felicity Smoak, perseguiter\u00e0 uno ad uno i criminali e i malviventi che minacciano la sua citt\u00e0 e i suoi affetti. La narrazione segue due fili temporali distinti. In ogni episodio accanto alla svolgimento dell'evento relativo viene narrata brevemente ma continuativamente, in\u00a0flashback, la storia degli anni sull'isola, della lotta per la sopravvivenza, delle scelte talora disumane compiute, dei combattimenti contro i malvagi incontrati, e di come tutto ci\u00f2 ha trasformato Oliver in un combattente specializzato ad uccidere. Alla fine della seconda stagione, nei flashback, si apprende che Oliver \u00e8 stato anche ad Hong Kong, in Cina, prima di riuscire a tornare a casa.",
+            "title": "Arrow",
+            "saga": "Arrow",
+            "year": "2012",
+            "tmdb_id": "1412",
+            "genre": ["Azione e Avventura", "Drammatico", "Mistero", "Crimine"],
+            "url": "/SERIE-TV/serie/arrow_list.json"
+        },
+        {
+            "plot": "Arsenio Lupin \u00e8 un elegantissimo \u201cladro gentiluomo\u201d, ruba per s\u00e9 ma anche per i pi\u00f9 bisognosi e sempre e solo ai pi\u00f9 facoltosi. Amante delle donne, del gioco, del lusso e chiaramente del denaro, Lupin \u00e8 caratterizzato da un notevole senso dello humor.",
+            "title": "Arsenio Lupin",
+            "saga": "Arsenio Lupin",
+            "year": "1971",
+            "tmdb_id": "39214",
+            "genre": ["Azione e Avventura"],
+            "url": "/SERIE-TV/serie/lupin_list.json"
+        },
+        {
+            "plot": "Attenti a quei due \u00e8 una serie televisiva britannica ideata e prodotta nel 1970-1971 da Robert S. Baker e trasmessa in Italia nel 1971-1972 in una sola stagione di 24 episodi dalla rete televisiva ITV. La serie si caratterizz\u00f2 ai tempi per il budget altissimo, 100.000 sterline del tempo\n\nI ruoli dei due protagonisti furono affidati a Tony Curtis, nel ruolo del milionario statunitense Daniel Wilde e di Roger Moore, qui nei panni del pari inglese Lord Brett Sinclair",
+            "title": "Attenti a quei due",
+            "saga": "Attenti a quei due",
+            "year": "1971",
+            "tmdb_id": "2543",
+            "genre": ["Azione e Avventura", "Crimine", "Commedia"],
+            "url": "/SERIE-TV/serie/attenti_list.json"
+        },
+        {
+            "plot": "Automan \u00e8 una serie televisiva di fantascienza creata nel 1983 da Glen A. Larson. Si avvicina molto dal punto di vista visivo al film Tron della Disney grazie agli effetti speciali applicati al vestiario e ai mezzi di locomozione legati al protagonista. La serie venne mandata in onda per intero (13 episodi) dapprima su Italia 1 a partire dal 5 gennaio 1985 poi replicata nel 1986; negli anni novanta ne furono trasmessi solo alcuni episodi su Videomusic e successivamente su TMC2.\n\nLa serie \u00e8 composta soltanto da una stagione di tredici episodi della durata di circa 50 minuti perch\u00e9 negli Stati Uniti non ebbe un successo tale da giustificare la produzione di altre stagioni.",
+            "title": "Automan",
+            "saga": "Automan",
+            "year": "1983",
+            "tmdb_id": "12751",
+            "genre": ["Azione e Avventura", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/auto_list.json"
+        },
+        {
+            "plot": "Bayside School (Saved by the Bell), \u00e8 una sitcom andata in onda negli Stati Uniti dal 1989 al 1993, in Italia la serie \u00e8 stata trasmessa da Italia 1 dall'ottobre del 1993 al gennaio del 1994 in fascia tardo-pomeridiana.\n\nLa serie \u00e8 lo spin-off di Good Morning, Miss Bliss, serie poco fortunata, durata 13 puntate e andata in onda dal 1988 al 1989. In Italia la serie \u00e8 stata trasmessa da Rai 2.\n\nBayside School narra le vite di sei adolescenti alle prese con i quattro anni del liceo. Il protagonista Zack Morris (Mark-Paul Gosselaar) (l'unico che ha possibilit\u00e0 di rivolgersi verso la telecamera e \"parlare\" con il pubblico nonch\u00e9 capace di \"fermare il tempo\"), ragazzo biondo e bello \u00e8 innamorato della ragazza pi\u00f9 bella della scuola, Kelly Kapowski (Tiffani-Amber Thiessen), mentre Jessie (Elizabeth Berkley), prova amore e odio verso Slater (Mario Lopez). Il gruppo si completa con Lisa (Lark Voorhies), che vive di abiti firmati e pettegolezzi, e Screech (Dustin Diamond), personaggio buffo e distratto. Sullo sfondo c'\u00e8 il preside della Bayside High, il signor Belding (Dennis Haskins).\n\nLe vicende sono prevalentemente ambientate all'interno del liceo Bayside High di Pacific Palisades e dell'attiguo diner 'The Max' (nella versione italiana chiamato solo il 'Max'). A partire dalla terza stagione, alcuni episodi vengono ambientati anche al di fuori delle mura scolastiche, come in un Country Club di Malib\u00f9, un lussuoso hotel di Palm Desert e il centro commerciale di Pacific Palisades.",
+            "title": "Bayside School",
+            "saga": "Bayside School",
+            "year": "1989",
+            "tmdb_id": "4345",
+            "genre": ["Famiglia", "Commedia"],
+            "url": "/SERIE-TV/serie/bayside_list.json"
+        },
+        {
+            "plot": "Il tenente Mitch Buchannon \u00e8 il caposquadra dei bagnini delle spiagge di Emerald Bay, in Florida, assieme alle due fidate colleghe Stephanie Holden e C.J. Parker. Essendo rimasti liberi tre posti vengono indette delle selezioni, che vengono vinte dal borioso ex campione olimpico di nuoto Matt Brody, dall'intelligente Summer Quinn e dall'imbranato esperto di informatica Ronnie (al suo terzo tentativo e innamorato di C.J.). Nel frattempo giunge ad Emerald Bay la nuova proprietaria dell'esclusivo Huntley Club, Victoria Leeds, su cui pendono delle voci riguardo il fatto che sia a capo del traffico di una pericolosissima droga chiamata \"Flakka\".",
+            "title": "Baywatch",
+            "saga": "Baywatch",
+            "year": "1989",
+            "tmdb_id": "4389",
+            "genre": ["Azione e Avventura", "Dramma"],
+            "url": "/SERIE-TV/serie/baywatch_list.json"
         },
         {
             "plot": "Eliza Dushku interpreta una giovane donna di nome Echo, appartenente ad un gruppo di persone, chiamate \"attivi\" o \"doll\", totalmente controllate dalla misteriosa e segreta organizzazione \"Dollhouse\". Le doll sono in realt\u00e0 giovani di ambo i sessi, fisicamente attraenti e atletici, che si sono sottoposti (si suppone volontariamente) ad un procedimento di totale cancellazione dei ricordi delle loro pregresse esperienze di vita. In conseguenza di tale processo, la loro personalit\u00e0 diviene neutra, infantile, ingenua e quasi del tutto assente. La macchina che produce all'annullamento, e grazie a ci\u00f2, permette inoltre alla societ\u00e0 Dollhouse di imprimere a ciascun attivo sempre nuove e distinte personalit\u00e0, in base alle necessit\u00e0 contingenti dell'organizzazione.",
@@ -20,12 +119,120 @@
             "url": "/SERIE-TV/serie/doll_list.json"
         },
         {
+            "plot": "Il capitano William 'Buck' Rogers, astronauta risvegliatosi nel 2491 dopo una ibernazione nello spazio durata pi\u00f9 di 500 anni, si ritrova in un universo molto diverso da quello che conosceva nel 1987.",
+            "title": "Buck Rogers",
+            "saga": "Buck Rogers",
+            "year": "1979",
+            "tmdb_id": "2443",
+            "genre": ["Sci-Fi & Fantasy"],
+            "url": "/SERIE-TV/serie/buck_list.json"
+        },
+        {
+            "plot": "Belle, intelligenti e ultra-sofisticate, le Charlie's Angels sono tutto ciò che un uomo potrebbe sognare... e molto di più di quanto potrebbero mai gestire! Ricevendo i loro ordini via telefono vivavoce dal loro capo mai visto, Charlie, le Angeli impiegano le loro incomparabili abilità investigative e di combattimento, così come il loro letale fascino femminile, per risolvere anche il più apparentemente insormontabile dei casi.",
+            "title": "Charlie's Angels",
+            "saga": "Charlie's Angels",
+            "year": "1976",
+            "tmdb_id": "3382",
+            "genre": ["Azione e Avventura"],
+            "url": "/SERIE-TV/serie/charlie_list.json"
+        },
+        {
+            "plot": "I genitori Steven e Elyse Keaton, molto innamorati, appartengono alla generazione degli hippy degli anni '60. La madre \u00e8 architetto, mentre il padre lavora per il network televisivo WKS. Essi costituiscono le principali figure di riferimento per i loro figli, ma essendo ancora molto attaccati ai loro ideali, si scontrano con loro, i quali si trovano invece a proprio agio nella societ\u00e0 consumistica degli anni '80. Questa lotta fra gli anni '60 e gli anni '80 \u00e8 intrisa di risate e armi comiche a doppio taglio. Alex \u00e8 un ragazzo conservatore e maniaco per borsa e finanza, amante della razionalit\u00e0, dell'economia e di Richard Nixon, mantenendo comunque sempre la stesse passioni.\n\nMallory, la secondogenita, \u00e8 una ragazza alla moda, carina, un po' superficiale e con la fissa per i vestiti e i centri commerciali; nonostante sia solitamente in litigio con Alex, al momento giusto finir\u00e0 per aiutarlo ad uscire da alcune situazioni imbarazzanti.  Jennifer \u00e8 la sorella minore, la pi\u00f9 tranquilla della famiglia.  A partire dalla quarta serie fa la sua comparsa anche il piccolo Andrew, che viene cresciuto da Alex a propria immagine e somiglianza. Fra gag socio-politiche e monologhi commoventi, nacque cos\u00ec quella che oggi rappresenta una serie di culto e pluripremiata degli anni '80, caratterizzata da un umorismo genuino, ancora oggi valido nonostante i radicali cambiamenti della comicit\u00e0 moderna.",
+            "title": "Casa Keaton",
+            "saga": "Casa Keaton",
+            "year": "1982",
+            "tmdb_id": "496",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "La serie racconta le avventure di due agenti della California Highway Patrol di pattuglia sulle immense Freeway di Los Angeles a bordo delle loro motociclette. Frequenti erano gli inseguimenti e gli incidenti tra pi\u00f9 veicoli causati da banditi in fuga.\n\nI due protagonisti sono il \"macho\" Francis \"Frank\" Llewellyn \"Ponch\" Poncherello e il pi\u00f9 \"equilibrato\" agente Jonathan \"Jon\" Andrew Baker, coordinati dal sergente Joseph Getraer, il comandante burbero del duo.",
+            "title": "CHiPs",
+            "saga": "CHiPs",
+            "year": "1977",
+            "tmdb_id": "509",
+            "genre": ["Drammatico", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/chips_list.json"
+        },
+        {
+            "plot": "Sam, un ex lanciatore dei Red Sox, \u00e8 il proprietario di Cheers, un bar di Boston. Diane \u00e8 una donna bella, intelligente, e un po' snob che si \u00e8 finita a fare la cameriera al Cheers dopo che il suo fidanzato l'ha piantata in asso. Sam e Diane non fanno altro che stuzzicarsi e litigare, ma ovviamente \u00e8 solo un pretesto per nascondere i veri sentimenti che provano.",
+            "title": "Cin Cin",
+            "saga": "Cin Cin",
+            "year": "1982",
+            "tmdb_id": "141",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/cin_list.json"
+        },
+        {
+            "plot": "Colombo (Columbo) \u00e8 una serie televisiva statunitense di genere poliziesco interpretata da Peter Falk e prodotto negli Stati Uniti dal 1968 al 2003. La serie venne premiata quattro volte con l'Emmy Award; vi hanno partecipato molti attori noti quali Leonard Nimoy o Donald Pleasence e alcuni episodi sono stati diretti da famosi registi come Steven Spielberg, Ben Gazzara o Jonathan Demme.\n\nIn Italia \u00e8 esordita il 16 novembre 1974 su TV Koper-Capodistria e tre anni dopo, dal 6 luglio 1977, esordisce anche su Rai 2; qualche anno dopo le nuovi stagioni vennero trasmesse per le prima volta su Rete 4. Nei decenni a seguire \u00e8 stata replicata pi\u00f9 volte, in particolare sui canali Mediaset.",
+            "title": "Colombio",
+            "saga": "Colombio",
+            "year": "1971",
+            "tmdb_id": "873",
+            "genre": ["Crimine", "Drammatico", "Mistero"],
+            "url": "/SERIE-TV/serie/colombo_list.json"
+        },
+        {
+            "plot": "Durante il discorso sullo stato dell'Unione il Campidoglio viene fatto saltare in aria, uccidendo il Presidente, il Vicepresidente e quasi tutti i membri del Congresso e del Gabinetto, nonch\u00e9 dei Giudici della Corte Suprema. L'unico a salvarsi \u00e8 Tom Kirkman, Segretario della Casa e dello Sviluppo Urbano degli Stati Uniti d'America, cio\u00e8 ministro, il quale era stato scelto come \"sopravvissuto designato\" secondo la consuetudine nata durante la guerra fredda di tenere al sicuro almeno uno dei componenti della linea di successione presidenziale quando tutte le principali autorit\u00e0 si riuniscono in uno stesso luogo. Kirkman stava seguendo il discorso con la moglie Alex davanti il televisore quando viene portato di fretta alla Casa Bianca poco dopo l'attacco per assumere le funzione di Presidente.\n\nL'agente dell'FBI Hannah Wells avvia le prime indagini sul luogo dell'attacco, mentre Kirkman \u00e8 chiamato a gestire lo schieramento di navi da guerra iraniane nello stretto di Hormuz e il redattore di discorsi Seth Wright prepara le parole che il nuovo Presidente dovr\u00e0 rivolgere alla Nazione.",
+            "title": "Designated Survivor",
+            "saga": "Designated Survivor",
+            "year": "2016",
+            "tmdb_id": "67026",
+            "genre": ["Dramamtico", "Guerra e Politca"],
+            "url": "/SERIE-TV/serie/designated_list.json"
+        },
+        {
+            "plot": "Nell'agosto del 1939 otto sconosciuti sono invitati in una tenuta arroccata a Soldier Island, un'isola al largo della costa del Devon, dai misteriosi coniugi U.N. Owen, da loro mai conosciuti personalmente. Una volta giunti nel luogo dell'incontro vengono accolti da due domestici appena assunti, Thomas e Ethel Rogers, ma i padroni di casa sono misteriosamente assenti. Mentre gli ospiti cenano e discorrono tra di loro, una voce proveniente da un grammofono incolpa ciascuno dei presenti, inclusi i due domestici, di aver commesso un omicidio.",
+            "title": "Dieci Piccoli Indiani",
+            "saga": "Dieci Piccoli Indiani",
+            "year": "2015",
+            "tmdb_id": "64684",
+            "genre": ["Dramamtico", "Mistero"],
+            "url": "/SERIE-TV/serie/dieci_list.json"
+        },
+        {
+            "plot": "Quando tre adolescenti figli di operai sono ammessi in una delle scuole private pi\u00f9 esclusive della Spagna, lo scontro con i ricchi coetanei sfocia in un omicidio.",
+            "title": "Elite",
+            "saga": "Elite",
+            "year": "2018",
+            "tmdb_id": "76669",
+            "genre": ["Crimine", "Mistero", "Drammatico"],
+            "url": "/SERIE-TV/serie/elite_list.json"
+        },
+        {
+            "plot": "Dramma fantascientifico su un'invasione aliena: un ex insegnante del college diventa il leader di un gruppo di soldati e civili che si ribellano nei confronti di una forza extraterrestre.",
+            "title": "Falling Skies",
+            "saga": "Falling Skies",
+            "year": "2011",
+            "tmdb_id": "34967",
+            "genre": ["Azione e Avventura", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/skies_list.json"
+        },
+        {
+            "plot": "La storia di tre persone non collegate, che lentamente si rendono conto che stanno sognando parti separate di un unico sogno comune.",
+            "title": "Falling Water",
+            "saga": "Falling Water",
+            "year": "2016",
+            "tmdb_id": "66803",
+            "genre": ["Dramma", "Mistero", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/water_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
             "plot": "Sei anni prima che Saul Goodman conosca Walter White. Incontreremo l'uomo che sar\u00e0 conosciuto come Saul Goodman, quando era ancora noto col nome di Jimmy McGill, un avvocato da poco, alla ricerca del suo destino, e che, al momento, cerca di arrivare a fine mese. Lavorando fianco a fianco e, spesso, contro Jimmy McGill, c'\u00e8 il \"tuttofare\" Mike Erhmantraut.",
             "title": "Batter Call Saul",
             "saga": "Batter Call Saul",
             "year": "2015",
             "tmdb_id": "60059",
-            "genre": ["Commedia","Crime","Dramma"],
+            "genre": ["Commedia","Crimine","Drammatico"],
             "url": "/SERIE-TV/serie/saul_list.json"
         },
         {
@@ -61,7 +268,7 @@
             "saga": "Beverly Hills 90210",
             "year": "1990",
             "tmdb_id": "2025",
-            "genre": ["Drama"],
+            "genre": ["Drammatico"],
             "url": "/SERIE-TV/serie/90210_list.json"
         },
         {
@@ -70,7 +277,7 @@
             "saga": "Blindspot",
             "year": "2015",
             "tmdb_id": "62710",
-            "genre": ["Azione","Crime","Drama"],
+            "genre": ["Azione","Crimine","Drammatico"],
             "url": "/SERIE-TV/serie/blind_list.json"
         },
         {
@@ -79,7 +286,7 @@
             "saga": "Breaking Bad - Reazioni collaterali",
             "year": "2008",
             "tmdb_id": "1396",
-            "genre": ["Drama"],
+            "genre": ["Drammatico"],
             "url": "/SERIE-TV/serie/brb_list.json"
         },
         {
@@ -115,7 +322,7 @@
             "saga": "Grey's Anatomy",
             "year": "2005",
             "tmdb_id": "1416",
-            "genre": ["Dramma"],
+            "genre": ["Drammatico"],
             "url": "/SERIE-TV/serie/grey_list.json"
         },
         {
@@ -142,7 +349,7 @@
             "saga": "Heroes",
             "year": "2006",
             "tmdb_id": "1639",
-            "genre": ["Sci-Fi & Fantasy","Dramma"],
+            "genre": ["Sci-Fi & Fantasy","Drammatico"],
             "url": "/SERIE-TV/serie/heroes_list.json"
         },
         {
@@ -169,7 +376,7 @@
             "saga": "La casa di carta",
             "year": "2017",
             "tmdb_id": "71446",
-            "genre": ["Crime","Dramma"],
+            "genre": ["Crimine","Drammatico"],
             "url": "/SERIE-TV/serie/carta_list.json"
         },
         {
@@ -205,16 +412,16 @@
             "saga": "Once Upon a Time",
             "year": "2011",
             "tmdb_id": "39272",
-            "genre": ["Dramma","Sci-Fi & Fantasy"],
+            "genre": ["Drammatico","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/once_list.json"
         },
         {
-            "plot": "Person of Interest \u00e8 un crime ambientato a New York che vede l\u2019ex agente della CIA e presunto cadavere John Reese stringere un\u2019improbabile alleanza con il misterioso miliardario Mr. Finch allo scopo di prevenire crimini in autonomia, all\u2019insaputa delle forze dell\u2019ordine, prima che accadano. A tal proposito Finch ha inventato un software che usa un metodo matematico complicatissimo per riconoscere individui che saranno coinvolti nei pi\u00f9 svariati crimini. Per riuscirci useranno la tecnologia di sorveglianza pi\u00f9 avanzata, le capacit\u00e0 tattiche di Reese e le infinite risorse economiche di Finch.",
+            "plot": "Person of Interest \u00e8 un Crimine ambientato a New York che vede l\u2019ex agente della CIA e presunto cadavere John Reese stringere un\u2019improbabile alleanza con il misterioso miliardario Mr. Finch allo scopo di prevenire crimini in autonomia, all\u2019insaputa delle forze dell\u2019ordine, prima che accadano. A tal proposito Finch ha inventato un software che usa un metodo matematico complicatissimo per riconoscere individui che saranno coinvolti nei pi\u00f9 svariati crimini. Per riuscirci useranno la tecnologia di sorveglianza pi\u00f9 avanzata, le capacit\u00e0 tattiche di Reese e le infinite risorse economiche di Finch.",
             "title": "Person of Interest",
             "saga": "Person of Interest",
             "year": "2011",
             "tmdb_id": "1411",
-            "genre": ["Dramma","Action & Adventure","Crime","Sci-Fi & Fantasy"],
+            "genre": ["Drammatico","Azione e Avventura","Crimine","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/person_list.json"
         },
         {
@@ -232,7 +439,7 @@
             "saga": "Prison Break",
             "year": "2005",
             "tmdb_id": "2288",
-            "genre": ["Action & Adventure","Dramma","Crime"],
+            "genre": ["Azione e Avventura","Drammatico","Crimine"],
             "url": "/SERIE-TV/serie/prison_list.json"
         },
         {
@@ -250,7 +457,7 @@
             "saga": "Sons of Anarchy",
             "year": "2018",
             "tmdb_id": "1409",
-            "genre": ["Crime","Drama"],
+            "genre": ["Crimine","Drammatico"],
             "url": "/SERIE-TV/serie/sons_list.json"
         },
         {
@@ -268,16 +475,16 @@
             "saga": "Stranger Things",
             "year": "2016",
             "tmdb_id": "66732",
-            "genre": ["Mistero","Sci-Fi & Fantasy","Dramma"],
+            "genre": ["Mistero","Sci-Fi & Fantasy","Drammatico"],
             "url": "/SERIE-TV/serie/st_list.json"
         },
         {
-            "plot": "The Boys \u00e8 un anti-superhero drama, basato sull'omonimo fumetto di Garth Ennis e Darick Robertson, prodotto da Seth Rogen ed Evan Goldberg per Prime Video di Amazon. L'irriverente serie, creata da Eric Kripke (Supernatural), segue l'idea secondo la quale i supereroi non possano essere tutti buoni e di nobili intenzioni. Cosa succederebbe, dunque, se usassero i propri poteri e il proprio status per corrompere le autorit\u00e0, scendere a patti con aziende di poco rispetto o perpetrare abusi di ogni tipo? Servirebbe qualcuno per tenerli a bada. Ed \u00e8 qui che entrano in gioco i Boys, un gruppo di guardiani riunitisi per contrastare i Seven, i sette supereroi pagati dall'agenzia multimiliardaria Vought International.",
+            "plot": "The Boys \u00e8 un anti-superhero Drammatico, basato sull'omonimo fumetto di Garth Ennis e Darick Robertson, prodotto da Seth Rogen ed Evan Goldberg per Prime Video di Amazon. L'irriverente serie, creata da Eric Kripke (Supernatural), segue l'idea secondo la quale i supereroi non possano essere tutti buoni e di nobili intenzioni. Cosa succederebbe, dunque, se usassero i propri poteri e il proprio status per corrompere le autorit\u00e0, scendere a patti con aziende di poco rispetto o perpetrare abusi di ogni tipo? Servirebbe qualcuno per tenerli a bada. Ed \u00e8 qui che entrano in gioco i Boys, un gruppo di guardiani riunitisi per contrastare i Seven, i sette supereroi pagati dall'agenzia multimiliardaria Vought International.",
             "title": "The Boys",
             "saga": "The Boys",
             "year": "2019",
             "tmdb_id": "76479",
-            "genre": ["Sci-Fi & Fantasy","Action & Adventure"],
+            "genre": ["Sci-Fi & Fantasy","Azione e Avventura"],
             "url": "/SERIE-TV/serie/boys_list.json"
         },
         {
@@ -290,12 +497,12 @@
             "url": "/SERIE-TV/serie/wars_list.json"
         },
         {
-            "plot": "Rick Grimes \u00e8 un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le lacrime la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, \u00e8 traumatico: l'ospedale \u00e8 distrutto ed \u00e8 pieno di cadaveri. Rick non ci metter\u00e0 molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza \u00e8 sempre minore. Il vice sceriffo sfrutter\u00e0 tutte le sue abilit\u00e0 di sopravvivenza e di capacit\u00e0 con le armi per sopravvivere ed uscire dalla citt\u00e0, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
+            "plot": "Rick Grimes \u00e8 un vice sceriffo vittima di un incidente durante uno scontro a fuoco con dei fuorilegge: colpito alla schiena, va in coma, lasciando tra le laCrimine la moglie Lori e il figlio Carl. Il risveglio, poco tempo dopo, \u00e8 traumatico: l'ospedale \u00e8 distrutto ed \u00e8 pieno di cadaveri. Rick non ci metter\u00e0 molto a capire la situazione: il \"virus\" che sembrava essere controllato prima del suo incidente, ha preso piede. I morti si risvegliano ed attaccano i vivi, la cui presenza \u00e8 sempre minore. Il vice sceriffo sfrutter\u00e0 tutte le sue abilit\u00e0 di sopravvivenza e di capacit\u00e0 con le armi per sopravvivere ed uscire dalla citt\u00e0, trovando altri superstiti rifugiati tra i boschi: tra questi, ritrova la famiglia e il suo migliore amico Shane. Costretti poi a spostarsi, presto si accorgeranno che i veri nemici sono gli altri esseri umani, spinti unicamente dall'istinto di sopravvivenza.",
             "title": "The Walking Dead",
             "saga": "The Walking Dead",
             "year": "2010",
             "tmdb_id": "1402",
-            "genre": ["Action & Adventure","Dramma","Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura","Drammatico","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/twd_list.json"
         },
         {
@@ -304,7 +511,7 @@
             "saga": "Tom Clancy's Jack Ryan",
             "year": "2018",
             "tmdb_id": "73375",
-            "genre": ["Action & Adventure","Dramma","War & Politics"],
+            "genre": ["Azione e Avventura","Drammatico","War & Politics"],
             "url": "/SERIE-TV/serie/ryan_list.json"
         },
         {
@@ -322,26 +529,8 @@
             "saga": "Warrior Nun",
             "year": "2020",
             "tmdb_id": "87689",
-            "genre": ["Action & Adventure","Dramma","Sci-Fi & Fantasy"],
+            "genre": ["Azione e Avventura","Drammatico","Sci-Fi & Fantasy"],
             "url": "/SERIE-TV/serie/nun_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
-        },
-        {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
         }
     ]
 }
