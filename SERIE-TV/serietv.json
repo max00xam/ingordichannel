@@ -106,7 +106,7 @@
             "saga": "Baywatch",
             "year": "1989",
             "tmdb_id": "4389",
-            "genre": ["Azione e Avventura", "Dramma"],
+            "genre": ["Azione e Avventura", "Drammatico"],
             "url": "/SERIE-TV/serie/baywatch_list.json"
         },
         {
@@ -143,7 +143,7 @@
             "year": "1982",
             "tmdb_id": "496",
             "genre": ["Commedia"],
-            "url": "/SERIE-TV/serie/_list.json"
+            "url": "/SERIE-TV/serie/keaton_list.json"
         },
         {
             "plot": "La serie racconta le avventure di due agenti della California Highway Patrol di pattuglia sulle immense Freeway di Los Angeles a bordo delle loro motociclette. Frequenti erano gli inseguimenti e gli incidenti tra pi\u00f9 veicoli causati da banditi in fuga.\n\nI due protagonisti sono il \"macho\" Francis \"Frank\" Llewellyn \"Ponch\" Poncherello e il pi\u00f9 \"equilibrato\" agente Jonathan \"Jon\" Andrew Baker, coordinati dal sergente Joseph Getraer, il comandante burbero del duo.",
@@ -178,7 +178,7 @@
             "saga": "Designated Survivor",
             "year": "2016",
             "tmdb_id": "67026",
-            "genre": ["Dramamtico", "Guerra e Politca"],
+            "genre": ["Drammatico", "Guerra e Politca"],
             "url": "/SERIE-TV/serie/designated_list.json"
         },
         {
@@ -187,7 +187,7 @@
             "saga": "Dieci Piccoli Indiani",
             "year": "2015",
             "tmdb_id": "64684",
-            "genre": ["Dramamtico", "Mistero"],
+            "genre": ["Drammatico", "Mistero"],
             "url": "/SERIE-TV/serie/dieci_list.json"
         },
         {
@@ -214,8 +214,260 @@
             "saga": "Falling Water",
             "year": "2016",
             "tmdb_id": "66803",
-            "genre": ["Dramma", "Mistero", "Fantascienza e Fantasia"],
+            "genre": ["Drammatico", "Mistero", "Fantascienza e Fantasia"],
             "url": "/SERIE-TV/serie/water_list.json"
+        },
+        {
+            "plot": "Due giovani donne, cameriere in una tavola calda, stringono una strana amicizia con la speranza di avviare un\u2019attivit\u00e0 di successo. In attesa di mettere da parte il capitale, Max e Caroline cercano di fare in modo che le loro diversit\u00e0 non compromettano il piano.",
+            "title": "2 Broke Girls",
+            "saga": "2 Broke Girls",
+            "year": "2011",
+            "tmdb_id": "39340",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/girls_list.json"
+        },
+        {
+            "plot": "L\u2019agente Phil Coulson ritorna in attivit\u00e0 per costituire una piccola squadra di agenti altamente qualificati provenienti da ogni parte del pianeta. L\u2019organizzazione, nota come S.H.I.E.L.D., indaga su tutto ci\u00f2 di strano e ignoto avviene nel mondo, proteggendo l\u2019ordinario dallo straordinario. La squadra \u00e8 composta da Grant Ward, addestrato in combattimento e spionaggio; Melinda May, un\u2019abile pilota esperta di arti marziali; Leo Fitz, un brillante ingegnere; e Jemma Simmons, un genio della biochimica. A loro si aggiunge la nuova recluta e hacker Skye.",
+            "title": "Agents of S.H.I.E.L.D.",
+            "saga": "Agents of S.H.I.E.L.D.",
+            "year": "2013",
+            "tmdb_id": "1403",
+            "genre": ["Drammatico", "Fantascienza e Fantasia", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/agents_list.json"
+        },
+        {
+            "plot": "Siamo nel 1946 e la pace ha dato un duro colpo a Peggy Carter che si ritrova emarginata quando gli uomini tornano a casa dopo i combattimenti oltreoceano. Lavorando per la SSR (Strategic Scientific Reserve), Peggy deve trovare un nuovo equilibrio tra il lavoro amministrativo e andare in missioni segrete insieme a Howard Stark; tutto mentre dovr\u00e0 avere a che fare con essere una donna single in America dopo aver recentemente perso l\u2019amore della sua vita, Steve Rogers.\n\nNonostante il responso positivo da parte della critica, la serie ha subito un costante calo di telespettatori, e il 12 maggio 2016 \u00e8 stata ufficialmente cancellata dalla ABC.",
+            "title": "Marvels Agente Carter",
+            "saga": "Marvels Agente Carter",
+            "year": "2015",
+            "tmdb_id": "61550",
+            "genre": ["Drammatico", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/agente_list.json"
+        },
+        {
+            "plot": "Il futuro immaginato da J.J. Abrams nel nuovo \"Almost Human\" \u00e8 in qualche modo alle porte di una societ\u00e0 che cambia. Nel 2048 la scienza ha permesso di affiancare agli agenti del Los Angeles Police Department una serie di androidi del tutto simili agli esseri umani. John Kennex (Karl Urban), detective del dipartimento che si \u00e8 appena risvegliato dal coma dopo un attentato, dal quale riporta disturbi sia fisici che psicologici, si ritrova a pattugliare la citt\u00e0 con il collega androide Dorian (Michael Ealy), dalle inaspettate reazioni emotive.",
+            "title": "Almost Human",
+            "saga": "Almost Human",
+            "year": "2013",
+            "tmdb_id": "51019",
+            "genre": ["Drammatico", "Crimine", "Fantascienza e Fantasia", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/human_list.json"
+        },
+        {
+            "plot": "\u00c8 l'anno 2384, l'identit\u00e0 umana pu\u00f2 essere immagazzinata su di un supporto digitale e trasferibile da un corpo all'altro, permettendo agli esseri umani di sopravvivere alla morte fisica facendo in modo che i loro ricordi e la loro coscienza siano \"inseriti\" in nuovi corpi. Takeshi Kovacs, ex membro di speciali unit\u00e0 militari, viene ucciso e scaricato nel corpo che era in precedenza di Elias Ryker, agente di polizia di Bay City, per volere di Laurens Bancroft, un facoltoso e potente aristocratico dall'et\u00e0 di oltre 360 anni, che si \u00e8 apparentemente suicidato, perdendo tutti i ricordi delle 48 ore antecedenti la morte. L'uomo \u00e8 convinto di non essersi suicidato e ingaggia Takeshi Kovacs per indagare su quello che ritiene un omicidio.",
+            "title": "Altered Carbon",
+            "saga": "Altered Carbon",
+            "year": "2018",
+            "tmdb_id": "68421",
+            "genre": ["Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/carbon_list.json"
+        },
+        {
+            "plot": "Continuum \u00e8 una serie televisiva di fantascienza canadese, prodotta da 2012 al 2015 e trasmessa dal canale Showcase. In Italia la serie ha debuttato sul canale satellitare AXN Sci-Fi il 12 giugno 2013, mentre in chiaro su Rai 4 dal 10 ottobre 2013.\n\nTratta del conflitto tra un gruppo di ribelli-terroristi e una poliziotta che, viaggiando indietro nel tempo, giungono dall'anno 2077 al 2012.",
+            "title": "Continuum",
+            "saga": "Continuum",
+            "year": "2012",
+            "tmdb_id": "43020",
+            "genre": ["Drammatico", "Fantascienza e Fantasia", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/continuum_list.json"
+        },
+        {
+            "plot": "La serie \u00e8 ambientata nella fittizia cittadina montana di Twin Peaks situata nello Stato di Washington, a cinque miglia dal confine tra Stati Uniti e Canada. L'apparente tranquillit\u00e0 di questo frammento di America viene turbata dal ritrovamento del cadavere di Laura Palmer, figlia unica dell'avvocato Leland, nonch\u00e9 una delle ragazze pi\u00f9 popolari della citt\u00e0. Le indagini affidate all'agente speciale Dale Cooper permettono di far affiorare il lato oscuro e nascosto del luogo e dei suoi abitanti.",
+            "title": "I segreti di Twin Peaks",
+            "saga": "I segreti di Twin Peaks",
+            "year": "1990",
+            "tmdb_id": "1920",
+            "genre": ["Drammatico", "Mistero"],
+            "url": "/SERIE-TV/serie/twin_list.json"
+        },
+        {
+            "plot": "Batman è una serie televisiva basata sull'omonimo personaggio dei fumetti e trasmessa dall'ABC dal 12 gennaio 1966 al 14 marzo 1968. La serie si compone complessivamente di 120 episodi suddivisi in tre stagioni e descrive le avventure dell'omonimo personaggio dei fumetti dedito alla lotta al crimine nella città di Gotham City.",
+            "title": "Batman",
+            "saga": "Batman",
+            "year": "1966",
+            "tmdb_id": "138006",
+            "genre": ["Azione e Avventura"],
+            "url": "/SERIE-TV/serie/batman_list.json"
+        },
+        {
+            "plot": "Desperate Housewives \u00e8 una serie televisva americana che descrive le avventure di un gruppo di donne viste con gli occhi della vicina suicidatasi nel primo episodio. La storia si dipana per tredici anni coperti attraverso otto stagioni, iniziate nel 2004 e concluse nel 2012.\n\nLe storie si concentrano sui problemi la vita familiare, inclusivi di crimini segreti e misteri nascosti dietro una superficie di apparente normalit\u00e0 e perfezione.",
+            "title": "Desperate Housewives",
+            "saga": "Desperate Housewives",
+            "year": "2004",
+            "tmdb_id": "693",
+            "genre": ["Mistero", "Drammatico", "Commedia"],
+            "url": "/SERIE-TV/serie/desperate_list.json"
+        },
+        {
+            "plot": "Arriva nella piccola cittadina di Sunnydale Buffy Summers, una giovane ragazza appena trasferitasi con la madre da Los Angeles, citt\u00e0 da cui aveva preferito andarsene dopo l'espulsione dalla scuola che l\u00ec frequentava, a causa dell'incendio che Buffy appicc\u00f2 nella palestra per eliminare dei vampiri. La ragazza, infatti, \u00e8 la prescelta per il ruolo di Cacciatrice, ovvero colei che unica nella sua generazione, ha il dovere di combattere, con la sua straordinaria forza, i demoni che cercano di riscattarsi e riportare la loro supremazia nel mondo. Si accorge ben presto di non essersi affatto lasciata i problemi alle spalle, perch\u00e9 gi\u00e0 il primo giorno delle superiori al Sunnydale High, fa la conoscenza di Rupert Giles, il suo Osservatore, che utilizza il ruolo di bibliotecario del liceo come copertura. A questo punto, per Buffy ricomincia la lotta contro il male, che ha la sua massima concentrazione proprio sotto le fondamenta della scuola, dove si trova la terrificante Bocca dell'Inferno, un portale che sprigionerebbe tutto il male demoniaco sulla Terra e che costituisce l'obiettivo del tanto anziano quanto potente vampiro della zona, chiamato Il Maestro. All'interno della scuola, Buffy stringe una forte amicizia con due compagni, Willow Rosenberg e Xander Harris, tra i pochi a sapere delle doti segrete della Cacciatrice e che l'aiuteranno nell'annientamento del terribile nemico. Di rilievo \u00e8 anche la controversa relazione che Buffy instaura con Angel, un vampiro maledetto con la sua stessa anima, afflitto infatti dal rimpianto delle numerose torture e uccisioni, perpetrate ai danni delle sue vittime. Fa da sfondo alla serie l'esilarante personalit\u00e0 di Cordelia Chase, la ragazza pi\u00f9 popolare del liceo, particolarmente snob e infastidita dallo strano comportamento della compagna Buffy.",
+            "title": "Buffy L'ammazza vampiri",
+            "saga": "Buffy L'ammazza vampiri",
+            "year": "1997",
+            "tmdb_id": "95",
+            "genre": ["Fantascienza e Fantasia", "Commedia", "Drammatico", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/BUFFY_list.json"
+        },
+        {
+            "plot": "Due uomini e mezzo \u00e8 una serie tv ( qui tutte le stagioni in streaming  )trasmessa per la prima volta in america nell'anno 2003 ed ormai giunta alla sua ottava edizione. La trama narra delle avventure di due fratelli, Charlie e Alan, i quali per necessit\u00e0 si trovano a condividere lo stesso tetto, una grande villa sulla spiaggia. I due, per\u00f2, sono molto differenti tra loro , sia per carattere che per stile di vita. Da un lato c'\u00e8 Charlie (proprietario della casa) che di professione fa il compositore musicale per jingle pubblicitari e con un carattere molto estroverso, sicuro di se, estremamente viziato e con un gran successo con il sesso femminile. Dall'altro c'\u00e8 Alan, che di professione fa il chiropratico e che invece sembra essere l'esatto opposto; uomo mite, tranquillo, molto preciso, separato e con un figlio di dieci anni di nome Jake al seguito. I due uomini e mezzo quindi danno vita a storie comiche nelle quali spesso entra prepotentemente anche la madre dei fratelli, Evelyn, una ricca agente immobiliare ma con la quale i due, sia Charlie che Alan, hanno un rapporto conflittuale.",
+            "title": "Due Uomini e Mezzo",
+            "saga": "Due Uomini e Mezzo",
+            "year": "2003",
+            "tmdb_id": "2691",
+            "genre": ["Commedia", "Drammatico"],
+            "url": "/SERIE-TV/serie/mezzo_list.json"
+        },
+        {
+            "plot": "Una serie basata sui celebri romanzi di Isaac Asimov, Fondazione racconta il grandioso viaggio di un gruppo di esiliati con lo scopo di salvare l\u2019umanit\u00e0 e ricostruire la civilt\u00e0 durante la caduta dell\u2019Impero Galattico.",
+            "title": "Fondazione",
+            "saga": "Fondazione",
+            "year": "2021",
+            "tmdb_id": "93740",
+            "genre": ["Drammatico", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/fondazione_list.json"
+        },
+        {
+            "plot": "Friends \u00e8 una sitcom americana trasmessa in USA dal 1994 al 2004. La serie descrive un gruppo di amici (da cui il titolo) del circondario di Manhattan a New York, i loro rapporti e le loro interazioni reciproche.  E' stata una delle serie pi\u00f9 seguite del decennio, la puntata finale \u00e8 stata vista da pi\u00f9 di 52 milioni di persone nei soli Stati Uniti, facendone il quarto finale pi\u00f9 visto di tutti i tempi e il primo dell'ultimo decennio.",
+            "title": "Friends",
+            "saga": "Friends",
+            "year": "1994",
+            "tmdb_id": "1668",
+            "genre": ["Commedia", "Drammatico"],
+            "url": "/SERIE-TV/serie/friends_list.json"
+        },
+        {
+            "plot": "Fury \u00e8 una serie televisiva americana di genere western andata in onda sulla NBC dal 1955 al 1960. Ha come protagonisti Peter Graves nel ruolo di Jim Newton, che gestisce il Broken Wheel Ranch in California; Bobby Diamond nel ruolo del figlio adottivo di Jim, Joey Clark Newton, e William Fawcett nel ruolo del manovale del ranch Pete Wilkey. Roger Mobley fu co-protagonista nelle due stagioni finali come Homer \"Packy\" Lambert, un amico di Joey.\n\nLa frequente introduzione allo show raffigura l'amato stallone che corre all'interno del recinto e si avvicina alla telecamera mentre l'annunciatore legge: \"FURIA!...La storia di un cavallo...e di un ragazzo che lo ama\". Fury \u00e8 la prima serie americana prodotta originariamente da Television Programs of America e successivamente dalla societ\u00e0 britannica ITC Entertainment.",
+            "title": "Furia",
+            "saga": "Furia",
+            "year": "1995",
+            "tmdb_id": "3232",
+            "genre": ["Western", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/furia_list.json"
+        },
+        {
+            "plot": "La serie racconta le avventure di molti personaggi ed \u00e8 ambientata in un grande mondo immaginario costituito principalmente dal continente Occidentale (Westeros) e da quello Orientale (Essos). Il centro pi\u00f9 grande e civilizzato di Westeros \u00e8 la citt\u00e0 capitale Approdo del Re, dove si trova il Trono di Spade dei Sette Regni. La lotta per la conquista del trono porta le pi\u00f9 potenti e nobili famiglie del continente a scontrarsi o allearsi tra loro in un contorto gioco di potere, che coinvolge anche l'ultima discendente della dinastia regnante deposta. Gli intrighi politici, economici e religiosi dei nobili lasciano la popolazione nella povert\u00e0 e nel degrado, mentre il mondo viene minacciato dall'arrivo di un inverno diverso dai precedenti, che risveglia creature leggendarie dimenticate e fa emergere forze oscure e magiche.",
+            "title": "Game of Thrones",
+            "saga": "Game of Thrones",
+            "year": "2011",
+            "tmdb_id": "1399",
+            "genre": ["Fantascienza e Fantasia", "Drammatico", "Azione e Avventura"],
+            "url": "/SERIE-TV/serie/games_list.json"
+        },
+        {
+            "plot": "Georgia, Stati Uniti. Nell'immaginaria contea di Hazzard si susseguono le rocambolesche avventure della famiglia Duke, composta dai giovani cugini Bo, Luke e Daisy e da Jesse, un loro saggio e anziano zio. Nonostante i sani principi di lealt\u00e0 e correttezza, che i Duke hanno sempre messo davanti ad ogni cosa, anche loro, come nella migliore tradizione di molte famiglie del profondo sud, non hanno mai rinunciato alla distillazione clandestina di whisky. Questa debolezza, in passato, \u00e8 stata la causa, per loro, di problemi con la giustizia ed \u00e8 per questo motivo che, Bo e Luke, si trovano ora in libert\u00e0 condizionata.",
+            "title": "Hazzard",
+            "saga": "Hazzard",
+            "year": "1979",
+            "tmdb_id": "397",
+            "genre": ["Drammatico", "Azione e Avventura", "Commedia"],
+            "url": "/SERIE-TV/serie/hazzard_list.json"
+        },
+        {
+            "plot": "How I Met Your Mother racconta la storia di Ted Mosby, un architetto di successo che un bel giorno, nel 2030, decide di raccontare ai suoi figli come ha conosciuto la loro mamma.\n\nInsieme agli amici Lily e Marshall, Barney e Robin, Ted ha vissuto molteplici ed esilaranti avventure quotidiane che racconta alla sua famiglia e a noi, con toni leggeri ma ricchi di piccole e grandi verit\u00e0 sulla vita, l\u2019amicizia, l\u2019amore.",
+            "title": "How I Met Your Mother",
+            "saga": "How I Met Your Mother",
+            "year": "2005",
+            "tmdb_id": "1100",
+            "genre": ["Commedian"],
+            "url": "/SERIE-TV/serie/hmym_list.json"
+        },
+        {
+            "plot": "Sitcom che segue una coppia afro-americana di successo, George e Louise 'Weezyö Jefferson mentre 'salgono' dalla classe operaia del Queens a un appartamento di lusso a Manhattan. Uno spin-off di All in the Family.",
+            "title": "I Jeffersons",
+            "saga": "I Jeffersons",
+            "year": "1975",
+            "tmdb_id": "1964",
+            "genre": ["Commedia"],
+            "url": "/SERIE-TV/serie/jeff_list.json"
+        },
+        {
+            "plot": "La serie narra la vita della famiglia Robinson (Huxtable), residente a New York (precisamente a Brooklyn), composta dal padre Heathcliff \"Cliff\" Robinson, ginecologo, dalla madre Claire, avvocato, e dai cinque figli: Sandra, Denise, Theodore \"Theo\", Vanessa e Rudith \"Rudy\". La serie verte molto sulle battute fulminanti di Bill Cosby ma in generale sui contrasti e sui problemi portati dai figli adolescenti e tocca temi delicati come le gravidanze adolescenziali e il consumo di droghe. Poi la famiglia si allarga con l'arrivo di Olivia (figlia di Martin e della sua ex moglie, poi, in seguito al matrimonio con Martin, di Denise e Martin), i gemelli Winnie e Nelson (di Sandra e Alvin) e Pamela \"Pam\" (cugina di Claire).",
+            "title": "I Robinson",
+            "saga": "I Robinson",
+            "year": "1984",
+            "tmdb_id": "1759",
+            "genre": ["Commedia", "Famiglia"],
+            "url": "/SERIE-TV/serie/robinson_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
+        },
+        {
+            "plot": "",
+            "title": "",
+            "saga": "",
+            "year": "",
+            "tmdb_id": "",
+            "genre": [""],
+            "url": "/SERIE-TV/serie/_list.json"
         },
         {
             "plot": "",

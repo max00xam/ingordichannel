@@ -300,13 +300,13 @@
             "url": "/ANIMAZIONE/anime/watch_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/ANIMAZIONE/anime/101_list.json"
+            "plot": "Firenze, XVI secolo, la culla del Rinascimento, il luogo in cui l'arte fiorisce. In un angolino della citt\u00e0 inizia il viaggio di una ragazza; ella sogna di diventare un'artista, sogno impossibile per una ragazza di famiglia nobile. Di questi tempi l'arte \u00e8 infatti appannaggio degli uomini e le donne si trovano a dover affrontare molte discriminazioni. A dispetto di ci\u00f2, Arte continua ad inseguire il suo sogno con positivit\u00e0.",
+            "title": "Arte",
+            "saga": "Arte",
+            "year": "2021",
+            "tmdb_id": "95697",
+            "genre": ["Animazione", "Drammatico"],
+            "url": "/ANIMAZIONE/anime/arte_list.json"
         },
         {
             "plot": "",

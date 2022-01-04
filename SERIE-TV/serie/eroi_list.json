@@ -2,15 +2,24 @@
     "episodes_list": [
         {
             "file_id": "1149c9ba382a42fe2b6c3dd95a1c1e48",
-            "tvdb_id": "71635",
-            "tmdb_id": 28572,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 1,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Informer",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.001 - The Informer.avi",
-            "year": "1966",
-            "actors": [],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.001 - The Informer.avi",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/1149c9ba382a42fe2b6c3dd95a1c1e48"
@@ -19,15 +28,24 @@
         },
         {
             "file_id": "6dc019406a3a4dfce3c67797ecbf377f",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 2,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Hold That Tiger",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.002 - Hold That Tiger.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.002 - Hold That Tiger.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/6dc019406a3a4dfce3c67797ecbf377f"
@@ -36,15 +54,24 @@
         },
         {
             "file_id": "17235dca06a60402bd73d75a7cc8b526",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 3,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Kommandant of the Year",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.003 - Kommandant of the Year.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.003 - Kommandant of the Year.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/17235dca06a60402bd73d75a7cc8b526"
@@ -53,15 +80,24 @@
         },
         {
             "file_id": "3b5d6c083774ec7ce453d2c0086d2382",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 4,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Late Inspector General",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.004 - The Late Inspector General.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.004 - The Late Inspector General.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/3b5d6c083774ec7ce453d2c0086d2382"
@@ -70,15 +106,24 @@
         },
         {
             "file_id": "b3a8c23076746cf813bdf6ef043c2774",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 5,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Flight of the Valkyrie",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.005 - The Flight of the Valkyrie.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.005 - The Flight of the Valkyrie.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/b3a8c23076746cf813bdf6ef043c2774"
@@ -87,15 +132,24 @@
         },
         {
             "file_id": "242caa7312b75380c0ed7764143ca366",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 6,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Prisoner`s Prisoner",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.006 - The Prisoner`s Prisoner.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.006 - The Prisoner`s Prisoner.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/242caa7312b75380c0ed7764143ca366"
@@ -104,15 +158,24 @@
         },
         {
             "file_id": "077a1a655b224217e9ff0719b010c4de",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 7,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "German Bridge is Falling Down",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.007 - German Bridge is Falling Down.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.007 - German Bridge is Falling Down.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/077a1a655b224217e9ff0719b010c4de"
@@ -121,15 +184,24 @@
         },
         {
             "file_id": "ddc49711cacbd1e27460dcd711aface8",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 8,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Movies Are Your Best Escape",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.008 - Movies Are Your Best Escape.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.008 - Movies Are Your Best Escape.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/ddc49711cacbd1e27460dcd711aface8"
@@ -138,15 +210,24 @@
         },
         {
             "file_id": "85d5838b9879c15277cff118440b01b3",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 9,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Go Light on the Heavy Water",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.009 - Go Light on the Heavy Water.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.009 - Go Light on the Heavy Water.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/85d5838b9879c15277cff118440b01b3"
@@ -155,15 +236,24 @@
         },
         {
             "file_id": "911076e468fa3b3f3c947a353418287a",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 10,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Top Hat, White Tie and Bomb Sights",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.010 - Top Hat, White Tie and Bomb Sights.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.010 - Top Hat, White Tie and Bomb Sights.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/911076e468fa3b3f3c947a353418287a"
@@ -172,15 +262,24 @@
         },
         {
             "file_id": "1d4151062056b6f01d103f15b075e999",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 11,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Happiness is a Warm Sergeant",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.011 - Happiness is a Warm Sergeant.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.011 - Happiness is a Warm Sergeant.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/1d4151062056b6f01d103f15b075e999"
@@ -189,16 +288,24 @@
         },
         {
             "file_id": "f5e019b62bffa57a3fa9733f3059605c",
-            "tvdb_id": "71635",
-            "tmdb_id": 49688,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 12,
-            "genre": ["Documentario"],
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Scientist",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.012 - The Scientist.avi",
-            "year": "2010",
-            "actors": [],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.012 - The Scientist.avi",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f5e019b62bffa57a3fa9733f3059605c"
@@ -207,15 +314,24 @@
         },
         {
             "file_id": "a6ba52753f89fc849e49aeff14240f64",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 13,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Hogan`s Hofbrau",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.013 - Hogan`s Hofbrau.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.013 - Hogan`s Hofbrau.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/a6ba52753f89fc849e49aeff14240f64"
@@ -224,15 +340,24 @@
         },
         {
             "file_id": "85d5661d10a1c5e65d14044362ef7eba",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 14,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Oil for the Lamps of Hogan",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.014 - Oil for the Lamps of Hogan.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.014 - Oil for the Lamps of Hogan.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/85d5661d10a1c5e65d14044362ef7eba"
@@ -241,15 +366,24 @@
         },
         {
             "file_id": "0f950ca0ca8b2366bf031c94caafd2d9",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 15,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Reservations Are Required",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.015 - Reservations Are Required.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.015 - Reservations Are Required.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/0f950ca0ca8b2366bf031c94caafd2d9"
@@ -258,15 +392,24 @@
         },
         {
             "file_id": "537b59c9beb196c10a45268f7c9cd4ae",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 16,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Anchors Aweigh, Men of Stalag 13",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.016 - Anchors Aweigh, Men of Stalag 13.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.016 - Anchors Aweigh, Men of Stalag 13.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/537b59c9beb196c10a45268f7c9cd4ae"
@@ -275,15 +418,24 @@
         },
         {
             "file_id": "94c6a5e923f34be4cfdc8183cc9885dd",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 17,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Happy Birthday, Adolf",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.017 - Happy Birthday, Adolf.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.017 - Happy Birthday, Adolf.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/94c6a5e923f34be4cfdc8183cc9885dd"
@@ -292,15 +444,24 @@
         },
         {
             "file_id": "45196dae6f1979da2eb1dfe3281ae583",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 18,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Gold Rush",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.018 - The Gold Rush.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.018 - The Gold Rush.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/45196dae6f1979da2eb1dfe3281ae583"
@@ -309,16 +470,24 @@
         },
         {
             "file_id": "8ae7fe6321d44b4bc3bd504daeea4b55",
-            "tvdb_id": "71635",
-            "tmdb_id": 10496,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 20,
-            "genre": ["Action & Adventure", "Dramma"],
-            "title": "It Takes a Thief",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.020 - It Takes a Thief... Sometimes.avi",
-            "year": "1968",
-            "actors": ["Robert Wagner"],
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
+            "title": "It Takes a Thief... Sometimes",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.020 - It Takes a Thief... Sometimes.avi",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/8ae7fe6321d44b4bc3bd504daeea4b55"
@@ -327,15 +496,24 @@
         },
         {
             "file_id": "a9d97de3a4671fea0b26b9e80653d5cf",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 21,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Great Impersonation",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.021 - The Great Impersonation.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.021 - The Great Impersonation.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/a9d97de3a4671fea0b26b9e80653d5cf"
@@ -344,15 +522,24 @@
         },
         {
             "file_id": "3776bc723aa0fa5b4d35d686a6301e0e",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 22,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Pizza Parlor",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.022 - The Pizza Parlor.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.022 - The Pizza Parlor.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/3776bc723aa0fa5b4d35d686a6301e0e"
@@ -361,15 +548,24 @@
         },
         {
             "file_id": "ea223ecaa669289c278b3949227e70b6",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 23,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The 43rd, a Moving Story",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.023 - The 43rd, a Moving Story.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.023 - The 43rd, a Moving Story.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/ea223ecaa669289c278b3949227e70b6"
@@ -378,15 +574,24 @@
         },
         {
             "file_id": "b1bea187d21ccc75aac52d67e8eeb312",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 24,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "How to Cook a German Goose by Radar",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.024 - How to Cook a German Goose by Radar.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.024 - How to Cook a German Goose by Radar.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/b1bea187d21ccc75aac52d67e8eeb312"
@@ -395,15 +600,24 @@
         },
         {
             "file_id": "8cef8ef8b89575301afe13b3ee771e6e",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 25,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Psychic Kommandant",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.025 - Psychic Kommandant.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.025 - Psychic Kommandant.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/8cef8ef8b89575301afe13b3ee771e6e"
@@ -412,15 +626,24 @@
         },
         {
             "file_id": "b4c3fced86b610590ee443d9d50948d5",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 26,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Prince from the Phone Company",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.026 - The Prince from the Phone Company.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.026 - The Prince from the Phone Company.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/b4c3fced86b610590ee443d9d50948d5"
@@ -429,15 +652,24 @@
         },
         {
             "file_id": "b16f518b5c72adf964a51d90310e2d9a",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 27,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Safecracker Suite",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.027 - The Safecracker Suite.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.027 - The Safecracker Suite.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/b16f518b5c72adf964a51d90310e2d9a"
@@ -446,15 +678,24 @@
         },
         {
             "file_id": "d1ac3e50be20616ae104a2ef319b3b31",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 28,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "I Look Better in Basic Black",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.028 - I Look Better in Basic Black.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.028 - I Look Better in Basic Black.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/d1ac3e50be20616ae104a2ef319b3b31"
@@ -463,15 +704,24 @@
         },
         {
             "file_id": "b46c5ba69a6fb9c6690d1a4fd8f82057",
-            "tvdb_id": "71635",
-            "tmdb_id": 97098,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 29,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Assassin",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.029 - The Assassin.avi",
-            "year": "1991",
-            "actors": ["Ken Watanabe", "Kunie Tanaka", "Isao Hashizume", "Jun Miho"],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.029 - The Assassin.avi",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/b46c5ba69a6fb9c6690d1a4fd8f82057"
@@ -480,15 +730,24 @@
         },
         {
             "file_id": "92266e6eef92e5a78a99d27515ddd1b2",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 30,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Cupid Comes to Stalag 13",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.030 - Cupid Comes to Stalag 13.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.030 - Cupid Comes to Stalag 13.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/92266e6eef92e5a78a99d27515ddd1b2"
@@ -497,15 +756,24 @@
         },
         {
             "file_id": "3bd7654f49429b7b94b2e4aa4c21922e",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 31,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Flame Grows Higher",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.031 - The Flame Grows Higher.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.031 - The Flame Grows Higher.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/3bd7654f49429b7b94b2e4aa4c21922e"
@@ -514,15 +782,24 @@
         },
         {
             "file_id": "292d7f87f2fc0443a01d4d101ad1ce87",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 1,
             "episode": 32,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Request Permission to Escape",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/1.032 - Request Permission to Escape.avi",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/1.032 - Request Permission to Escape.avi",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/292d7f87f2fc0443a01d4d101ad1ce87"
@@ -531,15 +808,24 @@
         },
         {
             "file_id": "7a92c968f01b1af173b3c8f48efbfbbe",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 1,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Hogan Gives a Birthday Party",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.001 - Hogan Gives a Birthday Party.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.001 - Hogan Gives a Birthday Party.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/7a92c968f01b1af173b3c8f48efbfbbe"
@@ -548,15 +834,24 @@
         },
         {
             "file_id": "19842a1eb6feed02c75899107df102a4",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 2,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Schultz Brigade",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.002 - The Schultz Brigade.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.002 - The Schultz Brigade.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/19842a1eb6feed02c75899107df102a4"
@@ -565,15 +860,24 @@
         },
         {
             "file_id": "1d19394a7a167465aff6d16910b8f719",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 3,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Diamonds in the Rough",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.003 - Diamonds in the Rough.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.003 - Diamonds in the Rough.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/1d19394a7a167465aff6d16910b8f719"
@@ -582,15 +886,24 @@
         },
         {
             "file_id": "49654f94086bb4a01f4064e7f4fd4659",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 4,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Operation Briefcase",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.004 - Operation Briefcase.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.004 - Operation Briefcase.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/49654f94086bb4a01f4064e7f4fd4659"
@@ -599,15 +912,24 @@
         },
         {
             "file_id": "543f90688cdc5b9885ce30868b7d031a",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 5,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Battle of Stalag 13",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.005 - The Battle of Stalag 13.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.005 - The Battle of Stalag 13.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/543f90688cdc5b9885ce30868b7d031a"
@@ -616,15 +938,24 @@
         },
         {
             "file_id": "c4b0fa188d41b42629fbc32bf35d03f2",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 6,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Rise and Fall of Sergeant Schultz",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.006 - The Rise and Fall of Sergeant Schultz.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.006 - The Rise and Fall of Sergeant Schultz.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/c4b0fa188d41b42629fbc32bf35d03f2"
@@ -633,15 +964,24 @@
         },
         {
             "file_id": "f98dd0a7ca5d64b7728996afa0ea8eb4",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 7,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Hogan Springs",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.007 - Hogan Springs.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.007 - Hogan Springs.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f98dd0a7ca5d64b7728996afa0ea8eb4"
@@ -650,15 +990,24 @@
         },
         {
             "file_id": "1cce45e761cfaef6c3afeb43b8be809d",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 8,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "A Klink, a Bomb and a Short Fuse",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.008 - A Klink, a Bomb and a Short Fuse.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.008 - A Klink, a Bomb and a Short Fuse.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/1cce45e761cfaef6c3afeb43b8be809d"
@@ -667,15 +1016,24 @@
         },
         {
             "file_id": "9ecf1d3e529dbc03cfdc908245a35ba2",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 9,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Tanks for the Memory",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.009 - Tanks for the Memory.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.009 - Tanks for the Memory.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/9ecf1d3e529dbc03cfdc908245a35ba2"
@@ -684,15 +1042,24 @@
         },
         {
             "file_id": "f542d2bd388a27e63eb35d9683f97105",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 10,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "A Tiger Hunt in Paris",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.010 - A Tiger Hunt in Paris (1).mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.010 - A Tiger Hunt in Paris (1).mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f542d2bd388a27e63eb35d9683f97105"
@@ -701,15 +1068,24 @@
         },
         {
             "file_id": "9a7f6059e1921584f0afd3104b5659dc",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 11,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "A Tiger Hunt in Paris",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.011 - A Tiger Hunt in Paris (2).mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.011 - A Tiger Hunt in Paris (2).mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/9a7f6059e1921584f0afd3104b5659dc"
@@ -718,15 +1094,24 @@
         },
         {
             "file_id": "f72a73edcd2d2df914fcaeee689b7963",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 12,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Will the Real Adolf Please Stand Up",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.012 - Will the Real Adolf Please Stand Up.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.012 - Will the Real Adolf Please Stand Up.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f72a73edcd2d2df914fcaeee689b7963"
@@ -735,16 +1120,24 @@
         },
         {
             "file_id": "f8c210bcd65e1ae965d73c2352e2507f",
-            "tvdb_id": "71635",
-            "tmdb_id": 29621,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 13,
-            "genre": ["Commedia"],
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Don`t Forget to Write",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.013 - Don`t Forget to Write.mp4",
-            "year": -1,
-            "actors": [],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.013 - Don`t Forget to Write.mp4",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f8c210bcd65e1ae965d73c2352e2507f"
@@ -753,15 +1146,24 @@
         },
         {
             "file_id": "aa20d9747513f8f7f64e5b453a5979ed",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 14,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Klink`s Rocket",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.014 - Klink`s Rocket.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.014 - Klink`s Rocket.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/aa20d9747513f8f7f64e5b453a5979ed"
@@ -770,15 +1172,24 @@
         },
         {
             "file_id": "6eb458ac002e849389612ed676130191",
-            "tvdb_id": "71635",
-            "tmdb_id": 32068,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 15,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Information Please",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.015 - Information Please.mp4",
-            "year": -1,
-            "actors": [],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.015 - Information Please.mp4",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/6eb458ac002e849389612ed676130191"
@@ -787,15 +1198,24 @@
         },
         {
             "file_id": "84adb390e5628d7631428044166bc6c5",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 16,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Art for Hogan`s Sake",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.016 - Art for Hogan`s Sake.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.016 - Art for Hogan`s Sake.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/84adb390e5628d7631428044166bc6c5"
@@ -804,15 +1224,24 @@
         },
         {
             "file_id": "0de0d95a60146debd42b606034dc6965",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 17,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The General Swap",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.017 - The General Swap.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.017 - The General Swap.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/0de0d95a60146debd42b606034dc6965"
@@ -821,15 +1250,24 @@
         },
         {
             "file_id": "ef29af5a205466b20186ebebe113ac03",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 18,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Great Brinksmeyer Robbery",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.018 - The Great Brinksmeyer Robbery.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.018 - The Great Brinksmeyer Robbery.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/ef29af5a205466b20186ebebe113ac03"
@@ -838,15 +1276,24 @@
         },
         {
             "file_id": "4eb750b7ab1185a9f92ad7101a9cd802",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 19,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Praise the F\u00fchrer and Pass the Ammunition",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.019 - Praise the F\u00fchrer and Pass the Ammunition.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.019 - Praise the F\u00fchrer and Pass the Ammunition.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/4eb750b7ab1185a9f92ad7101a9cd802"
@@ -855,15 +1302,24 @@
         },
         {
             "file_id": "4ee56fb3dee815eb8fc54feffcbf23c4",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 20,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Hogan and the Lady Doctor",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.020 - Hogan and the Lady Doctor.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.020 - Hogan and the Lady Doctor.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/4ee56fb3dee815eb8fc54feffcbf23c4"
@@ -872,15 +1328,24 @@
         },
         {
             "file_id": "69442103cce75ab6873ed625856aa80a",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 21,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Swing Shift",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.021 - The Swing Shift.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.021 - The Swing Shift.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/69442103cce75ab6873ed625856aa80a"
@@ -889,15 +1354,24 @@
         },
         {
             "file_id": "e3900219b5ba9e223a9e9bc297379a7b",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 22,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Heil Klink",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.022 - Heil Klink.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.022 - Heil Klink.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/e3900219b5ba9e223a9e9bc297379a7b"
@@ -906,15 +1380,24 @@
         },
         {
             "file_id": "f001e5ea6786defc3cd74ab12d4b63b7",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 23,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Everyone Has a Brother-in-Law",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.023 - Everyone Has a Brother-in-Law.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.023 - Everyone Has a Brother-in-Law.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f001e5ea6786defc3cd74ab12d4b63b7"
@@ -923,15 +1406,24 @@
         },
         {
             "file_id": "12426473920f2e9074c15d919df04a61",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 24,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Killer Klink",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.024 - Killer Klink.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.024 - Killer Klink.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/12426473920f2e9074c15d919df04a61"
@@ -940,15 +1432,24 @@
         },
         {
             "file_id": "47760eb5035f4abc9b1271ab4361b301",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 25,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Reverend Kommandant Klink",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.025 - Reverend Kommandant Klink.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.025 - Reverend Kommandant Klink.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/47760eb5035f4abc9b1271ab4361b301"
@@ -957,15 +1458,24 @@
         },
         {
             "file_id": "f20b97b4c4bf6bd6c4e0b5a1d04a7502",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 26,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Most Escape-Proof Prison Camp I`ve Ever Escaped From",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.026 - The Most Escape-Proof Prison Camp I`ve Ever Escaped From.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.026 - The Most Escape-Proof Prison Camp I`ve Ever Escaped From.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/f20b97b4c4bf6bd6c4e0b5a1d04a7502"
@@ -974,17 +1484,24 @@
         },
         {
             "file_id": "41d7e0e0ca9e5bcd528172bae09e90bd",
-            "tvdb_id": "71635",
-            "tmdb_id": 70721,
+            "imdb_id": -1,
+            "tvdb_id": -1,
+            "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 27,
-            "genre": ["Dramma", "War & Politics"],
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Tower",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.027 - The Tower.mp4",
-            "year": "2018",
-            "director": ["Ali Selim", "John Dahl", "Craig Zisk", "Michael Slovis", "Alex Gibney"],
-            "actors": ["Jeff Daniels", "Tahar Rahim", "Peter Sarsgaard", "Wrenn Schmidt", "Bill Camp", "Louis Cancelmi", "Jamie Neumann", "Sullivan Jones", "Ella Rae Peck", "Annie Parisse", "Virginia Kull", "Michael Stuhlbarg", "Alec Baldwin", "Yul Vazquez", "Dhaffer L'Abidine"],
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.027 - The Tower.mp4",
+            "year": "1965",
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/41d7e0e0ca9e5bcd528172bae09e90bd"
@@ -993,15 +1510,24 @@
         },
         {
             "file_id": "9469e9a22b2cf19971d839522d45fd96",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 28,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "Colonel Klink`s Secret Weapon",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.028 - Colonel Klink`s Secret Weapon.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.028 - Colonel Klink`s Secret Weapon.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/9469e9a22b2cf19971d839522d45fd96"
@@ -1010,15 +1536,24 @@
         },
         {
             "file_id": "0150a690e3be63960456ca121b68471c",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 29,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Top Secret Top Coat",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.029 - The Top Secret Top Coat.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.029 - The Top Secret Top Coat.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/0150a690e3be63960456ca121b68471c"
@@ -1027,15 +1562,24 @@
         },
         {
             "file_id": "72ec09230c20df4fbe3eb3ba9388fab9",
-            "tvdb_id": "71635",
+            "imdb_id": -1,
+            "tvdb_id": -1,
             "tmdb_id": 4068,
             "saga": "Gli Eroi di Hogan",
             "season": 2,
             "episode": 30,
+            "genre": [
+                "War & Politics", "Commedia"
+            ],
             "title": "The Reluctant Target",
-            "fname": "/SerieTV/Gli Eroi di Hogan [b71635]/2.030 - The Reluctant Target.mp4",
+            "fname": "/SerieTV/Gli Eroi di Hogan [a4068]/2.030 - The Reluctant Target.mp4",
             "year": "1965",
-            "actors": ["Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"],
+            "plot": "Hogan's Heroes \u00e8 una sitcom televisiva americana andata in onda per 168 episodi dal 17 settembre 1965 al 4 luglio 1971 sulla rete CBS. Lo show era ambientato in un campo di prigionieri di guerra tedeschi durante la seconda guerra mondiale. Bob Crane interpretava il colonnello Robert E. Hogan, che coordinava una squadra internazionale di prigionieri alleati che gestiva un gruppo di operazioni speciali dal campo. Werner Klemperer interpretava il colonnello Wilhelm Klink, il comandante del campo, e John Banner era l'inetto sergente di guardia, Hans Schultz.\n\nLa serie \u00e8 stata popolare durante le sue sei stagioni. Nel 2013, i creatori Bernard Fein attraverso il suo patrimonio e Albert S. Ruddy hanno acquistato il sequel e altri diritti separati di Hogan's Heroes da Mark Cuban attraverso un arbitrato e un film basato sullo show \u00e8 stato pianificato.",
+            "director": [],
+            "actors": [
+                "Bob Crane", "Richard Dawson", "Robert Clary", "Larry Hovis", "Kenneth Washington", "Werner Klemperer", "John Banner"
+            ],
+            "poster": "/mZKGzq3nblFMmsQ45muvN3MhrJL.jpg",
             "links": [
                 {
                     "url": "http://51.77.159.233:30299/72ec09230c20df4fbe3eb3ba9388fab9"
