@@ -389,31 +389,31 @@
             "url": "/SERIE-TV/serie/robinson_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "Anni dopo gli orrori di Raccoon City, Leon e Claire sono travolti da un oscuro complotto quando un attacco virale colpisce la Casa Bianca.",
+            "title": "Resident Evil Infinite Darkness",
+            "saga": "Resident Evil Infinite Darkness",
+            "year": "2021",
+            "tmdb_id": "110642",
+            "genre": ["Animazione", "Drammatico", "Azione e Avventura", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/resident_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "La storia narra le disavventure di un gruppo di liceali che vivono nella citt\u00e0 di Tomobiki dove frequentano l'omonimo Liceo. Un bel giorno un\u2019astronave carica di Oni arriva dallo spazio per conquistare la Terra offrendo agli umani un\u2019unica possibilit\u00e0 di salvezza: se un essere umano, scelto a caso da un computer, riuscir\u00e0 a toccare le corna di Lam\u00f9 (la bellissima figlia del re degli Oni, che indossa soltanto un bikini tigrato) entro dieci giorni il pianeta sar\u00e0 salvo. La scelta cade su Ataru Moroboshi, un liceale sguaiato e donnaiolo che risulta molto interessato all'offerta di dover \u201ctoccare\u201d la bella Lam\u00f9. Durante il duello per\u00f2 Lam\u00f9 lascia tutti a bocca spiccando letteralmente il volo, il che manda a monte qualsiasi tentativo di Ataru di toccarle le corna.",
+            "title": "Lam\u00f9",
+            "saga": "Lam\u00f9",
+            "year": "1981",
+            "tmdb_id": "34163",
+            "genre": ["Animazione", "Commedia", "Fantascienza e Fantasia"],
+            "url": "/SERIE-TV/serie/lamu_list.json"
         },
         {
-            "plot": "",
-            "title": "",
-            "saga": "",
-            "year": "",
-            "tmdb_id": "",
-            "genre": [""],
-            "url": "/SERIE-TV/serie/_list.json"
+            "plot": "Fai un Pixar-spuntino veloce! Questa raccolta di mini cortometraggi vede protagonisti i tuoi personaggi preferiti in nuovissime storie di dimensioni ridotte. Creato direttamente dagli animatori Pixar, come veloce assaggio di Pixar-divertimento.",
+            "title": "Pixar Popcorn",
+            "saga": "Pixar Popcorn",
+            "year": "2021",
+            "tmdb_id": "114505",
+            "genre": ["Animazione", "Commedia", "Famiglia"],
+            "url": "/SERIE-TV/serie/pixar_list.json"
         },
         {
             "plot": "",
