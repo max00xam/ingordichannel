@@ -1,0 +1,19 @@
+{
+  "channel_name": "prova",
+  "fanart":"/Immagini/Ingordi.jpg",
+  "thumbnail": "/Immagini/Ingordi.jpg",
+  "menu": [
+       {
+  "movies_list": [
+    {
+      "title": "L'alba dei morti dementi",
+      "year": "2004",
+      "tmdb_id": "747",
+      "links": [
+        {
+          "url": "https://gounlimited.to/ryynr8xsn0hf/L",
+          "quality":"hd"
+        }
+      ]
+    }]
+}
